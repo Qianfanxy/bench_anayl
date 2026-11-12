@@ -1,0 +1,103 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "390×844",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "text×7",
+        "rectangle×7",
+        "frame×4",
+        "instance×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "Soft canvas",
+        "Illustration halo",
+        "PAYMENT WALLET",
+        "Pay Manage Grow…",
+        "Illustration_Onboarding",
+        "An easy app to manage al"
+      ]
+    },
+    {
+      "name": "02_Phone_Number",
+      "size": "390×844",
+      "nodes": 64,
+      "max_depth": 4,
+      "instances": 6,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "text×29",
+        "frame×21",
+        "rectangle×7",
+        "instance×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Soft canvas",
+        "Illustration halo",
+        "PAYMENT WALLET",
+        "Pay Manage Grow…",
+        "Illustration_Onboarding",
+        "An easy app to manage al"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "390×844",
+      "nodes": 107,
+      "max_depth": 4,
+      "instances": 18,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "vector×31",
+        "text×29",
+        "frame×20",
+        "instance×18",
+        "rectangle×7",
+        "group×1"
+      ],
+      "names": [
+        "Avatar_Hallie_Goebel",
+        "Search people",
+        "Icon_Search",
+        "Vector",
+        "Pay by name or phone",
+        "Icon_History"
+      ]
+    },
+    {
+      "name": "04_Menu",
+      "size": "390×844",
+      "nodes": 154,
+      "max_depth": 4,
+      "instances": 27,
+      "texts": 38,
+      "images": 0,
+      "types": [
+        "vector×41",
+        "text×38",
+        "frame×31",
+        "instance×27",
+        "rectangle×14",
+        "ellipse×2"
+      ],
+      "names": [
+        "Avatar_Hallie_Goebel",
+        "Search people",
+        "Icon_Search",
+        "Vector",
+        "Pay by name or phone",
+        "Icon_History"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "board_count": 3,
+  "boards": [
+    {
+      "name": "01_Expenses",
+      "size": "375×812",
+      "nodes": 104,
+      "max_depth": 3,
+      "instances": 25,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "text×35",
+        "instance×25",
+        "rectangle×23",
+        "vector×18",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "02_Bill",
+      "size": "375×812",
+      "nodes": 91,
+      "max_depth": 6,
+      "instances": 24,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "instance×24",
+        "vector×24",
+        "text×21",
+        "rectangle×10",
+        "group×9",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "03_Credit_Score",
+      "size": "375×812",
+      "nodes": 68,
+      "max_depth": 3,
+      "instances": 16,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "instance×16",
+        "rectangle×12",
+        "vector×11",
+        "ellipse×3",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    }
+  ]
+}

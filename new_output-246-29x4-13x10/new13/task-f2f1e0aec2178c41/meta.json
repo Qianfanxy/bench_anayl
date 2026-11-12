@@ -1,0 +1,15 @@
+{
+  "task_id": "task-f2f1e0aec2178c41",
+  "cohort": "new13",
+  "title": "Placoo Rental",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "hM3E8Y6nKRiAvZbSlnRJKK",
+  "url": "https://www.figma.com/design/hM3E8Y6nKRiAvZbSlnRJKK",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-f2f1e0aec2178c41",
+  "score_status": "completed",
+  "score_total": 30,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-6b37bf1048b5e412",
+  "cohort": "new13",
+  "title": "Cyber Phone Store",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "N7oS6OcUxPxwVE0YoYgl1v",
+  "url": "https://www.figma.com/design/N7oS6OcUxPxwVE0YoYgl1v",
+  "expected_frames": null,
+  "inference_status": "failed",
+  "run_dir_basename": "task-6b37bf1048b5e412",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

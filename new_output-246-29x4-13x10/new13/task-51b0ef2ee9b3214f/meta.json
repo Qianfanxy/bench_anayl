@@ -1,0 +1,15 @@
+{
+  "task_id": "task-51b0ef2ee9b3214f",
+  "cohort": "new13",
+  "title": "Self Care Clinic",
+  "model_id": "model_claude_opus55_direct",
+  "model_name": "Opus 5.5（三方A）",
+  "file_key": "2ZgNzvHwkDLibFPyYene1j",
+  "url": "https://www.figma.com/design/2ZgNzvHwkDLibFPyYene1j",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-51b0ef2ee9b3214f",
+  "score_status": "completed",
+  "score_total": 42,
+  "other_score_revisions": []
+}

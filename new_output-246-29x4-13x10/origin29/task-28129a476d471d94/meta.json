@@ -1,0 +1,15 @@
+{
+  "task_id": "task-28129a476d471d94",
+  "cohort": "origin29",
+  "title": "Deniz Arslan 3D Portfolio",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "qmwCr0odjzqnSojBhVu73x",
+  "url": "https://www.figma.com/design/qmwCr0odjzqnSojBhVu73x",
+  "expected_frames": 2,
+  "inference_status": "failed",
+  "run_dir_basename": "task-28129a476d471d94",
+  "score_status": "completed",
+  "score_total": 45,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-1ab039351e941322",
+  "cohort": "new13",
+  "title": "Run & Earn",
+  "model_id": "model_de5fc4c9cdb841e8",
+  "model_name": "gpt-6-astra",
+  "file_key": "9dBSFmNFvFrby1lK5XG9qv",
+  "url": "https://www.figma.com/design/9dBSFmNFvFrby1lK5XG9qv",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-1ab039351e941322",
+  "score_status": "completed",
+  "score_total": 41,
+  "other_score_revisions": []
+}

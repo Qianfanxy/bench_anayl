@@ -1,0 +1,15 @@
+{
+  "task_id": "task-11c54a2f10a48e92",
+  "cohort": "new13",
+  "title": "Fyrre Magazine",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "lHiyJhgLdXoFHUOp2ooFzM",
+  "url": "https://www.figma.com/design/lHiyJhgLdXoFHUOp2ooFzM",
+  "expected_frames": 7,
+  "inference_status": "success",
+  "run_dir_basename": "task-11c54a2f10a48e92",
+  "score_status": "completed",
+  "score_total": 49,
+  "other_score_revisions": []
+}

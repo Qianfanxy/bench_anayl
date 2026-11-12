@@ -1,0 +1,15 @@
+{
+  "task_id": "task-6ba35993d2dfe5f9",
+  "cohort": "new13",
+  "title": "Magic Coffee",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "EeF4K7i4wTIuERiDZaAtUm",
+  "url": "https://www.figma.com/design/EeF4K7i4wTIuERiDZaAtUm",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-6ba35993d2dfe5f9",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

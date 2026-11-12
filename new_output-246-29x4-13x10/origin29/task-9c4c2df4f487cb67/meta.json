@@ -1,0 +1,15 @@
+{
+  "task_id": "task-9c4c2df4f487cb67",
+  "cohort": "origin29",
+  "title": "Shop.co",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "bNt6HIdvAgCSuCG7WR0n2b",
+  "url": "https://www.figma.com/design/bNt6HIdvAgCSuCG7WR0n2b",
+  "expected_frames": 4,
+  "inference_status": "failed",
+  "run_dir_basename": "task-9c4c2df4f487cb67--restart-20261110-095732",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

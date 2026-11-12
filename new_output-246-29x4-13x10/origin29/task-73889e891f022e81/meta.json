@@ -1,0 +1,15 @@
+{
+  "task_id": "task-73889e891f022e81",
+  "cohort": "origin29",
+  "title": "Foodwagon",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "szrG5mXK7bJvICNlAPewzs",
+  "url": "https://www.figma.com/design/szrG5mXK7bJvICNlAPewzs",
+  "expected_frames": 1,
+  "inference_status": "success",
+  "run_dir_basename": "task-73889e891f022e81",
+  "score_status": "completed",
+  "score_total": 47,
+  "other_score_revisions": []
+}

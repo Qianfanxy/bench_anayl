@@ -1,0 +1,15 @@
+{
+  "task_id": "task-43629e767342ad3a",
+  "cohort": "origin29",
+  "title": "Nectar",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "8q24Ym9aVhqRUANUdE7a4C",
+  "url": "https://www.figma.com/design/8q24Ym9aVhqRUANUdE7a4C",
+  "expected_frames": 12,
+  "inference_status": "success",
+  "run_dir_basename": "task-43629e767342ad3a",
+  "score_status": "completed",
+  "score_total": 40,
+  "other_score_revisions": []
+}

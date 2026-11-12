@@ -1,0 +1,15 @@
+{
+  "task_id": "task-728182cda34e30df",
+  "cohort": "new13",
+  "title": "Magic Coffee",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "jdF1cA49uvr8AQY2zTc7ml",
+  "url": "https://www.figma.com/design/jdF1cA49uvr8AQY2zTc7ml",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-728182cda34e30df--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 30,
+  "other_score_revisions": []
+}

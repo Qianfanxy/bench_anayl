@@ -1,0 +1,15 @@
+{
+  "task_id": "task-0f648af3d93f19dc",
+  "cohort": "new13",
+  "title": "Magic Coffee",
+  "model_id": "model_claude_opus55_direct",
+  "model_name": "Opus 5.5（三方A）",
+  "file_key": "koqOtdT9AINBxfzXKsZgQI",
+  "url": "https://www.figma.com/design/koqOtdT9AINBxfzXKsZgQI",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-0f648af3d93f19dc",
+  "score_status": "completed",
+  "score_total": 44,
+  "other_score_revisions": []
+}

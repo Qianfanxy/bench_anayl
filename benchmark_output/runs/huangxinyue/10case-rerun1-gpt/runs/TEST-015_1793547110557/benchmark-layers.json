@@ -1,0 +1,154 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "instance×5",
+        "text×3",
+        "frame×3",
+        "ellipse×1",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "375×812",
+      "nodes": 65,
+      "max_depth": 3,
+      "instances": 13,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "frame×16",
+        "instance×13",
+        "rectangle×7",
+        "vector×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "03_Wallet",
+      "size": "375×812",
+      "nodes": 64,
+      "max_depth": 4,
+      "instances": 17,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "text×22",
+        "instance×17",
+        "frame×14",
+        "rectangle×7",
+        "vector×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "04_Add_Card",
+      "size": "375×812",
+      "nodes": 125,
+      "max_depth": 5,
+      "instances": 32,
+      "texts": 36,
+      "images": 0,
+      "types": [
+        "text×36",
+        "instance×32",
+        "frame×25",
+        "rectangle×15",
+        "vector×15",
+        "ellipse×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "05_Payment",
+      "size": "375×812",
+      "nodes": 41,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "instance×10",
+        "rectangle×7",
+        "frame×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "06_Receipt",
+      "size": "375×812",
+      "nodes": 112,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "vector×50",
+        "frame×34",
+        "text×14",
+        "rectangle×7",
+        "instance×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    }
+  ]
+}

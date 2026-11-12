@@ -1,0 +1,15 @@
+{
+  "task_id": "task-5b93330d65e01ea0",
+  "cohort": "new13",
+  "title": "Audio Shop",
+  "model_id": "model_claude_fable51_login",
+  "model_name": "Fable 5.1",
+  "file_key": "EhuH6LXxxXggkbodKlQmIL",
+  "url": "https://www.figma.com/design/EhuH6LXxxXggkbodKlQmIL",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-5b93330d65e01ea0",
+  "score_status": "completed",
+  "score_total": 40,
+  "other_score_revisions": []
+}

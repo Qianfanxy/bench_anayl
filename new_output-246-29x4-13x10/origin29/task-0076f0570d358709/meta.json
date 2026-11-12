@@ -1,0 +1,15 @@
+{
+  "task_id": "task-0076f0570d358709",
+  "cohort": "origin29",
+  "title": "Expenio",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "FVy3Xx59L7kpZcncyOMYln",
+  "url": "https://www.figma.com/design/FVy3Xx59L7kpZcncyOMYln",
+  "expected_frames": 6,
+  "inference_status": "failed",
+  "run_dir_basename": "task-0076f0570d358709",
+  "score_status": "completed",
+  "score_total": 43,
+  "other_score_revisions": []
+}

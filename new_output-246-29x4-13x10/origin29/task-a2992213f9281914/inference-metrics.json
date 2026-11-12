@@ -1,0 +1,22 @@
+{
+  "task_id": "task-a2992213f9281914",
+  "title": "Paradise Invest",
+  "model_id": "model_qwen38_max_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 4983.262,
+  "inference_duration_seconds": 4983.262,
+  "input_tokens": 5690554,
+  "output_tokens": 107042,
+  "total_tokens": 5797596,
+  "cached_input_tokens": 5096320,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 146,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 146,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-a2992213f9281914/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

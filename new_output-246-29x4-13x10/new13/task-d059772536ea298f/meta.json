@@ -1,0 +1,15 @@
+{
+  "task_id": "task-d059772536ea298f",
+  "cohort": "new13",
+  "title": "Inkline Blog",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "wULlM0YBFjOBpgKcQLm5s7",
+  "url": "https://www.figma.com/design/wULlM0YBFjOBpgKcQLm5s7",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-d059772536ea298f",
+  "score_status": "completed",
+  "score_total": 40,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-5989afafb4df54b4",
+  "cohort": "new13",
+  "title": "Hawkeye Travel",
+  "model_id": "model_glm_53_flash_cc",
+  "model_name": "GLM-5.3 Flash",
+  "file_key": "yTGok88mnJUfUpKYdWqGZa",
+  "url": "https://www.figma.com/design/yTGok88mnJUfUpKYdWqGZa",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-5989afafb4df54b4",
+  "score_status": "completed",
+  "score_total": 35,
+  "other_score_revisions": []
+}

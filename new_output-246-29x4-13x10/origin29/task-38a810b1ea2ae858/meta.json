@@ -1,0 +1,15 @@
+{
+  "task_id": "task-38a810b1ea2ae858",
+  "cohort": "origin29",
+  "title": "Octom",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "K2XVKSIogZ8EZgowJY8LR4",
+  "url": "https://www.figma.com/design/K2XVKSIogZ8EZgowJY8LR4",
+  "expected_frames": 6,
+  "inference_status": "running",
+  "run_dir_basename": "task-38a810b1ea2ae858--origin29-qd-resume-20261111-172441",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

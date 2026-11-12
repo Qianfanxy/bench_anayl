@@ -1,0 +1,17 @@
+{
+  "task_id": "task-bced9700dcfa3850",
+  "cohort": "origin29",
+  "title": "Fasco",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "1FdYsTGU9kfvMD5aXSgyYI",
+  "url": "https://www.figma.com/design/1FdYsTGU9kfvMD5aXSgyYI",
+  "expected_frames": 11,
+  "inference_status": "failed",
+  "run_dir_basename": "task-bced9700dcfa3850--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 32,
+  "other_score_revisions": [
+    "task-bced9700dcfa3850-0aba088354a0d480abeb"
+  ]
+}

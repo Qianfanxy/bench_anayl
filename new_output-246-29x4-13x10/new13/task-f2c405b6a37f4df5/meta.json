@@ -1,0 +1,15 @@
+{
+  "task_id": "task-f2c405b6a37f4df5",
+  "cohort": "new13",
+  "title": "Placoo Rental",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "QIzfhHceo3GQ6mQHWMWYlr",
+  "url": "https://www.figma.com/design/QIzfhHceo3GQ6mQHWMWYlr",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-f2c405b6a37f4df5",
+  "score_status": "completed",
+  "score_total": 44,
+  "other_score_revisions": []
+}

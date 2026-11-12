@@ -1,0 +1,15 @@
+{
+  "task_id": "task-c20c11b02e8c8a3c",
+  "cohort": "new13",
+  "title": "Run & Earn",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "REaEMNTS5b1JF383okVnK8",
+  "url": "https://www.figma.com/design/REaEMNTS5b1JF383okVnK8",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-c20c11b02e8c8a3c",
+  "score_status": "completed",
+  "score_total": 32,
+  "other_score_revisions": []
+}

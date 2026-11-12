@@ -1,0 +1,15 @@
+{
+  "task_id": "task-37b6247f60366b6c",
+  "cohort": "origin29",
+  "title": "Balance",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "E9wFUxkuxJI1XOHeDVNfei",
+  "url": "https://www.figma.com/design/E9wFUxkuxJI1XOHeDVNfei",
+  "expected_frames": 11,
+  "inference_status": "pending",
+  "run_dir_basename": "",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

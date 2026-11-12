@@ -1,0 +1,15 @@
+{
+  "task_id": "task-fa5823ff5bac4709",
+  "cohort": "origin29",
+  "title": "Travelin",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "RPXTFoNWn5ppzlW5mNuxAC",
+  "url": "https://www.figma.com/design/RPXTFoNWn5ppzlW5mNuxAC",
+  "expected_frames": 4,
+  "inference_status": "success",
+  "run_dir_basename": "task-fa5823ff5bac4709",
+  "score_status": "completed",
+  "score_total": 52,
+  "other_score_revisions": []
+}

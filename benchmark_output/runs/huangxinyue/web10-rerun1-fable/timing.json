@@ -1,0 +1,34 @@
+{
+  "updated_at": "2026-11-03T09:40:50.141Z",
+  "run_set_id": "web10-rerun1-fable",
+  "started_at": null,
+  "finished": true,
+  "finished_at": "2026-11-03T09:34:27.169Z",
+  "wall_elapsed_ms": null,
+  "generation_concurrency": 1,
+  "model_concurrency": 1,
+  "account_concurrency": 1,
+  "judge_concurrency": 3,
+  "revision": 1,
+  "policy_hash": "08653420c7482697d5754bf92ba481d4c8f4dc1447d2b6c0ff57bbd222f5f57a",
+  "duration_note": "Wall elapsed includes preparation and waiting. Task-duration sums overlap under concurrency and are not wall elapsed.",
+  "models": [
+    {
+      "model_id": "model_claude_fable51_login",
+      "model_name": "Fable 5.1",
+      "total": 1,
+      "copies_ready": 0,
+      "copy_task_duration_ms_sum": 0,
+      "fresh_retry_copies": 0,
+      "retry_copy_task_duration_ms_sum": 0,
+      "inference_attempts_started": 1,
+      "inference_attempts_finished": 1,
+      "inference_task_duration_ms_sum": 2997681,
+      "inference_task_duration_ms_mean": 2997681,
+      "inference_wall_elapsed_ms": 2997681,
+      "inference_first_started_at": "2026-11-03T07:02:32.056Z",
+      "judge_task_duration_ms_sum": 58694,
+      "formal_scores": 1
+    }
+  ]
+}

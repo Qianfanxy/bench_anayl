@@ -1,0 +1,15 @@
+{
+  "task_id": "task-633ccec11b0b2e03",
+  "cohort": "new13",
+  "title": "Open Fashion",
+  "model_id": "model_de5fc4c9cdb841e8",
+  "model_name": "gpt-6-astra",
+  "file_key": "y1m4w7tcdWBXecQdzJ6h7F",
+  "url": "https://www.figma.com/design/y1m4w7tcdWBXecQdzJ6h7F",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-633ccec11b0b2e03",
+  "score_status": "completed",
+  "score_total": 38,
+  "other_score_revisions": []
+}

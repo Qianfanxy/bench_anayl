@@ -1,0 +1,165 @@
+[
+  {
+    "node_id": "12:6",
+    "name": "01_Sign_Up",
+    "file": "12-6.png"
+  },
+  {
+    "node_id": "12:11",
+    "name": "02_OTP",
+    "file": "12-11.png"
+  },
+  {
+    "node_id": "12:16",
+    "name": "03_Home_My_Balance",
+    "file": "12-16.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "LGSu94G723IDWp1nk3GdcK",
+        "nodeId": "12:16",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "7f8e48831202e0bddf5e27ebb24dee57d60a04de6a49a374893f66170ace0a76",
+      "response_file": "_debug/v2-native-12-16.png.txt",
+      "response_sha256": "fbb3410a18c26a287e1491e2a743f3e06b3da538febc0fd2892e15753c4f9bab"
+    }
+  },
+  {
+    "node_id": "12:21",
+    "name": "04_Home_Upcoming_Bills",
+    "file": "12-21.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "LGSu94G723IDWp1nk3GdcK",
+        "nodeId": "12:21",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "7f8e48831202e0bddf5e27ebb24dee57d60a04de6a49a374893f66170ace0a76",
+      "response_file": "_debug/v2-native-12-21.png.txt",
+      "response_sha256": "3ec1d378b769354684a317c92dec52e451fa181044d60c3625ff1b7f679a0300"
+    }
+  },
+  {
+    "node_id": "12:26",
+    "name": "05_Home_Transactions",
+    "file": "12-26.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "LGSu94G723IDWp1nk3GdcK",
+        "nodeId": "12:26",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "7f8e48831202e0bddf5e27ebb24dee57d60a04de6a49a374893f66170ace0a76",
+      "response_file": "_debug/v2-native-12-26.png.txt",
+      "response_sha256": "6130e3c0d88ccef672ff649485cdb13e4e7a7cdaa3d75289badf2a865a71993c"
+    }
+  },
+  {
+    "node_id": "12:31",
+    "name": "06_Discussion_Forum",
+    "file": "12-31.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "LGSu94G723IDWp1nk3GdcK",
+        "nodeId": "12:31",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "7f8e48831202e0bddf5e27ebb24dee57d60a04de6a49a374893f66170ace0a76",
+      "response_file": "_debug/v2-native-12-31.png.txt",
+      "response_sha256": "1a5d868a34a64edc40b8d69617743adc39912fe220676e8a31f2fcd2dbb169db"
+    }
+  },
+  {
+    "node_id": "12:36",
+    "name": "07_Cards",
+    "file": "12-36.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "LGSu94G723IDWp1nk3GdcK",
+        "nodeId": "12:36",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "7f8e48831202e0bddf5e27ebb24dee57d60a04de6a49a374893f66170ace0a76",
+      "response_file": "_debug/v2-native-12-36.png.txt",
+      "response_sha256": "b321440e866eed8b160800e935320f55e54f268e123e7e5b80df86d6fe89b024"
+    }
+  },
+  {
+    "node_id": "12:41",
+    "name": "08_Profile",
+    "file": "12-41.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "LGSu94G723IDWp1nk3GdcK",
+        "nodeId": "12:41",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "7f8e48831202e0bddf5e27ebb24dee57d60a04de6a49a374893f66170ace0a76",
+      "response_file": "_debug/v2-native-12-41.png.txt",
+      "response_sha256": "6fc8ee5a3d9afc9bb304eadcad6a84cc852b9a04deec21a2d8342059a34adb87"
+    }
+  },
+  {
+    "node_id": "12:46",
+    "name": "09_Analytics",
+    "file": "12-46.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "LGSu94G723IDWp1nk3GdcK",
+        "nodeId": "12:46",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "7f8e48831202e0bddf5e27ebb24dee57d60a04de6a49a374893f66170ace0a76",
+      "response_file": "_debug/v2-native-12-46.png.txt",
+      "response_sha256": "8f38c68a8f7b1c1722a02806950d3c3b639e1c31328d5ccb1e92d769984b5c3c"
+    }
+  },
+  {
+    "node_id": "12:51",
+    "name": "10_Markets",
+    "file": "12-51.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "LGSu94G723IDWp1nk3GdcK",
+        "nodeId": "12:51",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "7f8e48831202e0bddf5e27ebb24dee57d60a04de6a49a374893f66170ace0a76",
+      "response_file": "_debug/v2-native-12-51.png.txt",
+      "response_sha256": "e37d14af84c5587ac1637182db7d8ddec9993f7df4bd9128dae836b9e386b404"
+    }
+  },
+  {
+    "node_id": "12:56",
+    "name": "11_Send",
+    "file": "12-56.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "LGSu94G723IDWp1nk3GdcK",
+        "nodeId": "12:56",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "7f8e48831202e0bddf5e27ebb24dee57d60a04de6a49a374893f66170ace0a76",
+      "response_file": "_debug/v2-native-12-56.png.txt",
+      "response_sha256": "6d7ed8ae62105b1c96184962671314e22bf5f0fa670abcb8145ec9c981d2dae0"
+    }
+  }
+]

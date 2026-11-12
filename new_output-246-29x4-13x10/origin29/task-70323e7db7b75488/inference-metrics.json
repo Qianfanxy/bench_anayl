@@ -1,0 +1,22 @@
+{
+  "task_id": "task-70323e7db7b75488",
+  "title": "Fasco",
+  "model_id": "model_gpt61_sol_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 292.547,
+  "inference_duration_seconds": 292.547,
+  "input_tokens": 155579,
+  "output_tokens": 16460,
+  "total_tokens": 172039,
+  "cached_input_tokens": 74588,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 11,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 11,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-70323e7db7b75488/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

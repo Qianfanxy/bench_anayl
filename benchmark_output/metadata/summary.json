@@ -1,0 +1,20 @@
+{
+  "created_date": "2026-11-09 Asia/Shanghai",
+  "indexed_runs": 177,
+  "included_run_directories": 178,
+  "historical_extra_runs": 1,
+  "round_databases": 27,
+  "sqlite_consistent_backups": 386,
+  "indexed_trajectories_present": 177,
+  "indexed_trace_databases_present": 177,
+  "indexed_logs_present": 148,
+  "arena_candidates": 174,
+  "arena_images_total": 1217,
+  "arena_images_available": 1197,
+  "arena_images_missing": 20,
+  "missing_local_references": 0,
+  "private_config_paths_excluded": 814,
+  "figma_native_files": 0,
+  "cloud_figma_files": "URLs retained; no native .fig files available locally; no claim that PNG/layer snapshots replace editable originals.",
+  "exclusion_policy": "Chat Bot AI old GPT remains excluded from analyses, but historical raw evidence is archived without deleting it."
+}

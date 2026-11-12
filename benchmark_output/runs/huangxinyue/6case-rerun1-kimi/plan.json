@@ -1,0 +1,68 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "design6-rerun1-kimi",
+  "dataset_hash": "29de01f362927ceff5f3a2503998fc9af6b280ad412b6c9bde40448d0d4c3ed6",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_kimi_k3_cc",
+      "name": "Kimi K3",
+      "provider": "TokenHub / Kimi",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "kimi-k3/tencent/sfb",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 0,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    }
+  ],
+  "case_count": 3,
+  "assignment_count": 3,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 3,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_896b680f99ba6adc0c78",
+      "case_id": "case-004",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_b20a02400278e1a26cb8",
+      "case_id": "case-006",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_0f0482199aef2dffbb02",
+      "case_id": "case-002",
+      "model_id": "model_kimi_k3_cc"
+    }
+  ],
+  "content_hash": "92fcc4ea70258bcd1b5d196a1f62e92b2478b383556fafaa91a71557e7fe5f41"
+}

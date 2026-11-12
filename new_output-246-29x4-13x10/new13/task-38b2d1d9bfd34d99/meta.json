@@ -1,0 +1,15 @@
+{
+  "task_id": "task-38b2d1d9bfd34d99",
+  "cohort": "new13",
+  "title": "Nikle",
+  "model_id": "model_claude_fable51_login",
+  "model_name": "Fable 5.1",
+  "file_key": "bavK6B2HTh1Q6wWNxx0gre",
+  "url": "https://www.figma.com/design/bavK6B2HTh1Q6wWNxx0gre",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-38b2d1d9bfd34d99",
+  "score_status": "completed",
+  "score_total": 33,
+  "other_score_revisions": []
+}

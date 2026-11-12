@@ -1,0 +1,15 @@
+{
+  "task_id": "task-920160273aa64c3b",
+  "cohort": "new13",
+  "title": "Placoo Rental",
+  "model_id": "model_claude_fable51_login",
+  "model_name": "Fable 5.1",
+  "file_key": "EDnjG7oTuvxEkFIZd9jxht",
+  "url": "https://www.figma.com/design/EDnjG7oTuvxEkFIZd9jxht",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-920160273aa64c3b",
+  "score_status": "completed",
+  "score_total": 37,
+  "other_score_revisions": []
+}

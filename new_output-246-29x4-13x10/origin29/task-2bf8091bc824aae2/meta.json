@@ -1,0 +1,15 @@
+{
+  "task_id": "task-2bf8091bc824aae2",
+  "cohort": "origin29",
+  "title": "Chat Bot AI",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "n8dm1BcsinCktzPM7Y8ooj",
+  "url": "https://www.figma.com/design/n8dm1BcsinCktzPM7Y8ooj",
+  "expected_frames": 12,
+  "inference_status": "failed",
+  "run_dir_basename": "task-2bf8091bc824aae2",
+  "score_status": "completed",
+  "score_total": 31,
+  "other_score_revisions": []
+}

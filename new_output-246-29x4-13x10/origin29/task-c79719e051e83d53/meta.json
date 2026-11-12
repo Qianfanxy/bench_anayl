@@ -1,0 +1,15 @@
+{
+  "task_id": "task-c79719e051e83d53",
+  "cohort": "origin29",
+  "title": "Expenio",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "crjj67LLdjjdmIYpfkTDBB",
+  "url": "https://www.figma.com/design/crjj67LLdjjdmIYpfkTDBB",
+  "expected_frames": 6,
+  "inference_status": "success",
+  "run_dir_basename": "task-c79719e051e83d53",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

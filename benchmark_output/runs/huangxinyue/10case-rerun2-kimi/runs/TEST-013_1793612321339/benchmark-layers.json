@@ -1,0 +1,102 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "390×844",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "text×8",
+        "rectangle×7",
+        "instance×4",
+        "frame×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "02_Phone_Number",
+      "size": "390×844",
+      "nodes": 47,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "text×26",
+        "frame×14",
+        "instance×4",
+        "rectangle×3"
+      ],
+      "names": [
+        "Phone Sheet",
+        "Grabber",
+        "Cancel",
+        "Title",
+        "Subtitle",
+        "Text Field · Phone (focu"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "390×1120",
+      "nodes": 108,
+      "max_depth": 4,
+      "instances": 19,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "vector×33",
+        "text×28",
+        "frame×19",
+        "instance×19",
+        "rectangle×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header · Balance",
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "04_Menu",
+      "size": "390×844",
+      "nodes": 78,
+      "max_depth": 5,
+      "instances": 14,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "vector×25",
+        "frame×14",
+        "instance×14",
+        "text×13",
+        "rectangle×10",
+        "ellipse×1"
+      ],
+      "names": [
+        "Home preview (03_Home be",
+        "Header · Balance",
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal"
+      ]
+    }
+  ]
+}

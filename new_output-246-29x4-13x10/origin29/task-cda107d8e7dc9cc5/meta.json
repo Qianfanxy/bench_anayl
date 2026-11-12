@@ -1,0 +1,15 @@
+{
+  "task_id": "task-cda107d8e7dc9cc5",
+  "cohort": "origin29",
+  "title": "Stock Trading",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "PM8VpsL27fU1A8bxPCWfOs",
+  "url": "https://www.figma.com/design/PM8VpsL27fU1A8bxPCWfOs",
+  "expected_frames": 6,
+  "inference_status": "running",
+  "run_dir_basename": "task-cda107d8e7dc9cc5--origin29-qd-resume-20261111-172441",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

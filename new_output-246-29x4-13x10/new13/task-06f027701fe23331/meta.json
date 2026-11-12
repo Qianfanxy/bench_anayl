@@ -1,0 +1,15 @@
+{
+  "task_id": "task-06f027701fe23331",
+  "cohort": "new13",
+  "title": "Open Fashion",
+  "model_id": "model_glm_53_flash_cc",
+  "model_name": "GLM-5.3 Flash",
+  "file_key": "GAAPVHYcLLXjlOUvb5PVL2",
+  "url": "https://www.figma.com/design/GAAPVHYcLLXjlOUvb5PVL2",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-06f027701fe23331",
+  "score_status": "completed",
+  "score_total": 32,
+  "other_score_revisions": []
+}

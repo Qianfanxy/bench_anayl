@@ -1,0 +1,15 @@
+{
+  "task_id": "task-e4c1fea42e52cd68",
+  "cohort": "new13",
+  "title": "Open Fashion",
+  "model_id": "model_gemini_31_pro_cc",
+  "model_name": "Gemini 3.5 Flash",
+  "file_key": "sitVQOkAgY6fjDdKndJFsQ",
+  "url": "https://www.figma.com/design/sitVQOkAgY6fjDdKndJFsQ",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-e4c1fea42e52cd68",
+  "score_status": "completed",
+  "score_total": 0,
+  "other_score_revisions": []
+}

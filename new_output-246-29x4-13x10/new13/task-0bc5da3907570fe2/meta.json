@@ -1,0 +1,15 @@
+{
+  "task_id": "task-0bc5da3907570fe2",
+  "cohort": "new13",
+  "title": "Nikle",
+  "model_id": "model_de5fc4c9cdb841e8",
+  "model_name": "gpt-6-astra",
+  "file_key": "4uxhZir1nOfOA4PG3u3yPW",
+  "url": "https://www.figma.com/design/4uxhZir1nOfOA4PG3u3yPW",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-0bc5da3907570fe2",
+  "score_status": "completed",
+  "score_total": 33,
+  "other_score_revisions": []
+}

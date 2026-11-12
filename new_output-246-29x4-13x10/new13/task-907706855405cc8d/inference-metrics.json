@@ -1,0 +1,22 @@
+{
+  "task_id": "task-907706855405cc8d",
+  "title": "Fyrre Magazine",
+  "model_id": "model_glm_53_flash_cc",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 2689.719,
+  "inference_duration_seconds": 2689.719,
+  "input_tokens": 3392387,
+  "output_tokens": 100222,
+  "total_tokens": 3492609,
+  "cached_input_tokens": 3265088,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 44,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 44,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-907706855405cc8d/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

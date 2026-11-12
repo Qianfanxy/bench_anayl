@@ -1,0 +1,21 @@
+{
+  "task_id": "task-d007838113df0de6",
+  "title": "Open Fashion",
+  "model_id": "model_claude_opus55_direct",
+  "inference_wall_seconds": 346.103,
+  "inference_duration_seconds": 346.103,
+  "input_tokens": 88258,
+  "output_tokens": 30254,
+  "total_tokens": 118512,
+  "cached_input_tokens": 0,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 5,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 5,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-d007838113df0de6/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

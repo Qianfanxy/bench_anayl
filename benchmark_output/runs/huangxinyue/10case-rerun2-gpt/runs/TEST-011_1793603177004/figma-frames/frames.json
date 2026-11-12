@@ -1,0 +1,32 @@
+[
+  {
+    "node_id": "6:2",
+    "name": "Reusable UI · Nunito / Graphite",
+    "file": "6-2.png"
+  },
+  {
+    "node_id": "6:3",
+    "name": "01_Wallet",
+    "file": "6-3.png"
+  },
+  {
+    "node_id": "6:153",
+    "name": "02_Discovery",
+    "file": "6-153.png"
+  },
+  {
+    "node_id": "6:435",
+    "name": "03_Strategy",
+    "file": "6-435.png"
+  },
+  {
+    "node_id": "6:626",
+    "name": "04_Invest_Amount",
+    "file": "6-626.png"
+  },
+  {
+    "node_id": "6:765",
+    "name": "05_Invest_Success",
+    "file": "6-765.png"
+  }
+]

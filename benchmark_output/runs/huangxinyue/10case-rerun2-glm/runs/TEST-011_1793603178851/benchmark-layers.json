@@ -1,0 +1,129 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "390×844",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "rectangle×8",
+        "instance×4",
+        "text×4",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Photo",
+        "Gradient",
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "390×844",
+      "nodes": 109,
+      "max_depth": 4,
+      "instances": 36,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "instance×36",
+        "text×28",
+        "vector×25",
+        "rectangle×16",
+        "frame×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "03_Explore",
+      "size": "390×844",
+      "nodes": 125,
+      "max_depth": 4,
+      "instances": 46,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "instance×46",
+        "vector×33",
+        "text×31",
+        "rectangle×11",
+        "frame×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "05_Analytics",
+      "size": "390×844",
+      "nodes": 146,
+      "max_depth": 4,
+      "instances": 32,
+      "texts": 43,
+      "images": 0,
+      "types": [
+        "text×43",
+        "vector×33",
+        "instance×32",
+        "rectangle×23",
+        "ellipse×9",
+        "frame×6"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "04_Workout",
+      "size": "390×844",
+      "nodes": 63,
+      "max_depth": 4,
+      "instances": 24,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "instance×24",
+        "text×17",
+        "vector×9",
+        "rectangle×7",
+        "frame×3",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    }
+  ]
+}

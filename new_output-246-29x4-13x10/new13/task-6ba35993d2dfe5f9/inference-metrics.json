@@ -1,0 +1,22 @@
+{
+  "task_id": "task-6ba35993d2dfe5f9",
+  "title": "Magic Coffee",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 5400.266,
+  "inference_duration_seconds": 5400.266,
+  "input_tokens": 15195429,
+  "output_tokens": 256529,
+  "total_tokens": 15451958,
+  "cached_input_tokens": 14163712,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 258,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": false,
+  "token_usage_status": "partial",
+  "token_rounds": 258,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-6ba35993d2dfe5f9/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

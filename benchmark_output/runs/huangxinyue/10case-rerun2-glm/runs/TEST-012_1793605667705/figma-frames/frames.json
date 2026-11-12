@@ -1,0 +1,46 @@
+[
+  {
+    "node_id": "17:2",
+    "name": "01_Onboarding",
+    "file": "17-2.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "7rLveN0IHU79pD7QwJ97Mb",
+        "nodeId": "17:2",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "1b990731ce12a148b47f6e9fdd2550f32719c96c76ce53fb786438d4040f8030",
+      "response_file": "_debug/v2-native-17-2.png.txt",
+      "response_sha256": "9700e20722c254bfdd81032296eb17d08f8e2104ab952259510720b197313f76"
+    }
+  },
+  {
+    "node_id": "17:21",
+    "name": "02_Home",
+    "file": "17-21.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "7rLveN0IHU79pD7QwJ97Mb",
+        "nodeId": "17:21",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "4621c5ecdaa3569d9dbf4a2a78d25a608044a6409b4cc91094c943b7f431a26a",
+      "response_file": "_debug/v2-native-17-21.png.txt",
+      "response_sha256": "308a56a2605b749f444eb5d25fef2a688962fca4155cb1b5c5cc1a62168411f3"
+    }
+  },
+  {
+    "node_id": "18:2",
+    "name": "03_Warm_Up",
+    "file": "18-2.png"
+  },
+  {
+    "node_id": "19:2",
+    "name": "04_Activity",
+    "file": "19-2.png"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-8528de048d6f16bc",
+  "cohort": "origin29",
+  "title": "Fruit Hub",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "xx7EXXYSVEItaOG5WZRWz9",
+  "url": "https://www.figma.com/design/xx7EXXYSVEItaOG5WZRWz9",
+  "expected_frames": 10,
+  "inference_status": "failed",
+  "run_dir_basename": "task-8528de048d6f16bc--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 37,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-e1386852992c62b7",
+  "cohort": "origin29",
+  "title": "Deniz Arslan 3D Portfolio",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "DUtAva3WGn7txa2TiVG5TL",
+  "url": "https://www.figma.com/design/DUtAva3WGn7txa2TiVG5TL",
+  "expected_frames": 2,
+  "inference_status": "success",
+  "run_dir_basename": "task-e1386852992c62b7",
+  "score_status": "completed",
+  "score_total": 50,
+  "other_score_revisions": []
+}

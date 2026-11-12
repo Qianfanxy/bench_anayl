@@ -1,0 +1,15 @@
+{
+  "task_id": "task-943b70a6fa309032",
+  "cohort": "origin29",
+  "title": "Workout Class",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "mABbsV7qpBYmAG8ckaNYqX",
+  "url": "https://www.figma.com/design/mABbsV7qpBYmAG8ckaNYqX",
+  "expected_frames": 4,
+  "inference_status": "failed",
+  "run_dir_basename": "task-943b70a6fa309032",
+  "score_status": "completed",
+  "score_total": 45,
+  "other_score_revisions": []
+}

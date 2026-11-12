@@ -1,0 +1,15 @@
+{
+  "task_id": "task-d5a1d20918d099bb",
+  "cohort": "origin29",
+  "title": "Workout Class",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "b6qVFbVkB8ujkc8653nT2J",
+  "url": "https://www.figma.com/design/b6qVFbVkB8ujkc8653nT2J",
+  "expected_frames": 4,
+  "inference_status": "success",
+  "run_dir_basename": "task-d5a1d20918d099bb--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 29,
+  "other_score_revisions": []
+}

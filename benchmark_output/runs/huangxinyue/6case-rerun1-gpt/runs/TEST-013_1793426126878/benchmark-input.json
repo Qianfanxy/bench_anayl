@@ -1,0 +1,33 @@
+{
+  "mode": "benchmark-design",
+  "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/wl2R1YWEzuvrC0BJrjsr66/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+  "target": {
+    "url": "https://www.figma.com/design/wl2R1YWEzuvrC0BJrjsr66/",
+    "fileKey": "wl2R1YWEzuvrC0BJrjsr66"
+  },
+  "model_id": "gpt-6-astra/azure_L/sfl",
+  "reasoning_mode": "summary",
+  "system_file": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-013_1793426126878/benchmark-system.txt",
+  "tools": [
+    "whoami",
+    "get_metadata",
+    "use_figma",
+    "get_screenshot"
+  ],
+  "generation_mode": "direct",
+  "claude_code_base_system": false,
+  "runtime": {
+    "shared_figma_concurrency": 1,
+    "model_concurrency": 1,
+    "account_concurrency": 1,
+    "model_route": null,
+    "mcp_min_interval_seconds": 4,
+    "account_id": "enterprise_zuohaosheng",
+    "account_identity": "zuohaosheng@tetras.ai",
+    "policy_hash": "5f0d543c47fe35b9916163d14faf498fa838e9028b0ab3d128ef5f313f0690f3",
+    "auto_compact_window": "client-default",
+    "max_context_tokens": "client-default"
+  },
+  "tool_image_transport": "native",
+  "timeout_seconds": 5400
+}

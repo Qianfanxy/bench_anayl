@@ -1,0 +1,15 @@
+{
+  "task_id": "task-43054d10f4c51c7c",
+  "cohort": "origin29",
+  "title": "Workout Class",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "gT2y77XyiQlrhscV484dbh",
+  "url": "https://www.figma.com/design/gT2y77XyiQlrhscV484dbh",
+  "expected_frames": 4,
+  "inference_status": "failed",
+  "run_dir_basename": "task-43054d10f4c51c7c",
+  "score_status": "completed",
+  "score_total": 46,
+  "other_score_revisions": []
+}

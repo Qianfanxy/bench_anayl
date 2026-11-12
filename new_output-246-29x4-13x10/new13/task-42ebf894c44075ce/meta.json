@@ -1,0 +1,15 @@
+{
+  "task_id": "task-42ebf894c44075ce",
+  "cohort": "new13",
+  "title": "MindfulMentor",
+  "model_id": "model_claude_opus55_direct",
+  "model_name": "Opus 5.5（三方A）",
+  "file_key": "iPGaI4mBYV2mcLpNX26g7o",
+  "url": "https://www.figma.com/design/iPGaI4mBYV2mcLpNX26g7o",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-42ebf894c44075ce",
+  "score_status": "completed",
+  "score_total": 42,
+  "other_score_revisions": []
+}

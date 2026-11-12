@@ -1,0 +1,15 @@
+{
+  "task_id": "task-c67c9619cb7def68",
+  "cohort": "origin29",
+  "title": "Nectar",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "5BVPbj0MaD16BaSAxYXdno",
+  "url": "https://www.figma.com/design/5BVPbj0MaD16BaSAxYXdno",
+  "expected_frames": 12,
+  "inference_status": "success",
+  "run_dir_basename": "task-c67c9619cb7def68",
+  "score_status": "completed",
+  "score_total": 35,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-fbce55c071de4df1",
+  "cohort": "origin29",
+  "title": "Balance",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "LeVX0GBG843Zj2zr8Cc7Pr",
+  "url": "https://www.figma.com/design/LeVX0GBG843Zj2zr8Cc7Pr",
+  "expected_frames": 11,
+  "inference_status": "failed",
+  "run_dir_basename": "task-fbce55c071de4df1--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 31,
+  "other_score_revisions": []
+}

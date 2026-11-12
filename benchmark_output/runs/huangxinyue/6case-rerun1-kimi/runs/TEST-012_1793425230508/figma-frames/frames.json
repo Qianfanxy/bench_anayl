@@ -1,0 +1,76 @@
+[
+  {
+    "node_id": "22:378",
+    "name": "01_Splash",
+    "file": "22-378.png"
+  },
+  {
+    "node_id": "22:392",
+    "name": "02_Welcome",
+    "file": "22-392.png"
+  },
+  {
+    "node_id": "22:411",
+    "name": "03_Name",
+    "file": "22-411.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "efLfjtKOwnSEf9m0Xm0qel",
+        "nodeId": "22:411",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "a7dbabf11507ab616695c1755e3b4244b6d89d041d9a734ba31efe35f8c9b871",
+      "response_file": "_debug/v2-native-22-411.png.txt",
+      "response_sha256": "749b6ba5edcbd66ce9b676a51251a30e17141f1221f794ddd0ce97447510ad23"
+    }
+  },
+  {
+    "node_id": "22:433",
+    "name": "04_Home",
+    "file": "22-433.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "efLfjtKOwnSEf9m0Xm0qel",
+        "nodeId": "22:433",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "c92aaabefb6049f62d86f138e70b93edd0e3f0f8f471ee7707897ef375db5c4f",
+      "response_file": "_debug/v2-native-22-433.png.txt",
+      "response_sha256": "27858cfa26997eddf569c8ed4c9b50641ed353ec6a36fdcfdd0aa721e5878015"
+    }
+  },
+  {
+    "node_id": "22:523",
+    "name": "05_Product_Quinoa",
+    "file": "22-523.png"
+  },
+  {
+    "node_id": "22:571",
+    "name": "06_Basket",
+    "file": "22-571.png"
+  },
+  {
+    "node_id": "22:612",
+    "name": "07_Checkout_Delivery",
+    "file": "22-612.png"
+  },
+  {
+    "node_id": "22:671",
+    "name": "08_Checkout_Card",
+    "file": "22-671.png"
+  },
+  {
+    "node_id": "22:734",
+    "name": "09_Order_Complete",
+    "file": "22-734.png"
+  },
+  {
+    "node_id": "22:756",
+    "name": "10_Track_Order",
+    "file": "22-756.png"
+  }
+]

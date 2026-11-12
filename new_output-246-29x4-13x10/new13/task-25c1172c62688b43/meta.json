@@ -1,0 +1,15 @@
+{
+  "task_id": "task-25c1172c62688b43",
+  "cohort": "new13",
+  "title": "Placoo Rental",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "iyfZ8CCSkCjOzIfmlUEtA0",
+  "url": "https://www.figma.com/design/iyfZ8CCSkCjOzIfmlUEtA0",
+  "expected_frames": null,
+  "inference_status": "failed",
+  "run_dir_basename": "task-25c1172c62688b43",
+  "score_status": "completed",
+  "score_total": 32,
+  "other_score_revisions": []
+}

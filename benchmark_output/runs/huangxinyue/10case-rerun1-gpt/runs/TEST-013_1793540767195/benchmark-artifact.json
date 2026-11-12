@@ -1,0 +1,294 @@
+{
+  "file_key": "S0OKnKXuwnztBuARUphjNF",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "5:2",
+      "name": "03 · Workspace",
+      "child_count": 7
+    }
+  ],
+  "workspace": {
+    "id": "5:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "7:2",
+        "name": "Workspace · reusable UI",
+        "type": "FRAME",
+        "x": 2580,
+        "y": 0,
+        "width": 1150,
+        "height": 4800,
+        "text_count": 189,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:4",
+        "name": "01_Aktivitas",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 43,
+        "reaction_count": 3
+      },
+      {
+        "id": "7:263",
+        "name": "02_Trending",
+        "type": "FRAME",
+        "x": 425,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 61,
+        "reaction_count": 3
+      },
+      {
+        "id": "8:314",
+        "name": "03_Detail_Saham",
+        "type": "FRAME",
+        "x": 850,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 55,
+        "reaction_count": 1
+      },
+      {
+        "id": "8:516",
+        "name": "04_Top_Up_Metode",
+        "type": "FRAME",
+        "x": 1275,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 15,
+        "reaction_count": 4
+      },
+      {
+        "id": "8:674",
+        "name": "05_Top_Up_Nominal",
+        "type": "FRAME",
+        "x": 1700,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 24,
+        "reaction_count": 6
+      },
+      {
+        "id": "8:792",
+        "name": "06_Top_Up_Pembayaran",
+        "type": "FRAME",
+        "x": 2125,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 26,
+        "reaction_count": 1
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nStock Trading — Indonesian stock investing app\nDesign an Indonesian stock investing app (Bahasa Indonesia, dark mode): see your main balance, today’s trending tickers and your watchlist, browse global trending stocks, open the GOTO stock detail, and top up your balance at Alfamart up to the payment code. Canvas 375 × 812, dark mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 6 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color, the typeface and dark mode in 01 · Foundations are fixed. Define every other color yourself (dark background and surface levels, neutrals, text, gain / loss, selected, warning, error / disabled, chart colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the tab bar, tabs and chips, and every business component as reusable components in your file.\n5. Use the company logos, ticker marks and icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly (Indonesian number format: Rp2.125.000 · 0,58%). This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Aktivitas\nGoal: See my balance, today’s trending tickers and my watchlist.\nMUST INCLUDE\n• Actions: Deposit (Icon_Deposit) · Tarik (Icon_Withdraw)\n• Balance: “Dana Utama” · Rp2.125.000 · rising Rp206.920 (10,79%)\n• Header: “Aktivitas” · menu (Icon_Menu) · settings (Icon_Settings)\n• Main navigation: tab bar Aktivitas / Trending / Top Up / Pasar / Profil · current: Aktivitas\n• Trending today: “Trending Hari ini” · BRRI · ARB · FSX, each with mark, ticker, price and change (see DATA)\n• Watchlist: “Watchlist Saya” · add (Icon_Plus) · DHDI · AMRI · ODD · PYQ · DAN, each with mark, ticker, company, price and change (see DATA)\nLINKS\n→ Deposit → 04_Top_Up_Metode\n→ Trending tab → 02_Trending\n→ Top Up tab → 04_Top_Up_Metode\n02_Trending\nGoal: Browse what is trending in global and regional markets.\nMUST INCLUDE\n• Header: “Trending” · menu (Icon_Menu) · settings (Icon_Settings)\n• Indices: IHSG · NIKKEI · SENSEX, each with value and direction (see DATA)\n• Main navigation: tab bar · current: Trending\n• Market tabs: Global · Crypto · Reksadana · CFD · current: Global\n• Recommendations: “Rekomendasi” · NFLX · META · AMZN, each with ticker, company, price and change (see DATA)\n• Regions: Asia · Eropa · Amerika · Mata Uang · current: Asia\n• Trending list: “Trending” · period “24 jam” (Icon_Chevron_Down) · ROTI · GOTO · ABNB · UNVR · BBRI · ADRO, each with logo, ticker, company, price and change (see DATA) · “Lihat Semua” (Icon_Chevron_Right)\nLINKS\n→ GOTO → 03_Detail_Saham\n→ Aktivitas tab → 01_Aktivitas\n→ Top Up tab → 04_Top_Up_Metode\n03_Detail_Saham\nGoal: Understand how GOTO is doing before buying or selling.\nMUST INCLUDE\n• Actions: Beli · Jual\n• Chart: 1D price line with a highlighted point and tooltip, time axis 6:00 – 2:00 (see DATA)\n• Compare: “Dibandingkan dengan” · BUKA · BBRI · SIDO, each with company, ticker, price and change (see DATA)\n• Header: back (Icon_Back) · add (Icon_Plus) · share (Icon_Share) · favorite (Icon_Star)\n• Key stats: “Keystats” · 8 rows (see DATA)\n• Range tabs: 1D · 5D · 1M · 6M · YTD · 1Y · 5Y · MAX · current: 1D\n• Stock: Logo_GOTO · GOTO · GoTo Gojek Tokopedia · Rp189 · falling −Rp9 (−4,55%) · “Hari ini”\nLINKS\n→ back → 02_Trending\n04_Top_Up_Metode\nGoal: Choose how to top up my balance.\nMUST INCLUDE\n• Balance: “Dana Saya” · Rp2.125.000\n• Header: “Top Up” · back (Icon_Back) · help (Icon_Help)\n• Main navigation: tab bar · current: Top Up\n• Methods: “Pilih Metode” · ATM (Icon_ATM) · Kartu Debit (Icon_Debit_Card) · Mobile Banking (Icon_Mobile_Banking) · Indomaret (Icon_Store) · Alfamart (Icon_Store), each opens its next step (Icon_Chevron_Right)\nLINKS\n→ Alfamart → 05_Top_Up_Nominal\n→ back → 01_Aktivitas\n05_Top_Up_Nominal\nGoal: Pick the top-up amount for Alfamart.\nMUST INCLUDE\n• Action: Bayar\n• Amount options: “Pilih Nominal Top Up” · Rp50.000 · Rp100.000 · Rp200.000 · Rp300.000 · Rp500.000 · Rp1.000.000 · selected: Rp500.000\n• Custom amount: “Atau masukkan nominal di sini” · field “Minimal Rp10.000” — empty\n• Header: “Top Up” · back (Icon_Back) · help (Icon_Help)\n• Main navigation: tab bar · current: Top Up\n• Method: “Top Up ke” · Alfamart (Icon_Store) · “Ganti”\n• Steps: 1 Masukkan Nominal · 2 Pembayaran · current: step 1\nLINKS\n→ Bayar → 06_Top_Up_Pembayaran\n→ back / Ganti → 04_Top_Up_Metode\n06_Top_Up_Pembayaran\nGoal: Know exactly how and by when to pay at the store.\nMUST INCLUDE\n• Action: Oke\n• Deadline: “Bayar Sebelum” · Minggu, 30 Oktober 2022, 13:32 WIB · countdown 00 : 08 : 46\n• Guide: “Panduan Pembayaran” · 6 steps (see DATA)\n• Payment: No Transaksi · Nominal · Kode Pembayaran with copy (Icon_Copy) (see DATA)\n• Title: “Selesaikan Pembayaran” · “Silakan selesaikan proses pembayaran”\nLINKS\n→ Oke → 01_Aktivitas\nNavigation structure\n• Bottom tab bar with 5 tabs in this order: Aktivitas (Icon_Tab_Aktivitas), Trending (Icon_Tab_Trending), Top Up (Icon_Plus), Pasar (Icon_Tab_Pasar), Profil (Icon_Tab_Profil). Current tab: Aktivitas on 01, Trending on 02, Top Up on 04 and 05. 03 and 06 have no tab bar. How the current tab looks is yours.\n• Browse flow: 01_Aktivitas → 02_Trending → 03_Detail_Saham (GOTO).\n• Top-up flow: 01_Aktivitas (Deposit or Top Up tab) → 04_Top_Up_Metode → 05_Top_Up_Nominal (Alfamart) → 06_Top_Up_Pembayaran → Oke → 01_Aktivitas.\n• Entry only (no frame): menu, settings, Tarik, watchlist add, other tickers, Crypto / Reksadana / CFD, Eropa / Amerika / Mata Uang, 24 jam, Lihat Semua, Rekomendasi cards, range tabs other than 1D, add / share / favorite, Jual, Beli, compare items, ATM / Kartu Debit / Mobile Banking / Indomaret, help, copy code, Pasar, Profil.\nFixed data & copy\nUse these values verbatim. Bahasa Indonesia; prices in rupiah; Indonesian number format (“.” thousands, “,” ",
+  "layer_summary": {
+    "board_count": 7,
+    "boards": [
+      {
+        "name": "Workspace · reusable UI",
+        "size": "1150×4800",
+        "nodes": 491,
+        "max_depth": 4,
+        "instances": 117,
+        "texts": 189,
+        "images": 0,
+        "types": [
+          "text×189",
+          "vector×104",
+          "frame×80",
+          "component×59",
+          "instance×58",
+          "ellipse×1"
+        ],
+        "names": [
+          "STOCK / UI SYSTEM",
+          "Header / Aktivitas",
+          "Icon_Menu",
+          "Vector",
+          "Aktivitas",
+          "Icon_Settings"
+        ]
+      },
+      {
+        "name": "01_Aktivitas",
+        "size": "375×812",
+        "nodes": 138,
+        "max_depth": 6,
+        "instances": 31,
+        "texts": 43,
+        "images": 0,
+        "types": [
+          "text×43",
+          "vector×40",
+          "instance×31",
+          "frame×17",
+          "rectangle×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "02_Trending",
+        "size": "375×812",
+        "nodes": 145,
+        "max_depth": 5,
+        "instances": 36,
+        "texts": 61,
+        "images": 0,
+        "types": [
+          "text×61",
+          "instance×36",
+          "frame×27",
+          "vector×14",
+          "rectangle×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "03_Detail_Saham",
+        "size": "375×812",
+        "nodes": 114,
+        "max_depth": 5,
+        "instances": 16,
+        "texts": 55,
+        "images": 0,
+        "types": [
+          "text×55",
+          "frame×26",
+          "instance×16",
+          "vector×9",
+          "rectangle×6",
+          "ellipse×2"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "04_Top_Up_Metode",
+        "size": "375×812",
+        "nodes": 97,
+        "max_depth": 6,
+        "instances": 27,
+        "texts": 15,
+        "images": 0,
+        "types": [
+          "vector×33",
+          "instance×27",
+          "text×15",
+          "frame×15",
+          "rectangle×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "05_Top_Up_Nominal",
+        "size": "375×812",
+        "nodes": 80,
+        "max_depth": 5,
+        "instances": 22,
+        "texts": 24,
+        "images": 0,
+        "types": [
+          "text×24",
+          "instance×22",
+          "vector×14",
+          "frame×13",
+          "rectangle×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "06_Top_Up_Pembayaran",
+        "size": "375×812",
+        "nodes": 68,
+        "max_depth": 5,
+        "instances": 13,
+        "texts": 26,
+        "images": 0,
+        "types": [
+          "text×26",
+          "frame×15",
+          "instance×13",
+          "vector×7",
+          "rectangle×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      }
+    ]
+  }
+}

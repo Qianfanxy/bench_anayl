@@ -1,0 +1,15 @@
+{
+  "task_id": "task-1d673e6f29b3f76c",
+  "cohort": "origin29",
+  "title": "Workout Class",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "7Y9NTFxMRXAekfwtf7w6DU",
+  "url": "https://www.figma.com/design/7Y9NTFxMRXAekfwtf7w6DU",
+  "expected_frames": 4,
+  "inference_status": "pending",
+  "run_dir_basename": "",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

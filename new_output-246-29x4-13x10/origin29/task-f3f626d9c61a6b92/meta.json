@@ -1,0 +1,15 @@
+{
+  "task_id": "task-f3f626d9c61a6b92",
+  "cohort": "origin29",
+  "title": "Payment Wallet",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "LCU6IwMtvOwjMnO8wFGOQ3",
+  "url": "https://www.figma.com/design/LCU6IwMtvOwjMnO8wFGOQ3",
+  "expected_frames": 4,
+  "inference_status": "failed",
+  "run_dir_basename": "task-f3f626d9c61a6b92",
+  "score_status": "completed",
+  "score_total": 48,
+  "other_score_revisions": []
+}

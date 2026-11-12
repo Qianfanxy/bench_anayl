@@ -1,0 +1,15 @@
+{
+  "task_id": "task-bd97f332753b6339",
+  "cohort": "new13",
+  "title": "Inkline Blog",
+  "model_id": "model_kimi_k3_cc",
+  "model_name": "Kimi K3",
+  "file_key": "QoU9wgM0PbyRQ8vEnnLXto",
+  "url": "https://www.figma.com/design/QoU9wgM0PbyRQ8vEnnLXto",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-bd97f332753b6339",
+  "score_status": "completed",
+  "score_total": 39,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-884a93727488e7a3",
+  "cohort": "new13",
+  "title": "Self Care Clinic",
+  "model_id": "model_glm_53_flash_cc",
+  "model_name": "GLM-5.3 Flash",
+  "file_key": "49CmNYFsE2CrrfkxZxjR03",
+  "url": "https://www.figma.com/design/49CmNYFsE2CrrfkxZxjR03",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-884a93727488e7a3",
+  "score_status": "completed",
+  "score_total": 33,
+  "other_score_revisions": []
+}

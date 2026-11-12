@@ -1,0 +1,15 @@
+{
+  "task_id": "task-512778aa00f6cac2",
+  "cohort": "new13",
+  "title": "MindfulMentor",
+  "model_id": "model_claude_fable51_login",
+  "model_name": "Fable 5.1",
+  "file_key": "lLp0sJYzjxC7UmMW4RXbBL",
+  "url": "https://www.figma.com/design/lLp0sJYzjxC7UmMW4RXbBL",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-512778aa00f6cac2",
+  "score_status": "completed",
+  "score_total": 38,
+  "other_score_revisions": []
+}

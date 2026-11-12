@@ -1,0 +1,15 @@
+{
+  "task_id": "task-098e30a9ce4db048",
+  "cohort": "origin29",
+  "title": "Foodgo",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "TP6yejYRTkCLe6E0lwN2U9",
+  "url": "https://www.figma.com/design/TP6yejYRTkCLe6E0lwN2U9",
+  "expected_frames": 7,
+  "inference_status": "failed",
+  "run_dir_basename": "task-098e30a9ce4db048",
+  "score_status": "completed",
+  "score_total": 33,
+  "other_score_revisions": []
+}

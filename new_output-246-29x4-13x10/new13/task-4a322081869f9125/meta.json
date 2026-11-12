@@ -1,0 +1,15 @@
+{
+  "task_id": "task-4a322081869f9125",
+  "cohort": "new13",
+  "title": "MindfulMentor",
+  "model_id": "model_kimi_k3_cc",
+  "model_name": "Kimi K3",
+  "file_key": "iGfqLEdi1Nkz7M3IQOlQN3",
+  "url": "https://www.figma.com/design/iGfqLEdi1Nkz7M3IQOlQN3",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-4a322081869f9125",
+  "score_status": "completed",
+  "score_total": 28,
+  "other_score_revisions": []
+}

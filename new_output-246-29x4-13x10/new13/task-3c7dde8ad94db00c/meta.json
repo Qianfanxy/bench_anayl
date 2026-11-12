@@ -1,0 +1,15 @@
+{
+  "task_id": "task-3c7dde8ad94db00c",
+  "cohort": "new13",
+  "title": "Nikle",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "yd2bYAflILl0W8S3lPYdGm",
+  "url": "https://www.figma.com/design/yd2bYAflILl0W8S3lPYdGm",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-3c7dde8ad94db00c",
+  "score_status": "completed",
+  "score_total": 26,
+  "other_score_revisions": []
+}

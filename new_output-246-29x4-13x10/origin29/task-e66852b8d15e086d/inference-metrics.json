@@ -1,0 +1,22 @@
+{
+  "task_id": "task-e66852b8d15e086d",
+  "title": "Nectar",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 1105.385,
+  "inference_duration_seconds": 1105.385,
+  "input_tokens": 1219910,
+  "output_tokens": 46021,
+  "total_tokens": 1265931,
+  "cached_input_tokens": 1043968,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 46,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 46,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-e66852b8d15e086d--restart-20261110-095732/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

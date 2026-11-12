@@ -1,0 +1,78 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "design10-rerun2-gpt",
+  "dataset_hash": "682296844456c41d0bffbf820f7500b11225b2691b09b32491a13d66dd35d608",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_de5fc4c9cdb841e8",
+      "name": "gpt-6-astra",
+      "provider": "Claude Code",
+      "connection_mode": "direct",
+      "base_url": "http://127.0.0.1:18195",
+      "host": "127.0.0.1",
+      "port": 18185,
+      "model_id": "gpt-6-astra/azure_L/sfl",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "openai",
+      "can_evaluate": 1,
+      "buffered_stream": 1,
+      "vision": 1,
+      "generation_mode": "direct"
+    }
+  ],
+  "case_count": 5,
+  "assignment_count": 5,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 1,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_7197dda3851d4346a5d4",
+      "case_id": "case-001",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_8d8a0609d19979a3e8c5",
+      "case_id": "case-002",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_a63273a0c6f9ded17310",
+      "case_id": "case-004",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_c475e72ca4fccb303640",
+      "case_id": "case-007",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_f77ebdcff13b5c53f652",
+      "case_id": "case-008",
+      "model_id": "model_de5fc4c9cdb841e8"
+    }
+  ],
+  "content_hash": "a03391591c5cf2394ab3a5c9a1bd5f752a51b14d8644645f4179c7749d096ba7"
+}

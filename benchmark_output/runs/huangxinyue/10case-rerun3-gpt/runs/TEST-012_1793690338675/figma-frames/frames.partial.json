@@ -1,0 +1,87 @@
+[
+  {
+    "node_id": "12:3",
+    "name": "01_Onboarding",
+    "file": "12-3.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "GbbVE7PrDfP1rF7lCuKwZs",
+        "nodeId": "12:3",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "e6f8f853a4069adcf4243610ded06779f5c5af1abcbaf7ac6b26cefd49797a2c",
+      "response_file": "_debug/v2-native-12-3.png.txt",
+      "response_sha256": "68e27f27b31bca12c31fa1dcec4c53fe85a6ff39365f9b090e01b51658ba42c2"
+    }
+  },
+  {
+    "node_id": "12:4",
+    "name": "02_Home",
+    "file": "12-4.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "GbbVE7PrDfP1rF7lCuKwZs",
+        "nodeId": "12:4",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "69c60fa73c2dd0e1948b67da1fcd2fa9f06e35cc1db41d9d364f2c94be70a4dd",
+      "response_file": "_debug/v2-native-12-4.png.txt",
+      "response_sha256": "bbe27227d866ff85c72feecec7a2dde18f6c5582c4013020f5f5af3a3253b5bf"
+    }
+  },
+  {
+    "node_id": "12:5",
+    "name": "03_Explore",
+    "file": "12-5.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "GbbVE7PrDfP1rF7lCuKwZs",
+        "nodeId": "12:5",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "77ddfaa0698e05598e7267fd238ee4215e1f178ffb610c757f2c9db01edf5514",
+      "response_file": "_debug/v2-native-12-5.png.txt",
+      "response_sha256": "48085b9f62c55675e5960da79bb8d48f81b8dbe900137e006d010199ab5a44cb"
+    }
+  },
+  {
+    "node_id": "12:6",
+    "name": "04_Workout",
+    "file": "12-6.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "GbbVE7PrDfP1rF7lCuKwZs",
+        "nodeId": "12:6",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "6c616b4191e71b1ba217ae131b45c2dcd0fc7796343fff79e3e05cdf10abc65b",
+      "response_file": "_debug/v2-native-12-6.png.txt",
+      "response_sha256": "dc43ecad8e96a4ccc8f66dd5748b9e4926c1eac6c6fdc4649ec86330212c1bfd"
+    }
+  },
+  {
+    "node_id": "12:7",
+    "name": "05_Analytics",
+    "file": "12-7.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "GbbVE7PrDfP1rF7lCuKwZs",
+        "nodeId": "12:7",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "05181936aaae0a955e05031a7d0bbb9dad4c28bdfa4200af852b8e6bc6c15eab",
+      "response_file": "_debug/v2-native-12-7.png.txt",
+      "response_sha256": "ae34820bd4018e882ecc60418a8cf3b0a32417efc30cbdf8b6e65f6d33255406"
+    }
+  }
+]

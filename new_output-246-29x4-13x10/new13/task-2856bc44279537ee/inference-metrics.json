@@ -1,0 +1,17 @@
+{
+  "task_id": "task-2856bc44279537ee",
+  "title": "Placoo Rental",
+  "model_id": "model_kimi_k3_cc",
+  "inference_wall_seconds": 819.445,
+  "inference_duration_seconds": 819.445,
+  "input_tokens": 710002,
+  "output_tokens": 22498,
+  "total_tokens": 732500,
+  "token_usage_source": "API usage accumulated across completed model responses",
+  "token_usage_complete": false,
+  "token_usage_status": "partial",
+  "token_rounds": 23,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-2856bc44279537ee/task-000001/trajectory.jsonl",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-a2992213f9281914",
+  "cohort": "origin29",
+  "title": "Paradise Invest",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "eZRa5UBNmiAM3Q4n9OzmP5",
+  "url": "https://www.figma.com/design/eZRa5UBNmiAM3Q4n9OzmP5",
+  "expected_frames": 8,
+  "inference_status": "success",
+  "run_dir_basename": "task-a2992213f9281914",
+  "score_status": "completed",
+  "score_total": 38,
+  "other_score_revisions": []
+}

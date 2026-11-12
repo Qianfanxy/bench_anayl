@@ -1,0 +1,15 @@
+{
+  "task_id": "task-e1ff8e8ee3154dd7",
+  "cohort": "origin29",
+  "title": "Shop.co",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "9x1hCXA5ltCc4yr3Yu0v6F",
+  "url": "https://www.figma.com/design/9x1hCXA5ltCc4yr3Yu0v6F",
+  "expected_frames": 4,
+  "inference_status": "failed",
+  "run_dir_basename": "task-e1ff8e8ee3154dd7--origin29-qd-resume-20261111-172441",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

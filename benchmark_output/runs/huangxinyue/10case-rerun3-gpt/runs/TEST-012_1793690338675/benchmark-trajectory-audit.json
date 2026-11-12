@@ -1,0 +1,41 @@
+{
+  "kind": "benchmark-legacy-media-audit/v1",
+  "checked_at": "2026-11-03T07:28:29.865282+00:00",
+  "raw_audit": {
+    "ok": false,
+    "errors": [
+      "no non-empty thinking signature",
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-012_1793690338675/task-000001/media/d7770a2e36cc6887c207509f0be53af70f65041225ff34e35731f9ff3d221bfb.png",
+      "missing or invalid PNG: TEST-012_1793690338675/task-000001/media/d7770a2e36cc6887c207509f0be53af70f65041225ff34e35731f9ff3d221bfb.png"
+    ],
+    "require_prototype": false
+  },
+  "audit": {
+    "ok": false,
+    "errors": [
+      "no non-empty thinking signature",
+      "Figma create_new_file was not called"
+    ],
+    "require_prototype": false,
+    "raw_errors": [
+      "no non-empty thinking signature",
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-012_1793690338675/task-000001/media/d7770a2e36cc6887c207509f0be53af70f65041225ff34e35731f9ff3d221bfb.png",
+      "missing or invalid PNG: TEST-012_1793690338675/task-000001/media/d7770a2e36cc6887c207509f0be53af70f65041225ff34e35731f9ff3d221bfb.png"
+    ],
+    "media_warnings": [
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-012_1793690338675/task-000001/media/d7770a2e36cc6887c207509f0be53af70f65041225ff34e35731f9ff3d221bfb.png",
+        "path": "TEST-012_1793690338675/task-000001/media/d7770a2e36cc6887c207509f0be53af70f65041225ff34e35731f9ff3d221bfb.png",
+        "sha256": "d7770a2e36cc6887c207509f0be53af70f65041225ff34e35731f9ff3d221bfb",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "warnings": [
+      "PNG 解码与路径检查通过；旧 SFT 尺寸/色彩门槛记为告警，设计质量等待 fixed_v4 评测。"
+    ]
+  }
+}

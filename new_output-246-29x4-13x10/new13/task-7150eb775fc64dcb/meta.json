@@ -1,0 +1,15 @@
+{
+  "task_id": "task-7150eb775fc64dcb",
+  "cohort": "new13",
+  "title": "Open Fashion",
+  "model_id": "model_claude_fable51_login",
+  "model_name": "Fable 5.1",
+  "file_key": "fvuNQ4hT937gJWq8Mijfiq",
+  "url": "https://www.figma.com/design/fvuNQ4hT937gJWq8Mijfiq",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-7150eb775fc64dcb",
+  "score_status": "completed",
+  "score_total": 31,
+  "other_score_revisions": []
+}

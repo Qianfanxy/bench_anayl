@@ -1,0 +1,15 @@
+{
+  "task_id": "task-4a8375b1f8624b34",
+  "cohort": "new13",
+  "title": "Inkline Blog",
+  "model_id": "model_de5fc4c9cdb841e8",
+  "model_name": "gpt-6-astra",
+  "file_key": "0MwQHjn2jwHAOew64ui2oO",
+  "url": "https://www.figma.com/design/0MwQHjn2jwHAOew64ui2oO",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-4a8375b1f8624b34",
+  "score_status": "completed",
+  "score_total": 43,
+  "other_score_revisions": []
+}

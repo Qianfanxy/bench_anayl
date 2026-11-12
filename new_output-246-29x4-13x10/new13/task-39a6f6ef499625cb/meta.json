@@ -1,0 +1,15 @@
+{
+  "task_id": "task-39a6f6ef499625cb",
+  "cohort": "new13",
+  "title": "Cyber Phone Store",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "Gb3GSu5utc1nAiaUB6a83A",
+  "url": "https://www.figma.com/design/Gb3GSu5utc1nAiaUB6a83A",
+  "expected_frames": null,
+  "inference_status": "failed",
+  "run_dir_basename": "task-39a6f6ef499625cb",
+  "score_status": "completed",
+  "score_total": 36,
+  "other_score_revisions": []
+}

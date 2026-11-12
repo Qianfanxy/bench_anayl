@@ -1,0 +1,15 @@
+{
+  "task_id": "task-55b6649965a986f9",
+  "cohort": "new13",
+  "title": "Magic Coffee",
+  "model_id": "model_de5fc4c9cdb841e8",
+  "model_name": "gpt-6-astra",
+  "file_key": "muoiFgc6nkihhPTavCevZK",
+  "url": "https://www.figma.com/design/muoiFgc6nkihhPTavCevZK",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-55b6649965a986f9",
+  "score_status": "completed",
+  "score_total": 44,
+  "other_score_revisions": []
+}

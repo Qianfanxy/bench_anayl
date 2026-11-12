@@ -1,0 +1,13 @@
+{
+  "kind": "rule-based-screen-count/v1",
+  "task_id": "task-e912e94d5757f326",
+  "file_key": "baYYS6nDsvzpy2QaqoDQDi",
+  "rule_version": "support-board-exclusion/v2",
+  "expected": 15,
+  "actual": 15,
+  "passed": true,
+  "model_calls": 0,
+  "screenshot_calls": 0,
+  "semantic_requirements_checked": false,
+  "checked_at": "2026-11-10T00:53:37.520312+00:00"
+}

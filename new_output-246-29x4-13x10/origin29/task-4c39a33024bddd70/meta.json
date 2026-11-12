@@ -1,0 +1,15 @@
+{
+  "task_id": "task-4c39a33024bddd70",
+  "cohort": "origin29",
+  "title": "Northgate Homes",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "Y3aMNiomUNTotzieuqAjUZ",
+  "url": "https://www.figma.com/design/Y3aMNiomUNTotzieuqAjUZ",
+  "expected_frames": 2,
+  "inference_status": "failed",
+  "run_dir_basename": "task-4c39a33024bddd70",
+  "score_status": "completed",
+  "score_total": 39,
+  "other_score_revisions": []
+}

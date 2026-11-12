@@ -1,0 +1,15 @@
+{
+  "task_id": "task-19db7b47142dccf4",
+  "cohort": "origin29",
+  "title": "Vulcan Invest",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "hjaayGwTlN9kq57Ga6BWdH",
+  "url": "https://www.figma.com/design/hjaayGwTlN9kq57Ga6BWdH",
+  "expected_frames": 7,
+  "inference_status": "failed",
+  "run_dir_basename": "task-19db7b47142dccf4",
+  "score_status": "completed",
+  "score_total": 42,
+  "other_score_revisions": []
+}

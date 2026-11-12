@@ -1,0 +1,15 @@
+{
+  "task_id": "task-b796b01b06967095",
+  "cohort": "origin29",
+  "title": "FinX",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "CCJZreKkiBIwpDKXEDvT2v",
+  "url": "https://www.figma.com/design/CCJZreKkiBIwpDKXEDvT2v",
+  "expected_frames": 10,
+  "inference_status": "success",
+  "run_dir_basename": "task-b796b01b06967095",
+  "score_status": "completed",
+  "score_total": 39,
+  "other_score_revisions": []
+}

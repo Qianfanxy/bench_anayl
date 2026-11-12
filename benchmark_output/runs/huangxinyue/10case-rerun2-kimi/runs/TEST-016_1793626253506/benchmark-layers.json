@@ -1,0 +1,105 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "🧩 Budget · UI Kit",
+      "size": "439×1262",
+      "nodes": 116,
+      "max_depth": 6,
+      "instances": 22,
+      "texts": 33,
+      "images": 0,
+      "types": [
+        "text×33",
+        "frame×26",
+        "vector×20",
+        "component×11",
+        "instance×11",
+        "rectangle×7"
+      ],
+      "names": [
+        "Budget · reusable compon",
+        "Comp / Tab Bar",
+        "Rectangle",
+        "tabs",
+        "Overview",
+        "Icon_Overview"
+      ]
+    },
+    {
+      "name": "01_Expenses",
+      "size": "375×812",
+      "nodes": 139,
+      "max_depth": 6,
+      "instances": 18,
+      "texts": 38,
+      "images": 0,
+      "types": [
+        "frame×46",
+        "text×38",
+        "instance×18",
+        "vector×18",
+        "rectangle×18",
+        "ellipse×1"
+      ],
+      "names": [
+        "content",
+        "Comp / Header",
+        "back",
+        "Icon_Back",
+        "Vector",
+        "plus"
+      ]
+    },
+    {
+      "name": "02_Bill",
+      "size": "375×812",
+      "nodes": 102,
+      "max_depth": 7,
+      "instances": 19,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "vector×24",
+        "frame×22",
+        "text×20",
+        "instance×19",
+        "group×9",
+        "rectangle×7"
+      ],
+      "names": [
+        "content",
+        "Comp / Header",
+        "back",
+        "Icon_Back",
+        "Vector",
+        "plus"
+      ]
+    },
+    {
+      "name": "03_Credit_Score",
+      "size": "375×812",
+      "nodes": 81,
+      "max_depth": 5,
+      "instances": 10,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "frame×23",
+        "instance×10",
+        "rectangle×9",
+        "vector×8",
+        "ellipse×6"
+      ],
+      "names": [
+        "content",
+        "Comp / Header",
+        "back",
+        "Icon_Back",
+        "Vector",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-dd6056c76e745b7e",
+  "cohort": "origin29",
+  "title": "Vulcan Invest",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "3NiUheFzCNgTodgeqaRCuU",
+  "url": "https://www.figma.com/design/3NiUheFzCNgTodgeqaRCuU",
+  "expected_frames": 7,
+  "inference_status": "failed",
+  "run_dir_basename": "task-dd6056c76e745b7e",
+  "score_status": "completed",
+  "score_total": 42,
+  "other_score_revisions": []
+}

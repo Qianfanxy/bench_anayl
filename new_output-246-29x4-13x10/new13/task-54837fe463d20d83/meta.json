@@ -1,0 +1,15 @@
+{
+  "task_id": "task-54837fe463d20d83",
+  "cohort": "new13",
+  "title": "Magic Coffee",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "9LREW92tFZhINpFjzbQUbL",
+  "url": "https://www.figma.com/design/9LREW92tFZhINpFjzbQUbL",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-54837fe463d20d83",
+  "score_status": "completed",
+  "score_total": 45,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-eff361acff9cea6f",
+  "cohort": "origin29",
+  "title": "Stock Trading",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "ok4EBBbju8oIOk8571Jbsy",
+  "url": "https://www.figma.com/design/ok4EBBbju8oIOk8571Jbsy",
+  "expected_frames": 6,
+  "inference_status": "success",
+  "run_dir_basename": "task-eff361acff9cea6f",
+  "score_status": "completed",
+  "score_total": 45,
+  "other_score_revisions": []
+}

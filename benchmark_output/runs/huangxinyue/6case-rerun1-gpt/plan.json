@@ -1,0 +1,68 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "design6-rerun1-gpt",
+  "dataset_hash": "7568d24e7c7a4e755cb47056af19977b45d17f69c2b7e0c9adf9646fde328a06",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_de5fc4c9cdb841e8",
+      "name": "gpt-6-astra",
+      "provider": "Claude Code",
+      "connection_mode": "direct",
+      "base_url": "http://127.0.0.1:18195",
+      "host": "127.0.0.1",
+      "port": 18185,
+      "model_id": "gpt-6-astra/azure_L/sfl",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "openai",
+      "can_evaluate": 1,
+      "buffered_stream": 1,
+      "vision": 1,
+      "generation_mode": "direct"
+    }
+  ],
+  "case_count": 3,
+  "assignment_count": 3,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 1,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_eec156ec08b9d56a8957",
+      "case_id": "case-006",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_d4d689e6f1c936b1bf24",
+      "case_id": "case-005",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_b6d4abf5616d3dfb72d6",
+      "case_id": "case-002",
+      "model_id": "model_de5fc4c9cdb841e8"
+    }
+  ],
+  "content_hash": "f74c34d0460ae3759368907cccff5ad50b3b28f016d23457e24ac1a0f4bf38e3"
+}

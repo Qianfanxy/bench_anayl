@@ -1,0 +1,15 @@
+{
+  "task_id": "task-e7baef8dca4023c8",
+  "cohort": "origin29",
+  "title": "Fitness App",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "Lfm3ZWiUbvJN6rkg0ChoA0",
+  "url": "https://www.figma.com/design/Lfm3ZWiUbvJN6rkg0ChoA0",
+  "expected_frames": 5,
+  "inference_status": "running",
+  "run_dir_basename": "task-e7baef8dca4023c8--origin29-qd-resume-20261111-172441",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-fc6960250b4516c7",
+  "cohort": "origin29",
+  "title": "Nectar",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "6NLuytlBigAKLMEUYEnMfg",
+  "url": "https://www.figma.com/design/6NLuytlBigAKLMEUYEnMfg",
+  "expected_frames": 12,
+  "inference_status": "success",
+  "run_dir_basename": "task-fc6960250b4516c7",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

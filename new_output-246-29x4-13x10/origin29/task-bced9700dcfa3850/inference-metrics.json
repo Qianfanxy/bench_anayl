@@ -1,0 +1,22 @@
+{
+  "task_id": "task-bced9700dcfa3850",
+  "title": "Fasco",
+  "model_id": "model_qwen38_max_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 5402.273,
+  "inference_duration_seconds": 5402.273,
+  "input_tokens": 5577168,
+  "output_tokens": 111682,
+  "total_tokens": 5688850,
+  "cached_input_tokens": 5097216,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 132,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": false,
+  "token_usage_status": "partial",
+  "token_rounds": 132,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-bced9700dcfa3850--restart-20261110-095732/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

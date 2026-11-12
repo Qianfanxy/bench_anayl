@@ -1,0 +1,36 @@
+本地评测包准备检查
+日期：2026-11-09（Asia/Shanghai）
+数据目录：/Users/hxyh/Documents/figma_bench/benchmark_output
+详细检查结果：同目录 preflight.json
+
+结论
+现有 HTML 报告和相对路径索引现在即可使用。复跑原分析脚本前，需要准备兼容的独立 Python 环境，并处理远程绝对路径。此次只读取原包，新增检查结果保存在原包之外。
+
+已完成的检查
+1. 执行原包 tools/verify_bundle.py：11522 个文件 SHA256 全部通过。
+2. 对 386 个 SQLite 数据库以只读、immutable 模式执行 PRAGMA quick_check：全部返回 ok。
+3. 相对路径索引有 177 个唯一运行、29 道题；与原资产索引的运行 ID 集合一致。
+4. 索引引用的 177 份 trajectory、177 份 trace 库、177 个截图目录及评分库均存在；run.log 存在 148 份，另 29 项为空，未发现非空路径失效。
+5. 检查 START.html 和 results_eval 中共 15 个 HTML 文件的 href/src：1317 个本地资源引用均存在。未做浏览器渲染检查或云端 URL 访问检查。
+6. 对 prepare_local.py 的转换规则只做预演：35 个 project 文本文件需要路径转换，尚未执行写入。
+
+复跑前需要准备
+1. 创建独立 Python 3.11 环境，按 requirements-analysis.txt 安装依赖。
+   本机默认 Python 是 3.14.4，已装 numpy 2.4.6、pandas 3.0.3、Pillow 12.2.0，缺少 scipy、matplotlib。
+   原包锁定 numpy 1.24.4、scipy 1.12.0、matplotlib 3.8.4、pandas 1.5.3、Pillow 10.2.0。
+   NumPy 1.24.4 官方支持 Python 3.8–3.11；README 中“Python 3.10+”不应理解为可直接使用任意更新版本。
+   依据：https://numpy.org/doc/stable/release/1.24.4-notes.html
+2. 保留原包；在工作副本中执行 tools/prepare_local.py，转换索引和脚本中的已知远程路径。
+   脚本仅转换 project 文本，保存原文本到 metadata/original_project_text，不改写 runs。
+   转换后，原 checksums.json 对这些工作文本将不再匹配，应保留本次原包校验记录。
+3. 原分析脚本会写入既有 results_eval 目录；重算应在工作副本进行，便于比较已有报告。
+
+分析时需要沿用的口径
+1. 正式运行以 portable_run_index.csv 或 manifest 为入口，避免混入历史运行与被补跑替换的版本。
+2. 六个主要模型各覆盖 29 道题，Qwen 仅覆盖 3 道题；跨模型总均分须限定共同题集。
+3. 现有 version_audit.csv 有 174 条 Arena 候选记录，strict_eligible=True 的有 164 条，六模型全部严格匹配的题有 24 道。严格比较应沿用版本审计。
+4. Chat Bot AI 旧 GPT 继续按既有分析规则排除；保留其历史原始材料不代表纳入分析。
+5. Arena 缺少的 20 张历史候选图属于已知缺口，涉及 4 个运行；原生 .fig 文件不在包内。
+   若后续研究需要这些历史图片或原生可编辑文件，再向远程补取；已有本地报告与轨迹读取可以继续。
+
+此次未安装软件、未转换路径、未重新生成分析报告。

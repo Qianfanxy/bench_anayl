@@ -1,0 +1,15 @@
+{
+  "task_id": "task-71264a9e551c8521",
+  "cohort": "new13",
+  "title": "Fyrre Magazine",
+  "model_id": "model_claude_fable51_login",
+  "model_name": "Fable 5.1",
+  "file_key": "GCq4Tnan1QhNPR24gSMo9w",
+  "url": "https://www.figma.com/design/GCq4Tnan1QhNPR24gSMo9w",
+  "expected_frames": 7,
+  "inference_status": "success",
+  "run_dir_basename": "task-71264a9e551c8521",
+  "score_status": "completed",
+  "score_total": 49,
+  "other_score_revisions": []
+}

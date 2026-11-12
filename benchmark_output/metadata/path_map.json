@@ -1,0 +1,14 @@
+[
+  {
+    "original_prefix": "/mnt/afs_design/huangxinyue/projects/benchmark-design",
+    "bundle_prefix": "project"
+  },
+  {
+    "original_prefix": "/mnt/afs_design/huangxinyue/bench-runs",
+    "bundle_prefix": "runs/huangxinyue"
+  },
+  {
+    "original_prefix": "/mnt/afs_design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks",
+    "bundle_prefix": "runs/gaoyongyong"
+  }
+]

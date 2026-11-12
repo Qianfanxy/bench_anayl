@@ -1,0 +1,17 @@
+{
+  "task_id": "task-4976baef178385ac",
+  "cohort": "new13",
+  "title": "MindfulMentor",
+  "model_id": "model_gemini_31_pro_cc",
+  "model_name": "Gemini 3.5 Flash",
+  "file_key": "0unlIGEa8Mq6bSURWwpUSg",
+  "url": "https://www.figma.com/design/0unlIGEa8Mq6bSURWwpUSg",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-4976baef178385ac",
+  "score_status": "completed",
+  "score_total": 0,
+  "other_score_revisions": [
+    "task-4976baef178385ac-d91c0207400fc5a4a9eb"
+  ]
+}

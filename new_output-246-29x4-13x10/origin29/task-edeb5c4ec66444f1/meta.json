@@ -1,0 +1,15 @@
+{
+  "task_id": "task-edeb5c4ec66444f1",
+  "cohort": "origin29",
+  "title": "MAC Agency",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "B640R7Q9SN1ezw2MKg9pdG",
+  "url": "https://www.figma.com/design/B640R7Q9SN1ezw2MKg9pdG",
+  "expected_frames": 1,
+  "inference_status": "success",
+  "run_dir_basename": "task-edeb5c4ec66444f1--origin29-qd-resume-20261111-172441",
+  "score_status": "completed",
+  "score_total": 46,
+  "other_score_revisions": []
+}

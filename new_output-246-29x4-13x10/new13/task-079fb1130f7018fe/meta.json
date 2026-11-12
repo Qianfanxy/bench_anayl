@@ -1,0 +1,15 @@
+{
+  "task_id": "task-079fb1130f7018fe",
+  "cohort": "new13",
+  "title": "Hawkeye Travel",
+  "model_id": "model_de5fc4c9cdb841e8",
+  "model_name": "gpt-6-astra",
+  "file_key": "1pzQRESHPJp7EywWPtS22i",
+  "url": "https://www.figma.com/design/1pzQRESHPJp7EywWPtS22i",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-079fb1130f7018fe",
+  "score_status": "completed",
+  "score_total": 38,
+  "other_score_revisions": []
+}

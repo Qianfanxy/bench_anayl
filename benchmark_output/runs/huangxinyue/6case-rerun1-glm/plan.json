@@ -1,0 +1,58 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "design6-rerun1-glm",
+  "dataset_hash": "c39378f34611d687ea3130a1d1e0084c8f2067cad4996d13dda9ccd2b33b784e",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_glm_53_flash_cc",
+      "name": "GLM-5.3 Flash",
+      "provider": "qnaigc / 智谱",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "https://tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "glm-5.3-flash/tencent/sfb",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 0,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    }
+  ],
+  "case_count": 1,
+  "assignment_count": 1,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 1,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_f21ca3d722c4ecc3b80a",
+      "case_id": "case-006",
+      "model_id": "model_glm_53_flash_cc"
+    }
+  ],
+  "content_hash": "3fb38a3c7980988490b9aa19392de542718e6ecf504c797cd18731dbbc25b734"
+}

@@ -1,0 +1,29 @@
+task-ca3c12d960d712f0: 没有推理运行目录
+task-f44ea3cc2d3f38ac: 打分未完成或结果不可读 (task-f44ea3cc2d3f38ac-44f2cb2964292ee8bc20:无result.json)
+task-907706855405cc8d: 打分未完成或结果不可读 (task-907706855405cc8d-402f75949548a4997729:无result.json)
+task-92afc0b60094f93d: 打分未完成或结果不可读 (task-92afc0b60094f93d-d1ee6aba3f80132c32dc:无result.json)
+task-04d0961c2c119289: 打分未完成或结果不可读 (task-04d0961c2c119289-ab9ccc208313c7239e1a:无result.json)
+task-02222ab9b4515ead: 打分未完成或结果不可读 (task-02222ab9b4515ead-89c125b8551d62abfefd:无result.json)
+task-6ba35993d2dfe5f9: 打分未完成或结果不可读 (task-6ba35993d2dfe5f9-8a53b4320e01a4cb51d7:无result.json)
+task-5256d8aab8328dc6: 打分未完成或结果不可读 (task-5256d8aab8328dc6-12fcac4dca5b8c1d8ea7:无result.json)
+task-c634ab8fe23bd6c0: 打分未完成或结果不可读 (task-c634ab8fe23bd6c0-76b23080fb9f9d741fd6:无result.json)
+task-b01a9a749f390a0a: 没有轨迹文件 /mnt/afs_design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-b01a9a749f390a0a--restart-20261110-095732/task-000001/trajectory.jsonl
+task-1386f9aa42de8ed5: 没有轨迹文件 /mnt/afs_design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-1386f9aa42de8ed5/task-000001/trajectory.jsonl
+task-d5a1d20918d099bb: 没有轨迹文件 /mnt/afs_design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-d5a1d20918d099bb--restart-20261110-095732/task-000001/trajectory.jsonl
+task-8fd8dd78bd2d7d93: 没有推理运行目录
+task-d477ee24936a67ed: 打分未完成或结果不可读 (task-d477ee24936a67ed-f0a322461c08594ee019:无result.json)
+task-57f8eedefaf6282b: 打分未完成或结果不可读 (task-57f8eedefaf6282b-1b5fb5457280692df7ff:无result.json)
+task-6b272dd2b7673abd: 打分未完成或结果不可读 (task-6b272dd2b7673abd-4680a94200455b35f44c:无result.json)
+task-3f8be410e6511d11: 打分未完成或结果不可读 (task-3f8be410e6511d11-a0d51ba8da62cfdf5ae2:无result.json)
+task-a9d8338ec2cb11bd: 打分未完成或结果不可读 (task-a9d8338ec2cb11bd-930857b9b75d372cd371:无result.json)
+task-0d7ee92137f060b5: 打分未完成或结果不可读 (task-0d7ee92137f060b5-2c22a7efa194067c4568:无result.json)
+task-ce22590002a3a589: 打分未完成或结果不可读 (task-ce22590002a3a589-3d728eaae9e9df442cbb:无result.json)
+task-e70591492eeb84b7: 打分未完成或结果不可读 (task-e70591492eeb84b7-ac04964f942066bee3da:无result.json)
+task-d13701743e0281ff: 没有推理运行目录
+task-c2f4abd457729f42: 打分未完成或结果不可读 (task-c2f4abd457729f42-ac729252e05e06dbbd91:无result.json)
+task-fc6960250b4516c7: 打分未完成或结果不可读 (task-fc6960250b4516c7-cc8f7b73554f2624f7c4:无result.json)
+task-1d673e6f29b3f76c: 没有推理运行目录
+task-37b6247f60366b6c: 没有推理运行目录
+task-c79719e051e83d53: 打分未完成或结果不可读 (task-c79719e051e83d53-26578e5eb3f611b893d5:无result.json)
+task-21d5edfb49f017e7: 没有推理运行目录
+task-7464eb4f527eaba7: 打分未完成或结果不可读 (task-7464eb4f527eaba7-e17b24e46387fe0471d4:无result.json)

@@ -1,0 +1,21 @@
+{
+  "task_id": "task-af7f2466397a378b",
+  "title": "Audio Shop",
+  "model_id": "model_glm_53_flash_cc",
+  "inference_wall_seconds": 983.979,
+  "inference_duration_seconds": 983.979,
+  "input_tokens": 280952,
+  "output_tokens": 45546,
+  "total_tokens": 326498,
+  "cached_input_tokens": 238144,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 15,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 15,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-af7f2466397a378b/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

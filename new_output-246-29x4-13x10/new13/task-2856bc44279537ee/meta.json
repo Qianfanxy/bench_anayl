@@ -1,0 +1,15 @@
+{
+  "task_id": "task-2856bc44279537ee",
+  "cohort": "new13",
+  "title": "Placoo Rental",
+  "model_id": "model_kimi_k3_cc",
+  "model_name": "Kimi K3",
+  "file_key": "qAy22SKiotXVhoDhFttmcL",
+  "url": "https://www.figma.com/design/qAy22SKiotXVhoDhFttmcL",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-2856bc44279537ee",
+  "score_status": "completed",
+  "score_total": 40,
+  "other_score_revisions": []
+}

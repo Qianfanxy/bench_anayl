@@ -1,0 +1,576 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="548" viewBox="0 0 1640 548">
+<rect width="1640" height="548" fill="#fff"/>
+<g font-family="Helvetica Neue, PingFang SC, sans-serif" fill="#242c28">
+<text x="36" y="52" font-size="30" font-weight="bold">Figma 设计质量 · Model × Task</text>
+<text x="36" y="83" font-size="17" fill="#54645d">6 个模型 × 29 个任务 · VLM 原始分数</text>
+<text x="36" y="165" font-size="16" font-weight="bold">Opus 5.5（三方A）</text>
+<text x="36" y="208" font-size="16" font-weight="bold">gpt-6-astra</text>
+<text x="36" y="251" font-size="16" font-weight="bold">Fable 5.1</text>
+<text x="36" y="294" font-size="16" font-weight="bold">GLM-5.3 Flash</text>
+<text x="36" y="337" font-size="16" font-weight="bold">Kimi K3</text>
+<text x="36" y="380" font-size="16" font-weight="bold">Gemini 3.5 Flash</text>
+<text x="243" y="122" font-size="15" font-weight="bold">3case</text>
+<g><title>Balance · Opus 5.5（三方A） · 48</title><rect x="243" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="264" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Balance · gpt-6-astra · 42</title><rect x="243" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="264" y="207" font-size="15" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>Balance · Fable 5.1 · 36</title><rect x="243" y="227" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="264" y="250" font-size="15" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<g><title>Balance · GLM-5.3 Flash · 32</title><rect x="243" y="270" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="264" y="293" font-size="15" text-anchor="middle" font-weight="bold">32</text>
+</g>
+<g><title>Balance · Kimi K3 · 33</title><rect x="243" y="313" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="264" y="336" font-size="15" text-anchor="middle" font-weight="bold">33</text>
+</g>
+<g><title>Balance · Gemini 3.5 Flash · 35</title><rect x="243" y="356" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="264" y="379" font-size="15" text-anchor="middle" font-weight="bold">35</text>
+</g>
+<text x="264" y="416" font-size="12" text-anchor="middle" fill="#54645d">01</text>
+<g><title>Paradise Invest · Opus 5.5（三方A） · 47</title><rect x="289" y="141" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="310" y="164" font-size="15" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Paradise Invest · gpt-6-astra · 45</title><rect x="289" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="310" y="207" font-size="15" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Paradise Invest · Fable 5.1 · 40</title><rect x="289" y="227" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="310" y="250" font-size="15" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Paradise Invest · GLM-5.3 Flash · 44</title><rect x="289" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="310" y="293" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Paradise Invest · Kimi K3 · 40</title><rect x="289" y="313" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="310" y="336" font-size="15" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Paradise Invest · Gemini 3.5 Flash · 39</title><rect x="289" y="356" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="310" y="379" font-size="15" text-anchor="middle" font-weight="bold">39</text>
+</g>
+<text x="310" y="416" font-size="12" text-anchor="middle" fill="#54645d">02</text>
+<g><title>Foodgo · Opus 5.5（三方A） · 46</title><rect x="335" y="141" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="356" y="164" font-size="15" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Foodgo · gpt-6-astra · 37</title><rect x="335" y="184" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="356" y="207" font-size="15" text-anchor="middle" font-weight="bold">37</text>
+</g>
+<g><title>Foodgo · Fable 5.1 · 41</title><rect x="335" y="227" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="356" y="250" font-size="15" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Foodgo · GLM-5.3 Flash · 38</title><rect x="335" y="270" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="356" y="293" font-size="15" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<g><title>Foodgo · Kimi K3 · 38</title><rect x="335" y="313" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="356" y="336" font-size="15" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<g><title>Foodgo · Gemini 3.5 Flash · 36</title><rect x="335" y="356" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="356" y="379" font-size="15" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<text x="356" y="416" font-size="12" text-anchor="middle" fill="#54645d">03</text>
+<text x="391" y="122" font-size="15" font-weight="bold">6case</text>
+<g><title>StockWave · Opus 5.5（三方A） · 45</title><rect x="391" y="141" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="412" y="164" font-size="15" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>StockWave · gpt-6-astra · 42</title><rect x="391" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="412" y="207" font-size="15" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>StockWave · Fable 5.1 · 44</title><rect x="391" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="412" y="250" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>StockWave · GLM-5.3 Flash · 40</title><rect x="391" y="270" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="412" y="293" font-size="15" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>StockWave · Kimi K3 · 39</title><rect x="391" y="313" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="412" y="336" font-size="15" text-anchor="middle" font-weight="bold">39</text>
+</g>
+<g><title>StockWave · Gemini 3.5 Flash · 40</title><rect x="391" y="356" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="412" y="379" font-size="15" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<text x="412" y="416" font-size="12" text-anchor="middle" fill="#54645d">01</text>
+<g><title>Nectar · Opus 5.5（三方A） · 47</title><rect x="437" y="141" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="458" y="164" font-size="15" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Nectar · gpt-6-astra · 46</title><rect x="437" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="458" y="207" font-size="15" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Nectar · Fable 5.1 · 38</title><rect x="437" y="227" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="458" y="250" font-size="15" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<g><title>Nectar · GLM-5.3 Flash · 44</title><rect x="437" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="458" y="293" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Nectar · Kimi K3 · 41</title><rect x="437" y="313" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="458" y="336" font-size="15" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Nectar · Gemini 3.5 Flash · 38</title><rect x="437" y="356" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="458" y="379" font-size="15" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<text x="458" y="416" font-size="12" text-anchor="middle" fill="#54645d">02</text>
+<g><title>Stylish · Opus 5.5（三方A） · 42</title><rect x="483" y="141" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="504" y="164" font-size="15" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>Stylish · gpt-6-astra · 36</title><rect x="483" y="184" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="504" y="207" font-size="15" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<g><title>Stylish · Fable 5.1 · 35</title><rect x="483" y="227" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="504" y="250" font-size="15" text-anchor="middle" font-weight="bold">35</text>
+</g>
+<g><title>Stylish · GLM-5.3 Flash · 35</title><rect x="483" y="270" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="504" y="293" font-size="15" text-anchor="middle" font-weight="bold">35</text>
+</g>
+<g><title>Stylish · Kimi K3 · 31</title><rect x="483" y="313" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="504" y="336" font-size="15" text-anchor="middle" font-weight="bold">31</text>
+</g>
+<g><title>Stylish · Gemini 3.5 Flash · 29</title><rect x="483" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="504" y="379" font-size="15" text-anchor="middle" font-weight="bold">29</text>
+</g>
+<text x="504" y="416" font-size="12" text-anchor="middle" fill="#54645d">03</text>
+<g><title>Chat Bot AI · Opus 5.5（三方A） · 51</title><rect x="529" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="550" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">51</text>
+</g>
+<g><title>Chat Bot AI · gpt-6-astra · 46</title><rect x="529" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="550" y="207" font-size="15" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Chat Bot AI · Fable 5.1 · 38</title><rect x="529" y="227" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="550" y="250" font-size="15" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<g><title>Chat Bot AI · GLM-5.3 Flash · 44</title><rect x="529" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="550" y="293" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Chat Bot AI · Kimi K3 · 40</title><rect x="529" y="313" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="550" y="336" font-size="15" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Chat Bot AI · Gemini 3.5 Flash · 42</title><rect x="529" y="356" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="550" y="379" font-size="15" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<text x="550" y="416" font-size="12" text-anchor="middle" fill="#54645d">04</text>
+<g><title>FinX · Opus 5.5（三方A） · 44</title><rect x="575" y="141" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="596" y="164" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>FinX · gpt-6-astra · 39</title><rect x="575" y="184" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="596" y="207" font-size="15" text-anchor="middle" font-weight="bold">39</text>
+</g>
+<g><title>FinX · Fable 5.1 · 35</title><rect x="575" y="227" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="596" y="250" font-size="15" text-anchor="middle" font-weight="bold">35</text>
+</g>
+<g><title>FinX · GLM-5.3 Flash · 33</title><rect x="575" y="270" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="596" y="293" font-size="15" text-anchor="middle" font-weight="bold">33</text>
+</g>
+<g><title>FinX · Kimi K3 · 36</title><rect x="575" y="313" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="596" y="336" font-size="15" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<g><title>FinX · Gemini 3.5 Flash · 40</title><rect x="575" y="356" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="596" y="379" font-size="15" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<text x="596" y="416" font-size="12" text-anchor="middle" fill="#54645d">05</text>
+<g><title>Fruit Hub · Opus 5.5（三方A） · 49</title><rect x="621" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="642" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">49</text>
+</g>
+<g><title>Fruit Hub · gpt-6-astra · 44</title><rect x="621" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="642" y="207" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Fruit Hub · Fable 5.1 · 42</title><rect x="621" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="642" y="250" font-size="15" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>Fruit Hub · GLM-5.3 Flash · 41</title><rect x="621" y="270" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="642" y="293" font-size="15" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Fruit Hub · Kimi K3 · 44</title><rect x="621" y="313" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="642" y="336" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Fruit Hub · Gemini 3.5 Flash · 44</title><rect x="621" y="356" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="642" y="379" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<text x="642" y="416" font-size="12" text-anchor="middle" fill="#54645d">06</text>
+<text x="677" y="122" font-size="15" font-weight="bold">10case</text>
+<g><title>Investment Wallet · Opus 5.5（三方A） · 50</title><rect x="677" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="698" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">50</text>
+</g>
+<g><title>Investment Wallet · gpt-6-astra · 47</title><rect x="677" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="698" y="207" font-size="15" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Investment Wallet · Fable 5.1 · 45</title><rect x="677" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="698" y="250" font-size="15" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Investment Wallet · GLM-5.3 Flash · 49</title><rect x="677" y="270" width="42" height="36" rx="5" fill="#237857"/>
+<text x="698" y="293" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">49</text>
+</g>
+<g><title>Investment Wallet · Kimi K3 · 41</title><rect x="677" y="313" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="698" y="336" font-size="15" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Investment Wallet · Gemini 3.5 Flash · 42</title><rect x="677" y="356" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="698" y="379" font-size="15" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<text x="698" y="416" font-size="12" text-anchor="middle" fill="#54645d">01</text>
+<g><title>Travelin · Opus 5.5（三方A） · 53</title><rect x="723" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="744" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">53</text>
+</g>
+<g><title>Travelin · gpt-6-astra · 51</title><rect x="723" y="184" width="42" height="36" rx="5" fill="#237857"/>
+<text x="744" y="207" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">51</text>
+</g>
+<g><title>Travelin · Fable 5.1 · 52</title><rect x="723" y="227" width="42" height="36" rx="5" fill="#237857"/>
+<text x="744" y="250" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">52</text>
+</g>
+<g><title>Travelin · GLM-5.3 Flash · 50</title><rect x="723" y="270" width="42" height="36" rx="5" fill="#237857"/>
+<text x="744" y="293" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">50</text>
+</g>
+<g><title>Travelin · Kimi K3 · 44</title><rect x="723" y="313" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="744" y="336" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Travelin · Gemini 3.5 Flash · 37</title><rect x="723" y="356" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="744" y="379" font-size="15" text-anchor="middle" font-weight="bold">37</text>
+</g>
+<text x="744" y="416" font-size="12" text-anchor="middle" fill="#54645d">02</text>
+<g><title>Stock Trading · Opus 5.5（三方A） · 48</title><rect x="769" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="790" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Stock Trading · gpt-6-astra · 47</title><rect x="769" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="790" y="207" font-size="15" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Stock Trading · Fable 5.1 · 44</title><rect x="769" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="790" y="250" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Stock Trading · GLM-5.3 Flash · 44</title><rect x="769" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="790" y="293" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Stock Trading · Kimi K3 · 40</title><rect x="769" y="313" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="790" y="336" font-size="15" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Stock Trading · Gemini 3.5 Flash · 33</title><rect x="769" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="790" y="379" font-size="15" text-anchor="middle" font-weight="bold">33</text>
+</g>
+<text x="790" y="416" font-size="12" text-anchor="middle" fill="#54645d">03</text>
+<g><title>Meet · Opus 5.5（三方A） · 51</title><rect x="815" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="836" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">51</text>
+</g>
+<g><title>Meet · gpt-6-astra · 49</title><rect x="815" y="184" width="42" height="36" rx="5" fill="#237857"/>
+<text x="836" y="207" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">49</text>
+</g>
+<g><title>Meet · Fable 5.1 · 39</title><rect x="815" y="227" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="836" y="250" font-size="15" text-anchor="middle" font-weight="bold">39</text>
+</g>
+<g><title>Meet · GLM-5.3 Flash · 40</title><rect x="815" y="270" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="836" y="293" font-size="15" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Meet · Kimi K3 · 47</title><rect x="815" y="313" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="836" y="336" font-size="15" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Meet · Gemini 3.5 Flash · 36</title><rect x="815" y="356" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="836" y="379" font-size="15" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<text x="836" y="416" font-size="12" text-anchor="middle" fill="#54645d">04</text>
+<g><title>Expenio · Opus 5.5（三方A） · 49</title><rect x="861" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="882" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">49</text>
+</g>
+<g><title>Expenio · gpt-6-astra · 46</title><rect x="861" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="882" y="207" font-size="15" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Expenio · Fable 5.1 · 46</title><rect x="861" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="882" y="250" font-size="15" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Expenio · GLM-5.3 Flash · 44</title><rect x="861" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="882" y="293" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Expenio · Kimi K3 · 46</title><rect x="861" y="313" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="882" y="336" font-size="15" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Expenio · Gemini 3.5 Flash · 42</title><rect x="861" y="356" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="882" y="379" font-size="15" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<text x="882" y="416" font-size="12" text-anchor="middle" fill="#54645d">05</text>
+<g><title>Payment Wallet · Opus 5.5（三方A） · 52</title><rect x="907" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="928" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">52</text>
+</g>
+<g><title>Payment Wallet · gpt-6-astra · 50</title><rect x="907" y="184" width="42" height="36" rx="5" fill="#237857"/>
+<text x="928" y="207" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">50</text>
+</g>
+<g><title>Payment Wallet · Fable 5.1 · 45</title><rect x="907" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="928" y="250" font-size="15" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Payment Wallet · GLM-5.3 Flash · 48</title><rect x="907" y="270" width="42" height="36" rx="5" fill="#237857"/>
+<text x="928" y="293" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Payment Wallet · Kimi K3 · 43</title><rect x="907" y="313" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="928" y="336" font-size="15" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Payment Wallet · Gemini 3.5 Flash · 38</title><rect x="907" y="356" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="928" y="379" font-size="15" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<text x="928" y="416" font-size="12" text-anchor="middle" fill="#54645d">06</text>
+<g><title>Vulcan Invest · Opus 5.5（三方A） · 45</title><rect x="953" y="141" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="974" y="164" font-size="15" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Vulcan Invest · gpt-6-astra · 41</title><rect x="953" y="184" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="974" y="207" font-size="15" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Vulcan Invest · Fable 5.1 · 43</title><rect x="953" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="974" y="250" font-size="15" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Vulcan Invest · GLM-5.3 Flash · 36</title><rect x="953" y="270" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="974" y="293" font-size="15" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<g><title>Vulcan Invest · Kimi K3 · 38</title><rect x="953" y="313" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="974" y="336" font-size="15" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<g><title>Vulcan Invest · Gemini 3.5 Flash · 30</title><rect x="953" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="974" y="379" font-size="15" text-anchor="middle" font-weight="bold">30</text>
+</g>
+<text x="974" y="416" font-size="12" text-anchor="middle" fill="#54645d">07</text>
+<g><title>Fitness App · Opus 5.5（三方A） · 51</title><rect x="999" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1020" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">51</text>
+</g>
+<g><title>Fitness App · gpt-6-astra · 48</title><rect x="999" y="184" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1020" y="207" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Fitness App · Fable 5.1 · 46</title><rect x="999" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1020" y="250" font-size="15" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Fitness App · GLM-5.3 Flash · 43</title><rect x="999" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1020" y="293" font-size="15" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Fitness App · Kimi K3 · 27</title><rect x="999" y="313" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1020" y="336" font-size="15" text-anchor="middle" font-weight="bold">27</text>
+</g>
+<g><title>Fitness App · Gemini 3.5 Flash · 33</title><rect x="999" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1020" y="379" font-size="15" text-anchor="middle" font-weight="bold">33</text>
+</g>
+<text x="1020" y="416" font-size="12" text-anchor="middle" fill="#54645d">08</text>
+<g><title>Workout Class · Opus 5.5（三方A） · 50</title><rect x="1045" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1066" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">50</text>
+</g>
+<g><title>Workout Class · gpt-6-astra · 45</title><rect x="1045" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1066" y="207" font-size="15" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Workout Class · Fable 5.1 · 43</title><rect x="1045" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1066" y="250" font-size="15" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Workout Class · GLM-5.3 Flash · 44</title><rect x="1045" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1066" y="293" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Workout Class · Kimi K3 · 43</title><rect x="1045" y="313" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1066" y="336" font-size="15" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Workout Class · Gemini 3.5 Flash · 40</title><rect x="1045" y="356" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="1066" y="379" font-size="15" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<text x="1066" y="416" font-size="12" text-anchor="middle" fill="#54645d">09</text>
+<g><title>Budget · Opus 5.5（三方A） · 48</title><rect x="1091" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1112" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Budget · gpt-6-astra · 45</title><rect x="1091" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1112" y="207" font-size="15" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Budget · Fable 5.1 · 40</title><rect x="1091" y="227" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="1112" y="250" font-size="15" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Budget · GLM-5.3 Flash · 47</title><rect x="1091" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1112" y="293" font-size="15" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Budget · Kimi K3 · 44</title><rect x="1091" y="313" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1112" y="336" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Budget · Gemini 3.5 Flash · 31</title><rect x="1091" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1112" y="379" font-size="15" text-anchor="middle" font-weight="bold">31</text>
+</g>
+<text x="1112" y="416" font-size="12" text-anchor="middle" fill="#54645d">10</text>
+<text x="1147" y="122" font-size="15" font-weight="bold">web10</text>
+<g><title>Furniro · Opus 5.5（三方A） · 46</title><rect x="1147" y="141" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1168" y="164" font-size="15" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Furniro · gpt-6-astra · 34</title><rect x="1147" y="184" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1168" y="207" font-size="15" text-anchor="middle" font-weight="bold">34</text>
+</g>
+<g><title>Furniro · Fable 5.1 · 37</title><rect x="1147" y="227" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="1168" y="250" font-size="15" text-anchor="middle" font-weight="bold">37</text>
+</g>
+<g><title>Furniro · GLM-5.3 Flash · 45</title><rect x="1147" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1168" y="293" font-size="15" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Furniro · Kimi K3 · 34</title><rect x="1147" y="313" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1168" y="336" font-size="15" text-anchor="middle" font-weight="bold">34</text>
+</g>
+<g><title>Furniro · Gemini 3.5 Flash · 29</title><rect x="1147" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1168" y="379" font-size="15" text-anchor="middle" font-weight="bold">29</text>
+</g>
+<text x="1168" y="416" font-size="12" text-anchor="middle" fill="#54645d">01</text>
+<g><title>Foodieland · Opus 5.5（三方A） · 51</title><rect x="1193" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1214" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">51</text>
+</g>
+<g><title>Foodieland · gpt-6-astra · 47</title><rect x="1193" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1214" y="207" font-size="15" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Foodieland · Fable 5.1 · 44</title><rect x="1193" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1214" y="250" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Foodieland · GLM-5.3 Flash · 42</title><rect x="1193" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1214" y="293" font-size="15" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>Foodieland · Kimi K3 · 48</title><rect x="1193" y="313" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1214" y="336" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Foodieland · Gemini 3.5 Flash · 36</title><rect x="1193" y="356" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="1214" y="379" font-size="15" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<text x="1214" y="416" font-size="12" text-anchor="middle" fill="#54645d">02</text>
+<g><title>Fasco · Opus 5.5（三方A） · 48</title><rect x="1239" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1260" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Fasco · gpt-6-astra · 37</title><rect x="1239" y="184" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="1260" y="207" font-size="15" text-anchor="middle" font-weight="bold">37</text>
+</g>
+<g><title>Fasco · Fable 5.1 · 40</title><rect x="1239" y="227" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="1260" y="250" font-size="15" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Fasco · GLM-5.3 Flash · 41</title><rect x="1239" y="270" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="1260" y="293" font-size="15" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Fasco · Kimi K3 · 30</title><rect x="1239" y="313" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1260" y="336" font-size="15" text-anchor="middle" font-weight="bold">30</text>
+</g>
+<g><title>Fasco · Gemini 3.5 Flash · 27</title><rect x="1239" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1260" y="379" font-size="15" text-anchor="middle" font-weight="bold">27</text>
+</g>
+<text x="1260" y="416" font-size="12" text-anchor="middle" fill="#54645d">03</text>
+<g><title>Shop.co · Opus 5.5（三方A） · 51</title><rect x="1285" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1306" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">51</text>
+</g>
+<g><title>Shop.co · gpt-6-astra · 49</title><rect x="1285" y="184" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1306" y="207" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">49</text>
+</g>
+<g><title>Shop.co · Fable 5.1 · 45</title><rect x="1285" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1306" y="250" font-size="15" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Shop.co · GLM-5.3 Flash · 48</title><rect x="1285" y="270" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1306" y="293" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Shop.co · Kimi K3 · 40</title><rect x="1285" y="313" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="1306" y="336" font-size="15" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Shop.co · Gemini 3.5 Flash · 28</title><rect x="1285" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1306" y="379" font-size="15" text-anchor="middle" font-weight="bold">28</text>
+</g>
+<text x="1306" y="416" font-size="12" text-anchor="middle" fill="#54645d">04</text>
+<g><title>Northgate Homes · Opus 5.5（三方A） · 48</title><rect x="1331" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1352" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Northgate Homes · gpt-6-astra · 48</title><rect x="1331" y="184" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1352" y="207" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Northgate Homes · Fable 5.1 · 42</title><rect x="1331" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1352" y="250" font-size="15" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>Northgate Homes · GLM-5.3 Flash · 39</title><rect x="1331" y="270" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="1352" y="293" font-size="15" text-anchor="middle" font-weight="bold">39</text>
+</g>
+<g><title>Northgate Homes · Kimi K3 · 44</title><rect x="1331" y="313" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1352" y="336" font-size="15" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Northgate Homes · Gemini 3.5 Flash · 33</title><rect x="1331" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1352" y="379" font-size="15" text-anchor="middle" font-weight="bold">33</text>
+</g>
+<text x="1352" y="416" font-size="12" text-anchor="middle" fill="#54645d">05</text>
+<g><title>Octom · Opus 5.5（三方A） · 50</title><rect x="1377" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1398" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">50</text>
+</g>
+<g><title>Octom · gpt-6-astra · 48</title><rect x="1377" y="184" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1398" y="207" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Octom · Fable 5.1 · 43</title><rect x="1377" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1398" y="250" font-size="15" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Octom · GLM-5.3 Flash · 48</title><rect x="1377" y="270" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1398" y="293" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Octom · Kimi K3 · 41</title><rect x="1377" y="313" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="1398" y="336" font-size="15" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Octom · Gemini 3.5 Flash · 29</title><rect x="1377" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1398" y="379" font-size="15" text-anchor="middle" font-weight="bold">29</text>
+</g>
+<text x="1398" y="416" font-size="12" text-anchor="middle" fill="#54645d">06</text>
+<g><title>Foodwagon · Opus 5.5（三方A） · 50</title><rect x="1423" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1444" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">50</text>
+</g>
+<g><title>Foodwagon · gpt-6-astra · 49</title><rect x="1423" y="184" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1444" y="207" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">49</text>
+</g>
+<g><title>Foodwagon · Fable 5.1 · 43</title><rect x="1423" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1444" y="250" font-size="15" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Foodwagon · GLM-5.3 Flash · 46</title><rect x="1423" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1444" y="293" font-size="15" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Foodwagon · Kimi K3 · 48</title><rect x="1423" y="313" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1444" y="336" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Foodwagon · Gemini 3.5 Flash · 30</title><rect x="1423" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1444" y="379" font-size="15" text-anchor="middle" font-weight="bold">30</text>
+</g>
+<text x="1444" y="416" font-size="12" text-anchor="middle" fill="#54645d">07</text>
+<g><title>MAC Agency · Opus 5.5（三方A） · 48</title><rect x="1469" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1490" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>MAC Agency · gpt-6-astra · 47</title><rect x="1469" y="184" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1490" y="207" font-size="15" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>MAC Agency · Fable 5.1 · 38</title><rect x="1469" y="227" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="1490" y="250" font-size="15" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<g><title>MAC Agency · GLM-5.3 Flash · 47</title><rect x="1469" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1490" y="293" font-size="15" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>MAC Agency · Kimi K3 · 42</title><rect x="1469" y="313" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1490" y="336" font-size="15" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>MAC Agency · Gemini 3.5 Flash · 32</title><rect x="1469" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1490" y="379" font-size="15" text-anchor="middle" font-weight="bold">32</text>
+</g>
+<text x="1490" y="416" font-size="12" text-anchor="middle" fill="#54645d">08</text>
+<g><title>Deniz Arslan 3D Portfolio · Opus 5.5（三方A） · 50</title><rect x="1515" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1536" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">50</text>
+</g>
+<g><title>Deniz Arslan 3D Portfolio · gpt-6-astra · 48</title><rect x="1515" y="184" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1536" y="207" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Deniz Arslan 3D Portfolio · Fable 5.1 · 47</title><rect x="1515" y="227" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1536" y="250" font-size="15" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Deniz Arslan 3D Portfolio · GLM-5.3 Flash · 43</title><rect x="1515" y="270" width="42" height="36" rx="5" fill="#75B6A0"/>
+<text x="1536" y="293" font-size="15" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Deniz Arslan 3D Portfolio · Kimi K3 · 48</title><rect x="1515" y="313" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1536" y="336" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">48</text>
+</g>
+<g><title>Deniz Arslan 3D Portfolio · Gemini 3.5 Flash · 37</title><rect x="1515" y="356" width="42" height="36" rx="5" fill="#E4C570"/>
+<text x="1536" y="379" font-size="15" text-anchor="middle" font-weight="bold">37</text>
+</g>
+<text x="1536" y="416" font-size="12" text-anchor="middle" fill="#54645d">09</text>
+<g><title>ABM Developer Portfolio · Opus 5.5（三方A） · 53</title><rect x="1561" y="141" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1582" y="164" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">53</text>
+</g>
+<g><title>ABM Developer Portfolio · gpt-6-astra · 49</title><rect x="1561" y="184" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1582" y="207" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">49</text>
+</g>
+<g><title>ABM Developer Portfolio · Fable 5.1 · 51</title><rect x="1561" y="227" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1582" y="250" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">51</text>
+</g>
+<g><title>ABM Developer Portfolio · GLM-5.3 Flash · 53</title><rect x="1561" y="270" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1582" y="293" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">53</text>
+</g>
+<g><title>ABM Developer Portfolio · Kimi K3 · 52</title><rect x="1561" y="313" width="42" height="36" rx="5" fill="#237857"/>
+<text x="1582" y="336" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">52</text>
+</g>
+<g><title>ABM Developer Portfolio · Gemini 3.5 Flash · 0</title><rect x="1561" y="356" width="42" height="36" rx="5" fill="#DE927F"/>
+<text x="1582" y="379" font-size="15" text-anchor="middle" font-weight="bold">0</text>
+</g>
+<text x="1582" y="416" font-size="12" text-anchor="middle" fill="#54645d">10</text>
+<rect x="243" y="448" width="18" height="18" rx="4" fill="#DE927F"/>
+<text x="269" y="462" font-size="14" >0–34</text>
+<rect x="355" y="448" width="18" height="18" rx="4" fill="#E4C570"/>
+<text x="381" y="462" font-size="14" >35–41</text>
+<rect x="467" y="448" width="18" height="18" rx="4" fill="#75B6A0"/>
+<text x="493" y="462" font-size="14" >42–47</text>
+<rect x="579" y="448" width="18" height="18" rx="4" fill="#237857"/>
+<text x="605" y="462" font-size="14" >48 及以上</text>
+<text x="243" y="503" font-size="14" fill="#54645d">任务编号按批次排列 · SVG 中悬停单元格可查看任务名 · 数据来源为 Arena 快照中的 VLM 评分</text>
+</g></svg>

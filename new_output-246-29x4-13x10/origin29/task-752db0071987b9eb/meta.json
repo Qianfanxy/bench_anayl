@@ -1,0 +1,15 @@
+{
+  "task_id": "task-752db0071987b9eb",
+  "cohort": "origin29",
+  "title": "Foodwagon",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "zagp2A0EGwZXNPAPzh06Kx",
+  "url": "https://www.figma.com/design/zagp2A0EGwZXNPAPzh06Kx",
+  "expected_frames": 1,
+  "inference_status": "success",
+  "run_dir_basename": "task-752db0071987b9eb",
+  "score_status": "completed",
+  "score_total": 50,
+  "other_score_revisions": []
+}

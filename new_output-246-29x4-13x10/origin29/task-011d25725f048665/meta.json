@@ -1,0 +1,15 @@
+{
+  "task_id": "task-011d25725f048665",
+  "cohort": "origin29",
+  "title": "Expenio",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "q1c4Wp8L6jTgtRTzIyNn9o",
+  "url": "https://www.figma.com/design/q1c4Wp8L6jTgtRTzIyNn9o",
+  "expected_frames": 6,
+  "inference_status": "failed",
+  "run_dir_basename": "task-011d25725f048665",
+  "score_status": "completed",
+  "score_total": 41,
+  "other_score_revisions": []
+}

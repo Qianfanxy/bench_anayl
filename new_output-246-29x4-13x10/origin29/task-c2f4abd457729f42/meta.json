@@ -1,0 +1,15 @@
+{
+  "task_id": "task-c2f4abd457729f42",
+  "cohort": "origin29",
+  "title": "Furniro",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "oNIbFhBePvBXJcgohdmOD5",
+  "url": "https://www.figma.com/design/oNIbFhBePvBXJcgohdmOD5",
+  "expected_frames": 9,
+  "inference_status": "failed",
+  "run_dir_basename": "task-c2f4abd457729f42--restart-20261110-095732",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

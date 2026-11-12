@@ -1,0 +1,15 @@
+{
+  "task_id": "task-3a9777ab30980c03",
+  "cohort": "new13",
+  "title": "Fyrre Magazine",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "tnGLwEYdvdi7ZNVzwdn6hy",
+  "url": "https://www.figma.com/design/tnGLwEYdvdi7ZNVzwdn6hy",
+  "expected_frames": 7,
+  "inference_status": "success",
+  "run_dir_basename": "task-3a9777ab30980c03",
+  "score_status": "completed",
+  "score_total": 49,
+  "other_score_revisions": []
+}

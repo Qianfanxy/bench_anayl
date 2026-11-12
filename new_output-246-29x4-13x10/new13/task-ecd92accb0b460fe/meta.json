@@ -1,0 +1,15 @@
+{
+  "task_id": "task-ecd92accb0b460fe",
+  "cohort": "new13",
+  "title": "Cyber Phone Store",
+  "model_id": "model_de5fc4c9cdb841e8",
+  "model_name": "gpt-6-astra",
+  "file_key": "Z6GWfJqGvCq35N9PCkh7fJ",
+  "url": "https://www.figma.com/design/Z6GWfJqGvCq35N9PCkh7fJ",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-ecd92accb0b460fe",
+  "score_status": "completed",
+  "score_total": 45,
+  "other_score_revisions": []
+}

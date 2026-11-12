@@ -1,0 +1,15 @@
+{
+  "task_id": "task-d8a1b9d4968e45cd",
+  "cohort": "new13",
+  "title": "Placoo Rental",
+  "model_id": "model_de5fc4c9cdb841e8",
+  "model_name": "gpt-6-astra",
+  "file_key": "g5EnjAIMN0KSDWEeGBIKQQ",
+  "url": "https://www.figma.com/design/g5EnjAIMN0KSDWEeGBIKQQ",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-d8a1b9d4968e45cd",
+  "score_status": "completed",
+  "score_total": 39,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-f6127e083db762c5",
+  "cohort": "origin29",
+  "title": "Foodgo",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "E8DINmufzo3tE9KGvAyeHV",
+  "url": "https://www.figma.com/design/E8DINmufzo3tE9KGvAyeHV",
+  "expected_frames": 7,
+  "inference_status": "success",
+  "run_dir_basename": "task-f6127e083db762c5",
+  "score_status": "completed",
+  "score_total": 25,
+  "other_score_revisions": []
+}

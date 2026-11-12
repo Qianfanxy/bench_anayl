@@ -1,0 +1,15 @@
+{
+  "task_id": "task-bc147ad066b63d3c",
+  "cohort": "origin29",
+  "title": "Foodieland",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "qsE4bnbYICyubullcqnGyO",
+  "url": "https://www.figma.com/design/qsE4bnbYICyubullcqnGyO",
+  "expected_frames": 5,
+  "inference_status": "success",
+  "run_dir_basename": "task-bc147ad066b63d3c",
+  "score_status": "completed",
+  "score_total": 47,
+  "other_score_revisions": []
+}

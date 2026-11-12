@@ -1,0 +1,18 @@
+{
+  "task_id": "task-cc0395170e61bfec",
+  "cohort": "new13",
+  "title": "Audio Shop",
+  "model_id": "model_gemini_31_pro_cc",
+  "model_name": "Gemini 3.5 Flash",
+  "file_key": "tRHK6SFlvYWhWZmryhyJ2g",
+  "url": "https://www.figma.com/design/tRHK6SFlvYWhWZmryhyJ2g",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-cc0395170e61bfec",
+  "score_status": "completed",
+  "score_total": 25,
+  "other_score_revisions": [
+    "task-cc0395170e61bfec-314c1df7454f86fa2a8e",
+    "task-cc0395170e61bfec-55d4d91761de4437bb0c"
+  ]
+}

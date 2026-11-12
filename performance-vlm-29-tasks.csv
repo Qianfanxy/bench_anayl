@@ -1,0 +1,30 @@
+﻿任务 ID,任务,平台,产品大类,细分类型,Fable 5.1,Opus 5.5（三方A）,gpt-6-astra,Gemini 3.5 Flash,GLM-5.3 Flash,Kimi K3
+10case-case-001,Investment Wallet,Mobile,金融,加密资产钱包,45,50,47,42,49,41
+10case-case-002,Travelin,Mobile,旅行,旅行预订,52,53,51,37,50,44
+10case-case-003,Stock Trading,Mobile,金融,股票交易,44,48,47,33,44,40
+10case-case-004,Meet,Mobile,社交,约会与社交,39,51,49,36,40,47
+10case-case-005,Expenio,Mobile,金融,个人记账,46,49,46,42,44,46
+10case-case-006,Payment Wallet,Mobile,金融,支付钱包,45,52,50,38,48,43
+10case-case-007,Vulcan Invest,Mobile,金融,银行与股票投资,43,45,41,30,36,38
+10case-case-008,Fitness App,Mobile,健康健身,训练与活动追踪,46,51,48,33,43,27
+10case-case-009,Workout Class,Mobile,健康健身,健身课程与活动追踪,43,50,45,40,44,43
+10case-case-010,Budget,Mobile,金融,预算、账单与信用分,40,48,45,31,47,44
+3case-case-001,Balance,Mobile,金融,个人理财,36,48,42,35,32,33
+3case-case-002,Paradise Invest,Mobile,金融,投资理财,40,47,45,39,44,40
+3case-case-003,Foodgo,Mobile,购物与餐饮,餐饮点单,41,46,37,36,38,38
+6case-case-001,StockWave,Mobile,金融,股票交易,44,45,42,40,40,39
+6case-case-002,Nectar,Mobile,购物与餐饮,生鲜杂货购物,38,47,46,38,44,41
+6case-case-003,Stylish,Mobile,购物与餐饮,时尚购物,35,42,36,29,35,31
+6case-case-004,Chat Bot AI,Mobile,工具与效率,AI 对话助手,38,51,46,42,44,40
+6case-case-005,FinX,Mobile,金融,移动银行与交易,35,44,39,40,33,36
+6case-case-006,Fruit Hub,Mobile,购物与餐饮,餐饮点单,42,49,44,44,41,44
+web10-case-001,Furniro,Web,购物与餐饮,家具电商,37,46,34,29,45,34
+web10-case-002,Foodieland,Web,内容与展示,食谱与美食博客,44,51,47,36,42,48
+web10-case-003,Fasco,Web,购物与餐饮,时尚电商,40,48,37,27,41,30
+web10-case-004,Shop.co,Web,购物与餐饮,时尚电商,45,51,49,28,48,40
+web10-case-005,Northgate Homes,Web,内容与展示,房地产网站,42,48,48,33,39,44
+web10-case-006,Octom,Web,工具与效率,团队任务管理,43,50,48,29,48,41
+web10-case-007,Foodwagon,Web,购物与餐饮,外卖落地页,43,50,49,30,46,48
+web10-case-008,MAC Agency,Web,内容与展示,营销机构落地页,38,48,47,32,47,42
+web10-case-009,Deniz Arslan 3D Portfolio,Web,内容与展示,3D 艺术作品集,47,50,48,37,43,48
+web10-case-010,ABM Developer Portfolio,Web,内容与展示,开发者作品集,51,53,49,0,53,52

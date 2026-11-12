@@ -1,0 +1,32 @@
+[
+  {
+    "node_id": "10:74",
+    "name": "01_Get_Started",
+    "file": "10-74.png"
+  },
+  {
+    "node_id": "10:95",
+    "name": "02_Home",
+    "file": "10-95.png"
+  },
+  {
+    "node_id": "10:161",
+    "name": "03_Wallet",
+    "file": "10-161.png"
+  },
+  {
+    "node_id": "11:143",
+    "name": "04_Add_Card",
+    "file": "11-143.png"
+  },
+  {
+    "node_id": "11:302",
+    "name": "05_Payment",
+    "file": "11-302.png"
+  },
+  {
+    "node_id": "11:437",
+    "name": "06_Receipt",
+    "file": "11-437.png"
+  }
+]

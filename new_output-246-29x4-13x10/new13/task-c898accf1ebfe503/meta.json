@@ -1,0 +1,15 @@
+{
+  "task_id": "task-c898accf1ebfe503",
+  "cohort": "new13",
+  "title": "MindfulMentor",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "HvR2TqtPTyoB7YALBzaHRy",
+  "url": "https://www.figma.com/design/HvR2TqtPTyoB7YALBzaHRy",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-c898accf1ebfe503",
+  "score_status": "completed",
+  "score_total": 25,
+  "other_score_revisions": []
+}

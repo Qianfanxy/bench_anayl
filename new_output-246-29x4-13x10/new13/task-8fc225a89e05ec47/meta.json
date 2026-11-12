@@ -1,0 +1,15 @@
+{
+  "task_id": "task-8fc225a89e05ec47",
+  "cohort": "new13",
+  "title": "Inkline Blog",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "ut6LzoJ608eQUgHYpQXGkK",
+  "url": "https://www.figma.com/design/ut6LzoJ608eQUgHYpQXGkK",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-8fc225a89e05ec47",
+  "score_status": "completed",
+  "score_total": 42,
+  "other_score_revisions": []
+}

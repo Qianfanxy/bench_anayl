@@ -1,0 +1,21 @@
+{
+  "task_id": "task-f2c405b6a37f4df5",
+  "title": "Placoo Rental",
+  "model_id": "model_sonnet55_1109",
+  "inference_wall_seconds": 929.132,
+  "inference_duration_seconds": 929.132,
+  "input_tokens": 1138863,
+  "output_tokens": 106712,
+  "total_tokens": 1245575,
+  "cached_input_tokens": 0,
+  "cache_creation_input_tokens": 5820,
+  "api_usage_calls": 19,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 19,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-f2c405b6a37f4df5/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

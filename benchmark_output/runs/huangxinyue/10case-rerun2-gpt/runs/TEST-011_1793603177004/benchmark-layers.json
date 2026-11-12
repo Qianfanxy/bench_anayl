@@ -1,0 +1,155 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "Reusable UI · Nunito / Graphite",
+      "size": "2140×2550",
+      "nodes": 342,
+      "max_depth": 4,
+      "instances": 100,
+      "texts": 173,
+      "images": 0,
+      "types": [
+        "text×173",
+        "component×59",
+        "frame×50",
+        "instance×41",
+        "vector×15",
+        "ellipse×4"
+      ],
+      "names": [
+        "Header / My Wallet",
+        "Avatar_Neutral",
+        "Ellipse",
+        "My Wallet",
+        "0xc8...320f",
+        "Icon_Scan"
+      ]
+    },
+    {
+      "name": "01_Wallet",
+      "size": "375×812",
+      "nodes": 84,
+      "max_depth": 6,
+      "instances": 20,
+      "texts": 36,
+      "images": 0,
+      "types": [
+        "text×36",
+        "instance×20",
+        "frame×11",
+        "vector×8",
+        "rectangle×6",
+        "ellipse×3"
+      ],
+      "names": [
+        "Header / My Wallet",
+        "Avatar_Neutral",
+        "Ellipse",
+        "My Wallet",
+        "0xc8...320f",
+        "Icon_Scan"
+      ]
+    },
+    {
+      "name": "02_Discovery",
+      "size": "375×812",
+      "nodes": 151,
+      "max_depth": 4,
+      "instances": 47,
+      "texts": 81,
+      "images": 0,
+      "types": [
+        "text×81",
+        "instance×47",
+        "frame×12",
+        "rectangle×6",
+        "ellipse×3",
+        "vector×2"
+      ],
+      "names": [
+        "Header / Discovery",
+        "Avatar_Neutral",
+        "Ellipse",
+        "Discovery",
+        "December 05",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "03_Strategy",
+      "size": "375×812",
+      "nodes": 243,
+      "max_depth": 5,
+      "instances": 69,
+      "texts": 130,
+      "images": 0,
+      "types": [
+        "text×130",
+        "instance×69",
+        "frame×24",
+        "rectangle×12",
+        "ellipse×4",
+        "vector×4"
+      ],
+      "names": [
+        "Discovery / background",
+        "Header / Discovery",
+        "Avatar_Neutral",
+        "Ellipse",
+        "Discovery",
+        "December 05"
+      ]
+    },
+    {
+      "name": "04_Invest_Amount",
+      "size": "375×812",
+      "nodes": 221,
+      "max_depth": 5,
+      "instances": 69,
+      "texts": 108,
+      "images": 0,
+      "types": [
+        "text×108",
+        "instance×69",
+        "frame×19",
+        "rectangle×12",
+        "vector×9",
+        "ellipse×4"
+      ],
+      "names": [
+        "Discovery / background",
+        "Header / Discovery",
+        "Avatar_Neutral",
+        "Ellipse",
+        "Discovery",
+        "December 05"
+      ]
+    },
+    {
+      "name": "05_Invest_Success",
+      "size": "375×812",
+      "nodes": 208,
+      "max_depth": 5,
+      "instances": 54,
+      "texts": 88,
+      "images": 0,
+      "types": [
+        "text×88",
+        "instance×54",
+        "frame×47",
+        "rectangle×12",
+        "ellipse×4",
+        "vector×3"
+      ],
+      "names": [
+        "Discovery / background",
+        "Header / Discovery",
+        "Avatar_Neutral",
+        "Ellipse",
+        "Discovery",
+        "December 05"
+      ]
+    }
+  ]
+}

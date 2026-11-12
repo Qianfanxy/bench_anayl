@@ -1,0 +1,58 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "design6-rerun2-gemini",
+  "dataset_hash": "e4c3db0be4f16b69b8270140e5e3de424eeac77d0957ee299e46266b1ad31f99",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_gemini_31_pro_cc",
+      "name": "Gemini 3.5 Flash",
+      "provider": "TokenHub / Gemini",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "gemini-3.5-flash",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 1,
+      "vision": 1,
+      "generation_mode": "cc"
+    }
+  ],
+  "case_count": 1,
+  "assignment_count": 1,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 1,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_781c898c777e2df061ea",
+      "case_id": "case-003",
+      "model_id": "model_gemini_31_pro_cc"
+    }
+  ],
+  "content_hash": "f42527a6bd5b5aece6de6738dab959c075602cb42de2475fe05fd81673ddb0a7"
+}

@@ -1,0 +1,47 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "execution",
+  "mode": "benchmark-design",
+  "schema_version": 2,
+  "fresh_targets": true,
+  "query_modified": false,
+  "id": "design6-rerun1-fable",
+  "dataset_hash": "05f35ced75eb9a237745c6ed9382e5c2451dc6b9fc6e70cb766261561207ef36",
+  "plan_hash": "84394e36d28972d55488b5bb18328b6d0a8d5566a4d385ed07dd979ff8feb8d8",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "required_pages": [
+    "00",
+    "01",
+    "02"
+  ],
+  "optional_pages": [
+    "04"
+  ],
+  "workspace": "03 · Workspace",
+  "excluded_file_keys": [
+    "0J1ZWGCk2siHZb2mp0feAr"
+  ],
+  "groups": [
+    {
+      "task": "model-1",
+      "model_id": "model_claude_fable51_login",
+      "model_name": "Fable 5.1",
+      "tests": [
+        {
+          "assignment_id": "assignment_8402991f39799b976d87",
+          "case_id": "case-003",
+          "model_id": "model_claude_fable51_login",
+          "question": "case-003",
+          "source_figma_url": "https://www.figma.com/design/0J1ZWGCk2siHZb2mp0feAr/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/0J1ZWGCk2siHZb2mp0feAr/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "da3abeee5cca24d174a7714322b518460c700682ab6c132c22713d852792b0b1",
+          "figma_url": "https://www.figma.com/design/t59Fpla3t3vTCJcBn4Rv7i/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/t59Fpla3t3vTCJcBn4Rv7i/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/t59Fpla3t3vTCJcBn4Rv7i/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        }
+      ]
+    }
+  ],
+  "content_hash": "2cd0d188f5181cc7c7f1ef3dde7e558c07c55c31c3b6ff02d0ad37294f3bbbf2"
+}

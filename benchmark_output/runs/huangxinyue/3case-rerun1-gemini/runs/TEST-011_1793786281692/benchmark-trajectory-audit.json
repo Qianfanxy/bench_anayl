@@ -1,0 +1,31 @@
+{
+  "kind": "benchmark-legacy-media-audit/v1",
+  "checked_at": "2026-11-04T10:06:00.697267+00:00",
+  "raw_audit": {
+    "ok": false,
+    "errors": [
+      "no non-empty thinking signature",
+      "Figma create_new_file was not called",
+      "no screenshot <image> tag",
+      "ShareGPT conversion failed: summary reasoning was selected but is missing"
+    ],
+    "require_prototype": false
+  },
+  "audit": {
+    "ok": false,
+    "errors": [
+      "no non-empty thinking signature",
+      "Figma create_new_file was not called",
+      "no screenshot <image> tag",
+      "ShareGPT conversion failed: summary reasoning was selected but is missing"
+    ],
+    "require_prototype": false,
+    "raw_errors": [
+      "no non-empty thinking signature",
+      "Figma create_new_file was not called",
+      "no screenshot <image> tag",
+      "ShareGPT conversion failed: summary reasoning was selected but is missing"
+    ],
+    "media_warnings": []
+  }
+}

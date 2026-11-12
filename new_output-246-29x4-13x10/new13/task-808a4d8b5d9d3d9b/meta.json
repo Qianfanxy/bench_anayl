@@ -1,0 +1,15 @@
+{
+  "task_id": "task-808a4d8b5d9d3d9b",
+  "cohort": "new13",
+  "title": "Cyber Phone Store",
+  "model_id": "model_kimi_k3_cc",
+  "model_name": "Kimi K3",
+  "file_key": "O8zm7TMHobo4IODY1VMhVf",
+  "url": "https://www.figma.com/design/O8zm7TMHobo4IODY1VMhVf",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-808a4d8b5d9d3d9b",
+  "score_status": "completed",
+  "score_total": 30,
+  "other_score_revisions": []
+}

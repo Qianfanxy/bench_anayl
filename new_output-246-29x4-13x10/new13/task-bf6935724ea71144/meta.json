@@ -1,0 +1,15 @@
+{
+  "task_id": "task-bf6935724ea71144",
+  "cohort": "new13",
+  "title": "Fyrre Magazine",
+  "model_id": "model_gemini_31_pro_cc",
+  "model_name": "Gemini 3.5 Flash",
+  "file_key": "thIylQJz2pYolhvIrFyvA1",
+  "url": "https://www.figma.com/design/thIylQJz2pYolhvIrFyvA1",
+  "expected_frames": 7,
+  "inference_status": "success",
+  "run_dir_basename": "task-bf6935724ea71144",
+  "score_status": "completed",
+  "score_total": 34,
+  "other_score_revisions": []
+}

@@ -1,0 +1,26 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "dataset",
+  "id": "design10-rerun1-gemini",
+  "query_template": "请在以下 Figma 文件中完成完整设计：\nFigma 文件：{{figma_url}}\n请先阅读「00 · Start Here」中的设计任务，参考「01 · Foundations」中的视觉规范，复用「02 · Components」中的组件；如果文件中有「04 · Media」素材页，也请读取并使用其中的素材。最终将完整设计交付至「03 · Workspace」。\n",
+  "required_pages": [
+    "00",
+    "01",
+    "02"
+  ],
+  "optional_pages": [
+    "04"
+  ],
+  "workspace": "03 · Workspace",
+  "cases": [
+    {
+      "case_id": "case-001",
+      "source_figma_url": "https://www.figma.com/design/efeLy7ogjybd9HZN6rfLbp/",
+      "source_file_key": "efeLy7ogjybd9HZN6rfLbp",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/efeLy7ogjybd9HZN6rfLbp/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "227234c01b128541124f2877070a8d7a06052189bb5c0466d015f4e3b347d49f",
+      "title": "Investment Wallet"
+    }
+  ],
+  "content_hash": "01a848419a524a643f242d1cd40a213e012fe1ec751a10474482938144949a43"
+}

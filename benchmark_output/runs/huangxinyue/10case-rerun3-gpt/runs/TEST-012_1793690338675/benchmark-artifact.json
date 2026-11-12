@@ -1,0 +1,595 @@
+{
+  "file_key": "GbbVE7PrDfP1rF7lCuKwZs",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "7:2",
+      "name": "03 · Workspace",
+      "child_count": 39
+    }
+  ],
+  "workspace": {
+    "id": "7:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "12:2",
+        "name": "Build helpers",
+        "type": "TEXT",
+        "x": 0,
+        "y": 0,
+        "width": 14045,
+        "height": 15,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:3",
+        "name": "01_Onboarding",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 4,
+        "reaction_count": 1
+      },
+      {
+        "id": "12:4",
+        "name": "02_Home",
+        "type": "FRAME",
+        "x": 450,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 29,
+        "reaction_count": 5
+      },
+      {
+        "id": "12:5",
+        "name": "03_Explore",
+        "type": "FRAME",
+        "x": 900,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 35,
+        "reaction_count": 4
+      },
+      {
+        "id": "12:6",
+        "name": "04_Workout",
+        "type": "FRAME",
+        "x": 1350,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 17,
+        "reaction_count": 1
+      },
+      {
+        "id": "12:7",
+        "name": "05_Analytics",
+        "type": "FRAME",
+        "x": 1800,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 37,
+        "reaction_count": 2
+      },
+      {
+        "id": "12:66",
+        "name": "Workout card / Lower Body Training",
+        "type": "COMPONENT",
+        "x": 390,
+        "y": 1100,
+        "width": 169,
+        "height": 204,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:97",
+        "name": "Workout card / Hand Training",
+        "type": "COMPONENT",
+        "x": 780,
+        "y": 1100,
+        "width": 169,
+        "height": 204,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:122",
+        "name": "Plan row / Push Up",
+        "type": "COMPONENT",
+        "x": 1170,
+        "y": 1100,
+        "width": 350,
+        "height": 78,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:139",
+        "name": "Plan row / Sit Up",
+        "type": "COMPONENT",
+        "x": 1560,
+        "y": 1100,
+        "width": 350,
+        "height": 78,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:156",
+        "name": "Plan row / Knee Push Up",
+        "type": "COMPONENT",
+        "x": 1950,
+        "y": 1100,
+        "width": 350,
+        "height": 78,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:189",
+        "name": "Navigation / Home",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 1400,
+        "width": 390,
+        "height": 66,
+        "text_count": 4,
+        "reaction_count": 2
+      },
+      {
+        "id": "12:229",
+        "name": "Header / Explore",
+        "type": "COMPONENT",
+        "x": 390,
+        "y": 1400,
+        "width": 350,
+        "height": 42,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:239",
+        "name": "Banner / Quarantine",
+        "type": "COMPONENT",
+        "x": 780,
+        "y": 1400,
+        "width": 350,
+        "height": 132,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:253",
+        "name": "Program / Belly fat burner",
+        "type": "COMPONENT",
+        "x": 1170,
+        "y": 1400,
+        "width": 169,
+        "height": 91,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:264",
+        "name": "Program / Lose Fat",
+        "type": "COMPONENT",
+        "x": 1560,
+        "y": 1400,
+        "width": 169,
+        "height": 91,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:275",
+        "name": "Program / Plank",
+        "type": "COMPONENT",
+        "x": 1950,
+        "y": 1400,
+        "width": 169,
+        "height": 91,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:286",
+        "name": "Program / Build Wider Biceps",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 1700,
+        "width": 169,
+        "height": 91,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:296",
+        "name": "Challenge / Plank",
+        "type": "COMPONENT",
+        "x": 390,
+        "y": 1700,
+        "width": 109,
+        "height": 72,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:303",
+        "name": "Challenge / Sprint",
+        "type": "COMPONENT",
+        "x": 780,
+        "y": 1700,
+        "width": 109,
+        "height": 72,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:310",
+        "name": "Challenge / Squat",
+        "type": "COMPONENT",
+        "x": 1170,
+        "y": 1700,
+        "width": 109,
+        "height": 72,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:320",
+        "name": "Warmup / Leg exercises",
+        "type": "COMPONENT",
+        "x": 1560,
+        "y": 1700,
+        "width": 169,
+        "height": 80,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:331",
+        "name": "Warmup / Backward lunges",
+        "type": "COMPONENT",
+        "x": 1950,
+        "y": 1700,
+        "width": 169,
+        "height": 80,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:361",
+        "name": "Navigation / Explore",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 2000,
+        "width": 390,
+        "height": 66,
+        "text_count": 4,
+        "reaction_count": 2
+      },
+      {
+        "id": "12:401",
+        "name": "Header / Workout",
+        "type": "COMPONENT",
+        "x": 390,
+        "y": 2000,
+        "width": 350,
+        "height": 42,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:421",
+        "name": "Workout / Stats",
+        "type": "COMPONENT",
+        "x": 780,
+        "y": 2000,
+        "width": 350,
+        "height": 53,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:444",
+        "name": "Round / Jumping Jacks",
+        "type": "COMPONENT",
+        "x": 1170,
+        "y": 2000,
+        "width": 350,
+        "height": 56,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:459",
+        "name": "Round / Squats",
+        "type": "COMPONENT",
+        "x": 1560,
+        "y": 2000,
+        "width": 350,
+        "height": 56,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:474",
+        "name": "Round / Backward Lunge",
+        "type": "COMPONENT",
+        "x": 1950,
+        "y": 2000,
+        "width": 350,
+        "height": 56,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:499",
+        "name": "Header / July 2022",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 2300,
+        "width": 350,
+        "height": 42,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:527",
+        "name": "Calendar / July — selected 12",
+        "type": "COMPONENT",
+        "x": 390,
+        "y": 2300,
+        "width": 350,
+        "height": 66,
+        "text_count": 16,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:561",
+        "name": "Report / Calories",
+        "type": "COMPONENT",
+        "x": 780,
+        "y": 2300,
+        "width": 169,
+        "height": 103,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:574",
+        "name": "Report / Training",
+        "type": "COMPONENT",
+        "x": 1170,
+        "y": 2300,
+        "width": 169,
+        "height": 103,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:590",
+        "name": "Report / Cycling",
+        "type": "COMPONENT",
+        "x": 1560,
+        "y": 2300,
+        "width": 169,
+        "height": 184,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:608",
+        "name": "Report / Heart",
+        "type": "COMPONENT",
+        "x": 1950,
+        "y": 2300,
+        "width": 169,
+        "height": 87,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:627",
+        "name": "Report / Steps",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 2600,
+        "width": 169,
+        "height": 85,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:661",
+        "name": "Report / Sleep",
+        "type": "COMPONENT",
+        "x": 390,
+        "y": 2600,
+        "width": 350,
+        "height": 99,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:698",
+        "name": "Report / Water",
+        "type": "COMPONENT",
+        "x": 780,
+        "y": 2600,
+        "width": 350,
+        "height": 72,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:737",
+        "name": "Navigation / Analytics",
+        "type": "COMPONENT",
+        "x": 1170,
+        "y": 2600,
+        "width": 390,
+        "height": 66,
+        "text_count": 4,
+        "reaction_count": 0
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nFitness App — workouts and daily activity\nDesign a fitness app: get started, pick a workout or continue today’s plan, explore programs, open a workout to see its rounds, and review today’s activity report. Canvas 390 × 844, iPhone. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 5 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the navigation and every business component as reusable components in your file.\n5. Use the photos, the map and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Onboarding\nGoal: Feel motivated and start.\nMUST INCLUDE\n• Actions: “Get Started”\n• Copy: “Wherever you are, health is number one” · “There is no instant way to a healthy life”\n• Media: Photo_Onboarding\nLINKS\n→ Get Started → 02_Home\n02_Home\nGoal: Pick a popular workout or continue today’s plan.\nMUST INCLUDE\n• Greeting: “Good Morning 🔥” · “Pramuditya Uzumaki”\n• Main navigation: tab bar Home / Explore / Analytics / Profile · current: Home\n• Popular Workouts: “Popular Workouts” · Lower Body Training · Hand Training, each with photo, kcal (Icon_Fire), minutes (Icon_Timer) and play (Icon_Play) (see DATA)\n• Search: “Search” (Icon_Search)\n• Today Plan: “Today Plan” · Push Up · Sit Up · Knee Push Up, each with photo, daily goal, progress and level (see DATA)\nLINKS\n→ Lower Body Training → 04_Workout\n→ Explore tab → 03_Explore\n→ Analytics tab → 05_Analytics\n03_Explore\nGoal: Discover programs and challenges.\nMUST INCLUDE\n• Banner: “Best Quarantine Workout” · “See more” (Icon_Chevron_Right, Photo_Quarantine_Workout)\n• Best for you: “Best for you” · 4 programs, each with photo, minutes and level (see DATA)\n• Challenge: “Challenge” · Plank Challenge · Sprint Challenge · Squat Challenge\n• Fast Warmup: “Fast Warmup” · 2 programs, each with photo, minutes and level (see DATA)\n• Main navigation: tab bar · current: Explore\nLINKS\n→ Home tab → 02_Home\n→ Analytics tab → 05_Analytics\n04_Workout\nGoal: Understand a workout and start it.\nMUST INCLUDE\n• Actions: back (Icon_Back) · “Let’s Workout”\n• Description: see DATA\n• Header: “Workout”\n• Media: Photo_Lower_Body_Training\n• Rounds: “Rounds” · 1/3 · Jumping Jacks 00:30 · Squats 01:00 · Backward Lunge 00:30, each with photo and play (Icon_Play)\n• Stats: “Time” 50 min (Icon_Timer) · “Burn” 500 kcal (Icon_Fire)\n• Title: “Lower Body Training”\nLINKS\n→ back → 02_Home\n05_Analytics\nGoal: Review today’s activity.\nMUST INCLUDE\n• Calendar: “July 2022” · S 10 – S 17 · current: T 12\n• Main navigation: tab bar · current: Analytics\n• Report: “Today Report” · Active calories · Training time · Cycling (Map_Cycling_Route, Icon_Cycling) · Heart Rate (Icon_Heart_Rate) · Steps (Icon_Steps) · “Keep it Up! 💪” · Sleep (Icon_Sleep) · Water (Icon_Water) (see DATA)\nLINKS\n→ Home tab → 02_Home\n→ Explore tab → 03_Explore\nNavigation structure\n• Bottom tab bar on 02, 03 and 05 with 4 tabs in this order: Home (Icon_Home), Explore (Icon_Explore), Analytics (Icon_Analytics), Profile (Icon_Profile). Current: Home on 02, Explore on 03, Analytics on 05. How the current tab looks is yours.\n• 01_Onboarding → Get Started → 02_Home. 04_Workout is pushed from the Lower Body Training card on 02 and has no tab bar.\n• Entry only (no frame): Profile tab, search, Hand Training, plan rows, See more, programs, challenges, rounds, Let’s Workout, calendar days, report tiles.\nFixed data & copy\nUse these values verbatim.\nUser\nPramuditya Uzumaki · greeting “Good Morning 🔥”\nPopular workouts\nLower Body Training · 500 Kcal · 50 Min (Photo_Lower_Body_Training)\nHand Training · 600 Kcal · 40 Min (Photo_Hand_Training)\nToday Plan\nPush Up · 100 push ups a day · 45% · Intermediate (Photo_Push_Up)\nSit Up · 20 sit ups a day · 75% · Beginner (Photo_Sit_Up)\nKnee Push Up · 20 knee push ups a day · 45% · Beginner (Photo_Knee_Push_Up)\nExplore · Best for you\nBelly fat burner · 10 min · Beginner (Photo_Belly_Fat_Burner)\nLose Fat · 10 min · Beginner (Photo_Lose_Fat)\nPlank · 5 min · Expert (Photo_Plank)\nBuild Wider Biceps · 30 min · Intermediate (Photo_Build_Wider_Biceps)\nExplore · Fast Warmup\nLeg exercises · 10 min · Beginner (Photo_Leg_Exercises)\nBackward lunges · 5 min · Beginner (Photo_Backward_Lunges)\nExplore · Challenge\nPlank Challenge · Sprint Challenge · Squat Challenge\nWorkout (04)\nLower Body Training · Time 50 min · Burn 500 kcal\n“The lower abdomen and hips are the most difficult areas of the body to reduce when we are on a diet. Even so, in this area, especially the legs as a whole, you can reduce weight even if you don’t use tools.”\nRounds 1/3: Jumping Jacks 00:30 (Photo_Jumping_Jacks) · Squats 01:00 (Photo_Squats) · Backward Lunge 00:30 (Photo_Backward_Lunges)\nAnalytics · July 2022\nDays: S 10 · M 11 · T 12 (current) · W 13 · T 14 · F 15 · S 16 · S 17\nActive calories 645 Cal · Training time 80%\nHeart Rate 79 Bpm · Steps 999/2000 · Keep it Up! 💪\nWater 6/8 Cups · Sleep (chart, values illustrative)\nWhat is fixed · what is yours\nFixed (given)\n• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand colors #BBF246 + #192126 and Lato\n• Media: photos, map, icons\n• Default Button, default Text Field, platform shell\nYours (designer decides)\n• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, backgrounds / surfaces, analytics tiles, level tags, progress, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: current tab, current day, pressed, playing, disabled\n• Headers, tab bar, workout cards, plan rows, l",
+  "layer_summary": {
+    "board_count": 5,
+    "boards": [
+      {
+        "name": "01_Onboarding",
+        "size": "390×844",
+        "nodes": 20,
+        "max_depth": 3,
+        "instances": 4,
+        "texts": 4,
+        "images": 0,
+        "types": [
+          "rectangle×9",
+          "instance×4",
+          "text×4",
+          "frame×2",
+          "ellipse×1"
+        ],
+        "names": [
+          "Photo_Onboarding",
+          "Rectangle",
+          "Wherever you are, health",
+          "There is no instant way ",
+          "Button",
+          "Get Started"
+        ]
+      },
+      {
+        "name": "02_Home",
+        "size": "390×844",
+        "nodes": 102,
+        "max_depth": 4,
+        "instances": 24,
+        "texts": 29,
+        "images": 0,
+        "types": [
+          "text×29",
+          "vector×25",
+          "instance×24",
+          "frame×16",
+          "rectangle×7",
+          "ellipse×1"
+        ],
+        "names": [
+          "Good Morning 🔥",
+          "Pramuditya Uzumaki",
+          "Text Field",
+          "Search",
+          "Input",
+          "Icon_Search"
+        ]
+      },
+      {
+        "name": "03_Explore",
+        "size": "390×844",
+        "nodes": 88,
+        "max_depth": 4,
+        "instances": 26,
+        "texts": 35,
+        "images": 0,
+        "types": [
+          "text×35",
+          "instance×26",
+          "vector×12",
+          "frame×7",
+          "rectangle×7",
+          "ellipse×1"
+        ],
+        "names": [
+          "Header / Explore",
+          "Explore",
+          "Banner / Quarantine",
+          "Photo_Quarantine_Workout",
+          "Frame",
+          "Best Quarantine Workout"
+        ]
+      },
+      {
+        "name": "04_Workout",
+        "size": "390×844",
+        "nodes": 58,
+        "max_depth": 4,
+        "instances": 18,
+        "texts": 17,
+        "images": 0,
+        "types": [
+          "instance×18",
+          "text×17",
+          "vector×9",
+          "rectangle×7",
+          "frame×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Header / Workout",
+          "Workout",
+          "Back",
+          "Icon_Back",
+          "Vector",
+          "Photo_Lower_Body_Trainin"
+        ]
+      },
+      {
+        "name": "05_Analytics",
+        "size": "390×844",
+        "nodes": 141,
+        "max_depth": 4,
+        "instances": 23,
+        "texts": 37,
+        "images": 0,
+        "types": [
+          "frame×43",
+          "text×37",
+          "vector×30",
+          "instance×23",
+          "rectangle×7",
+          "ellipse×1"
+        ],
+        "names": [
+          "Header / July 2022",
+          "July 2022",
+          "Calendar / July — select",
+          "Frame",
+          "S",
+          "10"
+        ]
+      }
+    ]
+  }
+}

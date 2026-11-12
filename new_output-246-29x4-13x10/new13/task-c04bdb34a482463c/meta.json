@@ -1,0 +1,15 @@
+{
+  "task_id": "task-c04bdb34a482463c",
+  "cohort": "new13",
+  "title": "Run & Earn",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "z4u8qViLiQGWFAtPUqQxRu",
+  "url": "https://www.figma.com/design/z4u8qViLiQGWFAtPUqQxRu",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-c04bdb34a482463c",
+  "score_status": "completed",
+  "score_total": 28,
+  "other_score_revisions": []
+}

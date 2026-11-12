@@ -1,0 +1,17 @@
+{
+  "task_id": "task-d1d0a9b3a98d1b45",
+  "cohort": "origin29",
+  "title": "Investment Wallet",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "7eXIqR2RmuvfuRILrUPq1k",
+  "url": "https://www.figma.com/design/7eXIqR2RmuvfuRILrUPq1k",
+  "expected_frames": 5,
+  "inference_status": "failed",
+  "run_dir_basename": "task-d1d0a9b3a98d1b45--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 34,
+  "other_score_revisions": [
+    "task-d1d0a9b3a98d1b45-09fdaf2daae8b22f558b"
+  ]
+}

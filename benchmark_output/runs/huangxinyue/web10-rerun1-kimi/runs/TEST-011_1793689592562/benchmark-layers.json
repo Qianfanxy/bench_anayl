@@ -1,0 +1,105 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4837",
+      "nodes": 424,
+      "max_depth": 9,
+      "instances": 86,
+      "texts": 94,
+      "images": 1,
+      "types": [
+        "frame×115",
+        "vector×115",
+        "text×94",
+        "instance×86",
+        "group×9",
+        "rectangle×4"
+      ],
+      "names": [
+        "Bar / Announcement",
+        "Content",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "Icon_Close",
+        "Vector"
+      ]
+    },
+    {
+      "name": "02_Category",
+      "size": "1440×2328",
+      "nodes": 466,
+      "max_depth": 9,
+      "instances": 79,
+      "texts": 110,
+      "images": 0,
+      "types": [
+        "frame×149",
+        "text×110",
+        "vector×107",
+        "instance×79",
+        "rectangle×10",
+        "group×9"
+      ],
+      "names": [
+        "Bar / Announcement",
+        "Content",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "Icon_Close",
+        "Vector"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1440×3277.5",
+      "nodes": 458,
+      "max_depth": 9,
+      "instances": 90,
+      "texts": 95,
+      "images": 0,
+      "types": [
+        "vector×135",
+        "frame×122",
+        "text×95",
+        "instance×90",
+        "group×9",
+        "rectangle×7"
+      ],
+      "names": [
+        "Bar / Announcement",
+        "Content",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "Icon_Close",
+        "Vector"
+      ]
+    },
+    {
+      "name": "04_Cart",
+      "size": "1440×1603",
+      "nodes": 235,
+      "max_depth": 9,
+      "instances": 31,
+      "texts": 64,
+      "images": 0,
+      "types": [
+        "frame×68",
+        "text×64",
+        "vector×58",
+        "instance×31",
+        "group×9",
+        "rectangle×5"
+      ],
+      "names": [
+        "Bar / Announcement",
+        "Content",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "Icon_Close",
+        "Vector"
+      ]
+    }
+  ]
+}

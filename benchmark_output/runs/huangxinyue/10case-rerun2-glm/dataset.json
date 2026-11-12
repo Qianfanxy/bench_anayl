@@ -1,0 +1,42 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "dataset",
+  "id": "design10-rerun2-glm",
+  "query_template": "请在以下 Figma 文件中完成完整设计：\nFigma 文件：{{figma_url}}\n请先阅读「00 · Start Here」中的设计任务，参考「01 · Foundations」中的视觉规范，复用「02 · Components」中的组件；如果文件中有「04 · Media」素材页，也请读取并使用其中的素材。最终将完整设计交付至「03 · Workspace」。\n",
+  "required_pages": [
+    "00",
+    "01",
+    "02"
+  ],
+  "optional_pages": [
+    "04"
+  ],
+  "workspace": "03 · Workspace",
+  "cases": [
+    {
+      "case_id": "case-008",
+      "source_figma_url": "https://www.figma.com/design/MW0UgeOT43xqVhoSAzNMPH/",
+      "source_file_key": "MW0UgeOT43xqVhoSAzNMPH",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/MW0UgeOT43xqVhoSAzNMPH/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "57f428f6816b1b71e3e5612b0362b8ea25abb2574d3af7eeb32db3b10aa32dfd",
+      "title": "Fitness App"
+    },
+    {
+      "case_id": "case-009",
+      "source_figma_url": "https://www.figma.com/design/FW3jfozfyaOg9OWNXdH1Vq/",
+      "source_file_key": "FW3jfozfyaOg9OWNXdH1Vq",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/FW3jfozfyaOg9OWNXdH1Vq/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "fe121ecab7e264bfbb343037862e71877e4417db6f8dcf03e3f304bec0b2e829",
+      "title": "Workout Class"
+    },
+    {
+      "case_id": "case-010",
+      "source_figma_url": "https://www.figma.com/design/2y1tZHHBvy0uiRFSVBBaiH/",
+      "source_file_key": "2y1tZHHBvy0uiRFSVBBaiH",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/2y1tZHHBvy0uiRFSVBBaiH/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "7b35aefd4a84b919c8a63fb9b63f4c91a9de10d0faf709454516f7867fd7c6c4",
+      "title": "Budget"
+    }
+  ],
+  "content_hash": "aa8378edfded6db10405680c028fe5b0c9f49d8718691f9d7b5792d6b3d178b6"
+}

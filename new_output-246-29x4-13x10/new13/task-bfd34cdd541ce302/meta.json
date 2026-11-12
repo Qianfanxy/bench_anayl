@@ -1,0 +1,15 @@
+{
+  "task_id": "task-bfd34cdd541ce302",
+  "cohort": "new13",
+  "title": "Musium",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "bBSMC4q5qPZMy3m8AibNlt",
+  "url": "https://www.figma.com/design/bBSMC4q5qPZMy3m8AibNlt",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-bfd34cdd541ce302",
+  "score_status": "completed",
+  "score_total": 42,
+  "other_score_revisions": []
+}

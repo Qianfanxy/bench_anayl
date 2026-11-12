@@ -1,0 +1,15 @@
+{
+  "task_id": "task-740d259c1aa310e7",
+  "cohort": "origin29",
+  "title": "Fitness App",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "z36hQcPuqoUjFwNzzmJY1V",
+  "url": "https://www.figma.com/design/z36hQcPuqoUjFwNzzmJY1V",
+  "expected_frames": 5,
+  "inference_status": "failed",
+  "run_dir_basename": "task-740d259c1aa310e7",
+  "score_status": "completed",
+  "score_total": 38,
+  "other_score_revisions": []
+}

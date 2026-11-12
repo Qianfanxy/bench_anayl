@@ -1,0 +1,15 @@
+{
+  "task_id": "task-607d6fbb1f7f4b7f",
+  "cohort": "new13",
+  "title": "Self Care Clinic",
+  "model_id": "model_kimi_k3_cc",
+  "model_name": "Kimi K3",
+  "file_key": "5BTr4X59Vpeah952AzZnof",
+  "url": "https://www.figma.com/design/5BTr4X59Vpeah952AzZnof",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-607d6fbb1f7f4b7f",
+  "score_status": "completed",
+  "score_total": 37,
+  "other_score_revisions": []
+}

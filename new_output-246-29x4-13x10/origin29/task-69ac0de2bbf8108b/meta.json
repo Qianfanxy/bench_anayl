@@ -1,0 +1,15 @@
+{
+  "task_id": "task-69ac0de2bbf8108b",
+  "cohort": "origin29",
+  "title": "MAC Agency",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "oSsFyfRMwi6JrDhcvuqhpg",
+  "url": "https://www.figma.com/design/oSsFyfRMwi6JrDhcvuqhpg",
+  "expected_frames": 1,
+  "inference_status": "success",
+  "run_dir_basename": "task-69ac0de2bbf8108b--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 0,
+  "other_score_revisions": []
+}

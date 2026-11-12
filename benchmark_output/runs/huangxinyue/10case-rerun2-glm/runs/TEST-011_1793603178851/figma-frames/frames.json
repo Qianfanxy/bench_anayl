@@ -1,0 +1,27 @@
+[
+  {
+    "node_id": "11:70",
+    "name": "01_Onboarding",
+    "file": "11-70.png"
+  },
+  {
+    "node_id": "11:90",
+    "name": "02_Home",
+    "file": "11-90.png"
+  },
+  {
+    "node_id": "12:176",
+    "name": "03_Explore",
+    "file": "12-176.png"
+  },
+  {
+    "node_id": "14:278",
+    "name": "05_Analytics",
+    "file": "14-278.png"
+  },
+  {
+    "node_id": "15:372",
+    "name": "04_Workout",
+    "file": "15-372.png"
+  }
+]

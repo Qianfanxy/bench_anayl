@@ -1,0 +1,105 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "rectangle×6",
+        "frame×4",
+        "instance×3",
+        "vector×3",
+        "text×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Logo_Travelin",
+        "Vector",
+        "Your Passport to Seamles",
+        "Loading track",
+        "Loading progress",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "02_Get_Started",
+      "size": "430×932",
+      "nodes": 27,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "rectangle×6",
+        "vector×5",
+        "text×4",
+        "frame×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Photo_Aerial_Island",
+        "Ocean gradient",
+        "Logo_Travelin",
+        "Vector",
+        "Language / English",
+        "English"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "430×932",
+      "nodes": 48,
+      "max_depth": 4,
+      "instances": 14,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×13",
+        "vector×8",
+        "frame×6",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Photo_Hot_Air_Balloons",
+        "Photo shade",
+        "Language / English",
+        "English",
+        "Icon_Chevron_Down",
+        "Vector"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "430×932",
+      "nodes": 125,
+      "max_depth": 5,
+      "instances": 37,
+      "texts": 46,
+      "images": 0,
+      "types": [
+        "text×46",
+        "instance×37",
+        "vector×21",
+        "frame×14",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Home / Scroll content",
+        "Content",
+        "Header / Account",
+        "Photo_Avatar_Cat",
+        "Hi, Paul",
+        "Icon_Coin"
+      ]
+    }
+  ]
+}

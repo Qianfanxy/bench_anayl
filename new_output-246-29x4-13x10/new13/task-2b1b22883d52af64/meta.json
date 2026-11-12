@@ -1,0 +1,15 @@
+{
+  "task_id": "task-2b1b22883d52af64",
+  "cohort": "new13",
+  "title": "Run & Earn",
+  "model_id": "model_kimi_k3_cc",
+  "model_name": "Kimi K3",
+  "file_key": "GaQwCX7yDuMG14sJnnUoed",
+  "url": "https://www.figma.com/design/GaQwCX7yDuMG14sJnnUoed",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-2b1b22883d52af64",
+  "score_status": "completed",
+  "score_total": 37,
+  "other_score_revisions": []
+}

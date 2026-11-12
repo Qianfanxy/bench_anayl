@@ -1,0 +1,22 @@
+{
+  "task_id": "task-7afb2813523308ed",
+  "title": "ABM Developer Portfolio",
+  "model_id": "model_gpt61_sol_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 107.829,
+  "inference_duration_seconds": 107.829,
+  "input_tokens": 76951,
+  "output_tokens": 4049,
+  "total_tokens": 81000,
+  "cached_input_tokens": 57626,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 9,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 9,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-7afb2813523308ed/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-e4625fa8f1a7c49e",
+  "cohort": "new13",
+  "title": "Audio Shop",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "uGsRdNIB7b7zcDmYt6ddzL",
+  "url": "https://www.figma.com/design/uGsRdNIB7b7zcDmYt6ddzL",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-e4625fa8f1a7c49e",
+  "score_status": "completed",
+  "score_total": 38,
+  "other_score_revisions": []
+}

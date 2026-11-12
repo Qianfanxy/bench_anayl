@@ -1,0 +1,15 @@
+{
+  "task_id": "task-b544132cb12a0416",
+  "cohort": "new13",
+  "title": "Magic Coffee",
+  "model_id": "model_kimi_k3_cc",
+  "model_name": "Kimi K3",
+  "file_key": "ZJV4t6YZnHR3PtTfosWLme",
+  "url": "https://www.figma.com/design/ZJV4t6YZnHR3PtTfosWLme",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-b544132cb12a0416",
+  "score_status": "completed",
+  "score_total": 35,
+  "other_score_revisions": []
+}

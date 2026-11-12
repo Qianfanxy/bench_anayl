@@ -1,0 +1,15 @@
+{
+  "task_id": "task-cab5c38e3c8835d7",
+  "cohort": "new13",
+  "title": "Musium",
+  "model_id": "model_claude_opus55_direct",
+  "model_name": "Opus 5.5（三方A）",
+  "file_key": "MHEIXOBSR73MyP8m3L22s2",
+  "url": "https://www.figma.com/design/MHEIXOBSR73MyP8m3L22s2",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-cab5c38e3c8835d7",
+  "score_status": "completed",
+  "score_total": 45,
+  "other_score_revisions": []
+}

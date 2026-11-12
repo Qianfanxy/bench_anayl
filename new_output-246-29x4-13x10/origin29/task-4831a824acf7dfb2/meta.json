@@ -1,0 +1,17 @@
+{
+  "task_id": "task-4831a824acf7dfb2",
+  "cohort": "origin29",
+  "title": "Foodgo",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "vv9u7KMs4w8KbVz3kwSa8r",
+  "url": "https://www.figma.com/design/vv9u7KMs4w8KbVz3kwSa8r",
+  "expected_frames": 7,
+  "inference_status": "success",
+  "run_dir_basename": "task-4831a824acf7dfb2",
+  "score_status": "completed",
+  "score_total": 0,
+  "other_score_revisions": [
+    "task-4831a824acf7dfb2-811e9aebfdf3a05a676c"
+  ]
+}

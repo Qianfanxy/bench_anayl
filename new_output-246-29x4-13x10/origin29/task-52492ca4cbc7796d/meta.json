@@ -1,0 +1,15 @@
+{
+  "task_id": "task-52492ca4cbc7796d",
+  "cohort": "origin29",
+  "title": "Meet",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "qM9yRJIZDhaOlEcs67FjHa",
+  "url": "https://www.figma.com/design/qM9yRJIZDhaOlEcs67FjHa",
+  "expected_frames": 8,
+  "inference_status": "success",
+  "run_dir_basename": "task-52492ca4cbc7796d",
+  "score_status": "completed",
+  "score_total": 45,
+  "other_score_revisions": []
+}

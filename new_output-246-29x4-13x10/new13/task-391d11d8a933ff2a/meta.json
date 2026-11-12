@@ -1,0 +1,15 @@
+{
+  "task_id": "task-391d11d8a933ff2a",
+  "cohort": "new13",
+  "title": "Hawkeye Travel",
+  "model_id": "model_kimi_k3_cc",
+  "model_name": "Kimi K3",
+  "file_key": "IxEpFs6WzZ80A6QfGMoS5k",
+  "url": "https://www.figma.com/design/IxEpFs6WzZ80A6QfGMoS5k",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-391d11d8a933ff2a",
+  "score_status": "completed",
+  "score_total": 38,
+  "other_score_revisions": []
+}

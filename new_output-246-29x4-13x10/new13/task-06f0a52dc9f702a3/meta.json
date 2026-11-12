@@ -1,0 +1,15 @@
+{
+  "task_id": "task-06f0a52dc9f702a3",
+  "cohort": "new13",
+  "title": "Nikle",
+  "model_id": "model_gemini_31_pro_cc",
+  "model_name": "Gemini 3.5 Flash",
+  "file_key": "5BHpIUxOLaP9L4gss7kQJF",
+  "url": "https://www.figma.com/design/5BHpIUxOLaP9L4gss7kQJF",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-06f0a52dc9f702a3",
+  "score_status": "completed",
+  "score_total": 28,
+  "other_score_revisions": []
+}

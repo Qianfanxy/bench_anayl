@@ -1,0 +1,15 @@
+{
+  "task_id": "task-acfd0ce12d7e7061",
+  "cohort": "origin29",
+  "title": "Meet",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "enFLSZWo1Q6PAfs3nXpNrl",
+  "url": "https://www.figma.com/design/enFLSZWo1Q6PAfs3nXpNrl",
+  "expected_frames": 8,
+  "inference_status": "success",
+  "run_dir_basename": "task-acfd0ce12d7e7061",
+  "score_status": "completed",
+  "score_total": 44,
+  "other_score_revisions": []
+}

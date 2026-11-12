@@ -1,0 +1,15 @@
+{
+  "task_id": "task-fac807f2ae3ec037",
+  "cohort": "origin29",
+  "title": "Investment Wallet",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "mJc2zNl9s3zl1vbrUO9AXG",
+  "url": "https://www.figma.com/design/mJc2zNl9s3zl1vbrUO9AXG",
+  "expected_frames": 5,
+  "inference_status": "success",
+  "run_dir_basename": "task-fac807f2ae3ec037",
+  "score_status": "completed",
+  "score_total": 47,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-85d071986c589833",
+  "cohort": "new13",
+  "title": "Open Fashion",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "Hbdx20wbqkXyUsk5E5O9tj",
+  "url": "https://www.figma.com/design/Hbdx20wbqkXyUsk5E5O9tj",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-85d071986c589833",
+  "score_status": "completed",
+  "score_total": 42,
+  "other_score_revisions": []
+}

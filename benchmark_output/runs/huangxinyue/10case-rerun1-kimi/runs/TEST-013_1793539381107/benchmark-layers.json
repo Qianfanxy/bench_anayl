@@ -1,0 +1,104 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "03_Warm_Up",
+      "size": "414×896",
+      "nodes": 157,
+      "max_depth": 5,
+      "instances": 32,
+      "texts": 30,
+      "images": 0,
+      "types": [
+        "instance×32",
+        "text×30",
+        "frame×29",
+        "vector×25",
+        "group×21",
+        "ellipse×14"
+      ],
+      "names": [
+        "VideoCover",
+        "Photo_Seated_Hug",
+        "Ellipse",
+        "Icon_Back",
+        "Clip path group",
+        "clip0_0_107"
+      ]
+    },
+    {
+      "name": "04_Activity",
+      "size": "414×896",
+      "nodes": 121,
+      "max_depth": 5,
+      "instances": 11,
+      "texts": 49,
+      "images": 0,
+      "types": [
+        "text×49",
+        "frame×21",
+        "vector×21",
+        "instance×11",
+        "group×11",
+        "rectangle×6"
+      ],
+      "names": [
+        "StatusBar/Dark",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "01_Onboarding",
+      "size": "414×896",
+      "nodes": 18,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "text×4",
+        "instance×3",
+        "frame×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Illustration_Onboarding",
+        "Best workouts for you",
+        "You will have everything",
+        "Button/GetStarted",
+        "Get started",
+        "StatusBar/Dark"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "414×896",
+      "nodes": 78,
+      "max_depth": 5,
+      "instances": 20,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "text×21",
+        "instance×20",
+        "vector×11",
+        "frame×10",
+        "group×8",
+        "rectangle×6"
+      ],
+      "names": [
+        "StatusBar/Dark",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    }
+  ]
+}

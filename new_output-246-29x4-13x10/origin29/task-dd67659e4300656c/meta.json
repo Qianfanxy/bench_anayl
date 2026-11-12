@@ -1,0 +1,15 @@
+{
+  "task_id": "task-dd67659e4300656c",
+  "cohort": "origin29",
+  "title": "Paradise Invest",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "BWiXFrdCcr2I8IM5VSyFVR",
+  "url": "https://www.figma.com/design/BWiXFrdCcr2I8IM5VSyFVR",
+  "expected_frames": 8,
+  "inference_status": "failed",
+  "run_dir_basename": "task-dd67659e4300656c",
+  "score_status": "completed",
+  "score_total": 43,
+  "other_score_revisions": []
+}

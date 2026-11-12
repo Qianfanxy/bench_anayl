@@ -1,0 +1,17 @@
+{
+  "task_id": "task-b7eb40a4095a5ac9",
+  "cohort": "origin29",
+  "title": "Paradise Invest",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "1W2mMMjwk00S3IBRd9pKN9",
+  "url": "https://www.figma.com/design/1W2mMMjwk00S3IBRd9pKN9",
+  "expected_frames": 8,
+  "inference_status": "success",
+  "run_dir_basename": "task-b7eb40a4095a5ac9",
+  "score_status": "completed",
+  "score_total": 41,
+  "other_score_revisions": [
+    "task-b7eb40a4095a5ac9-9818c89e4af806d0c00c"
+  ]
+}

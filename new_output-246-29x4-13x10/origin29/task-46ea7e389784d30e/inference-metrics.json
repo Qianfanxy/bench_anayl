@@ -1,0 +1,17 @@
+{
+  "task_id": "task-46ea7e389784d30e",
+  "title": "ABM Developer Portfolio",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "inference_wall_seconds": 379.126,
+  "inference_duration_seconds": 379.126,
+  "input_tokens": 64169,
+  "output_tokens": 28058,
+  "total_tokens": 92227,
+  "token_usage_source": "API usage accumulated across completed model responses",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 6,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-46ea7e389784d30e/task-000001/trajectory.jsonl",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

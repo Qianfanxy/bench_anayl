@@ -1,0 +1,303 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "414×896",
+      "nodes": 28,
+      "max_depth": 5,
+      "instances": 3,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "vector×9",
+        "rectangle×7",
+        "group×4",
+        "instance×3",
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "Nectar_Logo_White",
+        "logo",
+        "Group",
+        "Vector",
+        "Vector_2",
+        "Group_2"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "414×896",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "instance×5",
+        "text×4",
+        "frame×3",
+        "vector×2",
+        "group×1"
+      ],
+      "names": [
+        "Photo_Welcome_Delivery",
+        "Welcome surface",
+        "Nectar_Carrot",
+        "Group",
+        "Vector_5",
+        "Vector_6"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "414×896",
+      "nodes": 34,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "rectangle×8",
+        "text×7",
+        "vector×5",
+        "frame×3",
+        "group×1"
+      ],
+      "names": [
+        "Photo_Sign_In_Groceries",
+        "Get your groceries\nwith ",
+        "Phone number",
+        "Email",
+        "Input",
+        "Underline"
+      ]
+    },
+    {
+      "name": "04_Verification",
+      "size": "414×896",
+      "nodes": 28,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "frame×10",
+        "text×7",
+        "rectangle×7",
+        "instance×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Text",
+        "Back",
+        "Enter your\n4-digit code",
+        "Code",
+        "Empty digit 0",
+        "Divider"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "414×896",
+      "nodes": 117,
+      "max_depth": 8,
+      "instances": 28,
+      "texts": 42,
+      "images": 0,
+      "types": [
+        "text×42",
+        "instance×28",
+        "frame×18",
+        "vector×13",
+        "group×8",
+        "rectangle×7"
+      ],
+      "names": [
+        "Shop scroll",
+        "Store content",
+        "Nectar_Carrot",
+        "Group",
+        "Vector_5",
+        "Vector_6"
+      ]
+    },
+    {
+      "name": "06_Product_Detail",
+      "size": "414×896",
+      "nodes": 43,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "frame×9",
+        "rectangle×7",
+        "instance×6",
+        "group×1",
+        "vector×1"
+      ],
+      "names": [
+        "Product hero",
+        "Text",
+        "Back",
+        "↥",
+        "Product_Red_Apple",
+        "Natural Red Apple"
+      ]
+    },
+    {
+      "name": "07_Explore",
+      "size": "414×896",
+      "nodes": 71,
+      "max_depth": 8,
+      "instances": 21,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "text×14",
+        "vector×11",
+        "frame×10",
+        "group×7",
+        "rectangle×7"
+      ],
+      "names": [
+        "Find Products",
+        "Search Store",
+        "Icon_Search",
+        "Vector_7",
+        "Category / Fresh Fruits ",
+        "Category_Fresh_Fruits_Ve"
+      ]
+    },
+    {
+      "name": "08_Beverages",
+      "size": "414×896",
+      "nodes": 58,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "text×28",
+        "instance×14",
+        "frame×8",
+        "rectangle×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Beverages",
+        "Back",
+        "☷",
+        "Product card / Diet Coke",
+        "Product_Diet_Coke",
+        "Diet Coke"
+      ]
+    },
+    {
+      "name": "09_My_Cart",
+      "size": "414×896",
+      "nodes": 107,
+      "max_depth": 8,
+      "instances": 21,
+      "texts": 36,
+      "images": 0,
+      "types": [
+        "text×36",
+        "frame×25",
+        "instance×21",
+        "vector×10",
+        "group×7",
+        "rectangle×7"
+      ],
+      "names": [
+        "My Cart",
+        "Cart item / Bell Pepper ",
+        "Product_Bell_Pepper_Red",
+        "Bell Pepper Red",
+        "1kg, Price",
+        "Remove item"
+      ]
+    },
+    {
+      "name": "10_Checkout_Overlay",
+      "size": "414×896",
+      "nodes": 161,
+      "max_depth": 9,
+      "instances": 32,
+      "texts": 49,
+      "images": 0,
+      "types": [
+        "text×49",
+        "frame×33",
+        "instance×32",
+        "group×19",
+        "vector×19",
+        "rectangle×8"
+      ],
+      "names": [
+        "Cart behind checkout",
+        "My Cart",
+        "Cart item / Bell Pepper ",
+        "Product_Bell_Pepper_Red",
+        "Bell Pepper Red",
+        "1kg, Price"
+      ]
+    },
+    {
+      "name": "11_Order_Accepted",
+      "size": "414×896",
+      "nodes": 35,
+      "max_depth": 5,
+      "instances": 4,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "vector×13",
+        "rectangle×7",
+        "text×5",
+        "instance×4",
+        "group×3",
+        "frame×2"
+      ],
+      "names": [
+        "Illustration_Order_Accep",
+        "Group 6872",
+        "Vector 11",
+        "Group 6871",
+        "Ellipse 19",
+        "Ellipse 20"
+      ]
+    },
+    {
+      "name": "12_Account",
+      "size": "414×896",
+      "nodes": 186,
+      "max_depth": 9,
+      "instances": 34,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "vector×56",
+        "group×53",
+        "instance×34",
+        "text×18",
+        "frame×17",
+        "rectangle×7"
+      ],
+      "names": [
+        "Avatar_Neutral",
+        "Vector",
+        "Afsar Hossen",
+        "✎",
+        "imshuvo97@gmail.com",
+        "Account row / Orders"
+      ]
+    }
+  ]
+}

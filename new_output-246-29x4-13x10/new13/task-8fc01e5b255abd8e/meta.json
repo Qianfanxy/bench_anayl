@@ -1,0 +1,15 @@
+{
+  "task_id": "task-8fc01e5b255abd8e",
+  "cohort": "new13",
+  "title": "Cyber Phone Store",
+  "model_id": "model_glm_53_flash_cc",
+  "model_name": "GLM-5.3 Flash",
+  "file_key": "0NqX1lTJkfUbKuCFeCQvK1",
+  "url": "https://www.figma.com/design/0NqX1lTJkfUbKuCFeCQvK1",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-8fc01e5b255abd8e",
+  "score_status": "completed",
+  "score_total": 39,
+  "other_score_revisions": []
+}

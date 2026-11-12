@@ -1,0 +1,34 @@
+[
+  {
+    "node_id": "17:79",
+    "name": "03_Warm_Up",
+    "file": "17-79.png"
+  },
+  {
+    "node_id": "18:147",
+    "name": "04_Activity",
+    "file": "18-147.png"
+  },
+  {
+    "node_id": "18:269",
+    "name": "01_Onboarding",
+    "file": "18-269.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "RUm55k6imcR7SizJdYcWbo",
+        "nodeId": "18:269",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "3edd61c08f470a2c805b9b88f563d57e42c3f46ba26aaa0fce00d6cdbbc9a264",
+      "response_file": "_debug/v2-native-18-269.png.txt",
+      "response_sha256": "feefb23099f661f49deb6c7970c84f60d264177d33e4892d73092ff5a055de2f"
+    }
+  },
+  {
+    "node_id": "21:44",
+    "name": "02_Home",
+    "file": "21-44.png"
+  }
+]

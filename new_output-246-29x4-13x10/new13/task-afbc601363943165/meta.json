@@ -1,0 +1,15 @@
+{
+  "task_id": "task-afbc601363943165",
+  "cohort": "new13",
+  "title": "MindfulMentor",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "YdzBmB4ePfCgSB5IzXWFHA",
+  "url": "https://www.figma.com/design/YdzBmB4ePfCgSB5IzXWFHA",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-afbc601363943165",
+  "score_status": "completed",
+  "score_total": 31,
+  "other_score_revisions": []
+}

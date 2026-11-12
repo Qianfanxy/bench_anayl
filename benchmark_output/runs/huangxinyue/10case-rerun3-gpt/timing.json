@@ -1,0 +1,34 @@
+{
+  "updated_at": "2026-11-03T07:33:44.928Z",
+  "run_set_id": "design10-rerun3-gpt",
+  "started_at": null,
+  "finished": true,
+  "finished_at": "2026-11-03T07:29:27.191Z",
+  "wall_elapsed_ms": null,
+  "generation_concurrency": 1,
+  "model_concurrency": 1,
+  "account_concurrency": 1,
+  "judge_concurrency": 3,
+  "revision": 1,
+  "policy_hash": "59186b9837e14cfec1c7ebd6bca6b9d6bd2b429019fea7d421fe584bba55ccd7",
+  "duration_note": "Wall elapsed includes preparation and waiting. Task-duration sums overlap under concurrency and are not wall elapsed.",
+  "models": [
+    {
+      "model_id": "model_de5fc4c9cdb841e8",
+      "model_name": "gpt-6-astra",
+      "total": 2,
+      "copies_ready": 0,
+      "copy_task_duration_ms_sum": 0,
+      "fresh_retry_copies": 0,
+      "retry_copy_task_duration_ms_sum": 0,
+      "inference_attempts_started": 2,
+      "inference_attempts_finished": 2,
+      "inference_task_duration_ms_sum": 987651,
+      "inference_task_duration_ms_mean": 493826,
+      "inference_wall_elapsed_ms": 1014351,
+      "inference_first_started_at": "2026-11-03T07:11:34.927Z",
+      "judge_task_duration_ms_sum": 117935,
+      "formal_scores": 2
+    }
+  ]
+}

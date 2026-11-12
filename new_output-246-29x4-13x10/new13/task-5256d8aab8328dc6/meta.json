@@ -1,0 +1,15 @@
+{
+  "task_id": "task-5256d8aab8328dc6",
+  "cohort": "new13",
+  "title": "Self Care Clinic",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "6JNFWBQvJLensLN6m7Rr0G",
+  "url": "https://www.figma.com/design/6JNFWBQvJLensLN6m7Rr0G",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-5256d8aab8328dc6",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

@@ -1,0 +1,27 @@
+{
+  "g0": { "pass": true, "reason": "七屏均完整呈现，无重叠、裁切，主流程页面齐全" },
+  "scores": [
+    { "key": "A1", "score": 2, "evidence": "七屏顶部都有超大标题「ART & LIFE」「MAGAZINE」「PODCAST」「AUTHORS」或文章、作者名，配合主图与分类标签，用户首屏即可判断页面用途和对象" },
+    { "key": "A2", "score": 2, "evidence": "第2至7屏顶部导航高亮当前栏目；第3、5、7屏有「GO BACK」及「MAGAZINE / PODCAST / AUTHOR」面包屑；第2屏分类「ALL」黑底选中，底部「NEXT」明确下一步" },
+    { "key": "A3", "score": 2, "evidence": "第1屏头条大图加标题居左上，「MOST POPULAR」在右侧辅助；第4、6屏列表行右端「LISTEN」「ABOUT」位置固定，核心内容与操作易定位，元信息灰色弱化不干扰" },
+    { "key": "A4", "score": 2, "evidence": "第5屏「LISTEN ON」三个平台按钮为浅灰底图标块，第1屏「BUY」「SIGN UP」为黑底按钮，Email 输入框有占位文字，箭头链接「ALL ARTICLES」可识别为可点击" },
+    { "key": "B1", "score": 3, "evidence": "第1屏按头条、热门、文章、播客、杂志与订阅、作者分区；第3屏正文与「LATEST POSTS」分开；第7屏简介、传记、作者文章三组分开，相关内容集中且粒度适宜" },
+    { "key": "B2", "score": 3, "evidence": "第3屏依次为标题、导语、作者元信息、主图、正文、引语、相关文章；第5屏封面与标题、收听入口在前，节目说明在后，阅读顺序自然" },
+    { "key": "B3", "score": 3, "evidence": "第1屏热门「Street art festival」署名 Cristofer Vaccaro 与第2屏一致；第7屏 Louise Jensen 的四篇文章与第2屏署名吻合；播客 EP05-01 编号在第1、4、5屏一致" },
+    { "key": "B4", "score": 2, "evidence": "社交、箭头、平台图标清晰可辨；但第3、5屏「SHARE」后放的是 YouTube 与 RSS 图标，分享语义不贴切，需结合文字理解" },
+    { "key": "B5", "score": 3, "evidence": "第1屏订阅框「SIGN UP」为唯一黑底主按钮，杂志区「BUY」单独黑底；页脚白底「SIGN UP」与输入框主次清晰，各集合无争抢且无危险操作" },
+    { "key": "G1", "score": 2, "evidence": "图层摘要中画板命名为 01_Frontpage 至 07_Author_Profile，子层有 Header、HeroSection、PodcastRow、AuthorRow、FooterBand 等语义名，可快速定位" },
+    { "key": "G2", "score": 2, "evidence": "各画板按 Header、TitleSection、ListSection、FooterBand 分区，首页嵌套至5层，重复行与卡片用组件实例，父子关系与画面包含关系一致" },
+    { "key": "D1", "score": 2, "evidence": "第1屏黑色新闻条文字贴在顶部，下方大段空黑，未垂直居中；第3、5屏引语上方的竖线只显示为一个小短点，局部细节失调" },
+    { "key": "D2", "score": 3, "evidence": "第2屏卡片中图片、标签与日期同行两端对齐，标题、摘要、作者间距统一；第4、6屏列表行缩略图、标题、元信息、右侧链接对齐稳定" },
+    { "key": "D3", "score": 2, "evidence": "第1屏文章列表只占左侧约45%宽度，播客三卡与杂志、订阅模块也偏左，右侧空出；第7屏「Articles by Louise Jensen」紧贴灰底顶部，模块间距失衡" },
+    { "key": "D4", "score": 2, "evidence": "第1屏文章区和播客区右侧约一半宽度空白，「MOST POPULAR」下方也有大片空白，页面略显空泛，但内容依然连贯" },
+    { "key": "E1", "score": 2, "evidence": "分类标签胶囊、日期与时长元信息、「GO BACK」行、列表行加右箭头链接在各屏结构样式一致，同类对象可预期" },
+    { "key": "E2", "score": 2, "evidence": "七屏共用同一顶部导航、超大标题样式、浅灰相关推荐区和黑色订阅页脚，黑白中性视觉语言稳定" },
+    { "key": "F1", "score": 2, "evidence": "第3屏超大标题、导语、正文、引语层级分明，正文行长约占2/3宽，行距舒适；第2屏卡片标题与摘要字号区分清楚" },
+    { "key": "F2", "score": 2, "evidence": "整体黑白灰体系，强调只用于黑底按钮、黑色页脚和选中分类，彩色仅来自配图，重点突出且有节制" },
+    { "key": "F3", "score": 2, "evidence": "页面以内容展示为主，没有错误、警告等状态；选中分类用黑底反白，没有误导性的状态用色" },
+    { "key": "F4", "score": 2, "evidence": "标题为纯黑，摘要为深灰，日期与作者为浅灰；第1屏热门编号与第4屏集数为极浅灰，属装饰性弱化，主次可辨，辅助信息仍可读" },
+    { "key": "F5", "score": 2, "evidence": "黑白摄影配图与粗体无衬线大标题形成统一的杂志调性，各屏完成度高；首页右侧留空和新闻条细节略显粗糙" }
+  ]
+}

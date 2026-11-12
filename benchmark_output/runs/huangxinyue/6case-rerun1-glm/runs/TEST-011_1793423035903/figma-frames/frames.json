@@ -1,0 +1,342 @@
+[
+  {
+    "node_id": "10:24",
+    "name": "01_Splash",
+    "file": "10-24.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "10:24",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "50bd0991bf9e9ba827f6e5fac32bbfd130b0ae9e5777df35873e7c1c0b12b50b",
+      "response_file": "_debug/v2-native-10-24.png.txt",
+      "response_sha256": "62eaf837db90a0ea757b052f0a35325e5a45befe8f8716c94916797666408844"
+    }
+  },
+  {
+    "node_id": "10:38",
+    "name": "02_Welcome",
+    "file": "10-38.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "10:38",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "fe9da1d91169fad19a2c1d0c22ba546da6bf2f242339c7216fec5d1d9905f820",
+      "response_file": "_debug/v2-native-10-38.png.txt",
+      "response_sha256": "75ccc6dc273ac463591f90caf8e6795a0bd1af57cfcf57ff011248ba6ae8e636"
+    }
+  },
+  {
+    "node_id": "10:58",
+    "name": "03_Name",
+    "file": "10-58.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "10:58",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "25e8a145769436fd36c2e958480211407a1daaf8e60d2302b1363eb19b90101b",
+      "response_file": "_debug/v2-native-10-58.png.txt",
+      "response_sha256": "8aada17969bf8208e8f2d60da1e9c823b9a762692ce287271e803c8f46dc1ee5"
+    }
+  },
+  {
+    "node_id": "12:57",
+    "name": "04_Home",
+    "file": "12-57.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "12:57",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "cac96b1e7585f7b459b0e7d12692af6c9313a7d628a6c52769916f16d6e046cc",
+      "response_file": "_debug/v2-native-12-57.png.txt",
+      "response_sha256": "d802e14d23be22c560b7befb47148c2400a80dbd5dcd79c422ec615322ca2cea"
+    }
+  },
+  {
+    "node_id": "13:130",
+    "name": "05_Product_Quinoa",
+    "file": "13-130.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "13:130",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "a03dd0dcf099e3a1847d33e0b77a36e162d6ce4bee585cad290fa32c930082d6",
+      "response_file": "_debug/v2-native-13-130.png.txt",
+      "response_sha256": "11977634fce77aafdec234f5ebd51f69b8743d100755887f4d65f8c5f6ddddd1"
+    }
+  },
+  {
+    "node_id": "13:182",
+    "name": "06_Basket",
+    "file": "13-182.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "13:182",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "af38c64ac33ec8e63391e8cd23dd32746a3000405130eb6540af4fe2d30f77fa",
+      "response_file": "_debug/v2-native-13-182.png.txt",
+      "response_sha256": "1c4ff415b9bb9ba722d36529f367c06fd1195e4cf83fb40cb36ff23ac8b65090"
+    }
+  },
+  {
+    "node_id": "14:185",
+    "name": "07_Checkout_Delivery",
+    "file": "14-185.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "14:185",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "2a1df5838b527347436d46636e7ec1128aec87e39bfd74be0d9b7dce0f2141be",
+      "response_file": "_debug/v2-native-14-185.png.txt",
+      "response_sha256": "627e4a23fbd2a6abba30caabe8330d063f77e5c771a6fb1036ac146b1cb03be4"
+    }
+  },
+  {
+    "node_id": "14:242",
+    "name": "08_Checkout_Card",
+    "file": "14-242.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "14:242",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "e5ef7dc1f5cbf006a377355352dc346507cc99c129bed634120d1a2c878fcc09",
+      "response_file": "_debug/v2-native-14-242.png.txt",
+      "response_sha256": "93e009df63a63d305e8d24c2a07e863f8c3919fe3ae00cddc8b40fe568997a60"
+    }
+  },
+  {
+    "node_id": "17:254",
+    "name": "09_Order_Complete",
+    "file": "17-254.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "17:254",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "e345227ea7349ae666559eabbab00e22d5a338b29bd1d08c2cb8e9ba9732eb11",
+      "response_file": "_debug/v2-native-17-254.png.txt",
+      "response_sha256": "edb9ee65315bd99d5ccfcb09af1a82ccf26c86190c8e89381466f70b5e493118"
+    }
+  },
+  {
+    "node_id": "17:275",
+    "name": "10_Track_Order",
+    "file": "17-275.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "17:275",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "5b1d1bdad68c44c21ec6e133464df894cd2ccb2b6b9641563389db90a40f82ea",
+      "response_file": "_debug/v2-native-17-275.png.txt",
+      "response_sha256": "90d432d0c0f40287cc5940bc6a76e6cd8abb37f9e5714af0a37cc2b244c0a4c3"
+    }
+  },
+  {
+    "node_id": "25:309",
+    "name": "01_Splash",
+    "file": "25-309.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "25:309",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "b46a5d75afcace252c3658d94695b8b69355870da80a26f0268add867e5d4164",
+      "response_file": "_debug/v2-native-25-309.png.txt",
+      "response_sha256": "f761a7947a17249f30f124ea8e0c84130fa7733dc840d193863df34f4f03bc91"
+    }
+  },
+  {
+    "node_id": "25:321",
+    "name": "02_Welcome",
+    "file": "25-321.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "25:321",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "922183eec17b18ce5a62fea538eae7edc3425cf26d8071812dbce9ab2a14509c",
+      "response_file": "_debug/v2-native-25-321.png.txt",
+      "response_sha256": "e9076ed41429006a160915d947027c5383e95065a6e799ecfe9f92117d96f13b"
+    }
+  },
+  {
+    "node_id": "25:340",
+    "name": "03_Name",
+    "file": "25-340.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "25:340",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "aa35d18a87197766b7759de55374934e4fb46224283abeaa3dc2ea7e3fdadb7e",
+      "response_file": "_debug/v2-native-25-340.png.txt",
+      "response_sha256": "22ca3c7708b9dc0480503d4a9f04fb9aa1ca0265823a963bc4730a4df3137751"
+    }
+  },
+  {
+    "node_id": "26:341",
+    "name": "04_Home",
+    "file": "26-341.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "26:341",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "bc6ee7546c8bf3339ab17964612a1c7974a9d5331fcee93569a5ef986ad63d98",
+      "response_file": "_debug/v2-native-26-341.png.txt",
+      "response_sha256": "f5533c9985060aba307fba8806fa1e7fe8871f8219d296dc50b5948ef5295bcc"
+    }
+  },
+  {
+    "node_id": "27:414",
+    "name": "05_Product_Quinoa",
+    "file": "27-414.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "27:414",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "6238cd0040a67080881dc7449fe5cf189fd7b473ffe43b1498b071271bae3f58",
+      "response_file": "_debug/v2-native-27-414.png.txt",
+      "response_sha256": "571ac8a083f33d109ea56952f379274fbed7a4929c712ac3d7d3633f5f24dde2"
+    }
+  },
+  {
+    "node_id": "27:497",
+    "name": "06_Basket",
+    "file": "27-497.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "27:497",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "1e76951211dea0d8754e328a848e108d91a98b76d32bc7d9e2d263bfd2d8cb2a",
+      "response_file": "_debug/v2-native-27-497.png.txt",
+      "response_sha256": "b5771d4ec1f633797e4bcc295b5d66749d045aa28ca8f6c63ea72f89d369694e"
+    }
+  },
+  {
+    "node_id": "28:468",
+    "name": "07_Checkout_Delivery",
+    "file": "28-468.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "28:468",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "d8a0c84e40a7dcfe8378016d3dc0db30916c91f4353547ec96185fe12035defd",
+      "response_file": "_debug/v2-native-28-468.png.txt",
+      "response_sha256": "10aca660b8b8d5403bddada5ccf2b89849ad0cfd9d786674b202a641c9bc7ff4"
+    }
+  },
+  {
+    "node_id": "28:520",
+    "name": "08_Checkout_Card",
+    "file": "28-520.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "28:520",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "d4dbb22431377c7627c5e973d2f0761e7fee6994fbf6b7470533c75935fcdcd8",
+      "response_file": "_debug/v2-native-28-520.png.txt",
+      "response_sha256": "0f76231d8c7d087997628ce0a11dcc75583fbe86b6eeffa45512d8a0ede3742e"
+    }
+  },
+  {
+    "node_id": "29:533",
+    "name": "09_Order_Complete",
+    "file": "29-533.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "29:533",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "9f177e707e2797e4c7e24f99cacb437a56bdc3dd71c78bd22e5c6dc6a36aee52",
+      "response_file": "_debug/v2-native-29-533.png.txt",
+      "response_sha256": "49600792d098dff98defb0ad69769362910cb3f87caa5d8638e08cce6f704a4d"
+    }
+  },
+  {
+    "node_id": "29:554",
+    "name": "10_Track_Order",
+    "file": "29-554.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "l8MdQcWVFQcJw2Ix8PJk7h",
+        "nodeId": "29:554",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "6e069e85bfa6e7a8037cc50c58d9c348ba55e1699f410144e732717ffdbbcdb3",
+      "response_file": "_debug/v2-native-29-554.png.txt",
+      "response_sha256": "e8249e96940f7b4590614fada22eefdf5d76344610a1c823cfd77d44eea278f9"
+    }
+  }
+]

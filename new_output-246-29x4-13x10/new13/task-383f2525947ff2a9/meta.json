@@ -1,0 +1,15 @@
+{
+  "task_id": "task-383f2525947ff2a9",
+  "cohort": "new13",
+  "title": "Musium",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "elcHsuoNX7fhi4gUoKpr7X",
+  "url": "https://www.figma.com/design/elcHsuoNX7fhi4gUoKpr7X",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-383f2525947ff2a9",
+  "score_status": "completed",
+  "score_total": 21,
+  "other_score_revisions": []
+}

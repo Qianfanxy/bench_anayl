@@ -1,0 +1,15 @@
+{
+  "task_id": "task-07d58ec495d02753",
+  "cohort": "new13",
+  "title": "Placoo Rental",
+  "model_id": "model_claude_opus55_direct",
+  "model_name": "Opus 5.5（三方A）",
+  "file_key": "9H6GPruPRkRd0F7KgCcde0",
+  "url": "https://www.figma.com/design/9H6GPruPRkRd0F7KgCcde0",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-07d58ec495d02753",
+  "score_status": "completed",
+  "score_total": 46,
+  "other_score_revisions": []
+}

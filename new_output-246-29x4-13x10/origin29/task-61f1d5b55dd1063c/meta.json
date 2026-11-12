@@ -1,0 +1,15 @@
+{
+  "task_id": "task-61f1d5b55dd1063c",
+  "cohort": "origin29",
+  "title": "StockWave",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "biIaTscXqQXrgh4EXY6IxZ",
+  "url": "https://www.figma.com/design/biIaTscXqQXrgh4EXY6IxZ",
+  "expected_frames": 10,
+  "inference_status": "success",
+  "run_dir_basename": "task-61f1d5b55dd1063c",
+  "score_status": "completed",
+  "score_total": 33,
+  "other_score_revisions": []
+}

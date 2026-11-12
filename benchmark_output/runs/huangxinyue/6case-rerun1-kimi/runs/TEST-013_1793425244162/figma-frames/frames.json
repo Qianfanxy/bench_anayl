@@ -1,0 +1,62 @@
+[
+  {
+    "node_id": "11:128",
+    "name": "01_Splash",
+    "file": "11-128.png"
+  },
+  {
+    "node_id": "11:157",
+    "name": "02_Onboarding",
+    "file": "11-157.png"
+  },
+  {
+    "node_id": "11:181",
+    "name": "03_Sign_In",
+    "file": "11-181.png"
+  },
+  {
+    "node_id": "11:217",
+    "name": "04_Verification",
+    "file": "11-217.png"
+  },
+  {
+    "node_id": "12:174",
+    "name": "05_Home",
+    "file": "12-174.png"
+  },
+  {
+    "node_id": "12:307",
+    "name": "06_Product_Detail",
+    "file": "12-307.png"
+  },
+  {
+    "node_id": "13:324",
+    "name": "07_Explore",
+    "file": "13-324.png"
+  },
+  {
+    "node_id": "13:397",
+    "name": "08_Beverages",
+    "file": "13-397.png"
+  },
+  {
+    "node_id": "13:477",
+    "name": "09_My_Cart",
+    "file": "13-477.png"
+  },
+  {
+    "node_id": "14:548",
+    "name": "10_Checkout_Overlay",
+    "file": "14-548.png"
+  },
+  {
+    "node_id": "15:739",
+    "name": "11_Order_Accepted",
+    "file": "15-739.png"
+  },
+  {
+    "node_id": "15:775",
+    "name": "12_Account",
+    "file": "15-775.png"
+  }
+]

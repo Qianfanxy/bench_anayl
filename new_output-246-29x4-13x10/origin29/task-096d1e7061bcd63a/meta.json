@@ -1,0 +1,15 @@
+{
+  "task_id": "task-096d1e7061bcd63a",
+  "cohort": "origin29",
+  "title": "Shop.co",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "m8GHu6C00sxTJ36s54hmnU",
+  "url": "https://www.figma.com/design/m8GHu6C00sxTJ36s54hmnU",
+  "expected_frames": 4,
+  "inference_status": "failed",
+  "run_dir_basename": "task-096d1e7061bcd63a",
+  "score_status": "completed",
+  "score_total": 48,
+  "other_score_revisions": []
+}

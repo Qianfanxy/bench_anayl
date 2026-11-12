@@ -1,0 +1,15 @@
+{
+  "task_id": "task-e912e94d5757f326",
+  "cohort": "origin29",
+  "title": "Stylish",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "baYYS6nDsvzpy2QaqoDQDi",
+  "url": "https://www.figma.com/design/baYYS6nDsvzpy2QaqoDQDi",
+  "expected_frames": 15,
+  "inference_status": "success",
+  "run_dir_basename": "task-e912e94d5757f326",
+  "score_status": "completed",
+  "score_total": 32,
+  "other_score_revisions": []
+}

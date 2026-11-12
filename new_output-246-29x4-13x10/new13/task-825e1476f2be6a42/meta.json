@@ -1,0 +1,15 @@
+{
+  "task_id": "task-825e1476f2be6a42",
+  "cohort": "new13",
+  "title": "Run & Earn",
+  "model_id": "model_claude_opus55_direct",
+  "model_name": "Opus 5.5（三方A）",
+  "file_key": "wV3hm2vuq9mO7LkyrVLssl",
+  "url": "https://www.figma.com/design/wV3hm2vuq9mO7LkyrVLssl",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-825e1476f2be6a42",
+  "score_status": "completed",
+  "score_total": 36,
+  "other_score_revisions": []
+}

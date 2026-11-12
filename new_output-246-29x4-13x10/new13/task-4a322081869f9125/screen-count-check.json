@@ -1,0 +1,12 @@
+{
+  "kind": "rule-based-screen-count/v1",
+  "task_id": "task-4a322081869f9125",
+  "file_key": "iGfqLEdi1Nkz7M3IQOlQN3",
+  "expected": 12,
+  "actual": 5,
+  "passed": false,
+  "model_calls": 0,
+  "screenshot_calls": 0,
+  "semantic_requirements_checked": false,
+  "checked_at": "2026-11-09T15:10:26.262830+00:00"
+}

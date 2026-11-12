@@ -1,0 +1,15 @@
+{
+  "task_id": "task-1d2284c5ec540ce2",
+  "cohort": "new13",
+  "title": "Inkline Blog",
+  "model_id": "model_claude_fable51_login",
+  "model_name": "Fable 5.1",
+  "file_key": "BU6VKoU1alwDejmQNwwzIl",
+  "url": "https://www.figma.com/design/BU6VKoU1alwDejmQNwwzIl",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-1d2284c5ec540ce2",
+  "score_status": "completed",
+  "score_total": 0,
+  "other_score_revisions": []
+}

@@ -1,0 +1,22 @@
+{
+  "task_id": "task-51dbd6576879c56a",
+  "title": "Stylish",
+  "model_id": "model_qwen38_max_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 5400.841,
+  "inference_duration_seconds": 5400.841,
+  "input_tokens": 4860367,
+  "output_tokens": 115094,
+  "total_tokens": 4975461,
+  "cached_input_tokens": 4470784,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 110,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": false,
+  "token_usage_status": "partial",
+  "token_rounds": 110,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-51dbd6576879c56a/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

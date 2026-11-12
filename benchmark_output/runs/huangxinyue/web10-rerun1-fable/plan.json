@@ -1,0 +1,58 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "web10-rerun1-fable",
+  "dataset_hash": "66a1030b4b32f1e4a43b94478221b059f632ef863a38a0dfb51d8fabd44800a1",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_claude_fable51_login",
+      "name": "Fable 5.1",
+      "provider": "Claude Code",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "https://tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "claude-fable-5-1/mix_L/sfm",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "none",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    }
+  ],
+  "case_count": 1,
+  "assignment_count": 1,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 1,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_ac4ae1c183835d2dd604",
+      "case_id": "case-002",
+      "model_id": "model_claude_fable51_login"
+    }
+  ],
+  "content_hash": "22c91c0349631693c935879f4c1ce527522f29372b10c740dde55fcc40d6580c"
+}

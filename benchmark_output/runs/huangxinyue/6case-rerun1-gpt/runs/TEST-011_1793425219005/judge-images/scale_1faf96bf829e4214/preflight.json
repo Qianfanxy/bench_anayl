@@ -1,0 +1,187 @@
+{
+  "max_dimension": 8000,
+  "max_base64_bytes": 5000000,
+  "max_total_bytes": 25165824,
+  "images": [
+    {
+      "index": 1,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-2.png",
+      "source_sha256": "b0f893ad7a4c46f4edd408a645557770e091c5b64dd0d9932b3bb06fe98f5b24",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-2.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 17006,
+      "submitted_bytes": 17006,
+      "submitted_base64_bytes": 22676
+    },
+    {
+      "index": 2,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-3.png",
+      "source_sha256": "7629e87fe1b2f428c02ffecf91a56501146f7319a5f294ca121826d2e3eb5a8f",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-3.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 152272,
+      "submitted_bytes": 152272,
+      "submitted_base64_bytes": 203032
+    },
+    {
+      "index": 3,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-4.png",
+      "source_sha256": "1da916a426b3b09b10b7229c0519a2f70aa04632ee93a9493508fb58f626260d",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-4.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 120838,
+      "submitted_bytes": 120838,
+      "submitted_base64_bytes": 161120
+    },
+    {
+      "index": 4,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-5.png",
+      "source_sha256": "622b1bcdcd11f6a643ec9b54f67c3f866a791cee7ff1f494a2260a50a982c6cd",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-5.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 86367,
+      "submitted_bytes": 86367,
+      "submitted_base64_bytes": 115156
+    },
+    {
+      "index": 5,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-6.png",
+      "source_sha256": "4387c0c7fb11abae4396215a8527e87c4e2205d545f9b02ec482d35cd87c416d",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-6.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 78842,
+      "submitted_bytes": 78842,
+      "submitted_base64_bytes": 105124
+    },
+    {
+      "index": 6,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-7.png",
+      "source_sha256": "8a006b590b2fd15da46f63945573cfec758a1a1af553d69a6a9f9fdbfc42f98f",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-7.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 43391,
+      "submitted_bytes": 43391,
+      "submitted_base64_bytes": 57856
+    },
+    {
+      "index": 7,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-8.png",
+      "source_sha256": "c1a3847f7b5b9b1701370d059caf7ac30505798324aad209f8bf8763e87f57e6",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-8.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 41776,
+      "submitted_bytes": 41776,
+      "submitted_base64_bytes": 55704
+    },
+    {
+      "index": 8,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-9.png",
+      "source_sha256": "2fdb70da196469e55e10678f9d9e312ff466c46b46285c713b07920238c9853a",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-9.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 34729,
+      "submitted_bytes": 34729,
+      "submitted_base64_bytes": 46308
+    },
+    {
+      "index": 9,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-10.png",
+      "source_sha256": "c0dedd755d878aa30707d7c3be697224d85b8a756f99e74e9922b395a04bddc9",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-10.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 24340,
+      "submitted_bytes": 24340,
+      "submitted_base64_bytes": 32456
+    },
+    {
+      "index": 10,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-11.png",
+      "source_sha256": "7cf5b2221e0def368e257eea477b9bc4ffcf37759505009ff6af1874a997aaf9",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/figma-frames/7-11.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 133074,
+      "submitted_bytes": 133074,
+      "submitted_base64_bytes": 177432
+    }
+  ]
+}

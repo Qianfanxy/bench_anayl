@@ -1,0 +1,15 @@
+{
+  "task_id": "task-e90a8db476fae16b",
+  "cohort": "new13",
+  "title": "Musium",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "MIyFAiEBiH1ti5TjoQpbCV",
+  "url": "https://www.figma.com/design/MIyFAiEBiH1ti5TjoQpbCV",
+  "expected_frames": null,
+  "inference_status": "failed",
+  "run_dir_basename": "task-e90a8db476fae16b--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 30,
+  "other_score_revisions": []
+}

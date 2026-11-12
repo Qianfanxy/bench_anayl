@@ -1,0 +1,129 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "390×844",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "rectangle×9",
+        "instance×4",
+        "text×4",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Photo_Onboarding",
+        "Rectangle",
+        "Wherever you are, health",
+        "There is no instant way ",
+        "Button",
+        "Get Started"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "390×844",
+      "nodes": 102,
+      "max_depth": 4,
+      "instances": 24,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "text×29",
+        "vector×25",
+        "instance×24",
+        "frame×16",
+        "rectangle×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Good Morning 🔥",
+        "Pramuditya Uzumaki",
+        "Text Field",
+        "Search",
+        "Input",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "03_Explore",
+      "size": "390×844",
+      "nodes": 88,
+      "max_depth": 4,
+      "instances": 26,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "text×35",
+        "instance×26",
+        "vector×12",
+        "frame×7",
+        "rectangle×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header / Explore",
+        "Explore",
+        "Banner / Quarantine",
+        "Photo_Quarantine_Workout",
+        "Frame",
+        "Best Quarantine Workout"
+      ]
+    },
+    {
+      "name": "04_Workout",
+      "size": "390×844",
+      "nodes": 58,
+      "max_depth": 4,
+      "instances": 18,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×17",
+        "vector×9",
+        "rectangle×7",
+        "frame×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header / Workout",
+        "Workout",
+        "Back",
+        "Icon_Back",
+        "Vector",
+        "Photo_Lower_Body_Trainin"
+      ]
+    },
+    {
+      "name": "05_Analytics",
+      "size": "390×844",
+      "nodes": 141,
+      "max_depth": 4,
+      "instances": 23,
+      "texts": 37,
+      "images": 0,
+      "types": [
+        "frame×43",
+        "text×37",
+        "vector×30",
+        "instance×23",
+        "rectangle×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header / July 2022",
+        "July 2022",
+        "Calendar / July — select",
+        "Frame",
+        "S",
+        "10"
+      ]
+    }
+  ]
+}

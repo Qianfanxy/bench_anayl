@@ -1,0 +1,86 @@
+[
+  {
+    "node_id": "11:2",
+    "name": "01_Login",
+    "file": "11-2.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "lEwCWXljcAXgGd3yvwjAbG",
+        "nodeId": "11:2",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "bb068ab81e64070377c81305d6d289fdc2be7b09494195991edc8c8a4f297341",
+      "response_file": "_debug/v2-native-11-2.png.txt",
+      "response_sha256": "20f097abd8aa13b7610da1c47fab7734db27c1ade2f1a232ddd79aa804827a71"
+    }
+  },
+  {
+    "node_id": "11:3",
+    "name": "02_Home_Chats",
+    "file": "11-3.png"
+  },
+  {
+    "node_id": "11:4",
+    "name": "03_Home_Images",
+    "file": "11-4.png"
+  },
+  {
+    "node_id": "11:5",
+    "name": "04_Home_Exports",
+    "file": "11-5.png"
+  },
+  {
+    "node_id": "11:6",
+    "name": "05_Chat_New",
+    "file": "11-6.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "lEwCWXljcAXgGd3yvwjAbG",
+        "nodeId": "11:6",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "0b3d5a06b2fca2d446b4b08abfb5480a058506278ede2de6dd85f2ceaa0c17d6",
+      "response_file": "_debug/v2-native-11-6.png.txt",
+      "response_sha256": "05b3acaf464d7c12391f89608d17161534ab3b4f20a82a2f67c337fb2b77623a"
+    }
+  },
+  {
+    "node_id": "11:7",
+    "name": "06_Chat_Conversation",
+    "file": "11-7.png"
+  },
+  {
+    "node_id": "11:8",
+    "name": "07_Export_PDF_Sheet",
+    "file": "11-8.png"
+  },
+  {
+    "node_id": "11:9",
+    "name": "08_Profile_Settings",
+    "file": "11-9.png"
+  },
+  {
+    "node_id": "11:10",
+    "name": "09_Account_Actions_Sheet",
+    "file": "11-10.png"
+  },
+  {
+    "node_id": "11:11",
+    "name": "10_Theme_Sheet",
+    "file": "11-11.png"
+  },
+  {
+    "node_id": "11:12",
+    "name": "11_Cloud_Space",
+    "file": "11-12.png"
+  },
+  {
+    "node_id": "11:13",
+    "name": "12_Clear_Cache_Dialog",
+    "file": "11-13.png"
+  }
+]

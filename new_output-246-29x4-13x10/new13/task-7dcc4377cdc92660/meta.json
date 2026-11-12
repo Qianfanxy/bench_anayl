@@ -1,0 +1,15 @@
+{
+  "task_id": "task-7dcc4377cdc92660",
+  "cohort": "new13",
+  "title": "Nikle",
+  "model_id": "model_glm_53_flash_cc",
+  "model_name": "GLM-5.3 Flash",
+  "file_key": "gplwD9GoTBAxR0EBsmPNlG",
+  "url": "https://www.figma.com/design/gplwD9GoTBAxR0EBsmPNlG",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-7dcc4377cdc92660",
+  "score_status": "completed",
+  "score_total": 29,
+  "other_score_revisions": []
+}

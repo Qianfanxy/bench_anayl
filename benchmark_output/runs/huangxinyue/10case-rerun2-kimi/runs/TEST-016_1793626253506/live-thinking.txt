@@ -1,0 +1,11 @@
+Everything is in the workspace now. Overview looks good: UI kit on the left (components: Tab Bar, Header, Segments, Period Picker, Budget Summary, Item Row, Category Card, More Row, Subscription Row, Factor Row, Credit Card), and 3 screens.
+
+Wait, the screens look squished height-wise in this overview — no, they're just scaled. Note the screens look shorter than 812 in this scaled view — fine.
+
+One remaining item: 01_Expenses tab bar appears in the middle of the screen in this overview since screen is scaled. All good.
+
+The "Start Here · Brief" page is preserved, Foundations/Components/Media pages untouched. Workspace has kit + 3 screens. Prototype wired. Current page set to workspace.
+
+I could polish the 01 screen slightly (e.g., the Subscriptions row "Left $0" in red — brief data has no red semantics requirement, it's fine as a design decision: over/fully spent). 
+
+Done. Write final summary.

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-b01a9a749f390a0a",
+  "cohort": "new13",
+  "title": "Open Fashion",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "zCEJ7wE53zKufgNM1300cV",
+  "url": "https://www.figma.com/design/zCEJ7wE53zKufgNM1300cV",
+  "expected_frames": null,
+  "inference_status": "deferred",
+  "run_dir_basename": "task-b01a9a749f390a0a--restart-20261110-095732",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

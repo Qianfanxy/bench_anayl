@@ -1,0 +1,15 @@
+{
+  "task_id": "task-53ec71daffdb90d7",
+  "cohort": "new13",
+  "title": "Self Care Clinic",
+  "model_id": "model_gemini_31_pro_cc",
+  "model_name": "Gemini 3.5 Flash",
+  "file_key": "AUbyWy1e91oJPPMMl1GzcT",
+  "url": "https://www.figma.com/design/AUbyWy1e91oJPPMMl1GzcT",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-53ec71daffdb90d7",
+  "score_status": "completed",
+  "score_total": 31,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-b2738053aa81b503",
+  "cohort": "origin29",
+  "title": "Chat Bot AI",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "vIKe4HT8S4Qs45sl52pSI2",
+  "url": "https://www.figma.com/design/vIKe4HT8S4Qs45sl52pSI2",
+  "expected_frames": 12,
+  "inference_status": "success",
+  "run_dir_basename": "task-b2738053aa81b503",
+  "score_status": "completed",
+  "score_total": 37,
+  "other_score_revisions": []
+}

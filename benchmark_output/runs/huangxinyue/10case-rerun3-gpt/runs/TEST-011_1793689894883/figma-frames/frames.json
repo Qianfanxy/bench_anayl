@@ -1,0 +1,37 @@
+[
+  {
+    "node_id": "13:2",
+    "name": "01_Home",
+    "file": "13-2.png"
+  },
+  {
+    "node_id": "13:6",
+    "name": "02_About_Investment",
+    "file": "13-6.png"
+  },
+  {
+    "node_id": "13:13",
+    "name": "03_Create_PIN",
+    "file": "13-13.png"
+  },
+  {
+    "node_id": "13:20",
+    "name": "04_Portfolio",
+    "file": "13-20.png"
+  },
+  {
+    "node_id": "13:27",
+    "name": "05_Trading",
+    "file": "13-27.png"
+  },
+  {
+    "node_id": "13:34",
+    "name": "06_Stock_Transaction",
+    "file": "13-34.png"
+  },
+  {
+    "node_id": "13:454",
+    "name": "07_Confirm_Purchase",
+    "file": "13-454.png"
+  }
+]

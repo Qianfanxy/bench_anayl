@@ -1,0 +1,17 @@
+{
+  "task_id": "task-f112a07a89400043",
+  "title": "MAC Agency",
+  "model_id": "model_gpt61_sol_1109",
+  "inference_wall_seconds": 180.537,
+  "inference_duration_seconds": 180.537,
+  "input_tokens": 53616,
+  "output_tokens": 8175,
+  "total_tokens": 61791,
+  "token_usage_source": "API usage accumulated across completed model responses",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 7,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-f112a07a89400043/task-000001/trajectory.jsonl",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

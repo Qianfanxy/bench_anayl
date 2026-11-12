@@ -1,0 +1,15 @@
+{
+  "task_id": "task-dd1d601f016f82d6",
+  "cohort": "new13",
+  "title": "Self Care Clinic",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "IjKL2XrCHhizrV82XaoZ3a",
+  "url": "https://www.figma.com/design/IjKL2XrCHhizrV82XaoZ3a",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-dd1d601f016f82d6",
+  "score_status": "completed",
+  "score_total": 40,
+  "other_score_revisions": []
+}

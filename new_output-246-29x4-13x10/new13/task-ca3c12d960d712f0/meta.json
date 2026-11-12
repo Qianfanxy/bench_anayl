@@ -1,0 +1,15 @@
+{
+  "task_id": "task-ca3c12d960d712f0",
+  "cohort": "new13",
+  "title": "Fyrre Magazine",
+  "model_id": "model_de5fc4c9cdb841e8",
+  "model_name": "gpt-6-astra",
+  "file_key": "ROg2Sei83MidHiWncl9H9P",
+  "url": "https://www.figma.com/design/ROg2Sei83MidHiWncl9H9P",
+  "expected_frames": 7,
+  "inference_status": "success",
+  "run_dir_basename": "",
+  "score_status": "completed",
+  "score_total": 49,
+  "other_score_revisions": []
+}

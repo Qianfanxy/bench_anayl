@@ -1,0 +1,21 @@
+{
+  "task_id": "task-18cb091e7b667d13",
+  "title": "Musium",
+  "model_id": "model_de5fc4c9cdb841e8",
+  "inference_wall_seconds": 414.842,
+  "inference_duration_seconds": 414.842,
+  "input_tokens": 215908,
+  "output_tokens": 25433,
+  "total_tokens": 241341,
+  "cached_input_tokens": 52817,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 13,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 13,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-18cb091e7b667d13/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

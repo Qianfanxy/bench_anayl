@@ -1,0 +1,15 @@
+{
+  "task_id": "task-c2308d7b9c87a9ff",
+  "cohort": "new13",
+  "title": "Magic Coffee",
+  "model_id": "model_gemini_31_pro_cc",
+  "model_name": "Gemini 3.5 Flash",
+  "file_key": "I6lumlowRUTxRrm7nLGxye",
+  "url": "https://www.figma.com/design/I6lumlowRUTxRrm7nLGxye",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-c2308d7b9c87a9ff",
+  "score_status": "completed",
+  "score_total": 0,
+  "other_score_revisions": []
+}

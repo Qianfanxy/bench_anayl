@@ -1,0 +1,15 @@
+{
+  "task_id": "task-66e2eed41bf3786b",
+  "cohort": "new13",
+  "title": "Placoo Rental",
+  "model_id": "model_glm_53_flash_cc",
+  "model_name": "GLM-5.3 Flash",
+  "file_key": "bJ0i3xs9KU05H8P5QJMCwD",
+  "url": "https://www.figma.com/design/bJ0i3xs9KU05H8P5QJMCwD",
+  "expected_frames": null,
+  "inference_status": "failed",
+  "run_dir_basename": "task-66e2eed41bf3786b",
+  "score_status": "completed",
+  "score_total": 31,
+  "other_score_revisions": []
+}

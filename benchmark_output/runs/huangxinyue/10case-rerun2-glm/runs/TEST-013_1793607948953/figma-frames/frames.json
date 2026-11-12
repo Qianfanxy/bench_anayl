@@ -1,0 +1,53 @@
+[
+  {
+    "node_id": "12:37",
+    "name": "01_Expenses",
+    "file": "12-37.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "Lpmrb2cZGL1jkibhtHwaxj",
+        "nodeId": "12:37",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "dc6a8670eebf1975fc7791124b7b7ea7ce865630cfc845b0fc68cf43a32abab9",
+      "response_file": "_debug/v2-native-12-37.png.txt",
+      "response_sha256": "81f02d6501ab52f4f6bab9e0ec9cdf3ae107de3fe14b35b8021d2cc2ca07ff76"
+    }
+  },
+  {
+    "node_id": "15:155",
+    "name": "02_Bill",
+    "file": "15-155.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "Lpmrb2cZGL1jkibhtHwaxj",
+        "nodeId": "15:155",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "060f57acde9f56d03ff344ea7b120ed851e68a0f5721e6cfd5b05fab2fda75b3",
+      "response_file": "_debug/v2-native-15-155.png.txt",
+      "response_sha256": "d41fed51147d3c35e8a572c4af3ae9cf3e6cd383460d277f7418eea2743d161b"
+    }
+  },
+  {
+    "node_id": "16:242",
+    "name": "03_Credit_Score",
+    "file": "16-242.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "Lpmrb2cZGL1jkibhtHwaxj",
+        "nodeId": "16:242",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "58cccb23e82b5ee855ccd48302846d25c6c17d5807b348287fd7b314bab27cdb",
+      "response_file": "_debug/v2-native-16-242.png.txt",
+      "response_sha256": "d6fb4cbce0e326b6db2e234b6bbe02819131a7f2f49932c5e95efbfb50603e7e"
+    }
+  }
+]

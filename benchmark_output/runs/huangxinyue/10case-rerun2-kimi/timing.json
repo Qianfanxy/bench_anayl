@@ -1,0 +1,34 @@
+{
+  "updated_at": "2026-11-03T09:37:38.022Z",
+  "run_set_id": "design10-rerun2-kimi",
+  "started_at": null,
+  "finished": true,
+  "finished_at": "2026-11-03T09:31:57.091Z",
+  "wall_elapsed_ms": null,
+  "generation_concurrency": 1,
+  "model_concurrency": 1,
+  "account_concurrency": 1,
+  "judge_concurrency": 3,
+  "revision": 1,
+  "policy_hash": "4261f46cf388f07d355568316e44eb687a12f314ffab8d849a0a8026b9288e90",
+  "duration_note": "Wall elapsed includes preparation and waiting. Task-duration sums overlap under concurrency and are not wall elapsed.",
+  "models": [
+    {
+      "model_id": "model_kimi_k3_cc",
+      "model_name": "Kimi K3",
+      "total": 6,
+      "copies_ready": 0,
+      "copy_task_duration_ms_sum": 0,
+      "fresh_retry_copies": 0,
+      "retry_copy_task_duration_ms_sum": 0,
+      "inference_attempts_started": 6,
+      "inference_attempts_finished": 6,
+      "inference_task_duration_ms_sum": 26861516,
+      "inference_task_duration_ms_mean": 4476919,
+      "inference_wall_elapsed_ms": 27638630,
+      "inference_first_started_at": "2026-11-02T07:06:19.253Z",
+      "judge_task_duration_ms_sum": 158270,
+      "formal_scores": 3
+    }
+  ]
+}

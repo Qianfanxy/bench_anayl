@@ -1,0 +1,15 @@
+{
+  "task_id": "task-8ba30c7117703d48",
+  "cohort": "new13",
+  "title": "Musium",
+  "model_id": "model_kimi_k3_cc",
+  "model_name": "Kimi K3",
+  "file_key": "FORIdHfB8gdkPTrKowvwNu",
+  "url": "https://www.figma.com/design/FORIdHfB8gdkPTrKowvwNu",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-8ba30c7117703d48",
+  "score_status": "completed",
+  "score_total": 35,
+  "other_score_revisions": []
+}

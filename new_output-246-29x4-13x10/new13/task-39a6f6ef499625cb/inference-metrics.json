@@ -1,0 +1,22 @@
+{
+  "task_id": "task-39a6f6ef499625cb",
+  "title": "Cyber Phone Store",
+  "model_id": "model_qwen38_max_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 5402.111,
+  "inference_duration_seconds": 5402.111,
+  "input_tokens": 6588142,
+  "output_tokens": 156511,
+  "total_tokens": 6744653,
+  "cached_input_tokens": 6056320,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 190,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": false,
+  "token_usage_status": "partial",
+  "token_rounds": 190,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-39a6f6ef499625cb/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

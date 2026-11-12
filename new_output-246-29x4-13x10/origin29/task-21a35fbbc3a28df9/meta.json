@@ -1,0 +1,15 @@
+{
+  "task_id": "task-21a35fbbc3a28df9",
+  "cohort": "origin29",
+  "title": "Octom",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "JczAmYZXZ7WfgecyKJXo2f",
+  "url": "https://www.figma.com/design/JczAmYZXZ7WfgecyKJXo2f",
+  "expected_frames": 6,
+  "inference_status": "failed",
+  "run_dir_basename": "task-21a35fbbc3a28df9",
+  "score_status": "completed",
+  "score_total": 31,
+  "other_score_revisions": []
+}

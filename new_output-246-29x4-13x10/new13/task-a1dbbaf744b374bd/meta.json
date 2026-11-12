@@ -1,0 +1,15 @@
+{
+  "task_id": "task-a1dbbaf744b374bd",
+  "cohort": "new13",
+  "title": "Run & Earn",
+  "model_id": "model_glm_53_flash_cc",
+  "model_name": "GLM-5.3 Flash",
+  "file_key": "jbMS9vbjOFlXLKAHIJpVVb",
+  "url": "https://www.figma.com/design/jbMS9vbjOFlXLKAHIJpVVb",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-a1dbbaf744b374bd",
+  "score_status": "completed",
+  "score_total": 37,
+  "other_score_revisions": []
+}

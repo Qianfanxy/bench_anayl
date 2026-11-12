@@ -1,0 +1,15 @@
+{
+  "task_id": "task-366e010fc06a9249",
+  "cohort": "origin29",
+  "title": "Chat Bot AI",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "YXmAswuo6rixLQaLJOXZxS",
+  "url": "https://www.figma.com/design/YXmAswuo6rixLQaLJOXZxS",
+  "expected_frames": 12,
+  "inference_status": "failed",
+  "run_dir_basename": "task-366e010fc06a9249",
+  "score_status": "completed",
+  "score_total": 43,
+  "other_score_revisions": []
+}

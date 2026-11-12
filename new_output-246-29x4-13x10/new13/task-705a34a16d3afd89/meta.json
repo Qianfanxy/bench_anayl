@@ -1,0 +1,15 @@
+{
+  "task_id": "task-705a34a16d3afd89",
+  "cohort": "new13",
+  "title": "Magic Coffee",
+  "model_id": "model_claude_fable51_login",
+  "model_name": "Fable 5.1",
+  "file_key": "Jao29K85YxyJnYJkVzDF4Q",
+  "url": "https://www.figma.com/design/Jao29K85YxyJnYJkVzDF4Q",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-705a34a16d3afd89",
+  "score_status": "completed",
+  "score_total": 35,
+  "other_score_revisions": []
+}

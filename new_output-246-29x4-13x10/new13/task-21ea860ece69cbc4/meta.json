@@ -1,0 +1,15 @@
+{
+  "task_id": "task-21ea860ece69cbc4",
+  "cohort": "new13",
+  "title": "Cyber Phone Store",
+  "model_id": "model_claude_fable51_login",
+  "model_name": "Fable 5.1",
+  "file_key": "xSNrLv7LZ8JOOmaKEixsV4",
+  "url": "https://www.figma.com/design/xSNrLv7LZ8JOOmaKEixsV4",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-21ea860ece69cbc4",
+  "score_status": "completed",
+  "score_total": 42,
+  "other_score_revisions": []
+}

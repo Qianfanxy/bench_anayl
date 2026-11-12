@@ -1,0 +1,15 @@
+{
+  "task_id": "task-2792bdfc7bcc09b1",
+  "cohort": "origin29",
+  "title": "Budget",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "2LqCBYA2RDRkkuAoiOoLsX",
+  "url": "https://www.figma.com/design/2LqCBYA2RDRkkuAoiOoLsX",
+  "expected_frames": 3,
+  "inference_status": "success",
+  "run_dir_basename": "task-2792bdfc7bcc09b1--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 45,
+  "other_score_revisions": []
+}

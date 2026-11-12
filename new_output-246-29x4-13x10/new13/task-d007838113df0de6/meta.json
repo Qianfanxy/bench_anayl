@@ -1,0 +1,15 @@
+{
+  "task_id": "task-d007838113df0de6",
+  "cohort": "new13",
+  "title": "Open Fashion",
+  "model_id": "model_claude_opus55_direct",
+  "model_name": "Opus 5.5（三方A）",
+  "file_key": "1Ajr9n7EKkWlKSt40qOhiJ",
+  "url": "https://www.figma.com/design/1Ajr9n7EKkWlKSt40qOhiJ",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-d007838113df0de6",
+  "score_status": "completed",
+  "score_total": 47,
+  "other_score_revisions": []
+}

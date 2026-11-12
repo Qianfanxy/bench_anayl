@@ -1,0 +1,15 @@
+{
+  "task_id": "task-e781a150e55abbe9",
+  "cohort": "new13",
+  "title": "Hawkeye Travel",
+  "model_id": "model_claude_fable51_login",
+  "model_name": "Fable 5.1",
+  "file_key": "7lQFlLa0KQqSbLGpskuQQH",
+  "url": "https://www.figma.com/design/7lQFlLa0KQqSbLGpskuQQH",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-e781a150e55abbe9",
+  "score_status": "completed",
+  "score_total": 31,
+  "other_score_revisions": []
+}

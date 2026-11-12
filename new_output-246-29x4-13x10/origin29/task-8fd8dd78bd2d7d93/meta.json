@@ -1,0 +1,15 @@
+{
+  "task_id": "task-8fd8dd78bd2d7d93",
+  "cohort": "origin29",
+  "title": "Deniz Arslan 3D Portfolio",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "O1QkvUDIbGa9BOhEoEQgRk",
+  "url": "https://www.figma.com/design/O1QkvUDIbGa9BOhEoEQgRk",
+  "expected_frames": 2,
+  "inference_status": "preparing_copy",
+  "run_dir_basename": "",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

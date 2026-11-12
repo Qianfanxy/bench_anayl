@@ -1,0 +1,104 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "414×896",
+      "nodes": 22,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "text×5",
+        "frame×4",
+        "instance×4",
+        "ellipse×2"
+      ],
+      "names": [
+        "Sky",
+        "Ellipse",
+        "Illustration_Onboarding",
+        "WORKOUT CLASS",
+        "Best workouts for you",
+        "You will have everything"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "414×896",
+      "nodes": 78,
+      "max_depth": 5,
+      "instances": 22,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "instance×22",
+        "text×21",
+        "frame×11",
+        "vector×9",
+        "group×7",
+        "rectangle×7"
+      ],
+      "names": [
+        "Avatar_Adam_Smith",
+        "Hello, Adam Smith",
+        "Icon_Menu",
+        "Group",
+        "Vector",
+        "Vector_2"
+      ]
+    },
+    {
+      "name": "03_Warm_Up",
+      "size": "414×896",
+      "nodes": 142,
+      "max_depth": 5,
+      "instances": 43,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "instance×43",
+        "text×31",
+        "vector×25",
+        "group×21",
+        "frame×14",
+        "rectangle×7"
+      ],
+      "names": [
+        "Navigation / Home",
+        "Home tab",
+        "Active",
+        "Icon_Home",
+        "Home",
+        "Fill 1"
+      ]
+    },
+    {
+      "name": "04_Activity",
+      "size": "414×896",
+      "nodes": 119,
+      "max_depth": 5,
+      "instances": 23,
+      "texts": 42,
+      "images": 0,
+      "types": [
+        "text×42",
+        "instance×23",
+        "vector×20",
+        "frame×14",
+        "group×11",
+        "rectangle×7"
+      ],
+      "names": [
+        "Navigation / Activity",
+        "Home tab",
+        "Icon_Home",
+        "Home",
+        "Fill 1",
+        "Activity tab"
+      ]
+    }
+  ]
+}

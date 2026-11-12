@@ -1,0 +1,15 @@
+{
+  "task_id": "task-2ac4aa8e644d2258",
+  "cohort": "new13",
+  "title": "Musium",
+  "model_id": "model_claude_fable51_login",
+  "model_name": "Fable 5.1",
+  "file_key": "fmNNKVCFgyMnjRnHojk0Ez",
+  "url": "https://www.figma.com/design/fmNNKVCFgyMnjRnHojk0Ez",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-2ac4aa8e644d2258",
+  "score_status": "completed",
+  "score_total": 38,
+  "other_score_revisions": []
+}

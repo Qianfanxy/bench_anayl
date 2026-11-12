@@ -1,0 +1,15 @@
+{
+  "task_id": "task-89cf77a3918aba46",
+  "cohort": "origin29",
+  "title": "Budget",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "GoSpqXpBlVYwpVQtl76V6M",
+  "url": "https://www.figma.com/design/GoSpqXpBlVYwpVQtl76V6M",
+  "expected_frames": 3,
+  "inference_status": "success",
+  "run_dir_basename": "task-89cf77a3918aba46",
+  "score_status": "completed",
+  "score_total": 48,
+  "other_score_revisions": []
+}

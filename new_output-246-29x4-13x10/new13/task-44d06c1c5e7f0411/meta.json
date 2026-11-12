@@ -1,0 +1,15 @@
+{
+  "task_id": "task-44d06c1c5e7f0411",
+  "cohort": "new13",
+  "title": "Inkline Blog",
+  "model_id": "model_gemini_31_pro_cc",
+  "model_name": "Gemini 3.5 Flash",
+  "file_key": "QnacWGledXqMZAvsTuyFHC",
+  "url": "https://www.figma.com/design/QnacWGledXqMZAvsTuyFHC",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-44d06c1c5e7f0411",
+  "score_status": "completed",
+  "score_total": 0,
+  "other_score_revisions": []
+}

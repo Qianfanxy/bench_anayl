@@ -1,0 +1,15 @@
+{
+  "task_id": "task-ce22590002a3a589",
+  "cohort": "origin29",
+  "title": "Fasco",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "5blIjkk0Azv8zFtv0Pxo44",
+  "url": "https://www.figma.com/design/5blIjkk0Azv8zFtv0Pxo44",
+  "expected_frames": 11,
+  "inference_status": "success",
+  "run_dir_basename": "task-ce22590002a3a589",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

@@ -1,0 +1,17 @@
+{
+  "task_id": "task-9a1a092485c5146d",
+  "cohort": "new13",
+  "title": "Placoo Rental",
+  "model_id": "model_gemini_31_pro_cc",
+  "model_name": "Gemini 3.5 Flash",
+  "file_key": "SXEjfMGL7mvLHDkK8UBBmu",
+  "url": "https://www.figma.com/design/SXEjfMGL7mvLHDkK8UBBmu",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-9a1a092485c5146d",
+  "score_status": "completed",
+  "score_total": 0,
+  "other_score_revisions": [
+    "task-9a1a092485c5146d-0cd44c00e8a6e2092a9b"
+  ]
+}

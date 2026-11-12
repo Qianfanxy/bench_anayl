@@ -1,0 +1,15 @@
+{
+  "task_id": "task-57f8eedefaf6282b",
+  "cohort": "origin29",
+  "title": "Payment Wallet",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "gPqifIA2py6TnEfNoIYY3C",
+  "url": "https://www.figma.com/design/gPqifIA2py6TnEfNoIYY3C",
+  "expected_frames": 4,
+  "inference_status": "failed",
+  "run_dir_basename": "task-57f8eedefaf6282b--restart-20261110-095732",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

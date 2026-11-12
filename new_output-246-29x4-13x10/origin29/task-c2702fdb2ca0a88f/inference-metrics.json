@@ -1,0 +1,22 @@
+{
+  "task_id": "task-c2702fdb2ca0a88f",
+  "title": "Stylish",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 5402.224,
+  "inference_duration_seconds": 5402.224,
+  "input_tokens": 6667839,
+  "output_tokens": 170116,
+  "total_tokens": 6837955,
+  "cached_input_tokens": 6330368,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 153,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": false,
+  "token_usage_status": "partial",
+  "token_rounds": 153,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-c2702fdb2ca0a88f/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

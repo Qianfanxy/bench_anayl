@@ -1,0 +1,15 @@
+{
+  "task_id": "task-d4aaa81563c44fc6",
+  "cohort": "new13",
+  "title": "MindfulMentor",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "KudnpMqt0Ei7lR5FwcK4Tb",
+  "url": "https://www.figma.com/design/KudnpMqt0Ei7lR5FwcK4Tb",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-d4aaa81563c44fc6",
+  "score_status": "completed",
+  "score_total": 38,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-04d0961c2c119289",
+  "cohort": "new13",
+  "title": "Open Fashion",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "tPSXmvAJ4603X9nfQJqWFB",
+  "url": "https://www.figma.com/design/tPSXmvAJ4603X9nfQJqWFB",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-04d0961c2c119289--restart-20261110-095732",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

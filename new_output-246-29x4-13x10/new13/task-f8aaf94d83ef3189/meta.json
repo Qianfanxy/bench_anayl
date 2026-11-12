@@ -1,0 +1,15 @@
+{
+  "task_id": "task-f8aaf94d83ef3189",
+  "cohort": "new13",
+  "title": "Cyber Phone Store",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "OcqvHUUUURUsiU8QhXbF3M",
+  "url": "https://www.figma.com/design/OcqvHUUUURUsiU8QhXbF3M",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-f8aaf94d83ef3189",
+  "score_status": "completed",
+  "score_total": 43,
+  "other_score_revisions": []
+}

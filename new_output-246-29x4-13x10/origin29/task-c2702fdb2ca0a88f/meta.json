@@ -1,0 +1,15 @@
+{
+  "task_id": "task-c2702fdb2ca0a88f",
+  "cohort": "origin29",
+  "title": "Stylish",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "8geYYv0RfACh7Qtgrt8gto",
+  "url": "https://www.figma.com/design/8geYYv0RfACh7Qtgrt8gto",
+  "expected_frames": 15,
+  "inference_status": "failed",
+  "run_dir_basename": "task-c2702fdb2ca0a88f",
+  "score_status": "completed",
+  "score_total": 0,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-cea02006a74c28b9",
+  "cohort": "origin29",
+  "title": "FinX",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "YjRzj5bedODq9Xg4qM00Tm",
+  "url": "https://www.figma.com/design/YjRzj5bedODq9Xg4qM00Tm",
+  "expected_frames": 10,
+  "inference_status": "success",
+  "run_dir_basename": "task-cea02006a74c28b9",
+  "score_status": "completed",
+  "score_total": 39,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-46ea7e389784d30e",
+  "cohort": "origin29",
+  "title": "ABM Developer Portfolio",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "0bEJ2g66KGVEoD50YCOQEp",
+  "url": "https://www.figma.com/design/0bEJ2g66KGVEoD50YCOQEp",
+  "expected_frames": 1,
+  "inference_status": "failed",
+  "run_dir_basename": "task-46ea7e389784d30e",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

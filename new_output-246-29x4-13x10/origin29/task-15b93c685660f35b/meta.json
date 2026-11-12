@@ -1,0 +1,15 @@
+{
+  "task_id": "task-15b93c685660f35b",
+  "cohort": "origin29",
+  "title": "Fitness App",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "os1QDPfZhEjJ36CadUj67G",
+  "url": "https://www.figma.com/design/os1QDPfZhEjJ36CadUj67G",
+  "expected_frames": 5,
+  "inference_status": "failed",
+  "run_dir_basename": "task-15b93c685660f35b",
+  "score_status": "completed",
+  "score_total": 34,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-1a3741be875a02e4",
+  "cohort": "new13",
+  "title": "Musium",
+  "model_id": "model_glm_53_flash_cc",
+  "model_name": "GLM-5.3 Flash",
+  "file_key": "uS90YXvYej49RYWLkPkFg7",
+  "url": "https://www.figma.com/design/uS90YXvYej49RYWLkPkFg7",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-1a3741be875a02e4",
+  "score_status": "completed",
+  "score_total": 35,
+  "other_score_revisions": []
+}

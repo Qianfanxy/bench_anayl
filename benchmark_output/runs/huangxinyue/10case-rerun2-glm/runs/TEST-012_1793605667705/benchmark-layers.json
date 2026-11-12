@@ -1,0 +1,104 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "414×896",
+      "nodes": 18,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "instance×4",
+        "text×4",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "414×896",
+      "nodes": 90,
+      "max_depth": 5,
+      "instances": 26,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "instance×26",
+        "text×20",
+        "frame×17",
+        "vector×11",
+        "group×8",
+        "rectangle×7"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "03_Warm_Up",
+      "size": "414×896",
+      "nodes": 180,
+      "max_depth": 6,
+      "instances": 47,
+      "texts": 30,
+      "images": 0,
+      "types": [
+        "frame×48",
+        "instance×47",
+        "text×30",
+        "vector×25",
+        "group×21",
+        "rectangle×7"
+      ],
+      "names": [
+        "Hero",
+        "Glow",
+        "Pose",
+        "Play Video",
+        "Icon_Play",
+        "Group"
+      ]
+    },
+    {
+      "name": "04_Activity",
+      "size": "414×896",
+      "nodes": 128,
+      "max_depth": 6,
+      "instances": 25,
+      "texts": 41,
+      "images": 0,
+      "types": [
+        "text×41",
+        "instance×25",
+        "vector×21",
+        "frame×18",
+        "group×11",
+        "rectangle×10"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    }
+  ]
+}

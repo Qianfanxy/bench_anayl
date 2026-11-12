@@ -1,0 +1,15 @@
+{
+  "task_id": "task-ce7bca225607ceee",
+  "cohort": "new13",
+  "title": "Audio Shop",
+  "model_id": "model_de5fc4c9cdb841e8",
+  "model_name": "gpt-6-astra",
+  "file_key": "ngKKTW3AYyIMTAQm7GXp1k",
+  "url": "https://www.figma.com/design/ngKKTW3AYyIMTAQm7GXp1k",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-ce7bca225607ceee",
+  "score_status": "completed",
+  "score_total": 47,
+  "other_score_revisions": []
+}

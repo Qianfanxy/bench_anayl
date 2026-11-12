@@ -1,0 +1,277 @@
+{
+  "max_dimension": 8000,
+  "max_base64_bytes": 5000000,
+  "max_total_bytes": 25165824,
+  "images": [
+    {
+      "index": 1,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-28.png",
+      "source_sha256": "c3e30bc5276d7860c98bc4395ca907bf4644c4d78fbe40e0546d4d67cdaf2c93",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-28.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 192036,
+      "submitted_bytes": 192036,
+      "submitted_base64_bytes": 256048
+    },
+    {
+      "index": 2,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-43.png",
+      "source_sha256": "7abc3fcd55cc3ee814a5c4644fde78aa0cd01096ddb088bc8228edde3e4c1233",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-43.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 37953,
+      "submitted_bytes": 37953,
+      "submitted_base64_bytes": 50604
+    },
+    {
+      "index": 3,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-68.png",
+      "source_sha256": "ba8a6779ae24e0e32145a653b699b25e7c689bfcb15c8db3fec3f1f10b9ce7c7",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-68.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 41013,
+      "submitted_bytes": 41013,
+      "submitted_base64_bytes": 54684
+    },
+    {
+      "index": 4,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-95.png",
+      "source_sha256": "fee73f9d057136fb65f833ef45670aefcfc49e873e377c853e1dea9ad0d26469",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-95.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 32098,
+      "submitted_bytes": 32098,
+      "submitted_base64_bytes": 42800
+    },
+    {
+      "index": 5,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-121.png",
+      "source_sha256": "d0c1ddd8dfb071befbbede6b20fae2020d6beffdc6ac392aa2a71a88c6014f74",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-121.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 30452,
+      "submitted_bytes": 30452,
+      "submitted_base64_bytes": 40604
+    },
+    {
+      "index": 6,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-163.png",
+      "source_sha256": "f78c094eb8e649fa27dc3e0cd651796dd4a70d2aebbb73785800dbd8d061d86c",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-163.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 37052,
+      "submitted_bytes": 37052,
+      "submitted_base64_bytes": 49404
+    },
+    {
+      "index": 7,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-211.png",
+      "source_sha256": "02fbf10927bd9c23e0f4278627398ce2bfd8f8c2d190ae5ff9f846a4845da9a4",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-211.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 19264,
+      "submitted_bytes": 19264,
+      "submitted_base64_bytes": 25688
+    },
+    {
+      "index": 8,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-234.png",
+      "source_sha256": "047696cb72d926ea8c3f91ad41edd341c13a6d88940781f0cb7b9e4a7c711669",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/14-234.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 153264,
+      "submitted_bytes": 153264,
+      "submitted_base64_bytes": 204352
+    },
+    {
+      "index": 9,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-188.png",
+      "source_sha256": "32586930ef8f1f8bcfe23d3117d4091385189c300e61d406e2c284b3aadf9c88",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-188.png",
+      "original_size": [
+        375,
+        2500
+      ],
+      "submitted_size": [
+        375,
+        2500
+      ],
+      "resized": false,
+      "original_bytes": 582570,
+      "submitted_bytes": 582570,
+      "submitted_base64_bytes": 776760
+    },
+    {
+      "index": 10,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-417.png",
+      "source_sha256": "18d14e190246cb6b44249f1367090f8322905d6606e956d1b4a01d7bf786ef8e",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-417.png",
+      "original_size": [
+        375,
+        2560
+      ],
+      "submitted_size": [
+        375,
+        2560
+      ],
+      "resized": false,
+      "original_bytes": 640174,
+      "submitted_bytes": 640174,
+      "submitted_base64_bytes": 853568
+    },
+    {
+      "index": 11,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-673.png",
+      "source_sha256": "b19feec0ba14f544253c8c6614b56f89cca6018f8214b3b1e1e6c3f79d612602",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-673.png",
+      "original_size": [
+        375,
+        2060
+      ],
+      "submitted_size": [
+        375,
+        2060
+      ],
+      "resized": false,
+      "original_bytes": 470150,
+      "submitted_bytes": 470150,
+      "submitted_base64_bytes": 626868
+    },
+    {
+      "index": 12,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-848.png",
+      "source_sha256": "7b25145abf17a8a6522e8d5b692a989f4e32e53f3be198bfcf916799f676417f",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-848.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 70053,
+      "submitted_bytes": 70053,
+      "submitted_base64_bytes": 93404
+    },
+    {
+      "index": 13,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-898.png",
+      "source_sha256": "cf8da279eb45c6c67d9501a207527aa26c0acd6c5e10e9018054f232964d127a",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-898.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 34328,
+      "submitted_bytes": 34328,
+      "submitted_base64_bytes": 45772
+    },
+    {
+      "index": 14,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-956.png",
+      "source_sha256": "876887657aa4d2b5dbe4bac33812e1d2f3cfa829e3389e51e4cef4f05a74d01f",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-956.png",
+      "original_size": [
+        375,
+        812
+      ],
+      "submitted_size": [
+        375,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 80419,
+      "submitted_bytes": 80419,
+      "submitted_base64_bytes": 107228
+    },
+    {
+      "index": 15,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-1026.png",
+      "source_sha256": "6db45dd9e1922ab8996dfba64d3a9abc4b9e30581f8ed757df04a3773a1c1356",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/figma-frames/17-1026.png",
+      "original_size": [
+        375,
+        960
+      ],
+      "submitted_size": [
+        375,
+        960
+      ],
+      "resized": false,
+      "original_bytes": 46031,
+      "submitted_bytes": 46031,
+      "submitted_base64_bytes": 61376
+    }
+  ]
+}

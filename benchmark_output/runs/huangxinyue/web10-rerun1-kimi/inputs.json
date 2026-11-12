@@ -1,0 +1,47 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "execution",
+  "mode": "benchmark-design",
+  "schema_version": 2,
+  "fresh_targets": true,
+  "query_modified": false,
+  "id": "web10-rerun1-kimi",
+  "dataset_hash": "459d32415623cfedac0505bd4ca1294f0ab3f54ae59bab265f95b831fec50983",
+  "plan_hash": "5163d8c0b47cb7e6b8c1eb66d8bfd44d29da04ded8b9bc72e972fcbb63c69155",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "required_pages": [
+    "00",
+    "01",
+    "02"
+  ],
+  "optional_pages": [
+    "04"
+  ],
+  "workspace": "03 · Workspace",
+  "excluded_file_keys": [
+    "O3xqX7yz6SWQNetHEC6PTm"
+  ],
+  "groups": [
+    {
+      "task": "model-1",
+      "model_id": "model_kimi_k3_cc",
+      "model_name": "Kimi K3",
+      "tests": [
+        {
+          "assignment_id": "assignment_d94cfbaf3e3bb1610718",
+          "case_id": "case-004",
+          "model_id": "model_kimi_k3_cc",
+          "question": "case-004",
+          "source_figma_url": "https://www.figma.com/design/O3xqX7yz6SWQNetHEC6PTm/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/O3xqX7yz6SWQNetHEC6PTm/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "252a44af5ddc9b3d95d1ad7249fa7400850503a1cda69510d02929ebd725629d",
+          "figma_url": "https://www.figma.com/design/5S6WFXEo4QEfJTtE7MFltz/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/5S6WFXEo4QEfJTtE7MFltz/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/5S6WFXEo4QEfJTtE7MFltz/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        }
+      ]
+    }
+  ],
+  "content_hash": "8e80f0289c7ac1f111debf2cb762623218e3a364965db0ceff1d8347c40e36a5"
+}

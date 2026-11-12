@@ -1,0 +1,15 @@
+{
+  "task_id": "task-a4d751690f1335ce",
+  "cohort": "new13",
+  "title": "Nikle",
+  "model_id": "model_claude_opus55_direct",
+  "model_name": "Opus 5.5（三方A）",
+  "file_key": "hUjN6jnze08UW4nI571KGj",
+  "url": "https://www.figma.com/design/hUjN6jnze08UW4nI571KGj",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-a4d751690f1335ce",
+  "score_status": "completed",
+  "score_total": 41,
+  "other_score_revisions": []
+}

@@ -1,0 +1,28 @@
+全部确认：
+- 10 帧齐全，名称/尺寸正确
+- totalReactionNodes: 32 —— 帧级 reactions 1（splash auto）+ 16 个按钮/卡片节点 + 组件内可能已有的 reactions（按钮组件本身可能有？32 个 reactions 节点包括findAll 遍历到的深层节点）。反正 17 条链接都接线成功（脚本日志确认）。
+- 参考页节点完好（4:2 brief、1:2 foundations、3:21 components、2:2 media 都在）
+
+等等 —— totalReactionNodes 32 有点多，但findAll 遍历所有子孙节点计数 reactions.length>0 的节点。组件 7:5 等可能自身有 reactions？不重要，我们的 17 条都确认接上了。
+
+任务完成。整理最终交付信息：
+
+- 文件 URL: https://www.figma.com/design/l8MdQcWVFQcJw2Ix8PJk7h/
+- 03 · Workspace 页面 ID: 5:2
+- 屏幕 ID:
+  - 01_Splash = 25:309
+  - 02_Welcome = 25:321
+  - 03_Name = 25:340
+  - 04_Home = 26:341
+  - 05_Product_Quinoa = 27:414
+  - 06_Basket = 27:497
+  - 07_Checkout_Delivery = 28:468
+  - 08_Checkout_Card = 28:520
+  - 09_Order_Complete = 29:533
+  - 10_Track_Order = 29:554
+- 原型：17 条链接（1 auto + 16 tap），DISSOLVE 0.25s
+- 限制：
+  1. 会话间发生外部文件回滚，第一轮构建的 10 屏丢失（原因不明，非本会话操作）；本次全部重建，组件库与图标修复未受影响。
+  2. 01_Splash 的 Logo 素材 PNG 自带白色底色，在橙色背景上显示为白底 logo 块（素材固有形态，未做透明化处理）。
+  3. chip 文字沿用组件内固定左内边距定位（实例子元素位置不可覆盖），视觉上居中略有偏差但已通过截图验收。
+  4. 进入型元素（菜单、搜索、筛选、其他分类、收藏切换、Home 加购、非 Quinoa 详情、call agent）按 brief 无需单独屏幕，仅作为静态入口呈现。

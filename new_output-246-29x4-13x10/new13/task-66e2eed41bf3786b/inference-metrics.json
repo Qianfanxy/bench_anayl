@@ -1,0 +1,17 @@
+{
+  "task_id": "task-66e2eed41bf3786b",
+  "title": "Placoo Rental",
+  "model_id": "model_glm_53_flash_cc",
+  "inference_wall_seconds": 526.84,
+  "inference_duration_seconds": 526.84,
+  "input_tokens": 121878,
+  "output_tokens": 14819,
+  "total_tokens": 136697,
+  "token_usage_source": "API usage accumulated across completed model responses",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 9,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-66e2eed41bf3786b/task-000001/trajectory.jsonl",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

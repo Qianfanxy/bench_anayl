@@ -1,0 +1,15 @@
+{
+  "task_id": "task-a3ac530755d870f7",
+  "cohort": "origin29",
+  "title": "MAC Agency",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "ktjmHsqV2VyXYDUglqUXKW",
+  "url": "https://www.figma.com/design/ktjmHsqV2VyXYDUglqUXKW",
+  "expected_frames": 1,
+  "inference_status": "failed",
+  "run_dir_basename": "task-a3ac530755d870f7",
+  "score_status": "completed",
+  "score_total": 35,
+  "other_score_revisions": []
+}

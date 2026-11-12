@@ -1,0 +1,15 @@
+{
+  "task_id": "task-43f696a8559018c7",
+  "cohort": "origin29",
+  "title": "Budget",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "nblVn18rdDu6zcmtQje9Os",
+  "url": "https://www.figma.com/design/nblVn18rdDu6zcmtQje9Os",
+  "expected_frames": 3,
+  "inference_status": "success",
+  "run_dir_basename": "task-43f696a8559018c7--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 35,
+  "other_score_revisions": []
+}

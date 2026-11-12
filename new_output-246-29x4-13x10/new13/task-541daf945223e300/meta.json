@@ -1,0 +1,15 @@
+{
+  "task_id": "task-541daf945223e300",
+  "cohort": "new13",
+  "title": "Nikle",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "R8f1AhFKkgPv4mOVgXLlQi",
+  "url": "https://www.figma.com/design/R8f1AhFKkgPv4mOVgXLlQi",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-541daf945223e300",
+  "score_status": "completed",
+  "score_total": 33,
+  "other_score_revisions": []
+}

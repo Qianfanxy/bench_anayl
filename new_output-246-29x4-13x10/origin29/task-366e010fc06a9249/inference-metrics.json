@@ -1,0 +1,22 @@
+{
+  "task_id": "task-366e010fc06a9249",
+  "title": "Chat Bot AI",
+  "model_id": "model_qwen38_max_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 3817.231,
+  "inference_duration_seconds": 3817.231,
+  "input_tokens": 3272500,
+  "output_tokens": 92021,
+  "total_tokens": 3364521,
+  "cached_input_tokens": 2989440,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 104,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 104,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-366e010fc06a9249/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

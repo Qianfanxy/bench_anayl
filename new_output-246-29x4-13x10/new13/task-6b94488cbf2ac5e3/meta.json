@@ -1,0 +1,15 @@
+{
+  "task_id": "task-6b94488cbf2ac5e3",
+  "cohort": "new13",
+  "title": "Inkline Blog",
+  "model_id": "model_glm_53_flash_cc",
+  "model_name": "GLM-5.3 Flash",
+  "file_key": "rGanGTUoTPeSEda8tdl2oU",
+  "url": "https://www.figma.com/design/rGanGTUoTPeSEda8tdl2oU",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-6b94488cbf2ac5e3",
+  "score_status": "completed",
+  "score_total": 40,
+  "other_score_revisions": []
+}

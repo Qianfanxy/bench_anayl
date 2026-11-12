@@ -1,0 +1,15 @@
+{
+  "task_id": "task-541695bc319bbf2d",
+  "cohort": "origin29",
+  "title": "StockWave",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "2C8l4DkpGkShvYjKZRaUW4",
+  "url": "https://www.figma.com/design/2C8l4DkpGkShvYjKZRaUW4",
+  "expected_frames": 10,
+  "inference_status": "failed",
+  "run_dir_basename": "task-541695bc319bbf2d",
+  "score_status": "completed",
+  "score_total": 35,
+  "other_score_revisions": []
+}

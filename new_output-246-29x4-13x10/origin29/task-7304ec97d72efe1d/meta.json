@@ -1,0 +1,15 @@
+{
+  "task_id": "task-7304ec97d72efe1d",
+  "cohort": "origin29",
+  "title": "Stylish",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "YMj0kwm2mtQ3tscDusL1OP",
+  "url": "https://www.figma.com/design/YMj0kwm2mtQ3tscDusL1OP",
+  "expected_frames": 15,
+  "inference_status": "success",
+  "run_dir_basename": "task-7304ec97d72efe1d",
+  "score_status": "completed",
+  "score_total": 39,
+  "other_score_revisions": []
+}

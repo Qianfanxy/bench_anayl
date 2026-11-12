@@ -1,0 +1,15 @@
+{
+  "task_id": "task-9a4db5309936e9c1",
+  "cohort": "origin29",
+  "title": "Deniz Arslan 3D Portfolio",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "HEiuParNvn67fUPTx2cEjB",
+  "url": "https://www.figma.com/design/HEiuParNvn67fUPTx2cEjB",
+  "expected_frames": 2,
+  "inference_status": "failed",
+  "run_dir_basename": "task-9a4db5309936e9c1",
+  "score_status": "completed",
+  "score_total": 41,
+  "other_score_revisions": []
+}

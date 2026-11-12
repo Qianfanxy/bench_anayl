@@ -1,0 +1,80 @@
+[
+  {
+    "node_id": "11:2",
+    "name": "Design Library · Foodieland",
+    "file": "11-2.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "KBfh4lzngcd72ozCVtDt2c",
+        "nodeId": "11:2",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "6316cd7af9ef3d9890d58d43e4a3cb9a44e717efe67d1edb793e4a12b78c0bab",
+      "response_file": "_debug/v2-native-11-2.png.txt",
+      "response_sha256": "db2afb2aedec960b246918ebce77280a0c06da1d1e15061fe39d55719656f6a7"
+    }
+  },
+  {
+    "node_id": "23:71",
+    "name": "01_Home",
+    "file": "23-71.png"
+  },
+  {
+    "node_id": "34:1226",
+    "name": "05_Contact",
+    "file": "34-1226.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "KBfh4lzngcd72ozCVtDt2c",
+        "nodeId": "34:1226",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "b19ef0f9a38a8112872f5b5c1c1c9a6081b1455c49a36908293f6bb75d0d9928",
+      "response_file": "_debug/v2-native-34-1226.png.txt",
+      "response_sha256": "99ea4753190f40e378db73867f37713ddcb2b167170505a494dd469d6b6f0f29"
+    }
+  },
+  {
+    "node_id": "37:1033",
+    "name": "02_Recipe",
+    "file": "37-1033.png"
+  },
+  {
+    "node_id": "37:1287",
+    "name": "03_Blog",
+    "file": "37-1287.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "KBfh4lzngcd72ozCVtDt2c",
+        "nodeId": "37:1287",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "eccd45d43524c03d6069f413c7a786212be214bd58f461af78a14add70e249c9",
+      "response_file": "_debug/v2-native-37-1287.png.txt",
+      "response_sha256": "b257fbc0cae06ef2f0180376f3cd27f3ec24c071b8198b8115ebd1080a1f15e6"
+    }
+  },
+  {
+    "node_id": "37:1442",
+    "name": "04_Blog_Post",
+    "file": "37-1442.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "KBfh4lzngcd72ozCVtDt2c",
+        "nodeId": "37:1442",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "427652ef7c1db2d045403b29a0c34b3ba5e8205fc07cf90df81d08826dce0d25",
+      "response_file": "_debug/v2-native-37-1442.png.txt",
+      "response_sha256": "7b02395bccbe85be50dee40eba1ad7eda01d7fcb7c41ce408cc01d7e7da58a6f"
+    }
+  }
+]

@@ -1,0 +1,142 @@
+{
+  "bundle_root": "/Users/hxyh/Documents/figma_bench/benchmark_output",
+  "bundle_modified": false,
+  "sha256_verification": {
+    "checked": 11522,
+    "failures": 0,
+    "command": "python3 benchmark_output/tools/verify_bundle.py"
+  },
+  "index": {
+    "rows": 177,
+    "unique_runs": 177,
+    "cases": 29,
+    "model_counts": {
+      "Fable 5.1": 29,
+      "Opus 5.5（三方A）": 29,
+      "gpt-6-astra": 29,
+      "Gemini 3.5 Flash": 29,
+      "GLM-5.3 Flash": 29,
+      "Kimi K3": 29,
+      "Qwen3.8-27B Figma Edit · ckpt-270": 3
+    },
+    "portable_vs_original_run_ids_match": true,
+    "paths": {
+      "trajectory_path": {
+        "present": 177,
+        "empty": 0,
+        "missing": []
+      },
+      "trace_sqlite": {
+        "present": 177,
+        "empty": 0,
+        "missing": []
+      },
+      "run_log": {
+        "present": 148,
+        "empty": 29,
+        "missing": []
+      },
+      "round_db": {
+        "present": 177,
+        "empty": 0,
+        "missing": []
+      },
+      "frames_dir": {
+        "present": 177,
+        "empty": 0,
+        "missing": []
+      }
+    }
+  },
+  "sqlite": {
+    "checked": 386,
+    "passed": 386,
+    "failures": []
+  },
+  "localization_dry_run": {
+    "files_requiring_rewrite": 35,
+    "by_extension": {
+      ".md": 7,
+      ".py": 3,
+      ".json": 11,
+      ".csv": 10,
+      ".html": 4
+    },
+    "paths": [
+      "project/10case-process.md",
+      "project/1103_deliver.md",
+      "project/6case-process.md",
+      "project/arena/0_intro.md",
+      "project/arena/1_total.md",
+      "project/arena/analysis/overview.py",
+      "project/deliver-20261103/README.md",
+      "project/deliver-20261103/manifest.json",
+      "project/deliver-20261103/tools/build_manifest.py",
+      "project/results_eval/arena-preview/证据索引.json",
+      "project/results_eval/arena备注截图/证据索引.json",
+      "project/results_eval/behavior-preview/证据目录.csv",
+      "project/results_eval/disagreement_analysis/image_dimensions.csv",
+      "project/results_eval/disagreement_analysis/report.html",
+      "project/results_eval/disagreement_analysis/source_evidence.json",
+      "project/results_eval/disagreement_analysis/trace_anchors.json",
+      "project/results_eval/disagreement_analysis/versions.csv",
+      "project/results_eval/disagreement_analysis/报告.html",
+      "project/results_eval/workflow_analysis/review.html",
+      "project/results_eval/workflow_analysis/run_workflows.csv",
+      "project/results_eval/workflow_analysis/summary.json",
+      "project/results_eval/workflow_analysis/targeted_review_samples.csv",
+      "project/results_eval/workflow_analysis/trajectory_inventory.csv",
+      "project/results_eval/workflow_analysis/workflow_evidence.json",
+      "project/results_eval/workflow_analysis/workflow_units.csv",
+      "project/results_eval/明确能力归因/index.html",
+      "project/results_eval/明确能力归因/run_08db15998eb047a6.json",
+      "project/results_eval/明确能力归因/run_a2f914efccfb4f67.json",
+      "project/results_eval/明确能力归因/run_a618e4f4329241ea.json",
+      "project/results_eval/模型行为深挖/证据目录.csv",
+      "project/results_eval/设计备注-轨迹核查.csv",
+      "project/results_eval/设计备注-轨迹核查.json",
+      "project/results_eval/资产清单-索引.csv",
+      "project/results_eval/资产清单.md",
+      "project/scripts/package_results_offline.py"
+    ]
+  },
+  "html_references": {
+    "files_checked": 15,
+    "local_references_checked": 1317,
+    "broken_count": 0,
+    "broken": [],
+    "legacy_absolute_reference_count": 0,
+    "legacy_absolute_references": []
+  },
+  "known_gaps": {
+    "arena_images_missing": 20,
+    "missing_arena_runs": [
+      "run_43c1fa6504134447",
+      "run_c5bbee48e4b14c54",
+      "run_d746d3b2f13b4aeb",
+      "run_ec85bd7e28df40e7"
+    ]
+  },
+  "version_audit": {
+    "rows": 174,
+    "strict_eligible": 164,
+    "strict_cases_all_six": 24
+  },
+  "environment": {
+    "python": "3.14.4",
+    "pinned_requirements": [
+      "numpy==1.24.4",
+      "scipy==1.12.0",
+      "matplotlib==3.8.4",
+      "pandas==1.5.3",
+      "Pillow==10.2.0"
+    ],
+    "installed": {
+      "numpy": "2.4.6",
+      "scipy": null,
+      "matplotlib": null,
+      "pandas": "3.0.3",
+      "Pillow": "12.2.0"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "mode": "benchmark-design",
+  "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/rOzSn1MkRakcwc5zqsVINX/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+  "target": {
+    "url": "https://www.figma.com/design/rOzSn1MkRakcwc5zqsVINX/",
+    "fileKey": "rOzSn1MkRakcwc5zqsVINX"
+  },
+  "model_id": "kimi-k3/tencent/sfb",
+  "reasoning_mode": "summary",
+  "system_file": "/mnt/afs/huangxinyue/bench-runs/6case-rerun1-kimi/runs/TEST-013_1793425244162/benchmark-system.txt",
+  "tools": [
+    "whoami",
+    "get_metadata",
+    "use_figma",
+    "get_screenshot"
+  ],
+  "generation_mode": "cc",
+  "claude_code_base_system": true,
+  "runtime": {
+    "shared_figma_concurrency": 3,
+    "model_concurrency": 3,
+    "account_concurrency": 1,
+    "model_route": null,
+    "mcp_min_interval_seconds": 4,
+    "account_id": "enterprise_zuohaosheng",
+    "account_identity": "zuohaosheng@tetras.ai",
+    "policy_hash": "1fdc56217c1a6e85c51d52e989c08b105722e0519b5e2cbe4baf0b1059e649c0",
+    "auto_compact_window": "client-default",
+    "max_context_tokens": "client-default"
+  },
+  "tool_image_transport": "tool-images-to-user/v1",
+  "timeout_seconds": 5400
+}

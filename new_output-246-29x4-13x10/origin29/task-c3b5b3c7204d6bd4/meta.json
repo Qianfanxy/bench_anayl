@@ -1,0 +1,15 @@
+{
+  "task_id": "task-c3b5b3c7204d6bd4",
+  "cohort": "origin29",
+  "title": "Fruit Hub",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "Ii2jHamIVXN95jzzxGiZ7v",
+  "url": "https://www.figma.com/design/Ii2jHamIVXN95jzzxGiZ7v",
+  "expected_frames": 10,
+  "inference_status": "success",
+  "run_dir_basename": "task-c3b5b3c7204d6bd4",
+  "score_status": "completed",
+  "score_total": 47,
+  "other_score_revisions": []
+}

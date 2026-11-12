@@ -1,0 +1,15 @@
+{
+  "task_id": "task-5b9873c0371f396b",
+  "cohort": "new13",
+  "title": "Cyber Phone Store",
+  "model_id": "model_claude_opus55_direct",
+  "model_name": "Opus 5.5（三方A）",
+  "file_key": "s7TbYf4ItSFEuisVWRMmKk",
+  "url": "https://www.figma.com/design/s7TbYf4ItSFEuisVWRMmKk",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-5b9873c0371f396b",
+  "score_status": "completed",
+  "score_total": 50,
+  "other_score_revisions": []
+}

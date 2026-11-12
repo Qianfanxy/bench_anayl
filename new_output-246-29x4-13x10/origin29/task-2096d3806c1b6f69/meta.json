@@ -1,0 +1,15 @@
+{
+  "task_id": "task-2096d3806c1b6f69",
+  "cohort": "origin29",
+  "title": "Northgate Homes",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "nTmWZgnJHsRFH9MkyeYunu",
+  "url": "https://www.figma.com/design/nTmWZgnJHsRFH9MkyeYunu",
+  "expected_frames": 2,
+  "inference_status": "success",
+  "run_dir_basename": "task-2096d3806c1b6f69",
+  "score_status": "completed",
+  "score_total": 41,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-c2d7bb5e68c26b50",
+  "cohort": "origin29",
+  "title": "Stock Trading",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "zlUbd1GGAoZ3phTUlkjR09",
+  "url": "https://www.figma.com/design/zlUbd1GGAoZ3phTUlkjR09",
+  "expected_frames": 6,
+  "inference_status": "success",
+  "run_dir_basename": "task-c2d7bb5e68c26b50--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 35,
+  "other_score_revisions": []
+}

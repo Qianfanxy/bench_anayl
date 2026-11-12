@@ -1,0 +1,15 @@
+{
+  "task_id": "task-027f7d9672f03642",
+  "cohort": "new13",
+  "title": "Self Care Clinic",
+  "model_id": "model_claude_fable51_login",
+  "model_name": "Fable 5.1",
+  "file_key": "qcq8lz3MtSuveL8xtwMVYg",
+  "url": "https://www.figma.com/design/qcq8lz3MtSuveL8xtwMVYg",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-027f7d9672f03642",
+  "score_status": "completed",
+  "score_total": 29,
+  "other_score_revisions": []
+}

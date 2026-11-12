@@ -1,0 +1,22 @@
+{
+  "task_id": "task-ce22590002a3a589",
+  "title": "Fasco",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 1926.21,
+  "inference_duration_seconds": 1926.21,
+  "input_tokens": 4043755,
+  "output_tokens": 136937,
+  "total_tokens": 4180692,
+  "cached_input_tokens": 3393536,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 96,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 96,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-ce22590002a3a589/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

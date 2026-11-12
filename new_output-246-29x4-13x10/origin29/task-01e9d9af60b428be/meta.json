@@ -1,0 +1,15 @@
+{
+  "task_id": "task-01e9d9af60b428be",
+  "cohort": "origin29",
+  "title": "FinX",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "JfZIE7DLOqT2HaWNtBx1V8",
+  "url": "https://www.figma.com/design/JfZIE7DLOqT2HaWNtBx1V8",
+  "expected_frames": 10,
+  "inference_status": "failed",
+  "run_dir_basename": "task-01e9d9af60b428be--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 29,
+  "other_score_revisions": []
+}

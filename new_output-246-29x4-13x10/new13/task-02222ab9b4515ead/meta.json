@@ -1,0 +1,15 @@
+{
+  "task_id": "task-02222ab9b4515ead",
+  "cohort": "new13",
+  "title": "Inkline Blog",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "03MqOu2VCAnu7oPJoRn8EM",
+  "url": "https://www.figma.com/design/03MqOu2VCAnu7oPJoRn8EM",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-02222ab9b4515ead",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

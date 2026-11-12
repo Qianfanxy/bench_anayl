@@ -1,0 +1,15 @@
+{
+  "task_id": "task-3f8be410e6511d11",
+  "cohort": "origin29",
+  "title": "Travelin",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "PtYjZuGqwdKS8CfLY5XHlw",
+  "url": "https://www.figma.com/design/PtYjZuGqwdKS8CfLY5XHlw",
+  "expected_frames": 4,
+  "inference_status": "failed",
+  "run_dir_basename": "task-3f8be410e6511d11--restart-20261110-095732",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

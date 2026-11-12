@@ -1,0 +1,22 @@
+{
+  "task_id": "task-4a322081869f9125",
+  "title": "MindfulMentor",
+  "model_id": "model_kimi_k3_cc",
+  "inference_timeout_seconds": 1800,
+  "inference_wall_seconds": 1800.221,
+  "inference_duration_seconds": 1800.221,
+  "input_tokens": 2032276,
+  "output_tokens": 26997,
+  "total_tokens": 2059273,
+  "cached_input_tokens": 883968,
+  "cache_creation_input_tokens": 130047,
+  "api_usage_calls": 36,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": false,
+  "token_usage_status": "partial",
+  "token_rounds": 36,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-4a322081869f9125/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

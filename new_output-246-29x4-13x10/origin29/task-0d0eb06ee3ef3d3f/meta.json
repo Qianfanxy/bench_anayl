@@ -1,0 +1,15 @@
+{
+  "task_id": "task-0d0eb06ee3ef3d3f",
+  "cohort": "origin29",
+  "title": "Travelin",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "ixUiWy1QYNZv5cE8FomUEZ",
+  "url": "https://www.figma.com/design/ixUiWy1QYNZv5cE8FomUEZ",
+  "expected_frames": 4,
+  "inference_status": "failed",
+  "run_dir_basename": "task-0d0eb06ee3ef3d3f",
+  "score_status": "completed",
+  "score_total": 47,
+  "other_score_revisions": []
+}

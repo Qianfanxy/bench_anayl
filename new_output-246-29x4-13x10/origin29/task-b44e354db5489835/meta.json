@@ -1,0 +1,15 @@
+{
+  "task_id": "task-b44e354db5489835",
+  "cohort": "origin29",
+  "title": "Investment Wallet",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "lOX9kmm7xWXJPoI2Tb1cAv",
+  "url": "https://www.figma.com/design/lOX9kmm7xWXJPoI2Tb1cAv",
+  "expected_frames": 5,
+  "inference_status": "success",
+  "run_dir_basename": "task-b44e354db5489835",
+  "score_status": "completed",
+  "score_total": 37,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-b931ccc34672ca7c",
+  "cohort": "new13",
+  "title": "Inkline Blog",
+  "model_id": "model_claude_opus55_direct",
+  "model_name": "Opus 5.5（三方A）",
+  "file_key": "lSh0YgI07IywTUr2dL4cTo",
+  "url": "https://www.figma.com/design/lSh0YgI07IywTUr2dL4cTo",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-b931ccc34672ca7c",
+  "score_status": "completed",
+  "score_total": 48,
+  "other_score_revisions": []
+}

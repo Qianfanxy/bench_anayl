@@ -1,0 +1,15 @@
+{
+  "task_id": "task-22abdb390aefca2a",
+  "cohort": "new13",
+  "title": "Magic Coffee",
+  "model_id": "model_glm_53_flash_cc",
+  "model_name": "GLM-5.3 Flash",
+  "file_key": "yaxNMQ7gtp9v0TRWCJeGSv",
+  "url": "https://www.figma.com/design/yaxNMQ7gtp9v0TRWCJeGSv",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-22abdb390aefca2a",
+  "score_status": "completed",
+  "score_total": 30,
+  "other_score_revisions": []
+}

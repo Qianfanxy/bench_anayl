@@ -1,0 +1,37 @@
+[
+  {
+    "node_id": "7:2",
+    "name": "Workspace · reusable UI",
+    "file": "7-2.png"
+  },
+  {
+    "node_id": "7:4",
+    "name": "01_Aktivitas",
+    "file": "7-4.png"
+  },
+  {
+    "node_id": "7:263",
+    "name": "02_Trending",
+    "file": "7-263.png"
+  },
+  {
+    "node_id": "8:314",
+    "name": "03_Detail_Saham",
+    "file": "8-314.png"
+  },
+  {
+    "node_id": "8:516",
+    "name": "04_Top_Up_Metode",
+    "file": "8-516.png"
+  },
+  {
+    "node_id": "8:674",
+    "name": "05_Top_Up_Nominal",
+    "file": "8-674.png"
+  },
+  {
+    "node_id": "8:792",
+    "name": "06_Top_Up_Pembayaran",
+    "file": "8-792.png"
+  }
+]

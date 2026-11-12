@@ -1,0 +1,15 @@
+{
+  "task_id": "task-7811e271289092ce",
+  "cohort": "new13",
+  "title": "Run & Earn",
+  "model_id": "model_gemini_31_pro_cc",
+  "model_name": "Gemini 3.5 Flash",
+  "file_key": "nJouHe0ynZo3wK8ErsMeHd",
+  "url": "https://www.figma.com/design/nJouHe0ynZo3wK8ErsMeHd",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-7811e271289092ce",
+  "score_status": "completed",
+  "score_total": 37,
+  "other_score_revisions": []
+}

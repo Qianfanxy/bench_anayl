@@ -1,0 +1,73 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "design10-rerun1-kimi",
+  "dataset_hash": "39391c375fb9bb192d4512ec1ad54311c8642cc13b354dba6341392e554ac709",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_kimi_k3_cc",
+      "name": "Kimi K3",
+      "provider": "TokenHub / Kimi",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "kimi-k3/tencent/sfb",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 0,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    }
+  ],
+  "case_count": 4,
+  "assignment_count": 4,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 1,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_b9aaf5e798f472139558",
+      "case_id": "case-001",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_50598940105cf1b3b387",
+      "case_id": "case-007",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_2e6b94c66f00f52d8670",
+      "case_id": "case-009",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_dca7c2608cf62966d64b",
+      "case_id": "case-010",
+      "model_id": "model_kimi_k3_cc"
+    }
+  ],
+  "content_hash": "53d6ac8df607db1db1eee6114f1dc7f580b5c5d7666bbdb0c6837660c5ee0981"
+}

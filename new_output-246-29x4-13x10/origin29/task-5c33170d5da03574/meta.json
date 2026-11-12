@@ -1,0 +1,15 @@
+{
+  "task_id": "task-5c33170d5da03574",
+  "cohort": "origin29",
+  "title": "Payment Wallet",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "jAD41w5HwoVtjpWWD110pS",
+  "url": "https://www.figma.com/design/jAD41w5HwoVtjpWWD110pS",
+  "expected_frames": 4,
+  "inference_status": "failed",
+  "run_dir_basename": "task-5c33170d5da03574",
+  "score_status": "completed",
+  "score_total": 50,
+  "other_score_revisions": []
+}

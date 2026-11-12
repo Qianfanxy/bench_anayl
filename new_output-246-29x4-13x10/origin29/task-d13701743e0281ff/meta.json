@@ -1,0 +1,15 @@
+{
+  "task_id": "task-d13701743e0281ff",
+  "cohort": "origin29",
+  "title": "Fitness App",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "UYTiSUZkE7Gr00UJ8Vt1JE",
+  "url": "https://www.figma.com/design/UYTiSUZkE7Gr00UJ8Vt1JE",
+  "expected_frames": 5,
+  "inference_status": "failed",
+  "run_dir_basename": "",
+  "score_status": "completed",
+  "score_total": 43,
+  "other_score_revisions": []
+}

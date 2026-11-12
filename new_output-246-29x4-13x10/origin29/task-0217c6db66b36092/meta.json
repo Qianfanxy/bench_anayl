@@ -1,0 +1,15 @@
+{
+  "task_id": "task-0217c6db66b36092",
+  "cohort": "origin29",
+  "title": "Foodieland",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "64CExmaB58v10E2YfRHOnC",
+  "url": "https://www.figma.com/design/64CExmaB58v10E2YfRHOnC",
+  "expected_frames": 5,
+  "inference_status": "running",
+  "run_dir_basename": "task-0217c6db66b36092--origin29-qd-resume-20261111-172441",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

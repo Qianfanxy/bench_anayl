@@ -1,0 +1,23 @@
+{
+  "task_id": "task-e1ff8e8ee3154dd7",
+  "title": "Shop.co",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "inference_timeout_seconds": 5400,
+  "input_tokens": 4314766,
+  "output_tokens": 78054,
+  "total_tokens": 4392820,
+  "cached_input_tokens": 4219904,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 87,
+  "api_usage_unknown_calls": 1,
+  "token_usage_source": "Cumulative API usage across preserved original and continuation attempts",
+  "token_usage_complete": false,
+  "token_usage_status": "partial",
+  "token_rounds": 87,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-e1ff8e8ee3154dd7--origin29-qd-resume-20261111-172441/task-000001/trace.sqlite3",
+  "continuation_count": 1,
+  "previous_attempt_count": 1,
+  "inference_elapsed_seconds": 0,
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

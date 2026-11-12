@@ -1,0 +1,63 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "design10-rerun3-gpt",
+  "dataset_hash": "47739ced04b1e7381efb41617a7a6ee23487d33db405025dadaf81d60778e7f4",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_de5fc4c9cdb841e8",
+      "name": "gpt-6-astra",
+      "provider": "Claude Code",
+      "connection_mode": "direct",
+      "base_url": "http://127.0.0.1:18195",
+      "host": "127.0.0.1",
+      "port": 18185,
+      "model_id": "gpt-6-astra/azure_L/sfl",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "openai",
+      "can_evaluate": 1,
+      "buffered_stream": 1,
+      "vision": 1,
+      "generation_mode": "direct"
+    }
+  ],
+  "case_count": 2,
+  "assignment_count": 2,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 1,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_c59546723ebc6f96da6c",
+      "case_id": "case-007",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_c8d3e0af6fe51e0d8da8",
+      "case_id": "case-008",
+      "model_id": "model_de5fc4c9cdb841e8"
+    }
+  ],
+  "content_hash": "0c64a318982d59fecc29840a27f0059460ff8678ed42c4f8f4b72fc7a4048a93"
+}

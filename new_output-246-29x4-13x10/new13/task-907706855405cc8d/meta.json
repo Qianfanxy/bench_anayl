@@ -1,0 +1,15 @@
+{
+  "task_id": "task-907706855405cc8d",
+  "cohort": "new13",
+  "title": "Fyrre Magazine",
+  "model_id": "model_glm_53_flash_cc",
+  "model_name": "GLM-5.3 Flash",
+  "file_key": "RFyFwcimxw4szmm3sAb4lo",
+  "url": "https://www.figma.com/design/RFyFwcimxw4szmm3sAb4lo",
+  "expected_frames": 7,
+  "inference_status": "success",
+  "run_dir_basename": "task-907706855405cc8d",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

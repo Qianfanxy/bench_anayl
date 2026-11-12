@@ -1,0 +1,15 @@
+{
+  "task_id": "task-f691cd06192a123b",
+  "cohort": "new13",
+  "title": "Audio Shop",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "f45rDeL96ULyKVzGEKfpsI",
+  "url": "https://www.figma.com/design/f45rDeL96ULyKVzGEKfpsI",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-f691cd06192a123b",
+  "score_status": "completed",
+  "score_total": 30,
+  "other_score_revisions": []
+}

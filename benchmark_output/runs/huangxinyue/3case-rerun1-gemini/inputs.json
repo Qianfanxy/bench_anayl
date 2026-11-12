@@ -1,0 +1,47 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "execution",
+  "mode": "benchmark-design",
+  "schema_version": 2,
+  "fresh_targets": true,
+  "query_modified": false,
+  "id": "design3-rerun-20261104-gemini",
+  "dataset_hash": "00c5e779b09810caaeaff465cc7515f0748a76eddc16df6c2ed47ca438c72992",
+  "plan_hash": "3c67f3d7ac290cca698779d63f0b58448b93f1dd9dca3ddc7d9ac8fb288ff9ec",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "required_pages": [
+    "00",
+    "01",
+    "02"
+  ],
+  "optional_pages": [
+    "04"
+  ],
+  "workspace": "03 · Workspace",
+  "excluded_file_keys": [
+    "fnULASWChHEL3I3D7Sc3I7"
+  ],
+  "groups": [
+    {
+      "task": "model-1",
+      "model_id": "model_gemini_31_pro_cc",
+      "model_name": "Gemini 3.5 Flash",
+      "tests": [
+        {
+          "assignment_id": "assignment_578340611624ea11c511",
+          "case_id": "case-001",
+          "model_id": "model_gemini_31_pro_cc",
+          "question": "case-001",
+          "source_figma_url": "https://www.figma.com/design/fnULASWChHEL3I3D7Sc3I7/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/fnULASWChHEL3I3D7Sc3I7/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "30f33d74450dde86bf8fe90f6ddbc74627740858e6df2d07922958553f2f34c8",
+          "figma_url": "https://www.figma.com/design/LGSu94G723IDWp1nk3GdcK/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/LGSu94G723IDWp1nk3GdcK/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/LGSu94G723IDWp1nk3GdcK/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        }
+      ]
+    }
+  ],
+  "content_hash": "c8ad7bece4074cb2b9049e0ac169ce729c3a4dbfe24b745cc71782917634b79d"
+}

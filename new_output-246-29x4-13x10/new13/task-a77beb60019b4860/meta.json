@@ -1,0 +1,15 @@
+{
+  "task_id": "task-a77beb60019b4860",
+  "cohort": "new13",
+  "title": "Audio Shop",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "qgCE4sVVzqLdwVoapES7aa",
+  "url": "https://www.figma.com/design/qgCE4sVVzqLdwVoapES7aa",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-a77beb60019b4860",
+  "score_status": "completed",
+  "score_total": 43,
+  "other_score_revisions": []
+}

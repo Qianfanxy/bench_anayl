@@ -1,0 +1,15 @@
+{
+  "task_id": "task-f3f5212d370e4a8a",
+  "cohort": "origin29",
+  "title": "Chat Bot AI",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "wCp0qOIWAM05KLTLbpYBRr",
+  "url": "https://www.figma.com/design/wCp0qOIWAM05KLTLbpYBRr",
+  "expected_frames": 12,
+  "inference_status": "success",
+  "run_dir_basename": "task-f3f5212d370e4a8a",
+  "score_status": "completed",
+  "score_total": 45,
+  "other_score_revisions": []
+}

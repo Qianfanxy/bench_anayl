@@ -1,0 +1,17 @@
+{
+  "task_id": "task-920160273aa64c3b",
+  "title": "Placoo Rental",
+  "model_id": "model_claude_fable51_login",
+  "inference_wall_seconds": 719.532,
+  "inference_duration_seconds": 719.532,
+  "input_tokens": 740286,
+  "output_tokens": 50817,
+  "total_tokens": 791103,
+  "token_usage_source": "API usage accumulated across completed model responses",
+  "token_usage_complete": false,
+  "token_usage_status": "partial",
+  "token_rounds": 19,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-920160273aa64c3b/task-000001/trajectory.jsonl",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

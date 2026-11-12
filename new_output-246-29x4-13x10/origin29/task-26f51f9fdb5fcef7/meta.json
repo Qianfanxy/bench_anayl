@@ -1,0 +1,15 @@
+{
+  "task_id": "task-26f51f9fdb5fcef7",
+  "cohort": "origin29",
+  "title": "Octom",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "xomOX1EoAhlWkMBcmdlfXk",
+  "url": "https://www.figma.com/design/xomOX1EoAhlWkMBcmdlfXk",
+  "expected_frames": 6,
+  "inference_status": "failed",
+  "run_dir_basename": "task-26f51f9fdb5fcef7",
+  "score_status": "completed",
+  "score_total": 45,
+  "other_score_revisions": []
+}

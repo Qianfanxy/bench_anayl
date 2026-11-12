@@ -1,0 +1,15 @@
+{
+  "task_id": "task-23ebf001ae1592c8",
+  "cohort": "origin29",
+  "title": "Stock Trading",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "ajYc94EyESEC9fUuR94HSS",
+  "url": "https://www.figma.com/design/ajYc94EyESEC9fUuR94HSS",
+  "expected_frames": 6,
+  "inference_status": "failed",
+  "run_dir_basename": "task-23ebf001ae1592c8",
+  "score_status": "completed",
+  "score_total": 22,
+  "other_score_revisions": []
+}

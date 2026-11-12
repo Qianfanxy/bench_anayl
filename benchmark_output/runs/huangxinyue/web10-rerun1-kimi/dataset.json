@@ -1,0 +1,26 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "dataset",
+  "id": "web10-rerun1-kimi",
+  "query_template": "请在以下 Figma 文件中完成完整设计：\nFigma 文件：{{figma_url}}\n请先阅读「00 · Start Here」中的设计任务，参考「01 · Foundations」中的视觉规范，复用「02 · Components」中的组件；如果文件中有「04 · Media」素材页，也请读取并使用其中的素材。最终将完整设计交付至「03 · Workspace」。\n",
+  "required_pages": [
+    "00",
+    "01",
+    "02"
+  ],
+  "optional_pages": [
+    "04"
+  ],
+  "workspace": "03 · Workspace",
+  "cases": [
+    {
+      "case_id": "case-004",
+      "source_figma_url": "https://www.figma.com/design/O3xqX7yz6SWQNetHEC6PTm/",
+      "source_file_key": "O3xqX7yz6SWQNetHEC6PTm",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/O3xqX7yz6SWQNetHEC6PTm/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "252a44af5ddc9b3d95d1ad7249fa7400850503a1cda69510d02929ebd725629d",
+      "title": "Shop.co"
+    }
+  ],
+  "content_hash": "459d32415623cfedac0505bd4ca1294f0ab3f54ae59bab265f95b831fec50983"
+}

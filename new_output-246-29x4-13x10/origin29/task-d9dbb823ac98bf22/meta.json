@@ -1,0 +1,15 @@
+{
+  "task_id": "task-d9dbb823ac98bf22",
+  "cohort": "origin29",
+  "title": "ABM Developer Portfolio",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "tpCAecZX9IU2Alydm8pQY4",
+  "url": "https://www.figma.com/design/tpCAecZX9IU2Alydm8pQY4",
+  "expected_frames": 1,
+  "inference_status": "failed",
+  "run_dir_basename": "task-d9dbb823ac98bf22",
+  "score_status": "completed",
+  "score_total": 40,
+  "other_score_revisions": []
+}

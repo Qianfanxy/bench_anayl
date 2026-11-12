@@ -1,0 +1,15 @@
+{
+  "task_id": "task-45a2f0198971854b",
+  "cohort": "new13",
+  "title": "Musium",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "8CRhp2bveQaKmKc2SXhgEa",
+  "url": "https://www.figma.com/design/8CRhp2bveQaKmKc2SXhgEa",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-45a2f0198971854b",
+  "score_status": "completed",
+  "score_total": 0,
+  "other_score_revisions": []
+}

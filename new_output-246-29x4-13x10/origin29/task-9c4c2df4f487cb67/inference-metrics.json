@@ -1,0 +1,20 @@
+{
+  "task_id": "task-9c4c2df4f487cb67",
+  "title": "Shop.co",
+  "model_id": "model_qwen38_max_1109",
+  "inference_timeout_seconds": 5400,
+  "input_tokens": 3399358,
+  "output_tokens": 141019,
+  "total_tokens": 3540377,
+  "cached_input_tokens": 2944640,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 96,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 96,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-9c4c2df4f487cb67--restart-20261110-095732/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

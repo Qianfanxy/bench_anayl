@@ -1,0 +1,15 @@
+{
+  "task_id": "task-c634ab8fe23bd6c0",
+  "cohort": "new13",
+  "title": "Hawkeye Travel",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "RTHuVCnIboPV83s7VZTFL7",
+  "url": "https://www.figma.com/design/RTHuVCnIboPV83s7VZTFL7",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-c634ab8fe23bd6c0--restart-20261110-095732",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

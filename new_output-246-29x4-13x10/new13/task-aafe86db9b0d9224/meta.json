@@ -1,0 +1,15 @@
+{
+  "task_id": "task-aafe86db9b0d9224",
+  "cohort": "new13",
+  "title": "Nikle",
+  "model_id": "model_kimi_k3_cc",
+  "model_name": "Kimi K3",
+  "file_key": "7dR2oJhMS5nTHJuQQMDi6a",
+  "url": "https://www.figma.com/design/7dR2oJhMS5nTHJuQQMDi6a",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-aafe86db9b0d9224",
+  "score_status": "completed",
+  "score_total": 30,
+  "other_score_revisions": []
+}

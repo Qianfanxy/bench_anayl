@@ -1,0 +1,15 @@
+{
+  "task_id": "task-df29688af3c8264b",
+  "cohort": "new13",
+  "title": "Hawkeye Travel",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "DCkAtToTyss96cKUAiMRDN",
+  "url": "https://www.figma.com/design/DCkAtToTyss96cKUAiMRDN",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-df29688af3c8264b",
+  "score_status": "completed",
+  "score_total": 0,
+  "other_score_revisions": []
+}

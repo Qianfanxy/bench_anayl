@@ -1,0 +1,180 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "414×896",
+      "nodes": 91,
+      "max_depth": 5,
+      "instances": 19,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "vector×24",
+        "instance×19",
+        "rectangle×17",
+        "ellipse×2",
+        "frame×2"
+      ],
+      "names": [
+        "Vulcan Bank",
+        "Your everyday, elevated.",
+        "Rectangle",
+        "History",
+        "Icon_Search",
+        "Vector"
+      ]
+    },
+    {
+      "name": "02_About_Investment",
+      "size": "414×896",
+      "nodes": 38,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "vector×11",
+        "rectangle×10",
+        "instance×7",
+        "text×7",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Icon_Back",
+        "Vector",
+        "Text",
+        "INVEST WITH VULCAN",
+        "Investment",
+        "I will help you create a"
+      ]
+    },
+    {
+      "name": "03_Create_PIN",
+      "size": "414×896",
+      "nodes": 53,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "text×28",
+        "rectangle×13",
+        "instance×7",
+        "vector×2",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Icon_Back",
+        "Vector",
+        "Text",
+        "Create PIN code",
+        "Secure your brokerage ac",
+        "0"
+      ]
+    },
+    {
+      "name": "04_Portfolio",
+      "size": "414×896",
+      "nodes": 136,
+      "max_depth": 5,
+      "instances": 20,
+      "texts": 37,
+      "images": 0,
+      "types": [
+        "vector×41",
+        "text×37",
+        "rectangle×28",
+        "instance×20",
+        "group×6",
+        "frame×2"
+      ],
+      "names": [
+        "Cases",
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "05_Trading",
+      "size": "414×896",
+      "nodes": 153,
+      "max_depth": 4,
+      "instances": 21,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "rectangle×57",
+        "text×35",
+        "vector×33",
+        "instance×21",
+        "group×4",
+        "frame×2"
+      ],
+      "names": [
+        "Button",
+        "Continue",
+        "Rectangle",
+        "Icon_Main",
+        "Mask group",
+        "Group"
+      ]
+    },
+    {
+      "name": "06_Stock_Transaction",
+      "size": "414×896",
+      "nodes": 79,
+      "max_depth": 4,
+      "instances": 16,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "vector×17",
+        "instance×16",
+        "rectangle×14",
+        "frame×4",
+        "group×3"
+      ],
+      "names": [
+        "Stock transaction",
+        "Rectangle",
+        "Logo_Apple",
+        "Group",
+        "Vector",
+        "AAPL"
+      ]
+    },
+    {
+      "name": "07_Confirm_Purchase",
+      "size": "414×896",
+      "nodes": 83,
+      "max_depth": 4,
+      "instances": 16,
+      "texts": 27,
+      "images": 0,
+      "types": [
+        "text×27",
+        "vector×17",
+        "instance×16",
+        "rectangle×15",
+        "frame×4",
+        "group×3"
+      ],
+      "names": [
+        "Icon_Back",
+        "Vector",
+        "Stock transaction",
+        "Rectangle",
+        "Logo_Apple",
+        "Group"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "task_id": "task-0f648af3d93f19dc",
+  "title": "Magic Coffee",
+  "model_id": "model_claude_opus55_direct",
+  "inference_wall_seconds": 1168.877,
+  "inference_duration_seconds": 1168.877,
+  "input_tokens": 1293354,
+  "output_tokens": 99974,
+  "total_tokens": 1393328,
+  "cached_input_tokens": 0,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 17,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 17,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-0f648af3d93f19dc/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

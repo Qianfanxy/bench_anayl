@@ -1,0 +1,15 @@
+{
+  "task_id": "task-6b272dd2b7673abd",
+  "cohort": "origin29",
+  "title": "Fruit Hub",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "czyWAXNdPMRo4O7HJgZ9nz",
+  "url": "https://www.figma.com/design/czyWAXNdPMRo4O7HJgZ9nz",
+  "expected_frames": 10,
+  "inference_status": "failed",
+  "run_dir_basename": "task-6b272dd2b7673abd--restart-20261110-095732",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

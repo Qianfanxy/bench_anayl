@@ -1,0 +1,22 @@
+{
+  "task_id": "task-3f8be410e6511d11",
+  "title": "Travelin",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 5400.539,
+  "inference_duration_seconds": 5400.539,
+  "input_tokens": 4255717,
+  "output_tokens": 163515,
+  "total_tokens": 4419232,
+  "cached_input_tokens": 3865088,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 132,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": false,
+  "token_usage_status": "partial",
+  "token_rounds": 132,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-3f8be410e6511d11--restart-20261110-095732/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

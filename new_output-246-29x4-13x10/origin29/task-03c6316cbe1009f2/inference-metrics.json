@@ -1,0 +1,22 @@
+{
+  "task_id": "task-03c6316cbe1009f2",
+  "title": "Foodieland",
+  "model_id": "model_qwen38_max_1109",
+  "inference_timeout_seconds": 5400,
+  "inference_wall_seconds": 2134.276,
+  "inference_duration_seconds": 2134.276,
+  "input_tokens": 930678,
+  "output_tokens": 79302,
+  "total_tokens": 1009980,
+  "cached_input_tokens": 672768,
+  "cache_creation_input_tokens": 0,
+  "api_usage_calls": 29,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 29,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-03c6316cbe1009f2--restart-20261110-095732/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

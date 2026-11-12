@@ -1,0 +1,15 @@
+{
+  "task_id": "task-7afb2813523308ed",
+  "cohort": "origin29",
+  "title": "ABM Developer Portfolio",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "to89GJP1pT8z0CREpbsotw",
+  "url": "https://www.figma.com/design/to89GJP1pT8z0CREpbsotw",
+  "expected_frames": 1,
+  "inference_status": "failed",
+  "run_dir_basename": "task-7afb2813523308ed",
+  "score_status": "completed",
+  "score_total": 48,
+  "other_score_revisions": []
+}

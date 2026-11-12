@@ -1,0 +1,202 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1350" height="582" viewBox="0 0 1350 582"><rect width="1350" height="582" fill="#fff"/><g font-family="Helvetica Neue, PingFang SC, sans-serif" fill="#192832">
+<text x="32" y="50" font-size="30" font-weight="bold">Figma 设计能力 · Rubric 分解</text>
+<text x="32" y="80" font-size="16" >六个模型均通过 G0 的 25 道共同任务 · 交付包评分 · 任务等权</text>
+<text x="211" y="128" font-size="20" font-weight="bold">A  各维度平均得分率</text>
+<text x="252" y="163" font-size="14" text-anchor="middle">用户体验</text>
+<text x="252" y="181" font-size="11" text-anchor="middle" fill="#64727c">8 分</text>
+<text x="340" y="163" font-size="14" text-anchor="middle">信息组织</text>
+<text x="340" y="181" font-size="11" text-anchor="middle" fill="#64727c">15 分</text>
+<text x="428" y="163" font-size="14" text-anchor="middle">可交付性</text>
+<text x="428" y="181" font-size="11" text-anchor="middle" fill="#64727c">4 分</text>
+<text x="516" y="163" font-size="14" text-anchor="middle">布局质量</text>
+<text x="516" y="181" font-size="11" text-anchor="middle" fill="#64727c">12 分</text>
+<text x="604" y="163" font-size="14" text-anchor="middle">一致性</text>
+<text x="604" y="181" font-size="11" text-anchor="middle" fill="#64727c">4 分</text>
+<text x="692" y="163" font-size="14" text-anchor="middle">视觉表达</text>
+<text x="692" y="181" font-size="11" text-anchor="middle" fill="#64727c">10 分</text>
+<rect x="211" y="196" width="82" height="40" rx="4" fill="#317592"/>
+<text x="252" y="222" font-size="15" text-anchor="middle" font-weight="bold" fill="white">90.0%</text>
+<rect x="299" y="196" width="82" height="40" rx="4" fill="#377a95"/>
+<text x="340" y="222" font-size="15" text-anchor="middle" font-weight="bold" fill="white">86.9%</text>
+<rect x="387" y="196" width="82" height="40" rx="4" fill="#1f6a89"/>
+<text x="428" y="222" font-size="15" text-anchor="middle" font-weight="bold" fill="white">98.0%</text>
+<rect x="475" y="196" width="82" height="40" rx="4" fill="#2a708e"/>
+<text x="516" y="222" font-size="15" text-anchor="middle" font-weight="bold" fill="white">93.3%</text>
+<rect x="563" y="196" width="82" height="40" rx="4" fill="#3a7b96"/>
+<text x="604" y="222" font-size="15" text-anchor="middle" font-weight="bold" fill="white">86.0%</text>
+<rect x="651" y="196" width="82" height="40" rx="4" fill="#236c8b"/>
+<text x="692" y="222" font-size="15" text-anchor="middle" font-weight="bold" fill="white">96.4%</text>
+<rect x="211" y="242" width="82" height="40" rx="4" fill="#3b7c97"/>
+<text x="252" y="268" font-size="15" text-anchor="middle" font-weight="bold" fill="white">85.5%</text>
+<rect x="299" y="242" width="82" height="40" rx="4" fill="#3c7c97"/>
+<text x="340" y="268" font-size="15" text-anchor="middle" font-weight="bold" fill="white">85.1%</text>
+<rect x="387" y="242" width="82" height="40" rx="4" fill="#568da5"/>
+<text x="428" y="268" font-size="15" text-anchor="middle" font-weight="bold" fill="white">73.0%</text>
+<rect x="475" y="242" width="82" height="40" rx="4" fill="#45829c"/>
+<text x="516" y="268" font-size="15" text-anchor="middle" font-weight="bold" fill="white">80.7%</text>
+<rect x="563" y="242" width="82" height="40" rx="4" fill="#407f9a"/>
+<text x="604" y="268" font-size="15" text-anchor="middle" font-weight="bold" fill="white">83.0%</text>
+<rect x="651" y="242" width="82" height="40" rx="4" fill="#2e7391"/>
+<text x="692" y="268" font-size="15" text-anchor="middle" font-weight="bold" fill="white">91.2%</text>
+<rect x="211" y="288" width="82" height="40" rx="4" fill="#41809a"/>
+<text x="252" y="314" font-size="15" text-anchor="middle" font-weight="bold" fill="white">82.5%</text>
+<rect x="299" y="288" width="82" height="40" rx="4" fill="#42809b"/>
+<text x="340" y="314" font-size="15" text-anchor="middle" font-weight="bold" fill="white">82.1%</text>
+<rect x="387" y="288" width="82" height="40" rx="4" fill="#5a90a7"/>
+<text x="428" y="314" font-size="15" text-anchor="middle" font-weight="bold" fill="white">71.0%</text>
+<rect x="475" y="288" width="82" height="40" rx="4" fill="#528aa2"/>
+<text x="516" y="314" font-size="15" text-anchor="middle" font-weight="bold" fill="white">75.0%</text>
+<rect x="563" y="288" width="82" height="40" rx="4" fill="#42819b"/>
+<text x="604" y="314" font-size="15" text-anchor="middle" font-weight="bold" fill="white">82.0%</text>
+<rect x="651" y="288" width="82" height="40" rx="4" fill="#337693"/>
+<text x="692" y="314" font-size="15" text-anchor="middle" font-weight="bold" fill="white">89.2%</text>
+<rect x="211" y="334" width="82" height="40" rx="4" fill="#3d7d98"/>
+<text x="252" y="360" font-size="15" text-anchor="middle" font-weight="bold" fill="white">84.5%</text>
+<rect x="299" y="334" width="82" height="40" rx="4" fill="#4b869f"/>
+<text x="340" y="360" font-size="15" text-anchor="middle" font-weight="bold" fill="white">77.9%</text>
+<rect x="387" y="334" width="82" height="40" rx="4" fill="#377995"/>
+<text x="428" y="360" font-size="15" text-anchor="middle" font-weight="bold" fill="white">87.0%</text>
+<rect x="475" y="334" width="82" height="40" rx="4" fill="#6496ac"/>
+<text x="516" y="360" font-size="15" text-anchor="middle" font-weight="bold" fill="white">66.7%</text>
+<rect x="563" y="334" width="82" height="40" rx="4" fill="#407f9a"/>
+<text x="604" y="360" font-size="15" text-anchor="middle" font-weight="bold" fill="white">83.0%</text>
+<rect x="651" y="334" width="82" height="40" rx="4" fill="#357894"/>
+<text x="692" y="360" font-size="15" text-anchor="middle" font-weight="bold" fill="white">88.0%</text>
+<rect x="211" y="380" width="82" height="40" rx="4" fill="#4a869f"/>
+<text x="252" y="406" font-size="15" text-anchor="middle" font-weight="bold" fill="white">78.5%</text>
+<rect x="299" y="380" width="82" height="40" rx="4" fill="#49859e"/>
+<text x="340" y="406" font-size="15" text-anchor="middle" font-weight="bold" fill="white">78.9%</text>
+<rect x="387" y="380" width="82" height="40" rx="4" fill="#588fa6"/>
+<text x="428" y="406" font-size="15" text-anchor="middle" font-weight="bold" fill="white">72.0%</text>
+<rect x="475" y="380" width="82" height="40" rx="4" fill="#6b9baf"/>
+<text x="516" y="406" font-size="15" text-anchor="middle" font-weight="bold">63.3%</text>
+<rect x="563" y="380" width="82" height="40" rx="4" fill="#44829c"/>
+<text x="604" y="406" font-size="15" text-anchor="middle" font-weight="bold" fill="white">81.0%</text>
+<rect x="651" y="380" width="82" height="40" rx="4" fill="#3f7e99"/>
+<text x="692" y="406" font-size="15" text-anchor="middle" font-weight="bold" fill="white">83.6%</text>
+<rect x="211" y="426" width="82" height="40" rx="4" fill="#77a3b5"/>
+<text x="252" y="452" font-size="15" text-anchor="middle" font-weight="bold">58.0%</text>
+<rect x="299" y="426" width="82" height="40" rx="4" fill="#528ba3"/>
+<text x="340" y="452" font-size="15" text-anchor="middle" font-weight="bold" fill="white">74.9%</text>
+<rect x="387" y="426" width="82" height="40" rx="4" fill="#548ca4"/>
+<text x="428" y="452" font-size="15" text-anchor="middle" font-weight="bold" fill="white">74.0%</text>
+<rect x="475" y="426" width="82" height="40" rx="4" fill="#8aafbf"/>
+<text x="516" y="452" font-size="15" text-anchor="middle" font-weight="bold">49.0%</text>
+<rect x="563" y="426" width="82" height="40" rx="4" fill="#588fa6"/>
+<text x="604" y="452" font-size="15" text-anchor="middle" font-weight="bold" fill="white">72.0%</text>
+<rect x="651" y="426" width="82" height="40" rx="4" fill="#4c87a0"/>
+<text x="692" y="452" font-size="15" text-anchor="middle" font-weight="bold" fill="white">77.6%</text>
+<rect x="211" y="484" width="19" height="10" fill="#f5f5f5"/>
+<rect x="230" y="484" width="19" height="10" fill="#dfe7ea"/>
+<rect x="249" y="484" width="19" height="10" fill="#c9d9df"/>
+<rect x="268" y="484" width="19" height="10" fill="#b4cad4"/>
+<rect x="287" y="484" width="19" height="10" fill="#9ebcc9"/>
+<rect x="306" y="484" width="19" height="10" fill="#88aebe"/>
+<rect x="325" y="484" width="19" height="10" fill="#72a0b3"/>
+<rect x="344" y="484" width="19" height="10" fill="#5c92a8"/>
+<rect x="363" y="484" width="19" height="10" fill="#47839d"/>
+<rect x="382" y="484" width="19" height="10" fill="#317592"/>
+<rect x="401" y="484" width="19" height="10" fill="#1b6787"/>
+<text x="211" y="513" font-size="12" >0%</text>
+<text x="420" y="513" font-size="12" text-anchor="end">100%</text>
+<text x="788" y="128" font-size="20" font-weight="bold">B  模型在各维度的相对强项</text>
+<text x="829" y="163" font-size="14" text-anchor="middle">用户体验</text>
+<text x="917" y="163" font-size="14" text-anchor="middle">信息组织</text>
+<text x="1005" y="163" font-size="14" text-anchor="middle">可交付性</text>
+<text x="1093" y="163" font-size="14" text-anchor="middle">布局质量</text>
+<text x="1181" y="163" font-size="14" text-anchor="middle">一致性</text>
+<text x="1269" y="163" font-size="14" text-anchor="middle">视觉表达</text>
+<rect x="788" y="196" width="82" height="40" rx="4" fill="#ede2df"/>
+<text x="829" y="222" font-size="15" text-anchor="middle" font-weight="bold">-1.6</text>
+<rect x="876" y="196" width="82" height="40" rx="4" fill="#d7b1a5"/>
+<text x="917" y="222" font-size="15" text-anchor="middle" font-weight="bold">-5.8</text>
+<rect x="964" y="196" width="82" height="40" rx="4" fill="#8eb2c1"/>
+<text x="1005" y="222" font-size="15" text-anchor="middle" font-weight="bold">+7.1</text>
+<rect x="1052" y="196" width="82" height="40" rx="4" fill="#6094aa"/>
+<text x="1093" y="222" font-size="15" text-anchor="middle" font-weight="bold" fill="white">+10.2</text>
+<rect x="1140" y="196" width="82" height="40" rx="4" fill="#d1a496"/>
+<text x="1181" y="222" font-size="15" text-anchor="middle" font-weight="bold">-6.9</text>
+<rect x="1228" y="196" width="82" height="40" rx="4" fill="#e5d2cc"/>
+<text x="1269" y="222" font-size="15" text-anchor="middle" font-weight="bold">-3.0</text>
+<rect x="788" y="242" width="82" height="40" rx="4" fill="#cfdce2"/>
+<text x="829" y="268" font-size="15" text-anchor="middle" font-weight="bold">+2.6</text>
+<rect x="876" y="242" width="82" height="40" rx="4" fill="#e6ebed"/>
+<text x="917" y="268" font-size="15" text-anchor="middle" font-weight="bold">+1.0</text>
+<rect x="964" y="242" width="82" height="40" rx="4" fill="#c58976"/>
+<text x="1005" y="268" font-size="15" text-anchor="middle" font-weight="bold">-9.2</text>
+<rect x="1052" y="242" width="82" height="40" rx="4" fill="#9abac7"/>
+<text x="1093" y="268" font-size="15" text-anchor="middle" font-weight="bold">+6.3</text>
+<rect x="1140" y="242" width="82" height="40" rx="4" fill="#efe7e4"/>
+<text x="1181" y="268" font-size="15" text-anchor="middle" font-weight="bold">-1.2</text>
+<rect x="1228" y="242" width="82" height="40" rx="4" fill="#eef0f1"/>
+<text x="1269" y="268" font-size="15" text-anchor="middle" font-weight="bold">+0.5</text>
+<rect x="788" y="288" width="82" height="40" rx="4" fill="#d2dee4"/>
+<text x="829" y="314" font-size="15" text-anchor="middle" font-weight="bold">+2.4</text>
+<rect x="876" y="288" width="82" height="40" rx="4" fill="#e8edef"/>
+<text x="917" y="314" font-size="15" text-anchor="middle" font-weight="bold">+0.9</text>
+<rect x="964" y="288" width="82" height="40" rx="4" fill="#c99281"/>
+<text x="1005" y="314" font-size="15" text-anchor="middle" font-weight="bold">-8.4</text>
+<rect x="1052" y="288" width="82" height="40" rx="4" fill="#c4d5dc"/>
+<text x="1093" y="314" font-size="15" text-anchor="middle" font-weight="bold">+3.4</text>
+<rect x="1140" y="288" width="82" height="40" rx="4" fill="#edf0f1"/>
+<text x="1181" y="314" font-size="15" text-anchor="middle" font-weight="bold">+0.6</text>
+<rect x="1228" y="288" width="82" height="40" rx="4" fill="#e3e9ec"/>
+<text x="1269" y="314" font-size="15" text-anchor="middle" font-weight="bold">+1.3</text>
+<rect x="788" y="334" width="82" height="40" rx="4" fill="#c2d4db"/>
+<text x="829" y="360" font-size="15" text-anchor="middle" font-weight="bold">+3.5</text>
+<rect x="876" y="334" width="82" height="40" rx="4" fill="#dfc3bb"/>
+<text x="917" y="360" font-size="15" text-anchor="middle" font-weight="bold">-4.3</text>
+<rect x="964" y="334" width="82" height="40" rx="4" fill="#94b6c4"/>
+<text x="1005" y="360" font-size="15" text-anchor="middle" font-weight="bold">+6.7</text>
+<rect x="1052" y="334" width="82" height="40" rx="4" fill="#d7b1a5"/>
+<text x="1093" y="360" font-size="15" text-anchor="middle" font-weight="bold">-5.8</text>
+<rect x="1140" y="334" width="82" height="40" rx="4" fill="#ebeff0"/>
+<text x="1181" y="360" font-size="15" text-anchor="middle" font-weight="bold">+0.7</text>
+<rect x="1228" y="334" width="82" height="40" rx="4" fill="#f1ebea"/>
+<text x="1269" y="360" font-size="15" text-anchor="middle" font-weight="bold">-0.8</text>
+<rect x="788" y="380" width="82" height="40" rx="4" fill="#d1dee3"/>
+<text x="829" y="406" font-size="15" text-anchor="middle" font-weight="bold">+2.5</text>
+<rect x="876" y="380" width="82" height="40" rx="4" fill="#dce4e8"/>
+<text x="917" y="406" font-size="15" text-anchor="middle" font-weight="bold">+1.8</text>
+<rect x="964" y="380" width="82" height="40" rx="4" fill="#e3cec7"/>
+<text x="1005" y="406" font-size="15" text-anchor="middle" font-weight="bold">-3.4</text>
+<rect x="1052" y="380" width="82" height="40" rx="4" fill="#dfc4bb"/>
+<text x="1093" y="406" font-size="15" text-anchor="middle" font-weight="bold">-4.2</text>
+<rect x="1140" y="380" width="82" height="40" rx="4" fill="#c0d3da"/>
+<text x="1181" y="406" font-size="15" text-anchor="middle" font-weight="bold">+3.6</text>
+<rect x="1228" y="380" width="82" height="40" rx="4" fill="#f4f2f1"/>
+<text x="1269" y="406" font-size="15" text-anchor="middle" font-weight="bold">-0.3</text>
+<rect x="788" y="426" width="82" height="40" rx="4" fill="#c48774"/>
+<text x="829" y="452" font-size="15" text-anchor="middle" font-weight="bold">-9.4</text>
+<rect x="876" y="426" width="82" height="40" rx="4" fill="#98b9c6"/>
+<text x="917" y="452" font-size="15" text-anchor="middle" font-weight="bold">+6.4</text>
+<rect x="964" y="426" width="82" height="40" rx="4" fill="#8bb0c0"/>
+<text x="1005" y="452" font-size="15" text-anchor="middle" font-weight="bold">+7.3</text>
+<rect x="1052" y="426" width="82" height="40" rx="4" fill="#c2826d"/>
+<text x="1093" y="452" font-size="15" text-anchor="middle" font-weight="bold">-9.9</text>
+<rect x="1140" y="426" width="82" height="40" rx="4" fill="#c5d6dd"/>
+<text x="1181" y="452" font-size="15" text-anchor="middle" font-weight="bold">+3.3</text>
+<rect x="1228" y="426" width="82" height="40" rx="4" fill="#d3dfe4"/>
+<text x="1269" y="452" font-size="15" text-anchor="middle" font-weight="bold">+2.4</text>
+<rect x="788" y="484" width="19" height="10" fill="#a74627"/>
+<rect x="807" y="484" width="19" height="10" fill="#b76950"/>
+<rect x="826" y="484" width="19" height="10" fill="#c68c79"/>
+<rect x="845" y="484" width="19" height="10" fill="#d6afa3"/>
+<rect x="864" y="484" width="19" height="10" fill="#e5d2cc"/>
+<rect x="883" y="484" width="19" height="10" fill="#f5f5f5"/>
+<rect x="902" y="484" width="19" height="10" fill="#c9d9df"/>
+<rect x="921" y="484" width="19" height="10" fill="#9ebcc9"/>
+<rect x="940" y="484" width="19" height="10" fill="#72a0b3"/>
+<rect x="959" y="484" width="19" height="10" fill="#47839d"/>
+<rect x="978" y="484" width="19" height="10" fill="#1b6787"/>
+<text x="788" y="513" font-size="12" >−15 pp</text>
+<text x="997" y="513" font-size="12" text-anchor="end">+15 pp</text>
+<text x="892" y="513" font-size="12" text-anchor="middle">0</text>
+<text x="32" y="222" font-size="15" font-weight="bold">Opus 5.5（三方A）</text>
+<text x="32" y="268" font-size="15" font-weight="bold">gpt-6-astra</text>
+<text x="32" y="314" font-size="15" font-weight="bold">GLM-5.3 Flash</text>
+<text x="32" y="360" font-size="15" font-weight="bold">Fable 5.1</text>
+<text x="32" y="406" font-size="15" font-weight="bold">Kimi K3</text>
+<text x="32" y="452" font-size="15" font-weight="bold">Gemini 3.5 Flash</text>
+<text x="32" y="552" font-size="14" >B 面板同时扣除该维度的六模型均值及该模型跨维度的平均差值。pp 为百分点。</text>
+</g></svg>

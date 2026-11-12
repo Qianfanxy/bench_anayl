@@ -1,0 +1,83 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "design10-rerun2-kimi",
+  "dataset_hash": "54f7222a1ce27d56db66f8d11ad965c7f62690c31f45d14b03fb694d97bebf93",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_kimi_k3_cc",
+      "name": "Kimi K3",
+      "provider": "TokenHub / Kimi",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "kimi-k3/tencent/sfb",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 0,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    }
+  ],
+  "case_count": 6,
+  "assignment_count": 6,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 1,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_e6518ad7c3ca5e6fa087",
+      "case_id": "case-001",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_9c959e836fc7ace84b77",
+      "case_id": "case-004",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_a10225f6532bf85c585a",
+      "case_id": "case-006",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_8d803d42182bb3d318e5",
+      "case_id": "case-007",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_9b83e00cd2fe88672737",
+      "case_id": "case-008",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_7f5dea78b411df7db4ed",
+      "case_id": "case-010",
+      "model_id": "model_kimi_k3_cc"
+    }
+  ],
+  "content_hash": "2cbc0b7f4ffc85b4e5dc909fc836c7ad564a7173d315b6b2c1e04b6499259021"
+}

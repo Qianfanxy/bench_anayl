@@ -1,0 +1,21 @@
+{
+  "task_id": "task-2b1b22883d52af64",
+  "title": "Run & Earn",
+  "model_id": "model_kimi_k3_cc",
+  "inference_wall_seconds": 1486.825,
+  "inference_duration_seconds": 1486.825,
+  "input_tokens": 1612378,
+  "output_tokens": 56629,
+  "total_tokens": 1669007,
+  "cached_input_tokens": 597504,
+  "cache_creation_input_tokens": 206592,
+  "api_usage_calls": 31,
+  "api_usage_unknown_calls": 0,
+  "token_usage_source": "Per-response API usage; cached input counted once",
+  "token_usage_complete": true,
+  "token_usage_status": "reported",
+  "token_rounds": 31,
+  "metrics_trace_path": "/mnt/afs-design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/distributed-246-20261109/runs/task-2b1b22883d52af64/task-000001/trace.sqlite3",
+  "timing_definition": "Native inference process start to exit; excludes preflight, screen-count checks and evaluation screenshots.",
+  "token_definition": "API-reported input/output totals over completed responses; failed or unreported responses may have unknown usage."
+}

@@ -1,0 +1,34 @@
+{
+  "updated_at": "2026-11-03T07:15:49.220Z",
+  "run_set_id": "design6-rerun2-gemini",
+  "started_at": null,
+  "finished": true,
+  "finished_at": "2026-11-03T07:10:29.849Z",
+  "wall_elapsed_ms": null,
+  "generation_concurrency": 1,
+  "model_concurrency": 1,
+  "account_concurrency": 1,
+  "judge_concurrency": 3,
+  "revision": 1,
+  "policy_hash": "dfca2b660f1dd406c7bbd4ec8823625248fa5460de1fc04150a1001e7d6ec1d7",
+  "duration_note": "Wall elapsed includes preparation and waiting. Task-duration sums overlap under concurrency and are not wall elapsed.",
+  "models": [
+    {
+      "model_id": "model_gemini_31_pro_cc",
+      "model_name": "Gemini 3.5 Flash",
+      "total": 1,
+      "copies_ready": 0,
+      "copy_task_duration_ms_sum": 0,
+      "fresh_retry_copies": 0,
+      "retry_copy_task_duration_ms_sum": 0,
+      "inference_attempts_started": 1,
+      "inference_attempts_finished": 1,
+      "inference_task_duration_ms_sum": 438752,
+      "inference_task_duration_ms_mean": 438752,
+      "inference_wall_elapsed_ms": 438752,
+      "inference_first_started_at": "2026-11-03T07:02:30.827Z",
+      "judge_task_duration_ms_sum": 51207,
+      "formal_scores": 1
+    }
+  ]
+}

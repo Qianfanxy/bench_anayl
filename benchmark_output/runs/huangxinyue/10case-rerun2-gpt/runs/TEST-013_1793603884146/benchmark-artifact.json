@@ -1,0 +1,366 @@
+{
+  "file_key": "SaKqkpWy5Fu1XUTKGRbuDg",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "7:2",
+      "name": "03 · Workspace",
+      "child_count": 9
+    }
+  ],
+  "workspace": {
+    "id": "7:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "9:2",
+        "name": "01_Welcome",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 393,
+        "height": 852,
+        "text_count": 8,
+        "reaction_count": 4
+      },
+      {
+        "id": "9:3",
+        "name": "02_Apple_ID_Sheet",
+        "type": "FRAME",
+        "x": 453,
+        "y": 0,
+        "width": 393,
+        "height": 852,
+        "text_count": 11,
+        "reaction_count": 5
+      },
+      {
+        "id": "9:4",
+        "name": "03_Explore",
+        "type": "FRAME",
+        "x": 906,
+        "y": 0,
+        "width": 393,
+        "height": 852,
+        "text_count": 21,
+        "reaction_count": 6
+      },
+      {
+        "id": "9:5",
+        "name": "04_Find_Partner",
+        "type": "FRAME",
+        "x": 1359,
+        "y": 0,
+        "width": 393,
+        "height": 852,
+        "text_count": 32,
+        "reaction_count": 5
+      },
+      {
+        "id": "9:6",
+        "name": "05_Friend_Profile",
+        "type": "FRAME",
+        "x": 0,
+        "y": 952,
+        "width": 393,
+        "height": 852,
+        "text_count": 13,
+        "reaction_count": 10
+      },
+      {
+        "id": "9:7",
+        "name": "06_Short_Video",
+        "type": "FRAME",
+        "x": 453,
+        "y": 952,
+        "width": 393,
+        "height": 852,
+        "text_count": 15,
+        "reaction_count": 8
+      },
+      {
+        "id": "9:8",
+        "name": "07_Profile",
+        "type": "FRAME",
+        "x": 906,
+        "y": 952,
+        "width": 393,
+        "height": 852,
+        "text_count": 13,
+        "reaction_count": 7
+      },
+      {
+        "id": "9:9",
+        "name": "08_Menu",
+        "type": "FRAME",
+        "x": 1359,
+        "y": 952,
+        "width": 393,
+        "height": 852,
+        "text_count": 24,
+        "reaction_count": 3
+      },
+      {
+        "id": "11:228",
+        "name": "Meet · Reusable UI",
+        "type": "FRAME",
+        "x": 0,
+        "y": 1950,
+        "width": 2400,
+        "height": 15300,
+        "text_count": 134,
+        "reaction_count": 0
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nMeet — dating and social app\nDesign Meet, a dating and social app: sign in, browse stories and posts on Explore, decide on suggested partners, visit a friend’s profile and watch a short, and manage your own profile from its menu. Canvas 393 × 852, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 8 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, backgrounds and surfaces including any tint or gradient, overlays on photos, online / active, like, error / disabled), plus type scale, spacing, radii, blur and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button and the platform shell (status bar, home indicator). Design all other states, the headers, the tab bar, the tabs, the sheet, the drawer and every business component as reusable components in your file.\n5. Use the photos, logo and icons from 04 · Media. Each person always uses their own portrait.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Welcome\nGoal: Choose how to get started.\nMUST INCLUDE\n• Actions: “Continue with Facebook” (Icon_Facebook) · “Continue with Google” (Icon_Google) · “Use mobile number” · “Sign Up”\n• Copy: “Don’t have an account?” · headline “Let’s meet new people around you”\n• Media: Portrait_Sarah_Payne with a heart (Icon_Heart) · Portrait_Henry · Portrait_Lucie · Portrait_Marry · Portrait_Pierre\nLINKS\n→ Sign Up → 02_Apple_ID_Sheet\n02_Apple_ID_Sheet\nGoal: Confirm signing in with an Apple ID.\nMUST INCLUDE\n• Actions: close (Icon_Close) · Face ID (Icon_Face_ID)\n• App: Logo_Meet\n• Copy: “Apple ID” · “Do you want to sign in to Meet Dating App: Meet People with your Apple ID “sarahp@example.com”?” · “Face ID”\n• Presentation: sheet over 01_Welcome\nLINKS\n→ Face ID → 03_Explore\n→ close → 01_Welcome\n03_Explore\nGoal: Catch up on stories and posts from people.\nMUST INCLUDE\n• Actions: “Make Friends” · “Search Partners”\n• Feed: Noemi Slater · Yu Jian · Maddison Burke posts, each with portrait, name, photo and like (Icon_Like) / comment (Icon_Chat) / more (Icon_More) (see DATA)\n• Header: “Explore” · notifications (Icon_Bell)\n• Main navigation: tab bar Home / Dating / Add / Chat / Profile · current: Home\n• Stories: “Your Story” with add (Icon_Plus) · Ben · Lucie · Marry · Claire · Lina · Jo · Henry · Pierre, each with portrait and first name\nLINKS\n→ Claire (story) → 05_Friend_Profile\n→ Dating tab → 04_Find_Partner\n→ Profile tab → 07_Profile\n04_Find_Partner\nGoal: Decide on the next suggested partner.\nMUST INCLUDE\n• Actions: like (Icon_Heart) · pass (Icon_Close) · super like (Icon_Star)\n• Card stack: top card John, 27 · San Francisco (Icon_Location) · 20 km away · Active Now (Portrait_John); 5 more cards behind it (see DATA)\n• Header: back (Icon_Back) · “Find your partner”\n• Main navigation: tab bar · current: Dating\nLINKS\n→ back / Home tab → 03_Explore\n→ Profile tab → 07_Profile\n05_Friend_Profile\nGoal: See who Claire is and connect.\nMUST INCLUDE\n• Actions: “Follow” · “Message”\n• Header: back (Icon_Back) · “Claire Smith” · more (Icon_More)\n• Main navigation: tab bar · current: Home\n• Media grid: Claire_01 – Claire_09 (01 and 09 are videos, Icon_Play)\n• Profile: Portrait_Claire_Smith · “63K Followers”\n• Tabs: Top · Recent · Short · current: Top\nLINKS\n→ back → 03_Explore\n→ Short (tab) → 06_Short_Video\n06_Short_Video\nGoal: Watch a short and react to it.\nMUST INCLUDE\n• Actions: like 123 (Icon_Heart) · comment 89 (Icon_Chat) · share (Icon_Send) · more (Icon_More)\n• Author: Portrait_Yu_Jian · “Yu Jian” · “Follow”\n• Caption: “I think I’m in love with you” · “Liked by Harrison Pearce and others” · music “Nothing Can Stop Me! · Jperriel” (Icon_Music) · “4 people” (Icon_Person)\n• Header: back (Icon_Back) · “Short” · camera (Icon_Camera)\n• Main navigation: tab bar · current: Home\n• Media: Short_Yu_Jian_Shore, full-screen video\nLINKS\n→ back → 05_Friend_Profile\n07_Profile\nGoal: See and manage my own profile.\nMUST INCLUDE\n• Actions: “Edit Profile” · “Share Profile”\n• Header: menu (Icon_Menu) · “Sarah Payne”\n• Main navigation: tab bar · current: Profile\n• Media grid: Sarah_01 – Sarah_09 (01 is a video, Icon_Play)\n• Profile: Portrait_Sarah_Payne · “103K Followers”\n• Tabs: Top · Recent · Short · current: Top\nLINKS\n→ menu → 08_Menu\n→ Home tab → 03_Explore\n08_Menu\nGoal: Reach account areas from the profile.\nMUST INCLUDE\n• Account: Portrait_Sarah_Payne · “Sarah Payne” · “Show Profile” · close (Icon_Close)\n• App: Logo_Meet\n• Menu: Archive · Close Friends · Discover people · Favorites · Group profiles · Saved · Setting · Your Activity, each with its icon and Icon_Chevron_Right (source order in DATA)\n• Presentation: drawer over 07_Profile\nLINKS\n→ close / Show Profile → 07_Profile\nNavigation structure\n• Sign-in flow: 01_Welcome → Sign Up → 02_Apple_ID_Sheet (sheet over 01) → Face ID → 03_Explore.\n• Bottom tab bar on 03–07 with 5 tabs in this order: Home (Icon_Home), Dating (Icon_Heart), Add (Icon_Plus), Chat (Icon_Chat), Profile (Portrait_Sarah_Payne). Current: Home on 03, 05 and 06; Dating on 04; Profile on 07. How the current tab looks is yours.\n• 05 and 06 are pushed from Explore (Claire’s story → her profile → its Short tab → the short). 08_Menu is a drawer over 07_Profile.\n• Entry only (no frame): Continue with Facebook / Google, Use mobile number, notifications, Make Friends, Search Partners, other stories, feed actions, Your Story, like / pass / super like, Follow, Message, more, Top / Recent tabs, grid items, short actions, camera, Edit Profile, Share Profile, menu rows, Add, Chat.\nFixed data & copy\nUse these values verbatim.\nMe\nSarah Payne · 103K Followers · Portrait_Sarah_Payne\nApple ID: sarahp@example.com\nStories (in this order)\nYour Story (Portrait_Sarah_Payne) · Ben · Lucie · Marry · Claire · Lina · Jo · Henry · Pierre (Por",
+  "layer_summary": {
+    "board_count": 9,
+    "boards": [
+      {
+        "name": "01_Welcome",
+        "size": "393×852",
+        "nodes": 48,
+        "max_depth": 3,
+        "instances": 18,
+        "texts": 8,
+        "images": 0,
+        "types": [
+          "instance×18",
+          "rectangle×10",
+          "vector×8",
+          "text×8",
+          "frame×3",
+          "ellipse×1"
+        ],
+        "names": [
+          "Hero wash",
+          "Logo_Meet",
+          "Vector",
+          "meet",
+          "Portrait_Sarah_Payne",
+          "Portrait_Henry"
+        ]
+      },
+      {
+        "name": "02_Apple_ID_Sheet",
+        "size": "393×852",
+        "nodes": 64,
+        "max_depth": 4,
+        "instances": 24,
+        "texts": 11,
+        "images": 0,
+        "types": [
+          "instance×24",
+          "vector×11",
+          "text×11",
+          "rectangle×11",
+          "frame×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Hero wash",
+          "Logo_Meet",
+          "Vector",
+          "meet",
+          "Portrait_Sarah_Payne",
+          "Portrait_Henry"
+        ]
+      },
+      {
+        "name": "03_Explore",
+        "size": "393×852",
+        "nodes": 137,
+        "max_depth": 7,
+        "instances": 62,
+        "texts": 21,
+        "images": 0,
+        "types": [
+          "instance×62",
+          "vector×22",
+          "text×21",
+          "frame×21",
+          "rectangle×10",
+          "ellipse×1"
+        ],
+        "names": [
+          "UI/Header/Explore",
+          "Explore",
+          "UI/Icon button/Icon_Bell",
+          "Icon_Bell",
+          "Vector",
+          "Explore scroll"
+        ]
+      },
+      {
+        "name": "04_Find_Partner",
+        "size": "393×852",
+        "nodes": 124,
+        "max_depth": 4,
+        "instances": 35,
+        "texts": 32,
+        "images": 0,
+        "types": [
+          "instance×35",
+          "text×32",
+          "frame×27",
+          "vector×20",
+          "rectangle×9",
+          "ellipse×1"
+        ],
+        "names": [
+          "UI/Header/Find your part",
+          "UI/Icon button/Icon_Back",
+          "Icon_Back",
+          "Vector",
+          "Find your partner",
+          "A little spark starts he"
+        ]
+      },
+      {
+        "name": "05_Friend_Profile",
+        "size": "393×852",
+        "nodes": 91,
+        "max_depth": 6,
+        "instances": 32,
+        "texts": 13,
+        "images": 0,
+        "types": [
+          "instance×32",
+          "frame×25",
+          "text×13",
+          "rectangle×12",
+          "vector×8",
+          "ellipse×1"
+        ],
+        "names": [
+          "UI/Header/Claire Smith",
+          "UI/Icon button/Icon_Back",
+          "Icon_Back",
+          "Vector",
+          "Claire Smith",
+          "UI/Icon button/Icon_More"
+        ]
+      },
+      {
+        "name": "06_Short_Video",
+        "size": "393×852",
+        "nodes": 77,
+        "max_depth": 4,
+        "instances": 23,
+        "texts": 15,
+        "images": 0,
+        "types": [
+          "instance×23",
+          "vector×16",
+          "text×15",
+          "frame×11",
+          "rectangle×11",
+          "ellipse×1"
+        ],
+        "names": [
+          "Short_Yu_Jian_Shore",
+          "Video contrast",
+          "UI/Short header",
+          "UI/Icon button/Icon_Back",
+          "Icon_Back",
+          "Vector"
+        ]
+      },
+      {
+        "name": "07_Profile",
+        "size": "393×852",
+        "nodes": 85,
+        "max_depth": 6,
+        "instances": 29,
+        "texts": 13,
+        "images": 0,
+        "types": [
+          "instance×29",
+          "frame×25",
+          "text×13",
+          "rectangle×11",
+          "vector×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "UI/Header/Sarah Payne",
+          "Sarah Payne",
+          "UI/Icon button/Icon_Menu",
+          "Icon_Menu",
+          "Vector",
+          "Profile scroll"
+        ]
+      },
+      {
+        "name": "08_Menu",
+        "size": "393×852",
+        "nodes": 159,
+        "max_depth": 6,
+        "instances": 59,
+        "texts": 24,
+        "images": 0,
+        "types": [
+          "instance×59",
+          "frame×35",
+          "vector×31",
+          "text×24",
+          "rectangle×9",
+          "ellipse×1"
+        ],
+        "names": [
+          "UI/Header/Sarah Payne",
+          "Sarah Payne",
+          "UI/Icon button/Icon_Menu",
+          "Icon_Menu",
+          "Vector",
+          "Profile scroll"
+        ]
+      },
+      {
+        "name": "Meet · Reusable UI",
+        "size": "2400×15300",
+        "nodes": 743,
+        "max_depth": 4,
+        "instances": 317,
+        "texts": 134,
+        "images": 0,
+        "types": [
+          "instance×233",
+          "vector×159",
+          "text×134",
+          "frame×131",
+          "component×84",
+          "rectangle×2"
+        ],
+        "names": [
+          "UI/Menu row/Discover peo",
+          "Icon surface",
+          "Icon_Discover",
+          "Vector",
+          "Discover people",
+          "Icon_Chevron_Right"
+        ]
+      }
+    ]
+  }
+}

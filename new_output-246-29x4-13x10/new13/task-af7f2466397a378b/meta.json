@@ -1,0 +1,15 @@
+{
+  "task_id": "task-af7f2466397a378b",
+  "cohort": "new13",
+  "title": "Audio Shop",
+  "model_id": "model_glm_53_flash_cc",
+  "model_name": "GLM-5.3 Flash",
+  "file_key": "CCoea9ZRBEACwemuLIgxDS",
+  "url": "https://www.figma.com/design/CCoea9ZRBEACwemuLIgxDS",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-af7f2466397a378b",
+  "score_status": "completed",
+  "score_total": 36,
+  "other_score_revisions": []
+}

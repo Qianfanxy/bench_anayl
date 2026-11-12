@@ -1,0 +1,15 @@
+{
+  "task_id": "task-db8826d9112fe90a",
+  "cohort": "new13",
+  "title": "Fyrre Magazine",
+  "model_id": "model_kimi_k3_cc",
+  "model_name": "Kimi K3",
+  "file_key": "Z2wQDzm3u1ETxkiUP2kqqQ",
+  "url": "https://www.figma.com/design/Z2wQDzm3u1ETxkiUP2kqqQ",
+  "expected_frames": 7,
+  "inference_status": "success",
+  "run_dir_basename": "task-db8826d9112fe90a",
+  "score_status": "completed",
+  "score_total": 32,
+  "other_score_revisions": []
+}

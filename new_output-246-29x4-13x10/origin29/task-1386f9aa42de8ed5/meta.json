@@ -1,0 +1,15 @@
+{
+  "task_id": "task-1386f9aa42de8ed5",
+  "cohort": "origin29",
+  "title": "Vulcan Invest",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "84wmIs6f3zNTGeqdelwC91",
+  "url": "https://www.figma.com/design/84wmIs6f3zNTGeqdelwC91",
+  "expected_frames": 7,
+  "inference_status": "failed",
+  "run_dir_basename": "task-1386f9aa42de8ed5",
+  "score_status": "not-scored",
+  "score_total": "",
+  "other_score_revisions": []
+}

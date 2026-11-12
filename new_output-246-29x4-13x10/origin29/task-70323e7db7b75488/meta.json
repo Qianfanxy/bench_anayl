@@ -1,0 +1,15 @@
+{
+  "task_id": "task-70323e7db7b75488",
+  "cohort": "origin29",
+  "title": "Fasco",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "5OIlK1KS5YAhauobLIyjrX",
+  "url": "https://www.figma.com/design/5OIlK1KS5YAhauobLIyjrX",
+  "expected_frames": 11,
+  "inference_status": "success",
+  "run_dir_basename": "task-70323e7db7b75488",
+  "score_status": "completed",
+  "score_total": 40,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-82317feca43f2b19",
+  "cohort": "origin29",
+  "title": "ABM Developer Portfolio",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "2OEUSMDS3vqzVHRu0d3Nt3",
+  "url": "https://www.figma.com/design/2OEUSMDS3vqzVHRu0d3Nt3",
+  "expected_frames": 1,
+  "inference_status": "failed",
+  "run_dir_basename": "task-82317feca43f2b19--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 49,
+  "other_score_revisions": []
+}

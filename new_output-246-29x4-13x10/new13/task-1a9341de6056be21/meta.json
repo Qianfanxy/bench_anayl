@@ -1,0 +1,15 @@
+{
+  "task_id": "task-1a9341de6056be21",
+  "cohort": "new13",
+  "title": "Inkline Blog",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "L3MJbc8bFew67wWEXgMr3L",
+  "url": "https://www.figma.com/design/L3MJbc8bFew67wWEXgMr3L",
+  "expected_frames": null,
+  "inference_status": "success",
+  "run_dir_basename": "task-1a9341de6056be21",
+  "score_status": "completed",
+  "score_total": 47,
+  "other_score_revisions": []
+}

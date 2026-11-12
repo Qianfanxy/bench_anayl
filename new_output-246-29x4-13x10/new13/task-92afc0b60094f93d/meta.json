@@ -1,0 +1,15 @@
+{
+  "task_id": "task-92afc0b60094f93d",
+  "cohort": "new13",
+  "title": "Fyrre Magazine",
+  "model_id": "model_gpt61_sol_1109",
+  "model_name": "GPT 6.1 Sol",
+  "file_key": "ZQJbTPPc6hLKU5iX2gOXNx",
+  "url": "https://www.figma.com/design/ZQJbTPPc6hLKU5iX2gOXNx",
+  "expected_frames": 7,
+  "inference_status": "success",
+  "run_dir_basename": "task-92afc0b60094f93d",
+  "score_status": "no-readable-result",
+  "score_total": "",
+  "other_score_revisions": []
+}

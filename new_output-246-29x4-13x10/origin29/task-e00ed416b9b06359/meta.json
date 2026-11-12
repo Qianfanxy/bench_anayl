@@ -1,0 +1,15 @@
+{
+  "task_id": "task-e00ed416b9b06359",
+  "cohort": "origin29",
+  "title": "StockWave",
+  "model_id": "model_sonnet55_1109",
+  "model_name": "Sonnet 5.5",
+  "file_key": "E8mYdLIesU3I1cfPJPH1EI",
+  "url": "https://www.figma.com/design/E8mYdLIesU3I1cfPJPH1EI",
+  "expected_frames": 10,
+  "inference_status": "success",
+  "run_dir_basename": "task-e00ed416b9b06359",
+  "score_status": "completed",
+  "score_total": 38,
+  "other_score_revisions": []
+}

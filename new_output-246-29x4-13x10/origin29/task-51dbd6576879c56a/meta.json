@@ -1,0 +1,15 @@
+{
+  "task_id": "task-51dbd6576879c56a",
+  "cohort": "origin29",
+  "title": "Stylish",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "pWd4bo9lqwuF7UNDtpce3h",
+  "url": "https://www.figma.com/design/pWd4bo9lqwuF7UNDtpce3h",
+  "expected_frames": 15,
+  "inference_status": "running",
+  "run_dir_basename": "task-51dbd6576879c56a",
+  "score_status": "completed",
+  "score_total": 33,
+  "other_score_revisions": []
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "task-171ce404bb2fa4fe",
+  "cohort": "origin29",
+  "title": "Furniro",
+  "model_id": "model_qwen38_max_1109",
+  "model_name": "Qwen 3.8 Max",
+  "file_key": "eUUeUeDK8xyGPSSyRkeqOt",
+  "url": "https://www.figma.com/design/eUUeUeDK8xyGPSSyRkeqOt",
+  "expected_frames": 9,
+  "inference_status": "failed",
+  "run_dir_basename": "task-171ce404bb2fa4fe",
+  "score_status": "completed",
+  "score_total": 39,
+  "other_score_revisions": []
+}

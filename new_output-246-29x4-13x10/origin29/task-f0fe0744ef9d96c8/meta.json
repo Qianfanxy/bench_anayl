@@ -1,0 +1,17 @@
+{
+  "task_id": "task-f0fe0744ef9d96c8",
+  "cohort": "origin29",
+  "title": "Expenio",
+  "model_id": "model_deepseek_v4_flash_1109",
+  "model_name": "DeepSeek V4 Flash",
+  "file_key": "Razs2gGDTNIWbf2PCe4qUo",
+  "url": "https://www.figma.com/design/Razs2gGDTNIWbf2PCe4qUo",
+  "expected_frames": 6,
+  "inference_status": "success",
+  "run_dir_basename": "task-f0fe0744ef9d96c8--restart-20261110-095732",
+  "score_status": "completed",
+  "score_total": 30,
+  "other_score_revisions": [
+    "task-f0fe0744ef9d96c8-2d3dad996ca611c517fb"
+  ]
+}

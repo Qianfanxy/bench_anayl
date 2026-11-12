@@ -1,0 +1,85 @@
+[
+  {
+    "node_id": "8:20",
+    "name": "01_Wallet",
+    "file": "8-20.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "EctuBlB5drFNCeGwWM7KyI",
+        "nodeId": "8:20",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "a8383391d3cb2cd29023be6a930b0305bfc09f8f0a33e747df3b95c60e0a1653",
+      "response_file": "_debug/v2-native-8-20.png.txt",
+      "response_sha256": "17e7136f8726309bbc8f885ecaa507526fd81e9d338d80c7401608875746145d"
+    }
+  },
+  {
+    "node_id": "7:15",
+    "name": "01_Wallet",
+    "file": "7-15.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "EctuBlB5drFNCeGwWM7KyI",
+        "nodeId": "7:15",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "9678ba26e3cf67c406ad8e969cecee9d86d759af26d4f0077054869641d4322a",
+      "response_file": "_debug/v2-native-7-15.png.txt",
+      "response_sha256": "64ef58d7324981f46398321faf4b60eac24a75a936baaf526321fecf2ecc8c96"
+    }
+  },
+  {
+    "node_id": "9:23",
+    "name": "02_Discovery",
+    "file": "9-23.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "EctuBlB5drFNCeGwWM7KyI",
+        "nodeId": "9:23",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "d91686bb11bf25740ab2dfe5043e2b28f3c61b1fe6e28988fdb59dd8a8685a67",
+      "response_file": "_debug/v2-native-9-23.png.txt",
+      "response_sha256": "48ce9528e7c6ed88651eb92aacfa1035a2cbae80b204ee881862547b93272d95"
+    }
+  },
+  {
+    "node_id": "7:102",
+    "name": "02_Discovery",
+    "file": "7-102.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "EctuBlB5drFNCeGwWM7KyI",
+        "nodeId": "7:102",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "8a4bf4a6aef2c4a8dca7d04769706530c7a175829712332b2a5823217cc9acd2",
+      "response_file": "_debug/v2-native-7-102.png.txt",
+      "response_sha256": "0dd5473529f049a71aa71a981557654abbc2a9de100112bec5e7fbfd6c1cc1b3"
+    }
+  },
+  {
+    "node_id": "9:202",
+    "name": "03_Strategy",
+    "file": "9-202.png"
+  },
+  {
+    "node_id": "10:48",
+    "name": "04_Invest_Amount",
+    "file": "10-48.png"
+  },
+  {
+    "node_id": "11:65",
+    "name": "05_Invest_Success",
+    "file": "11-65.png"
+  }
+]
