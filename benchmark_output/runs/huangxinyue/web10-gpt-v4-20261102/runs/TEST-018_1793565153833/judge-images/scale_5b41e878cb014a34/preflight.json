@@ -1,0 +1,25 @@
+{
+  "max_dimension": 8000,
+  "max_base64_bytes": 5000000,
+  "max_total_bytes": 25165824,
+  "images": [
+    {
+      "index": 1,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-018_1793565153833/figma-frames/8-2.png",
+      "source_sha256": "cd5d68cb4f6cc68f7e8f758a713766a4e3e88dfaacbce47b850c861c2f56bacf",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-018_1793565153833/figma-frames/8-2.png",
+      "original_size": [
+        1440,
+        4780
+      ],
+      "submitted_size": [
+        1440,
+        4780
+      ],
+      "resized": false,
+      "original_bytes": 540442,
+      "submitted_bytes": 540442,
+      "submitted_base64_bytes": 720592
+    }
+  ]
+}

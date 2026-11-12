@@ -1,0 +1,18 @@
+03 (Home · My Balance, 2005:4) verified after fix:
+- Header: avatar, 'Hi, Esaaa!', 'Aug 20, 2023', message + bell icons
+- View switch: My Balance (active white pill), Upcoming Bills, Transactions
+- Balance card: 'Your Balance' $190,008.03, +8% chip, USD flag dropdown
+- Actions: Send / Receive / Add
+- Financial health card: bar chart Mon–Sun with Wed highlighted, 'Latest 7 days' link with arrow
+- Transfer list: 'Transfer list' + Add, 5 contacts (Bessie Cooper, Devon Lane, Eleanor Pena, Jenny Wilson, Cody Fisher) — names now FULLY visible (Bessie Cooper 2-line, others single-line) ✓ Fix confirmed
+- Tab bar: Home active purple
+
+Everything is verified. All 11 screens inspected via screenshots and rendering correctly. Prototype fully wired. Flow starting point set.
+
+Final answer time. Content:
+- Assigned file URL: https://www.figma.com/design/LzOLhHIkMxbZRdyAhxIn1B/
+- 03·Workspace page ID: 2003:2
+- Screen IDs: 01_Sign_Up=2005:2, 02_OTP=2005:3, 03_Home_My_Balance=2005:4, 04_Home_Upcoming_Bills=2005:5, 05_Home_Transactions=2005:6, 06_Discussion_Forum=2005:7, 07_Cards=2005:8, 08_Profile=2005:9, 09_Analytics=2005:10, 10_Markets=2005:11, 11_Send=2005:12
+- Prototype work: complete navigation wiring per brief; flow starting point 'Onboarding Flow' at 2005:2; hit overlays for tab bar / view switch / contact rows; self-links skipped where Figma rejects same-frame navigation
+- Reusable components: 23 components created on the workspace (Tab Bar ×4 active states, View Switch ×3, Action ×3, Header icons, Topic Chips, OTP Box, Keypad Key, Contacts, Bill Card, Transaction Row, Crypto Row) reusing 02·Components and 04·Media assets
+- Limitations: active tab/view-switch self-navigation omitted (Figma API rejects NAVIGATE to the same top-level frame); 06 third topic chip 'Cryptocurrencies' extends past the right edge as a scroll affordance; Figma MCP rate limits slowed verification but all screens were ultimately verified.

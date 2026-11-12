@@ -1,0 +1,34 @@
+{
+  "kind": "benchmark-legacy-media-audit/v1",
+  "checked_at": "2026-11-04T10:09:03.884865+00:00",
+  "raw_audit": {
+    "ok": false,
+    "errors": [
+      "status is 'failed', not 'completed'",
+      "final assistant answer is empty",
+      "no non-empty thinking signature",
+      "Figma create_new_file was not called",
+      "ShareGPT conversion failed: conversation must end with a gpt message"
+    ],
+    "require_prototype": false
+  },
+  "audit": {
+    "ok": false,
+    "errors": [
+      "status is 'failed', not 'completed'",
+      "final assistant answer is empty",
+      "no non-empty thinking signature",
+      "Figma create_new_file was not called",
+      "ShareGPT conversion failed: conversation must end with a gpt message"
+    ],
+    "require_prototype": false,
+    "raw_errors": [
+      "status is 'failed', not 'completed'",
+      "final assistant answer is empty",
+      "no non-empty thinking signature",
+      "Figma create_new_file was not called",
+      "ShareGPT conversion failed: conversation must end with a gpt message"
+    ],
+    "media_warnings": []
+  }
+}

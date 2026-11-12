@@ -1,0 +1,280 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "03_Home_My_Balance",
+      "size": "375×812",
+      "nodes": 179,
+      "max_depth": 6,
+      "instances": 31,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "frame×40",
+        "vector×40",
+        "instance×31",
+        "text×28",
+        "rectangle×18",
+        "group×18"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "HomeIndicator",
+        "Home / Account Header"
+      ]
+    },
+    {
+      "name": "01_Sign_Up",
+      "size": "375×812",
+      "nodes": 38,
+      "max_depth": 9,
+      "instances": 5,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "rectangle×8",
+        "instance×5",
+        "group×5",
+        "frame×4",
+        "vector×4"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "HomeIndicator",
+        "Sign up"
+      ]
+    },
+    {
+      "name": "02_OTP",
+      "size": "375×812",
+      "nodes": 30,
+      "max_depth": 5,
+      "instances": 4,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "rectangle×12",
+        "text×6",
+        "instance×4",
+        "ellipse×3",
+        "frame×2",
+        "vector×2"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "HomeIndicator",
+        "Btn / Back"
+      ]
+    },
+    {
+      "name": "04_Home_Upcoming_Bills",
+      "size": "375×812",
+      "nodes": 133,
+      "max_depth": 6,
+      "instances": 17,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "vector×34",
+        "frame×33",
+        "text×22",
+        "instance×17",
+        "group×13",
+        "rectangle×11"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "HomeIndicator",
+        "Home / Account Header"
+      ]
+    },
+    {
+      "name": "05_Home_Transactions",
+      "size": "375×812",
+      "nodes": 166,
+      "max_depth": 10,
+      "instances": 17,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "group×41",
+        "vector×36",
+        "frame×30",
+        "text×28",
+        "instance×17",
+        "rectangle×11"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "HomeIndicator",
+        "Home / Account Header"
+      ]
+    },
+    {
+      "name": "07_Cards",
+      "size": "375×812",
+      "nodes": 202,
+      "max_depth": 12,
+      "instances": 17,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "group×61",
+        "vector×52",
+        "text×31",
+        "frame×30",
+        "instance×17",
+        "rectangle×8"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "HomeIndicator",
+        "Btn / Back"
+      ]
+    },
+    {
+      "name": "08_Profile",
+      "size": "375×812",
+      "nodes": 223,
+      "max_depth": 15,
+      "instances": 19,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "group×69",
+        "vector×65",
+        "frame×31",
+        "text×28",
+        "instance×19",
+        "rectangle×8"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "HomeIndicator",
+        "Btn / Back"
+      ]
+    },
+    {
+      "name": "09_Analytics",
+      "size": "375×812",
+      "nodes": 99,
+      "max_depth": 6,
+      "instances": 11,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "frame×21",
+        "vector×17",
+        "instance×11",
+        "rectangle×10",
+        "ellipse×9"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "HomeIndicator",
+        "Btn / Back"
+      ]
+    },
+    {
+      "name": "10_Markets",
+      "size": "375×812",
+      "nodes": 162,
+      "max_depth": 12,
+      "instances": 10,
+      "texts": 38,
+      "images": 0,
+      "types": [
+        "text×38",
+        "rectangle×37",
+        "group×32",
+        "frame×22",
+        "vector×20",
+        "instance×10"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "HomeIndicator",
+        "Btn / Back"
+      ]
+    },
+    {
+      "name": "11_Send",
+      "size": "375×812",
+      "nodes": 66,
+      "max_depth": 6,
+      "instances": 7,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "frame×20",
+        "text×19",
+        "rectangle×8",
+        "instance×7",
+        "vector×6",
+        "ellipse×3"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "HomeIndicator",
+        "Btn / Back"
+      ]
+    },
+    {
+      "name": "06_Discussion_Forum",
+      "size": "375×812",
+      "nodes": 127,
+      "max_depth": 6,
+      "instances": 21,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "vector×33",
+        "frame×27",
+        "instance×21",
+        "text×19",
+        "group×16",
+        "rectangle×8"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "HomeIndicator",
+        "Btn / Back"
+      ]
+    }
+  ]
+}

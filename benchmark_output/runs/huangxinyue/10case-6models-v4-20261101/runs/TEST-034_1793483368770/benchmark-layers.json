@@ -1,0 +1,205 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "393×852",
+      "nodes": 39,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×7",
+        "rectangle×7",
+        "vector×7",
+        "frame×2",
+        "ellipse×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "02_Apple_ID_Sheet",
+      "size": "393×852",
+      "nodes": 54,
+      "max_depth": 4,
+      "instances": 19,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×10",
+        "vector×10",
+        "rectangle×9",
+        "frame×4",
+        "ellipse×2"
+      ],
+      "names": [
+        "01 background",
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "03_Explore",
+      "size": "393×852",
+      "nodes": 93,
+      "max_depth": 3,
+      "instances": 37,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "instance×37",
+        "text×19",
+        "vector×19",
+        "rectangle×10",
+        "frame×5",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "04_Find_Partner",
+      "size": "393×852",
+      "nodes": 59,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "rectangle×13",
+        "text×12",
+        "vector×10",
+        "ellipse×6",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "05_Friend_Profile",
+      "size": "393×852",
+      "nodes": 62,
+      "max_depth": 3,
+      "instances": 22,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "instance×22",
+        "text×14",
+        "rectangle×14",
+        "vector×8",
+        "frame×2",
+        "ellipse×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "06_Short_Video",
+      "size": "393×852",
+      "nodes": 64,
+      "max_depth": 3,
+      "instances": 18,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "vector×16",
+        "text×15",
+        "rectangle×11",
+        "frame×2",
+        "ellipse×2"
+      ],
+      "names": [
+        "Short_Yu_Jian_Shore",
+        "Rectangle",
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal"
+      ]
+    },
+    {
+      "name": "07_Profile",
+      "size": "393×852",
+      "nodes": 57,
+      "max_depth": 3,
+      "instances": 20,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "text×14",
+        "rectangle×13",
+        "vector×6",
+        "frame×2",
+        "ellipse×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "08_Menu",
+      "size": "393×852",
+      "nodes": 122,
+      "max_depth": 4,
+      "instances": 40,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "instance×40",
+        "vector×31",
+        "text×24",
+        "rectangle×21",
+        "frame×4",
+        "ellipse×2"
+      ],
+      "names": [
+        "07 background",
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle"
+      ]
+    }
+  ]
+}

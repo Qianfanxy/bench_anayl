@@ -1,0 +1,280 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 17,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 1,
+      "images": 1,
+      "types": [
+        "rectangle×7",
+        "instance×3",
+        "ellipse×2",
+        "frame×2",
+        "vector×1",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Glow",
+        "Foodgo_Wordmark / White",
+        "Splash_Burger_Stack",
+        "Status Bar",
+        "9:41",
+        "Signal"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "430×932",
+      "nodes": 181,
+      "max_depth": 10,
+      "instances": 42,
+      "texts": 23,
+      "images": 4,
+      "types": [
+        "group×63",
+        "instance×42",
+        "text×23",
+        "vector×22",
+        "frame×16",
+        "rectangle×7"
+      ],
+      "names": [
+        "Foodgo_Wordmark / Dark",
+        "Tagline",
+        "Avatar",
+        "Ellipse",
+        "Search",
+        "Icon / Search"
+      ]
+    },
+    {
+      "name": "03_Product_Cheeseburger",
+      "size": "430×932",
+      "nodes": 75,
+      "max_depth": 10,
+      "instances": 15,
+      "texts": 15,
+      "images": 1,
+      "types": [
+        "instance×15",
+        "text×15",
+        "frame×14",
+        "group×12",
+        "rectangle×9",
+        "vector×6"
+      ],
+      "names": [
+        "Top Bar",
+        "Back",
+        "Icon / Back",
+        "product 1",
+        "arrow-left",
+        "Vector"
+      ]
+    },
+    {
+      "name": "04_Product_Veggie",
+      "size": "430×932",
+      "nodes": 75,
+      "max_depth": 10,
+      "instances": 15,
+      "texts": 15,
+      "images": 1,
+      "types": [
+        "instance×15",
+        "text×15",
+        "frame×14",
+        "group×12",
+        "rectangle×9",
+        "vector×6"
+      ],
+      "names": [
+        "Top Bar",
+        "Back",
+        "Icon / Back",
+        "product 1",
+        "arrow-left",
+        "Vector"
+      ]
+    },
+    {
+      "name": "05_Product_Chicken",
+      "size": "430×932",
+      "nodes": 75,
+      "max_depth": 10,
+      "instances": 15,
+      "texts": 15,
+      "images": 1,
+      "types": [
+        "instance×15",
+        "text×15",
+        "frame×14",
+        "group×12",
+        "rectangle×9",
+        "vector×6"
+      ],
+      "names": [
+        "Top Bar",
+        "Back",
+        "Icon / Back",
+        "product 1",
+        "arrow-left",
+        "Vector"
+      ]
+    },
+    {
+      "name": "06_Product_Fried_Chicken",
+      "size": "430×932",
+      "nodes": 75,
+      "max_depth": 10,
+      "instances": 15,
+      "texts": 15,
+      "images": 1,
+      "types": [
+        "instance×15",
+        "text×15",
+        "frame×14",
+        "group×12",
+        "rectangle×9",
+        "vector×6"
+      ],
+      "names": [
+        "Top Bar",
+        "Back",
+        "Icon / Back",
+        "product 1",
+        "arrow-left",
+        "Vector"
+      ]
+    },
+    {
+      "name": "07_Customize",
+      "size": "430×1180",
+      "nodes": 164,
+      "max_depth": 10,
+      "instances": 37,
+      "texts": 27,
+      "images": 13,
+      "types": [
+        "frame×39",
+        "instance×37",
+        "vector×29",
+        "text×27",
+        "rectangle-image×13",
+        "rectangle×9"
+      ],
+      "names": [
+        "Top Bar",
+        "Back",
+        "Icon / Back",
+        "product 1",
+        "arrow-left",
+        "Vector"
+      ]
+    },
+    {
+      "name": "08_Payment",
+      "size": "430×932",
+      "nodes": 77,
+      "max_depth": 10,
+      "instances": 18,
+      "texts": 22,
+      "images": 2,
+      "types": [
+        "text×22",
+        "instance×18",
+        "frame×13",
+        "group×8",
+        "rectangle×8",
+        "vector×4"
+      ],
+      "names": [
+        "Top Bar",
+        "Back",
+        "Icon / Back",
+        "product 1",
+        "arrow-left",
+        "Vector"
+      ]
+    },
+    {
+      "name": "09_Payment_Success_Overlay",
+      "size": "430×932",
+      "nodes": 89,
+      "max_depth": 10,
+      "instances": 21,
+      "texts": 25,
+      "images": 2,
+      "types": [
+        "text×25",
+        "instance×21",
+        "frame×16",
+        "rectangle×9",
+        "group×8",
+        "vector×6"
+      ],
+      "names": [
+        "Top Bar",
+        "Back",
+        "Icon / Back",
+        "product 1",
+        "arrow-left",
+        "Vector"
+      ]
+    },
+    {
+      "name": "10_Profile",
+      "size": "430×932",
+      "nodes": 99,
+      "max_depth": 11,
+      "instances": 26,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "instance×26",
+        "group×24",
+        "text×16",
+        "frame×13",
+        "vector×10",
+        "rectangle×7"
+      ],
+      "names": [
+        "Top Bar",
+        "Back",
+        "Icon / Back",
+        "product 1",
+        "arrow-left",
+        "Vector"
+      ]
+    },
+    {
+      "name": "11_Support_Chat",
+      "size": "430×932",
+      "nodes": 81,
+      "max_depth": 10,
+      "instances": 18,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "group×17",
+        "frame×15",
+        "vector×13",
+        "text×10",
+        "rectangle×7"
+      ],
+      "names": [
+        "Top Bar",
+        "Back",
+        "Icon / Back",
+        "product 1",
+        "arrow-left",
+        "Vector"
+      ]
+    }
+  ]
+}

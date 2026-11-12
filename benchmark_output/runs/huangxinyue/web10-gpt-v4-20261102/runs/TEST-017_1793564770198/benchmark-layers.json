@@ -1,0 +1,28 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1920×7370",
+      "nodes": 470,
+      "max_depth": 5,
+      "instances": 196,
+      "texts": 175,
+      "images": 0,
+      "types": [
+        "instance×196",
+        "text×175",
+        "vector×84",
+        "frame×15"
+      ],
+      "names": [
+        "Header",
+        "Logo_FoodWagon",
+        "Deliver to:",
+        "Icon_Map_Marker",
+        "Vector",
+        "Current Location"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "max_dimension": 8000,
+  "max_base64_bytes": 5000000,
+  "images": [
+    {
+      "index": 1,
+      "source_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-2.png",
+      "source_sha256": "dc0e9e26af93ef602547b914e58fd796ab6e47477fcc99067b2e4500de65a936",
+      "submitted_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-2.png",
+      "original_size": [
+        377,
+        812
+      ],
+      "submitted_size": [
+        377,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 25791,
+      "submitted_bytes": 25791,
+      "submitted_base64_bytes": 34388
+    },
+    {
+      "index": 2,
+      "source_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-3.png",
+      "source_sha256": "fb601accab8f559c1485e280afd5ca16cb6e35c93f23e75894cf28ef37c10497",
+      "submitted_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-3.png",
+      "original_size": [
+        376,
+        812
+      ],
+      "submitted_size": [
+        376,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 18568,
+      "submitted_bytes": 18568,
+      "submitted_base64_bytes": 24760
+    },
+    {
+      "index": 3,
+      "source_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-4.png",
+      "source_sha256": "31034de4e0ac9b7b9758463f99fbf51159f3c92c9ad55e6017856d85a6202b13",
+      "submitted_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-4.png",
+      "original_size": [
+        376,
+        812
+      ],
+      "submitted_size": [
+        376,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 113367,
+      "submitted_bytes": 113367,
+      "submitted_base64_bytes": 151156
+    },
+    {
+      "index": 4,
+      "source_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-5.png",
+      "source_sha256": "ef86bdbc47d66bb773d729825c6e2a153656b7ce10ea46140cc97074d9197b93",
+      "submitted_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-5.png",
+      "original_size": [
+        376,
+        812
+      ],
+      "submitted_size": [
+        376,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 79801,
+      "submitted_bytes": 79801,
+      "submitted_base64_bytes": 106404
+    },
+    {
+      "index": 5,
+      "source_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-6.png",
+      "source_sha256": "4fef70982504cd3f28a24cb22f4900dbb12c3be418a9a159679650232b821c6f",
+      "submitted_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-6.png",
+      "original_size": [
+        377,
+        812
+      ],
+      "submitted_size": [
+        377,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 61841,
+      "submitted_bytes": 61841,
+      "submitted_base64_bytes": 82456
+    },
+    {
+      "index": 6,
+      "source_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-7.png",
+      "source_sha256": "9178a8b5da5bf4a2e9468daf4269f47c9a107893836fdee8e05b8be7a373eb5c",
+      "submitted_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-7.png",
+      "original_size": [
+        377,
+        812
+      ],
+      "submitted_size": [
+        377,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 84837,
+      "submitted_bytes": 84837,
+      "submitted_base64_bytes": 113116
+    },
+    {
+      "index": 7,
+      "source_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-8.png",
+      "source_sha256": "54f201a8f2c0236dcf20f2a76444aed3d64422df40ead6124958289e241fc273",
+      "submitted_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-8.png",
+      "original_size": [
+        377,
+        812
+      ],
+      "submitted_size": [
+        377,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 72279,
+      "submitted_bytes": 72279,
+      "submitted_base64_bytes": 96372
+    },
+    {
+      "index": 8,
+      "source_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-9.png",
+      "source_sha256": "a8fc3152f4b83a13524e4710ddfdad5af8af829d49fdbaae237e949c00733bc8",
+      "submitted_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-9.png",
+      "original_size": [
+        376,
+        812
+      ],
+      "submitted_size": [
+        376,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 92490,
+      "submitted_bytes": 92490,
+      "submitted_base64_bytes": 123320
+    },
+    {
+      "index": 9,
+      "source_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-10.png",
+      "source_sha256": "e38b0817d703b0582e4ba136687c2f2f0713aa3656c62943ffda9eddef73eb35",
+      "submitted_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-10.png",
+      "original_size": [
+        376,
+        812
+      ],
+      "submitted_size": [
+        376,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 69484,
+      "submitted_bytes": 69484,
+      "submitted_base64_bytes": 92648
+    },
+    {
+      "index": 10,
+      "source_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-11.png",
+      "source_sha256": "9302cbdbb76bf9dee2efc08d21bd77bbddc2fc5704d2e1134caf990f22da4064",
+      "submitted_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-11.png",
+      "original_size": [
+        376,
+        812
+      ],
+      "submitted_size": [
+        376,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 54121,
+      "submitted_bytes": 54121,
+      "submitted_base64_bytes": 72164
+    },
+    {
+      "index": 11,
+      "source_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-12.png",
+      "source_sha256": "bab13d0e1a93f4b0c264aa6862f0fdeaad75a325fc1b0ee21cc6728a4f94111f",
+      "submitted_path": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/figma-frames/2005-12.png",
+      "original_size": [
+        377,
+        812
+      ],
+      "submitted_size": [
+        377,
+        812
+      ],
+      "resized": false,
+      "original_bytes": 35167,
+      "submitted_bytes": 35167,
+      "submitted_base64_bytes": 46892
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1920×4334",
+      "nodes": 286,
+      "max_depth": 7,
+      "instances": 51,
+      "texts": 112,
+      "images": 0,
+      "types": [
+        "text×112",
+        "frame×96",
+        "instance×51",
+        "vector×27"
+      ],
+      "names": [
+        "Header",
+        "FASCO wordmark",
+        "Nav Links",
+        "Home",
+        "Deals",
+        "New Arrivals"
+      ]
+    },
+    {
+      "name": "02_Shop",
+      "size": "1920×3258",
+      "nodes": 261,
+      "max_depth": 7,
+      "instances": 32,
+      "texts": 99,
+      "images": 0,
+      "types": [
+        "frame×114",
+        "text×99",
+        "instance×32",
+        "vector×16"
+      ],
+      "names": [
+        "Header",
+        "FASCO wordmark",
+        "Nav Links",
+        "Home",
+        "Shop",
+        "Products"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1920×2620",
+      "nodes": 82,
+      "max_depth": 5,
+      "instances": 12,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "text×32",
+        "frame×30",
+        "instance×12",
+        "vector×8"
+      ],
+      "names": [
+        "Header",
+        "FASCO",
+        "Nav Links",
+        "Home",
+        "Shop",
+        "Products"
+      ]
+    },
+    {
+      "name": "04_Mini_Cart",
+      "size": "1920×3600",
+      "nodes": 112,
+      "max_depth": 5,
+      "instances": 14,
+      "texts": 45,
+      "images": 0,
+      "types": [
+        "text×45",
+        "frame×44",
+        "instance×14",
+        "vector×9"
+      ],
+      "names": [
+        "Header",
+        "FASCO",
+        "Nav Links",
+        "Home",
+        "Shop",
+        "Products"
+      ]
+    },
+    {
+      "name": "05_Cart",
+      "size": "1920×1449",
+      "nodes": 80,
+      "max_depth": 6,
+      "instances": 8,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "text×35",
+        "frame×32",
+        "instance×8",
+        "vector×5"
+      ],
+      "names": [
+        "Header",
+        "FASCO wordmark",
+        "Nav Links",
+        "Home",
+        "Shop",
+        "Products"
+      ]
+    },
+    {
+      "name": "06_Checkout",
+      "size": "1920×1900",
+      "nodes": 140,
+      "max_depth": 7,
+      "instances": 9,
+      "texts": 60,
+      "images": 0,
+      "types": [
+        "frame×65",
+        "text×60",
+        "instance×9",
+        "vector×6"
+      ],
+      "names": [
+        "Header",
+        "FASCO wordmark",
+        "Nav Links",
+        "Home",
+        "Shop",
+        "Products"
+      ]
+    },
+    {
+      "name": "07_Sign_Up",
+      "size": "1920×1080",
+      "nodes": 46,
+      "max_depth": 7,
+      "instances": 3,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "frame×23",
+        "text×20",
+        "instance×3"
+      ],
+      "names": [
+        "Auth Card Container",
+        "Media",
+        "Photo_Sign_Up",
+        "Form Card Content",
+        "Card Header",
+        "FASCO wordmark"
+      ]
+    },
+    {
+      "name": "08_Sign_In",
+      "size": "1920×1080",
+      "nodes": 30,
+      "max_depth": 6,
+      "instances": 3,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "frame×14",
+        "text×13",
+        "instance×3"
+      ],
+      "names": [
+        "Auth Card Container",
+        "Media",
+        "Photo_Sign_In",
+        "Form Card Content",
+        "Card Header",
+        "FASCO wordmark"
+      ]
+    },
+    {
+      "name": "09_Forgot_Password",
+      "size": "1920×1080",
+      "nodes": 29,
+      "max_depth": 7,
+      "instances": 1,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "frame×15",
+        "text×13",
+        "instance×1"
+      ],
+      "names": [
+        "Auth Card Container",
+        "Media",
+        "Photo_Sign_In",
+        "Form Card Content",
+        "Card Header",
+        "FASCO wordmark"
+      ]
+    },
+    {
+      "name": "10_Confirmation_Code",
+      "size": "1920×1080",
+      "nodes": 16,
+      "max_depth": 6,
+      "instances": 1,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "frame×8",
+        "text×7",
+        "instance×1"
+      ],
+      "names": [
+        "Auth Card Container",
+        "Media",
+        "Photo_Sign_In",
+        "Form Card Content",
+        "Card Header",
+        "FASCO wordmark"
+      ]
+    },
+    {
+      "name": "11_New_Password",
+      "size": "1920×1080",
+      "nodes": 19,
+      "max_depth": 6,
+      "instances": 1,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "frame×10",
+        "text×8",
+        "instance×1"
+      ],
+      "names": [
+        "Auth Card Container",
+        "Media",
+        "Photo_Sign_In",
+        "Form Card Content",
+        "Card Header",
+        "FASCO wordmark"
+      ]
+    }
+  ]
+}

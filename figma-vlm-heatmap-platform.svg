@@ -1,0 +1,581 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1630" height="490"><rect width="1630" height="490" fill="white"/><g font-family="Helvetica Neue, PingFang SC, sans-serif" fill="#26332e">
+<text x="32" y="48" font-size="29" font-weight="bold">Figma 设计质量 · Model × Task</text>
+<text x="32" y="76" font-size="16" >VLM 原始分数 · 6 个模型 × 29 道题</text>
+<text x="235" y="111" font-size="19" font-weight="bold">Mobile · 19 题</text>
+<text x="235" y="147" font-size="13" >金融</text>
+<g><title>Investment Wallet · 加密资产钱包 · 50</title><rect x="235" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="255.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">50</text>
+</g>
+<g><title>Investment Wallet · 加密资产钱包 · 47</title><rect x="235" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="255.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Investment Wallet · 加密资产钱包 · 45</title><rect x="235" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="255.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Investment Wallet · 加密资产钱包 · 49</title><rect x="235" y="278" width="41" height="34" rx="4" fill="#237857"/>
+<text x="255.5" y="300" font-size="14" text-anchor="middle" font-weight="bold" fill="white">49</text>
+</g>
+<g><title>Investment Wallet · 加密资产钱包 · 41</title><rect x="235" y="317" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="255.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Investment Wallet · 加密资产钱包 · 42</title><rect x="235" y="356" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="255.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<text x="255" y="410" font-size="9" text-anchor="middle">10-001</text>
+<g><title>Stock Trading · 股票交易 · 48</title><rect x="279" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="299.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Stock Trading · 股票交易 · 47</title><rect x="279" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="299.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Stock Trading · 股票交易 · 44</title><rect x="279" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="299.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Stock Trading · 股票交易 · 44</title><rect x="279" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="299.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Stock Trading · 股票交易 · 40</title><rect x="279" y="317" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="299.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Stock Trading · 股票交易 · 33</title><rect x="279" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="299.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">33</text>
+</g>
+<text x="299" y="410" font-size="9" text-anchor="middle">10-003</text>
+<g><title>Expenio · 个人记账 · 49</title><rect x="323" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="343.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">49</text>
+</g>
+<g><title>Expenio · 个人记账 · 46</title><rect x="323" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="343.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Expenio · 个人记账 · 46</title><rect x="323" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="343.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Expenio · 个人记账 · 44</title><rect x="323" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="343.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Expenio · 个人记账 · 46</title><rect x="323" y="317" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="343.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Expenio · 个人记账 · 42</title><rect x="323" y="356" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="343.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<text x="343" y="410" font-size="9" text-anchor="middle">10-005</text>
+<g><title>Payment Wallet · 支付钱包 · 52</title><rect x="367" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="387.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">52</text>
+</g>
+<g><title>Payment Wallet · 支付钱包 · 50</title><rect x="367" y="200" width="41" height="34" rx="4" fill="#237857"/>
+<text x="387.5" y="222" font-size="14" text-anchor="middle" font-weight="bold" fill="white">50</text>
+</g>
+<g><title>Payment Wallet · 支付钱包 · 45</title><rect x="367" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="387.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Payment Wallet · 支付钱包 · 48</title><rect x="367" y="278" width="41" height="34" rx="4" fill="#237857"/>
+<text x="387.5" y="300" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Payment Wallet · 支付钱包 · 43</title><rect x="367" y="317" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="387.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Payment Wallet · 支付钱包 · 38</title><rect x="367" y="356" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="387.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<text x="387" y="410" font-size="9" text-anchor="middle">10-006</text>
+<g><title>Vulcan Invest · 银行与股票投资 · 45</title><rect x="411" y="161" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="431.5" y="183" font-size="14" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Vulcan Invest · 银行与股票投资 · 41</title><rect x="411" y="200" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="431.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Vulcan Invest · 银行与股票投资 · 43</title><rect x="411" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="431.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Vulcan Invest · 银行与股票投资 · 36</title><rect x="411" y="278" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="431.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<g><title>Vulcan Invest · 银行与股票投资 · 38</title><rect x="411" y="317" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="431.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<g><title>Vulcan Invest · 银行与股票投资 · 30</title><rect x="411" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="431.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">30</text>
+</g>
+<text x="431" y="410" font-size="9" text-anchor="middle">10-007</text>
+<g><title>Budget · 预算、账单与信用分 · 48</title><rect x="455" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="475.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Budget · 预算、账单与信用分 · 45</title><rect x="455" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="475.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Budget · 预算、账单与信用分 · 40</title><rect x="455" y="239" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="475.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Budget · 预算、账单与信用分 · 47</title><rect x="455" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="475.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Budget · 预算、账单与信用分 · 44</title><rect x="455" y="317" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="475.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Budget · 预算、账单与信用分 · 31</title><rect x="455" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="475.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">31</text>
+</g>
+<text x="475" y="410" font-size="9" text-anchor="middle">10-010</text>
+<g><title>Balance · 个人理财 · 48</title><rect x="499" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="519.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Balance · 个人理财 · 42</title><rect x="499" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="519.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>Balance · 个人理财 · 36</title><rect x="499" y="239" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="519.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<g><title>Balance · 个人理财 · 32</title><rect x="499" y="278" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="519.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">32</text>
+</g>
+<g><title>Balance · 个人理财 · 33</title><rect x="499" y="317" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="519.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">33</text>
+</g>
+<g><title>Balance · 个人理财 · 35</title><rect x="499" y="356" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="519.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">35</text>
+</g>
+<text x="519" y="410" font-size="9" text-anchor="middle">3-001</text>
+<g><title>Paradise Invest · 投资理财 · 47</title><rect x="543" y="161" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="563.5" y="183" font-size="14" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Paradise Invest · 投资理财 · 45</title><rect x="543" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="563.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Paradise Invest · 投资理财 · 40</title><rect x="543" y="239" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="563.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Paradise Invest · 投资理财 · 44</title><rect x="543" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="563.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Paradise Invest · 投资理财 · 40</title><rect x="543" y="317" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="563.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Paradise Invest · 投资理财 · 39</title><rect x="543" y="356" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="563.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">39</text>
+</g>
+<text x="563" y="410" font-size="9" text-anchor="middle">3-002</text>
+<g><title>StockWave · 股票交易 · 45</title><rect x="587" y="161" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="607.5" y="183" font-size="14" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>StockWave · 股票交易 · 42</title><rect x="587" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="607.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>StockWave · 股票交易 · 44</title><rect x="587" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="607.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>StockWave · 股票交易 · 40</title><rect x="587" y="278" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="607.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>StockWave · 股票交易 · 39</title><rect x="587" y="317" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="607.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">39</text>
+</g>
+<g><title>StockWave · 股票交易 · 40</title><rect x="587" y="356" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="607.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<text x="607" y="410" font-size="9" text-anchor="middle">6-001</text>
+<g><title>FinX · 移动银行与交易 · 44</title><rect x="631" y="161" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="651.5" y="183" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>FinX · 移动银行与交易 · 39</title><rect x="631" y="200" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="651.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">39</text>
+</g>
+<g><title>FinX · 移动银行与交易 · 35</title><rect x="631" y="239" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="651.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">35</text>
+</g>
+<g><title>FinX · 移动银行与交易 · 33</title><rect x="631" y="278" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="651.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">33</text>
+</g>
+<g><title>FinX · 移动银行与交易 · 36</title><rect x="631" y="317" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="651.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<g><title>FinX · 移动银行与交易 · 40</title><rect x="631" y="356" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="651.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<text x="651" y="410" font-size="9" text-anchor="middle">6-005</text>
+<text x="681" y="147" font-size="13" >购物与餐饮</text>
+<g><title>Foodgo · 餐饮点单 · 46</title><rect x="681" y="161" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="701.5" y="183" font-size="14" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Foodgo · 餐饮点单 · 37</title><rect x="681" y="200" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="701.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">37</text>
+</g>
+<g><title>Foodgo · 餐饮点单 · 41</title><rect x="681" y="239" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="701.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Foodgo · 餐饮点单 · 38</title><rect x="681" y="278" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="701.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<g><title>Foodgo · 餐饮点单 · 38</title><rect x="681" y="317" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="701.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<g><title>Foodgo · 餐饮点单 · 36</title><rect x="681" y="356" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="701.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<text x="701" y="410" font-size="9" text-anchor="middle">3-003</text>
+<g><title>Nectar · 生鲜杂货购物 · 47</title><rect x="725" y="161" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="745.5" y="183" font-size="14" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Nectar · 生鲜杂货购物 · 46</title><rect x="725" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="745.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Nectar · 生鲜杂货购物 · 38</title><rect x="725" y="239" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="745.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<g><title>Nectar · 生鲜杂货购物 · 44</title><rect x="725" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="745.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Nectar · 生鲜杂货购物 · 41</title><rect x="725" y="317" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="745.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Nectar · 生鲜杂货购物 · 38</title><rect x="725" y="356" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="745.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<text x="745" y="410" font-size="9" text-anchor="middle">6-002</text>
+<g><title>Stylish · 时尚购物 · 42</title><rect x="769" y="161" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="789.5" y="183" font-size="14" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>Stylish · 时尚购物 · 36</title><rect x="769" y="200" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="789.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<g><title>Stylish · 时尚购物 · 35</title><rect x="769" y="239" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="789.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">35</text>
+</g>
+<g><title>Stylish · 时尚购物 · 35</title><rect x="769" y="278" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="789.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">35</text>
+</g>
+<g><title>Stylish · 时尚购物 · 31</title><rect x="769" y="317" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="789.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">31</text>
+</g>
+<g><title>Stylish · 时尚购物 · 29</title><rect x="769" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="789.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">29</text>
+</g>
+<text x="789" y="410" font-size="9" text-anchor="middle">6-003</text>
+<g><title>Fruit Hub · 餐饮点单 · 49</title><rect x="813" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="833.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">49</text>
+</g>
+<g><title>Fruit Hub · 餐饮点单 · 44</title><rect x="813" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="833.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Fruit Hub · 餐饮点单 · 42</title><rect x="813" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="833.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>Fruit Hub · 餐饮点单 · 41</title><rect x="813" y="278" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="833.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Fruit Hub · 餐饮点单 · 44</title><rect x="813" y="317" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="833.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Fruit Hub · 餐饮点单 · 44</title><rect x="813" y="356" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="833.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<text x="833" y="410" font-size="9" text-anchor="middle">6-006</text>
+<text x="863" y="147" font-size="10" >工具与效率</text>
+<g><title>Chat Bot AI · AI 对话助手 · 51</title><rect x="863" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="883.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">51</text>
+</g>
+<g><title>Chat Bot AI · AI 对话助手 · 46</title><rect x="863" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="883.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Chat Bot AI · AI 对话助手 · 38</title><rect x="863" y="239" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="883.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<g><title>Chat Bot AI · AI 对话助手 · 44</title><rect x="863" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="883.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Chat Bot AI · AI 对话助手 · 40</title><rect x="863" y="317" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="883.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Chat Bot AI · AI 对话助手 · 42</title><rect x="863" y="356" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="883.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<text x="883" y="410" font-size="9" text-anchor="middle">6-004</text>
+<text x="913" y="147" font-size="13" >健康健身</text>
+<g><title>Fitness App · 训练与活动追踪 · 51</title><rect x="913" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="933.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">51</text>
+</g>
+<g><title>Fitness App · 训练与活动追踪 · 48</title><rect x="913" y="200" width="41" height="34" rx="4" fill="#237857"/>
+<text x="933.5" y="222" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Fitness App · 训练与活动追踪 · 46</title><rect x="913" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="933.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Fitness App · 训练与活动追踪 · 43</title><rect x="913" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="933.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Fitness App · 训练与活动追踪 · 27</title><rect x="913" y="317" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="933.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">27</text>
+</g>
+<g><title>Fitness App · 训练与活动追踪 · 33</title><rect x="913" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="933.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">33</text>
+</g>
+<text x="933" y="410" font-size="9" text-anchor="middle">10-008</text>
+<g><title>Workout Class · 健身课程与活动追踪 · 50</title><rect x="957" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="977.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">50</text>
+</g>
+<g><title>Workout Class · 健身课程与活动追踪 · 45</title><rect x="957" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="977.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Workout Class · 健身课程与活动追踪 · 43</title><rect x="957" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="977.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Workout Class · 健身课程与活动追踪 · 44</title><rect x="957" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="977.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Workout Class · 健身课程与活动追踪 · 43</title><rect x="957" y="317" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="977.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Workout Class · 健身课程与活动追踪 · 40</title><rect x="957" y="356" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="977.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<text x="977" y="410" font-size="9" text-anchor="middle">10-009</text>
+<text x="1007" y="147" font-size="10" >旅行</text>
+<g><title>Travelin · 旅行预订 · 53</title><rect x="1007" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1027.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">53</text>
+</g>
+<g><title>Travelin · 旅行预订 · 51</title><rect x="1007" y="200" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1027.5" y="222" font-size="14" text-anchor="middle" font-weight="bold" fill="white">51</text>
+</g>
+<g><title>Travelin · 旅行预订 · 52</title><rect x="1007" y="239" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1027.5" y="261" font-size="14" text-anchor="middle" font-weight="bold" fill="white">52</text>
+</g>
+<g><title>Travelin · 旅行预订 · 50</title><rect x="1007" y="278" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1027.5" y="300" font-size="14" text-anchor="middle" font-weight="bold" fill="white">50</text>
+</g>
+<g><title>Travelin · 旅行预订 · 44</title><rect x="1007" y="317" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1027.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Travelin · 旅行预订 · 37</title><rect x="1007" y="356" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1027.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">37</text>
+</g>
+<text x="1027" y="410" font-size="9" text-anchor="middle">10-002</text>
+<text x="1057" y="147" font-size="10" >社交</text>
+<g><title>Meet · 约会与社交 · 51</title><rect x="1057" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1077.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">51</text>
+</g>
+<g><title>Meet · 约会与社交 · 49</title><rect x="1057" y="200" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1077.5" y="222" font-size="14" text-anchor="middle" font-weight="bold" fill="white">49</text>
+</g>
+<g><title>Meet · 约会与社交 · 39</title><rect x="1057" y="239" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1077.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">39</text>
+</g>
+<g><title>Meet · 约会与社交 · 40</title><rect x="1057" y="278" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1077.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Meet · 约会与社交 · 47</title><rect x="1057" y="317" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1077.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Meet · 约会与社交 · 36</title><rect x="1057" y="356" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1077.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<text x="1077" y="410" font-size="9" text-anchor="middle">10-004</text>
+<text x="1125" y="111" font-size="19" font-weight="bold">Web · 10 题</text>
+<text x="1125" y="147" font-size="13" >购物与餐饮</text>
+<g><title>Furniro · 家具电商 · 46</title><rect x="1125" y="161" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1145.5" y="183" font-size="14" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Furniro · 家具电商 · 34</title><rect x="1125" y="200" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="1145.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">34</text>
+</g>
+<g><title>Furniro · 家具电商 · 37</title><rect x="1125" y="239" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1145.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">37</text>
+</g>
+<g><title>Furniro · 家具电商 · 45</title><rect x="1125" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1145.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Furniro · 家具电商 · 34</title><rect x="1125" y="317" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="1145.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">34</text>
+</g>
+<g><title>Furniro · 家具电商 · 29</title><rect x="1125" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="1145.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">29</text>
+</g>
+<text x="1145" y="410" font-size="9" text-anchor="middle">W-001</text>
+<g><title>Fasco · 时尚电商 · 48</title><rect x="1169" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1189.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Fasco · 时尚电商 · 37</title><rect x="1169" y="200" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1189.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">37</text>
+</g>
+<g><title>Fasco · 时尚电商 · 40</title><rect x="1169" y="239" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1189.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Fasco · 时尚电商 · 41</title><rect x="1169" y="278" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1189.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Fasco · 时尚电商 · 30</title><rect x="1169" y="317" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="1189.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">30</text>
+</g>
+<g><title>Fasco · 时尚电商 · 27</title><rect x="1169" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="1189.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">27</text>
+</g>
+<text x="1189" y="410" font-size="9" text-anchor="middle">W-003</text>
+<g><title>Shop.co · 时尚电商 · 51</title><rect x="1213" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1233.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">51</text>
+</g>
+<g><title>Shop.co · 时尚电商 · 49</title><rect x="1213" y="200" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1233.5" y="222" font-size="14" text-anchor="middle" font-weight="bold" fill="white">49</text>
+</g>
+<g><title>Shop.co · 时尚电商 · 45</title><rect x="1213" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1233.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">45</text>
+</g>
+<g><title>Shop.co · 时尚电商 · 48</title><rect x="1213" y="278" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1233.5" y="300" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Shop.co · 时尚电商 · 40</title><rect x="1213" y="317" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1233.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">40</text>
+</g>
+<g><title>Shop.co · 时尚电商 · 28</title><rect x="1213" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="1233.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">28</text>
+</g>
+<text x="1233" y="410" font-size="9" text-anchor="middle">W-004</text>
+<g><title>Foodwagon · 外卖落地页 · 50</title><rect x="1257" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1277.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">50</text>
+</g>
+<g><title>Foodwagon · 外卖落地页 · 49</title><rect x="1257" y="200" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1277.5" y="222" font-size="14" text-anchor="middle" font-weight="bold" fill="white">49</text>
+</g>
+<g><title>Foodwagon · 外卖落地页 · 43</title><rect x="1257" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1277.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Foodwagon · 外卖落地页 · 46</title><rect x="1257" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1277.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">46</text>
+</g>
+<g><title>Foodwagon · 外卖落地页 · 48</title><rect x="1257" y="317" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1277.5" y="339" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Foodwagon · 外卖落地页 · 30</title><rect x="1257" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="1277.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">30</text>
+</g>
+<text x="1277" y="410" font-size="9" text-anchor="middle">W-007</text>
+<text x="1307" y="147" font-size="13" >内容与展示</text>
+<g><title>Foodieland · 食谱与美食博客 · 51</title><rect x="1307" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1327.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">51</text>
+</g>
+<g><title>Foodieland · 食谱与美食博客 · 47</title><rect x="1307" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1327.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Foodieland · 食谱与美食博客 · 44</title><rect x="1307" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1327.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Foodieland · 食谱与美食博客 · 42</title><rect x="1307" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1327.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>Foodieland · 食谱与美食博客 · 48</title><rect x="1307" y="317" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1327.5" y="339" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Foodieland · 食谱与美食博客 · 36</title><rect x="1307" y="356" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1327.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">36</text>
+</g>
+<text x="1327" y="410" font-size="9" text-anchor="middle">W-002</text>
+<g><title>Northgate Homes · 房地产网站 · 48</title><rect x="1351" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1371.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Northgate Homes · 房地产网站 · 48</title><rect x="1351" y="200" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1371.5" y="222" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Northgate Homes · 房地产网站 · 42</title><rect x="1351" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1371.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>Northgate Homes · 房地产网站 · 39</title><rect x="1351" y="278" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1371.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">39</text>
+</g>
+<g><title>Northgate Homes · 房地产网站 · 44</title><rect x="1351" y="317" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1371.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">44</text>
+</g>
+<g><title>Northgate Homes · 房地产网站 · 33</title><rect x="1351" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="1371.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">33</text>
+</g>
+<text x="1371" y="410" font-size="9" text-anchor="middle">W-005</text>
+<g><title>MAC Agency · 营销机构落地页 · 48</title><rect x="1395" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1415.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>MAC Agency · 营销机构落地页 · 47</title><rect x="1395" y="200" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1415.5" y="222" font-size="14" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>MAC Agency · 营销机构落地页 · 38</title><rect x="1395" y="239" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1415.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">38</text>
+</g>
+<g><title>MAC Agency · 营销机构落地页 · 47</title><rect x="1395" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1415.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>MAC Agency · 营销机构落地页 · 42</title><rect x="1395" y="317" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1415.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">42</text>
+</g>
+<g><title>MAC Agency · 营销机构落地页 · 32</title><rect x="1395" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="1415.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">32</text>
+</g>
+<text x="1415" y="410" font-size="9" text-anchor="middle">W-008</text>
+<g><title>Deniz Arslan 3D Portfolio · 3D 艺术作品集 · 50</title><rect x="1439" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1459.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">50</text>
+</g>
+<g><title>Deniz Arslan 3D Portfolio · 3D 艺术作品集 · 48</title><rect x="1439" y="200" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1459.5" y="222" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Deniz Arslan 3D Portfolio · 3D 艺术作品集 · 47</title><rect x="1439" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1459.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">47</text>
+</g>
+<g><title>Deniz Arslan 3D Portfolio · 3D 艺术作品集 · 43</title><rect x="1439" y="278" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1459.5" y="300" font-size="14" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Deniz Arslan 3D Portfolio · 3D 艺术作品集 · 48</title><rect x="1439" y="317" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1459.5" y="339" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Deniz Arslan 3D Portfolio · 3D 艺术作品集 · 37</title><rect x="1439" y="356" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1459.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">37</text>
+</g>
+<text x="1459" y="410" font-size="9" text-anchor="middle">W-009</text>
+<g><title>ABM Developer Portfolio · 开发者作品集 · 53</title><rect x="1483" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1503.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">53</text>
+</g>
+<g><title>ABM Developer Portfolio · 开发者作品集 · 49</title><rect x="1483" y="200" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1503.5" y="222" font-size="14" text-anchor="middle" font-weight="bold" fill="white">49</text>
+</g>
+<g><title>ABM Developer Portfolio · 开发者作品集 · 51</title><rect x="1483" y="239" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1503.5" y="261" font-size="14" text-anchor="middle" font-weight="bold" fill="white">51</text>
+</g>
+<g><title>ABM Developer Portfolio · 开发者作品集 · 53</title><rect x="1483" y="278" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1503.5" y="300" font-size="14" text-anchor="middle" font-weight="bold" fill="white">53</text>
+</g>
+<g><title>ABM Developer Portfolio · 开发者作品集 · 52</title><rect x="1483" y="317" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1503.5" y="339" font-size="14" text-anchor="middle" font-weight="bold" fill="white">52</text>
+</g>
+<g><title>ABM Developer Portfolio · 开发者作品集 · 0</title><rect x="1483" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="1503.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">0</text>
+</g>
+<text x="1503" y="410" font-size="9" text-anchor="middle">W-010</text>
+<text x="1533" y="147" font-size="10" >工具与效率</text>
+<g><title>Octom · 团队任务管理 · 50</title><rect x="1533" y="161" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1553.5" y="183" font-size="14" text-anchor="middle" font-weight="bold" fill="white">50</text>
+</g>
+<g><title>Octom · 团队任务管理 · 48</title><rect x="1533" y="200" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1553.5" y="222" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Octom · 团队任务管理 · 43</title><rect x="1533" y="239" width="41" height="34" rx="4" fill="#75B6A0"/>
+<text x="1553.5" y="261" font-size="14" text-anchor="middle" font-weight="bold">43</text>
+</g>
+<g><title>Octom · 团队任务管理 · 48</title><rect x="1533" y="278" width="41" height="34" rx="4" fill="#237857"/>
+<text x="1553.5" y="300" font-size="14" text-anchor="middle" font-weight="bold" fill="white">48</text>
+</g>
+<g><title>Octom · 团队任务管理 · 41</title><rect x="1533" y="317" width="41" height="34" rx="4" fill="#E4C570"/>
+<text x="1553.5" y="339" font-size="14" text-anchor="middle" font-weight="bold">41</text>
+</g>
+<g><title>Octom · 团队任务管理 · 29</title><rect x="1533" y="356" width="41" height="34" rx="4" fill="#DE927F"/>
+<text x="1553.5" y="378" font-size="14" text-anchor="middle" font-weight="bold">29</text>
+</g>
+<text x="1553" y="410" font-size="9" text-anchor="middle">W-006</text>
+<text x="32" y="183" font-size="15" font-weight="bold">Opus 5.5（三方A）</text>
+<text x="32" y="222" font-size="15" font-weight="bold">gpt-6-astra</text>
+<text x="32" y="261" font-size="15" font-weight="bold">Fable 5.1</text>
+<text x="32" y="300" font-size="15" font-weight="bold">GLM-5.3 Flash</text>
+<text x="32" y="339" font-size="15" font-weight="bold">Kimi K3</text>
+<text x="32" y="378" font-size="15" font-weight="bold">Gemini 3.5 Flash</text>
+<rect x="235" y="438" width="16" height="16" rx="3" fill="#DE927F"/>
+<text x="257" y="451" font-size="13" >0–34</text>
+<rect x="323" y="438" width="16" height="16" rx="3" fill="#E4C570"/>
+<text x="345" y="451" font-size="13" >35–41</text>
+<rect x="411" y="438" width="16" height="16" rx="3" fill="#75B6A0"/>
+<text x="433" y="451" font-size="13" >42–47</text>
+<rect x="499" y="438" width="16" height="16" rx="3" fill="#237857"/>
+<text x="521" y="451" font-size="13" >≥48</text>
+<text x="640" y="451" font-size="13" >列标签为批次与题号 · 悬停查看题名和细分类型</text>
+</g></svg>

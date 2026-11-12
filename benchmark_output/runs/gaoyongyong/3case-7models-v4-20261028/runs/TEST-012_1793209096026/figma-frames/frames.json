@@ -1,0 +1,42 @@
+[
+  {
+    "node_id": "2010:2",
+    "name": "01_Splash",
+    "file": "2010-2.png"
+  },
+  {
+    "node_id": "2010:19",
+    "name": "02_Welcome",
+    "file": "2010-19.png"
+  },
+  {
+    "node_id": "2010:43",
+    "name": "03_Create_Account_Empty",
+    "file": "2010-43.png"
+  },
+  {
+    "node_id": "2011:36",
+    "name": "03_Create_Account_Filled",
+    "file": "2011-36.png"
+  },
+  {
+    "node_id": "2011:71",
+    "name": "03_Create_Account_Error",
+    "file": "2011-71.png"
+  },
+  {
+    "node_id": "2016:85",
+    "name": "04_Home",
+    "file": "2016-85.png"
+  },
+  {
+    "node_id": "2017:175",
+    "name": "05_My_Asset_Overlay",
+    "file": "2017-175.png"
+  },
+  {
+    "node_id": "2020:303",
+    "name": "06_Notification",
+    "file": "2020-303.png"
+  }
+]

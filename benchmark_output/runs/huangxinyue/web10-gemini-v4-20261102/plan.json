@@ -1,0 +1,103 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "web10-gemini-v4-20261102",
+  "dataset_hash": "b83fde03db52ac2b74c9313006fd4739b3adee017671d593d51f4c0892f804b2",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_gemini_31_pro_cc",
+      "name": "Gemini 3.5 Flash",
+      "provider": "TokenHub / Gemini",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "gemini-3.5-flash",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 1,
+      "vision": 1,
+      "generation_mode": "cc"
+    }
+  ],
+  "case_count": 10,
+  "assignment_count": 10,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 1,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_f4666ddb8dea0efe9fc1",
+      "case_id": "case-001",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_fcb5609fad60ad3f35c4",
+      "case_id": "case-002",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_7b7279bf6e38ac6b3c23",
+      "case_id": "case-003",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_1d7bb76cf6e56b299dfd",
+      "case_id": "case-004",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_cb979d080196272eaf8f",
+      "case_id": "case-005",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_425e866d917218d3bff2",
+      "case_id": "case-006",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_ac27e9a6659ccd71602f",
+      "case_id": "case-007",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_3e488cfe13b947026138",
+      "case_id": "case-008",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_65844a945bd68f4867c6",
+      "case_id": "case-009",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_e3d983be95d0b0cf3ab7",
+      "case_id": "case-010",
+      "model_id": "model_gemini_31_pro_cc"
+    }
+  ],
+  "content_hash": "3c7cef63092a35a1d488bfc555121bbdaf1e97cac9a2f077db74b678902bd676"
+}

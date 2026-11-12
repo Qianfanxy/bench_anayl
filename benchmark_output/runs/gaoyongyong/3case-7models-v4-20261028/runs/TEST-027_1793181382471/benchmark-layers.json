@@ -1,0 +1,280 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "414×932",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 2,
+      "texts": 1,
+      "images": 1,
+      "types": [
+        "rectangle×7",
+        "instance×2",
+        "frame×2",
+        "rectangle-image×1",
+        "text×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Rectangle",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "02_Welcome",
+      "size": "414×932",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 5,
+      "images": 1,
+      "types": [
+        "rectangle×7",
+        "text×5",
+        "instance×3",
+        "frame×3",
+        "ellipse×1",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Empty",
+      "size": "414×932",
+      "nodes": 31,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "instance×7",
+        "rectangle×7",
+        "frame×6",
+        "ellipse×1",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Filled",
+      "size": "414×932",
+      "nodes": 31,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "instance×7",
+        "rectangle×7",
+        "frame×6",
+        "ellipse×1",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Error",
+      "size": "414×932",
+      "nodes": 32,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "text×10",
+        "instance×7",
+        "rectangle×7",
+        "frame×6",
+        "ellipse×1",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "414×932",
+      "nodes": 79,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 26,
+      "images": 5,
+      "types": [
+        "text×26",
+        "rectangle×17",
+        "vector×11",
+        "instance×10",
+        "group×7",
+        "rectangle-image×5"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "05_My_Asset_Overlay",
+      "size": "414×932",
+      "nodes": 55,
+      "max_depth": 4,
+      "instances": 4,
+      "texts": 26,
+      "images": 1,
+      "types": [
+        "text×26",
+        "rectangle×15",
+        "frame×4",
+        "instance×4",
+        "group×2",
+        "vector×2"
+      ],
+      "names": [
+        "Rectangle",
+        "Sheet",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "06_Notification",
+      "size": "414×932",
+      "nodes": 31,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 8,
+      "images": 2,
+      "types": [
+        "rectangle×10",
+        "text×8",
+        "frame×4",
+        "instance×3",
+        "ellipse×3",
+        "rectangle-image×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "07_Profile",
+      "size": "414×932",
+      "nodes": 73,
+      "max_depth": 3,
+      "instances": 16,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "vector×15",
+        "rectangle×14",
+        "text×13",
+        "group×9",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "08_Contact_Info",
+      "size": "414×932",
+      "nodes": 47,
+      "max_depth": 4,
+      "instances": 4,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "rectangle×13",
+        "frame×5",
+        "instance×4",
+        "ellipse×3",
+        "vector×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "09_Bank_Account_Info",
+      "size": "414×932",
+      "nodes": 39,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 9,
+      "images": 2,
+      "types": [
+        "text×9",
+        "rectangle×9",
+        "vector×7",
+        "instance×5",
+        "frame×4",
+        "rectangle-image×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    }
+  ]
+}

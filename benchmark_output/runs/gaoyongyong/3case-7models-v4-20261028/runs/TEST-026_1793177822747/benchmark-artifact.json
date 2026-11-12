@@ -1,0 +1,504 @@
+{
+  "file_key": "LoWw4yZnsmEbrzRZ2AMTxG",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 9
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "2003:2",
+      "name": "03 · Workspace",
+      "child_count": 17
+    }
+  ],
+  "workspace": {
+    "id": "2003:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "2006:2",
+        "name": "Lib · Source Assets (cloned)",
+        "type": "FRAME",
+        "x": -1700,
+        "y": -300,
+        "width": 4457,
+        "height": 231,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "2007:6",
+        "name": "Nav / Tab Bar",
+        "type": "COMPONENT",
+        "x": -1700,
+        "y": 600,
+        "width": 375,
+        "height": 64,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "2007:36",
+        "name": "Home / View Switch",
+        "type": "COMPONENT",
+        "x": -1700,
+        "y": 700,
+        "width": 327,
+        "height": 40,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "2007:46",
+        "name": "Home / Account Header",
+        "type": "COMPONENT",
+        "x": -1700,
+        "y": 760,
+        "width": 327,
+        "height": 44,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "2007:68",
+        "name": "List / Transaction Row",
+        "type": "COMPONENT",
+        "x": -1700,
+        "y": 830,
+        "width": 327,
+        "height": 56,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "2007:84",
+        "name": "List / Bill Card",
+        "type": "COMPONENT",
+        "x": -1700,
+        "y": 910,
+        "width": 327,
+        "height": 104,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "2008:60",
+        "name": "03_Home_My_Balance",
+        "type": "FRAME",
+        "x": 900,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 19,
+        "reaction_count": 4
+      },
+      {
+        "id": "2012:183",
+        "name": "01_Sign_Up",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 7,
+        "reaction_count": 1
+      },
+      {
+        "id": "2012:222",
+        "name": "02_OTP",
+        "type": "FRAME",
+        "x": 450,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 4,
+        "reaction_count": 2
+      },
+      {
+        "id": "2016:224",
+        "name": "04_Home_Upcoming_Bills",
+        "type": "FRAME",
+        "x": 1350,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 20,
+        "reaction_count": 2
+      },
+      {
+        "id": "2016:488",
+        "name": "05_Home_Transactions",
+        "type": "FRAME",
+        "x": 1800,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 26,
+        "reaction_count": 2
+      },
+      {
+        "id": "2019:412",
+        "name": "07_Cards",
+        "type": "FRAME",
+        "x": 2250,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 30,
+        "reaction_count": 2
+      },
+      {
+        "id": "2020:529",
+        "name": "08_Profile",
+        "type": "FRAME",
+        "x": 2700,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 27,
+        "reaction_count": 1
+      },
+      {
+        "id": "2022:689",
+        "name": "09_Analytics",
+        "type": "FRAME",
+        "x": 3150,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 23,
+        "reaction_count": 1
+      },
+      {
+        "id": "2023:734",
+        "name": "10_Markets",
+        "type": "FRAME",
+        "x": 0,
+        "y": 900,
+        "width": 375,
+        "height": 812,
+        "text_count": 37,
+        "reaction_count": 1
+      },
+      {
+        "id": "2024:806",
+        "name": "11_Send",
+        "type": "FRAME",
+        "x": 450,
+        "y": 900,
+        "width": 375,
+        "height": 812,
+        "text_count": 18,
+        "reaction_count": 2
+      },
+      {
+        "id": "2024:873",
+        "name": "06_Discussion_Forum",
+        "type": "FRAME",
+        "x": 900,
+        "y": 900,
+        "width": 375,
+        "height": 812,
+        "text_count": 18,
+        "reaction_count": 1
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nBalance — personal finance app\nDesign the complete Balance mobile app: a personal finance app where Esaaa Warden signs up with a phone number, checks the balance, upcoming bills and transactions, manages cards and crypto assets, reads income analytics, follows a coin price, sends money to a contact and browses a community forum.\nCanvas 375 × 812, light mode only. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 11 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / error / warning / disabled, chart colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the main navigation and every business component as reusable components in your file.\n5. Use logos, card artwork, flags and icons from 04 · Media. People have no photos: use Avatar_Neutral or initials.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Sign_Up\nGoal: Start registration with a phone number.\nMUST INCLUDE\n• Actions: Continue\n• Copy: “Sign up” · “Sign up with phone number” · “A code will be sent to your number”\n• Legal: “By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use.” (Terms of Service and Privacy Policy are links)\n• Phone: country code +62 (Flag_Indonesia, changeable) · number 858 2409 3560\nLINKS\n→ Continue → 02_OTP\n02_OTP\nGoal: Verify the phone number with a 4-digit code.\nMUST INCLUDE\n• Actions: back · Resend code · Continue\n• Code: 4 digits, none entered yet\n• Copy: “OTP” · “Enter code”\n• Legal: same text as 01_Sign_Up\nLINKS\n→ back → 01_Sign_Up\n→ Continue → 03_Home_My_Balance\n03_Home_My_Balance\nGoal: See the total balance at a glance and start money actions.\nMUST INCLUDE\n• Account: avatar · “Hi, Esaaa!” · messages entry · notifications entry\n• Actions: Send · Receive · Add\n• Balance: “Your Balance” $190,008.03 · +8% · currency USD (Flag_USA, changeable)\n• Main navigation: current tab Home\n• Spending: “Financial health” · “Latest 7 days” · daily spend Mon–Sun with values on a 10K–50K scale · entry to details\n• Transfer list: “Transfer list” · add contact · 5 contacts\n• View: switch between My Balance / Upcoming Bills / Transactions · current: My Balance\nLINKS\n→ Upcoming Bills → 04_Home_Upcoming_Bills\n→ Transactions → 05_Home_Transactions\n→ Send → 11_Send\n→ contact Bessie Cooper → 11_Send\n→ Financial health details → 09_Analytics\n→ messages entry → 06_Discussion_Forum\n→ tabs → 03 / 09 / 07 / 08\n04_Home_Upcoming_Bills\nGoal: Review upcoming subscription bills and pay one.\nMUST INCLUDE\n• Account: same as 03\n• Bill actions: Add · Edit · Delete\n• Bills: “Upcoming Bills” · 3 bills, soonest due first, each with logo, name, amount, due date, cycle, category and Pay now\n• Main navigation: current tab Home\n• View: same switch as 03 · current: Upcoming Bills\nLINKS\n→ My Balance → 03\n→ Transactions → 05\n→ tabs\n05_Home_Transactions\nGoal: Scan recent money movement.\nMUST INCLUDE\n• Account: same as 03\n• Main navigation: current tab Home\n• Transactions: “Transactions” · 6 transactions, newest first, each with logo, type, date and signed amount (+ money in, − money out)\n• View: same switch as 03 · current: Transactions\nLINKS\n→ My Balance → 03\n→ Upcoming Bills → 04\n→ tabs\n06_Discussion_Forum\nGoal: Browse community finance discussions.\nMUST INCLUDE\n• Actions: back · messages entry · notifications entry\n• Copy: “Discussion Forum”\n• Posts: 2 posts, each with avatar, name, verified badge, topic, date and time, body, comment / like / dislike counts and a more menu · the user has liked Devon Lane’s post\n• Search & filter: search “Search...” · Filter\n• Topics: Personal Finance / Investments / Cryptocurrencies · current: Personal Finance\nLINKS\n→ back → 03_Home_My_Balance\n07_Cards\nGoal: See the primary card and crypto assets.\nMUST INCLUDE\n• Actions: back · avatar · more menu · Add Card\n• Assets: “Assets” · Solana / Bitcoin / Ethereum with ticker and value\n• Card: primary card (Card_Art_Green, Esaaa Warden, **** **** **** 3447, Exp 09/24)\n• Copy: “Cards”\n• Main navigation: current tab Cards\n• Transactions: latest 3\nLINKS\n→ back → 03\n→ Bitcoin → 10_Markets\n→ tabs\n08_Profile\nGoal: See account identity, all cards and recent activity.\nMUST INCLUDE\n• Account: Esaaa Warden · avatar · primary card number · edit profile entry\n• Actions: back · messages entry · notifications entry · more menu\n• Cards: “Your Cards” · all 3 cards\n• Copy: “Profile”\n• Main navigation: current tab Profile\n• Transactions: “Transactions” · See all · latest 3\nLINKS\n→ See all → 05_Home_Transactions\n→ tabs\n09_Analytics\nGoal: Understand income vs expenses and where income comes from.\nMUST INCLUDE\n• Actions: back · avatar · more menu\n• Copy: “Analytics”\n• Income breakdown chart: Sales $15,190.00 · 52% / Investment $11,451.03 · 39% / Other $2,590.00 · 9% · headline share “52%”\n• Main navigation: current tab Analytics\n• Period: “Monthly” (changeable)\n• Totals: Total income $29,231.03 · Total expenses $1,999.00\n• View: Income / Expenses · current: Income\nLINKS\n→ back → 03\n→ tabs\n10_Markets\nGoal: Check a coin's price and trade it.\nMUST INCLUDE\n• Actions: back · avatar · Sell · Buy\n• Coin: “Bitcoin” with logo (changeable)\n• Copy: “Markets”\n• History: “History” · See all · Solana / Bitcoin / Ethereum\n• Price: “Current price” $1,954.00 (+3.85%)\n• Price chart: candlesticks · price scale $1,000–$5,000 · times 08:00–24:00\n• Range: 1H 2H 8H 1D 1W 1M 1Y · current: 1D\nLINKS\n→ back → 07_Cards\n11_Send\nGoal: Send money to a contact.\nMUST INCLUDE\n• Actions: back · avatar · Send\n• Amount: $500.00\n• Copy: “Send”\n• Number pad: 1–9, “.”, 0, backspace\n• Recipient: Bessie Cooper · avatar · card **** **",
+  "layer_summary": {
+    "board_count": 11,
+    "boards": [
+      {
+        "name": "03_Home_My_Balance",
+        "size": "375×812",
+        "nodes": 179,
+        "max_depth": 6,
+        "instances": 31,
+        "texts": 28,
+        "images": 0,
+        "types": [
+          "frame×40",
+          "vector×40",
+          "instance×31",
+          "text×28",
+          "rectangle×18",
+          "group×18"
+        ],
+        "names": [
+          "StatusBar",
+          "9:41",
+          "Rectangle",
+          "Ellipse",
+          "HomeIndicator",
+          "Home / Account Header"
+        ]
+      },
+      {
+        "name": "01_Sign_Up",
+        "size": "375×812",
+        "nodes": 38,
+        "max_depth": 9,
+        "instances": 5,
+        "texts": 9,
+        "images": 0,
+        "types": [
+          "text×9",
+          "rectangle×8",
+          "instance×5",
+          "group×5",
+          "frame×4",
+          "vector×4"
+        ],
+        "names": [
+          "StatusBar",
+          "9:41",
+          "Rectangle",
+          "Ellipse",
+          "HomeIndicator",
+          "Sign up"
+        ]
+      },
+      {
+        "name": "02_OTP",
+        "size": "375×812",
+        "nodes": 30,
+        "max_depth": 5,
+        "instances": 4,
+        "texts": 6,
+        "images": 0,
+        "types": [
+          "rectangle×12",
+          "text×6",
+          "instance×4",
+          "ellipse×3",
+          "frame×2",
+          "vector×2"
+        ],
+        "names": [
+          "StatusBar",
+          "9:41",
+          "Rectangle",
+          "Ellipse",
+          "HomeIndicator",
+          "Btn / Back"
+        ]
+      },
+      {
+        "name": "04_Home_Upcoming_Bills",
+        "size": "375×812",
+        "nodes": 133,
+        "max_depth": 6,
+        "instances": 17,
+        "texts": 22,
+        "images": 0,
+        "types": [
+          "vector×34",
+          "frame×33",
+          "text×22",
+          "instance×17",
+          "group×13",
+          "rectangle×11"
+        ],
+        "names": [
+          "StatusBar",
+          "9:41",
+          "Rectangle",
+          "Ellipse",
+          "HomeIndicator",
+          "Home / Account Header"
+        ]
+      },
+      {
+        "name": "05_Home_Transactions",
+        "size": "375×812",
+        "nodes": 166,
+        "max_depth": 10,
+        "instances": 17,
+        "texts": 28,
+        "images": 0,
+        "types": [
+          "group×41",
+          "vector×36",
+          "frame×30",
+          "text×28",
+          "instance×17",
+          "rectangle×11"
+        ],
+        "names": [
+          "StatusBar",
+          "9:41",
+          "Rectangle",
+          "Ellipse",
+          "HomeIndicator",
+          "Home / Account Header"
+        ]
+      },
+      {
+        "name": "07_Cards",
+        "size": "375×812",
+        "nodes": 202,
+        "max_depth": 12,
+        "instances": 17,
+        "texts": 31,
+        "images": 0,
+        "types": [
+          "group×61",
+          "vector×52",
+          "text×31",
+          "frame×30",
+          "instance×17",
+          "rectangle×8"
+        ],
+        "names": [
+          "StatusBar",
+          "9:41",
+          "Rectangle",
+          "Ellipse",
+          "HomeIndicator",
+          "Btn / Back"
+        ]
+      },
+      {
+        "name": "08_Profile",
+        "size": "375×812",
+        "nodes": 223,
+        "max_depth": 15,
+        "instances": 19,
+        "texts": 28,
+        "images": 0,
+        "types": [
+          "group×69",
+          "vector×65",
+          "frame×31",
+          "text×28",
+          "instance×19",
+          "rectangle×8"
+        ],
+        "names": [
+          "StatusBar",
+          "9:41",
+          "Rectangle",
+          "Ellipse",
+          "HomeIndicator",
+          "Btn / Back"
+        ]
+      },
+      {
+        "name": "09_Analytics",
+        "size": "375×812",
+        "nodes": 99,
+        "max_depth": 6,
+        "instances": 11,
+        "texts": 24,
+        "images": 0,
+        "types": [
+          "text×24",
+          "frame×21",
+          "vector×17",
+          "instance×11",
+          "rectangle×10",
+          "ellipse×9"
+        ],
+        "names": [
+          "StatusBar",
+          "9:41",
+          "Rectangle",
+          "Ellipse",
+          "HomeIndicator",
+          "Btn / Back"
+        ]
+      },
+      {
+        "name": "10_Markets",
+        "size": "375×812",
+        "nodes": 162,
+        "max_depth": 12,
+        "instances": 10,
+        "texts": 38,
+        "images": 0,
+        "types": [
+          "text×38",
+          "rectangle×37",
+          "group×32",
+          "frame×22",
+          "vector×20",
+          "instance×10"
+        ],
+        "names": [
+          "StatusBar",
+          "9:41",
+          "Rectangle",
+          "Ellipse",
+          "HomeIndicator",
+          "Btn / Back"
+        ]
+      },
+      {
+        "name": "11_Send",
+        "size": "375×812",
+        "nodes": 66,
+        "max_depth": 6,
+        "instances": 7,
+        "texts": 19,
+        "images": 0,
+        "types": [
+          "frame×20",
+          "text×19",
+          "rectangle×8",
+          "instance×7",
+          "vector×6",
+          "ellipse×3"
+        ],
+        "names": [
+          "StatusBar",
+          "9:41",
+          "Rectangle",
+          "Ellipse",
+          "HomeIndicator",
+          "Btn / Back"
+        ]
+      },
+      {
+        "name": "06_Discussion_Forum",
+        "size": "375×812",
+        "nodes": 127,
+        "max_depth": 6,
+        "instances": 21,
+        "texts": 19,
+        "images": 0,
+        "types": [
+          "vector×33",
+          "frame×27",
+          "instance×21",
+          "text×19",
+          "group×16",
+          "rectangle×8"
+        ],
+        "names": [
+          "StatusBar",
+          "9:41",
+          "Rectangle",
+          "Ellipse",
+          "HomeIndicator",
+          "Btn / Back"
+        ]
+      }
+    ]
+  }
+}

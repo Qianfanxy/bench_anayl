@@ -1,0 +1,6 @@
+{"image_url":"https://www.figma.com/api/mcp/asset/8970f60d-fa90-4699-9e04-9424ad9167e3.png","width":2212,"height":1184,"format":"png","original_width":2212,"original_height":1184}
+The screenshot is hosted at the URL in the first content entry (as JSON). Download the PNG by running:
+
+  curl -f -L -o screenshot.png "https://www.figma.com/api/mcp/asset/8970f60d-fa90-4699-9e04-9424ad9167e3.png"
+
+The URL returns raw PNG bytes (Content-Type: image/png). The URL is short-lived — treat it like a secret.

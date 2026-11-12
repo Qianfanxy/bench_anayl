@@ -1,0 +1,1 @@
+The user is asking me to verify the four screen names ("01_Splash", "02_Get_Started", "03_Sign_In", "04_Home"), check the workspace flow start point, the subtitle area at y700 ending ~744 with the cta at 790, and confirm the fonts are Inter everywhere. All checks pass, so I report completion with page ID 6:2.

@@ -1,0 +1,29 @@
+{
+  "mode": "benchmark-design",
+  "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/JdUlxW8keR6mprUHy9Kv6J/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+  "target": {
+    "url": "https://www.figma.com/design/JdUlxW8keR6mprUHy9Kv6J/",
+    "fileKey": "JdUlxW8keR6mprUHy9Kv6J"
+  },
+  "model_id": "claude-fable-5-1/mix_L/sfm",
+  "reasoning_mode": "none",
+  "system_file": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-017_1793211928723/benchmark-system.txt",
+  "tools": [
+    "whoami",
+    "get_metadata",
+    "use_figma",
+    "get_screenshot"
+  ],
+  "generation_mode": "cc",
+  "claude_code_base_system": true,
+  "runtime": {
+    "shared_figma_concurrency": 6,
+    "model_concurrency": 1,
+    "mcp_min_interval_seconds": 4,
+    "account_id": "enterprise_fulinbo",
+    "account_identity": "fulinbo@tetras.ai",
+    "policy_hash": "0c91a8f46570fd8a92f180f55dcf079f1a7de0d7d373ff0383978010535c7b06",
+    "auto_compact_window": "client-default",
+    "max_context_tokens": "client-default"
+  }
+}

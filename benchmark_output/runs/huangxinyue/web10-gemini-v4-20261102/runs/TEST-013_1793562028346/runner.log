@@ -1,0 +1,10 @@
+tasks: 1
+concurrency: 1
+out_dir: /mnt/afs/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-013_1793562028346
+cttap_repo: /mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/pipeline/work/claude-tap-converter
+reasoning_mode: summary
+[ok] task-000001 -> /mnt/afs/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-013_1793562028346/task-000001/trajectory.jsonl
+
+finished: ok=1, failed=0, merged_trajectories=1
+manifest: /mnt/afs/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-013_1793562028346/manifest.jsonl
+merged:   /mnt/afs/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-013_1793562028346/all_trajectories.jsonl

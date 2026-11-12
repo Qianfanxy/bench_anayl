@@ -1,0 +1,87 @@
+[
+  {
+    "node_id": "7:52",
+    "name": "01_Wallet",
+    "file": "7-52.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "AkAgp4U0sCY7xkZ05uhVkb",
+        "nodeId": "7:52",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "fb343aca32be26810e3da1cd8f83e65fd41cda38ac81b4f6c57caf2fa1d2ed82",
+      "response_file": "_debug/v2-native-7-52.png.txt",
+      "response_sha256": "863623f36d82521453bcb571a4708de291bb96eeee9ea27a41a4e8e12063e60d"
+    }
+  },
+  {
+    "node_id": "9:137",
+    "name": "02_Discovery",
+    "file": "9-137.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "AkAgp4U0sCY7xkZ05uhVkb",
+        "nodeId": "9:137",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "ffb63190f2bdfcc47f01a5129e0bdc2fbb1fb53061104980b864d12bd45ea74b",
+      "response_file": "_debug/v2-native-9-137.png.txt",
+      "response_sha256": "3ca92e48fb9ea7b908d4a39f3a4a1e9c7934c6cf2de9c76fd85ea7e471f15b96"
+    }
+  },
+  {
+    "node_id": "10:267",
+    "name": "03_Strategy",
+    "file": "10-267.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "AkAgp4U0sCY7xkZ05uhVkb",
+        "nodeId": "10:267",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "739928b77e47727a91564e0c56a0e6cfdcad42cfb73546f3e064afa7eb434e85",
+      "response_file": "_debug/v2-native-10-267.png.txt",
+      "response_sha256": "df5a9b04aba17d936d81fb3bbbba32b45e3cf508007dd4dc2788ce9e7f3ed71d"
+    }
+  },
+  {
+    "node_id": "10:299",
+    "name": "04_Invest_Amount",
+    "file": "10-299.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "AkAgp4U0sCY7xkZ05uhVkb",
+        "nodeId": "10:299",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "62a27bc14bcb4931b34abba2ce5280b6631cc71442a374461335e94e67cc2e74",
+      "response_file": "_debug/v2-native-10-299.png.txt",
+      "response_sha256": "043077390cb7f71abedede61cfd5c07b478bc833178475f0a9b2442576e761f6"
+    }
+  },
+  {
+    "node_id": "10:331",
+    "name": "05_Invest_Success",
+    "file": "10-331.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "AkAgp4U0sCY7xkZ05uhVkb",
+        "nodeId": "10:331",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "4f3d2374c24c3897af5b91debe6ad853d94066c4ad84ab8ff1207187cdd866bf",
+      "response_file": "_debug/v2-native-10-331.png.txt",
+      "response_sha256": "66f41210d871f169554f4a60874a5210ecb5af7a4369a85537747ca9e667d525"
+    }
+  }
+]

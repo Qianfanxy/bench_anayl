@@ -1,0 +1,25 @@
+{
+  "max_dimension": 8000,
+  "max_base64_bytes": 5000000,
+  "max_total_bytes": 25165824,
+  "images": [
+    {
+      "index": 1,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-017_1793564738474/figma-frames/13-2.png",
+      "source_sha256": "c2e8a0620c0e12072547bcd8ee0ed29144ccf3dc2d22055a66cd81c013792a77",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-017_1793564738474/figma-frames/13-2.png",
+      "original_size": [
+        1920,
+        6240
+      ],
+      "submitted_size": [
+        1920,
+        6240
+      ],
+      "resized": false,
+      "original_bytes": 350026,
+      "submitted_bytes": 350026,
+      "submitted_base64_bytes": 466704
+    }
+  ]
+}

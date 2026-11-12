@@ -1,0 +1,130 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Wallet",
+      "size": "375×1056",
+      "nodes": 115,
+      "max_depth": 7,
+      "instances": 32,
+      "texts": 38,
+      "images": 0,
+      "types": [
+        "text×38",
+        "instance×32",
+        "frame×23",
+        "rectangle×10",
+        "vector×9",
+        "ellipse×3"
+      ],
+      "names": [
+        "Content",
+        "Top Bar · My Wallet",
+        "Account",
+        "Avatar_Neutral",
+        "Ellipse",
+        "Labels"
+      ]
+    },
+    {
+      "name": "02_Discovery",
+      "size": "375×1747",
+      "nodes": 215,
+      "max_depth": 7,
+      "instances": 68,
+      "texts": 81,
+      "images": 0,
+      "types": [
+        "text×81",
+        "instance×68",
+        "frame×49",
+        "rectangle×10",
+        "ellipse×5",
+        "vector×2"
+      ],
+      "names": [
+        "Content",
+        "Top Bar · Discovery",
+        "Account",
+        "Avatar_Neutral",
+        "Ellipse",
+        "Labels"
+      ]
+    },
+    {
+      "name": "03_Strategy",
+      "size": "375×1502",
+      "nodes": 334,
+      "max_depth": 8,
+      "instances": 92,
+      "texts": 127,
+      "images": 0,
+      "types": [
+        "text×127",
+        "instance×92",
+        "frame×82",
+        "rectangle×13",
+        "ellipse×12",
+        "vector×5"
+      ],
+      "names": [
+        "Backdrop · 02_Discovery",
+        "Content",
+        "Top Bar · Discovery",
+        "Account",
+        "Avatar_Neutral",
+        "Ellipse"
+      ]
+    },
+    {
+      "name": "04_Invest_Amount",
+      "size": "375×812",
+      "nodes": 285,
+      "max_depth": 8,
+      "instances": 91,
+      "texts": 109,
+      "images": 0,
+      "types": [
+        "text×109",
+        "instance×91",
+        "frame×63",
+        "vector×9",
+        "rectangle×8",
+        "ellipse×5"
+      ],
+      "names": [
+        "Backdrop · 02_Discovery",
+        "Content",
+        "Top Bar · Discovery",
+        "Account",
+        "Avatar_Neutral",
+        "Ellipse"
+      ]
+    },
+    {
+      "name": "05_Invest_Success",
+      "size": "375×812",
+      "nodes": 267,
+      "max_depth": 8,
+      "instances": 74,
+      "texts": 88,
+      "images": 0,
+      "types": [
+        "text×88",
+        "instance×74",
+        "frame×56",
+        "rectangle×30",
+        "ellipse×16",
+        "vector×3"
+      ],
+      "names": [
+        "Backdrop · 02_Discovery",
+        "Content",
+        "Top Bar · Discovery",
+        "Account",
+        "Avatar_Neutral",
+        "Ellipse"
+      ]
+    }
+  ]
+}

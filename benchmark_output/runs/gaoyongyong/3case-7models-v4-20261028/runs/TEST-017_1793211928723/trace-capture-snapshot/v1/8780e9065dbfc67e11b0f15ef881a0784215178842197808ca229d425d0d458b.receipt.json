@@ -1,0 +1,22 @@
+{
+  "kind": "benchmark-capture-snapshot/v1",
+  "at": "2026-10-28T20:01:09.433417+00:00",
+  "source_files": [
+    {
+      "name": "trace.sqlite3",
+      "bytes": 3874816,
+      "sha256": "18431fda976fe13781fdb3930e80e7d0ee54a1b7a9e52e4b5203e450ae1d88d4"
+    },
+    {
+      "name": "trace.sqlite3-wal",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "snapshot_file": "8780e9065dbfc67e11b0f15ef881a0784215178842197808ca229d425d0d458b.sqlite3",
+  "snapshot_sha256": "8780e9065dbfc67e11b0f15ef881a0784215178842197808ca229d425d0d458b",
+  "records": 22,
+  "quick_check": "ok",
+  "shm_rebuilt_locally": true,
+  "source_preserved": true
+}

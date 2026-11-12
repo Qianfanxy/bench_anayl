@@ -1,0 +1,33 @@
+{
+  "mode": "benchmark-design",
+  "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/6RTx8rpD2yiaw6vhUevCSO/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+  "target": {
+    "url": "https://www.figma.com/design/6RTx8rpD2yiaw6vhUevCSO/",
+    "fileKey": "6RTx8rpD2yiaw6vhUevCSO"
+  },
+  "model_id": "glm-5.3-flash/tencent/sfb",
+  "reasoning_mode": "summary",
+  "system_file": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-032_1793477803001/benchmark-system.txt",
+  "tools": [
+    "whoami",
+    "get_metadata",
+    "use_figma",
+    "get_screenshot"
+  ],
+  "generation_mode": "cc",
+  "claude_code_base_system": true,
+  "runtime": {
+    "shared_figma_concurrency": 6,
+    "model_concurrency": 6,
+    "account_concurrency": 1,
+    "model_route": null,
+    "mcp_min_interval_seconds": 4,
+    "account_id": "enterprise_zhengyaozhi",
+    "account_identity": "zhengyaozhi@tetras.ai",
+    "policy_hash": "99c61b211a2c1e5a6bf738128903f22e81fec76aa41508c6d381bf23d3312774",
+    "auto_compact_window": "100000",
+    "max_context_tokens": "client-default"
+  },
+  "tool_image_transport": "native",
+  "timeout_seconds": 5400
+}

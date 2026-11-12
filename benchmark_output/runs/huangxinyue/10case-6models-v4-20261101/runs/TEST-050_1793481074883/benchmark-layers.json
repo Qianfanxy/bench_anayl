@@ -1,0 +1,20 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Expenses",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "Test DM Sans Text"
+      ]
+    }
+  ]
+}

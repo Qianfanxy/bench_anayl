@@ -1,0 +1,28 @@
+{
+  "kind": "benchmark-legacy-media-audit/v1",
+  "checked_at": "2026-10-31T22:25:08.380769+00:00",
+  "raw_audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-034_1793483368770/task-000001/media/bd571e41be80cb79c1ba180cc4fec57129a5fdd9ef8223256267d71171e7a9db.jpg",
+      "missing or invalid PNG: TEST-034_1793483368770/task-000001/media/2868c96600f1d4be73bbb71ee09ce368a0f185038d89bdd7ef62ea196b6cbf64.jpg"
+    ],
+    "require_prototype": false
+  },
+  "audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-034_1793483368770/task-000001/media/bd571e41be80cb79c1ba180cc4fec57129a5fdd9ef8223256267d71171e7a9db.jpg",
+      "missing or invalid PNG: TEST-034_1793483368770/task-000001/media/2868c96600f1d4be73bbb71ee09ce368a0f185038d89bdd7ef62ea196b6cbf64.jpg"
+    ],
+    "require_prototype": false,
+    "raw_errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-034_1793483368770/task-000001/media/bd571e41be80cb79c1ba180cc4fec57129a5fdd9ef8223256267d71171e7a9db.jpg",
+      "missing or invalid PNG: TEST-034_1793483368770/task-000001/media/2868c96600f1d4be73bbb71ee09ce368a0f185038d89bdd7ef62ea196b6cbf64.jpg"
+    ],
+    "media_warnings": []
+  }
+}

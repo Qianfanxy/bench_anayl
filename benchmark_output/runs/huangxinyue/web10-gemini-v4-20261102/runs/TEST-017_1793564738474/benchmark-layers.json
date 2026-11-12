@@ -1,0 +1,26 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1920×6240",
+      "nodes": 388,
+      "max_depth": 7,
+      "instances": 0,
+      "texts": 171,
+      "images": 0,
+      "types": [
+        "frame×217",
+        "text×171"
+      ],
+      "names": [
+        "Header",
+        "Deliver To",
+        "Deliver to:",
+        "Frame",
+        "Current Location",
+        "Mohammadpur Bus Stand, D"
+      ]
+    }
+  ]
+}

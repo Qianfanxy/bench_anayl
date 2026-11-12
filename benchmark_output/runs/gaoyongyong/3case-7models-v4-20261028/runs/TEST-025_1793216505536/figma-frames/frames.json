@@ -1,0 +1,57 @@
+[
+  {
+    "node_id": "2004:2",
+    "name": "01_Splash",
+    "file": "2004-2.png"
+  },
+  {
+    "node_id": "2004:3",
+    "name": "02_Home",
+    "file": "2004-3.png"
+  },
+  {
+    "node_id": "2004:4",
+    "name": "03_Product_Cheeseburger",
+    "file": "2004-4.png"
+  },
+  {
+    "node_id": "2004:5",
+    "name": "04_Product_Veggie",
+    "file": "2004-5.png"
+  },
+  {
+    "node_id": "2004:6",
+    "name": "05_Product_Chicken",
+    "file": "2004-6.png"
+  },
+  {
+    "node_id": "2004:7",
+    "name": "06_Product_Fried_Chicken",
+    "file": "2004-7.png"
+  },
+  {
+    "node_id": "2004:8",
+    "name": "07_Customize",
+    "file": "2004-8.png"
+  },
+  {
+    "node_id": "2004:9",
+    "name": "08_Payment",
+    "file": "2004-9.png"
+  },
+  {
+    "node_id": "2004:10",
+    "name": "09_Payment_Success_Overlay",
+    "file": "2004-10.png"
+  },
+  {
+    "node_id": "2004:11",
+    "name": "10_Profile",
+    "file": "2004-11.png"
+  },
+  {
+    "node_id": "2004:12",
+    "name": "11_Support_Chat",
+    "file": "2004-12.png"
+  }
+]

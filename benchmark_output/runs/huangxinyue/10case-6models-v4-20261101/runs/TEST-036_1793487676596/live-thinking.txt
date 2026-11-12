@@ -1,0 +1,38 @@
+**03_Home now perfect:**
+- Header: avatar photo, search pill with magnifier glyph, BLACK circle with white history clock glyph ✓
+- Balance card: HSBC logo, Primary chip with badge ✓, ₹85,625, eye/refresh blue glyph in translucent circle ✓
+- Send ↗ (blue), Receive ↓ (green, proper arrow glyph), Scan any QR (black, scan frame glyph) ✓
+- Reward banner with tag icon ✓
+- Account tiles with brand logos ✓
+- Transaction rows ✓
+
+**04_Menu now perfect:**
+- Side menu with all glyphs ✓, Logout now shows proper red logout arrow glyph ✓
+- Background home content visible under scrim: black history circle ✓, blue card ✓
+
+All 4 screens verified visually. Remaining check: the menu item icons are dark ink on white ✓.
+
+Everything looks complete:
+1. ✅ 4 frames with exact names, 390×844
+2. ✅ Components reused/created
+3. ✅ 5 prototype reactions wired & read back
+4. ✅ Duplicates/stray deleted
+5. ✅ All screens screenshot-verified
+
+One more sanity item: the workspace canvas placement — frames at x=0 (01), 470 (02), 940 (03), 1410 (04) in a row; components at y=1000. Good.
+
+Also confirm no leftover issues in 02 (verified perfect earlier) and 01 (verified perfect).
+
+Final state summary:
+- Page 6:2 (03 · Workspace): 7 components (8:14, 8:18, 8:24, 8:30, 8:35, 8:40, 8:47) + 4 frames
+- Screens: 15:2 (01_Onboarding), 15:164 (02_Phone_Number), 15:25 (03_Home), 15:221 (04_Menu)
+- Prototype flows: 5 links
+
+Deliver final answer now. Include:
+- File URL: https://www.figma.com/design/CzkDgUe1dyJA7vCKriV99m/
+- Page ID: 6:2
+- Screen IDs: 15:2, 15:164, 15:25, 15:221
+- Prototype work: the 5 connections with transitions
+- Limitations: none remaining of substance; note the icon-fix journey isn't needed in the final answer. Maybe mention that prototype connections were verified via API readback (not interactive preview).
+
+Write final answer with "Reasoning summary:" first line.

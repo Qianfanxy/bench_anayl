@@ -1,0 +1,1 @@
+The user is asking for a final answer: all five screens and reference boards are checked, the Wallet Scroll on-click link is restored (ON_CLICK=ok), and ON_DRAG is unsupported by this file's API, so swipe navigation is

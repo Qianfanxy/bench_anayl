@@ -1,0 +1,49 @@
+[
+  {
+    "node_id": "19:291",
+    "name": "01_Home",
+    "file": "19-291.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "CxJrc6bID9uDzhYdjXm435",
+        "nodeId": "19:291",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "a2553ac1ee38e3d14dd0c7673673dc2a87cb8611986fc20698f14adbccdd3841",
+      "response_file": "_debug/v2-native-19-291.png.txt",
+      "response_sha256": "68c744f6977bfc8e864ea1730d387b866c2c166ad8bc5f825428cfbd227ed44b"
+    }
+  },
+  {
+    "node_id": "19:393",
+    "name": "02_About_Investment",
+    "file": "19-393.png"
+  },
+  {
+    "node_id": "19:435",
+    "name": "03_Create_PIN",
+    "file": "19-435.png"
+  },
+  {
+    "node_id": "19:500",
+    "name": "04_Portfolio",
+    "file": "19-500.png"
+  },
+  {
+    "node_id": "19:644",
+    "name": "05_Trading",
+    "file": "19-644.png"
+  },
+  {
+    "node_id": "19:781",
+    "name": "06_Stock_Transaction",
+    "file": "19-781.png"
+  },
+  {
+    "node_id": "19:861",
+    "name": "07_Confirm_Purchase",
+    "file": "19-861.png"
+  }
+]

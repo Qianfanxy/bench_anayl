@@ -1,0 +1,449 @@
+{
+  "file_key": "oEVCBoWMrSozqyLTP60OiS",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "2003:2",
+      "name": "03 · Workspace",
+      "child_count": 12
+    }
+  ],
+  "workspace": {
+    "id": "2003:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "2009:2",
+        "name": "Components · Paradise Invest",
+        "type": "FRAME",
+        "x": 0,
+        "y": 1100,
+        "width": 2400,
+        "height": 1670,
+        "text_count": 109,
+        "reaction_count": 0
+      },
+      {
+        "id": "2017:133",
+        "name": "01_Splash",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 414,
+        "height": 932,
+        "text_count": 2,
+        "reaction_count": 1
+      },
+      {
+        "id": "2017:151",
+        "name": "02_Welcome",
+        "type": "FRAME",
+        "x": 494,
+        "y": 0,
+        "width": 414,
+        "height": 932,
+        "text_count": 5,
+        "reaction_count": 1
+      },
+      {
+        "id": "2017:180",
+        "name": "03_Create_Account_Empty",
+        "type": "FRAME",
+        "x": 988,
+        "y": 0,
+        "width": 414,
+        "height": 932,
+        "text_count": 14,
+        "reaction_count": 2
+      },
+      {
+        "id": "2017:231",
+        "name": "03_Create_Account_Filled",
+        "type": "FRAME",
+        "x": 1482,
+        "y": 0,
+        "width": 414,
+        "height": 932,
+        "text_count": 14,
+        "reaction_count": 2
+      },
+      {
+        "id": "2017:282",
+        "name": "03_Create_Account_Error",
+        "type": "FRAME",
+        "x": 1976,
+        "y": 0,
+        "width": 414,
+        "height": 932,
+        "text_count": 15,
+        "reaction_count": 2
+      },
+      {
+        "id": "2019:267",
+        "name": "04_Home",
+        "type": "FRAME",
+        "x": 2470,
+        "y": 0,
+        "width": 414,
+        "height": 932,
+        "text_count": 29,
+        "reaction_count": 3
+      },
+      {
+        "id": "2020:375",
+        "name": "05_My_Asset_Overlay",
+        "type": "FRAME",
+        "x": 2964,
+        "y": 0,
+        "width": 414,
+        "height": 932,
+        "text_count": 58,
+        "reaction_count": 2
+      },
+      {
+        "id": "2022:567",
+        "name": "06_Notification",
+        "type": "FRAME",
+        "x": 3458,
+        "y": 0,
+        "width": 414,
+        "height": 932,
+        "text_count": 8,
+        "reaction_count": 1
+      },
+      {
+        "id": "2022:610",
+        "name": "07_Profile",
+        "type": "FRAME",
+        "x": 3952,
+        "y": 0,
+        "width": 414,
+        "height": 932,
+        "text_count": 13,
+        "reaction_count": 3
+      },
+      {
+        "id": "2022:726",
+        "name": "08_Contact_Info",
+        "type": "FRAME",
+        "x": 4446,
+        "y": 0,
+        "width": 414,
+        "height": 932,
+        "text_count": 21,
+        "reaction_count": 1
+      },
+      {
+        "id": "2022:795",
+        "name": "09_Bank_Account_Info",
+        "type": "FRAME",
+        "x": 4940,
+        "y": 0,
+        "width": 414,
+        "height": 932,
+        "text_count": 9,
+        "reaction_count": 1
+      }
+    ]
+  },
+  "brief": "DESIGNER STARTER / PARADISE INVEST · LEVEL L2 · v2\nComplete mobile product design\nContent, structure, brand primary and typefaces are fixed. Layout, hierarchy, all other colors, states, components and visual system are yours.\nTHE ASSIGNMENT\nDesign the complete Paradise Invest mobile investment app (brand: Paradise Group) for a first-time investor: sign up, understand their portfolio, follow plans and news, and manage their profile and bank accounts.\nEnglish interface / Nigerian Naira (₦) / one signed-in user: Jonas Macroni. Base viewport 414 × 932 for every frame; Home may scroll vertically.\nFIXED by this brief: frame list & names, the content each frame must contain (what, not how), navigation structure, all data and copy, brand primary color, typefaces (DM Sans + Inter), media, a default Button, a default Text Field and the platform shell.\nYOURS to decide: layout, grouping, order and emphasis on every screen; all other colors (neutrals, text, surfaces, semantic); type scale, spacing, radii, elevation; all states (selected, pressed, disabled, focused, error); headers, bottom navigation and every business component.\nFRAMES TO DELIVER (11) — USE THESE EXACT NAMES\n01_Splash · 02_Welcome · 03_Create_Account_Empty · 03_Create_Account_Filled · 03_Create_Account_Error · 04_Home ·\n05_My_Asset_Overlay · 06_Notification · 07_Profile · 08_Contact_Info · 09_Bank_Account_Info. One frame per state.\nFRAME-BY-FRAME CHECKLIST\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks. Layout, grouping, emphasis and styling are your decisions.\n01_Splash\nGoal: brand recognition while the app loads.\nMust include:\n• Brand: Paradise Group logo\nLinks: auto-advances to 02_Welcome.\n02_Welcome\nGoal: explain the value and start sign-up.\nMust include:\n• Actions: Create account · Login\n• Copy: “Stay on top of your finance with us.” · “We are your new financial advisors to recommend the best investments for you.”\n• Media: Welcome_Illustration\nLinks: Create account → 03_Create_Account_Empty.\n03_Create_Account (Empty / Filled / Error)\nGoal: create an account with minimum effort and clear validation.\nMust include:\n• Actions: back · Create account · “Already have an account?” Login\n• Copy: “Create an account” · “Invest and double your income now”\n• Form: Email address · Full name · Password (can be shown or hidden)\nStates (one frame each):\n• Empty — nothing entered; Create account cannot be submitted yet\n• Error — email “jonas.macroni@invest” · message “Enter a valid email address”\n• Filled — Jonas Macroni · jonas.macroni@invest.ai · password entered (masked); Create account can be submitted\nLinks: back → 02_Welcome; Create account (Filled) → 04_Home.\n04_Home\nGoal: see total wealth and today’s change at a glance, then explore plans and learning content.\nMust include:\n• Account: “Welcome, Jonas.” · menu entry · notification entry\n• Actions: Invest now\n• Articles: “Investment Guide” · 3 articles, each with title, summary and thumbnail\n• Main navigation: current tab Home\n• Plans: “Best Plans” · See All · Gold 30% / Silver 60% / Platinum 90% return, each with its coin image\n• Portfolio: “Your total asset portfolio” · ₦203,935 · +2%\nLinks: portfolio → 05_My_Asset_Overlay; notification entry → 06_Notification; Account tab → 07_Profile.\n05_My_Asset_Overlay\nGoal: inspect holdings and recent activity without leaving Home.\nMust include:\n• Actions: close · See All Plans\n• Copy: “My Asset”\n• Current plan: “Current Plans” · Gold · 30% return\n• History: “History” · 4 transactions, each with type (Buy / Sell), stock, amount and date\n• Portfolio: “Your total asset portfolio” · ₦203,935 · +2%\n• Presentation: opens over Home; Home stays behind it\nLinks: close → 04_Home.\n06_Notification\nGoal: scan recent updates quickly.\nMust include:\n• Actions: back\n• Copy: “Notification”\n• Notifications: 3, newest first, each with thumbnail, message and time\nLinks: back → 04_Home.\n07_Profile\nGoal: identify the account and reach account settings.\nMust include:\n• Account: avatar · Jonas Macroni · level “Expert”\n• Copy: “Profile”\n• Entries: Bank Account Info · Contact Info · Document Info · Settings · Source of Funding Info\n• Main navigation: current tab Account\nLinks: Contact Info → 08_Contact_Info; Bank Account Info → 09_Bank_Account_Info; Home tab → 04_Home.\n08_Contact_Info\nGoal: review personal details and see what is missing.\nMust include:\n• Account: avatar · edit avatar\n• Actions: back\n• Copy: “Contact info”\n• Details: Birthdate · Email · Gender · Name — each with its value and Change\n• Not added yet: Address · Phone Number — each with Add\nLinks: back → 07_Profile.\n09_Bank_Account_Info\nGoal: review linked bank accounts and add a new one.\nMust include:\n• Accounts: 2, each with bank logo, bank name, masked number, holder and more options\n• Actions: Add account · back\n• Copy: “Bank account info”\nLinks: back → 07_Profile.\nSTRUCTURE (FIXED)\nMain navigation on 04_Home and 07_Profile — four tabs in this order: Home (Icon_Tab_Home) → 04 · Product (Icon_Tab_Product_Search, entry only) · Transaction (Icon_Tab_Transaction, entry only) · Account (Icon_Tab_Account) → 07. The current tab must match the frame. How it looks is yours.\nMy Asset opens as an overlay above Home (not a separate pushed screen). Notifications open from Home. Profile is the Account tab; Contact info and Bank account info are pushed from it with back navigation.\nEntry-only (no screen required): menu, Invest now, See All, See All Plans, Login, Source of Funding Info, Document Info, Settings, Change / Add, edit avatar, more-options, Add account.\nDATA & COPY (FIXED)\nUser: Jonas Macroni · Expert · 05 November 1993 · Male · jonas.macroni@invest.ai · phone and address not added. Same name and avatar everywhere.\nPortfolio: ₦203,935, +2% — identical on Home and My Asset. Plans: Gold 30% return · Silver 60% return · Platinum 90% return. Current plan: Gold.\nHistory (all Mon 22 Jun 2020): Buy “AAPL” Stock ₦200,000 · Sell “TLKM” Stock ₦150,000 · Buy “FB” Stock ₦1,000,240 · Sell “AAPL” Stock ₦1,000,240. Sell = money in, Buy = money out.\nArticles: “Basic type of investments” — This is how you set your foot for the 2020 stock market recession. What’s next…\n“How much can you start with?” — What do you like to see? It’s a very different market from 2018. The way…\n“Welcome to New NASDAQ” — When we talk about Wall Street, what looks good might be different… (no photo supplied: choose a consistent fallback).\nNot",
+  "layer_summary": {
+    "board_count": 11,
+    "boards": [
+      {
+        "name": "01_Splash",
+        "size": "414×932",
+        "nodes": 17,
+        "max_depth": 3,
+        "instances": 2,
+        "texts": 2,
+        "images": 1,
+        "types": [
+          "rectangle×8",
+          "frame×3",
+          "text×2",
+          "instance×2",
+          "rectangle-image×1",
+          "ellipse×1"
+        ],
+        "names": [
+          "Paradise_Group_Logo",
+          "Loader",
+          "Rectangle",
+          "Loading your portfolio…",
+          "Status Bar",
+          "9:41"
+        ]
+      },
+      {
+        "name": "02_Welcome",
+        "size": "414×932",
+        "nodes": 27,
+        "max_depth": 3,
+        "instances": 6,
+        "texts": 5,
+        "images": 1,
+        "types": [
+          "rectangle×10",
+          "instance×6",
+          "text×5",
+          "frame×4",
+          "rectangle-image×1",
+          "ellipse×1"
+        ],
+        "names": [
+          "Welcome_Illustration",
+          "Copy",
+          "Stay on top of your fina",
+          "We are your new financia",
+          "Pager",
+          "Rectangle"
+        ]
+      },
+      {
+        "name": "03_Create_Account_Empty",
+        "size": "414×932",
+        "nodes": 47,
+        "max_depth": 6,
+        "instances": 12,
+        "texts": 14,
+        "images": 0,
+        "types": [
+          "text×14",
+          "instance×12",
+          "frame×12",
+          "rectangle×7",
+          "vector×1",
+          "ellipse×1"
+        ],
+        "names": [
+          "Back",
+          "Icon",
+          "Icon / Back",
+          "Vector",
+          "Heading",
+          "Create an account"
+        ]
+      },
+      {
+        "name": "03_Create_Account_Filled",
+        "size": "414×932",
+        "nodes": 47,
+        "max_depth": 6,
+        "instances": 12,
+        "texts": 14,
+        "images": 0,
+        "types": [
+          "text×14",
+          "instance×12",
+          "frame×12",
+          "rectangle×7",
+          "vector×1",
+          "ellipse×1"
+        ],
+        "names": [
+          "Back",
+          "Icon",
+          "Icon / Back",
+          "Vector",
+          "Heading",
+          "Create an account"
+        ]
+      },
+      {
+        "name": "03_Create_Account_Error",
+        "size": "414×932",
+        "nodes": 48,
+        "max_depth": 6,
+        "instances": 12,
+        "texts": 15,
+        "images": 0,
+        "types": [
+          "text×15",
+          "instance×12",
+          "frame×12",
+          "rectangle×7",
+          "vector×1",
+          "ellipse×1"
+        ],
+        "names": [
+          "Back",
+          "Icon",
+          "Icon / Back",
+          "Vector",
+          "Heading",
+          "Create an account"
+        ]
+      },
+      {
+        "name": "04_Home",
+        "size": "414×932",
+        "nodes": 127,
+        "max_depth": 7,
+        "instances": 31,
+        "texts": 29,
+        "images": 5,
+        "types": [
+          "instance×31",
+          "text×29",
+          "frame×28",
+          "vector×13",
+          "rectangle×8",
+          "group×8"
+        ],
+        "names": [
+          "Scroll end",
+          "Menu",
+          "Icon",
+          "Icon / Menu",
+          "menu",
+          "Vector"
+        ]
+      },
+      {
+        "name": "05_My_Asset_Overlay",
+        "size": "414×932",
+        "nodes": 228,
+        "max_depth": 8,
+        "instances": 50,
+        "texts": 58,
+        "images": 6,
+        "types": [
+          "text×58",
+          "frame×56",
+          "instance×50",
+          "vector×20",
+          "rectangle×17",
+          "group×14"
+        ],
+        "names": [
+          "Home (behind)",
+          "Scroll end",
+          "Menu",
+          "Icon",
+          "Icon / Menu",
+          "menu"
+        ]
+      },
+      {
+        "name": "06_Notification",
+        "size": "414×932",
+        "nodes": 40,
+        "max_depth": 5,
+        "instances": 9,
+        "texts": 8,
+        "images": 2,
+        "types": [
+          "instance×9",
+          "frame×8",
+          "text×8",
+          "rectangle×7",
+          "ellipse×5",
+          "rectangle-image×2"
+        ],
+        "names": [
+          "Header",
+          "Back",
+          "Icon",
+          "Icon / Back",
+          "Vector",
+          "Title"
+        ]
+      },
+      {
+        "name": "07_Profile",
+        "size": "414×932",
+        "nodes": 105,
+        "max_depth": 7,
+        "instances": 27,
+        "texts": 13,
+        "images": 0,
+        "types": [
+          "frame×30",
+          "instance×27",
+          "vector×15",
+          "text×13",
+          "group×9",
+          "rectangle×7"
+        ],
+        "names": [
+          "Profile",
+          "Account card",
+          "Avatar",
+          "Ellipse",
+          "Identity",
+          "Jonas Macroni"
+        ]
+      },
+      {
+        "name": "08_Contact_Info",
+        "size": "414×932",
+        "nodes": 67,
+        "max_depth": 5,
+        "instances": 13,
+        "texts": 21,
+        "images": 0,
+        "types": [
+          "text×21",
+          "frame×20",
+          "instance×13",
+          "rectangle×7",
+          "ellipse×3",
+          "vector×2"
+        ],
+        "names": [
+          "Header",
+          "Back",
+          "Icon",
+          "Icon / Back",
+          "Vector",
+          "Title"
+        ]
+      },
+      {
+        "name": "09_Bank_Account_Info",
+        "size": "414×932",
+        "nodes": 52,
+        "max_depth": 7,
+        "instances": 11,
+        "texts": 9,
+        "images": 2,
+        "types": [
+          "frame×13",
+          "instance×11",
+          "text×9",
+          "vector×7",
+          "rectangle×7",
+          "rectangle-image×2"
+        ],
+        "names": [
+          "Header",
+          "Back",
+          "Icon",
+          "Icon / Back",
+          "Vector",
+          "Title"
+        ]
+      }
+    ]
+  }
+}

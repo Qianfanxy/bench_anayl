@@ -1,0 +1,133 @@
+{
+  "max_dimension": 8000,
+  "max_base64_bytes": 5000000,
+  "max_total_bytes": 25165824,
+  "images": [
+    {
+      "index": 1,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/8-167.png",
+      "source_sha256": "5dc15a83d0dfe94f8524912c045f1db3c9f9aa5c12740836d7cb942fd2cb9a90",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/8-167.png",
+      "original_size": [
+        414,
+        896
+      ],
+      "submitted_size": [
+        414,
+        896
+      ],
+      "resized": false,
+      "original_bytes": 38275,
+      "submitted_bytes": 38275,
+      "submitted_base64_bytes": 51036
+    },
+    {
+      "index": 2,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/8-275.png",
+      "source_sha256": "2a267c0e5cb04de8684c6186b748a298d7570d10ace3454024c2d6b1aecaec88",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/8-275.png",
+      "original_size": [
+        414,
+        896
+      ],
+      "submitted_size": [
+        414,
+        896
+      ],
+      "resized": false,
+      "original_bytes": 36358,
+      "submitted_bytes": 36358,
+      "submitted_base64_bytes": 48480
+    },
+    {
+      "index": 3,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/8-308.png",
+      "source_sha256": "3e0ebce8fd00f13b9060905c0db79324729a0654e828e3df5e325392c41bd7ce",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/8-308.png",
+      "original_size": [
+        414,
+        896
+      ],
+      "submitted_size": [
+        414,
+        896
+      ],
+      "resized": false,
+      "original_bytes": 18417,
+      "submitted_bytes": 18417,
+      "submitted_base64_bytes": 24556
+    },
+    {
+      "index": 4,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/9-75.png",
+      "source_sha256": "f451cfce7c957d3f1b59fa4fe9fe8fe27502573d51a7abe5ef220f339cdad58c",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/9-75.png",
+      "original_size": [
+        414,
+        1150
+      ],
+      "submitted_size": [
+        414,
+        1150
+      ],
+      "resized": false,
+      "original_bytes": 51510,
+      "submitted_bytes": 51510,
+      "submitted_base64_bytes": 68680
+    },
+    {
+      "index": 5,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/10-133.png",
+      "source_sha256": "b6ebf2a626aa90afbd7559ddcf828b8d3589ee10436815c48df243124562ca18",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/10-133.png",
+      "original_size": [
+        414,
+        896
+      ],
+      "submitted_size": [
+        414,
+        896
+      ],
+      "resized": false,
+      "original_bytes": 37623,
+      "submitted_bytes": 37623,
+      "submitted_base64_bytes": 50164
+    },
+    {
+      "index": 6,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/11-181.png",
+      "source_sha256": "4f00ca7cdc8f5f4648d5220486b1c52906a0d3a2d18251815f8dd440d7e93008",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/11-181.png",
+      "original_size": [
+        414,
+        896
+      ],
+      "submitted_size": [
+        414,
+        896
+      ],
+      "resized": false,
+      "original_bytes": 34266,
+      "submitted_bytes": 34266,
+      "submitted_base64_bytes": 45688
+    },
+    {
+      "index": 7,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/11-267.png",
+      "source_sha256": "379bd74e5c2e03f5497735dd51d7d20788304cf4849d9a12d0a800d12e9dff3c",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-047_1793478310058/figma-frames/11-267.png",
+      "original_size": [
+        414,
+        896
+      ],
+      "submitted_size": [
+        414,
+        896
+      ],
+      "resized": false,
+      "original_bytes": 38058,
+      "submitted_bytes": 38058,
+      "submitted_base64_bytes": 50744
+    }
+  ]
+}

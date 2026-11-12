@@ -1,0 +1,104 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "390×844",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "instance×6",
+        "text×6",
+        "frame×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "02_Phone_Number",
+      "size": "390×844",
+      "nodes": 82,
+      "max_depth": 5,
+      "instances": 15,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "text×32",
+        "frame×20",
+        "instance×15",
+        "rectangle×13",
+        "vector×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "01_Onboarding (behind sh",
+        "Status Bar",
+        "Illustration_Onboarding",
+        "Headline",
+        "Description",
+        "Get Started"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "390×1040",
+      "nodes": 143,
+      "max_depth": 6,
+      "instances": 46,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "instance×46",
+        "vector×34",
+        "text×29",
+        "frame×21",
+        "rectangle×9",
+        "ellipse×3"
+      ],
+      "names": [
+        "Header / Home",
+        "Avatar",
+        "Avatar_Hallie_Goebel",
+        "Search Bar",
+        "Icon_Search",
+        "Vector"
+      ]
+    },
+    {
+      "name": "04_Menu",
+      "size": "390×844",
+      "nodes": 204,
+      "max_depth": 8,
+      "instances": 63,
+      "texts": 39,
+      "images": 0,
+      "types": [
+        "instance×63",
+        "vector×44",
+        "text×39",
+        "frame×34",
+        "rectangle×19",
+        "ellipse×4"
+      ],
+      "names": [
+        "Side Menu",
+        "Account",
+        "Avatar ring",
+        "Avatar",
+        "Avatar_Hallie_Goebel",
+        "Name block"
+      ]
+    }
+  ]
+}

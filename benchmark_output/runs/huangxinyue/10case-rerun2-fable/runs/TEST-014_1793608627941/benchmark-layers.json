@@ -1,0 +1,180 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "414×896",
+      "nodes": 101,
+      "max_depth": 5,
+      "instances": 5,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "frame×30",
+        "text×26",
+        "vector×22",
+        "rectangle×12",
+        "ellipse×6",
+        "instance×5"
+      ],
+      "names": [
+        "Status Bar / Light",
+        "Time",
+        "Notch",
+        "Signal",
+        "Bar",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "02_About_Investment",
+      "size": "414×896",
+      "nodes": 41,
+      "max_depth": 4,
+      "instances": 4,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "vector×11",
+        "rectangle×9",
+        "frame×8",
+        "text×5",
+        "instance×4",
+        "ellipse×4"
+      ],
+      "names": [
+        "Status Bar / Light",
+        "Time",
+        "Notch",
+        "Signal",
+        "Bar",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "03_Create_PIN",
+      "size": "414×896",
+      "nodes": 64,
+      "max_depth": 4,
+      "instances": 16,
+      "texts": 23,
+      "images": 0,
+      "types": [
+        "text×23",
+        "instance×16",
+        "rectangle×9",
+        "ellipse×8",
+        "frame×6",
+        "vector×2"
+      ],
+      "names": [
+        "Status Bar / Light",
+        "Time",
+        "Notch",
+        "Signal",
+        "Bar",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "04_Portfolio",
+      "size": "414×896",
+      "nodes": 143,
+      "max_depth": 7,
+      "instances": 14,
+      "texts": 42,
+      "images": 0,
+      "types": [
+        "text×42",
+        "vector×29",
+        "frame×25",
+        "rectangle×19",
+        "instance×14",
+        "group×9"
+      ],
+      "names": [
+        "Status Bar / Light",
+        "Time",
+        "Notch",
+        "Signal",
+        "Bar",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "05_Trading",
+      "size": "414×896",
+      "nodes": 136,
+      "max_depth": 7,
+      "instances": 7,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "rectangle×51",
+        "text×35",
+        "frame×21",
+        "vector×15",
+        "instance×7",
+        "ellipse×4"
+      ],
+      "names": [
+        "Status Bar / Light",
+        "Time",
+        "Notch",
+        "Signal",
+        "Bar",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "06_Stock_Transaction",
+      "size": "414×896",
+      "nodes": 79,
+      "max_depth": 7,
+      "instances": 9,
+      "texts": 23,
+      "images": 0,
+      "types": [
+        "text×23",
+        "frame×17",
+        "vector×13",
+        "instance×9",
+        "rectangle×9",
+        "ellipse×5"
+      ],
+      "names": [
+        "Status Bar / Light",
+        "Time",
+        "Notch",
+        "Signal",
+        "Bar",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "07_Confirm_Purchase",
+      "size": "414×896",
+      "nodes": 97,
+      "max_depth": 7,
+      "instances": 10,
+      "texts": 33,
+      "images": 0,
+      "types": [
+        "text×33",
+        "frame×22",
+        "vector×14",
+        "instance×10",
+        "rectangle×10",
+        "ellipse×5"
+      ],
+      "names": [
+        "Status Bar / Light",
+        "Time",
+        "Notch",
+        "Signal",
+        "Bar",
+        "Wifi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Work",
+      "size": "1440×2210",
+      "nodes": 54,
+      "max_depth": 3,
+      "instances": 17,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "text×29",
+        "instance×17",
+        "rectangle×4",
+        "frame×3",
+        "vector×1"
+      ],
+      "names": [
+        "Header",
+        "da.",
+        "Work",
+        "About",
+        "Playground",
+        "Contact"
+      ]
+    },
+    {
+      "name": "02_About",
+      "size": "1440×1700",
+      "nodes": 39,
+      "max_depth": 3,
+      "instances": 17,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "instance×17",
+        "rectangle×2",
+        "vector×1"
+      ],
+      "names": [
+        "Header",
+        "da.",
+        "Work",
+        "About",
+        "Playground",
+        "Contact"
+      ]
+    }
+  ]
+}

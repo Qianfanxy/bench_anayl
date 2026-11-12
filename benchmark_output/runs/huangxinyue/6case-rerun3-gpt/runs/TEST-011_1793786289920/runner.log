@@ -1,0 +1,127 @@
+  + Exception Group Traceback (most recent call last):
+  |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/server/direct_sglang_runner.py", line 1191, in <module>
+  |     raise SystemExit(asyncio.run(self_test() if arguments.self_test else run_main(arguments)))
+  |                      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |   File "/mnt/afs/panzhengyuan/miniconda3/lib/python3.13/asyncio/runners.py", line 195, in run
+  |     return runner.run(main)
+  |            ~~~~~~~~~~^^^^^^
+  |   File "/mnt/afs/panzhengyuan/miniconda3/lib/python3.13/asyncio/runners.py", line 118, in run
+  |     return self._loop.run_until_complete(task)
+  |            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  |   File "/mnt/afs/panzhengyuan/miniconda3/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+  |     return future.result()
+  |            ~~~~~~~~~~~~~^^
+  |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/server/direct_sglang_runner.py", line 755, in run_main
+  |     async with stdio_client(parameters) as (read_stream, write_stream):
+  |                ~~~~~~~~~~~~^^^^^^^^^^^^
+  |   File "/mnt/afs/panzhengyuan/miniconda3/lib/python3.13/contextlib.py", line 235, in __aexit__
+  |     await self.gen.athrow(value)
+  |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/mcp/client/stdio/__init__.py", line 183, in stdio_client
+  |     anyio.create_task_group() as tg,
+  |     ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/anyio/_backends/_asyncio.py", line 811, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     ) from None
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Exception Group Traceback (most recent call last):
+    |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/mcp/client/stdio/__init__.py", line 189, in stdio_client
+    |     yield read_stream, write_stream
+    |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/server/direct_sglang_runner.py", line 756, in run_main
+    |     async with ClientSession(read_stream, write_stream) as session:
+    |                ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/mcp/shared/session.py", line 238, in __aexit__
+    |     return await self._task_group.__aexit__(exc_type, exc_val, exc_tb)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/anyio/_backends/_asyncio.py", line 811, in __aexit__
+    |     raise BaseExceptionGroup(
+    |         "unhandled errors in a TaskGroup", self._exceptions
+    |     ) from None
+    | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+    +-+---------------- 1 ----------------
+      | Traceback (most recent call last):
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+      |     yield
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+      |     resp = await self._pool.handle_async_request(req)
+      |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+      |     raise exc from None
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+      |     response = await connection.handle_async_request(
+      |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |         pool_request.request
+      |         ^^^^^^^^^^^^^^^^^^^^
+      |     )
+      |     ^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpcore/_async/connection.py", line 101, in handle_async_request
+      |     raise exc
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpcore/_async/connection.py", line 78, in handle_async_request
+      |     stream = await self._connect(request)
+      |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpcore/_async/connection.py", line 156, in _connect
+      |     stream = await stream.start_tls(**kwargs)
+      |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpcore/_backends/anyio.py", line 67, in start_tls
+      |     with map_exceptions(exc_map):
+      |          ~~~~~~~~~~~~~~^^^^^^^^^
+      |   File "/mnt/afs/panzhengyuan/miniconda3/lib/python3.13/contextlib.py", line 162, in __exit__
+      |     self.gen.throw(value)
+      |     ~~~~~~~~~~~~~~^^^^^^^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+      |     raise to_exc(exc) from exc
+      | httpcore.ConnectError
+      | 
+      | The above exception was the direct cause of the following exception:
+      | 
+      | Traceback (most recent call last):
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/server/direct_sglang_runner.py", line 828, in run_main
+      |     code = await run_agent(
+      |            ^^^^^^^^^^^^^^^^
+      |     ...<15 lines>...
+      |     )
+      |     ^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/server/direct_sglang_runner.py", line 605, in run_agent
+      |     result = await executor(exposed_name, arguments, call_id, writer)
+      |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/server/direct_sglang_runner.py", line 689, in mcp_result
+      |     response = await client.get(asset_url.group(0))
+      |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpx/_client.py", line 1768, in get
+      |     return await self.request(
+      |            ^^^^^^^^^^^^^^^^^^^
+      |     ...<9 lines>...
+      |     )
+      |     ^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpx/_client.py", line 1540, in request
+      |     return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+      |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpx/_client.py", line 1629, in send
+      |     response = await self._send_handling_auth(
+      |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |     ...<4 lines>...
+      |     )
+      |     ^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+      |     response = await self._send_handling_redirects(
+      |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |     ...<3 lines>...
+      |     )
+      |     ^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+      |     response = await self._send_single_request(request)
+      |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpx/_client.py", line 1730, in _send_single_request
+      |     response = await transport.handle_async_request(request)
+      |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+      |     with map_httpcore_exceptions():
+      |          ~~~~~~~~~~~~~~~~~~~~~~~^^
+      |   File "/mnt/afs/panzhengyuan/miniconda3/lib/python3.13/contextlib.py", line 162, in __exit__
+      |     self.gen.throw(value)
+      |     ~~~~~~~~~~~~~~^^^^^^^
+      |   File "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/venv/lib/python3.13/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+      |     raise mapped_exc(message) from exc
+      | httpx.ConnectError
+      +------------------------------------

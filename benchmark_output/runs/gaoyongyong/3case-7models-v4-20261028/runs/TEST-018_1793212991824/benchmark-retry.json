@@ -1,0 +1,33 @@
+{
+  "plan_hash": "0ddc8b974ef5e8f82f7960cba81f7ba5f6dcbe7c8ce53ae2b7a6a38f9644412c",
+  "retry_id": "retry_1af3176127889f9d46fe669f",
+  "assignment_id": "assignment_d03ec6817af82f9aba21",
+  "case_id": "case-002",
+  "model_id": "model_claude_fable51_login",
+  "source_figma_url": "https://www.figma.com/design/AuqY1P2MVRVdEbLBKDwPWn/",
+  "source_query_hash": "2aa1b7b48cf82a786e71b279b1abe82748b5172defe453e6a04b622a026fcf69",
+  "parent_run_id": "run_e0dc8eaae1c64e48",
+  "attempt_number": 2,
+  "status": "launch_requested",
+  "reason": "transport_or_tools",
+  "not_before": "2026-10-28T18:24:23.223Z",
+  "policy_hash": "4f6314161d1f2cd3eab16a037d6691db090b088ce112ed70739b07df809c206b",
+  "created_at": "2026-10-28T16:15:10.213Z",
+  "name": "design3-7models-v4-20261028 · assignment_d03ec6817af82f9aba21 · attempt 2",
+  "preparation_failures": 3,
+  "preparation_error_code": "FIGMA_BROWSER_LOGIN_REQUIRED",
+  "operator_notes": [
+    {
+      "at": "2026-10-28T18:24:23.223Z",
+      "note": "Backoff cleared: failures were caused by expired browser login on old account; runtime policy r3 routes model to a logged-in account"
+    }
+  ],
+  "figma_account_id": "enterprise_fulinbo",
+  "requested_at": "2026-10-28T18:42:26.951Z",
+  "target_figma_url": "https://www.figma.com/design/vSafL7D98KysOBBo6XqgNW/",
+  "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/vSafL7D98KysOBBo6XqgNW/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+  "copied_at": "2026-10-28T18:42:30.331Z",
+  "verified_at": "2026-10-28T18:42:56.867Z",
+  "launch_requested_at": "2026-10-28T18:42:57.108Z",
+  "content_hash": "06ad3f15a0f8b394ec6a9f836ca8b5d675f68a5aa809df33fbc780eb7436e61f"
+}

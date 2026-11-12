@@ -1,0 +1,51 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4330",
+      "nodes": 232,
+      "max_depth": 4,
+      "instances": 66,
+      "texts": 83,
+      "images": 0,
+      "types": [
+        "text×83",
+        "instance×66",
+        "vector×59",
+        "frame×24"
+      ],
+      "names": [
+        "Header",
+        "Home logo",
+        "Logo_Mark",
+        "Vector",
+        "NORTHGATE",
+        "Buy"
+      ]
+    },
+    {
+      "name": "02_Property",
+      "size": "1440×2970",
+      "nodes": 261,
+      "max_depth": 4,
+      "instances": 75,
+      "texts": 87,
+      "images": 0,
+      "types": [
+        "text×87",
+        "vector×83",
+        "instance×75",
+        "frame×16"
+      ],
+      "names": [
+        "Header",
+        "Home logo",
+        "Logo_Mark",
+        "Vector",
+        "NORTHGATE",
+        "Buy"
+      ]
+    }
+  ]
+}

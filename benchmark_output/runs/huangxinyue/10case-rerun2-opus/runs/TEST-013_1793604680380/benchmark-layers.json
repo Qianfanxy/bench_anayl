@@ -1,0 +1,104 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "414×896",
+      "nodes": 24,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "instance×5",
+        "frame×4",
+        "ellipse×4",
+        "text×4"
+      ],
+      "names": [
+        "Illustration",
+        "Illustration_Onboarding",
+        "Accent",
+        "Copy",
+        "Best workouts for you",
+        "You will have everything"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "414×896",
+      "nodes": 111,
+      "max_depth": 8,
+      "instances": 31,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "instance×31",
+        "frame×27",
+        "text×21",
+        "vector×13",
+        "group×9",
+        "rectangle×8"
+      ],
+      "names": [
+        "Content",
+        "Greeting",
+        "User",
+        "Avatar",
+        "Avatar_Adam_Smith",
+        "Text"
+      ]
+    },
+    {
+      "name": "03_Warm_Up",
+      "size": "414×896",
+      "nodes": 232,
+      "max_depth": 9,
+      "instances": 62,
+      "texts": 30,
+      "images": 0,
+      "types": [
+        "instance×62",
+        "frame×54",
+        "vector×45",
+        "group×31",
+        "text×30",
+        "rectangle×7"
+      ],
+      "names": [
+        "Content",
+        "Video Cover",
+        "Halo",
+        "Photo_Seated_Hug",
+        "Sheet",
+        "Play Video"
+      ]
+    },
+    {
+      "name": "04_Activity",
+      "size": "414×896",
+      "nodes": 159,
+      "max_depth": 7,
+      "instances": 35,
+      "texts": 44,
+      "images": 0,
+      "types": [
+        "text×44",
+        "instance×35",
+        "frame×26",
+        "vector×22",
+        "group×11",
+        "ellipse×9"
+      ],
+      "names": [
+        "Content",
+        "Your activities",
+        "Week",
+        "Week Header",
+        "This week",
+        "Sat 26 – Fri 01"
+      ]
+    }
+  ]
+}

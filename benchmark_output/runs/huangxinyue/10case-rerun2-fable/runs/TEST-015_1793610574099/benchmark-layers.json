@@ -1,0 +1,130 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "390×844",
+      "nodes": 25,
+      "max_depth": 3,
+      "instances": 2,
+      "texts": 6,
+      "images": 1,
+      "types": [
+        "rectangle×10",
+        "text×6",
+        "frame×4",
+        "ellipse×2",
+        "instance×2",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Photo",
+        "Scrim",
+        "FITNESS",
+        "Ellipse",
+        "Sheet",
+        "Grabber"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "390×844",
+      "nodes": 116,
+      "max_depth": 5,
+      "instances": 26,
+      "texts": 29,
+      "images": 5,
+      "types": [
+        "text×29",
+        "instance×26",
+        "vector×25",
+        "rectangle×18",
+        "frame×9",
+        "rectangle-image×5"
+      ],
+      "names": [
+        "Good Morning 🔥",
+        "Pramuditya Uzumaki",
+        "Avatar",
+        "PU",
+        "Search",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "03_Explore",
+      "size": "390×844",
+      "nodes": 97,
+      "max_depth": 5,
+      "instances": 28,
+      "texts": 30,
+      "images": 7,
+      "types": [
+        "text×30",
+        "instance×28",
+        "vector×15",
+        "rectangle×9",
+        "frame×7",
+        "rectangle-image×7"
+      ],
+      "names": [
+        "Explore",
+        "Banner",
+        "Photo",
+        "Scrim",
+        "Best Quarantine Workout",
+        "See more"
+      ]
+    },
+    {
+      "name": "04_Workout",
+      "size": "390×844",
+      "nodes": 64,
+      "max_depth": 3,
+      "instances": 13,
+      "texts": 20,
+      "images": 4,
+      "types": [
+        "text×20",
+        "instance×13",
+        "rectangle×9",
+        "vector×9",
+        "frame×5",
+        "rectangle-image×4"
+      ],
+      "names": [
+        "Photo",
+        "Scrim",
+        "Back",
+        "Icon_Back",
+        "Vector",
+        "Workout"
+      ]
+    },
+    {
+      "name": "05_Analytics",
+      "size": "390×844",
+      "nodes": 163,
+      "max_depth": 5,
+      "instances": 26,
+      "texts": 45,
+      "images": 1,
+      "types": [
+        "text×45",
+        "vector×32",
+        "rectangle×30",
+        "instance×26",
+        "frame×16",
+        "ellipse×13"
+      ],
+      "names": [
+        "Analytics",
+        "Today Report",
+        "Calendar",
+        "July 2022",
+        "Icon_Chevron_Right",
+        "Vector"
+      ]
+    }
+  ]
+}

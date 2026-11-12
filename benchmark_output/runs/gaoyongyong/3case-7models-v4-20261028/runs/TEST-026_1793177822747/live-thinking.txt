@@ -1,0 +1,32 @@
+03 looks reasonable: status bar, account header (avatar, "Hi, Esaaa!", two round buttons), view switch with "My Balance" selected (white pill), purple balance card with "Your Balance" $190,008.03, currency selector USD with USA flag, +8% chip, 3 action buttons, Financial Health card with bar chart (Wednesday deep purple bar), Transfer list with add + 5 avatars, tab bar with Home selected (deep purple). 
+
+One oddity: the chart axis labels seem missing or tiny, and bars look decent. There's an arrow icon top-right of the Financial Health card — good.
+
+The layout looks fine. Now verify the tab bar active state on 03 — Home is deep purple, others gray. ✓
+
+Final checks: everything is in place. Let me verify the prototype connections summary and count. Also double-check 03's view-switch seg links exist (Seg / Upcoming Bills and Seg / Transactions inside detached group) and 04/05 seg links.
+
+I already wired those with errs:[] so all good.
+
+One more improvement: on 03, the account header Messages button links to 06. Done. The "Send" action links to 11. Done.
+
+Final answer time. Let me summarize:
+
+- File: https://www.figma.com/design/LoWw4yZnsmEbrzRZ2AMTxG/
+- Workspace page: 2003:2 (03 · Workspace)
+- Screens:
+  - 01_Sign_Up: 2012:183
+  - 02_OTP: 2012:222
+  - 03_Home_My_Balance: 2008:60
+  - 04_Home_Upcoming_Bills: 2016:224
+  - 05_Home_Transactions: 2016:488
+  - 06_Discussion_Forum: 2024:873
+  - 07_Cards: 2019:412
+  - 08_Profile: 2020:529
+  - 09_Analytics: 2022:689
+  - 10_Markets: 2023:734
+  - 11_Send: 2024:806
+- Components: Tab Bar (2007:6), View Switch (2007:36), Account Header (2007:46), Transaction Row (2007:68), Bill Card (2007:84), plus cloned source assets library (2006:2).
+- Prototype: all links from brief wired (onboarding 01→02→03; view switching 03↔04↔05; tab bar Home/Analytics/Cards/Profile on 03/04/05/07/08/09; back links on 02/06/07/08/09/10/11; extra: Send → 11, Bessie contact → 11, Financial health → 09, messages → 06, Bitcoin asset → 10, See all → 05, Send button → 03).
+
+Limitations: none major. State design is manual per-frame (selected tabs/views, liked post, empty OTP boxes, signed amounts).

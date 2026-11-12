@@ -1,0 +1,197 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "393×852",
+      "nodes": 46,
+      "max_depth": 4,
+      "instances": 10,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "frame×14",
+        "instance×10",
+        "text×7",
+        "rectangle×7",
+        "vector×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "02_Apple_ID_Sheet",
+      "size": "393×852",
+      "nodes": 61,
+      "max_depth": 5,
+      "instances": 13,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "frame×20",
+        "instance×13",
+        "text×10",
+        "vector×10",
+        "rectangle×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "01_Welcome",
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "03_Explore",
+      "size": "393×852",
+      "nodes": 107,
+      "max_depth": 7,
+      "instances": 31,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "frame×44",
+        "instance×31",
+        "vector×16",
+        "text×15",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Explore",
+        "Icon_Bell",
+        "Vector",
+        "Content Scroll",
+        "Stories"
+      ]
+    },
+    {
+      "name": "04_Find_Partner",
+      "size": "393×852",
+      "nodes": 111,
+      "max_depth": 6,
+      "instances": 21,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "frame×44",
+        "instance×21",
+        "vector×20",
+        "text×19",
+        "ellipse×7"
+      ],
+      "names": [
+        "Header",
+        "Btn_Back_FindPartner",
+        "Vector",
+        "Find your partner",
+        "Frame",
+        "Card Stack"
+      ]
+    },
+    {
+      "name": "05_Friend_Profile",
+      "size": "393×852",
+      "nodes": 61,
+      "max_depth": 5,
+      "instances": 19,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "frame×26",
+        "instance×19",
+        "vector×8",
+        "text×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Btn_Back_Claire",
+        "Vector",
+        "Claire Smith",
+        "Icon_More",
+        "Profile Info"
+      ]
+    },
+    {
+      "name": "06_Short_Video",
+      "size": "393×852",
+      "nodes": 61,
+      "max_depth": 5,
+      "instances": 15,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "frame×20",
+        "vector×16",
+        "instance×15",
+        "text×9",
+        "ellipse×1"
+      ],
+      "names": [
+        "Short_Yu_Jian_Shore",
+        "Frame",
+        "Header",
+        "Btn_Back_Short",
+        "Vector",
+        "Short"
+      ]
+    },
+    {
+      "name": "07_Profile",
+      "size": "393×852",
+      "nodes": 55,
+      "max_depth": 5,
+      "instances": 17,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "frame×25",
+        "instance×17",
+        "text×7",
+        "vector×6"
+      ],
+      "names": [
+        "Header",
+        "Sarah Payne",
+        "Btn_Menu_Profile",
+        "Vector",
+        "Profile Info",
+        "Frame"
+      ]
+    },
+    {
+      "name": "08_Menu",
+      "size": "393×852",
+      "nodes": 133,
+      "max_depth": 6,
+      "instances": 36,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "frame×49",
+        "instance×36",
+        "vector×31",
+        "text×17"
+      ],
+      "names": [
+        "07_Profile",
+        "Header",
+        "Sarah Payne",
+        "Btn_Menu_Profile",
+        "Vector",
+        "Profile Info"
+      ]
+    }
+  ]
+}

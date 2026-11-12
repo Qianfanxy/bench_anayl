@@ -1,0 +1,105 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 21,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "ellipse×4",
+        "component×3",
+        "vector×3",
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "Ellipse",
+        "Logo_Travelin",
+        "Vector",
+        "Your Passport to Seamles",
+        "Rectangle",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "02_Get_Started",
+      "size": "430×932",
+      "nodes": 29,
+      "max_depth": 4,
+      "instances": 5,
+      "texts": 5,
+      "images": 1,
+      "types": [
+        "rectangle×7",
+        "frame×5",
+        "component×5",
+        "vector×5",
+        "text×5",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Rectangle",
+        "Header · over photo",
+        "Logo_Travelin",
+        "Vector",
+        "Language selector",
+        "English"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "430×932",
+      "nodes": 51,
+      "max_depth": 4,
+      "instances": 7,
+      "texts": 11,
+      "images": 1,
+      "types": [
+        "vector×11",
+        "frame×11",
+        "text×11",
+        "rectangle×9",
+        "component×7",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Rectangle",
+        "Logo_Travelin",
+        "Vector",
+        "Language selector",
+        "English",
+        "Icon_Chevron_Down"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "430×932",
+      "nodes": 138,
+      "max_depth": 4,
+      "instances": 17,
+      "texts": 51,
+      "images": 5,
+      "types": [
+        "text×51",
+        "frame×28",
+        "vector×21",
+        "component×17",
+        "rectangle×12",
+        "rectangle-image×5"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    }
+  ]
+}

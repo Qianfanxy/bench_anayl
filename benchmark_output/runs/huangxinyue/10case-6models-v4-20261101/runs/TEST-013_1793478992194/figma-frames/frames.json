@@ -1,0 +1,32 @@
+[
+  {
+    "node_id": "17:132",
+    "name": "01_Aktivitas",
+    "file": "17-132.png"
+  },
+  {
+    "node_id": "18:282",
+    "name": "02_Trending",
+    "file": "18-282.png"
+  },
+  {
+    "node_id": "21:437",
+    "name": "03_Detail_Saham",
+    "file": "21-437.png"
+  },
+  {
+    "node_id": "23:547",
+    "name": "04_Top_Up_Metode",
+    "file": "23-547.png"
+  },
+  {
+    "node_id": "23:672",
+    "name": "05_Top_Up_Nominal",
+    "file": "23-672.png"
+  },
+  {
+    "node_id": "24:704",
+    "name": "06_Top_Up_Pembayaran",
+    "file": "24-704.png"
+  }
+]

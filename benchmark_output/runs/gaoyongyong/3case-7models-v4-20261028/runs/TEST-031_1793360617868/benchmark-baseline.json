@@ -1,0 +1,37 @@
+{
+  "checked_at": "2026-10-30T11:43:37.864Z",
+  "file_key": "ZKy7Lk7LU6Rxwj4FybZg9P",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "2003:2",
+      "name": "03 · Workspace",
+      "child_count": 0
+    }
+  ],
+  "write_verified": true,
+  "write_probe": {
+    "id": "2004:2",
+    "page_id": "2003:2",
+    "removed": true
+  }
+}

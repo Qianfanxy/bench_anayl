@@ -1,0 +1,196 @@
+{
+  "file_key": "2j0VNEoP08ej2UUPo7l97U",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "6:2",
+      "name": "03 · Workspace",
+      "child_count": 5
+    }
+  ],
+  "workspace": {
+    "id": "6:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "9:2",
+        "name": "Components · Library",
+        "type": "FRAME",
+        "x": 1900,
+        "y": 0,
+        "width": 520,
+        "height": 1938,
+        "text_count": 31,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:15",
+        "name": "01_Onboarding",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 7,
+        "reaction_count": 2
+      },
+      {
+        "id": "15:169",
+        "name": "03_Home",
+        "type": "FRAME",
+        "x": 480,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 35,
+        "reaction_count": 1
+      },
+      {
+        "id": "15:309",
+        "name": "02_Phone_Number",
+        "type": "FRAME",
+        "x": 0,
+        "y": 940,
+        "width": 390,
+        "height": 844,
+        "text_count": 34,
+        "reaction_count": 3
+      },
+      {
+        "id": "16:166",
+        "name": "04_Menu",
+        "type": "FRAME",
+        "x": 960,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 49,
+        "reaction_count": 1
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nPayment Wallet — pay, manage, grow\nDesign a mobile payment wallet: onboard, start with a phone number, see your bank balances and recent transactions, and reach the main areas from the side menu. Canvas 390 × 844, iPhone. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator, system numeric keypad). Design all other states, the headers, the navigation and every business component as reusable components in your file.\n5. Use the illustration, avatars, bank and merchant marks and icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Onboarding\nGoal: Understand the app and choose to start.\nMUST INCLUDE\n• Actions: “Get Started” · “Sign in”\n• Copy: “Pay / Manage / Grow…” (one word per line) · “An easy app to manage all your payment and finance-related needs” · “Already have an account?”\n• Media: Illustration_Onboarding\nLINKS\n→ Get Started → 02_Phone_Number\n02_Phone_Number\nGoal: Enter a phone number to get started.\nMUST INCLUDE\n• Actions: “Cancel” · “Get Started”\n• Form: “Phone Number” · country code +91 · empty (placeholder 9812345678) · focused\n• Header: “Get Started” · “Please enter the mobile phone number”\n• Keyboard: system numeric keypad open (Numeric Keypad)\n• Presentation: sheet over 01_Onboarding\nLINKS\n→ Get Started → 03_Home\n→ Cancel → 01_Onboarding\n03_Home\nGoal: Check my balances, move money and see recent transactions.\nMUST INCLUDE\n• Accounts: Axis Bank · HDFC Bank · Deutsche Bank · Union Bank, each with its mark and balance (see DATA)\n• Actions: “Send” (Icon_Send) · “Receive” (Icon_Receive) · refresh balance (Icon_Refresh) · “Transaction History” · “Scan any QR” (Icon_Scan)\n• Balance: Bank_HSBC · “Last Updated Balance” · ₹85,625 · “Primary” (Icon_Check_Badge)\n• Header: Avatar_Hallie_Goebel (opens the menu) · search “Pay by name or phone” (Icon_Search) · history (Icon_History)\n• Offer: “Invite friends and get ₹1,000 reward” (Icon_Offer)\n• Transactions: “RECENT TRANSACTIONS” · 3 rows (see DATA)\nLINKS\n→ avatar → 04_Menu\n04_Menu\nGoal: Reach the main areas of the app.\nMUST INCLUDE\n• Account: Avatar_Hallie_Goebel · “Hallie Goebel” · hallie.goebel@example.com\n• Actions: “Logout” (Icon_Logout)\n• Menu: New Payment (Icon_New_Payment) · Bank Accounts (Icon_Bank) · All Transactions (Icon_History) · Rewards & Offers (Icon_Offer) · Settings (Icon_Settings) — source order\n• Presentation: side menu over 03_Home, with 03_Home still partly visible\nLINKS\n→ tap the visible part of 03_Home → 03_Home\nNavigation structure\n• Onboarding: 01_Onboarding → Get Started → 02_Phone_Number (sheet over 01) → Get Started → 03_Home; Cancel → 01.\n• 04_Menu is a side menu opened from the avatar on 03_Home. There is no tab bar in this task.\n• Entry only (no frame): Sign in, search, history, refresh, account tiles, Send, Receive, reward banner, transaction rows, Transaction History, Scan any QR, menu rows, Logout.\nFixed data & copy\nUse these values verbatim.\nUser\nHallie Goebel · hallie.goebel@example.com · Avatar_Hallie_Goebel\nPrimary account\nHSBC (Bank_HSBC) · Last Updated Balance ₹85,625 · Primary\nOther accounts (source order)\nAxis Bank ₹3,500 (Bank_Axis)\nHDFC Bank ₹63,520 (Bank_HDFC)\nDeutsche Bank ₹36,258 (Bank_Deutsche)\nUnion Bank ₹67,820 (Bank_Union)\nRecent transactions (newest first)\nPaytm Auto Pay · 22 Jan · Weekly transaction · −₹3,500 (Merchant_Paytm)\nRisa Midyett · 05 Jan · Gift for Christmas · +₹6,950 (Avatar_Risa_Midyett)\nAmazon Pantry · 01 Jan · Subscription payment · −₹1,200 (Merchant_Amazon)\nReward\nInvite friends and get ₹1,000 reward\nPhone sign-up\nCountry code +91 · field empty, placeholder 9812345678\nMenu (source order)\nNew Payment · Bank Accounts · All Transactions · Rewards & Offers · Settings · Logout\nWhat is fixed · what is yours\nFixed (given)\n• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand color #1E32FA and Inter\n• Media: illustration, avatars, bank and merchant marks, icons\n• Default Button, default Text Field, platform shell incl. numeric keypad\nYours (designer decides)\n• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, backgrounds / surfaces, Send / Receive, positive / negative amounts, reward banner, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: focused field, primary account, pressed, disabled\n• Headers, sheet, balance block, account tiles, actions, banner, transaction rows, scan button, side menu\n• How the illustration and photos are cropped and treated\nHow it is evaluated\nYour file is compared with this brief on coverage, data and flow — not on visual similarity to any original.\n1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (focused phone field with keypad, primary account, sheet and side-menu presentation)\nDeliverable: the link to your own Figma file containing the 4 named frames, your components and the prototype.",
+  "layer_summary": {
+    "board_count": 4,
+    "boards": [
+      {
+        "name": "01_Onboarding",
+        "size": "390×844",
+        "nodes": 23,
+        "max_depth": 3,
+        "instances": 4,
+        "texts": 7,
+        "images": 0,
+        "types": [
+          "text×7",
+          "rectangle×7",
+          "instance×4",
+          "frame×3",
+          "ellipse×2"
+        ],
+        "names": [
+          "Glow",
+          "Status Bar",
+          "9:41",
+          "Notch",
+          "Signal",
+          "Rectangle"
+        ]
+      },
+      {
+        "name": "03_Home",
+        "size": "390×844",
+        "nodes": 136,
+        "max_depth": 5,
+        "instances": 28,
+        "texts": 35,
+        "images": 0,
+        "types": [
+          "text×35",
+          "vector×32",
+          "frame×31",
+          "instance×28",
+          "rectangle×7",
+          "ellipse×2"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Notch",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "02_Phone_Number",
+        "size": "390×844",
+        "nodes": 75,
+        "max_depth": 5,
+        "instances": 8,
+        "texts": 34,
+        "images": 0,
+        "types": [
+          "text×34",
+          "frame×21",
+          "rectangle×9",
+          "instance×8",
+          "ellipse×2",
+          "vector×1"
+        ],
+        "names": [
+          "01_Onboarding (behind sh",
+          "Glow",
+          "Status Bar",
+          "9:41",
+          "Notch",
+          "Signal"
+        ]
+      },
+      {
+        "name": "04_Menu",
+        "size": "390×844",
+        "nodes": 188,
+        "max_depth": 6,
+        "instances": 41,
+        "texts": 49,
+        "images": 0,
+        "types": [
+          "text×49",
+          "frame×42",
+          "vector×42",
+          "instance×41",
+          "rectangle×10",
+          "ellipse×3"
+        ],
+        "names": [
+          "03_Home (behind menu)",
+          "Status Bar",
+          "9:41",
+          "Notch",
+          "Signal",
+          "Rectangle"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "max_dimension": 8000,
+  "max_base64_bytes": 5000000,
+  "max_total_bytes": 25165824,
+  "images": [
+    {
+      "index": 1,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-014_1793563139793/figma-frames/9-2.png",
+      "source_sha256": "ebf7197b9e7d0b0d481019de736c41e02a10d796c87a79f048a025fa658e25bf",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-014_1793563139793/figma-frames/9-2.png",
+      "original_size": [
+        1440,
+        1100
+      ],
+      "submitted_size": [
+        1440,
+        1100
+      ],
+      "resized": false,
+      "original_bytes": 85855,
+      "submitted_bytes": 85855,
+      "submitted_base64_bytes": 114476
+    },
+    {
+      "index": 2,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-014_1793563139793/figma-frames/9-306.png",
+      "source_sha256": "a6a75f1a32585bb0facb46160cfebdfdf9d25190db77f747e897296471c3c0aa",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-014_1793563139793/figma-frames/9-306.png",
+      "original_size": [
+        1440,
+        3880
+      ],
+      "submitted_size": [
+        1440,
+        3880
+      ],
+      "resized": false,
+      "original_bytes": 1070619,
+      "submitted_bytes": 1070619,
+      "submitted_base64_bytes": 1427492
+    },
+    {
+      "index": 3,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-014_1793563139793/figma-frames/10-375.png",
+      "source_sha256": "40813131e169c5de0690c504766da497e86c37ca8efaecd0bd10505346b5b516",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-014_1793563139793/figma-frames/10-375.png",
+      "original_size": [
+        1440,
+        2340
+      ],
+      "submitted_size": [
+        1440,
+        2340
+      ],
+      "resized": false,
+      "original_bytes": 470236,
+      "submitted_bytes": 470236,
+      "submitted_base64_bytes": 626984
+    },
+    {
+      "index": 4,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-014_1793563139793/figma-frames/10-748.png",
+      "source_sha256": "979478186deafb1928e99600538462f9d161456daf8c8a6cd3972e65b8d8b048",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-014_1793563139793/figma-frames/10-748.png",
+      "original_size": [
+        1440,
+        3040
+      ],
+      "submitted_size": [
+        1440,
+        3040
+      ],
+      "resized": false,
+      "original_bytes": 577939,
+      "submitted_bytes": 577939,
+      "submitted_base64_bytes": 770588
+    },
+    {
+      "index": 5,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-014_1793563139793/figma-frames/11-1074.png",
+      "source_sha256": "94c9d522d23ec1497d40340b6b96ba23827c67c089b5723fec3a07d278b0a4c7",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-014_1793563139793/figma-frames/11-1074.png",
+      "original_size": [
+        1440,
+        1460
+      ],
+      "submitted_size": [
+        1440,
+        1460
+      ],
+      "resized": false,
+      "original_bytes": 191401,
+      "submitted_bytes": 191401,
+      "submitted_base64_bytes": 255204
+    }
+  ]
+}

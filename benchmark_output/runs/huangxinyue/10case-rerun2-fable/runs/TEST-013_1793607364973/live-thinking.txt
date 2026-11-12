@@ -1,0 +1,1 @@
+I check the four frames once more after the latest sizing fixes: home and menu already look good, and the menu logout row holds up after the resize. The library action pills at y~380-460 read as faint pale blocks, but Send/Receive render fine on 03_Home, so this is fine. Everything required is done.

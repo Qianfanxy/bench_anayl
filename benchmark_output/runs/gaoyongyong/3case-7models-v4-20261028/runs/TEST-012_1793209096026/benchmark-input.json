@@ -1,0 +1,29 @@
+{
+  "mode": "benchmark-design",
+  "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/j3A0ecMMlYQqRT10ygTiTe/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+  "target": {
+    "url": "https://www.figma.com/design/j3A0ecMMlYQqRT10ygTiTe/",
+    "fileKey": "j3A0ecMMlYQqRT10ygTiTe"
+  },
+  "model_id": "/mnt/afs/panzhengyuan/llm_training/project/rate_website_figma-sft-cc-tap/storage/local-runtime/model-local-a282d9c9a73446c8/ckpt-270-shadow",
+  "reasoning_mode": "summary",
+  "system_file": "/mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-012_1793209096026/benchmark-system.txt",
+  "tools": [
+    "whoami",
+    "get_metadata",
+    "use_figma",
+    "get_screenshot"
+  ],
+  "generation_mode": "cc",
+  "claude_code_base_system": true,
+  "runtime": {
+    "shared_figma_concurrency": 6,
+    "model_concurrency": 1,
+    "mcp_min_interval_seconds": 4,
+    "account_id": "enterprise_gaoyongyong",
+    "account_identity": "gaoyongyong@tetras.ai",
+    "policy_hash": "131df803c2e453b1f97723f91c76fc48af1c415eca96ec92cdc1e3a2294075b3",
+    "auto_compact_window": "100000",
+    "max_context_tokens": "65536"
+  }
+}

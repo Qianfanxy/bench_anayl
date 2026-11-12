@@ -1,0 +1,44 @@
+[
+  {
+    "node_id": "13:12",
+    "name": "01_Get_Started",
+    "file": "13-12.png"
+  },
+  {
+    "node_id": "13:32",
+    "name": "02_Home",
+    "file": "13-32.png"
+  },
+  {
+    "node_id": "14:65",
+    "name": "03_Wallet",
+    "file": "14-65.png"
+  },
+  {
+    "node_id": "14:130",
+    "name": "04_Add_Card",
+    "file": "14-130.png"
+  },
+  {
+    "node_id": "16:166",
+    "name": "05_Payment",
+    "file": "16-166.png"
+  },
+  {
+    "node_id": "16:210",
+    "name": "06_Receipt",
+    "file": "16-210.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "OHClunQ9Zd1sWb1qp1X84s",
+        "nodeId": "16:210",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "8b27f91a269dfd3de74970ec216f55f90c29963e08dba46cfbe7c7e1e335261d",
+      "response_file": "_debug/v2-native-16-210.png.txt",
+      "response_sha256": "8e500e20eee08790935b38f43d6615c279a5bc6e42cbf0fc70f777eb216328d2"
+    }
+  }
+]

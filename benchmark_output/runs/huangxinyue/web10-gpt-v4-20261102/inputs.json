@@ -1,0 +1,173 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "execution",
+  "mode": "benchmark-design",
+  "schema_version": 2,
+  "fresh_targets": true,
+  "query_modified": false,
+  "id": "web10-gpt-v4-20261102",
+  "dataset_hash": "b83fde03db52ac2b74c9313006fd4739b3adee017671d593d51f4c0892f804b2",
+  "plan_hash": "1cec97f766eeb885864d51e85a00e1003fc8aa8c5941a252d226bc34e74603c8",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "required_pages": [
+    "00",
+    "01",
+    "02"
+  ],
+  "optional_pages": [
+    "04"
+  ],
+  "workspace": "03 · Workspace",
+  "excluded_file_keys": [
+    "2Q0GuFJHXWFV6nKJTChfBz",
+    "slpZ7oYW9ULwsgXDNjdXHA",
+    "MJqW2pGKpfgozMkzULp1Ne",
+    "O3xqX7yz6SWQNetHEC6PTm",
+    "DVZvF4tWQF60oGtdUXqfNY",
+    "ZTk0l7k9c4VHhZoZHocGuw",
+    "mzZY1AgFUnNSEMjiDb01rC",
+    "5q850sG5h8CieZrpvS6l8p",
+    "c3zaMtiBbbSxN3JfJtE2Hu",
+    "VJFMLeHGkYbNHyUaWdOGWs"
+  ],
+  "groups": [
+    {
+      "task": "model-1",
+      "model_id": "model_de5fc4c9cdb841e8",
+      "model_name": "gpt-6-astra",
+      "tests": [
+        {
+          "assignment_id": "assignment_a2a6e4722f609d889267",
+          "case_id": "case-001",
+          "model_id": "model_de5fc4c9cdb841e8",
+          "question": "case-001",
+          "source_figma_url": "https://www.figma.com/design/2Q0GuFJHXWFV6nKJTChfBz/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/2Q0GuFJHXWFV6nKJTChfBz/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "2bb00c4079ce209e5154da1c7e05029e3ac07dc72c93c87283fea557261ac19b",
+          "figma_url": "https://www.figma.com/design/4UWDaaXGUxEUlEgpwKCJ4x/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/4UWDaaXGUxEUlEgpwKCJ4x/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/4UWDaaXGUxEUlEgpwKCJ4x/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        },
+        {
+          "assignment_id": "assignment_ee9dfe42fd752bf6ca5c",
+          "case_id": "case-002",
+          "model_id": "model_de5fc4c9cdb841e8",
+          "question": "case-002",
+          "source_figma_url": "https://www.figma.com/design/slpZ7oYW9ULwsgXDNjdXHA/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/slpZ7oYW9ULwsgXDNjdXHA/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "6f91092f362c18d3151cc14f14e2038a350710882293c19c9db34294e182106a",
+          "figma_url": "https://www.figma.com/design/Qy9vdXkrqIUkPTUOrHtCoB/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/Qy9vdXkrqIUkPTUOrHtCoB/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/Qy9vdXkrqIUkPTUOrHtCoB/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        },
+        {
+          "assignment_id": "assignment_c629cc5757a5a476528a",
+          "case_id": "case-003",
+          "model_id": "model_de5fc4c9cdb841e8",
+          "question": "case-003",
+          "source_figma_url": "https://www.figma.com/design/MJqW2pGKpfgozMkzULp1Ne/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/MJqW2pGKpfgozMkzULp1Ne/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "633c7308ec22680f356c4aca6163e1ccb3b3f39652e1bf98f0880461a36b1a9e",
+          "figma_url": "https://www.figma.com/design/df4oUykUrTHP5uslm044oy/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/df4oUykUrTHP5uslm044oy/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/df4oUykUrTHP5uslm044oy/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        },
+        {
+          "assignment_id": "assignment_0658839e6d4d15cd6e90",
+          "case_id": "case-004",
+          "model_id": "model_de5fc4c9cdb841e8",
+          "question": "case-004",
+          "source_figma_url": "https://www.figma.com/design/O3xqX7yz6SWQNetHEC6PTm/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/O3xqX7yz6SWQNetHEC6PTm/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "252a44af5ddc9b3d95d1ad7249fa7400850503a1cda69510d02929ebd725629d",
+          "figma_url": "https://www.figma.com/design/RFYXFm8XMqIdTQ8asQszCe/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/RFYXFm8XMqIdTQ8asQszCe/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/RFYXFm8XMqIdTQ8asQszCe/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        },
+        {
+          "assignment_id": "assignment_d5d6541154b6eacf06b5",
+          "case_id": "case-005",
+          "model_id": "model_de5fc4c9cdb841e8",
+          "question": "case-005",
+          "source_figma_url": "https://www.figma.com/design/DVZvF4tWQF60oGtdUXqfNY/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/DVZvF4tWQF60oGtdUXqfNY/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "ccda63fa9747eb5962b9a7771172f395de1f8246fd9258fbf2634909a318edea",
+          "figma_url": "https://www.figma.com/design/7BzzTpBre485k8afqxghby/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/7BzzTpBre485k8afqxghby/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/7BzzTpBre485k8afqxghby/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        },
+        {
+          "assignment_id": "assignment_a069da70b5a5bdc1dd12",
+          "case_id": "case-006",
+          "model_id": "model_de5fc4c9cdb841e8",
+          "question": "case-006",
+          "source_figma_url": "https://www.figma.com/design/ZTk0l7k9c4VHhZoZHocGuw/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/ZTk0l7k9c4VHhZoZHocGuw/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "8af7098d485b7b8757eee07bd18678dacb18f1a51f4f1d2d742d506988e3e8ff",
+          "figma_url": "https://www.figma.com/design/46YwuqmP8FG6cneTrpKvmr/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/46YwuqmP8FG6cneTrpKvmr/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/46YwuqmP8FG6cneTrpKvmr/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        },
+        {
+          "assignment_id": "assignment_6f52debdfbd20d53b854",
+          "case_id": "case-007",
+          "model_id": "model_de5fc4c9cdb841e8",
+          "question": "case-007",
+          "source_figma_url": "https://www.figma.com/design/mzZY1AgFUnNSEMjiDb01rC/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/mzZY1AgFUnNSEMjiDb01rC/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "ab7dd6e1e66174cd1e9b6300716449c5d9e37426fb04976b1d2b6e9bad809eff",
+          "figma_url": "https://www.figma.com/design/FzpLF8XgiVO0V3Mmsa76Bx/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/FzpLF8XgiVO0V3Mmsa76Bx/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/FzpLF8XgiVO0V3Mmsa76Bx/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        },
+        {
+          "assignment_id": "assignment_1764b34c8b631b1710fe",
+          "case_id": "case-008",
+          "model_id": "model_de5fc4c9cdb841e8",
+          "question": "case-008",
+          "source_figma_url": "https://www.figma.com/design/5q850sG5h8CieZrpvS6l8p/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/5q850sG5h8CieZrpvS6l8p/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "479bfea215d137d3d2e14d2c5ca1f01679f98a166804507241e836708a026290",
+          "figma_url": "https://www.figma.com/design/XYSydQ2UsQ0I3wBOOrDVS8/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/XYSydQ2UsQ0I3wBOOrDVS8/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/XYSydQ2UsQ0I3wBOOrDVS8/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        },
+        {
+          "assignment_id": "assignment_12317b4e68943753f16e",
+          "case_id": "case-009",
+          "model_id": "model_de5fc4c9cdb841e8",
+          "question": "case-009",
+          "source_figma_url": "https://www.figma.com/design/c3zaMtiBbbSxN3JfJtE2Hu/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/c3zaMtiBbbSxN3JfJtE2Hu/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "8e14a516ebc9d905ef497863fa6d275b5438cab69f6e857ac38c23b897c09380",
+          "figma_url": "https://www.figma.com/design/eMFNy3eHUij5PDK3TysL3U/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/eMFNy3eHUij5PDK3TysL3U/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/eMFNy3eHUij5PDK3TysL3U/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        },
+        {
+          "assignment_id": "assignment_f36a5a3cec4978550ac7",
+          "case_id": "case-010",
+          "model_id": "model_de5fc4c9cdb841e8",
+          "question": "case-010",
+          "source_figma_url": "https://www.figma.com/design/VJFMLeHGkYbNHyUaWdOGWs/",
+          "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/VJFMLeHGkYbNHyUaWdOGWs/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "source_query_hash": "1c071e53c7f2a1c3259a3054a34573f8cf4acc47c81c76fdda053b8b2feddb1a",
+          "figma_url": "https://www.figma.com/design/i0K5O6dsJMA8T1FnWfvp2x/",
+          "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/i0K5O6dsJMA8T1FnWfvp2x/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "original_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/i0K5O6dsJMA8T1FnWfvp2x/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+          "query_transform": "replace-url-only"
+        }
+      ]
+    }
+  ],
+  "content_hash": "0ef3383f23eb388d83ea19ac6d4c1c60832bd11cc609866f8aaf84d9fb947c2f"
+}

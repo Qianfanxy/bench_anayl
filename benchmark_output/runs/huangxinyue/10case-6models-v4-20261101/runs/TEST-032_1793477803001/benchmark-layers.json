@@ -1,0 +1,105 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 17,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "rectangle×6",
+        "instance×3",
+        "vector×3",
+        "text×2",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "02_Get_Started",
+      "size": "430×932",
+      "nodes": 27,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "rectangle×7",
+        "vector×5",
+        "text×4",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Background Photo",
+        "Scrim",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "430×932",
+      "nodes": 52,
+      "max_depth": 5,
+      "instances": 14,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×11",
+        "frame×9",
+        "rectangle×9",
+        "vector×8",
+        "ellipse×1"
+      ],
+      "names": [
+        "Photo Header",
+        "Photo_Image",
+        "Scrim",
+        "Status Bar",
+        "9:41",
+        "Signal"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "430×932",
+      "nodes": 167,
+      "max_depth": 6,
+      "instances": 38,
+      "texts": 54,
+      "images": 0,
+      "types": [
+        "text×54",
+        "frame×40",
+        "instance×38",
+        "vector×21",
+        "rectangle×10",
+        "ellipse×4"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    }
+  ]
+}

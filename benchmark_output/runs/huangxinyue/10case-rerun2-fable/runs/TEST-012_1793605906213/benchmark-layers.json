@@ -1,0 +1,155 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 22,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "instance×5",
+        "text×5",
+        "ellipse×2",
+        "frame×2",
+        "vector×1"
+      ],
+      "names": [
+        "Glow",
+        "Logo_Expenio",
+        "Vector",
+        "Illustration_Get_Started",
+        "Eyebrow",
+        "Headline"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "375×812",
+      "nodes": 72,
+      "max_depth": 4,
+      "instances": 14,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "instance×14",
+        "rectangle×14",
+        "frame×9",
+        "vector×7",
+        "ellipse×3"
+      ],
+      "names": [
+        "Avatar",
+        "Avatar_Maria_Lopez",
+        "Greeting",
+        "Screen",
+        "Notifications",
+        "Frame"
+      ]
+    },
+    {
+      "name": "03_Wallet",
+      "size": "375×812",
+      "nodes": 63,
+      "max_depth": 4,
+      "instances": 17,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "instance×17",
+        "rectangle×15",
+        "frame×5",
+        "ellipse×4",
+        "vector×3"
+      ],
+      "names": [
+        "IconButton / Back",
+        "Icon_Back",
+        "Vector",
+        "Screen",
+        "Add card",
+        "IconButton / AddCard"
+      ]
+    },
+    {
+      "name": "04_Add_Card",
+      "size": "375×812",
+      "nodes": 100,
+      "max_depth": 5,
+      "instances": 25,
+      "texts": 33,
+      "images": 0,
+      "types": [
+        "text×33",
+        "instance×25",
+        "rectangle×18",
+        "vector×12",
+        "frame×11",
+        "ellipse×1"
+      ],
+      "names": [
+        "Wallet (background)",
+        "Screen",
+        "PaymentCard",
+        "Card_Texture_Coral",
+        "Scrim",
+        "Logo_Visa"
+      ]
+    },
+    {
+      "name": "05_Payment",
+      "size": "375×812",
+      "nodes": 45,
+      "max_depth": 4,
+      "instances": 7,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "text×17",
+        "frame×8",
+        "rectangle×8",
+        "instance×7",
+        "vector×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "CancelTop",
+        "Screen",
+        "AmountLabel",
+        "Amount",
+        "PayingLabel",
+        "Payee"
+      ]
+    },
+    {
+      "name": "06_Receipt",
+      "size": "375×812",
+      "nodes": 90,
+      "max_depth": 4,
+      "instances": 7,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "vector×51",
+        "text×17",
+        "rectangle×9",
+        "instance×7",
+        "frame×5",
+        "ellipse×1"
+      ],
+      "names": [
+        "Screen",
+        "Share",
+        "IconButton / Share",
+        "Icon_Share",
+        "Vector",
+        "Success"
+      ]
+    }
+  ]
+}

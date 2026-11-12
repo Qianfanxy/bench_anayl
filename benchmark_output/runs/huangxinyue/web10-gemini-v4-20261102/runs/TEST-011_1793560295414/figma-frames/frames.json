@@ -1,0 +1,71 @@
+[
+  {
+    "node_id": "18:2",
+    "name": "01_Home",
+    "file": "18-2.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "lyAJXJy8GatyIPzWRh2m00",
+        "nodeId": "18:2",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "50c763904290177f12fcf664a45daa8d64d91b53bd457de7bf84782d750819b9",
+      "response_file": "_debug/v2-native-18-2.png.txt",
+      "response_sha256": "4082cb7d4521145c47da4594b263e66e52824fa54cb76ebcb7fb2683b76e0e40"
+    }
+  },
+  {
+    "node_id": "20:11",
+    "name": "02_Shop",
+    "file": "20-11.png"
+  },
+  {
+    "node_id": "21:27",
+    "name": "03_Product",
+    "file": "21-27.png"
+  },
+  {
+    "node_id": "21:212",
+    "name": "04_Cart_Drawer",
+    "file": "21-212.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "lyAJXJy8GatyIPzWRh2m00",
+        "nodeId": "21:212",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "2b7f667149872671e4a929f88f45f9f846caf5a8a3f86a32d42a8a66bc9b569f",
+      "response_file": "_debug/v2-native-21-212.png.txt",
+      "response_sha256": "9ea3c86dc53a9489bfffd66d777e09ed8d18354a2717a375b8096e6a135db360"
+    }
+  },
+  {
+    "node_id": "22:58",
+    "name": "05_Comparison",
+    "file": "22-58.png"
+  },
+  {
+    "node_id": "23:78",
+    "name": "06_Cart",
+    "file": "23-78.png"
+  },
+  {
+    "node_id": "24:88",
+    "name": "07_Checkout",
+    "file": "24-88.png"
+  },
+  {
+    "node_id": "25:99",
+    "name": "08_Contact",
+    "file": "25-99.png"
+  },
+  {
+    "node_id": "26:111",
+    "name": "09_Blog",
+    "file": "26-111.png"
+  }
+]

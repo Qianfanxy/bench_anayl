@@ -1,0 +1,28 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4186",
+      "nodes": 247,
+      "max_depth": 8,
+      "instances": 27,
+      "texts": 77,
+      "images": 0,
+      "types": [
+        "frame×108",
+        "text×77",
+        "vector×35",
+        "instance×27"
+      ],
+      "names": [
+        "Header",
+        "Logo_MAC",
+        "Vector",
+        "Navigation",
+        "Frame",
+        "Service"
+      ]
+    }
+  ]
+}

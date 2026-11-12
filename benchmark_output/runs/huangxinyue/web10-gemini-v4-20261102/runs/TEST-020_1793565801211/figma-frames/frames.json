@@ -1,0 +1,19 @@
+[
+  {
+    "node_id": "11:24",
+    "name": "01_Home",
+    "file": "11-24.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "ZAKEUNXvGBdT64XYrimWYY",
+        "nodeId": "11:24",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "c002c2d735262493a816548427038afc68b09e332de31fe7514c926288f7ae54",
+      "response_file": "_debug/v2-native-11-24.png.txt",
+      "response_sha256": "5eb667eea9977923af71d627a4dc78adcc15a4bc759630d10af0e7a5aaaf0426"
+    }
+  }
+]

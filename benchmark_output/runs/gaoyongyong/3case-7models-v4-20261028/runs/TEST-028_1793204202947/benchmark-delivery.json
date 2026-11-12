@@ -1,0 +1,27 @@
+{
+  "verified": true,
+  "design_present": true,
+  "expected_screens": [
+    "01_Splash",
+    "02_Home",
+    "03_Product_Cheeseburger",
+    "04_Product_Veggie",
+    "05_Product_Chicken",
+    "06_Product_Fried_Chicken",
+    "07_Customize",
+    "08_Payment",
+    "09_Payment_Success_Overlay",
+    "10_Profile",
+    "11_Support_Chat"
+  ],
+  "frame_count": 11,
+  "missing_screens": [
+    "01_Splash"
+  ],
+  "quota_errors": 1,
+  "artifact_state": "incomplete",
+  "infrastructure_blocked": true,
+  "permission_errors": 0,
+  "io_errors": 0,
+  "ready_for_scoring": true
+}

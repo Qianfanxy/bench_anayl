@@ -1,0 +1,266 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "design3-7models-v4-20261028",
+  "dataset_hash": "f204088b4645ccbe90b7405a8830e269f04e170bb33aa2dd4af8fd6b1fcb9e8f",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_local_a282d9c9a73446c8",
+      "name": "Qwen3.8-27B Figma Edit · ckpt-270",
+      "provider": "SGLang",
+      "connection_mode": "local-sglang",
+      "base_url": "http://127.0.0.1:18193",
+      "host": "127.0.0.1",
+      "port": 18193,
+      "model_id": "/mnt/afs/panzhengyuan/llm_training/project/rate_website_figma-sft-cc-tap/storage/local-runtime/model-local-a282d9c9a73446c8/ckpt-270-shadow",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 0,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_claude_opus55_direct",
+      "name": "Opus 5.5（三方A）",
+      "provider": "Claude Code",
+      "connection_mode": "direct",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "127.0.0.1",
+      "port": 0,
+      "model_id": "claude-opus-5-5/awsb_L/sfa",
+      "auth_mode": "auto",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "none",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_claude_fable51_login",
+      "name": "Fable 5.1",
+      "provider": "Claude Code",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "https://tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "claude-fable-5-1/mix_L/sfm",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "none",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_glm_53_flash_cc",
+      "name": "GLM-5.3 Flash",
+      "provider": "qnaigc / 智谱",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "https://tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "glm-5.3-flash/tencent/sfb",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 0,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_gemini_31_pro_cc",
+      "name": "Gemini 3.5 Flash",
+      "provider": "TokenHub / Gemini",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "gemini-3.5-flash",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 1,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_kimi_k3_cc",
+      "name": "Kimi K3",
+      "provider": "TokenHub / Kimi",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "kimi-k3/tencent/sfb",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 0,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_de5fc4c9cdb841e8",
+      "name": "gpt-6-astra",
+      "provider": "Claude Code",
+      "connection_mode": "direct",
+      "base_url": "http://127.0.0.1:18195",
+      "host": "127.0.0.1",
+      "port": 18185,
+      "model_id": "gpt-6-astra/azure_L/sfl",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "openai",
+      "can_evaluate": 1,
+      "buffered_stream": 1,
+      "vision": 1,
+      "generation_mode": "direct"
+    }
+  ],
+  "case_count": 3,
+  "assignment_count": 21,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 6,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_f02f809f04a822a59c65",
+      "case_id": "case-001",
+      "model_id": "model_local_a282d9c9a73446c8"
+    },
+    {
+      "assignment_id": "assignment_f7c81811dfe2411dbc14",
+      "case_id": "case-002",
+      "model_id": "model_local_a282d9c9a73446c8"
+    },
+    {
+      "assignment_id": "assignment_790c2b9bf19124c0a53f",
+      "case_id": "case-003",
+      "model_id": "model_local_a282d9c9a73446c8"
+    },
+    {
+      "assignment_id": "assignment_4e97c134991ae79fb283",
+      "case_id": "case-001",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_11ccb6108ea6a2eb1c71",
+      "case_id": "case-002",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_9fb1b2b466d8246fb782",
+      "case_id": "case-003",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_28dd21f32c1fc3990d05",
+      "case_id": "case-001",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_d03ec6817af82f9aba21",
+      "case_id": "case-002",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_ab51719db72989fc1f57",
+      "case_id": "case-003",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_af1fcc77084259c6f4b2",
+      "case_id": "case-001",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_e08049cbd4a9a2a12e10",
+      "case_id": "case-002",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_5414b738c2358ba3c4ed",
+      "case_id": "case-003",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_4aa8af618827312c0ac0",
+      "case_id": "case-001",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_c4d5983867460d58a815",
+      "case_id": "case-002",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_794b84b5af15f4e6323d",
+      "case_id": "case-003",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_cf62d5f1a05ec6f1e8e5",
+      "case_id": "case-001",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_21850faafafaabff698f",
+      "case_id": "case-002",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_309936a7680b37fc7b77",
+      "case_id": "case-003",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_1bf613041134eb52406a",
+      "case_id": "case-001",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_b68955d4854c0fd25663",
+      "case_id": "case-002",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_c6a15983174c37e9765d",
+      "case_id": "case-003",
+      "model_id": "model_de5fc4c9cdb841e8"
+    }
+  ],
+  "content_hash": "0ddc8b974ef5e8f82f7960cba81f7ba5f6dcbe7c8ce53ae2b7a6a38f9644412c"
+}

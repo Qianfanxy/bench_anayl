@@ -1,0 +1,64 @@
+[
+  {
+    "node_id": "18:3",
+    "name": "Furniro · UI system",
+    "file": "18-3.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "4UWDaaXGUxEUlEgpwKCJ4x",
+        "nodeId": "18:3",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "0bb9da2c9debaa309902108a99454e856fa4842bbe6fb0f19996245dccc2fa77",
+      "response_file": "_debug/v2-native-18-3.png.txt",
+      "response_sha256": "8a509961b3781d032c4158b72a524feac7fb22beb3bcf4afa17ec78e57718c08"
+    }
+  },
+  {
+    "node_id": "19:2",
+    "name": "01_Home",
+    "file": "19-2.png"
+  },
+  {
+    "node_id": "19:8",
+    "name": "02_Shop",
+    "file": "19-8.png"
+  },
+  {
+    "node_id": "19:17",
+    "name": "03_Product",
+    "file": "19-17.png"
+  },
+  {
+    "node_id": "19:26",
+    "name": "05_Comparison",
+    "file": "19-26.png"
+  },
+  {
+    "node_id": "19:35",
+    "name": "06_Cart",
+    "file": "19-35.png"
+  },
+  {
+    "node_id": "19:44",
+    "name": "07_Checkout",
+    "file": "19-44.png"
+  },
+  {
+    "node_id": "19:53",
+    "name": "08_Contact",
+    "file": "19-53.png"
+  },
+  {
+    "node_id": "19:62",
+    "name": "09_Blog",
+    "file": "19-62.png"
+  },
+  {
+    "node_id": "21:296",
+    "name": "04_Cart_Drawer",
+    "file": "21-296.png"
+  }
+]

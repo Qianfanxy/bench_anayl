@@ -1,0 +1,382 @@
+{
+  "file_key": "4UWDaaXGUxEUlEgpwKCJ4x",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "15:2",
+      "name": "03 · Workspace",
+      "child_count": 11
+    }
+  ],
+  "workspace": {
+    "id": "15:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "17:5",
+        "name": "Build utilities",
+        "type": "COMPONENT",
+        "x": -3200,
+        "y": 0,
+        "width": 3000,
+        "height": 2200,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "18:3",
+        "name": "Furniro · UI system",
+        "type": "FRAME",
+        "x": -1800,
+        "y": 0,
+        "width": 1440,
+        "height": 9000,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "19:2",
+        "name": "01_Home",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 4360,
+        "text_count": 63,
+        "reaction_count": 20
+      },
+      {
+        "id": "19:8",
+        "name": "02_Shop",
+        "type": "FRAME",
+        "x": 1600,
+        "y": 0,
+        "width": 1440,
+        "height": 2960,
+        "text_count": 78,
+        "reaction_count": 23
+      },
+      {
+        "id": "19:17",
+        "name": "03_Product",
+        "type": "FRAME",
+        "x": 3200,
+        "y": 0,
+        "width": 1440,
+        "height": 3130,
+        "text_count": 54,
+        "reaction_count": 12
+      },
+      {
+        "id": "19:26",
+        "name": "05_Comparison",
+        "type": "FRAME",
+        "x": 0,
+        "y": 4650,
+        "width": 1440,
+        "height": 3375,
+        "text_count": 104,
+        "reaction_count": 13
+      },
+      {
+        "id": "19:35",
+        "name": "06_Cart",
+        "type": "FRAME",
+        "x": 1600,
+        "y": 4650,
+        "width": 1440,
+        "height": 1460,
+        "text_count": 35,
+        "reaction_count": 10
+      },
+      {
+        "id": "19:44",
+        "name": "07_Checkout",
+        "type": "FRAME",
+        "x": 3200,
+        "y": 4650,
+        "width": 1440,
+        "height": 2600,
+        "text_count": 58,
+        "reaction_count": 9
+      },
+      {
+        "id": "19:53",
+        "name": "08_Contact",
+        "type": "FRAME",
+        "x": 0,
+        "y": 9300,
+        "width": 1440,
+        "height": 1960,
+        "text_count": 43,
+        "reaction_count": 7
+      },
+      {
+        "id": "19:62",
+        "name": "09_Blog",
+        "type": "FRAME",
+        "x": 1600,
+        "y": 9300,
+        "width": 1440,
+        "height": 3410,
+        "text_count": 50,
+        "reaction_count": 8
+      },
+      {
+        "id": "21:296",
+        "name": "04_Cart_Drawer",
+        "type": "FRAME",
+        "x": 4800,
+        "y": 0,
+        "width": 1440,
+        "height": 3130,
+        "text_count": 63,
+        "reaction_count": 15
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nFurniro — furniture store website\nDesign a furniture e-commerce website: browse the range, open a product, add it to the cart, compare two sofas, check out, contact the store and read the blog. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 9 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the logo, the photos, the social logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Home\nGoal: Get a feel for the store and find products.\nMUST INCLUDE\n• Browse The Range: “Browse The Range” · “Find the right pieces for every room in your home.” · Dining · Living · Bedroom, each with its photo (Photo_Range_Dining, Photo_Range_Living, Photo_Range_Bedroom)\n• Footer: see DATA (Footer)\n• Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · current: Home · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart)\n• Hero: Photo_Hero · “New Arrival” · “Discover Our New Collection” · “Handcrafted sofas, chairs and tables for every room — explore our latest arrivals.” · “BUY NOW”\n• Inspiration: “50+ Beautiful rooms inspiration” · “Our designers have already made many beautiful room prototypes to inspire you.” · “Explore More” · room slides Photo_Inspiration_Inner_Peace, Photo_Inspiration_2, Photo_Inspiration_3 · current slide: “01 — Bed Room” · “Inner Peace” · open (Icon_Arrow_Right) · next (Icon_Chevron_Right) · slide indicator: 4 slides, current 1\n• Our Products: “Our Products” · 8 product cards, each with photo, name, description, price, old price and badge where given (see DATA) · “Show More”\n• Product card hover: the Leviosa card is shown in its hover state with “Add to cart” · Share (Icon_Share) · Compare (Icon_Compare) · Like (Icon_Heart)\n• Share your setup: “Share your setup with” · “#FurniroFurniture” · Photo_Setup_1 – Photo_Setup_9\nLINKS\n→ Shop (nav), BUY NOW, Show More → 02_Shop\n→ any product card → 03_Product\n→ Compare (hover card) → 05_Comparison\n→ cart (header) → 06_Cart\n→ Contact (nav) → 08_Contact\n02_Shop\nGoal: Browse the full catalog.\nMUST INCLUDE\n• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA)\n• Footer: see DATA (Footer)\n• Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · current: Shop · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart)\n• Page title: Photo_Page_Banner · “Shop” · breadcrumb Home › Shop (Icon_Chevron_Right)\n• Pagination: 1 · 2 · 3 · “Next” · current: 1\n• Products: 16 product cards — the 8 products of DATA, then the same 8 again; the first Leviosa card is in its hover state (“Add to cart” · Share · Compare · Like)\n• Toolbar: Filter (Icon_Filter) · grid view (Icon_Grid) · list view (Icon_View_List) · current view: grid · “Showing 1–16 of 32 results” · “Show” 16 · “Sort by” Default (Icon_Chevron_Down)\nLINKS\n→ any product card → 03_Product\n→ Compare (hover card) → 05_Comparison\n→ Home (nav or breadcrumb) → 01_Home\n→ cart (header) → 06_Cart\n03_Product\nGoal: Decide on the Asgaard sofa and add it to the cart.\nMUST INCLUDE\n• Breadcrumb: Home › Shop › Asgaard sofa (Icon_Chevron_Right)\n• Description tabs: Description · Additional Information · Reviews [204] · current: Description · description text (see DATA) · Photo_Cloud_Sofa_1 · Photo_Cloud_Sofa_2\n• Footer: see DATA (Footer)\n• Gallery: Photo_Asgaard_Sofa (main) · thumbnails Photo_Outdoor_Sofa_Set, Photo_Outdoor_Sofa_Set_Alt, Photo_Stuart_Sofa, Photo_Maya_Sofa\n• Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · current: Shop · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart)\n• Meta: SKU SS001 · Category Sofas · Tags Sofa, Chair, Home, Shop · Share Logo_Facebook, Logo_LinkedIn, Logo_Twitter\n• Options: Size L · XL · XS · selected: L · Color purple · black · gold (see DATA)\n• Purchase: quantity − 1 + · “Add To Cart” · “+ Compare”\n• Rating: 4.7 (Icon_Star, Icon_Star_Half) · “204 Customer Reviews”\n• Related Products: “Related Products” · Syltherine · Leviosa · Lolito · Respira cards · “Show More”\n• Summary: “Asgaard sofa” · Rs. 250,000.00 · short description (see DATA)\nLINKS\n→ Add To Cart → 04_Cart_Drawer\n→ + Compare → 05_Comparison\n→ Shop (breadcrumb) → 02_Shop\n→ related product cards → 03_Product\n04_Cart_Drawer\nGoal: Confirm what was just added and move on.\nMUST INCLUDE\n• Behind the drawer: the 03_Product page, inactive\n• Cart drawer: “Shopping Cart” · close (Icon_Cart_Close) · item Photo_Asgaard_Sofa · “Asgaard sofa” · 1 × Rs. 250,000.00 · remove (Icon_Remove) · “Subtotal” Rs. 250,000.00\n• Drawer actions: “Cart” · “Checkout” · “Comparison”\nLINKS\n→ Cart → 06_Cart\n→ Checkout → 07_Checkout\n→ Comparison → 05_Comparison\n→ close → 03_Product\n05_Comparison\nGoal: Compare two sofas side by side.\nMUST INCLUDE\n• Add a product: “Add A Product” · “Choose a Product” (Icon_Chevron_Down)\n• Compared products: Asgaard Sofa · Outdoor Sofa Set, each with photo, price, rating (Icon_Star) and review count (see DATA)\n• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA)\n• Footer: see DATA (Footer)\n• Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · no item current · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart)\n• Intro: “Go to Product page for more Products” · “View",
+  "layer_summary": {
+    "board_count": 10,
+    "boards": [
+      {
+        "name": "Furniro · UI system",
+        "size": "1440×9000",
+        "nodes": 0,
+        "max_depth": 0,
+        "instances": 0,
+        "texts": 0,
+        "images": 0,
+        "types": [],
+        "names": []
+      },
+      {
+        "name": "01_Home",
+        "size": "1440×4360",
+        "nodes": 110,
+        "max_depth": 2,
+        "instances": 31,
+        "texts": 63,
+        "images": 0,
+        "types": [
+          "text×63",
+          "instance×31",
+          "frame×12",
+          "vector×4"
+        ],
+        "names": [
+          "Photo_Hero",
+          "Go / 01_Home",
+          "Go / 02_Shop",
+          "Go / 08_Blog",
+          "Go / 07_Contact",
+          "Go / 05_Cart"
+        ]
+      },
+      {
+        "name": "02_Shop",
+        "size": "1440×2960",
+        "nodes": 124,
+        "max_depth": 2,
+        "instances": 23,
+        "texts": 78,
+        "images": 0,
+        "types": [
+          "text×78",
+          "instance×23",
+          "frame×19",
+          "vector×4"
+        ],
+        "names": [
+          "Photo_Page_Banner",
+          "Go / 01_Home",
+          "Go / 02_Shop",
+          "Go / 08_Blog",
+          "Go / 07_Contact",
+          "Go / 05_Cart"
+        ]
+      },
+      {
+        "name": "03_Product",
+        "size": "1440×3130",
+        "nodes": 84,
+        "max_depth": 2,
+        "instances": 20,
+        "texts": 54,
+        "images": 0,
+        "types": [
+          "text×54",
+          "instance×20",
+          "frame×6",
+          "vector×4"
+        ],
+        "names": [
+          "Photo_Page_Banner",
+          "Go / 01_Home",
+          "Go / 02_Shop",
+          "Go / 08_Blog",
+          "Go / 07_Contact",
+          "Go / 05_Cart"
+        ]
+      },
+      {
+        "name": "05_Comparison",
+        "size": "1440×3375",
+        "nodes": 125,
+        "max_depth": 2,
+        "instances": 11,
+        "texts": 104,
+        "images": 0,
+        "types": [
+          "text×104",
+          "instance×11",
+          "frame×6",
+          "vector×4"
+        ],
+        "names": [
+          "Photo_Page_Banner",
+          "Go / 01_Home",
+          "Go / 02_Shop",
+          "Go / 08_Blog",
+          "Go / 07_Contact",
+          "Go / 05_Cart"
+        ]
+      },
+      {
+        "name": "06_Cart",
+        "size": "1440×1460",
+        "nodes": 52,
+        "max_depth": 2,
+        "instances": 9,
+        "texts": 35,
+        "images": 0,
+        "types": [
+          "text×35",
+          "instance×9",
+          "frame×4",
+          "vector×4"
+        ],
+        "names": [
+          "Photo_Page_Banner",
+          "Go / 01_Home",
+          "Go / 02_Shop",
+          "Go / 08_Blog",
+          "Go / 07_Contact",
+          "Go / 05_Cart"
+        ]
+      },
+      {
+        "name": "07_Checkout",
+        "size": "1440×2600",
+        "nodes": 93,
+        "max_depth": 3,
+        "instances": 18,
+        "texts": 58,
+        "images": 0,
+        "types": [
+          "text×58",
+          "instance×18",
+          "frame×13",
+          "vector×4"
+        ],
+        "names": [
+          "Photo_Page_Banner",
+          "Go / 01_Home",
+          "Go / 02_Shop",
+          "Go / 08_Blog",
+          "Go / 07_Contact",
+          "Go / 05_Cart"
+        ]
+      },
+      {
+        "name": "08_Contact",
+        "size": "1440×1960",
+        "nodes": 64,
+        "max_depth": 3,
+        "instances": 11,
+        "texts": 43,
+        "images": 0,
+        "types": [
+          "text×43",
+          "instance×11",
+          "frame×6",
+          "vector×4"
+        ],
+        "names": [
+          "Photo_Page_Banner",
+          "Go / 01_Home",
+          "Go / 02_Shop",
+          "Go / 08_Blog",
+          "Go / 07_Contact",
+          "Go / 05_Cart"
+        ]
+      },
+      {
+        "name": "09_Blog",
+        "size": "1440×3410",
+        "nodes": 71,
+        "max_depth": 3,
+        "instances": 14,
+        "texts": 50,
+        "images": 0,
+        "types": [
+          "text×50",
+          "instance×14",
+          "vector×4",
+          "frame×3"
+        ],
+        "names": [
+          "Photo_Page_Banner",
+          "Go / 01_Home",
+          "Go / 02_Shop",
+          "Go / 08_Blog",
+          "Go / 07_Contact",
+          "Go / 05_Cart"
+        ]
+      },
+      {
+        "name": "04_Cart_Drawer",
+        "size": "1440×3130",
+        "nodes": 101,
+        "max_depth": 2,
+        "instances": 21,
+        "texts": 63,
+        "images": 0,
+        "types": [
+          "text×63",
+          "instance×21",
+          "frame×7",
+          "rectangle×6",
+          "vector×4"
+        ],
+        "names": [
+          "Photo_Page_Banner",
+          "Go / 01_Home",
+          "Go / 02_Shop",
+          "Go / 08_Blog",
+          "Go / 07_Contact",
+          "Go / 05_Cart"
+        ]
+      }
+    ]
+  }
+}

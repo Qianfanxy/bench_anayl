@@ -1,0 +1,1078 @@
+{
+  "file_key": "FzpLF8XgiVO0V3Mmsa76Bx",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "11:2",
+      "name": "03 · Workspace",
+      "child_count": 91
+    }
+  ],
+  "workspace": {
+    "id": "11:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "14:2",
+        "name": "01_Home",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 7370,
+        "text_count": 175,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:479",
+        "name": "FoodWagon / Badge / Delivery",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 0,
+        "width": 150,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:491",
+        "name": "FoodWagon / Badge / 6 Days Remaining",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 0,
+        "width": 190,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:496",
+        "name": "FoodWagon / Badge / 6 Days Remaining",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 0,
+        "width": 190,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:501",
+        "name": "FoodWagon / Badge / 7 Days Remaining",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 1250,
+        "width": 190,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:506",
+        "name": "FoodWagon / Badge / 8 Days Remaining",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 1250,
+        "width": 190,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:512",
+        "name": "FoodWagon / Badge / 20% off",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 1250,
+        "width": 122,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:521",
+        "name": "FoodWagon / Badge / Fast",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 2500,
+        "width": 88,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:531",
+        "name": "FoodWagon / Initials mark",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 2500,
+        "width": 58,
+        "height": 58,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:536",
+        "name": "FoodWagon / Badge / Opens tomorrow",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 2500,
+        "width": 186,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:542",
+        "name": "FoodWagon / Badge / 15% off",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 3750,
+        "width": 122,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:551",
+        "name": "FoodWagon / Badge / Fast",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 3750,
+        "width": 88,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:561",
+        "name": "FoodWagon / Initials mark",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 3750,
+        "width": 58,
+        "height": 58,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:566",
+        "name": "FoodWagon / Badge / Opens tomorrow",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 5000,
+        "width": 186,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:572",
+        "name": "FoodWagon / Badge / 10% off",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 5000,
+        "width": 122,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:581",
+        "name": "FoodWagon / Badge / Fast",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 5000,
+        "width": 88,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:591",
+        "name": "FoodWagon / Initials mark",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 6250,
+        "width": 58,
+        "height": 58,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:596",
+        "name": "FoodWagon / Badge / Open Now",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 6250,
+        "width": 124,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:602",
+        "name": "FoodWagon / Badge / 15% off",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 6250,
+        "width": 122,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:611",
+        "name": "FoodWagon / Badge / Fast",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 7500,
+        "width": 88,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:621",
+        "name": "FoodWagon / Initials mark",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 7500,
+        "width": 58,
+        "height": 58,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:626",
+        "name": "FoodWagon / Badge / Open Now",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 7500,
+        "width": 124,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:632",
+        "name": "FoodWagon / Badge / 10% off",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 8750,
+        "width": 122,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:641",
+        "name": "FoodWagon / Badge / Fast",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 8750,
+        "width": 88,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:651",
+        "name": "FoodWagon / Initials mark",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 8750,
+        "width": 58,
+        "height": 58,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:656",
+        "name": "FoodWagon / Badge / Open Now",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 10000,
+        "width": 124,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:662",
+        "name": "FoodWagon / Badge / 25% off",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 10000,
+        "width": 122,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:671",
+        "name": "FoodWagon / Badge / Fast",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 10000,
+        "width": 88,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:681",
+        "name": "FoodWagon / Initials mark",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 11250,
+        "width": 58,
+        "height": 58,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:686",
+        "name": "FoodWagon / Badge / Open Now",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 11250,
+        "width": 124,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:692",
+        "name": "FoodWagon / Badge / 10% off",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 11250,
+        "width": 122,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:701",
+        "name": "FoodWagon / Badge / Fast",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 12500,
+        "width": 88,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:711",
+        "name": "FoodWagon / Initials mark",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 12500,
+        "width": 58,
+        "height": 58,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:716",
+        "name": "FoodWagon / Badge / Open Now",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 12500,
+        "width": 124,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:722",
+        "name": "FoodWagon / Badge / 10% off",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 13750,
+        "width": 122,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:731",
+        "name": "FoodWagon / Badge / Fast",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 13750,
+        "width": 88,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:741",
+        "name": "FoodWagon / Initials mark",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 13750,
+        "width": 58,
+        "height": 58,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:746",
+        "name": "FoodWagon / Badge / Open Now",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 15000,
+        "width": 124,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:752",
+        "name": "FoodWagon / Feature / Daily Discounts",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 15000,
+        "width": 370,
+        "height": 86,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:767",
+        "name": "FoodWagon / Feature / Live Tracking",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 15000,
+        "width": 370,
+        "height": 86,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:778",
+        "name": "FoodWagon / Feature / Quick Delivery",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 16250,
+        "width": 370,
+        "height": 86,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:797",
+        "name": "FoodWagon / Hero search",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 16250,
+        "width": 880,
+        "height": 210,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:842",
+        "name": "FoodWagon / Discount card / Spring Salad",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 16250,
+        "width": 342,
+        "height": 352,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:859",
+        "name": "FoodWagon / Discount card / Farfalle Salad",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 17500,
+        "width": 342,
+        "height": 352,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:876",
+        "name": "FoodWagon / Discount card / Buddha Bowl",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 17500,
+        "width": 342,
+        "height": 352,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:893",
+        "name": "FoodWagon / Discount card / Red Curry Soup",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 17500,
+        "width": 342,
+        "height": 352,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:908",
+        "name": "FoodWagon / Step / Select location",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 18750,
+        "width": 320,
+        "height": 232,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:923",
+        "name": "FoodWagon / Step / Choose order",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 18750,
+        "width": 320,
+        "height": 232,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:938",
+        "name": "FoodWagon / Step / Pay advanced",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 18750,
+        "width": 320,
+        "height": 232,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:953",
+        "name": "FoodWagon / Step / Enjoy meals",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 20000,
+        "width": 320,
+        "height": 232,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:965",
+        "name": "FoodWagon / Previous",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 20000,
+        "width": 52,
+        "height": 52,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:972",
+        "name": "FoodWagon / Next",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 20000,
+        "width": 52,
+        "height": 52,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:984",
+        "name": "FoodWagon / Item card / Cheese Burger",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 21250,
+        "width": 268,
+        "height": 428,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1003",
+        "name": "FoodWagon / Item card / Toffee’s Cake",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 21250,
+        "width": 268,
+        "height": 428,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1022",
+        "name": "FoodWagon / Item card / Pancake",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 21250,
+        "width": 268,
+        "height": 428,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1041",
+        "name": "FoodWagon / Item card / Crispy Sandwich",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 22500,
+        "width": 268,
+        "height": 428,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1060",
+        "name": "FoodWagon / Item card / Thai Soup",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 22500,
+        "width": 268,
+        "height": 428,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1081",
+        "name": "FoodWagon / Restaurant card / Foodworld",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 22500,
+        "width": 342,
+        "height": 378,
+        "text_count": 6,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1120",
+        "name": "FoodWagon / Restaurant card / Pizzahub",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 23750,
+        "width": 342,
+        "height": 378,
+        "text_count": 6,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1159",
+        "name": "FoodWagon / Restaurant card / Donuts Hut",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 23750,
+        "width": 342,
+        "height": 378,
+        "text_count": 6,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1198",
+        "name": "FoodWagon / Restaurant card / Cupcake Corner",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 23750,
+        "width": 342,
+        "height": 378,
+        "text_count": 6,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1237",
+        "name": "FoodWagon / Restaurant card / Ruby Grill",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 25000,
+        "width": 342,
+        "height": 378,
+        "text_count": 6,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1276",
+        "name": "FoodWagon / Restaurant card / Kuakata Fried Chicken",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 25000,
+        "width": 342,
+        "height": 378,
+        "text_count": 6,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1315",
+        "name": "FoodWagon / Restaurant card / Red Square",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 25000,
+        "width": 342,
+        "height": 378,
+        "text_count": 6,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1354",
+        "name": "FoodWagon / Restaurant card / Taco Bay",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 26250,
+        "width": 342,
+        "height": 378,
+        "text_count": 6,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1386",
+        "name": "FoodWagon / Previous",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 26250,
+        "width": 52,
+        "height": 52,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1393",
+        "name": "FoodWagon / Next",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 26250,
+        "width": 52,
+        "height": 52,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1401",
+        "name": "FoodWagon / Category / Pizza",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 27500,
+        "width": 220,
+        "height": 258,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1408",
+        "name": "FoodWagon / Category / Burger",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 27500,
+        "width": 220,
+        "height": 258,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1415",
+        "name": "FoodWagon / Category / Noodles",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 27500,
+        "width": 220,
+        "height": 258,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1422",
+        "name": "FoodWagon / Category / Sub-sandwich",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 28750,
+        "width": 220,
+        "height": 258,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1429",
+        "name": "FoodWagon / Category / Chowmein",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 28750,
+        "width": 220,
+        "height": 258,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1436",
+        "name": "FoodWagon / Category / Steak",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 28750,
+        "width": 220,
+        "height": 258,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1446",
+        "name": "FoodWagon / Features",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 30000,
+        "width": 1260,
+        "height": 150,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1489",
+        "name": "FoodWagon / Deal banner / 1",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 30000,
+        "width": 1440,
+        "height": 420,
+        "render_bounds": {
+          "width": 1500,
+          "height": 480
+        },
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1506",
+        "name": "FoodWagon / Deal banner / 2",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 30000,
+        "width": 1440,
+        "height": 420,
+        "render_bounds": {
+          "width": 1500,
+          "height": 480
+        },
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1523",
+        "name": "FoodWagon / Deal banner / 3",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 31250,
+        "width": 1440,
+        "height": 420,
+        "render_bounds": {
+          "width": 1500,
+          "height": 480
+        },
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1540",
+        "name": "FoodWagon / Footer navigation / Company",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 31250,
+        "width": 250,
+        "height": 280,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1552",
+        "name": "FoodWagon / Footer navigation / Contact",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 31250,
+        "width": 250,
+        "height": 280,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1564",
+        "name": "FoodWagon / Footer navigation / Legal",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 32500,
+        "width": 250,
+        "height": 280,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1581",
+        "name": "FoodWagon / Header",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 32500,
+        "width": 1920,
+        "height": 96,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1610",
+        "name": "FoodWagon / Hero",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 32500,
+        "width": 1920,
+        "height": 600,
+        "text_count": 6,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1666",
+        "name": "FoodWagon / Discounts",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 33750,
+        "width": 1920,
+        "height": 480,
+        "text_count": 16,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1734",
+        "name": "FoodWagon / How it works",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 33750,
+        "width": 1920,
+        "height": 420,
+        "text_count": 9,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1798",
+        "name": "FoodWagon / Popular items",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 33750,
+        "width": 1920,
+        "height": 620,
+        "text_count": 21,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:1908",
+        "name": "FoodWagon / Featured restaurants",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 35000,
+        "width": 1920,
+        "height": 1090,
+        "text_count": 50,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:2225",
+        "name": "FoodWagon / Search by Food",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 35000,
+        "width": 1920,
+        "height": 460,
+        "text_count": 8,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:2279",
+        "name": "FoodWagon / App promo",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 35000,
+        "width": 1920,
+        "height": 760,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:2331",
+        "name": "FoodWagon / Deals",
+        "type": "COMPONENT",
+        "x": 2300,
+        "y": 36250,
+        "width": 1920,
+        "height": 1514,
+        "text_count": 9,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:2383",
+        "name": "FoodWagon / Order CTA",
+        "type": "COMPONENT",
+        "x": 4320,
+        "y": 36250,
+        "width": 1920,
+        "height": 380,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:2434",
+        "name": "FoodWagon / Footer",
+        "type": "COMPONENT",
+        "x": 6340,
+        "y": 36250,
+        "width": 1920,
+        "height": 950,
+        "text_count": 44,
+        "reaction_count": 0
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nFoodWagon — food delivery landing page\nDesign the landing page of a food delivery service: search by address, browse deals, popular dishes and featured restaurants, learn how it works and get the app. Desktop web, 1920 wide, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 1 frame below, named exactly as listed. It is a single landing page, so there is no prototype to wire.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the logo, the photos, the app mockup, the store badges, the social logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrame · goal · must include\nThe frame name is fixed. The must-include list is grouped by subject and sorted A–Z: it states what is on the page, never where it goes or how it looks.\n01_Home\nGoal: Find food near you and decide where to order from.\nMUST INCLUDE\n• App promo: “Install the app” · “It’s never been easier to order food. Look for the finest discounts and you’ll be lost in a world of delectable food.” · Image_App_Mockup · Badge_App_Store · Badge_Google_Play\n• Call to action: Photo_CTA_Background · “Are you ready to order with the best deals?” · “Proceed to order” (Icon_Chevron_Right)\n• Deals: 3 promo blocks, each with title, copy, “Proceed to order” (Icon_Chevron_Right) and photo (see DATA)\n• Discounts: 4 discount cards, each with photo, percent “Off”, dish name and days remaining (see DATA)\n• Featured Restaurants: “Featured Restaurants” · 8 restaurant cards, each with photo, discount badge (Icon_Tag), “Fast” badge (Icon_Clock), logo mark with the restaurant’s initials, name, rating (Icon_Star) and open status (see DATA) · “View All” (Icon_Chevron_Right)\n• Features: Daily Discounts (Icon_Discount) · Live Tracking (Icon_Tracking) · Quick Delivery (Icon_Quick_Delivery)\n• Footer: see DATA (Footer)\n• Header: Logo_FoodWagon · “Deliver to:” (Icon_Map_Marker) · “Current Location” · “Mohammadpur Bus Stand, Dhaka” · “Search Food” (Icon_Search) · “Login” (Icon_User)\n• Hero: Photo_Hero_Background · Photo_Hero_Noodles · “Are you starving?” · “Within a few clicks, find meals that are accessible near you” · tabs Delivery (Icon_Motorcycle) · Pickup (Icon_Shopping_Bag) · current: Delivery · address field “Enter Your Address” (Icon_Map_Marker) · “Find Food” (Icon_Search)\n• How it works: “How does it work” · 4 steps, each with icon, title and text (see DATA)\n• Popular items: “Popular items” · previous / next (Icon_Chevron_Left, Icon_Chevron_Right) · 5 item cards, each with photo, name, restaurant (Icon_Map_Marker), price and “Order Now” (see DATA)\n• Search by Food: “Search by Food” · “View All” (Icon_Chevron_Right) · previous / next (Icon_Chevron_Left, Icon_Chevron_Right) · Pizza · Burger · Noodles · Sub-sandwich · Chowmein · Steak, each with its photo (Photo_Food_Pizza … Photo_Food_Steak)\nLINKS\nSingle-page task: no links between frames. Every button and link is entry only.\nNavigation structure\n• One frame. The header and footer are part of it.\n• Entry only (no frame): location, Search Food, Login, Delivery / Pickup, Find Food, discount cards, Order Now, carousel arrows, restaurant cards, View All, food categories, store badges, Proceed to order, city links, footer links, Subscribe, social logos.\nFixed data & copy\nUse these values verbatim.\nDiscounts (in order)\n15% Off · Spring Salad · 6 Days Remaining (Photo_Discount_1)\n10% Off · Farfalle Salad · 6 Days Remaining (Photo_Discount_2)\n25% Off · Buddha Bowl · 7 Days Remaining (Photo_Discount_3)\n20% Off · Red Curry Soup · 8 Days Remaining (Photo_Discount_4)\nHow does it work (in order)\nSelect location (Icon_Step_Location) — Choose the location where your food will be delivered.\nChoose order (Icon_Step_Order) — Check over hundreds of menus to pick your favorite food.\nPay advanced (Icon_Step_Payment) — It’s quick, safe, and simple. Select several methods of payment.\nEnjoy meals (Icon_Step_Enjoy) — Food is made and delivered directly to your home.\nPopular items (in order)\nCheese Burger · Burger Arena · $3.88 (Photo_Cheese_Burger)\nToffee’s Cake · Top Sticks · $4.00 (Photo_Toffee_Cake)\nPancake · Cake World · $1.99 (Photo_Pancake)\nCrispy Sandwich · Fastfood Dine · $3.00 (Photo_Crispy_Sandwich)\nThai Soup · Foody man · $2.79 (Photo_Thai_Soup)\nFeatured Restaurants (in order; all “Fast”)\nFoodworld · 20% off · ★ 46 · Opens tomorrow (Photo_Foodworld)\nPizzahub · 15% off · ★ 40 · Opens tomorrow (Photo_Pizzahub)\nDonuts Hut · 10% off · ★ 20 · Open Now (Photo_Donuts_Hut)\nCupcake Corner · 15% off · ★ 50 · Open Now (Photo_Cupcake_Corner)\nRuby Grill · 10% off · ★ 26 · Open Now (Photo_Ruby_Grill)\nKuakata Fried Chicken · 25% off · ★ 53 · Open Now (Photo_Kuakata_Fried_Chicken)\nRed Square · 10% off · ★ 45 · Open Now (Photo_Red_Square)\nTaco Bay · 10% off · ★ 35 · Open Now (Photo_Taco_Bay)\nDeals (in order)\nBest deals Crispy Sandwiches — Enjoy the large size of sandwiches. Complete perfect slice of sandwiches. (Photo_Promo_Sandwiches)\nCelebrate parties with Fried Chicken — Get the best fried chicken smeared with a lip smacking lemon chili flavor. Check out best deals for fried chicken. (Photo_Promo_Fried_Chicken)\nWanna eat hot & spicy Pizza? — Pair up with a friend and enjoy the hot and crispy pizza pops. Try it with the best deals. (Photo_Promo_Pizza)\nFooter\nOur top cities: San Francisco · Los Angeles · New York City · Chicago · Columbus · Miami · Washington DC · Orange County · Phoenix · New Mexico · San Diego · Seattle · Atlanta · Las Vegas · Albuquerque · East Bay · Portland · Charlotte · Sacramento · Long Beach · Nashville · Denver · Oklahoma City · New Orleans\nCompany: About us · Team · Careers · Blog\nContact: Help & Support · Partner with us · Ride with us\nLegal: Terms & Conditions · Refund & Cancellation · Privacy Policy · Cookie Policy\nFollow Us: Logo_Instag",
+  "layer_summary": {
+    "board_count": 1,
+    "boards": [
+      {
+        "name": "01_Home",
+        "size": "1920×7370",
+        "nodes": 470,
+        "max_depth": 5,
+        "instances": 196,
+        "texts": 175,
+        "images": 0,
+        "types": [
+          "instance×196",
+          "text×175",
+          "vector×84",
+          "frame×15"
+        ],
+        "names": [
+          "Header",
+          "Logo_FoodWagon",
+          "Deliver to:",
+          "Icon_Map_Marker",
+          "Vector",
+          "Current Location"
+        ]
+      }
+    ]
+  }
+}

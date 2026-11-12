@@ -1,0 +1,57 @@
+[
+  {
+    "node_id": "2008:60",
+    "name": "03_Home_My_Balance",
+    "file": "2008-60.png"
+  },
+  {
+    "node_id": "2012:183",
+    "name": "01_Sign_Up",
+    "file": "2012-183.png"
+  },
+  {
+    "node_id": "2012:222",
+    "name": "02_OTP",
+    "file": "2012-222.png"
+  },
+  {
+    "node_id": "2016:224",
+    "name": "04_Home_Upcoming_Bills",
+    "file": "2016-224.png"
+  },
+  {
+    "node_id": "2016:488",
+    "name": "05_Home_Transactions",
+    "file": "2016-488.png"
+  },
+  {
+    "node_id": "2019:412",
+    "name": "07_Cards",
+    "file": "2019-412.png"
+  },
+  {
+    "node_id": "2020:529",
+    "name": "08_Profile",
+    "file": "2020-529.png"
+  },
+  {
+    "node_id": "2022:689",
+    "name": "09_Analytics",
+    "file": "2022-689.png"
+  },
+  {
+    "node_id": "2023:734",
+    "name": "10_Markets",
+    "file": "2023-734.png"
+  },
+  {
+    "node_id": "2024:806",
+    "name": "11_Send",
+    "file": "2024-806.png"
+  },
+  {
+    "node_id": "2024:873",
+    "name": "06_Discussion_Forum",
+    "file": "2024-873.png"
+  }
+]

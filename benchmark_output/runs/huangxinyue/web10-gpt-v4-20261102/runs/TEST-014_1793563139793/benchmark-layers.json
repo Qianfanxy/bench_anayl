@@ -1,0 +1,126 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "SHOP.CO · System",
+      "size": "1440×1100",
+      "nodes": 111,
+      "max_depth": 5,
+      "instances": 17,
+      "texts": 33,
+      "images": 0,
+      "types": [
+        "vector×45",
+        "text×33",
+        "instance×15",
+        "group×9",
+        "frame×7",
+        "component×2"
+      ],
+      "names": [
+        "Header",
+        "Announcement",
+        "Sign up and get 20% off ",
+        "Icon_Close",
+        "Vector",
+        "SHOP.CO"
+      ]
+    },
+    {
+      "name": "01_Home",
+      "size": "1440×3880",
+      "nodes": 328,
+      "max_depth": 5,
+      "instances": 99,
+      "texts": 93,
+      "images": 0,
+      "types": [
+        "vector×106",
+        "instance×99",
+        "text×93",
+        "frame×21",
+        "group×9"
+      ],
+      "names": [
+        "Header",
+        "Announcement",
+        "Sign up and get 20% off ",
+        "Icon_Close",
+        "Vector",
+        "SHOP.CO"
+      ]
+    },
+    {
+      "name": "02_Category",
+      "size": "1440×2340",
+      "nodes": 362,
+      "max_depth": 5,
+      "instances": 93,
+      "texts": 108,
+      "images": 0,
+      "types": [
+        "text×108",
+        "vector×103",
+        "instance×93",
+        "frame×49",
+        "group×9"
+      ],
+      "names": [
+        "Header / Shop current",
+        "Announcement",
+        "Sign up and get 20% off ",
+        "Icon_Close",
+        "Vector",
+        "SHOP.CO"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1440×3040",
+      "nodes": 371,
+      "max_depth": 5,
+      "instances": 101,
+      "texts": 94,
+      "images": 0,
+      "types": [
+        "vector×135",
+        "instance×101",
+        "text×94",
+        "frame×32",
+        "group×9"
+      ],
+      "names": [
+        "Header / Shop current",
+        "Announcement",
+        "Sign up and get 20% off ",
+        "Icon_Close",
+        "Vector",
+        "SHOP.CO"
+      ]
+    },
+    {
+      "name": "04_Cart",
+      "size": "1440×1460",
+      "nodes": 183,
+      "max_depth": 5,
+      "instances": 34,
+      "texts": 63,
+      "images": 0,
+      "types": [
+        "text×63",
+        "vector×58",
+        "instance×34",
+        "frame×19",
+        "group×9"
+      ],
+      "names": [
+        "Header",
+        "Announcement",
+        "Sign up and get 20% off ",
+        "Icon_Close",
+        "Vector",
+        "SHOP.CO"
+      ]
+    }
+  ]
+}

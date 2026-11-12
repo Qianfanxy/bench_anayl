@@ -1,0 +1,101 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4800",
+      "nodes": 404,
+      "max_depth": 8,
+      "instances": 90,
+      "texts": 94,
+      "images": 0,
+      "types": [
+        "vector×112",
+        "frame×99",
+        "text×94",
+        "instance×90",
+        "group×9"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "Spacer",
+        "Icon_Close",
+        "Vector"
+      ]
+    },
+    {
+      "name": "02_Category",
+      "size": "1440×2125",
+      "nodes": 450,
+      "max_depth": 8,
+      "instances": 84,
+      "texts": 109,
+      "images": 0,
+      "types": [
+        "frame×138",
+        "vector×110",
+        "text×109",
+        "instance×84",
+        "group×9"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "Spacer",
+        "Icon_Close",
+        "Vector"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1440×2119",
+      "nodes": 466,
+      "max_depth": 8,
+      "instances": 98,
+      "texts": 95,
+      "images": 0,
+      "types": [
+        "vector×143",
+        "frame×121",
+        "instance×98",
+        "text×95",
+        "group×9"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "Spacer",
+        "Icon_Close",
+        "Vector"
+      ]
+    },
+    {
+      "name": "04_Cart",
+      "size": "1440×1485",
+      "nodes": 227,
+      "max_depth": 8,
+      "instances": 30,
+      "texts": 64,
+      "images": 0,
+      "types": [
+        "frame×64",
+        "text×64",
+        "vector×60",
+        "instance×30",
+        "group×9"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "Spacer",
+        "Icon_Close",
+        "Vector"
+      ]
+    }
+  ]
+}

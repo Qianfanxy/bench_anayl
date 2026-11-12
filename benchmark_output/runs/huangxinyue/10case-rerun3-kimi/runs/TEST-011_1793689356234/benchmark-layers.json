@@ -1,0 +1,130 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Wallet",
+      "size": "375×812",
+      "nodes": 82,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "text×35",
+        "rectangle×20",
+        "instance×9",
+        "vector×9",
+        "ellipse×5",
+        "frame×4"
+      ],
+      "names": [
+        "BG",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "02_Discovery",
+      "size": "375×812",
+      "nodes": 138,
+      "max_depth": 3,
+      "instances": 26,
+      "texts": 79,
+      "images": 0,
+      "types": [
+        "text×79",
+        "instance×26",
+        "rectangle×25",
+        "frame×4",
+        "ellipse×3",
+        "vector×1"
+      ],
+      "names": [
+        "BG",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "03_Strategy",
+      "size": "375×812",
+      "nodes": 90,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 44,
+      "images": 0,
+      "types": [
+        "text×44",
+        "rectangle×29",
+        "instance×9",
+        "frame×4",
+        "vector×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "BG",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "04_Invest_Amount",
+      "size": "375×812",
+      "nodes": 60,
+      "max_depth": 4,
+      "instances": 6,
+      "texts": 27,
+      "images": 0,
+      "types": [
+        "text×27",
+        "rectangle×13",
+        "instance×6",
+        "vector×6",
+        "frame×5",
+        "ellipse×3"
+      ],
+      "names": [
+        "BG",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "05_Invest_Success",
+      "size": "375×812",
+      "nodes": 66,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "rectangle×45",
+        "ellipse×9",
+        "text×5",
+        "instance×3",
+        "frame×3",
+        "vector×1"
+      ],
+      "names": [
+        "BG",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    }
+  ]
+}

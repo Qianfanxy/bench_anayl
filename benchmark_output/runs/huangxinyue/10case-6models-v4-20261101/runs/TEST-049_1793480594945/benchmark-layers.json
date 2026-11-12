@@ -1,0 +1,104 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "414×896",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "instance×4",
+        "text×4",
+        "frame×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "414×896",
+      "nodes": 92,
+      "max_depth": 6,
+      "instances": 16,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "frame×25",
+        "text×22",
+        "instance×16",
+        "vector×11",
+        "rectangle×9",
+        "group×8"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "03_Warm_Up",
+      "size": "414×896",
+      "nodes": 163,
+      "max_depth": 7,
+      "instances": 32,
+      "texts": 30,
+      "images": 0,
+      "types": [
+        "frame×46",
+        "instance×32",
+        "text×30",
+        "vector×25",
+        "group×21",
+        "rectangle×8"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "04_Activity",
+      "size": "414×896",
+      "nodes": 50,
+      "max_depth": 6,
+      "instances": 3,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "text×17",
+        "frame×13",
+        "rectangle×6",
+        "vector×6",
+        "group×4",
+        "instance×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    }
+  ]
+}

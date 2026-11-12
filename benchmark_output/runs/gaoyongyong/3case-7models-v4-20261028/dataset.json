@@ -1,0 +1,42 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "dataset",
+  "id": "design3-huangxinyue",
+  "query_template": "请在以下 Figma 文件中完成完整设计：\nFigma 文件：{{figma_url}}\n请先阅读「00 · Start Here」中的设计任务，参考「01 · Foundations」中的视觉规范，复用「02 · Components」中的组件；如果文件中有「04 · Media」素材页，也请读取并使用其中的素材。最终将完整设计交付至「03 · Workspace」。\n",
+  "required_pages": [
+    "00",
+    "01",
+    "02"
+  ],
+  "optional_pages": [
+    "04"
+  ],
+  "workspace": "03 · Workspace",
+  "cases": [
+    {
+      "case_id": "case-001",
+      "source_figma_url": "https://www.figma.com/design/fnULASWChHEL3I3D7Sc3I7/",
+      "source_file_key": "fnULASWChHEL3I3D7Sc3I7",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/fnULASWChHEL3I3D7Sc3I7/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "30f33d74450dde86bf8fe90f6ddbc74627740858e6df2d07922958553f2f34c8",
+      "title": "Balance"
+    },
+    {
+      "case_id": "case-002",
+      "source_figma_url": "https://www.figma.com/design/AuqY1P2MVRVdEbLBKDwPWn/",
+      "source_file_key": "AuqY1P2MVRVdEbLBKDwPWn",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/AuqY1P2MVRVdEbLBKDwPWn/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "2aa1b7b48cf82a786e71b279b1abe82748b5172defe453e6a04b622a026fcf69",
+      "title": "Paradise Invest"
+    },
+    {
+      "case_id": "case-003",
+      "source_figma_url": "https://www.figma.com/design/6hoGDBVDBZzsRgxZ16ZMry/",
+      "source_file_key": "6hoGDBVDBZzsRgxZ16ZMry",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/6hoGDBVDBZzsRgxZ16ZMry/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "9ce11c0b0bd11c099514f1cf2d4025107f84b332fa1f07354bde4234814c608d",
+      "title": "Foodgo"
+    }
+  ],
+  "content_hash": "f204088b4645ccbe90b7405a8830e269f04e170bb33aa2dd4af8fd6b1fcb9e8f"
+}

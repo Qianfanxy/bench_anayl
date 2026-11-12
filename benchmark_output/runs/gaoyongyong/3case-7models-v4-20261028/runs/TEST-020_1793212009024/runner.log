@@ -1,0 +1,10 @@
+tasks: 1
+concurrency: 1
+out_dir: /mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024
+cttap_repo: /mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap/storage/standalone-original-20261025/pipeline/work/claude-tap-converter
+reasoning_mode: summary
+[validate_failed] task-000001 -> /mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/task-000001/trajectory.jsonl
+
+finished: ok=0, failed=1, merged_trajectories=0
+manifest: /mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/manifest.jsonl
+merged:   /mnt/afs/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-020_1793212009024/all_trajectories.jsonl

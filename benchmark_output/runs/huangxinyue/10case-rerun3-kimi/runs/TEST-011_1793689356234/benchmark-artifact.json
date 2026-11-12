@@ -1,0 +1,222 @@
+{
+  "file_key": "6ywbeCjGQ9xjP7DRG8vt97",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "4:2",
+      "name": "03 · Workspace",
+      "child_count": 5
+    }
+  ],
+  "workspace": {
+    "id": "4:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "7:22",
+        "name": "01_Wallet",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 35,
+        "reaction_count": 1
+      },
+      {
+        "id": "11:23",
+        "name": "02_Discovery",
+        "type": "FRAME",
+        "x": 460,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 79,
+        "reaction_count": 2
+      },
+      {
+        "id": "13:36",
+        "name": "03_Strategy",
+        "type": "FRAME",
+        "x": 920,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 44,
+        "reaction_count": 2
+      },
+      {
+        "id": "15:48",
+        "name": "04_Invest_Amount",
+        "type": "FRAME",
+        "x": 1380,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 27,
+        "reaction_count": 2
+      },
+      {
+        "id": "17:65",
+        "name": "05_Invest_Success",
+        "type": "FRAME",
+        "x": 1840,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 5,
+        "reaction_count": 2
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nInvestment Wallet — crypto wallet for beginners\nDesign the Investment Wallet mobile app for a beginner investor: see the wallet balance, assets and savings pockets, discover investing strategies and coins, read about the “Aggressive Growth” strategy, invest 3,021 DAI in it and confirm the result.\nCanvas 375 × 812, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 5 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, gain / loss, risk levels, success / disabled, accents and chart colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the page indicator, the sheets and every business component as reusable components in your file.\n5. Use the coin logos, neutral avatar and icons from 04 · Media. Emoji in the copy are plain text characters.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Wallet\nGoal: See total balance, assets and savings pockets.\nMUST INCLUDE\n• Account: Avatar_Neutral · “My Wallet” · address 0xc8...320f · scan entry\n• Actions: Send · Receive\n• Assets: “Assets” · Ethereum / Dai / Avalanche / PancakeSwap, each with logo, name, holding, value and 24h change\n• Balance: $54,292.79 · +5.21%\n• Main navigation: page 2 of 3 (My Wallet)\n• Pockets: “Pockets” · My New House 🏡 · Tesla Model S Plaid 🚙, each with value, name and change · Add Pocket\nLINKS\n→ swipe / page indicator → 02_Discovery\n02_Discovery\nGoal: Discover strategies and coins worth investing in.\nMUST INCLUDE\n• Account: Avatar_Neutral · search entry\n• Coin list: “Coin Lists” · 10 coins, each with logo, name, ticker, price and 24h change\n• Coin list tabs: 🔥 Trending / 📺 Watchlist / ❤️ Favorites / 💵 Stablecoins / 🔗 BNB Chain Ecosystem · current: Trending\n• For you: “December 05” · “For You Today” · Stable Income · Binance Index Strategy, each with risk, participants, yearly return and View\n• Main navigation: page 3 of 3 (Discovery)\n• Strategies: “Investing Strategies” · The Big Long · Aggressive Growth · Best Projects · Strategy 2022, each with yearly return, 3 asset logos and “+N” more\nLINKS\n→ Aggressive Growth → 03_Strategy\n→ swipe / page indicator → 01_Wallet\n03_Strategy\nGoal: Understand the Aggressive Growth strategy before investing.\nMUST INCLUDE\n• About: “About Strategy” · description (see DATA)\n• Actions: Invest · dismiss\n• Facts: 159% per Year · Interest Income / High Risk · Level of risk / $1,000 · Minimum investment amount / 2 Years · Recommended investment period / 1,982 · Participants\n• Presentation: sheet over 02_Discovery\n• Projection: $1,590.00 · “This is how much you can earn in a year if you invest $1,000 to “Aggressive Growth”” · growth chart Dec ’21 – Dec · risk “🔥 High Risk”\n• Share of assets: “Share of Assets” · 5 assets, each with logo, name, ticker and share (see DATA)\nLINKS\n→ Invest → 04_Invest_Amount\n→ dismiss → 02_Discovery\n04_Invest_Amount\nGoal: Enter how much DAI to invest.\nMUST INCLUDE\n• Actions: back · Max · swap input currency · Hold to Invest (Icon_Face_ID)\n• Amount: DAI (Coin_DAI) · 3,021 being entered\n• Copy: “Invest to Strategy” · “⛽️ No gas, free investments”\n• Keypad: 1 · 2 ABC · 3 DEF · 4 GHI · 5 JKL · 6 MNO · 7 PQRS · 8 TUV · 9 WXYZ · “,” · 0 · backspace\n• Presentation: sheet over 02_Discovery\nLINKS\n→ back → 03_Strategy\n→ Hold to Invest → 05_Invest_Success\n05_Invest_Success\nGoal: Confirm the investment.\nMUST INCLUDE\n• Actions: close · View Pocket\n• Celebration: 🎉 and confetti\n• Copy: “You’ve invested!” · “3,021.00 DAI in the “Aggressive Growth” strategy. You will find the purchased coins in a new pocket.”\n• Presentation: sheet over 02_Discovery\nLINKS\n→ close → 02_Discovery\n→ View Pocket → 01_Wallet\nNavigation structure\n• Top level is a horizontal pager with 3 pages and a page indicator: page 1 (not part of this task), page 2 My Wallet (01_Wallet), page 3 Discovery (02_Discovery). The indicator must show the current page. How it looks is yours.\n• 03, 04 and 05 are sheets stacked over 02_Discovery (one frame each).\n• Invest flow: 02_Discovery → 03_Strategy → 04_Invest_Amount → 05_Invest_Success.\n• Entry only (no frame): Send, Receive, scan, search, assets, pockets, Add Pocket, View on For You cards, other strategies, coins, coin-list tabs other than Trending, Max, swap currency.\nFixed data & copy\nUse these values verbatim. Today is December 05. Prices in USD.\nWallet\n“My Wallet” · 0xc8...320f · $54,292.79 · +5.21%\n= assets $10,261.18 + pockets $44,031.61\nAssets (holding · value · 24h)\nEthereum · 2.569032 ETH · $3,226.31 · +3.48% (Coin_ETH)\nDai · 3,045.86 DAI · $3,021.15 · −0.02% (Coin_DAI)\nAvalanche · 180.02 AVAX · $2,440.09 · +1.54% (Coin_AVAX)\nPancakeSwap · 397.33 CAKE · $1,573.63 · −0.02% (Coin_CAKE)\nPockets\nMy New House 🏡 · $15,642.40 · +7.86%\nTesla Model S Plaid 🚙 · $28,389.21 · −2.13%\nAdd Pocket\nFor You Today\nStable Income · Low risk · 10,982 participants · 6.24% per year · View\nBinance Index Strategy · Medium risk · 264 participants · 12.56% per year · View\nInvesting Strategies (per year · logos · more)\nThe Big Long · 15.16% · BTC, ETH, USDT · +3\nAggressive Growth · 159% · MATIC, MANA, CAKE · +2\nBest Projects · 46.22% · NEAR, DASH, AVAX · +12\nStrategy 2022 · 26.08% · ETC, DAI, BNB · +2\nCoin Lists · 🔥 Trending (price · 24h)\nBitcoin BTC $16,963.58 · −0.12%\nEthereum ETH $1,259.10 · +1.15%\nTether USDT $1.01 · +0.01%\nBinance Coin BNB $288.01 · +0.76%\nUSD Coin USDC $0.9999 · −0.02%\nBinance USD BUSD $1.00 · −0.01%\nXRP XRP $0.3891 · +2.54%\nDogecoin DOGE $0.1012 · −0.17%\nCardano ADA $0.3196 · +0.09%\nPolygon MATIC $0.9082 · +2.18%\nAggressive Growth\nProjection: $1,590.00 earned in a year on $1,000\nChart ",
+  "layer_summary": {
+    "board_count": 5,
+    "boards": [
+      {
+        "name": "01_Wallet",
+        "size": "375×812",
+        "nodes": 82,
+        "max_depth": 3,
+        "instances": 9,
+        "texts": 35,
+        "images": 0,
+        "types": [
+          "text×35",
+          "rectangle×20",
+          "instance×9",
+          "vector×9",
+          "ellipse×5",
+          "frame×4"
+        ],
+        "names": [
+          "BG",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "02_Discovery",
+        "size": "375×812",
+        "nodes": 138,
+        "max_depth": 3,
+        "instances": 26,
+        "texts": 79,
+        "images": 0,
+        "types": [
+          "text×79",
+          "instance×26",
+          "rectangle×25",
+          "frame×4",
+          "ellipse×3",
+          "vector×1"
+        ],
+        "names": [
+          "BG",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "03_Strategy",
+        "size": "375×812",
+        "nodes": 90,
+        "max_depth": 3,
+        "instances": 9,
+        "texts": 44,
+        "images": 0,
+        "types": [
+          "text×44",
+          "rectangle×29",
+          "instance×9",
+          "frame×4",
+          "vector×3",
+          "ellipse×1"
+        ],
+        "names": [
+          "BG",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "04_Invest_Amount",
+        "size": "375×812",
+        "nodes": 60,
+        "max_depth": 4,
+        "instances": 6,
+        "texts": 27,
+        "images": 0,
+        "types": [
+          "text×27",
+          "rectangle×13",
+          "instance×6",
+          "vector×6",
+          "frame×5",
+          "ellipse×3"
+        ],
+        "names": [
+          "BG",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "05_Invest_Success",
+        "size": "375×812",
+        "nodes": 66,
+        "max_depth": 3,
+        "instances": 3,
+        "texts": 5,
+        "images": 0,
+        "types": [
+          "rectangle×45",
+          "ellipse×9",
+          "text×5",
+          "instance×3",
+          "frame×3",
+          "vector×1"
+        ],
+        "names": [
+          "BG",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      }
+    ]
+  }
+}

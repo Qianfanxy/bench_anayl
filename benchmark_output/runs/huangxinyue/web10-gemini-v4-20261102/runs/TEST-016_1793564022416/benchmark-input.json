@@ -1,0 +1,33 @@
+{
+  "mode": "benchmark-design",
+  "query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/ysVFKAVp9vIXGyYMO8MY33/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+  "target": {
+    "url": "https://www.figma.com/design/ysVFKAVp9vIXGyYMO8MY33/",
+    "fileKey": "ysVFKAVp9vIXGyYMO8MY33"
+  },
+  "model_id": "gemini-3.5-flash",
+  "reasoning_mode": "summary",
+  "system_file": "/mnt/afs/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-016_1793564022416/benchmark-system.txt",
+  "tools": [
+    "whoami",
+    "get_metadata",
+    "use_figma",
+    "get_screenshot"
+  ],
+  "generation_mode": "cc",
+  "claude_code_base_system": true,
+  "runtime": {
+    "shared_figma_concurrency": 1,
+    "model_concurrency": 1,
+    "account_concurrency": 1,
+    "model_route": null,
+    "mcp_min_interval_seconds": 4,
+    "account_id": "enterprise_panzhengyuan",
+    "account_identity": "panzhengyuan@tetras.ai",
+    "policy_hash": "93ab066f5fa1a86f6c025c3f306746fa1025cd68035332c0b07817c8c0aaebb6",
+    "auto_compact_window": "client-default",
+    "max_context_tokens": "client-default"
+  },
+  "tool_image_transport": "tool-images-to-user/v1",
+  "timeout_seconds": 5400
+}

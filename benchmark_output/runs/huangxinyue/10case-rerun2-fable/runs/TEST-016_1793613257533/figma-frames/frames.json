@@ -1,0 +1,70 @@
+[
+  {
+    "node_id": "14:98",
+    "name": "01_Onboarding",
+    "file": "14-98.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "kbUCfTA8H4RPQHbbV4YZMT",
+        "nodeId": "14:98",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "7cc67d2bbde09b761b923b379ace9b61f181ef1add4b8d2be1c755c1738d8152",
+      "response_file": "_debug/v2-native-14-98.png.txt",
+      "response_sha256": "e1841600539910b359e10a7c931461aa5387d97db785d43a3a170f06ef2ed517"
+    }
+  },
+  {
+    "node_id": "14:119",
+    "name": "02_Home",
+    "file": "14-119.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "kbUCfTA8H4RPQHbbV4YZMT",
+        "nodeId": "14:119",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "18b634b87c7c7d8f89c2c9cfe3dc087320bc06eec0a45a730d5436599f1dd511",
+      "response_file": "_debug/v2-native-14-119.png.txt",
+      "response_sha256": "02b6ae0367eb7cf654c255729f65c12e4e57c5351d58ff6b952ee938f193ddff"
+    }
+  },
+  {
+    "node_id": "18:221",
+    "name": "03_Warm_Up",
+    "file": "18-221.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "kbUCfTA8H4RPQHbbV4YZMT",
+        "nodeId": "18:221",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "e299f35ce1bfa8b837f8ea7fca713af716a437fb4c910aac768274ae8a4e7b4f",
+      "response_file": "_debug/v2-native-18-221.png.txt",
+      "response_sha256": "12ef1ade49ff4b143fe569cbe953d23db7a67200b2097b56bfa090a9688017d5"
+    }
+  },
+  {
+    "node_id": "18:415",
+    "name": "04_Activity",
+    "file": "18-415.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "kbUCfTA8H4RPQHbbV4YZMT",
+        "nodeId": "18:415",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "6d8f02834e12ad2509f4356af0c1988ef92449ea539ee59ab4771d4f5925d0e8",
+      "response_file": "_debug/v2-native-18-415.png.txt",
+      "response_sha256": "f0275b4184e7051a3b2b52bc0cb2577fdefcf1942d1d67dc7481d7af9005e431"
+    }
+  }
+]

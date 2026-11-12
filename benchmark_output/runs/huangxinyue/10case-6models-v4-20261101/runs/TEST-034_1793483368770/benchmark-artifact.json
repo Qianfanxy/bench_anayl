@@ -1,0 +1,341 @@
+{
+  "file_key": "vnQfW15mcjOlAJYP4Lrvrx",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "7:2",
+      "name": "03 · Workspace",
+      "child_count": 9
+    }
+  ],
+  "workspace": {
+    "id": "7:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "9:2",
+        "name": "Tab Bar",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": -300,
+        "width": 393,
+        "height": 82,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:19",
+        "name": "01_Welcome",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 393,
+        "height": 852,
+        "text_count": 7,
+        "reaction_count": 1
+      },
+      {
+        "id": "9:59",
+        "name": "02_Apple_ID_Sheet",
+        "type": "FRAME",
+        "x": 450,
+        "y": 0,
+        "width": 393,
+        "height": 852,
+        "text_count": 10,
+        "reaction_count": 2
+      },
+      {
+        "id": "9:114",
+        "name": "03_Explore",
+        "type": "FRAME",
+        "x": 900,
+        "y": 0,
+        "width": 393,
+        "height": 852,
+        "text_count": 19,
+        "reaction_count": 3
+      },
+      {
+        "id": "9:206",
+        "name": "04_Find_Partner",
+        "type": "FRAME",
+        "x": 1350,
+        "y": 0,
+        "width": 393,
+        "height": 852,
+        "text_count": 12,
+        "reaction_count": 3
+      },
+      {
+        "id": "9:264",
+        "name": "05_Friend_Profile",
+        "type": "FRAME",
+        "x": 1800,
+        "y": 0,
+        "width": 393,
+        "height": 852,
+        "text_count": 14,
+        "reaction_count": 2
+      },
+      {
+        "id": "9:326",
+        "name": "06_Short_Video",
+        "type": "FRAME",
+        "x": 2250,
+        "y": 0,
+        "width": 393,
+        "height": 852,
+        "text_count": 15,
+        "reaction_count": 1
+      },
+      {
+        "id": "9:391",
+        "name": "07_Profile",
+        "type": "FRAME",
+        "x": 2700,
+        "y": 0,
+        "width": 393,
+        "height": 852,
+        "text_count": 14,
+        "reaction_count": 2
+      },
+      {
+        "id": "9:448",
+        "name": "08_Menu",
+        "type": "FRAME",
+        "x": 3150,
+        "y": 0,
+        "width": 393,
+        "height": 852,
+        "text_count": 24,
+        "reaction_count": 2
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nMeet — dating and social app\nDesign Meet, a dating and social app: sign in, browse stories and posts on Explore, decide on suggested partners, visit a friend’s profile and watch a short, and manage your own profile from its menu. Canvas 393 × 852, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 8 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, backgrounds and surfaces including any tint or gradient, overlays on photos, online / active, like, error / disabled), plus type scale, spacing, radii, blur and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button and the platform shell (status bar, home indicator). Design all other states, the headers, the tab bar, the tabs, the sheet, the drawer and every business component as reusable components in your file.\n5. Use the photos, logo and icons from 04 · Media. Each person always uses their own portrait.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Welcome\nGoal: Choose how to get started.\nMUST INCLUDE\n• Actions: “Continue with Facebook” (Icon_Facebook) · “Continue with Google” (Icon_Google) · “Use mobile number” · “Sign Up”\n• Copy: “Don’t have an account?” · headline “Let’s meet new people around you”\n• Media: Portrait_Sarah_Payne with a heart (Icon_Heart) · Portrait_Henry · Portrait_Lucie · Portrait_Marry · Portrait_Pierre\nLINKS\n→ Sign Up → 02_Apple_ID_Sheet\n02_Apple_ID_Sheet\nGoal: Confirm signing in with an Apple ID.\nMUST INCLUDE\n• Actions: close (Icon_Close) · Face ID (Icon_Face_ID)\n• App: Logo_Meet\n• Copy: “Apple ID” · “Do you want to sign in to Meet Dating App: Meet People with your Apple ID “sarahp@example.com”?” · “Face ID”\n• Presentation: sheet over 01_Welcome\nLINKS\n→ Face ID → 03_Explore\n→ close → 01_Welcome\n03_Explore\nGoal: Catch up on stories and posts from people.\nMUST INCLUDE\n• Actions: “Make Friends” · “Search Partners”\n• Feed: Noemi Slater · Yu Jian · Maddison Burke posts, each with portrait, name, photo and like (Icon_Like) / comment (Icon_Chat) / more (Icon_More) (see DATA)\n• Header: “Explore” · notifications (Icon_Bell)\n• Main navigation: tab bar Home / Dating / Add / Chat / Profile · current: Home\n• Stories: “Your Story” with add (Icon_Plus) · Ben · Lucie · Marry · Claire · Lina · Jo · Henry · Pierre, each with portrait and first name\nLINKS\n→ Claire (story) → 05_Friend_Profile\n→ Dating tab → 04_Find_Partner\n→ Profile tab → 07_Profile\n04_Find_Partner\nGoal: Decide on the next suggested partner.\nMUST INCLUDE\n• Actions: like (Icon_Heart) · pass (Icon_Close) · super like (Icon_Star)\n• Card stack: top card John, 27 · San Francisco (Icon_Location) · 20 km away · Active Now (Portrait_John); 5 more cards behind it (see DATA)\n• Header: back (Icon_Back) · “Find your partner”\n• Main navigation: tab bar · current: Dating\nLINKS\n→ back / Home tab → 03_Explore\n→ Profile tab → 07_Profile\n05_Friend_Profile\nGoal: See who Claire is and connect.\nMUST INCLUDE\n• Actions: “Follow” · “Message”\n• Header: back (Icon_Back) · “Claire Smith” · more (Icon_More)\n• Main navigation: tab bar · current: Home\n• Media grid: Claire_01 – Claire_09 (01 and 09 are videos, Icon_Play)\n• Profile: Portrait_Claire_Smith · “63K Followers”\n• Tabs: Top · Recent · Short · current: Top\nLINKS\n→ back → 03_Explore\n→ Short (tab) → 06_Short_Video\n06_Short_Video\nGoal: Watch a short and react to it.\nMUST INCLUDE\n• Actions: like 123 (Icon_Heart) · comment 89 (Icon_Chat) · share (Icon_Send) · more (Icon_More)\n• Author: Portrait_Yu_Jian · “Yu Jian” · “Follow”\n• Caption: “I think I’m in love with you” · “Liked by Harrison Pearce and others” · music “Nothing Can Stop Me! · Jperriel” (Icon_Music) · “4 people” (Icon_Person)\n• Header: back (Icon_Back) · “Short” · camera (Icon_Camera)\n• Main navigation: tab bar · current: Home\n• Media: Short_Yu_Jian_Shore, full-screen video\nLINKS\n→ back → 05_Friend_Profile\n07_Profile\nGoal: See and manage my own profile.\nMUST INCLUDE\n• Actions: “Edit Profile” · “Share Profile”\n• Header: menu (Icon_Menu) · “Sarah Payne”\n• Main navigation: tab bar · current: Profile\n• Media grid: Sarah_01 – Sarah_09 (01 is a video, Icon_Play)\n• Profile: Portrait_Sarah_Payne · “103K Followers”\n• Tabs: Top · Recent · Short · current: Top\nLINKS\n→ menu → 08_Menu\n→ Home tab → 03_Explore\n08_Menu\nGoal: Reach account areas from the profile.\nMUST INCLUDE\n• Account: Portrait_Sarah_Payne · “Sarah Payne” · “Show Profile” · close (Icon_Close)\n• App: Logo_Meet\n• Menu: Archive · Close Friends · Discover people · Favorites · Group profiles · Saved · Setting · Your Activity, each with its icon and Icon_Chevron_Right (source order in DATA)\n• Presentation: drawer over 07_Profile\nLINKS\n→ close / Show Profile → 07_Profile\nNavigation structure\n• Sign-in flow: 01_Welcome → Sign Up → 02_Apple_ID_Sheet (sheet over 01) → Face ID → 03_Explore.\n• Bottom tab bar on 03–07 with 5 tabs in this order: Home (Icon_Home), Dating (Icon_Heart), Add (Icon_Plus), Chat (Icon_Chat), Profile (Portrait_Sarah_Payne). Current: Home on 03, 05 and 06; Dating on 04; Profile on 07. How the current tab looks is yours.\n• 05 and 06 are pushed from Explore (Claire’s story → her profile → its Short tab → the short). 08_Menu is a drawer over 07_Profile.\n• Entry only (no frame): Continue with Facebook / Google, Use mobile number, notifications, Make Friends, Search Partners, other stories, feed actions, Your Story, like / pass / super like, Follow, Message, more, Top / Recent tabs, grid items, short actions, camera, Edit Profile, Share Profile, menu rows, Add, Chat.\nFixed data & copy\nUse these values verbatim.\nMe\nSarah Payne · 103K Followers · Portrait_Sarah_Payne\nApple ID: sarahp@example.com\nStories (in this order)\nYour Story (Portrait_Sarah_Payne) · Ben · Lucie · Marry · Claire · Lina · Jo · Henry · Pierre (Por",
+  "layer_summary": {
+    "board_count": 8,
+    "boards": [
+      {
+        "name": "01_Welcome",
+        "size": "393×852",
+        "nodes": 39,
+        "max_depth": 3,
+        "instances": 14,
+        "texts": 7,
+        "images": 0,
+        "types": [
+          "instance×14",
+          "text×7",
+          "rectangle×7",
+          "vector×7",
+          "frame×2",
+          "ellipse×2"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Dynamic Island",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "02_Apple_ID_Sheet",
+        "size": "393×852",
+        "nodes": 54,
+        "max_depth": 4,
+        "instances": 19,
+        "texts": 10,
+        "images": 0,
+        "types": [
+          "instance×19",
+          "text×10",
+          "vector×10",
+          "rectangle×9",
+          "frame×4",
+          "ellipse×2"
+        ],
+        "names": [
+          "01 background",
+          "Status Bar",
+          "9:41",
+          "Dynamic Island",
+          "Signal",
+          "Rectangle"
+        ]
+      },
+      {
+        "name": "03_Explore",
+        "size": "393×852",
+        "nodes": 93,
+        "max_depth": 3,
+        "instances": 37,
+        "texts": 19,
+        "images": 0,
+        "types": [
+          "instance×37",
+          "text×19",
+          "vector×19",
+          "rectangle×10",
+          "frame×5",
+          "ellipse×3"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Dynamic Island",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "04_Find_Partner",
+        "size": "393×852",
+        "nodes": 59,
+        "max_depth": 3,
+        "instances": 14,
+        "texts": 12,
+        "images": 0,
+        "types": [
+          "instance×14",
+          "rectangle×13",
+          "text×12",
+          "vector×10",
+          "ellipse×6",
+          "frame×4"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Dynamic Island",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "05_Friend_Profile",
+        "size": "393×852",
+        "nodes": 62,
+        "max_depth": 3,
+        "instances": 22,
+        "texts": 14,
+        "images": 0,
+        "types": [
+          "instance×22",
+          "text×14",
+          "rectangle×14",
+          "vector×8",
+          "frame×2",
+          "ellipse×2"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Dynamic Island",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "06_Short_Video",
+        "size": "393×852",
+        "nodes": 64,
+        "max_depth": 3,
+        "instances": 18,
+        "texts": 15,
+        "images": 0,
+        "types": [
+          "instance×18",
+          "vector×16",
+          "text×15",
+          "rectangle×11",
+          "frame×2",
+          "ellipse×2"
+        ],
+        "names": [
+          "Short_Yu_Jian_Shore",
+          "Rectangle",
+          "Status Bar",
+          "9:41",
+          "Dynamic Island",
+          "Signal"
+        ]
+      },
+      {
+        "name": "07_Profile",
+        "size": "393×852",
+        "nodes": 57,
+        "max_depth": 3,
+        "instances": 20,
+        "texts": 14,
+        "images": 0,
+        "types": [
+          "instance×20",
+          "text×14",
+          "rectangle×13",
+          "vector×6",
+          "frame×2",
+          "ellipse×2"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Dynamic Island",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "08_Menu",
+        "size": "393×852",
+        "nodes": 122,
+        "max_depth": 4,
+        "instances": 40,
+        "texts": 24,
+        "images": 0,
+        "types": [
+          "instance×40",
+          "vector×31",
+          "text×24",
+          "rectangle×21",
+          "frame×4",
+          "ellipse×2"
+        ],
+        "names": [
+          "07 background",
+          "Status Bar",
+          "9:41",
+          "Dynamic Island",
+          "Signal",
+          "Rectangle"
+        ]
+      }
+    ]
+  }
+}

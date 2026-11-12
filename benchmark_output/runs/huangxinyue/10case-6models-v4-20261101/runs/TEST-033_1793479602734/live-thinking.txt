@@ -1,0 +1,30 @@
+BOTH FIXED:
+- 02: 'Trending' title left, menu/settings icons far right ✓
+- 03: All 8 keystats fully visible (Dividend Yield 3,76% / Primary Exchange IDX ✓), 'Dibandingkan dengan' section clean ✓
+
+All 6 screens verified visually:
+- 01 ✓ (full-width header/tabbar, balance, deposit/tarik, trending cards, watchlist)
+- 02 ✓ (indices, chips, rec cards, region chips, trending head, 6 rows)
+- 03 ✓ (header, stock head, price+pill, range chips, chart+tooltip, keystats, compare, Beli/Jual)
+- 04 ✓ (dana saya, 5 method rows)
+- 05 ✓ (stepper, destination, 6 amount options with selected, custom field, Bayar)
+- 06 ✓ (countdown, payment details with copy, 6 guide steps, Oke)
+
+Prototype: 15 links verified (14 + new Deposit). All flows work:
+- 01→02 (Trending tab), 01→04 (Deposit pill + Top Up tab)
+- 02→03 (GOTO row), 02→01 (Aktivitas tab), 02→04 (Top Up tab)
+- 03→02 (Back)
+- 04→05 (Alfamart), 04→01 (Back)
+- 05→06 (Bayar), 05→04 (Back + Ganti)
+- 06→01 (Oke), 06→05 (Back)
+
+Reference pages preserved (untouched — all edits were on page 5:2 workspace nodes and my own components).
+
+One remaining consideration: 'Tab / Pasar' and 'Tab / Profil' have no destinations — acceptable since those screens aren't in scope (brief specifies exactly 6 frames).
+
+Task complete. Write final answer with:
+- Assigned file URL: https://www.figma.com/design/K1JM8KrV8Si1stciFJqXfQ/
+- 03 · Workspace page ID: 5:2
+- Screen IDs: 16:2, 17:2, 18:2, 20:2, 20:117, 21:2
+- Prototype work: 15 links
+- Limitations: Pasar/Profil tabs have no destination screens (out of scope); Menu icon on 01 also navigates to Top Up (extra convenience link); use_figma sandbox needed getNodeByIdAsync due to view sync quirk (resolved).

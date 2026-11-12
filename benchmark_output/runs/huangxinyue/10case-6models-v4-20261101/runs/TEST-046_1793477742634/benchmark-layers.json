@@ -1,0 +1,104 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "03_Home",
+      "size": "390×844",
+      "nodes": 152,
+      "max_depth": 9,
+      "instances": 19,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "frame×62",
+        "vector×33",
+        "text×29",
+        "component×19",
+        "rectangle×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "04_Menu",
+      "size": "390×844",
+      "nodes": 211,
+      "max_depth": 10,
+      "instances": 28,
+      "texts": 38,
+      "images": 0,
+      "types": [
+        "frame×85",
+        "vector×43",
+        "text×38",
+        "component×28",
+        "rectangle×14",
+        "ellipse×2"
+      ],
+      "names": [
+        "Background_Home",
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "01_Onboarding",
+      "size": "390×844",
+      "nodes": 22,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "text×6",
+        "frame×5",
+        "component×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "02_Phone_Number",
+      "size": "390×844",
+      "nodes": 88,
+      "max_depth": 6,
+      "instances": 7,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "frame×32",
+        "text×32",
+        "rectangle×14",
+        "component×7",
+        "ellipse×2",
+        "vector×1"
+      ],
+      "names": [
+        "Background_Onboarding",
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle"
+      ]
+    }
+  ]
+}

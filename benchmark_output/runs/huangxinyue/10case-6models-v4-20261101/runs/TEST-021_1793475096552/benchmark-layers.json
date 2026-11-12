@@ -1,0 +1,153 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "Media · copied",
+      "size": "430×760",
+      "nodes": 98,
+      "max_depth": 2,
+      "instances": 58,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "vector×36",
+        "component×29",
+        "instance×29",
+        "ellipse×4"
+      ],
+      "names": [
+        "C_BTC",
+        "C_ETH",
+        "C_USDT",
+        "C_BNB",
+        "C_USDC",
+        "C_BUSD"
+      ]
+    },
+    {
+      "name": "02_Discovery",
+      "size": "375×812",
+      "nodes": 195,
+      "max_depth": 5,
+      "instances": 46,
+      "texts": 90,
+      "images": 0,
+      "types": [
+        "text×90",
+        "instance×46",
+        "frame×32",
+        "rectangle×23",
+        "ellipse×3",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "01_Wallet",
+      "size": "375×812",
+      "nodes": 105,
+      "max_depth": 5,
+      "instances": 18,
+      "texts": 39,
+      "images": 0,
+      "types": [
+        "text×39",
+        "instance×18",
+        "frame×17",
+        "rectangle×16",
+        "vector×9",
+        "ellipse×6"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "03_Strategy",
+      "size": "375×812",
+      "nodes": 294,
+      "max_depth": 6,
+      "instances": 63,
+      "texts": 138,
+      "images": 0,
+      "types": [
+        "text×138",
+        "instance×63",
+        "frame×46",
+        "rectangle×40",
+        "ellipse×4",
+        "vector×3"
+      ],
+      "names": [
+        "Backdrop",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "05_Invest_Success",
+      "size": "375×812",
+      "nodes": 227,
+      "max_depth": 6,
+      "instances": 49,
+      "texts": 95,
+      "images": 0,
+      "types": [
+        "text×95",
+        "instance×49",
+        "rectangle×40",
+        "frame×38",
+        "ellipse×3",
+        "vector×2"
+      ],
+      "names": [
+        "Backdrop",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "04_Invest_Amount",
+      "size": "375×812",
+      "nodes": 262,
+      "max_depth": 6,
+      "instances": 63,
+      "texts": 119,
+      "images": 0,
+      "types": [
+        "text×119",
+        "instance×63",
+        "frame×43",
+        "rectangle×26",
+        "vector×8",
+        "ellipse×3"
+      ],
+      "names": [
+        "Backdrop",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    }
+  ]
+}

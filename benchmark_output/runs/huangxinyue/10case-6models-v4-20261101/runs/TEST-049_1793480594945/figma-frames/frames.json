@@ -1,0 +1,70 @@
+[
+  {
+    "node_id": "6:6",
+    "name": "01_Onboarding",
+    "file": "6-6.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "3v6MKXTXZc4rqr75aMQHiO",
+        "nodeId": "6:6",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "17a83ddc02cb1b26e34c5e8abed673ad35aae6286814c481e9193ef10f460c7f",
+      "response_file": "_debug/v2-native-6-6.png.txt",
+      "response_sha256": "659cc4ee565c7d165fd1838e4c4e6d125a2277548ab356afe41b13099b2a066c"
+    }
+  },
+  {
+    "node_id": "6:58",
+    "name": "02_Home",
+    "file": "6-58.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "3v6MKXTXZc4rqr75aMQHiO",
+        "nodeId": "6:58",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "805c31499ed08861b0be92f9f0cd69256810bcc91e617c1b0d5e8419ac29a5ee",
+      "response_file": "_debug/v2-native-6-58.png.txt",
+      "response_sha256": "480f20fb16e7081b24b35657a234da8896ce3ef36c3afe5589546b82d55b840c"
+    }
+  },
+  {
+    "node_id": "6:151",
+    "name": "03_Warm_Up",
+    "file": "6-151.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "3v6MKXTXZc4rqr75aMQHiO",
+        "nodeId": "6:151",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "8072a8d8f5e751f169c1bc4ed49b2d022d9f578d3742a425e778d3fbce3d7b85",
+      "response_file": "_debug/v2-native-6-151.png.txt",
+      "response_sha256": "0d372128f0044beab162d6dbc5e0c17ec7e0b459644a446c71e7248e46413cff"
+    }
+  },
+  {
+    "node_id": "6:315",
+    "name": "04_Activity",
+    "file": "6-315.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "3v6MKXTXZc4rqr75aMQHiO",
+        "nodeId": "6:315",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "02ac8f8cf8e7f907ecc72ff36a55bc0d7929a28de9777277bbb5ec4a816d8b7d",
+      "response_file": "_debug/v2-native-6-315.png.txt",
+      "response_sha256": "c591d9438d58d335b32d2ef13cb84cd430202b34cb1550851a1ae6edfbb64046"
+    }
+  }
+]

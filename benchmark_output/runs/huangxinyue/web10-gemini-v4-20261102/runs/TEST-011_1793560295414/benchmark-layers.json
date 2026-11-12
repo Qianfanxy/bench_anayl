@@ -1,0 +1,221 @@
+{
+  "board_count": 9,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4300",
+      "nodes": 196,
+      "max_depth": 8,
+      "instances": 33,
+      "texts": 76,
+      "images": 0,
+      "types": [
+        "text×76",
+        "frame×74",
+        "instance×33",
+        "vector×9",
+        "rectangle×4"
+      ],
+      "names": [
+        "Header",
+        "Logo Group",
+        "Logo_Furniro",
+        "Furniro",
+        "Navigation",
+        "Home"
+      ]
+    },
+    {
+      "name": "02_Shop",
+      "size": "1440×3425",
+      "nodes": 275,
+      "max_depth": 8,
+      "instances": 35,
+      "texts": 112,
+      "images": 0,
+      "types": [
+        "text×112",
+        "frame×107",
+        "instance×35",
+        "vector×16",
+        "rectangle×5"
+      ],
+      "names": [
+        "Header",
+        "Logo Group",
+        "Logo_Furniro",
+        "Furniro",
+        "Navigation",
+        "Home"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1440×2905",
+      "nodes": 184,
+      "max_depth": 6,
+      "instances": 26,
+      "texts": 73,
+      "images": 0,
+      "types": [
+        "text×73",
+        "frame×63",
+        "instance×26",
+        "vector×14",
+        "rectangle×8"
+      ],
+      "names": [
+        "Header",
+        "Logo Group",
+        "Logo_Furniro",
+        "Furniro",
+        "Navigation",
+        "Home"
+      ]
+    },
+    {
+      "name": "04_Cart_Drawer",
+      "size": "1440×2905",
+      "nodes": 211,
+      "max_depth": 6,
+      "instances": 29,
+      "texts": 81,
+      "images": 0,
+      "types": [
+        "text×81",
+        "frame×74",
+        "instance×29",
+        "vector×17",
+        "rectangle×10"
+      ],
+      "names": [
+        "Header",
+        "Logo Group",
+        "Logo_Furniro",
+        "Furniro",
+        "Navigation",
+        "Home"
+      ]
+    },
+    {
+      "name": "05_Comparison",
+      "size": "1440×3085",
+      "nodes": 231,
+      "max_depth": 6,
+      "instances": 25,
+      "texts": 116,
+      "images": 0,
+      "types": [
+        "text×116",
+        "frame×63",
+        "instance×25",
+        "vector×20",
+        "rectangle×7"
+      ],
+      "names": [
+        "Header",
+        "Logo Group",
+        "Logo_Furniro",
+        "Furniro",
+        "Navigation",
+        "Home"
+      ]
+    },
+    {
+      "name": "06_Cart",
+      "size": "1440×1735",
+      "nodes": 110,
+      "max_depth": 5,
+      "instances": 14,
+      "texts": 46,
+      "images": 0,
+      "types": [
+        "text×46",
+        "frame×36",
+        "instance×14",
+        "vector×10",
+        "rectangle×4"
+      ],
+      "names": [
+        "Header",
+        "Logo Group",
+        "Logo_Furniro",
+        "Furniro",
+        "Navigation",
+        "Home"
+      ]
+    },
+    {
+      "name": "07_Checkout",
+      "size": "1440×2525",
+      "nodes": 163,
+      "max_depth": 6,
+      "instances": 14,
+      "texts": 69,
+      "images": 0,
+      "types": [
+        "text×69",
+        "frame×64",
+        "instance×14",
+        "vector×11",
+        "rectangle×5"
+      ],
+      "names": [
+        "Header",
+        "Logo Group",
+        "Logo_Furniro",
+        "Furniro",
+        "Navigation",
+        "Home"
+      ]
+    },
+    {
+      "name": "08_Contact",
+      "size": "1440×2155",
+      "nodes": 127,
+      "max_depth": 5,
+      "instances": 15,
+      "texts": 51,
+      "images": 0,
+      "types": [
+        "text×51",
+        "frame×45",
+        "instance×15",
+        "vector×12",
+        "rectangle×4"
+      ],
+      "names": [
+        "Header",
+        "Logo Group",
+        "Logo_Furniro",
+        "Furniro",
+        "Navigation",
+        "Home"
+      ]
+    },
+    {
+      "name": "09_Blog",
+      "size": "1440×2875",
+      "nodes": 210,
+      "max_depth": 7,
+      "instances": 30,
+      "texts": 76,
+      "images": 0,
+      "types": [
+        "frame×78",
+        "text×76",
+        "instance×30",
+        "vector×19",
+        "rectangle×7"
+      ],
+      "names": [
+        "Header",
+        "Logo Group",
+        "Logo_Furniro",
+        "Furniro",
+        "Navigation",
+        "Home"
+      ]
+    }
+  ]
+}

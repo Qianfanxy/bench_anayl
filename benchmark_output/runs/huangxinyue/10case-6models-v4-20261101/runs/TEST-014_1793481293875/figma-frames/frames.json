@@ -1,0 +1,42 @@
+[
+  {
+    "node_id": "21:166",
+    "name": "01_Welcome",
+    "file": "21-166.png"
+  },
+  {
+    "node_id": "22:189",
+    "name": "02_Apple_ID_Sheet",
+    "file": "22-189.png"
+  },
+  {
+    "node_id": "26:228",
+    "name": "03_Explore",
+    "file": "26-228.png"
+  },
+  {
+    "node_id": "29:356",
+    "name": "04_Find_Partner",
+    "file": "29-356.png"
+  },
+  {
+    "node_id": "30:485",
+    "name": "05_Friend_Profile",
+    "file": "30-485.png"
+  },
+  {
+    "node_id": "31:633",
+    "name": "06_Short_Video",
+    "file": "31-633.png"
+  },
+  {
+    "node_id": "30:582",
+    "name": "07_Profile",
+    "file": "30-582.png"
+  },
+  {
+    "node_id": "31:728",
+    "name": "08_Menu",
+    "file": "31-728.png"
+  }
+]

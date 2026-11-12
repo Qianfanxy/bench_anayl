@@ -1,0 +1,105 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 18,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "rectangle×6",
+        "instance×3",
+        "frame×3",
+        "vector×3",
+        "text×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "02_Get_Started",
+      "size": "430×932",
+      "nodes": 28,
+      "max_depth": 4,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "instance×6",
+        "frame×5",
+        "vector×5",
+        "text×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "Photo_Aerial_Island",
+        "Rectangle",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "430×932",
+      "nodes": 53,
+      "max_depth": 5,
+      "instances": 9,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "frame×15",
+        "text×11",
+        "instance×9",
+        "rectangle×9",
+        "vector×8",
+        "ellipse×1"
+      ],
+      "names": [
+        "Frame",
+        "Photo_Hot_Air_Balloons",
+        "Rectangle",
+        "Status Bar",
+        "9:41",
+        "Signal"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "430×932",
+      "nodes": 148,
+      "max_depth": 7,
+      "instances": 22,
+      "texts": 46,
+      "images": 0,
+      "types": [
+        "frame×52",
+        "text×46",
+        "instance×22",
+        "vector×21",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    }
+  ]
+}

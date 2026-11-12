@@ -1,0 +1,124 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×6130",
+      "nodes": 428,
+      "max_depth": 3,
+      "instances": 157,
+      "texts": 117,
+      "images": 0,
+      "types": [
+        "instance×155",
+        "vector×126",
+        "text×117",
+        "frame×28",
+        "component×2"
+      ],
+      "names": [
+        "Header / Home",
+        "Logo_Foodieland",
+        "Home",
+        "Current navigation",
+        "Recipes",
+        "Blog"
+      ]
+    },
+    {
+      "name": "02_Recipe",
+      "size": "1440×4580",
+      "nodes": 221,
+      "max_depth": 3,
+      "instances": 63,
+      "texts": 79,
+      "images": 0,
+      "types": [
+        "text×79",
+        "instance×50",
+        "vector×41",
+        "frame×38",
+        "component×13"
+      ],
+      "names": [
+        "Header / Recipes",
+        "Logo_Foodieland",
+        "Home",
+        "Recipes",
+        "Current navigation",
+        "Blog"
+      ]
+    },
+    {
+      "name": "03_Blog",
+      "size": "1440×2910",
+      "nodes": 123,
+      "max_depth": 4,
+      "instances": 43,
+      "texts": 58,
+      "images": 0,
+      "types": [
+        "text×58",
+        "instance×34",
+        "frame×11",
+        "vector×11",
+        "component×9"
+      ],
+      "names": [
+        "Header / Blog",
+        "Logo_Foodieland",
+        "Home",
+        "Recipes",
+        "Blog",
+        "Current navigation"
+      ]
+    },
+    {
+      "name": "04_Blog_Post",
+      "size": "1440×4210",
+      "nodes": 129,
+      "max_depth": 3,
+      "instances": 42,
+      "texts": 44,
+      "images": 0,
+      "types": [
+        "text×44",
+        "instance×41",
+        "vector×35",
+        "frame×8",
+        "component×1"
+      ],
+      "names": [
+        "Header / Blog",
+        "Logo_Foodieland",
+        "Home",
+        "Recipes",
+        "Blog",
+        "Current navigation"
+      ]
+    },
+    {
+      "name": "05_Contact",
+      "size": "1440×2250",
+      "nodes": 133,
+      "max_depth": 3,
+      "instances": 38,
+      "texts": 45,
+      "images": 0,
+      "types": [
+        "text×45",
+        "instance×38",
+        "vector×31",
+        "frame×19"
+      ],
+      "names": [
+        "Header / Contact",
+        "Logo_Foodieland",
+        "Home",
+        "Recipes",
+        "Blog",
+        "Contact"
+      ]
+    }
+  ]
+}

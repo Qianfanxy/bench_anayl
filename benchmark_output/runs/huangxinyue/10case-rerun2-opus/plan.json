@@ -1,0 +1,73 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "design10-rerun2-opus",
+  "dataset_hash": "f52f8f6403dc53714e049c66646081b4915fad2c3ddcb76bc40e2530461171b4",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_claude_opus55_direct",
+      "name": "Opus 5.5（三方A）",
+      "provider": "Claude Code",
+      "connection_mode": "direct",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "127.0.0.1",
+      "port": 0,
+      "model_id": "claude-opus-5-5/awsb_L/sfa",
+      "auth_mode": "auto",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "none",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    }
+  ],
+  "case_count": 4,
+  "assignment_count": 4,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 1,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_9945900bcb929ab81c1f",
+      "case_id": "case-007",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_1b151d607e9abe9c7428",
+      "case_id": "case-008",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_998e2bab21f8d31006ff",
+      "case_id": "case-009",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_cbbca67c11d5710a32eb",
+      "case_id": "case-010",
+      "model_id": "model_claude_opus55_direct"
+    }
+  ],
+  "content_hash": "30a43800030be01ac0c65a7abb8ebecad099a79d3884fa67e0ca443ed37694f0"
+}

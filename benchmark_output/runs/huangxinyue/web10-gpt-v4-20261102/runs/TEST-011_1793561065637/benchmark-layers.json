@@ -1,0 +1,224 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "Furniro · UI system",
+      "size": "1440×9000",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "01_Home",
+      "size": "1440×4360",
+      "nodes": 110,
+      "max_depth": 2,
+      "instances": 31,
+      "texts": 63,
+      "images": 0,
+      "types": [
+        "text×63",
+        "instance×31",
+        "frame×12",
+        "vector×4"
+      ],
+      "names": [
+        "Photo_Hero",
+        "Go / 01_Home",
+        "Go / 02_Shop",
+        "Go / 08_Blog",
+        "Go / 07_Contact",
+        "Go / 05_Cart"
+      ]
+    },
+    {
+      "name": "02_Shop",
+      "size": "1440×2960",
+      "nodes": 124,
+      "max_depth": 2,
+      "instances": 23,
+      "texts": 78,
+      "images": 0,
+      "types": [
+        "text×78",
+        "instance×23",
+        "frame×19",
+        "vector×4"
+      ],
+      "names": [
+        "Photo_Page_Banner",
+        "Go / 01_Home",
+        "Go / 02_Shop",
+        "Go / 08_Blog",
+        "Go / 07_Contact",
+        "Go / 05_Cart"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1440×3130",
+      "nodes": 84,
+      "max_depth": 2,
+      "instances": 20,
+      "texts": 54,
+      "images": 0,
+      "types": [
+        "text×54",
+        "instance×20",
+        "frame×6",
+        "vector×4"
+      ],
+      "names": [
+        "Photo_Page_Banner",
+        "Go / 01_Home",
+        "Go / 02_Shop",
+        "Go / 08_Blog",
+        "Go / 07_Contact",
+        "Go / 05_Cart"
+      ]
+    },
+    {
+      "name": "05_Comparison",
+      "size": "1440×3375",
+      "nodes": 125,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 104,
+      "images": 0,
+      "types": [
+        "text×104",
+        "instance×11",
+        "frame×6",
+        "vector×4"
+      ],
+      "names": [
+        "Photo_Page_Banner",
+        "Go / 01_Home",
+        "Go / 02_Shop",
+        "Go / 08_Blog",
+        "Go / 07_Contact",
+        "Go / 05_Cart"
+      ]
+    },
+    {
+      "name": "06_Cart",
+      "size": "1440×1460",
+      "nodes": 52,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "text×35",
+        "instance×9",
+        "frame×4",
+        "vector×4"
+      ],
+      "names": [
+        "Photo_Page_Banner",
+        "Go / 01_Home",
+        "Go / 02_Shop",
+        "Go / 08_Blog",
+        "Go / 07_Contact",
+        "Go / 05_Cart"
+      ]
+    },
+    {
+      "name": "07_Checkout",
+      "size": "1440×2600",
+      "nodes": 93,
+      "max_depth": 3,
+      "instances": 18,
+      "texts": 58,
+      "images": 0,
+      "types": [
+        "text×58",
+        "instance×18",
+        "frame×13",
+        "vector×4"
+      ],
+      "names": [
+        "Photo_Page_Banner",
+        "Go / 01_Home",
+        "Go / 02_Shop",
+        "Go / 08_Blog",
+        "Go / 07_Contact",
+        "Go / 05_Cart"
+      ]
+    },
+    {
+      "name": "08_Contact",
+      "size": "1440×1960",
+      "nodes": 64,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 43,
+      "images": 0,
+      "types": [
+        "text×43",
+        "instance×11",
+        "frame×6",
+        "vector×4"
+      ],
+      "names": [
+        "Photo_Page_Banner",
+        "Go / 01_Home",
+        "Go / 02_Shop",
+        "Go / 08_Blog",
+        "Go / 07_Contact",
+        "Go / 05_Cart"
+      ]
+    },
+    {
+      "name": "09_Blog",
+      "size": "1440×3410",
+      "nodes": 71,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 50,
+      "images": 0,
+      "types": [
+        "text×50",
+        "instance×14",
+        "vector×4",
+        "frame×3"
+      ],
+      "names": [
+        "Photo_Page_Banner",
+        "Go / 01_Home",
+        "Go / 02_Shop",
+        "Go / 08_Blog",
+        "Go / 07_Contact",
+        "Go / 05_Cart"
+      ]
+    },
+    {
+      "name": "04_Cart_Drawer",
+      "size": "1440×3130",
+      "nodes": 101,
+      "max_depth": 2,
+      "instances": 21,
+      "texts": 63,
+      "images": 0,
+      "types": [
+        "text×63",
+        "instance×21",
+        "frame×7",
+        "rectangle×6",
+        "vector×4"
+      ],
+      "names": [
+        "Photo_Page_Banner",
+        "Go / 01_Home",
+        "Go / 02_Shop",
+        "Go / 08_Blog",
+        "Go / 07_Contact",
+        "Go / 05_Cart"
+      ]
+    }
+  ]
+}

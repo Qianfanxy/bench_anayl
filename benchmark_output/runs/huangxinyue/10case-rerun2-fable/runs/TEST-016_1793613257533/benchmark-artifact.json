@@ -1,0 +1,571 @@
+{
+  "file_key": "kbUCfTA8H4RPQHbbV4YZMT",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "5:2",
+      "name": "03 · Workspace",
+      "child_count": 34
+    }
+  ],
+  "workspace": {
+    "id": "5:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "11:29",
+        "name": "Button / Primary",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 374,
+        "height": 56,
+        "render_bounds": {
+          "width": 426,
+          "height": 108
+        },
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:31",
+        "name": "Button / Pressed",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 90,
+        "width": 374,
+        "height": 56,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:33",
+        "name": "Button / Secondary",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 180,
+        "width": 374,
+        "height": 56,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:35",
+        "name": "Button / Disabled",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 270,
+        "width": 374,
+        "height": 56,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:37",
+        "name": "Tab Bar / Home",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 430,
+        "width": 414,
+        "height": 84,
+        "render_bounds": {
+          "width": 462,
+          "height": 132
+        },
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:58",
+        "name": "Tab Bar / Activity",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 540,
+        "width": 414,
+        "height": 84,
+        "render_bounds": {
+          "width": 462,
+          "height": 132
+        },
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:79",
+        "name": "Tab Bar / Profile",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 650,
+        "width": 414,
+        "height": 84,
+        "render_bounds": {
+          "width": 462,
+          "height": 132
+        },
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:100",
+        "name": "Tab Bar / Settings",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 760,
+        "width": 414,
+        "height": 84,
+        "render_bounds": {
+          "width": 462,
+          "height": 132
+        },
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:121",
+        "name": "Header / Back + More",
+        "type": "COMPONENT",
+        "x": 460,
+        "y": 0,
+        "width": 414,
+        "height": 64,
+        "render_bounds": {
+          "width": 414,
+          "height": 73
+        },
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:136",
+        "name": "Header / Back",
+        "type": "COMPONENT",
+        "x": 460,
+        "y": 80,
+        "width": 414,
+        "height": 64,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:146",
+        "name": "Section Header",
+        "type": "COMPONENT",
+        "x": 460,
+        "y": 170,
+        "width": 366,
+        "height": 26,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:149",
+        "name": "Tag / Duration",
+        "type": "COMPONENT",
+        "x": 460,
+        "y": 220,
+        "width": 113,
+        "height": 32,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:155",
+        "name": "Tag / Activity",
+        "type": "COMPONENT",
+        "x": 460,
+        "y": 270,
+        "width": 100,
+        "height": 32,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:161",
+        "name": "Day Pill / Default",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 1400,
+        "width": 46,
+        "height": 66,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:164",
+        "name": "Day Pill / Selected",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 1476,
+        "width": 46,
+        "height": 66,
+        "render_bounds": {
+          "width": 90,
+          "height": 110
+        },
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:167",
+        "name": "Category Card / Warm up",
+        "type": "COMPONENT",
+        "x": 460,
+        "y": 330,
+        "width": 179,
+        "height": 128,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:180",
+        "name": "Category Card / Yoga",
+        "type": "COMPONENT",
+        "x": 655,
+        "y": 330,
+        "width": 179,
+        "height": 128,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:193",
+        "name": "Category Card / Squats",
+        "type": "COMPONENT",
+        "x": 850,
+        "y": 330,
+        "width": 179,
+        "height": 128,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:206",
+        "name": "Category Card / Lunge",
+        "type": "COMPONENT",
+        "x": 1045,
+        "y": 330,
+        "width": 179,
+        "height": 128,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:219",
+        "name": "Class Card",
+        "type": "COMPONENT",
+        "x": 460,
+        "y": 490,
+        "width": 374,
+        "height": 300,
+        "render_bounds": {
+          "width": 422,
+          "height": 348
+        },
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:232",
+        "name": "Today Activity Card",
+        "type": "COMPONENT",
+        "x": 460,
+        "y": 810,
+        "width": 374,
+        "height": 116,
+        "render_bounds": {
+          "width": 426,
+          "height": 168
+        },
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:239",
+        "name": "Exercise Row",
+        "type": "COMPONENT",
+        "x": 460,
+        "y": 950,
+        "width": 374,
+        "height": 76,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:249",
+        "name": "Activity Card / Running",
+        "type": "COMPONENT",
+        "x": 460,
+        "y": 1050,
+        "width": 374,
+        "height": 84,
+        "render_bounds": {
+          "width": 414,
+          "height": 124
+        },
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:259",
+        "name": "Activity Card / Swimming",
+        "type": "COMPONENT",
+        "x": 460,
+        "y": 1150,
+        "width": 374,
+        "height": 84,
+        "render_bounds": {
+          "width": 414,
+          "height": 124
+        },
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:270",
+        "name": "Activity Card / Cycling",
+        "type": "COMPONENT",
+        "x": 460,
+        "y": 1250,
+        "width": 374,
+        "height": 84,
+        "render_bounds": {
+          "width": 414,
+          "height": 124
+        },
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:98",
+        "name": "01_Onboarding",
+        "type": "FRAME",
+        "x": 1400,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 2,
+        "reaction_count": 1
+      },
+      {
+        "id": "14:119",
+        "name": "02_Home",
+        "type": "FRAME",
+        "x": 1900,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 2,
+        "reaction_count": 2
+      },
+      {
+        "id": "18:221",
+        "name": "03_Warm_Up",
+        "type": "FRAME",
+        "x": 2400,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 3,
+        "reaction_count": 4
+      },
+      {
+        "id": "18:415",
+        "name": "04_Activity",
+        "type": "FRAME",
+        "x": 2900,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 11,
+        "reaction_count": 2
+      },
+      {
+        "id": "22:412",
+        "name": "Class Card / Compact",
+        "type": "COMPONENT",
+        "x": 920,
+        "y": 180,
+        "width": 374,
+        "height": 122,
+        "render_bounds": {
+          "width": 422,
+          "height": 170
+        },
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "25:414",
+        "name": "Button / Focused",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 360,
+        "width": 374,
+        "height": 56,
+        "render_bounds": {
+          "width": 380,
+          "height": 62
+        },
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "25:416",
+        "name": "Favorite Button / Default",
+        "type": "COMPONENT",
+        "x": 560,
+        "y": 1476,
+        "width": 38,
+        "height": 38,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "25:420",
+        "name": "Favorite Button / Active",
+        "type": "COMPONENT",
+        "x": 608,
+        "y": 1476,
+        "width": 38,
+        "height": 38,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "25:424",
+        "name": "Play Button / Playing",
+        "type": "COMPONENT",
+        "x": 664,
+        "y": 1476,
+        "width": 34,
+        "height": 34,
+        "text_count": 0,
+        "reaction_count": 0
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nWorkout Class — fitness classes and activity tracking\nDesign a fitness class app: get started, find a workout class, open the Warm up category to see its exercises, and review this week’s activity. Canvas 414 × 896, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the navigation and every business component as reusable components in your file.\n5. Use the illustrations, the avatar, the photos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Onboarding\nGoal: Understand what the app offers and start.\nMUST INCLUDE\n• Actions: “Get started”\n• Copy: “Best workouts for you” · “You will have everything you need to reach your personal fitness goals — for free!”\n• Media: Illustration_Onboarding\nLINKS\n→ Get started → 02_Home\n02_Home\nGoal: Find a workout class.\nMUST INCLUDE\n• Categories: “Categories” · “See all” · Warm up · Yoga · Squats · Lunge, each with its photo (see DATA)\n• Greeting: “Hello, Adam Smith” · Avatar_Adam_Smith · menu (Icon_Menu)\n• Main navigation: tab bar Home / Activity / Profile / Settings · current: Home\n• Recommendation Class: “Recommendation Class” · “See all” · Yoga Class · “With Rachael Wisdom” · Photo_Yoga_Class · favorite (Icon_Heart)\n• Search: “Search” (Icon_Search)\n• Title: “Find Your Workout Class”\n• Today’s activity: “Today’s activity” · 8.00 AM - 1.30 PM · Illustration_Todays_Activity\nLINKS\n→ Warm up category → 03_Warm_Up\n→ Activity tab → 04_Activity\n03_Warm_Up\nGoal: Understand the Warm up session and pick an exercise.\nMUST INCLUDE\n• Actions: back (Icon_Back) · more (Icon_More) · play video (Icon_Play)\n• Description: “Warm up properly before exercising to prevent injury and make your workouts more effective.”\n• Exercises: “Exercises” · Exercise 1 – Exercise 10, each with photo, duration and play (Icon_Play_Small) (see DATA)\n• Main navigation: tab bar · current: Home\n• Media: Photo_Seated_Hug (video cover)\n• Tags: 37.10 mins (Icon_Clock) · Running (Icon_Running)\n• Title: “Warm up”\nLINKS\n→ back → 02_Home\n→ Activity tab → 04_Activity\n04_Activity\nGoal: Review the calories and activities of a day this week.\nMUST INCLUDE\n• Actions: back (Icon_Back) · more (Icon_More)\n• Activities: Running · Swimming · Cycling, each with time range, hours and kilometers (Icon_Running, Icon_Swimming, Icon_Cycling) (see DATA)\n• Calories: 1680 kcal\n• Chart: hourly calories, axis 8AM · 10AM · 12PM · 2PM · 4PM · selected: 4PM · 120 cal\n• Main navigation: tab bar · current: Activity\n• Title: “Your activities”\n• Week: “This week” · Sat 26 – Fri 01 · selected: Mon 28\nLINKS\n→ back → 02_Home\n→ Home tab → 02_Home\nNavigation structure\n• Bottom tab bar on 02, 03 and 04 with 4 tabs in this order: Home (Icon_Home), Activity (Icon_Activity), Profile (Icon_Profile), Settings (Icon_Settings). Current: Home on 02 and 03, Activity on 04. How the current tab looks is yours.\n• 01_Onboarding → Get started → 02_Home. 03_Warm_Up is pushed from the Warm up category card on 02.\n• Entry only (no frame): menu, avatar, search, Today’s activity card, See all, Yoga Class, favorite, Yoga / Squats / Lunge, more, play video, exercise rows, days, chart hours, activity cards, Profile and Settings tabs.\nFixed data & copy\nUse these values verbatim.\nUser\nAdam Smith (Avatar_Adam_Smith) · greeting “Hello, Adam Smith”\nToday’s activity\n8.00 AM - 1.30 PM (Illustration_Todays_Activity)\nRecommendation Class\nYoga Class · With Rachael Wisdom (Photo_Yoga_Class)\nCategories (in this order)\nWarm up (Photo_Seated_Hug)\nYoga (Photo_Meditation)\nSquats (Photo_Squat)\nLunge (Photo_Lunge)\nWarm up (03)\nTags: 37.10 mins · Running\nVideo cover: Photo_Seated_Hug\nExercises (03, in this order)\nExercise 1 · 02.30 Minutes (Photo_Forward_Fold)\nExercise 2 · 02.00 Minutes (Photo_Chair_Pose)\nExercise 3 · 03.20 Minutes (Photo_Side_Plank)\nExercise 4 · 02.30 Minutes (Photo_Bent_Over)\nExercise 5 · 05.30 Minutes (Photo_Meditation)\nExercise 6 · 06.10 Minutes (Photo_Seated_Hug)\nExercise 7 · 04.50 Minutes (Photo_Lunge)\nExercise 8 · 03.30 Minutes (Photo_Arm_Stretch)\nExercise 9 · 01.30 Minutes (Photo_Back_Bend)\nExercise 10 · 05.20 Minutes (Photo_Tabletop_Kick)\nWeek (04)\nSat 26 · Sun 27 · Mon 28 (selected) · Tue 29 · Wed 30 · Thu 31 · Fri 01\n1680 kcal\nChart: 8AM – 4PM, selected 4PM · 120 cal (curve values illustrative)\nActivities (04, in this order)\nRunning · 8.00 AM - 9.30 AM · 1.32 hours · 9.50 kilometers\nSwimming · 8.00 AM - 9.30 AM · 1.32 hours · 9.50 kilometers\nCycling · 8.00 AM - 9.30 AM · 1.32 hours · 9.50 kilometers\nWhat is fixed · what is yours\nFixed (given)\n• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand color #24C8FE and Inter\n• Media: illustrations, avatar, photos, icons\n• Default Button, default Text Field, platform shell\nYours (designer decides)\n• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, backgrounds / surfaces, category tints, activity colors, chart fill, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: current tab, selected day, selected hour, pressed, favorited, disabled\n• Headers, tab bar, activity card, class card, category cards, tags, exercise rows, day pills, chart, activity cards\n• How photos and cut-outs are cropped, backed and treated\nHow it is evaluated\nYour file is compared with this brief on coverage, data and flow — not on visual similarity to any original.\n1. Checklist coverage per frame\n2. Data & copy accuracy\n3",
+  "layer_summary": {
+    "board_count": 4,
+    "boards": [
+      {
+        "name": "01_Onboarding",
+        "size": "414×896",
+        "nodes": 20,
+        "max_depth": 3,
+        "instances": 4,
+        "texts": 4,
+        "images": 0,
+        "types": [
+          "rectangle×7",
+          "instance×4",
+          "text×4",
+          "ellipse×3",
+          "frame×2"
+        ],
+        "names": [
+          "Ellipse",
+          "Illustration_Onboarding",
+          "Headline",
+          "Body",
+          "Button / Primary",
+          "Label"
+        ]
+      },
+      {
+        "name": "02_Home",
+        "size": "414×896",
+        "nodes": 115,
+        "max_depth": 6,
+        "instances": 28,
+        "texts": 21,
+        "images": 0,
+        "types": [
+          "instance×28",
+          "frame×27",
+          "vector×22",
+          "text×21",
+          "group×9",
+          "rectangle×7"
+        ],
+        "names": [
+          "Content",
+          "Avatar",
+          "Photo Wrap",
+          "Avatar_Adam_Smith",
+          "Greeting",
+          "Icon_Menu"
+        ]
+      },
+      {
+        "name": "03_Warm_Up",
+        "size": "414×896",
+        "nodes": 199,
+        "max_depth": 7,
+        "instances": 57,
+        "texts": 31,
+        "images": 0,
+        "types": [
+          "instance×57",
+          "frame×55",
+          "text×31",
+          "vector×27",
+          "group×21",
+          "rectangle×7"
+        ],
+        "names": [
+          "Content",
+          "Header / Back + More",
+          "Back Button",
+          "Icon_Back",
+          "Clip path group",
+          "clip0_0_107"
+        ]
+      },
+      {
+        "name": "04_Activity",
+        "size": "414×896",
+        "nodes": 126,
+        "max_depth": 7,
+        "instances": 23,
+        "texts": 43,
+        "images": 0,
+        "types": [
+          "text×43",
+          "instance×23",
+          "vector×22",
+          "frame×16",
+          "group×11",
+          "rectangle×8"
+        ],
+        "names": [
+          "Content",
+          "Header / Back + More",
+          "Back Button",
+          "Icon_Back",
+          "Clip path group",
+          "clip0_0_107"
+        ]
+      }
+    ]
+  }
+}

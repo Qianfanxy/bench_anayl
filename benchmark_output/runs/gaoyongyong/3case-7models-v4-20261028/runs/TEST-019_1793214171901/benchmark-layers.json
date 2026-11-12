@@ -1,0 +1,328 @@
+{
+  "board_count": 13,
+  "boards": [
+    {
+      "name": "Assets · Platform & Icons",
+      "size": "1240×1400",
+      "nodes": 128,
+      "max_depth": 9,
+      "instances": 22,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "group×62",
+        "vector×29",
+        "component×22",
+        "rectangle×7",
+        "text×4",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "Assets · Media",
+      "size": "1240×1100",
+      "nodes": 27,
+      "max_depth": 2,
+      "instances": 3,
+      "texts": 0,
+      "images": 20,
+      "types": [
+        "rectangle-image×20",
+        "component×3",
+        "ellipse×2",
+        "vector×2"
+      ],
+      "names": [
+        "Splash_Burger_Stack",
+        "Burger_Cheeseburger_Wend",
+        "Burger_Veggie",
+        "Burger_Chicken",
+        "Burger_Fried_Chicken",
+        "Burger_Exploded_Custom"
+      ]
+    },
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 3,
+      "images": 1,
+      "types": [
+        "rectangle×7",
+        "frame×4",
+        "ellipse×4",
+        "instance×3",
+        "text×3",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "430×932",
+      "nodes": 188,
+      "max_depth": 9,
+      "instances": 29,
+      "texts": 34,
+      "images": 4,
+      "types": [
+        "group×63",
+        "text×34",
+        "instance×29",
+        "frame×26",
+        "vector×22",
+        "rectangle×7"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "03_Product_Cheeseburger",
+      "size": "430×932",
+      "nodes": 65,
+      "max_depth": 9,
+      "instances": 10,
+      "texts": 16,
+      "images": 1,
+      "types": [
+        "text×16",
+        "frame×12",
+        "group×12",
+        "instance×10",
+        "rectangle×7",
+        "vector×6"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "04_Product_Veggie",
+      "size": "430×932",
+      "nodes": 65,
+      "max_depth": 9,
+      "instances": 10,
+      "texts": 16,
+      "images": 1,
+      "types": [
+        "text×16",
+        "frame×12",
+        "group×12",
+        "instance×10",
+        "rectangle×7",
+        "vector×6"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "05_Product_Chicken",
+      "size": "430×932",
+      "nodes": 65,
+      "max_depth": 9,
+      "instances": 10,
+      "texts": 16,
+      "images": 1,
+      "types": [
+        "text×16",
+        "frame×12",
+        "group×12",
+        "instance×10",
+        "rectangle×7",
+        "vector×6"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "06_Product_Fried_Chicken",
+      "size": "430×932",
+      "nodes": 65,
+      "max_depth": 9,
+      "instances": 10,
+      "texts": 16,
+      "images": 1,
+      "types": [
+        "text×16",
+        "frame×12",
+        "group×12",
+        "instance×10",
+        "rectangle×7",
+        "vector×6"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "07_Customize",
+      "size": "430×1420",
+      "nodes": 157,
+      "max_depth": 9,
+      "instances": 34,
+      "texts": 29,
+      "images": 13,
+      "types": [
+        "frame×36",
+        "instance×34",
+        "text×29",
+        "vector×29",
+        "rectangle-image×13",
+        "group×8"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "08_Payment",
+      "size": "430×932",
+      "nodes": 66,
+      "max_depth": 9,
+      "instances": 7,
+      "texts": 21,
+      "images": 2,
+      "types": [
+        "text×21",
+        "frame×14",
+        "rectangle×8",
+        "group×8",
+        "instance×7",
+        "vector×4"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "09_Payment_Success_Overlay",
+      "size": "430×932",
+      "nodes": 76,
+      "max_depth": 9,
+      "instances": 8,
+      "texts": 24,
+      "images": 2,
+      "types": [
+        "text×24",
+        "frame×17",
+        "rectangle×9",
+        "instance×8",
+        "group×8",
+        "vector×6"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "10_Profile",
+      "size": "430×932",
+      "nodes": 80,
+      "max_depth": 10,
+      "instances": 13,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "group×24",
+        "text×16",
+        "instance×13",
+        "vector×10",
+        "frame×7",
+        "rectangle×7"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "11_Support_Chat",
+      "size": "430×932",
+      "nodes": 53,
+      "max_depth": 10,
+      "instances": 12,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×11",
+        "rectangle×8",
+        "group×8",
+        "frame×7",
+        "vector×4"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    }
+  ]
+}

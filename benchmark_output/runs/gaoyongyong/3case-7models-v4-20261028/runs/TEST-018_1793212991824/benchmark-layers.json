@@ -1,0 +1,275 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "414×932",
+      "nodes": 18,
+      "max_depth": 2,
+      "instances": 1,
+      "texts": 3,
+      "images": 1,
+      "types": [
+        "rectangle×10",
+        "text×3",
+        "ellipse×3",
+        "instance×1",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal 1",
+        "Signal 2",
+        "Signal 3",
+        "Signal 4"
+      ]
+    },
+    {
+      "name": "02_Welcome",
+      "size": "414×932",
+      "nodes": 19,
+      "max_depth": 2,
+      "instances": 2,
+      "texts": 5,
+      "images": 1,
+      "types": [
+        "rectangle×9",
+        "text×5",
+        "instance×2",
+        "ellipse×2",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal 1",
+        "Signal 2",
+        "Signal 3",
+        "Signal 4"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Empty",
+      "size": "414×932",
+      "nodes": 28,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "rectangle×9",
+        "instance×6",
+        "ellipse×1",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal 1",
+        "Signal 2",
+        "Signal 3",
+        "Signal 4"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Filled",
+      "size": "414×932",
+      "nodes": 28,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "rectangle×9",
+        "instance×6",
+        "ellipse×1",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal 1",
+        "Signal 2",
+        "Signal 3",
+        "Signal 4"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Error",
+      "size": "414×932",
+      "nodes": 29,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "rectangle×9",
+        "instance×6",
+        "ellipse×1",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal 1",
+        "Signal 2",
+        "Signal 3",
+        "Signal 4"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "414×932",
+      "nodes": 107,
+      "max_depth": 6,
+      "instances": 10,
+      "texts": 35,
+      "images": 6,
+      "types": [
+        "text×35",
+        "frame×19",
+        "rectangle×15",
+        "vector×11",
+        "instance×10",
+        "group×7"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal 1",
+        "Signal 2",
+        "Signal 3",
+        "Signal 4"
+      ]
+    },
+    {
+      "name": "05_My_Asset_Overlay",
+      "size": "414×932",
+      "nodes": 69,
+      "max_depth": 6,
+      "instances": 7,
+      "texts": 26,
+      "images": 1,
+      "types": [
+        "text×26",
+        "frame×16",
+        "rectangle×7",
+        "instance×7",
+        "vector×6",
+        "group×5"
+      ],
+      "names": [
+        "Home Behind",
+        "BG Card",
+        "BG Amount",
+        "BG Plans",
+        "BG Plan 0",
+        "BG Plan 1"
+      ]
+    },
+    {
+      "name": "06_Notification",
+      "size": "414×932",
+      "nodes": 35,
+      "max_depth": 3,
+      "instances": 2,
+      "texts": 12,
+      "images": 2,
+      "types": [
+        "text×12",
+        "rectangle×8",
+        "frame×7",
+        "ellipse×3",
+        "instance×2",
+        "rectangle-image×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal 1",
+        "Signal 2",
+        "Signal 3",
+        "Signal 4"
+      ]
+    },
+    {
+      "name": "07_Profile",
+      "size": "414×932",
+      "nodes": 90,
+      "max_depth": 5,
+      "instances": 18,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×18",
+        "vector×16",
+        "frame×13",
+        "rectangle×12",
+        "group×10"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal 1",
+        "Signal 2",
+        "Signal 3",
+        "Signal 4"
+      ]
+    },
+    {
+      "name": "08_Contact_Info",
+      "size": "414×932",
+      "nodes": 54,
+      "max_depth": 5,
+      "instances": 3,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "text×22",
+        "rectangle×12",
+        "frame×12",
+        "instance×3",
+        "ellipse×2",
+        "vector×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal 1",
+        "Signal 2",
+        "Signal 3",
+        "Signal 4"
+      ]
+    },
+    {
+      "name": "09_Bank_Account_Info",
+      "size": "414×932",
+      "nodes": 41,
+      "max_depth": 4,
+      "instances": 4,
+      "texts": 11,
+      "images": 2,
+      "types": [
+        "text×11",
+        "rectangle×8",
+        "vector×7",
+        "frame×6",
+        "instance×4",
+        "rectangle-image×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal 1",
+        "Signal 2",
+        "Signal 3",
+        "Signal 4"
+      ]
+    }
+  ]
+}

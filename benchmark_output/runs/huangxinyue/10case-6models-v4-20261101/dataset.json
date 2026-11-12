@@ -1,0 +1,98 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "dataset",
+  "id": "design10-huangxinyue",
+  "query_template": "请在以下 Figma 文件中完成完整设计：\nFigma 文件：{{figma_url}}\n请先阅读「00 · Start Here」中的设计任务，参考「01 · Foundations」中的视觉规范，复用「02 · Components」中的组件；如果文件中有「04 · Media」素材页，也请读取并使用其中的素材。最终将完整设计交付至「03 · Workspace」。\n",
+  "required_pages": [
+    "00",
+    "01",
+    "02"
+  ],
+  "optional_pages": [
+    "04"
+  ],
+  "workspace": "03 · Workspace",
+  "cases": [
+    {
+      "case_id": "case-001",
+      "source_figma_url": "https://www.figma.com/design/efeLy7ogjybd9HZN6rfLbp/",
+      "source_file_key": "efeLy7ogjybd9HZN6rfLbp",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/efeLy7ogjybd9HZN6rfLbp/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "227234c01b128541124f2877070a8d7a06052189bb5c0466d015f4e3b347d49f",
+      "title": "Investment Wallet"
+    },
+    {
+      "case_id": "case-002",
+      "source_figma_url": "https://www.figma.com/design/9SYZ6WViis3SYesGQnnFuw/",
+      "source_file_key": "9SYZ6WViis3SYesGQnnFuw",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/9SYZ6WViis3SYesGQnnFuw/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "cb8be2334e9cbf7158ef87361914d7138da142ab324558acbdcc20e0b31703e7",
+      "title": "Travelin"
+    },
+    {
+      "case_id": "case-003",
+      "source_figma_url": "https://www.figma.com/design/nISgchmziUh7mWv20c4JGx/",
+      "source_file_key": "nISgchmziUh7mWv20c4JGx",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/nISgchmziUh7mWv20c4JGx/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "c6ef4ec6ce2891cc4a23ed6ee70f521ca864a79a8beabda33784a8ae6941f53e",
+      "title": "Stock Trading"
+    },
+    {
+      "case_id": "case-004",
+      "source_figma_url": "https://www.figma.com/design/gpHSfBEIfxme0n5JVF5ENT/",
+      "source_file_key": "gpHSfBEIfxme0n5JVF5ENT",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/gpHSfBEIfxme0n5JVF5ENT/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "5db766fa98cd417971d487ca278b513d1de5d43f25fdf3c4b358496a85c8c084",
+      "title": "Meet"
+    },
+    {
+      "case_id": "case-005",
+      "source_figma_url": "https://www.figma.com/design/Due9oPeFd4oHqHjMvF2ehH/",
+      "source_file_key": "Due9oPeFd4oHqHjMvF2ehH",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/Due9oPeFd4oHqHjMvF2ehH/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "2c033be3b7e06d6387d27363638afc21b6de00ac1cbe2fe79112eeae8bfcbb84",
+      "title": "Expenio"
+    },
+    {
+      "case_id": "case-006",
+      "source_figma_url": "https://www.figma.com/design/JxDq23kL46ZvP1olTycfUS/",
+      "source_file_key": "JxDq23kL46ZvP1olTycfUS",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/JxDq23kL46ZvP1olTycfUS/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "49b9fd3b353050efa588a47382c96cf333beb4a5e38f2e27d2a43e607441a2e4",
+      "title": "Payment Wallet"
+    },
+    {
+      "case_id": "case-007",
+      "source_figma_url": "https://www.figma.com/design/xwz3EN8BuC5TToLY27zcHm/",
+      "source_file_key": "xwz3EN8BuC5TToLY27zcHm",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/xwz3EN8BuC5TToLY27zcHm/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "604f40cb64ac34cfe4b8d070cefb42a57ded73ebbc57147fc933b87106513bf5",
+      "title": "Vulcan Invest"
+    },
+    {
+      "case_id": "case-008",
+      "source_figma_url": "https://www.figma.com/design/MW0UgeOT43xqVhoSAzNMPH/",
+      "source_file_key": "MW0UgeOT43xqVhoSAzNMPH",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/MW0UgeOT43xqVhoSAzNMPH/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "57f428f6816b1b71e3e5612b0362b8ea25abb2574d3af7eeb32db3b10aa32dfd",
+      "title": "Fitness App"
+    },
+    {
+      "case_id": "case-009",
+      "source_figma_url": "https://www.figma.com/design/FW3jfozfyaOg9OWNXdH1Vq/",
+      "source_file_key": "FW3jfozfyaOg9OWNXdH1Vq",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/FW3jfozfyaOg9OWNXdH1Vq/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "fe121ecab7e264bfbb343037862e71877e4417db6f8dcf03e3f304bec0b2e829",
+      "title": "Workout Class"
+    },
+    {
+      "case_id": "case-010",
+      "source_figma_url": "https://www.figma.com/design/2y1tZHHBvy0uiRFSVBBaiH/",
+      "source_file_key": "2y1tZHHBvy0uiRFSVBBaiH",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/2y1tZHHBvy0uiRFSVBBaiH/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "7b35aefd4a84b919c8a63fb9b63f4c91a9de10d0faf709454516f7867fd7c6c4",
+      "title": "Budget"
+    }
+  ],
+  "content_hash": "7f5feece53351fc9a8f97411f0b53b19c8414f19482d7addd5d77166e5e22abf"
+}

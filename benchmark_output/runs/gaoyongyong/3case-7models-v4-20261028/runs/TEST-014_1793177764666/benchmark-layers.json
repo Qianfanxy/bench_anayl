@@ -1,0 +1,302 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Sign_Up",
+      "size": "375×812",
+      "nodes": 48,
+      "max_depth": 10,
+      "instances": 10,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×10",
+        "rectangle×9",
+        "frame×7",
+        "group×5",
+        "vector×4"
+      ],
+      "names": [
+        "Content",
+        "Brand Mark",
+        "B",
+        "Spacer",
+        "Title",
+        "Subtitle"
+      ]
+    },
+    {
+      "name": "02_OTP",
+      "size": "375×812",
+      "nodes": 45,
+      "max_depth": 6,
+      "instances": 11,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "rectangle×12",
+        "instance×11",
+        "frame×8",
+        "text×8",
+        "ellipse×3",
+        "vector×2"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Back",
+        "glyph",
+        "Group 1597884366",
+        "Vector"
+      ]
+    },
+    {
+      "name": "03_Home_My_Balance",
+      "size": "375×812",
+      "nodes": 220,
+      "max_depth": 9,
+      "instances": 54,
+      "texts": 45,
+      "images": 0,
+      "types": [
+        "instance×54",
+        "text×45",
+        "vector×40",
+        "frame×39",
+        "group×18",
+        "rectangle×15"
+      ],
+      "names": [
+        "Account Header",
+        "Avatar",
+        "Icon_Profile",
+        "glyph",
+        "Group 7",
+        "Rectangle 9"
+      ]
+    },
+    {
+      "name": "04_Home_Upcoming_Bills",
+      "size": "375×812",
+      "nodes": 173,
+      "max_depth": 8,
+      "instances": 37,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "frame×40",
+        "instance×37",
+        "text×35",
+        "vector×34",
+        "group×13",
+        "rectangle×11"
+      ],
+      "names": [
+        "Account Header",
+        "Avatar",
+        "Icon_Profile",
+        "glyph",
+        "Group 7",
+        "Rectangle 9"
+      ]
+    },
+    {
+      "name": "05_Home_Transactions",
+      "size": "375×812",
+      "nodes": 196,
+      "max_depth": 12,
+      "instances": 35,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "group×41",
+        "vector×36",
+        "instance×35",
+        "text×35",
+        "frame×33",
+        "rectangle×13"
+      ],
+      "names": [
+        "Account Header",
+        "Avatar",
+        "Icon_Profile",
+        "glyph",
+        "Group 7",
+        "Rectangle 9"
+      ]
+    },
+    {
+      "name": "06_Discussion_Forum",
+      "size": "375×812",
+      "nodes": 145,
+      "max_depth": 10,
+      "instances": 32,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "frame×35",
+        "vector×33",
+        "instance×32",
+        "text×18",
+        "group×16",
+        "rectangle×8"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Back",
+        "glyph",
+        "Group 1597884366",
+        "Vector"
+      ]
+    },
+    {
+      "name": "07_Cards",
+      "size": "375×812",
+      "nodes": 233,
+      "max_depth": 14,
+      "instances": 36,
+      "texts": 36,
+      "images": 0,
+      "types": [
+        "group×61",
+        "vector×52",
+        "instance×36",
+        "text×36",
+        "frame×35",
+        "rectangle×10"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Back",
+        "glyph",
+        "Group 1597884366",
+        "Vector"
+      ]
+    },
+    {
+      "name": "08_Profile",
+      "size": "375×812",
+      "nodes": 252,
+      "max_depth": 18,
+      "instances": 38,
+      "texts": 30,
+      "images": 0,
+      "types": [
+        "group×69",
+        "vector×65",
+        "instance×38",
+        "frame×37",
+        "text×30",
+        "rectangle×10"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Back",
+        "glyph",
+        "Group 1597884366",
+        "Vector"
+      ]
+    },
+    {
+      "name": "09_Analytics",
+      "size": "375×812",
+      "nodes": 118,
+      "max_depth": 8,
+      "instances": 27,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "instance×27",
+        "frame×25",
+        "text×25",
+        "vector×17",
+        "ellipse×9",
+        "rectangle×8"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Back",
+        "glyph",
+        "Group 1597884366",
+        "Vector"
+      ]
+    },
+    {
+      "name": "10_Markets",
+      "size": "375×812",
+      "nodes": 183,
+      "max_depth": 14,
+      "instances": 27,
+      "texts": 39,
+      "images": 0,
+      "types": [
+        "text×39",
+        "rectangle×36",
+        "group×32",
+        "instance×27",
+        "frame×20",
+        "vector×20"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Back",
+        "glyph",
+        "Group 1597884366",
+        "Vector"
+      ]
+    },
+    {
+      "name": "11_Send",
+      "size": "375×812",
+      "nodes": 80,
+      "max_depth": 7,
+      "instances": 24,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "instance×24",
+        "text×20",
+        "frame×14",
+        "vector×8",
+        "rectangle×8",
+        "group×3"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Back",
+        "glyph",
+        "Group 1597884366",
+        "Vector"
+      ]
+    },
+    {
+      "name": "Foundations · Balance (tokens)",
+      "size": "1213×1718",
+      "nodes": 142,
+      "max_depth": 4,
+      "instances": 0,
+      "texts": 75,
+      "images": 0,
+      "types": [
+        "text×75",
+        "frame×40",
+        "rectangle×27"
+      ],
+      "names": [
+        "Foundations · Balance",
+        "Brand primary #BFB7FD an",
+        "brand",
+        "Brand",
+        "Swatches",
+        "brand/primary"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "node_id": "15:2",
+    "name": "01_Onboarding",
+    "file": "15-2.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "CzkDgUe1dyJA7vCKriV99m",
+        "nodeId": "15:2",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "103f6eb6eb34927d2a4f656fd1fd78f6905270aed82646625dbcb6d35bf4a934",
+      "response_file": "_debug/v2-native-15-2.png.txt",
+      "response_sha256": "8481e33c774b04589d896fa5d2fdaf7b8cb0461c3636ee17617eb9954ed8692a"
+    }
+  },
+  {
+    "node_id": "15:25",
+    "name": "03_Home",
+    "file": "15-25.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "CzkDgUe1dyJA7vCKriV99m",
+        "nodeId": "15:25",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "989bb8fef53b675e28bcea52f9997e994972f3a6fa1fd42613a11c4af8deb014",
+      "response_file": "_debug/v2-native-15-25.png.txt",
+      "response_sha256": "2b36abd7e73543067fdcd0dd251ddace58bc36511dea96b497e3f12bc519e20b"
+    }
+  },
+  {
+    "node_id": "15:164",
+    "name": "02_Phone_Number",
+    "file": "15-164.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "CzkDgUe1dyJA7vCKriV99m",
+        "nodeId": "15:164",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "69e90a4997c578fd5b5df8b74f88ee0468aebf5330a21ec773f958e21e9fefa4",
+      "response_file": "_debug/v2-native-15-164.png.txt",
+      "response_sha256": "596f52a99f96f3d6ecec205da128040833a7a7431a20861e5b7513351662aa9a"
+    }
+  },
+  {
+    "node_id": "15:221",
+    "name": "04_Menu",
+    "file": "15-221.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "CzkDgUe1dyJA7vCKriV99m",
+        "nodeId": "15:221",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "18d57fe821aa8324930fef5c6ee1e43a5500b924735c11b5729f9da52654b547",
+      "response_file": "_debug/v2-native-15-221.png.txt",
+      "response_sha256": "af4b9c4cffa59f5be9afa917c03919b8441fc20e2a96f60127cc3a0a31b5d5a8"
+    }
+  }
+]

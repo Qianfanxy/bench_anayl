@@ -1,0 +1,540 @@
+{
+  "file_key": "w8cdABfIOMXOTNZPXNSZhR",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "2006:2",
+      "name": "03 · Workspace",
+      "child_count": 18
+    }
+  ],
+  "workspace": {
+    "id": "2006:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "2008:156",
+        "name": "_Library Assets",
+        "type": "FRAME",
+        "x": 0,
+        "y": 1200,
+        "width": 1000,
+        "height": 600,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "2009:42",
+        "name": "BottomNav / Home",
+        "type": "COMPONENT",
+        "x": -600,
+        "y": 0,
+        "width": 430,
+        "height": 76,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "2009:83",
+        "name": "BottomNav / Profile",
+        "type": "COMPONENT",
+        "x": -600,
+        "y": 140,
+        "width": 430,
+        "height": 76,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "2009:124",
+        "name": "BottomNav / Support",
+        "type": "COMPONENT",
+        "x": -600,
+        "y": 280,
+        "width": 430,
+        "height": 76,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "2009:133",
+        "name": "Rating",
+        "type": "COMPONENT",
+        "x": -600,
+        "y": 420,
+        "width": 50,
+        "height": 20,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "2009:141",
+        "name": "AddOnItem",
+        "type": "COMPONENT",
+        "x": -600,
+        "y": 560,
+        "width": 165,
+        "height": 60,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "2012:84",
+        "name": "01_Splash",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "text_count": 2,
+        "reaction_count": 1
+      },
+      {
+        "id": "2012:114",
+        "name": "02_Home",
+        "type": "FRAME",
+        "x": 530,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "text_count": 35,
+        "reaction_count": 2
+      },
+      {
+        "id": "2013:225",
+        "name": "03_Product_Cheeseburger",
+        "type": "FRAME",
+        "x": 1060,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "text_count": 9,
+        "reaction_count": 2
+      },
+      {
+        "id": "2016:262",
+        "name": "04_Product_Veggie",
+        "type": "FRAME",
+        "x": 1590,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "text_count": 9,
+        "reaction_count": 1
+      },
+      {
+        "id": "2016:337",
+        "name": "05_Product_Chicken",
+        "type": "FRAME",
+        "x": 2120,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "text_count": 9,
+        "reaction_count": 1
+      },
+      {
+        "id": "2016:412",
+        "name": "06_Product_Fried_Chicken",
+        "type": "FRAME",
+        "x": 2650,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "text_count": 9,
+        "reaction_count": 1
+      },
+      {
+        "id": "2018:373",
+        "name": "07_Customize",
+        "type": "FRAME",
+        "x": 3180,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "text_count": 12,
+        "reaction_count": 2
+      },
+      {
+        "id": "2019:429",
+        "name": "08_Payment",
+        "type": "FRAME",
+        "x": 3710,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "text_count": 27,
+        "reaction_count": 2
+      },
+      {
+        "id": "2020:436",
+        "name": "09_Payment_Success_Overlay",
+        "type": "FRAME",
+        "x": 4240,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "text_count": 40,
+        "reaction_count": 1
+      },
+      {
+        "id": "2020:546",
+        "name": "btn_go_back_home",
+        "type": "INSTANCE",
+        "x": 0,
+        "y": 0,
+        "width": 200,
+        "height": 52,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "2023:446",
+        "name": "10_Profile",
+        "type": "FRAME",
+        "x": 4770,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "text_count": 20,
+        "reaction_count": 0
+      },
+      {
+        "id": "2024:562",
+        "name": "11_Support_Chat",
+        "type": "FRAME",
+        "x": 5300,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "text_count": 17,
+        "reaction_count": 1
+      }
+    ]
+  },
+  "brief": "DESIGNER STARTER / FOODGO · LEVEL L2 · v2\nComplete mobile product design\nContent, structure, the two brand colors and typefaces are fixed. Layout, hierarchy, all other colors, states, components and visual system are yours.\nTHE ASSIGNMENT\nDesign the complete Foodgo burger-ordering app: browse the menu, inspect a burger, customize it, pay, and get support or manage the profile.\nEnglish interface / US dollars ($) / one signed-in customer: Sophia Patel. Base viewport 430 × 932 for every frame; Home and Customize may scroll vertically.\nFIXED by this brief: frame list & names, the content each frame must contain (what, not how), navigation structure, all data and copy, the two brand colors (red #EF2A39, dark brown #3C2F2F), typefaces (Lobster logotype + Roboto), media, a default Button, a default Text Field and the platform shell.\nYOURS to decide: layout, grouping, order and emphasis on every screen; all other colors (neutrals, text, surfaces, rating, semantic); type scale, spacing, radii, elevation; all states (selected, favourited, added, checked, pressed, disabled, focused, destructive); headers, bottom navigation, dialogs and every business component.\nFRAMES TO DELIVER (11) — USE THESE EXACT NAMES\n01_Splash · 02_Home · 03_Product_Cheeseburger · 04_Product_Veggie · 05_Product_Chicken · 06_Product_Fried_Chicken ·\n07_Customize · 08_Payment · 09_Payment_Success_Overlay · 10_Profile · 11_Support_Chat. One frame per state.\nFRAME-BY-FRAME CHECKLIST\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks. Layout, grouping, emphasis and styling are your decisions.\n01_Splash\nGoal: brand recognition while the app loads.\nMust include:\n• Brand: Foodgo wordmark\n• Media: Splash_Burger_Stack\nLinks: auto-advances to 02_Home.\n02_Home\nGoal: find a burger fast — by search, category or browsing.\nMust include:\n• Account: avatar\n• Brand: Foodgo wordmark · “Order your favourite food!”\n• Categories: All / Combos / Sliders / Classic · current: All\n• Main navigation: current tab Home · Add entry\n• Menu: 4 items, each with image, category, name, rating and favourite toggle · Cheeseburger Wendy’s Burger is a favourite\n• Search & filter: search “Search” · filter entry\nLinks: each menu item → its product frame (03–06); Profile tab → 10_Profile; Support tab → 11_Support_Chat.\n03–06_Product_* (4 frames, same structure)\nGoal: judge a burger and choose spice level and portions before ordering.\nMust include:\n• Actions: back · search · Order Now\n• Burger: image · full name · rating · preparation time · description\n• Portion: current portion, can be decreased / increased\n• Price: price for the current portion\n• Spicy: level from Mild to Hot · current level\nData per burger: see DATA.\nLinks: back → 02_Home; Order Now on 03_Product_Cheeseburger → 07_Customize (Order Now on 04–06 is entry only).\n07_Customize\nGoal: personalize the Cheeseburger Wendy’s Burger and see the total before paying.\nMust include:\n• Actions: back · search · Order Now\n• Add-ons: “Toppings” Tomato, Onions, Pickles, Bacon, Cheese, Mushroom, Avocado · “Side options” Fries, Coleslaw, Salad, Onion Rings, Mozzarella Sticks · each can be added or removed · added: Tomato, Cheese, Fries\n• Copy: “Customize Your Burger to Your Tastes. Ultimate Experience”\n• Media: Burger_Exploded_Custom\n• Portion: 2, can be decreased / increased\n• Spicy: level from Mild to Hot · current level\n• Total: $16.48\nLinks: back → 03_Product_Cheeseburger; Order Now → 08_Payment.\n08_Payment\nGoal: verify the order cost and pay with a saved card.\nMust include:\n• Actions: back · search · Pay Now\n• Order summary: “Order summary” · Order $16.48 · Taxes $0.30 · Delivery fees $1.50 · Total $18.28 · Estimated delivery time 15–30 mins\n• Payment methods: “Payment methods” · Credit card (Mastercard, 5105 **** **** 0505) · Debit card (Visa, 3566 **** **** 0505) · only one can be chosen · current: Credit card\n• Save card: “Save card details for future payments” · on\n• Total price: $18.28\nLinks: back → 07_Customize; Pay Now → 09_Payment_Success_Overlay.\n09_Payment_Success_Overlay\nGoal: confirm the payment unambiguously.\nMust include:\n• Actions: Go Back\n• Copy: “Success!” · “Your payment was successful. A receipt for this purchase has been sent to your email.”\n• Presentation: dialog over 08_Payment; Payment stays behind it\n• Status: success mark\nLinks: Go Back → 02_Home.\n10_Profile\nGoal: review account details and reach account actions.\nMust include:\n• Account: avatar · Delivery address 123 Main St, Apartment 4A, New York, NY · Email sophiapatel@gmail.com · Name Sophia Patel · Password (masked, locked)\n• Actions: back · settings · Edit Profile · Log out\n• Entries: Order history · Payment Details\nLinks: back → 02_Home.\n11_Support_Chat\nGoal: get a delivery update from support.\nMust include:\n• Actions: back · menu · send\n• Conversation: 7 items in the order given in DATA — each message from the agent or the customer · timestamp “26 minutes ago” after the agent’s third message\n• Input: “Type here...”\nLinks: back → 02_Home.\nSTRUCTURE (FIXED)\nMain navigation on 02_Home — in this order: Home → 02 · Profile → 10 · Support → 11 · Favourites (entry only), plus a central Add (entry only). The current tab must match the frame. How it looks is yours.\nOrder flow: Home → Product → Customize → Payment → Success dialog (over Payment) → Home. Product, Customize, Payment, Profile and Support use back navigation.\nEntry-only (no screen required): search, filter, Combos / Sliders / Classic results, settings, menu, Payment Details, Order history, Edit Profile, Log out, Order Now on 04–06.\nDATA & COPY (FIXED)\nCustomer: Sophia Patel · sophiapatel@gmail.com · 123 Main St, Apartment 4A, New York, NY. Use Avatar_Neutral wherever the customer appears.\nMenu (category · name · rating · time · price per portion → portion shown on its product frame = price shown):\nCheeseburger · Wendy’s Burger · 4.9 · 26 mins · $8.24 → portion 1 = $8.24 · Hamburger · Veggie Burger · 4.8 · 14 mins · $9.99 → portion 1 = $9.99\nHamburger · Chicken Burger · 4.6 · 42 mins · $6.24 → portion 2 = $12.48 · Hamburger · Fried Chicken Burger · 4.5 · 14 mins · $6.75 → portion 4 = $27.00\nDescriptions — Cheeseburger Wendy’s Burger: “A classic fast food burger that packs a punch of flavor in every bite: a juicy beef patty cooked to perfection, topped with melted American cheese, crispy lettuce, ripe tomato and crunchy pickles.”\nVeggie: “A savory blend of fresh vegetables a",
+  "layer_summary": {
+    "board_count": 12,
+    "boards": [
+      {
+        "name": "_Library Assets",
+        "size": "1000×600",
+        "nodes": 146,
+        "max_depth": 9,
+        "instances": 23,
+        "texts": 3,
+        "images": 16,
+        "types": [
+          "group×62",
+          "vector×31",
+          "component×23",
+          "rectangle-image×16",
+          "rectangle×7",
+          "text×3"
+        ],
+        "names": [
+          "State=Empty",
+          "Label",
+          "Field",
+          "Value",
+          "Status Bar",
+          "9:41"
+        ]
+      },
+      {
+        "name": "01_Splash",
+        "size": "430×932",
+        "nodes": 29,
+        "max_depth": 6,
+        "instances": 5,
+        "texts": 3,
+        "images": 0,
+        "types": [
+          "rectangle×7",
+          "group×6",
+          "instance×5",
+          "frame×4",
+          "text×3",
+          "vector×3"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "02_Home",
+        "size": "430×932",
+        "nodes": 218,
+        "max_depth": 13,
+        "instances": 24,
+        "texts": 44,
+        "images": 0,
+        "types": [
+          "group×66",
+          "frame×48",
+          "text×44",
+          "instance×23",
+          "vector×22",
+          "rectangle×11"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "03_Product_Cheeseburger",
+        "size": "430×932",
+        "nodes": 74,
+        "max_depth": 9,
+        "instances": 11,
+        "texts": 12,
+        "images": 0,
+        "types": [
+          "frame×19",
+          "group×15",
+          "text×12",
+          "instance×11",
+          "rectangle×8",
+          "vector×8"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "04_Product_Veggie",
+        "size": "430×932",
+        "nodes": 74,
+        "max_depth": 9,
+        "instances": 11,
+        "texts": 12,
+        "images": 0,
+        "types": [
+          "frame×19",
+          "group×15",
+          "text×12",
+          "instance×11",
+          "rectangle×8",
+          "vector×8"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "05_Product_Chicken",
+        "size": "430×932",
+        "nodes": 74,
+        "max_depth": 9,
+        "instances": 11,
+        "texts": 12,
+        "images": 0,
+        "types": [
+          "frame×19",
+          "group×15",
+          "text×12",
+          "instance×11",
+          "rectangle×8",
+          "vector×8"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "06_Product_Fried_Chicken",
+        "size": "430×932",
+        "nodes": 74,
+        "max_depth": 9,
+        "instances": 11,
+        "texts": 12,
+        "images": 0,
+        "types": [
+          "frame×19",
+          "group×15",
+          "text×12",
+          "instance×11",
+          "rectangle×8",
+          "vector×8"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "07_Customize",
+        "size": "430×932",
+        "nodes": 100,
+        "max_depth": 7,
+        "instances": 21,
+        "texts": 21,
+        "images": 0,
+        "types": [
+          "frame×34",
+          "instance×21",
+          "text×21",
+          "vector×20",
+          "group×2",
+          "rectangle×2"
+        ],
+        "names": [
+          "topbar",
+          "Back",
+          "Icon / Back",
+          "product 1",
+          "arrow-left",
+          "Vector"
+        ]
+      },
+      {
+        "name": "08_Payment",
+        "size": "430×932",
+        "nodes": 80,
+        "max_depth": 6,
+        "instances": 4,
+        "texts": 28,
+        "images": 1,
+        "types": [
+          "frame×40",
+          "text×28",
+          "instance×4",
+          "vector×3",
+          "group×2",
+          "rectangle×2"
+        ],
+        "names": [
+          "topbar",
+          "Back",
+          "Icon / Back",
+          "product 1",
+          "arrow-left",
+          "Vector"
+        ]
+      },
+      {
+        "name": "09_Payment_Success_Overlay",
+        "size": "430×932",
+        "nodes": 112,
+        "max_depth": 6,
+        "instances": 6,
+        "texts": 41,
+        "images": 1,
+        "types": [
+          "frame×55",
+          "text×41",
+          "instance×5",
+          "vector×5",
+          "group×2",
+          "rectangle×2"
+        ],
+        "names": [
+          "08_Payment_Topbar",
+          "Back",
+          "Icon / Back",
+          "product 1",
+          "arrow-left",
+          "Vector"
+        ]
+      },
+      {
+        "name": "10_Profile",
+        "size": "430×932",
+        "nodes": 186,
+        "max_depth": 13,
+        "instances": 22,
+        "texts": 25,
+        "images": 0,
+        "types": [
+          "group×65",
+          "frame×38",
+          "vector×26",
+          "text×25",
+          "instance×21",
+          "rectangle×7"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "11_Support_Chat",
+        "size": "430×932",
+        "nodes": 127,
+        "max_depth": 10,
+        "instances": 14,
+        "texts": 24,
+        "images": 0,
+        "types": [
+          "frame×40",
+          "text×24",
+          "group×24",
+          "instance×11",
+          "vector×11",
+          "rectangle×7"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      }
+    ]
+  }
+}

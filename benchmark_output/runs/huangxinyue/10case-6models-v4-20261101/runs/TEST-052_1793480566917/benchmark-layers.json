@@ -1,0 +1,105 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "02_Get_Started",
+      "size": "430×932",
+      "nodes": 30,
+      "max_depth": 4,
+      "instances": 9,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "rectangle×7",
+        "text×5",
+        "vector×5",
+        "frame×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Hero",
+        "Photo_Aerial_Island",
+        "Rectangle",
+        "Language Selector",
+        "English",
+        "Icon_Chevron_Down"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "430×932",
+      "nodes": 51,
+      "max_depth": 4,
+      "instances": 16,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "text×11",
+        "vector×11",
+        "rectangle×7",
+        "frame×3",
+        "line×2"
+      ],
+      "names": [
+        "Header Photo",
+        "Photo_Hot_Air_Balloons",
+        "Rectangle",
+        "Status Bar / Light",
+        "Status Bar",
+        "9:41"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "430×1280",
+      "nodes": 143,
+      "max_depth": 4,
+      "instances": 42,
+      "texts": 52,
+      "images": 0,
+      "types": [
+        "text×52",
+        "instance×42",
+        "vector×22",
+        "rectangle×9",
+        "ellipse×9",
+        "frame×7"
+      ],
+      "names": [
+        "Header",
+        "Avatar",
+        "Photo_Avatar_Cat",
+        "Hi, Paul",
+        "Where to next?",
+        "Points"
+      ]
+    },
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 21,
+      "max_depth": 4,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "rectangle×6",
+        "vector×4",
+        "text×2",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar / Light",
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    }
+  ]
+}

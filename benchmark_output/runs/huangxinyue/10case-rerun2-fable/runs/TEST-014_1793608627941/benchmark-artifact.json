@@ -1,0 +1,602 @@
+{
+  "file_key": "CxJrc6bID9uDzhYdjXm435",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "5:2",
+      "name": "03 · Workspace",
+      "child_count": 35
+    }
+  ],
+  "workspace": {
+    "id": "5:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "7:2",
+        "name": "Icon_Arrow_Down",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:5",
+        "name": "Icon_Arrow_Right",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:8",
+        "name": "Icon_Arrow_Up",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:11",
+        "name": "Icon_Back",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:14",
+        "name": "Icon_Backspace",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:17",
+        "name": "Icon_Card",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:21",
+        "name": "Icon_Cashback",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:28",
+        "name": "Icon_Chart",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 29,
+        "height": 26,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:42",
+        "name": "Icon_Chevron_Right",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:45",
+        "name": "Icon_Insights",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:49",
+        "name": "Icon_Invest",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:52",
+        "name": "Icon_Location",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:56",
+        "name": "Icon_Main",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:59",
+        "name": "Icon_Menu",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:62",
+        "name": "Icon_Mobile",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:66",
+        "name": "Icon_More",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:69",
+        "name": "Icon_Payments",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:72",
+        "name": "Icon_Plus",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:75",
+        "name": "Icon_Safe",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:80",
+        "name": "Icon_Search",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:84",
+        "name": "Icon_Transfer",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:87",
+        "name": "Icon_Transfer_In",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:90",
+        "name": "Logo_Apple",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 48,
+        "height": 48,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:98",
+        "name": "Logo_Microsoft",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 48,
+        "height": 48,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:104",
+        "name": "Logo_Netflix",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 48,
+        "height": 48,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:112",
+        "name": "Logo_Tesla",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 48,
+        "height": 48,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:120",
+        "name": "Illustration_Investment",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 220,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "18:692",
+        "name": "Components · Vulcan Invest",
+        "type": "FRAME",
+        "x": 0,
+        "y": 1200,
+        "width": 2400,
+        "height": 2300,
+        "text_count": 133,
+        "reaction_count": 0
+      },
+      {
+        "id": "19:291",
+        "name": "01_Home",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 26,
+        "reaction_count": 1
+      },
+      {
+        "id": "19:393",
+        "name": "02_About_Investment",
+        "type": "FRAME",
+        "x": 474,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 5,
+        "reaction_count": 2
+      },
+      {
+        "id": "19:435",
+        "name": "03_Create_PIN",
+        "type": "FRAME",
+        "x": 948,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 23,
+        "reaction_count": 2
+      },
+      {
+        "id": "19:500",
+        "name": "04_Portfolio",
+        "type": "FRAME",
+        "x": 1422,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 42,
+        "reaction_count": 3
+      },
+      {
+        "id": "19:644",
+        "name": "05_Trading",
+        "type": "FRAME",
+        "x": 1896,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 35,
+        "reaction_count": 2
+      },
+      {
+        "id": "19:781",
+        "name": "06_Stock_Transaction",
+        "type": "FRAME",
+        "x": 2370,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 23,
+        "reaction_count": 2
+      },
+      {
+        "id": "19:861",
+        "name": "07_Confirm_Purchase",
+        "type": "FRAME",
+        "x": 2844,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 33,
+        "reaction_count": 1
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nVulcan Invest — banking and stock investing\nDesign the investing area of Vulcan Bank’s app: from the home screen, open Invest for the first time, set a PIN, review the portfolio, study a stock and buy one share with a confirmation. Canvas 414 × 896, iPhone. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 7 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the navigation and every business component as reusable components in your file.\n5. Use the illustration, company logos and icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Home\nGoal: See my balance, act on my money and review today’s history.\nMUST INCLUDE\n• Actions: “My card” (Icon_Card) · “Transfer” (Icon_Transfer) · “Mobile” (Icon_Mobile) · search history (Icon_Search)\n• Balance: $3,821 (Icon_Safe) · Vulcan Bank payment card (no number shown) · 2 pages, current: 1\n• History: “History” · “TODAY” · 3 rows (see DATA)\n• Main navigation: tab bar Main / Payments / Cashback / Invest / More · current: Main\nLINKS\n→ Invest tab → 02_About_Investment\nNavigation structure\n• Bottom tab bar on 01 and 04–06 with 5 tabs in this order: Main (Icon_Main), Payments (Icon_Payments), Cashback (Icon_Cashback), Invest (Icon_Invest), More (Icon_More). Current: Main on 01; Invest on 04–06. How the current tab looks is yours. 02, 03 and 07 have no tab bar.\n• First-time Invest flow: 01_Home → Invest tab → 02_About_Investment → start → 03_Create_PIN → Ready → 04_Portfolio.\n• Buying: 04 → AAPL → 05_Trading → Buy → 06_Stock_Transaction → Buy → 07_Confirm_Purchase (dialog over 06).\n• Entry only (no frame): My card, Transfer, Mobile, history search and rows, card pager, Payments / Cashback / More tabs, other cases, Sell, periods, menu, chart, insights, EUR account, Buy on 07.\nFixed data & copy\nUse these values verbatim.\nBank and balance\nVulcan Bank · balance $3,821 · payment card (no number shown)\nHistory · TODAY (top to bottom)\nAirbnb · Payments · −$560 (Icon_Location)\nto Anna Nelsen · Transfer · −$380 (Icon_Transfer)\nfrom Anna Nelsen · Transfer · +$470 (Icon_Transfer_In)\nAbout Investment (02)\nInvestment\n“I will help you create an investment portfolio in less than five minutes!”\n“Have you wanted to invest in the shares of global giants for a long time? Now it is possible by opening a brokerage account. Let’s start!”\nPIN\n4 digits · entered so far: 9 7 7\nPortfolio summary\nTotal earning $87,875 · +10%\nProfit $28,160 · +32%\nChart: monthly, Mar – Sep, axis 0 / 50k / 100k\nCases\nAAPL · $143.43 · +31.62 (28.28%) · Logo_Apple\nTSLA · $739.38 · +9.21 (1.26%) · Logo_Tesla\nNFLX · $573.14 · −2.29 (0.40%) · Logo_Netflix\nMSFT · $294.80 · +0.50 (0.17%) · Logo_Microsoft\nApple trading\nAAPL · Apple Inc. · $143.43 · +31.62 (28.28%)\nIntraday axis $100.00 – $150.00 (step $10), 10 am – 3 pm\nMarket Value $97.83 · Buying Power $18,943.43\nOrder (06)\nAccount: USD $18,943.43 (selected) · EUR €16,473.11\nQuantity 1 · 1 lot = 1 stock\nPrice $143.43 · 1 unit = $143.43 · commission $14.34\nWhat is fixed · what is yours\nFixed (given)\n• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand color #FA5555 and Inter\n• Media: illustration, company logos, icons\n• Default Button, default Text Field, platform shell\nYours (designer decides)\n• Layout, grouping, order and emphasis on every screen\n• Light or dark per screen, and all other colors: neutrals, text, surfaces, gains / losses, chart, buy / sell, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: current tab, current period, selected account, PIN progress, focused field, pressed, disabled\n• Headers, tab bar, balance card, quick actions, history rows, PIN keypad, stock cards, charts, account selector, dialog\n• Chart rendering (the candle values between the axis limits are illustrative)\nHow it is evaluated\nYour file is compared with this brief on coverage, data and flow — not on visual similarity to any original.\n1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current tab, current period, selected account, PIN progress, dialog presentation)\nDeliverable: the link to your own Figma file containing the 7 named frames, your components and the prototype.",
+  "layer_summary": {
+    "board_count": 7,
+    "boards": [
+      {
+        "name": "01_Home",
+        "size": "414×896",
+        "nodes": 101,
+        "max_depth": 5,
+        "instances": 5,
+        "texts": 26,
+        "images": 0,
+        "types": [
+          "frame×30",
+          "text×26",
+          "vector×22",
+          "rectangle×12",
+          "ellipse×6",
+          "instance×5"
+        ],
+        "names": [
+          "Status Bar / Light",
+          "Time",
+          "Notch",
+          "Signal",
+          "Bar",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "02_About_Investment",
+        "size": "414×896",
+        "nodes": 41,
+        "max_depth": 4,
+        "instances": 4,
+        "texts": 5,
+        "images": 0,
+        "types": [
+          "vector×11",
+          "rectangle×9",
+          "frame×8",
+          "text×5",
+          "instance×4",
+          "ellipse×4"
+        ],
+        "names": [
+          "Status Bar / Light",
+          "Time",
+          "Notch",
+          "Signal",
+          "Bar",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "03_Create_PIN",
+        "size": "414×896",
+        "nodes": 64,
+        "max_depth": 4,
+        "instances": 16,
+        "texts": 23,
+        "images": 0,
+        "types": [
+          "text×23",
+          "instance×16",
+          "rectangle×9",
+          "ellipse×8",
+          "frame×6",
+          "vector×2"
+        ],
+        "names": [
+          "Status Bar / Light",
+          "Time",
+          "Notch",
+          "Signal",
+          "Bar",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "04_Portfolio",
+        "size": "414×896",
+        "nodes": 143,
+        "max_depth": 7,
+        "instances": 14,
+        "texts": 42,
+        "images": 0,
+        "types": [
+          "text×42",
+          "vector×29",
+          "frame×25",
+          "rectangle×19",
+          "instance×14",
+          "group×9"
+        ],
+        "names": [
+          "Status Bar / Light",
+          "Time",
+          "Notch",
+          "Signal",
+          "Bar",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "05_Trading",
+        "size": "414×896",
+        "nodes": 136,
+        "max_depth": 7,
+        "instances": 7,
+        "texts": 35,
+        "images": 0,
+        "types": [
+          "rectangle×51",
+          "text×35",
+          "frame×21",
+          "vector×15",
+          "instance×7",
+          "ellipse×4"
+        ],
+        "names": [
+          "Status Bar / Light",
+          "Time",
+          "Notch",
+          "Signal",
+          "Bar",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "06_Stock_Transaction",
+        "size": "414×896",
+        "nodes": 79,
+        "max_depth": 7,
+        "instances": 9,
+        "texts": 23,
+        "images": 0,
+        "types": [
+          "text×23",
+          "frame×17",
+          "vector×13",
+          "instance×9",
+          "rectangle×9",
+          "ellipse×5"
+        ],
+        "names": [
+          "Status Bar / Light",
+          "Time",
+          "Notch",
+          "Signal",
+          "Bar",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "07_Confirm_Purchase",
+        "size": "414×896",
+        "nodes": 97,
+        "max_depth": 7,
+        "instances": 10,
+        "texts": 33,
+        "images": 0,
+        "types": [
+          "text×33",
+          "frame×22",
+          "vector×14",
+          "instance×10",
+          "rectangle×10",
+          "ellipse×5"
+        ],
+        "names": [
+          "Status Bar / Light",
+          "Time",
+          "Notch",
+          "Signal",
+          "Bar",
+          "Wifi"
+        ]
+      }
+    ]
+  }
+}

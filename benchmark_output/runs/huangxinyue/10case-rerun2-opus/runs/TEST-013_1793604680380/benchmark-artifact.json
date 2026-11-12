@@ -1,0 +1,196 @@
+{
+  "file_key": "OSpQg4xGeF4nGeThS4dweb",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "5:2",
+      "name": "03 · Workspace",
+      "child_count": 5
+    }
+  ],
+  "workspace": {
+    "id": "5:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "9:2",
+        "name": "WC · Components",
+        "type": "FRAME",
+        "x": 0,
+        "y": 1100,
+        "width": 2400,
+        "height": 1300,
+        "text_count": 85,
+        "reaction_count": 5
+      },
+      {
+        "id": "14:343",
+        "name": "01_Onboarding",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 4,
+        "reaction_count": 2
+      },
+      {
+        "id": "14:367",
+        "name": "02_Home",
+        "type": "FRAME",
+        "x": 514,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 21,
+        "reaction_count": 7
+      },
+      {
+        "id": "16:297",
+        "name": "03_Warm_Up",
+        "type": "FRAME",
+        "x": 1028,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 30,
+        "reaction_count": 12
+      },
+      {
+        "id": "17:499",
+        "name": "04_Activity",
+        "type": "FRAME",
+        "x": 1542,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 44,
+        "reaction_count": 2
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nWorkout Class — fitness classes and activity tracking\nDesign a fitness class app: get started, find a workout class, open the Warm up category to see its exercises, and review this week’s activity. Canvas 414 × 896, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the navigation and every business component as reusable components in your file.\n5. Use the illustrations, the avatar, the photos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Onboarding\nGoal: Understand what the app offers and start.\nMUST INCLUDE\n• Actions: “Get started”\n• Copy: “Best workouts for you” · “You will have everything you need to reach your personal fitness goals — for free!”\n• Media: Illustration_Onboarding\nLINKS\n→ Get started → 02_Home\n02_Home\nGoal: Find a workout class.\nMUST INCLUDE\n• Categories: “Categories” · “See all” · Warm up · Yoga · Squats · Lunge, each with its photo (see DATA)\n• Greeting: “Hello, Adam Smith” · Avatar_Adam_Smith · menu (Icon_Menu)\n• Main navigation: tab bar Home / Activity / Profile / Settings · current: Home\n• Recommendation Class: “Recommendation Class” · “See all” · Yoga Class · “With Rachael Wisdom” · Photo_Yoga_Class · favorite (Icon_Heart)\n• Search: “Search” (Icon_Search)\n• Title: “Find Your Workout Class”\n• Today’s activity: “Today’s activity” · 8.00 AM - 1.30 PM · Illustration_Todays_Activity\nLINKS\n→ Warm up category → 03_Warm_Up\n→ Activity tab → 04_Activity\n03_Warm_Up\nGoal: Understand the Warm up session and pick an exercise.\nMUST INCLUDE\n• Actions: back (Icon_Back) · more (Icon_More) · play video (Icon_Play)\n• Description: “Warm up properly before exercising to prevent injury and make your workouts more effective.”\n• Exercises: “Exercises” · Exercise 1 – Exercise 10, each with photo, duration and play (Icon_Play_Small) (see DATA)\n• Main navigation: tab bar · current: Home\n• Media: Photo_Seated_Hug (video cover)\n• Tags: 37.10 mins (Icon_Clock) · Running (Icon_Running)\n• Title: “Warm up”\nLINKS\n→ back → 02_Home\n→ Activity tab → 04_Activity\n04_Activity\nGoal: Review the calories and activities of a day this week.\nMUST INCLUDE\n• Actions: back (Icon_Back) · more (Icon_More)\n• Activities: Running · Swimming · Cycling, each with time range, hours and kilometers (Icon_Running, Icon_Swimming, Icon_Cycling) (see DATA)\n• Calories: 1680 kcal\n• Chart: hourly calories, axis 8AM · 10AM · 12PM · 2PM · 4PM · selected: 4PM · 120 cal\n• Main navigation: tab bar · current: Activity\n• Title: “Your activities”\n• Week: “This week” · Sat 26 – Fri 01 · selected: Mon 28\nLINKS\n→ back → 02_Home\n→ Home tab → 02_Home\nNavigation structure\n• Bottom tab bar on 02, 03 and 04 with 4 tabs in this order: Home (Icon_Home), Activity (Icon_Activity), Profile (Icon_Profile), Settings (Icon_Settings). Current: Home on 02 and 03, Activity on 04. How the current tab looks is yours.\n• 01_Onboarding → Get started → 02_Home. 03_Warm_Up is pushed from the Warm up category card on 02.\n• Entry only (no frame): menu, avatar, search, Today’s activity card, See all, Yoga Class, favorite, Yoga / Squats / Lunge, more, play video, exercise rows, days, chart hours, activity cards, Profile and Settings tabs.\nFixed data & copy\nUse these values verbatim.\nUser\nAdam Smith (Avatar_Adam_Smith) · greeting “Hello, Adam Smith”\nToday’s activity\n8.00 AM - 1.30 PM (Illustration_Todays_Activity)\nRecommendation Class\nYoga Class · With Rachael Wisdom (Photo_Yoga_Class)\nCategories (in this order)\nWarm up (Photo_Seated_Hug)\nYoga (Photo_Meditation)\nSquats (Photo_Squat)\nLunge (Photo_Lunge)\nWarm up (03)\nTags: 37.10 mins · Running\nVideo cover: Photo_Seated_Hug\nExercises (03, in this order)\nExercise 1 · 02.30 Minutes (Photo_Forward_Fold)\nExercise 2 · 02.00 Minutes (Photo_Chair_Pose)\nExercise 3 · 03.20 Minutes (Photo_Side_Plank)\nExercise 4 · 02.30 Minutes (Photo_Bent_Over)\nExercise 5 · 05.30 Minutes (Photo_Meditation)\nExercise 6 · 06.10 Minutes (Photo_Seated_Hug)\nExercise 7 · 04.50 Minutes (Photo_Lunge)\nExercise 8 · 03.30 Minutes (Photo_Arm_Stretch)\nExercise 9 · 01.30 Minutes (Photo_Back_Bend)\nExercise 10 · 05.20 Minutes (Photo_Tabletop_Kick)\nWeek (04)\nSat 26 · Sun 27 · Mon 28 (selected) · Tue 29 · Wed 30 · Thu 31 · Fri 01\n1680 kcal\nChart: 8AM – 4PM, selected 4PM · 120 cal (curve values illustrative)\nActivities (04, in this order)\nRunning · 8.00 AM - 9.30 AM · 1.32 hours · 9.50 kilometers\nSwimming · 8.00 AM - 9.30 AM · 1.32 hours · 9.50 kilometers\nCycling · 8.00 AM - 9.30 AM · 1.32 hours · 9.50 kilometers\nWhat is fixed · what is yours\nFixed (given)\n• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand color #24C8FE and Inter\n• Media: illustrations, avatar, photos, icons\n• Default Button, default Text Field, platform shell\nYours (designer decides)\n• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, backgrounds / surfaces, category tints, activity colors, chart fill, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: current tab, selected day, selected hour, pressed, favorited, disabled\n• Headers, tab bar, activity card, class card, category cards, tags, exercise rows, day pills, chart, activity cards\n• How photos and cut-outs are cropped, backed and treated\nHow it is evaluated\nYour file is compared with this brief on coverage, data and flow — not on visual similarity to any original.\n1. Checklist coverage per frame\n2. Data & copy accuracy\n3",
+  "layer_summary": {
+    "board_count": 4,
+    "boards": [
+      {
+        "name": "01_Onboarding",
+        "size": "414×896",
+        "nodes": 24,
+        "max_depth": 3,
+        "instances": 5,
+        "texts": 4,
+        "images": 0,
+        "types": [
+          "rectangle×7",
+          "instance×5",
+          "frame×4",
+          "ellipse×4",
+          "text×4"
+        ],
+        "names": [
+          "Illustration",
+          "Illustration_Onboarding",
+          "Accent",
+          "Copy",
+          "Best workouts for you",
+          "You will have everything"
+        ]
+      },
+      {
+        "name": "02_Home",
+        "size": "414×896",
+        "nodes": 111,
+        "max_depth": 8,
+        "instances": 31,
+        "texts": 21,
+        "images": 0,
+        "types": [
+          "instance×31",
+          "frame×27",
+          "text×21",
+          "vector×13",
+          "group×9",
+          "rectangle×8"
+        ],
+        "names": [
+          "Content",
+          "Greeting",
+          "User",
+          "Avatar",
+          "Avatar_Adam_Smith",
+          "Text"
+        ]
+      },
+      {
+        "name": "03_Warm_Up",
+        "size": "414×896",
+        "nodes": 232,
+        "max_depth": 9,
+        "instances": 62,
+        "texts": 30,
+        "images": 0,
+        "types": [
+          "instance×62",
+          "frame×54",
+          "vector×45",
+          "group×31",
+          "text×30",
+          "rectangle×7"
+        ],
+        "names": [
+          "Content",
+          "Video Cover",
+          "Halo",
+          "Photo_Seated_Hug",
+          "Sheet",
+          "Play Video"
+        ]
+      },
+      {
+        "name": "04_Activity",
+        "size": "414×896",
+        "nodes": 159,
+        "max_depth": 7,
+        "instances": 35,
+        "texts": 44,
+        "images": 0,
+        "types": [
+          "text×44",
+          "instance×35",
+          "frame×26",
+          "vector×22",
+          "group×11",
+          "ellipse×9"
+        ],
+        "names": [
+          "Content",
+          "Your activities",
+          "Week",
+          "Week Header",
+          "This week",
+          "Sat 26 – Fri 01"
+        ]
+      }
+    ]
+  }
+}

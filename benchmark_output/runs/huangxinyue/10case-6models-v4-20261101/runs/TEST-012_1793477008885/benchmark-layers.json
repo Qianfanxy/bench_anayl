@@ -1,0 +1,105 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "rectangle×6",
+        "ellipse×4",
+        "instance×3",
+        "vector×3",
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "Decor",
+        "Logo_Travelin",
+        "Vector",
+        "Your Passport to Seamles",
+        "Status Bar",
+        "9:41"
+      ]
+    },
+    {
+      "name": "02_Get_Started",
+      "size": "430×932",
+      "nodes": 28,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "rectangle×8",
+        "vector×5",
+        "text×4",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Photo_Aerial_Island",
+        "Overlay Top",
+        "Overlay Bottom",
+        "Logo_Travelin",
+        "Vector",
+        "Language Selector"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "430×932",
+      "nodes": 64,
+      "max_depth": 5,
+      "instances": 18,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "frame×14",
+        "vector×11",
+        "text×11",
+        "rectangle×9",
+        "ellipse×1"
+      ],
+      "names": [
+        "Photo_Hot_Air_Balloons",
+        "Overlay Top",
+        "Logo_Travelin",
+        "Vector",
+        "Language Selector",
+        "English"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "430×1473",
+      "nodes": 171,
+      "max_depth": 7,
+      "instances": 47,
+      "texts": 46,
+      "images": 0,
+      "types": [
+        "instance×47",
+        "text×46",
+        "frame×36",
+        "vector×25",
+        "rectangle×8",
+        "ellipse×6"
+      ],
+      "names": [
+        "Header / Home",
+        "Greeting",
+        "Hi, Paul",
+        "Points Chip",
+        "Icon_Coin",
+        "Vector"
+      ]
+    }
+  ]
+}

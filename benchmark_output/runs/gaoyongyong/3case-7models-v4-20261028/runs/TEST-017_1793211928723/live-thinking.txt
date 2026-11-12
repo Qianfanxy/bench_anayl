@@ -1,0 +1,1 @@
+The user is asking for a private list of what I need next, then every item that doesn't depend on another result in this response. Nothing is left for the Cards design: 11 frames (01 through 11), the prototype, components, and add/edit/delete are all done. The list is empty, so I deliver the final summary.

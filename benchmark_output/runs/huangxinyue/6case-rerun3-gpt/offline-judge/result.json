@@ -1,0 +1,192 @@
+{
+ "kind": "offline-judge/fixed_v4",
+ "approved_by": "huangxinyue 2026-11-05",
+ "trace_verified": false,
+ "trace_status": "needs_review (runner ConnectError on screenshot asset download after delivery)",
+ "run_id": "run_debad9d401bc448c",
+ "plan_hash": "74ae65efdd833ca86ddaa4db3fbc9c371f754d26e925244e6649f9137dda3cc3",
+ "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+ "judge": "model_claude_opus55_direct",
+ "api_model": "claude-opus-5-5/awsb_L/sfa",
+ "prompt_sha256": "67c947480d69d5ef56584d835b38583b374eeb0b8749f0d224bda67871d170ed",
+ "image_count": 12,
+ "image_paths": [
+  "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-2.png",
+  "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-16.png",
+  "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-30.png",
+  "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-44.png",
+  "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-58.png",
+  "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-72.png",
+  "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-86.png",
+  "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-100.png",
+  "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-114.png",
+  "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-128.png",
+  "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-142.png",
+  "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-156.png"
+ ],
+ "image_manifest": [
+  {
+   "index": 1,
+   "label": "01_Login",
+   "file_name": "9-2.png"
+  },
+  {
+   "index": 2,
+   "label": "02_Home_Chats",
+   "file_name": "9-16.png"
+  },
+  {
+   "index": 3,
+   "label": "03_Home_Images",
+   "file_name": "9-30.png"
+  },
+  {
+   "index": 4,
+   "label": "04_Home_Exports",
+   "file_name": "9-44.png"
+  },
+  {
+   "index": 5,
+   "label": "05_Chat_New",
+   "file_name": "9-58.png"
+  },
+  {
+   "index": 6,
+   "label": "06_Chat_Conversation",
+   "file_name": "9-72.png"
+  },
+  {
+   "index": 7,
+   "label": "07_Export_PDF_Sheet",
+   "file_name": "9-86.png"
+  },
+  {
+   "index": 8,
+   "label": "08_Profile_Settings",
+   "file_name": "9-100.png"
+  },
+  {
+   "index": 9,
+   "label": "09_Account_Actions_Sheet",
+   "file_name": "9-114.png"
+  },
+  {
+   "index": 10,
+   "label": "10_Theme_Sheet",
+   "file_name": "9-128.png"
+  },
+  {
+   "index": 11,
+   "label": "11_Cloud_Space",
+   "file_name": "9-142.png"
+  },
+  {
+   "index": 12,
+   "label": "12_Clear_Cache_Dialog",
+   "file_name": "9-156.png"
+  }
+ ],
+ "images": [
+  {
+   "path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-2.png",
+   "sha256": "f1faff14a80f3dafe24d5022d3e67919d959b4fbbd1840576f5b68337d312e28"
+  },
+  {
+   "path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-16.png",
+   "sha256": "b7fe68f27b5a492cf2839dda50d081a93af777cac0b3d0105ba7f34157dc1859"
+  },
+  {
+   "path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-30.png",
+   "sha256": "106fbd3d0b46f499ebabfdbe8a6e020e91a021504136cad0588c8e9a2f8ad4d5"
+  },
+  {
+   "path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-44.png",
+   "sha256": "d58fd4f6af237fc2de3044e45e1d09396400b81f198ad8b0eee4ab1b27f894d1"
+  },
+  {
+   "path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-58.png",
+   "sha256": "96bc20e9a3e69133c5af988fc4dfde239e38b36e404239d9d7b41eab37a5f011"
+  },
+  {
+   "path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-72.png",
+   "sha256": "8f98d6d5908ca2750185adfcef559d5d96f53e9e3804f7da5be092a63ac12c4c"
+  },
+  {
+   "path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-86.png",
+   "sha256": "bd3fc008c8431b33b31870aa3bee60d6047050e0edc2790a5af698f903b25875"
+  },
+  {
+   "path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-100.png",
+   "sha256": "74c40cc28c6be502758763b6573efe0bc74ce51d99278495e722f06d3a079892"
+  },
+  {
+   "path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-114.png",
+   "sha256": "ecb6cfb5bb8a665be339a49f929f4dbb9157be745befdf295e1004a23cbca24e"
+  },
+  {
+   "path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-128.png",
+   "sha256": "18ff2a5245024907dd2ec58661d1da42eb37ba9419c15e6aa839c1eb2095d5da"
+  },
+  {
+   "path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-142.png",
+   "sha256": "3ae62d767f5889a5c647ead0b7a1a6b7442fedb6a16c43e733b3478b02610bb3"
+  },
+  {
+   "path": "/mnt/afs/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/figma-frames/9-156.png",
+   "sha256": "21026a6475985e530983f1fe24a0a86d083848a4cb90e541293c4aa0aaa0bb8e"
+  }
+ ],
+ "cc_values": {
+  "A1": 2,
+  "A2": 2,
+  "A3": 2,
+  "A4": 1,
+  "B1": 3,
+  "B2": 3,
+  "B3": 2,
+  "B4": 2,
+  "B5": 3,
+  "G1": 1,
+  "G2": 1,
+  "D1": 2,
+  "D2": 2,
+  "D3": 2,
+  "D4": 3,
+  "E1": 1,
+  "E2": 2,
+  "F1": 2,
+  "F2": 2,
+  "F3": 1,
+  "F4": 2,
+  "F5": 2
+ },
+ "evidence": {
+  "A1": "第1屏标题「Login to your account」、第2屏「Start a new chat」与「History」、第8屏「Profile & Settings」、第11屏「Cloud Space」直接点明用途，首次查看即可判断当前任务。",
+  "A2": "第2-4屏紫色胶囊标出当前Tab，第10屏高亮并选中「System default」，第12屏有「Delete/Cancel」。第9、10屏底部弹层无关闭按钮，但点遮罩通常可退出（未验证），主流程不受阻。",
+  "A3": "第1屏「Login」、第2屏「New Topic」、第7屏「Export」均为通栏深紫按钮，第5屏输入框固定在底部，第3屏图片网格占据主体，用户无需寻找，次要的版本号和条款文字弱化在页面底部。",
+  "A4": "第8屏「Theme」「Data & storage」等设置行无箭头，第11屏「Clear cache」卡片只显示「238.05 MB」、无操作按钮，用户难判断可点击及点击结果；第1屏输入框和第5屏发送按钮可正常识别。",
+  "B1": "第2-4屏将历史按Chats、Archived、Images、Exports分类，第8屏将账号信息和设置项分卡呈现，第11屏将容量、缓存、Images、Exports分块，同类内容集中，用户可直接判断信息归属。",
+  "B2": "第1屏按账号、密码、登录、第三方登录、注册排序，第2屏先给「New Topic」再给搜索和历史，第11屏先总容量后分项清理，第6屏按提问到回答展开，阅读与操作顺序自然。",
+  "B3": "第8屏83%与第11屏12.48/15 GB相符；但第11屏称169张、8,225 MB图片在缓存中，而缓存仅238.05 MB；第2屏卡片称生成了图片，第6屏回答开头却是文字故事，需用户自行推断。",
+  "B4": "第1屏眼睛、第5屏纸飞机和汉堡菜单、第4屏PDF图标含义明确；但第2-4屏右上头像被裁成灰圆加一角深色，难以识别为个人入口，需结合位置和常见惯例才能判断。",
+  "B5": "第1屏「Login」实色突出，Google、Facebook为白底次级按钮；第9屏「Sign out」为主按钮，「Delete Account」为红色文字且弱化；第12屏「Delete」与「Cancel」主次分明，用户不易误选。",
+  "G1": "12个顶层画板按「01_Login」「12_Clear_Cache_Dialog」统一编号，定位方便；样例含Status Bar、Wifi等有效名称，也有默认名Rectangle，且未展示模块层命名，缺少图层信息，无法确认关键模块均命名清晰。",
+  "G2": "各画板嵌套3-4层，含4-19个frame和6-20个实例，已有基本模块容器；但第1屏43个节点仅4个frame，第12屏101个节点最多4层，模块内部层级偏浅，元素较多呈平铺状态。",
+  "D1": "第1屏输入框和第2屏「New Topic」按钮内边距及居中准确；但第2-5屏相关头像控件内人形偏移，仅在右下露出一角，各屏状态栏Wifi图标也显变形，观感受损但不影响操作。",
+  "D2": "第8屏「Change password」单行文字贴上方、下部留空，第5屏建议卡片和第6屏提问气泡底部内边距偏大，卡片内部上下不够平衡；第3屏图片与日期、第4屏文件行排列整齐，分组仍可辨认。",
+  "D3": "多数屏幕模块沿24px左右边距纵向堆叠，分区明确；但第1屏底部「Sign Up」行与条款行中心明显偏左，未与屏幕中轴对齐，「Forgot Password?」也未贴齐输入框右缘，局部对齐欠准。",
+  "D4": "第1屏和第5屏内容基本填满屏幕，第2-4屏和第11屏列表延伸到底部并提示可继续滚动，第7、9、10屏弹层高度随内容变化，未见造成结构断层的大面积空白。",
+  "E1": "第7屏底部弹层有关闭「×」，第9、10屏弹层没有；第9屏删除操作用红色，第12屏「Delete」用紫色；第1屏条款分隔符为「|」，第8屏为「·」。差异不影响识别，但同类规则不统一。",
+  "E2": "第2-4屏共用头部、主按钮和搜索区，第5-7屏共用聊天顶栏，第8-12屏共用返回加标题的导航；浅紫背景、白色圆角卡片和深紫主色贯穿全部屏幕，切换后仍可沿用已有认知。",
+  "F1": "第1屏大标题、第2屏「History」、卡片标题与灰色摘要形成明确字号层级；第6屏长段回答行长和行距适中，段落分隔明显；第11屏说明文字虽小，但换行自然，阅读顺畅。",
+  "F2": "深紫集中用于第2屏主按钮和选中Tab、第5屏建议标题及第11屏容量数字；白卡配浅紫底，第8屏浅紫提示条层次适度，强调有节制，重点操作和关键数字容易被看到。",
+  "F3": "第9屏「Delete Account」用红色，语义准确；但第12屏不可撤销的缓存删除按钮「Delete」使用普通主操作紫色，未体现危险语义，用户需依靠文字和弹窗说明判断风险。",
+  "F4": "第2屏卡片标题为近黑、摘要为中灰、时间用紫色小字，第8屏设置名称深色、说明灰色，第1屏占位文字和第11屏说明仍可读，主次信息容易区分且辅助内容不抢眼。",
+  "F5": "第3屏高饱和3D图片与浅紫界面形成视觉焦点，第1、5屏黑底Logo配大圆角卡片和紫色按钮，整体风格协调完整；第11屏容量条和缩略图也延续了同样的精致感。"
+ },
+ "g0_pass": true,
+ "g0_reason": "12屏主流程完整，无大面积重叠或缺失，内容可辨认，可继续工作",
+ "total": 43,
+ "raw_output": "{\"g0\":{\"pass\":true,\"reason\":\"12屏主流程完整，无大面积重叠或缺失，内容可辨认，可继续工作\"},\"scores\":[{\"key\":\"A1\",\"score\":2,\"evidence\":\"第1屏标题「Login to your account」、第2屏「Start a new chat」与「History」、第8屏「Profile & Settings」、第11屏「Cloud Space」直接点明用途，首次查看即可判断当前任务。\"},{\"key\":\"A2\",\"score\":2,\"evidence\":\"第2-4屏紫色胶囊标出当前Tab，第10屏高亮并选中「System default」，第12屏有「Delete/Cancel」。第9、10屏底部弹层无关闭按钮，但点遮罩通常可退出（未验证），主流程不受阻。\"},{\"key\":\"A3\",\"score\":2,\"evidence\":\"第1屏「Login」、第2屏「New Topic」、第7屏「Export」均为通栏深紫按钮，第5屏输入框固定在底部，第3屏图片网格占据主体，用户无需寻找，次要的版本号和条款文字弱化在页面底部。\"},{\"key\":\"A4\",\"score\":1,\"evidence\":\"第8屏「Theme」「Data & storage」等设置行无箭头，第11屏「Clear cache」卡片只显示「238.05 MB」、无操作按钮，用户难判断可点击及点击结果；第1屏输入框和第5屏发送按钮可正常识别。\"},{\"key\":\"B1\",\"score\":3,\"evidence\":\"第2-4屏将历史按Chats、Archived、Images、Exports分类，第8屏将账号信息和设置项分卡呈现，第11屏将容量、缓存、Images、Exports分块，同类内容集中，用户可直接判断信息归属。\"},{\"key\":\"B2\",\"score\":3,\"evidence\":\"第1屏按账号、密码、登录、第三方登录、注册排序，第2屏先给「New Topic」再给搜索和历史，第11屏先总容量后分项清理，第6屏按提问到回答展开，阅读与操作顺序自然。\"},{\"key\":\"B3\",\"score\":2,\"evidence\":\"第8屏83%与第11屏12.48/15 GB相符；但第11屏称169张、8,225 MB图片在缓存中，而缓存仅238.05 MB；第2屏卡片称生成了图片，第6屏回答开头却是文字故事，需用户自行推断。\"},{\"key\":\"B4\",\"score\":2,\"evidence\":\"第1屏眼睛、第5屏纸飞机和汉堡菜单、第4屏PDF图标含义明确；但第2-4屏右上头像被裁成灰圆加一角深色，难以识别为个人入口，需结合位置和常见惯例才能判断。\"},{\"key\":\"B5\",\"score\":3,\"evidence\":\"第1屏「Login」实色突出，Google、Facebook为白底次级按钮；第9屏「Sign out」为主按钮，「Delete Account」为红色文字且弱化；第12屏「Delete」与「Cancel」主次分明，用户不易误选。\"},{\"key\":\"G1\",\"score\":1,\"evidence\":\"12个顶层画板按「01_Login」「12_Clear_Cache_Dialog」统一编号，定位方便；样例含Status Bar、Wifi等有效名称，也有默认名Rectangle，且未展示模块层命名，缺少图层信息，无法确认关键模块均命名清晰。\"},{\"key\":\"G2\",\"score\":1,\"evidence\":\"各画板嵌套3-4层，含4-19个frame和6-20个实例，已有基本模块容器；但第1屏43个节点仅4个frame，第12屏101个节点最多4层，模块内部层级偏浅，元素较多呈平铺状态。\"},{\"key\":\"D1\",\"score\":2,\"evidence\":\"第1屏输入框和第2屏「New Topic」按钮内边距及居中准确；但第2-5屏相关头像控件内人形偏移，仅在右下露出一角，各屏状态栏Wifi图标也显变形，观感受损但不影响操作。\"},{\"key\":\"D2\",\"score\":2,\"evidence\":\"第8屏「Change password」单行文字贴上方、下部留空，第5屏建议卡片和第6屏提问气泡底部内边距偏大，卡片内部上下不够平衡；第3屏图片与日期、第4屏文件行排列整齐，分组仍可辨认。\"},{\"key\":\"D3\",\"score\":2,\"evidence\":\"多数屏幕模块沿24px左右边距纵向堆叠，分区明确；但第1屏底部「Sign Up」行与条款行中心明显偏左，未与屏幕中轴对齐，「Forgot Password?」也未贴齐输入框右缘，局部对齐欠准。\"},{\"key\":\"D4\",\"score\":3,\"evidence\":\"第1屏和第5屏内容基本填满屏幕，第2-4屏和第11屏列表延伸到底部并提示可继续滚动，第7、9、10屏弹层高度随内容变化，未见造成结构断层的大面积空白。\"},{\"key\":\"E1\",\"score\":1,\"evidence\":\"第7屏底部弹层有关闭「×」，第9、10屏弹层没有；第9屏删除操作用红色，第12屏「Delete」用紫色；第1屏条款分隔符为「|」，第8屏为「·」。差异不影响识别，但同类规则不统一。\"},{\"key\":\"E2\",\"score\":2,\"evidence\":\"第2-4屏共用头部、主按钮和搜索区，第5-7屏共用聊天顶栏，第8-12屏共用返回加标题的导航；浅紫背景、白色圆角卡片和深紫主色贯穿全部屏幕，切换后仍可沿用已有认知。\"},{\"key\":\"F1\",\"score\":2,\"evidence\":\"第1屏大标题、第2屏「History」、卡片标题与灰色摘要形成明确字号层级；第6屏长段回答行长和行距适中，段落分隔明显；第11屏说明文字虽小，但换行自然，阅读顺畅。\"},{\"key\":\"F2\",\"score\":2,\"evidence\":\"深紫集中用于第2屏主按钮和选中Tab、第5屏建议标题及第11屏容量数字；白卡配浅紫底，第8屏浅紫提示条层次适度，强调有节制，重点操作和关键数字容易被看到。\"},{\"key\":\"F3\",\"score\":1,\"evidence\":\"第9屏「Delete Account」用红色，语义准确；但第12屏不可撤销的缓存删除按钮「Delete」使用普通主操作紫色，未体现危险语义，用户需依靠文字和弹窗说明判断风险。\"},{\"key\":\"F4\",\"score\":2,\"evidence\":\"第2屏卡片标题为近黑、摘要为中灰、时间用紫色小字，第8屏设置名称深色、说明灰色，第1屏占位文字和第11屏说明仍可读，主次信息容易区分且辅助内容不抢眼。\"},{\"key\":\"F5\",\"score\":2,\"evidence\":\"第3屏高饱和3D图片与浅紫界面形成视觉焦点，第1、5屏黑底Logo配大圆角卡片和紫色按钮，整体风格协调完整；第11屏容量条和缩略图也延续了同样的精致感。\"}]}",
+ "at": "2026-11-05T10:23:33.325Z"
+}

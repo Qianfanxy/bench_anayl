@@ -1,0 +1,205 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "393×852",
+      "nodes": 44,
+      "max_depth": 4,
+      "instances": 4,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "frame×18",
+        "text×8",
+        "vector×7",
+        "rectangle×6",
+        "instance×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "Background",
+        "GlowA",
+        "GlowB",
+        "Hero",
+        "Portrait_Sarah_Payne",
+        "HeartBadge"
+      ]
+    },
+    {
+      "name": "02_Apple_ID_Sheet",
+      "size": "393×852",
+      "nodes": 34,
+      "max_depth": 4,
+      "instances": 4,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "frame×13",
+        "text×7",
+        "rectangle×6",
+        "instance×4",
+        "vector×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Background",
+        "BlurredSarah",
+        "Let’s meet new people ar",
+        "Scrim",
+        "Apple ID Sheet",
+        "Grabber"
+      ]
+    },
+    {
+      "name": "03_Explore",
+      "size": "393×852",
+      "nodes": 199,
+      "max_depth": 7,
+      "instances": 26,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "frame×105",
+        "text×35",
+        "instance×26",
+        "vector×26",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "BG",
+        "Type=Explore",
+        "Explore",
+        "Bell",
+        "Icon_Bell",
+        "Vector"
+      ]
+    },
+    {
+      "name": "04_Find_Partner",
+      "size": "393×852",
+      "nodes": 81,
+      "max_depth": 6,
+      "instances": 13,
+      "texts": 13,
+      "images": 1,
+      "types": [
+        "frame×35",
+        "instance×13",
+        "text×13",
+        "vector×10",
+        "rectangle×7",
+        "ellipse×2"
+      ],
+      "names": [
+        "BG",
+        "Type=Back",
+        "Back",
+        "Icon_Back",
+        "Vector",
+        "Title"
+      ]
+    },
+    {
+      "name": "05_Friend_Profile",
+      "size": "393×852",
+      "nodes": 99,
+      "max_depth": 6,
+      "instances": 14,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "frame×53",
+        "text×15",
+        "instance×14",
+        "vector×10",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "BG",
+        "Type=BackMore",
+        "Back",
+        "Icon_Back",
+        "Vector",
+        "Title"
+      ]
+    },
+    {
+      "name": "07_Profile",
+      "size": "393×852",
+      "nodes": 91,
+      "max_depth": 6,
+      "instances": 11,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "frame×51",
+        "text×15",
+        "instance×11",
+        "vector×7",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "BG",
+        "Type=Menu",
+        "MenuBtn",
+        "Icon_Menu",
+        "Vector",
+        "Sarah Payne"
+      ]
+    },
+    {
+      "name": "06_Short_Video",
+      "size": "393×852",
+      "nodes": 89,
+      "max_depth": 5,
+      "instances": 15,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "frame×34",
+        "vector×17",
+        "text×16",
+        "instance×15",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Video",
+        "Short_Yu_Jian_Shore",
+        "TopScrim",
+        "BottomScrim",
+        "ShortHeader",
+        "Back"
+      ]
+    },
+    {
+      "name": "08_Menu",
+      "size": "393×852",
+      "nodes": 158,
+      "max_depth": 5,
+      "instances": 27,
+      "texts": 23,
+      "images": 0,
+      "types": [
+        "frame×71",
+        "vector×30",
+        "instance×27",
+        "text×23",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "ProfileBehind",
+        "Type=Menu",
+        "MenuBtn",
+        "Icon_Menu",
+        "Vector",
+        "Sarah Payne"
+      ]
+    }
+  ]
+}

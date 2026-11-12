@@ -1,0 +1,22 @@
+[
+  {
+    "node_id": "12:2",
+    "name": "01_Splash",
+    "file": "12-2.png"
+  },
+  {
+    "node_id": "12:24",
+    "name": "02_Get_Started",
+    "file": "12-24.png"
+  },
+  {
+    "node_id": "13:2",
+    "name": "03_Sign_In",
+    "file": "13-2.png"
+  },
+  {
+    "node_id": "17:2",
+    "name": "04_Home",
+    "file": "17-2.png"
+  }
+]

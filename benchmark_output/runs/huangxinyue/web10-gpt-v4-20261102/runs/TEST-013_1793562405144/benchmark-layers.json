@@ -1,0 +1,261 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1920×6660",
+      "nodes": 238,
+      "max_depth": 4,
+      "instances": 92,
+      "texts": 84,
+      "images": 0,
+      "types": [
+        "instance×92",
+        "text×84",
+        "vector×53",
+        "rectangle×8",
+        "frame×1"
+      ],
+      "names": [
+        "FASCO",
+        "Home Deals New Arrivals ",
+        "Rectangle",
+        "Action / Sign in",
+        "Action / Sign Up",
+        "Button"
+      ]
+    },
+    {
+      "name": "02_Shop",
+      "size": "1920×3980",
+      "nodes": 114,
+      "max_depth": 4,
+      "instances": 39,
+      "texts": 55,
+      "images": 0,
+      "types": [
+        "text×55",
+        "instance×39",
+        "vector×14",
+        "rectangle×5",
+        "frame×1"
+      ],
+      "names": [
+        "Header / Store",
+        "FASCO",
+        "Nav / Home",
+        "Nav / Shop",
+        "Nav / Products",
+        "Nav / Pages"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1920×3510",
+      "nodes": 130,
+      "max_depth": 4,
+      "instances": 46,
+      "texts": 55,
+      "images": 0,
+      "types": [
+        "text×55",
+        "instance×46",
+        "vector×21",
+        "rectangle×7",
+        "frame×1"
+      ],
+      "names": [
+        "Header / Store",
+        "FASCO",
+        "Nav / Home",
+        "Nav / Shop",
+        "Nav / Products",
+        "Nav / Pages"
+      ]
+    },
+    {
+      "name": "04_Mini_Cart",
+      "size": "1920×1080",
+      "nodes": 147,
+      "max_depth": 4,
+      "instances": 49,
+      "texts": 64,
+      "images": 0,
+      "types": [
+        "text×64",
+        "instance×49",
+        "vector×22",
+        "rectangle×11",
+        "frame×1"
+      ],
+      "names": [
+        "Header / Store",
+        "FASCO",
+        "Nav / Home",
+        "Nav / Shop",
+        "Nav / Products",
+        "Nav / Pages"
+      ]
+    },
+    {
+      "name": "05_Cart",
+      "size": "1920×1910",
+      "nodes": 44,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "instance×13",
+        "vector×4",
+        "rectangle×2",
+        "frame×1"
+      ],
+      "names": [
+        "Header / Store",
+        "FASCO",
+        "Nav / Home",
+        "Nav / Shop",
+        "Nav / Products",
+        "Nav / Pages"
+      ]
+    },
+    {
+      "name": "06_Checkout",
+      "size": "1920×2520",
+      "nodes": 100,
+      "max_depth": 4,
+      "instances": 27,
+      "texts": 53,
+      "images": 0,
+      "types": [
+        "text×53",
+        "instance×27",
+        "frame×13",
+        "vector×5",
+        "rectangle×2"
+      ],
+      "names": [
+        "Header / Store",
+        "FASCO",
+        "Nav / Home",
+        "Nav / Shop",
+        "Nav / Products",
+        "Nav / Pages"
+      ]
+    },
+    {
+      "name": "07_Sign_Up",
+      "size": "1920×1080",
+      "nodes": 38,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "text×20",
+        "instance×10",
+        "frame×6",
+        "rectangle×2"
+      ],
+      "names": [
+        "Photo_Sign_Up",
+        "FASCO",
+        "Create Account",
+        "Rectangle",
+        "Logo_Google",
+        "Sign up with Google"
+      ]
+    },
+    {
+      "name": "08_Sign_In",
+      "size": "1920×1080",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×6",
+        "rectangle×2",
+        "frame×2"
+      ],
+      "names": [
+        "Photo_Sign_In",
+        "FASCO",
+        "Sign In To FASCO",
+        "Rectangle",
+        "Logo_Google",
+        "Sign in with Google"
+      ]
+    },
+    {
+      "name": "09_Forgot_Password",
+      "size": "1920×1080",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×6",
+        "frame×4"
+      ],
+      "names": [
+        "Photo_Sign_In",
+        "FASCO",
+        "Forgot Password",
+        "Text Field",
+        "Label",
+        "Input"
+      ]
+    },
+    {
+      "name": "10_Confirmation_Code",
+      "size": "1920×1080",
+      "nodes": 11,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "text×7",
+        "instance×3",
+        "frame×1"
+      ],
+      "names": [
+        "Photo_Sign_In",
+        "FASCO",
+        "Enter The Confirmation C",
+        "Text Field",
+        "Label",
+        "Input"
+      ]
+    },
+    {
+      "name": "11_New_Password",
+      "size": "1920×1080",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "text×8",
+        "instance×4",
+        "frame×2"
+      ],
+      "names": [
+        "Photo_Sign_In",
+        "FASCO",
+        "Enter Your New Password",
+        "Text Field",
+        "Label",
+        "Input"
+      ]
+    }
+  ]
+}

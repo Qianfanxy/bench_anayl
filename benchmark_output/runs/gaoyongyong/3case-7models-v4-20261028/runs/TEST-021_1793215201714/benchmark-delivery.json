@@ -1,0 +1,29 @@
+{
+  "verified": true,
+  "design_present": true,
+  "expected_screens": [
+    "01_Splash",
+    "02_Welcome",
+    "03_Create_Account_Empty",
+    "03_Create_Account_Filled",
+    "03_Create_Account_Error",
+    "04_Home",
+    "05_My_Asset_Overlay",
+    "06_Notification",
+    "07_Profile",
+    "08_Contact_Info",
+    "09_Bank_Account_Info"
+  ],
+  "frame_count": 11,
+  "missing_screens": [
+    "06_Notification",
+    "08_Contact_Info",
+    "09_Bank_Account_Info"
+  ],
+  "quota_errors": 13,
+  "artifact_state": "incomplete",
+  "infrastructure_blocked": true,
+  "permission_errors": 0,
+  "io_errors": 0,
+  "ready_for_scoring": true
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "node_id": "9:2",
+    "name": "SHOP.CO · System",
+    "file": "9-2.png"
+  },
+  {
+    "node_id": "9:306",
+    "name": "01_Home",
+    "file": "9-306.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "RFYXFm8XMqIdTQ8asQszCe",
+        "nodeId": "9:306",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "a6a75f1a32585bb0facb46160cfebdfdf9d25190db77f747e897296471c3c0aa",
+      "response_file": "_debug/v2-native-9-306.png.txt",
+      "response_sha256": "9b74236a8210cd4687678a629fd7f5dbf226f056151e5e85d1b66dd0d2a407b2"
+    }
+  },
+  {
+    "node_id": "10:375",
+    "name": "02_Category",
+    "file": "10-375.png"
+  },
+  {
+    "node_id": "10:748",
+    "name": "03_Product",
+    "file": "10-748.png"
+  },
+  {
+    "node_id": "11:1074",
+    "name": "04_Cart",
+    "file": "11-1074.png"
+  }
+]

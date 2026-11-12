@@ -1,0 +1,155 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Aktivitas",
+      "size": "375×900",
+      "nodes": 131,
+      "max_depth": 4,
+      "instances": 21,
+      "texts": 43,
+      "images": 0,
+      "types": [
+        "text×43",
+        "vector×40",
+        "instance×21",
+        "rectangle×19",
+        "frame×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "02_Trending",
+      "size": "375×900",
+      "nodes": 132,
+      "max_depth": 4,
+      "instances": 21,
+      "texts": 61,
+      "images": 0,
+      "types": [
+        "text×61",
+        "rectangle×28",
+        "instance×21",
+        "vector×14",
+        "frame×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "03_Detail_Saham",
+      "size": "375×1044",
+      "nodes": 109,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 55,
+      "images": 0,
+      "types": [
+        "text×55",
+        "rectangle×32",
+        "vector×10",
+        "instance×7",
+        "ellipse×3",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "04_Top_Up_Metode",
+      "size": "375×812",
+      "nodes": 95,
+      "max_depth": 4,
+      "instances": 20,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "vector×33",
+        "instance×20",
+        "rectangle×19",
+        "text×15",
+        "frame×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "05_Top_Up_Nominal",
+      "size": "375×812",
+      "nodes": 77,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "rectangle×16",
+        "vector×14",
+        "instance×13",
+        "frame×7",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "06_Top_Up_Pembayaran",
+      "size": "375×1080",
+      "nodes": 60,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "text×31",
+        "rectangle×15",
+        "ellipse×7",
+        "instance×3",
+        "frame×2",
+        "vector×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    }
+  ]
+}

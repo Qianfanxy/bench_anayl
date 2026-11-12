@@ -1,0 +1,319 @@
+{
+  "file_key": "i0K5O6dsJMA8T1FnWfvp2x",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "5:2",
+      "name": "03 · Workspace",
+      "child_count": 23
+    }
+  ],
+  "workspace": {
+    "id": "5:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "7:2",
+        "name": "01_Home",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 2880,
+        "text_count": 4,
+        "reaction_count": 11
+      },
+      {
+        "id": "7:3",
+        "name": "Header",
+        "type": "COMPONENT",
+        "x": 1700,
+        "y": 0,
+        "width": 1440,
+        "height": 104,
+        "text_count": 4,
+        "reaction_count": 4
+      },
+      {
+        "id": "7:36",
+        "name": "Hero / Introduction",
+        "type": "COMPONENT",
+        "x": 1700,
+        "y": 240,
+        "width": 1120,
+        "height": 570,
+        "text_count": 5,
+        "reaction_count": 2
+      },
+      {
+        "id": "7:44",
+        "name": "Avatar / Portrait",
+        "type": "COMPONENT",
+        "x": 2900,
+        "y": 240,
+        "width": 340,
+        "height": 370,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:61",
+        "name": "Tech stack",
+        "type": "COMPONENT",
+        "x": 1700,
+        "y": 880,
+        "width": 1120,
+        "height": 130,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:222",
+        "name": "Experience entry / S",
+        "type": "COMPONENT",
+        "x": 1700,
+        "y": 1600,
+        "width": 1120,
+        "height": 198,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:223",
+        "name": "Company mark / S",
+        "type": "COMPONENT",
+        "x": 2900,
+        "y": 1600,
+        "width": 54,
+        "height": 54,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:238",
+        "name": "Experience entry / MS",
+        "type": "COMPONENT",
+        "x": 1700,
+        "y": 1825,
+        "width": 1120,
+        "height": 198,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:239",
+        "name": "Company mark / MS",
+        "type": "COMPONENT",
+        "x": 2900,
+        "y": 1690,
+        "width": 54,
+        "height": 54,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:254",
+        "name": "Experience entry / OC",
+        "type": "COMPONENT",
+        "x": 1700,
+        "y": 2050,
+        "width": 1120,
+        "height": 198,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:255",
+        "name": "Company mark / OC",
+        "type": "COMPONENT",
+        "x": 2900,
+        "y": 1780,
+        "width": 54,
+        "height": 54,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:270",
+        "name": "Contact footer",
+        "type": "COMPONENT",
+        "x": 1700,
+        "y": 2340,
+        "width": 1440,
+        "height": 492,
+        "text_count": 5,
+        "reaction_count": 3
+      },
+      {
+        "id": "7:324",
+        "name": "Navigation / Home",
+        "type": "COMPONENT_SET",
+        "x": 1600,
+        "y": 3200,
+        "width": 304,
+        "height": 104,
+        "text_count": 2,
+        "reaction_count": 1
+      },
+      {
+        "id": "7:328",
+        "name": "Navigation / Projects",
+        "type": "COMPONENT_SET",
+        "x": 1600,
+        "y": 3340,
+        "width": 304,
+        "height": 104,
+        "text_count": 2,
+        "reaction_count": 1
+      },
+      {
+        "id": "7:332",
+        "name": "Navigation / Experience",
+        "type": "COMPONENT_SET",
+        "x": 1600,
+        "y": 3480,
+        "width": 304,
+        "height": 104,
+        "text_count": 2,
+        "reaction_count": 1
+      },
+      {
+        "id": "7:336",
+        "name": "Navigation / Contact",
+        "type": "COMPONENT_SET",
+        "x": 1600,
+        "y": 3620,
+        "width": 304,
+        "height": 104,
+        "text_count": 2,
+        "reaction_count": 1
+      },
+      {
+        "id": "7:343",
+        "name": "Project card / HTML",
+        "type": "COMPONENT_SET",
+        "x": 1600,
+        "y": 3760,
+        "width": 1168,
+        "height": 458,
+        "text_count": 4,
+        "reaction_count": 1
+      },
+      {
+        "id": "7:350",
+        "name": "Project card / CSS",
+        "type": "COMPONENT_SET",
+        "x": 1600,
+        "y": 4254,
+        "width": 1168,
+        "height": 458,
+        "text_count": 4,
+        "reaction_count": 1
+      },
+      {
+        "id": "7:354",
+        "name": "Social link / Instagram",
+        "type": "COMPONENT_SET",
+        "x": 1600,
+        "y": 4748,
+        "width": 176,
+        "height": 108,
+        "text_count": 0,
+        "reaction_count": 1
+      },
+      {
+        "id": "7:358",
+        "name": "Social link / X",
+        "type": "COMPONENT_SET",
+        "x": 1600,
+        "y": 4892,
+        "width": 176,
+        "height": 108,
+        "text_count": 0,
+        "reaction_count": 1
+      },
+      {
+        "id": "7:362",
+        "name": "Social link / YouTube",
+        "type": "COMPONENT_SET",
+        "x": 1600,
+        "y": 5036,
+        "width": 176,
+        "height": 108,
+        "text_count": 0,
+        "reaction_count": 1
+      },
+      {
+        "id": "7:375",
+        "name": "Button / Primary",
+        "type": "COMPONENT_SET",
+        "x": 1600,
+        "y": 6100,
+        "width": 452,
+        "height": 118,
+        "text_count": 1,
+        "reaction_count": 1
+      },
+      {
+        "id": "7:386",
+        "name": "Button / Secondary",
+        "type": "COMPONENT_SET",
+        "x": 1600,
+        "y": 6280,
+        "width": 452,
+        "height": 118,
+        "text_count": 1,
+        "reaction_count": 1
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nABM — developer portfolio\nDesign a one-page portfolio for a full-stack software engineer: who they are, the tech they use, two projects, work experience and contact. Desktop web, 1440 wide, dark mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 1 frame below, named exactly as listed. It is a single page (the navigation scrolls to sections), so there is no prototype to wire.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand accents and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the signature logo, the avatar, the project images, the tech and social logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Home\nGoal: Understand who the engineer is, see their work and get in touch.\nMUST INCLUDE\n• Contact: “Contact” · “Seasoned Full Stack Software Engineer with over 8 years of hands-on experience in designing and implementing robust, scalable, and innovative web solutions. Adept at leveraging a comprehensive skill set encompassing front-end and back-end technologies.” · “abm@example.com” (Icon_Mail) · Logo_Instagram · Logo_X · Logo_YouTube\n• Experience: “Experience” · 3 entries, each with a company initials mark, role and company, dates and description (see DATA)\n• Header: Logo_ABM · navigation Home / Projects / Experience / Contact · current: Home\n• Hero: Photo_Avatar · “I do code and make content about it!” · “I am a seasoned full-stack software engineer with over 8 years of professional experience, specializing in backend development. My expertise lies in crafting robust and scalable SaaS-based architectures on the Amazon AWS platform.” · “Get In Touch” · “Download CV”\n• Projects: “Projects” · 2 project cards, each with photo, “CLICK HERE TO VISIT”, title and open (Icon_Arrow_Up_Right): HTML TUTORIAL (Photo_Project_HTML) · CSS TUTORIAL (Photo_Project_CSS)\n• Tech stack: “EXPERIENCE WITH” · Logo_JavaScript · Logo_Nextjs · Logo_HTML5 · Logo_CSS3 · Logo_React\nLINKS\nSingle-page task: no links between frames. Navigation items scroll to sections; every button and link is entry only.\nNavigation structure\n• One frame. The header and the contact footer are part of it.\n• Home / Projects / Experience / Contact scroll to the matching section on the same page (no extra frames).\n• Entry only (no frame): Get In Touch, Download CV, project cards, email address, social logos.\nFixed data & copy\nUse these values verbatim.\nExperience (in order, newest first)\nLead Software Engineer at Searchlight · Nov 2019 – Present — “As a Lead Software Engineer at Searchlight, I played a pivotal role in developing innovative solutions for Searchlight’s core search algorithms. Collaborating with a dynamic team of engineers, I contributed to the enhancement of search accuracy and efficiency, optimizing user experiences for millions of users worldwide.”\nSoftware Engineer at Meridian Social · Jan 2017 – Oct 2019 — “At Meridian Social, I served as a Software Engineer, focusing on the design and implementation of backend systems for the social media company’s dynamic platform. Working on projects that involved large-scale data processing and user engagement features, I leveraged my expertise to ensure seamless functionality and scalability.”\nJunior Software Engineer at Orchard Computing · Jan 2016 – Dec 2016 — “During my tenure at Orchard Computing, I worked as a Junior Software Engineer and contributed to the architecture of mission-critical software projects. I helped design scalable and efficient systems as part of a cross-functional team.”\nCompany marks\nSearchlight → “S” · Meridian Social → “MS” · Orchard Computing → “OC” (draw these initials marks yourself)\nWhat is fixed · what is yours\nFixed (given)\n• Frame name\n• Must-include content (what, not how)\n• All data and copy\n• Brand accents #D5491D and #1373D1, and Poppins\n• Media: signature logo, avatar, project images, tech and social logos, icons\n• Default Button\nYours (designer decides)\n• Layout, grid, grouping, order and emphasis of every section\n• All other colors: dark page and surface colors, text colors, gradients (if any), borders\n• Type scale, spacing, radii, elevation\n• All states: current nav item, hover\n• Header, avatar treatment, tech logo row, project card, experience entry, initials marks, contact footer\n• How the photos are cropped and placed\nHow it is evaluated\nYour file is compared with this brief on coverage, data and flow — not on visual similarity to any original.\n1. Checklist coverage\n2. Data & copy accuracy\n3. Information hierarchy across sections\n4. Visual quality & consistency of your own system\n5. Component reuse\n6. State design (current nav item, hover)\nDeliverable: the link to your own Figma file containing the named frame and your components.",
+  "layer_summary": {
+    "board_count": 1,
+    "boards": [
+      {
+        "name": "01_Home",
+        "size": "1440×2880",
+        "nodes": 99,
+        "max_depth": 4,
+        "instances": 40,
+        "texts": 35,
+        "images": 0,
+        "types": [
+          "instance×40",
+          "text×35",
+          "vector×12",
+          "frame×11",
+          "ellipse×1"
+        ],
+        "names": [
+          "Header",
+          "Logo_ABM",
+          "Divider",
+          "Navigation / Home",
+          "Home",
+          "Current indicator"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+[
+  {
+    "node_id": "15:109",
+    "name": "01_Home",
+    "file": "15-109.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "hHw7uGJ7nyDI88HezmYOwV",
+        "nodeId": "15:109",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "1578734573d9b25d22b2d1bd48a6d573e20c869b4aabbeb08725f1f4189a6d08",
+      "response_file": "_debug/v2-native-15-109.png.txt",
+      "response_sha256": "fb773b9a39035aef1414881d1f8910619220427438e62f6f4c86c9ca7ac051d6"
+    }
+  },
+  {
+    "node_id": "16:176",
+    "name": "02_About_Investment",
+    "file": "16-176.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "hHw7uGJ7nyDI88HezmYOwV",
+        "nodeId": "16:176",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "0107588c81d10fc2eb56559f1d277bced75eabab72f3ea619d51d5105109d911",
+      "response_file": "_debug/v2-native-16-176.png.txt",
+      "response_sha256": "a9049b47a492baf6f2babe9f190f31bb2972ce010c140d25c4dcb056950feaf4"
+    }
+  },
+  {
+    "node_id": "16:207",
+    "name": "03_Create_PIN",
+    "file": "16-207.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "hHw7uGJ7nyDI88HezmYOwV",
+        "nodeId": "16:207",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "06cea6623a1709254289bdc1a899120d529250fc265f198a018627bd8a130427",
+      "response_file": "_debug/v2-native-16-207.png.txt",
+      "response_sha256": "18bc2063202eeb15d37c8cadd96e7fee3c78ba760a763cad95de8bbe4072ba63"
+    }
+  },
+  {
+    "node_id": "17:235",
+    "name": "04_Portfolio",
+    "file": "17-235.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "hHw7uGJ7nyDI88HezmYOwV",
+        "nodeId": "17:235",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "beb5b777130c81e723b027aa0db05270aab5332c4a28a8ba276ae6fc387f5655",
+      "response_file": "_debug/v2-native-17-235.png.txt",
+      "response_sha256": "47abe94973ff9aee7338f34818cc6f67ea38ff575b08dc38ae7caf872ff0e623"
+    }
+  },
+  {
+    "node_id": "18:440",
+    "name": "05_Trading",
+    "file": "18-440.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "hHw7uGJ7nyDI88HezmYOwV",
+        "nodeId": "18:440",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "1d00c232d971606bb8c532c907aafc813072e7c9b606ea01e0f8446e39c7bb2c",
+      "response_file": "_debug/v2-native-18-440.png.txt",
+      "response_sha256": "8919e8ff77e8728c74ad8c18ba52d06de310c5fb6c7c8ad4fc8038c255b71048"
+    }
+  },
+  {
+    "node_id": "19:418",
+    "name": "06_Stock_Transaction",
+    "file": "19-418.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "hHw7uGJ7nyDI88HezmYOwV",
+        "nodeId": "19:418",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "040dbd2fe260c7c60c86c5bf4806ba350815c0fa2fe789d354834de35339f4ca",
+      "response_file": "_debug/v2-native-19-418.png.txt",
+      "response_sha256": "e7b616bda04c5db02334c42db3f298ff383ff8d7d0a41d7913c4e952eed724cb"
+    }
+  },
+  {
+    "node_id": "19:494",
+    "name": "07_Confirm_Purchase",
+    "file": "19-494.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "hHw7uGJ7nyDI88HezmYOwV",
+        "nodeId": "19:494",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "c22eb694a2ae7770178b2a5977916fbee7fbfd2394377dd43d09e6d318e0f715",
+      "response_file": "_debug/v2-native-19-494.png.txt",
+      "response_sha256": "a766ef112ce205f68dc83f86a1688c3b86d1066fc4cf2411493d46de574abdf9"
+    }
+  }
+]

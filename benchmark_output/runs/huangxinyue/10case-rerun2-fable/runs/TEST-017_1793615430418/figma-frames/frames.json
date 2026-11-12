@@ -1,0 +1,29 @@
+[
+  {
+    "node_id": "9:85",
+    "name": "01_Expenses",
+    "file": "9-85.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "kief32CrRQEGf1OkI4f3T9",
+        "nodeId": "9:85",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "f2b6fef204c29358a1677c0a55f1e304b17b71c3be6664307a911972fb3539bd",
+      "response_file": "_debug/v2-native-9-85.png.txt",
+      "response_sha256": "22cc49441b72693957132660f1f1d351f0d1b0ae7a46f83239d411447a4259ad"
+    }
+  },
+  {
+    "node_id": "9:222",
+    "name": "02_Bill",
+    "file": "9-222.png"
+  },
+  {
+    "node_id": "9:341",
+    "name": "03_Credit_Score",
+    "file": "9-341.png"
+  }
+]

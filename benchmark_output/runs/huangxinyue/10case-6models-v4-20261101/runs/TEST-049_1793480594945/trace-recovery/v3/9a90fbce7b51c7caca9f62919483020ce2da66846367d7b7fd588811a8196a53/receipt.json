@@ -1,0 +1,24 @@
+{
+  "at": "2026-10-31T21:10:57.775421+00:00",
+  "run_id": "run_4febc55c8cc34af7",
+  "plan_hash": "605a4ac19c09244a5a350eb77c629247642039e2cd4c6c045ede0c3e1cbd5a90",
+  "source_path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-049_1793480594945/task-000001/trace.sqlite3",
+  "source_logical_records_sha256": "9a90fbce7b51c7caca9f62919483020ce2da66846367d7b7fd588811a8196a53",
+  "source_unchanged": true,
+  "backup_sha256": "23083172b56875cc67e57fbf016ef0ce9cdf6911668b34ddb994a57bb9e8c3b3",
+  "exit_code": 0,
+  "trace": {
+    "path": "/mnt/afs/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-049_1793480594945/trace-recovery/v3/9a90fbce7b51c7caca9f62919483020ce2da66846367d7b7fd588811a8196a53/trajectory.jsonl",
+    "sha256": "a9d41eeb09ecc972a97c5d9bfc4a6a3d8e316414f75781e57acaa7df075dc97d",
+    "errors": [],
+    "records": 1,
+    "message_count": 71,
+    "tool_calls": 34,
+    "tool_results": 34,
+    "unfinished_tool_call_ids": [],
+    "warnings": []
+  },
+  "raw_capture_preserved": true,
+  "format": "benchmark-captured-messages-v1",
+  "assets_fetched": false
+}

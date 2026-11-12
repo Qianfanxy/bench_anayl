@@ -1,0 +1,28 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4780",
+      "nodes": 234,
+      "max_depth": 5,
+      "instances": 60,
+      "texts": 83,
+      "images": 0,
+      "types": [
+        "text×83",
+        "instance×60",
+        "frame×56",
+        "vector×35"
+      ],
+      "names": [
+        "Header",
+        "Logo_MAC",
+        "Vector",
+        "Service",
+        "Icon_Chevron_Down",
+        "Agency"
+      ]
+    }
+  ]
+}

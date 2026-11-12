@@ -1,0 +1,155 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Aktivitas",
+      "size": "375×812",
+      "nodes": 156,
+      "max_depth": 7,
+      "instances": 20,
+      "texts": 43,
+      "images": 0,
+      "types": [
+        "frame×46",
+        "text×43",
+        "vector×40",
+        "instance×20",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Aktivitas",
+        "Header Actions",
+        "Icon_Menu",
+        "Vector",
+        "Icon_Settings"
+      ]
+    },
+    {
+      "name": "02_Trending",
+      "size": "375×812",
+      "nodes": 163,
+      "max_depth": 6,
+      "instances": 20,
+      "texts": 58,
+      "images": 0,
+      "types": [
+        "frame×64",
+        "text×58",
+        "instance×20",
+        "vector×14",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Trending",
+        "Header Actions",
+        "Icon_Menu",
+        "Vector",
+        "Icon_Settings"
+      ]
+    },
+    {
+      "name": "03_Detail_Saham",
+      "size": "375×812",
+      "nodes": 122,
+      "max_depth": 5,
+      "instances": 7,
+      "texts": 54,
+      "images": 0,
+      "types": [
+        "text×54",
+        "frame×44",
+        "vector×9",
+        "instance×7",
+        "rectangle×6",
+        "ellipse×2"
+      ],
+      "names": [
+        "Header",
+        "Icon_Back",
+        "Vector",
+        "Header Actions",
+        "Icon_Plus",
+        "Icon_Share"
+      ]
+    },
+    {
+      "name": "04_Top_Up_Metode",
+      "size": "375×812",
+      "nodes": 97,
+      "max_depth": 6,
+      "instances": 19,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "vector×33",
+        "frame×23",
+        "instance×19",
+        "text×15",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Frame",
+        "Icon_Back",
+        "Vector",
+        "Top Up",
+        "Icon_Help"
+      ]
+    },
+    {
+      "name": "05_Top_Up_Nominal",
+      "size": "375×812",
+      "nodes": 83,
+      "max_depth": 6,
+      "instances": 12,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "frame×28",
+        "text×22",
+        "vector×14",
+        "instance×12",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Frame",
+        "Icon_Back",
+        "Vector",
+        "Top Up",
+        "Icon_Help"
+      ]
+    },
+    {
+      "name": "06_Top_Up_Pembayaran",
+      "size": "375×812",
+      "nodes": 71,
+      "max_depth": 6,
+      "instances": 4,
+      "texts": 27,
+      "images": 0,
+      "types": [
+        "frame×29",
+        "text×27",
+        "rectangle×6",
+        "instance×4",
+        "vector×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Selesaikan Pembayaran",
+        "Icon_Help",
+        "Vector",
+        "Content Scroll",
+        "Silakan selesaikan prose"
+      ]
+    }
+  ]
+}

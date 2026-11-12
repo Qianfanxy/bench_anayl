@@ -1,0 +1,104 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "414×896",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "instance×4",
+        "text×4",
+        "ellipse×3",
+        "frame×2"
+      ],
+      "names": [
+        "Ellipse",
+        "Illustration_Onboarding",
+        "Headline",
+        "Body",
+        "Button / Primary",
+        "Label"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "414×896",
+      "nodes": 115,
+      "max_depth": 6,
+      "instances": 28,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "instance×28",
+        "frame×27",
+        "vector×22",
+        "text×21",
+        "group×9",
+        "rectangle×7"
+      ],
+      "names": [
+        "Content",
+        "Avatar",
+        "Photo Wrap",
+        "Avatar_Adam_Smith",
+        "Greeting",
+        "Icon_Menu"
+      ]
+    },
+    {
+      "name": "03_Warm_Up",
+      "size": "414×896",
+      "nodes": 199,
+      "max_depth": 7,
+      "instances": 57,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "instance×57",
+        "frame×55",
+        "text×31",
+        "vector×27",
+        "group×21",
+        "rectangle×7"
+      ],
+      "names": [
+        "Content",
+        "Header / Back + More",
+        "Back Button",
+        "Icon_Back",
+        "Clip path group",
+        "clip0_0_107"
+      ]
+    },
+    {
+      "name": "04_Activity",
+      "size": "414×896",
+      "nodes": 126,
+      "max_depth": 7,
+      "instances": 23,
+      "texts": 43,
+      "images": 0,
+      "types": [
+        "text×43",
+        "instance×23",
+        "vector×22",
+        "frame×16",
+        "group×11",
+        "rectangle×8"
+      ],
+      "names": [
+        "Content",
+        "Header / Back + More",
+        "Back Button",
+        "Icon_Back",
+        "Clip path group",
+        "clip0_0_107"
+      ]
+    }
+  ]
+}

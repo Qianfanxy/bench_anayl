@@ -1,0 +1,21 @@
+09_Bank_Account_Info now correct: "Bank of America" / 0182128xxx / Jonas Macroni, Zenith Bank card, Add account button.
+
+All 11 screens verified:
+1. 01_Splash 2007:30 ✓
+2. 02_Welcome 2007:49 ✓
+3. 03_Create_Account_Empty 2007:71 ✓
+4. 03_Create_Account_Filled 2007:104 ✓
+5. 03_Create_Account_Error 2007:135 ✓
+6. 04_Home 2009:113 ✓
+7. 05_My_Asset_Overlay 2013:229 ✓
+8. 06_Notification 2013:314 ✓
+9. 07_Profile 2012:166 ✓
+10. 08_Contact_Info 2014:337 ✓
+11. 09_Bank_Account_Info 2014:386 ✓ (after fix)
+
+Prototype links all applied (errs=[] readback confirmed splash auto + portfolio MOVE_IN).
+
+Everything done. Optional: verify workspace page doesn't have stray nodes. I'm reasonably confident. One last sanity check — maybe quickly verify the prototype connections count? Already read back. Good.
+
+Final answer format:
+"Reasoning summary: ..." first line, then "Final answer:" with file URL, page ID, screen IDs, prototype work, limitations.

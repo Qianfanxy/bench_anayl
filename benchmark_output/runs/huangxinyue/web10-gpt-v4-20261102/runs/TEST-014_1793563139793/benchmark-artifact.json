@@ -1,0 +1,427 @@
+{
+  "file_key": "RFYXFm8XMqIdTQ8asQszCe",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "6:2",
+      "name": "03 · Workspace",
+      "child_count": 24
+    }
+  ],
+  "workspace": {
+    "id": "6:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "9:2",
+        "name": "SHOP.CO · System",
+        "type": "FRAME",
+        "x": 6200,
+        "y": 0,
+        "width": 1440,
+        "height": 1100,
+        "text_count": 32,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:123",
+        "name": "Card / T-shirt with Tape Details",
+        "type": "COMPONENT",
+        "x": 7800,
+        "y": 0,
+        "width": 295,
+        "height": 412,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:138",
+        "name": "Card / Skinny Fit Jeans",
+        "type": "COMPONENT",
+        "x": 8120,
+        "y": 0,
+        "width": 295,
+        "height": 412,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:154",
+        "name": "Card / Checkered Shirt",
+        "type": "COMPONENT",
+        "x": 8440,
+        "y": 0,
+        "width": 295,
+        "height": 412,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:169",
+        "name": "Card / Sleeve Striped T-shirt",
+        "type": "COMPONENT",
+        "x": 8760,
+        "y": 0,
+        "width": 295,
+        "height": 412,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:187",
+        "name": "Card / Vertical Striped Shirt",
+        "type": "COMPONENT",
+        "x": 7800,
+        "y": 450,
+        "width": 295,
+        "height": 412,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:205",
+        "name": "Card / Courage Graphic T-shirt",
+        "type": "COMPONENT",
+        "x": 8120,
+        "y": 450,
+        "width": 295,
+        "height": 412,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:218",
+        "name": "Card / Loose Fit Bermuda Shorts",
+        "type": "COMPONENT",
+        "x": 8440,
+        "y": 450,
+        "width": 295,
+        "height": 412,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:229",
+        "name": "Card / Faded Skinny Jeans",
+        "type": "COMPONENT",
+        "x": 8760,
+        "y": 450,
+        "width": 295,
+        "height": 412,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:244",
+        "name": "Card / Gradient Graphic T-shirt",
+        "type": "COMPONENT",
+        "x": 7800,
+        "y": 900,
+        "width": 295,
+        "height": 412,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:257",
+        "name": "Card / Polo with Tipping Details",
+        "type": "COMPONENT",
+        "x": 8120,
+        "y": 900,
+        "width": 295,
+        "height": 412,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:272",
+        "name": "Card / Black Striped T-shirt",
+        "type": "COMPONENT",
+        "x": 8440,
+        "y": 900,
+        "width": 295,
+        "height": 412,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:290",
+        "name": "Card / Polo with Contrast Trims",
+        "type": "COMPONENT",
+        "x": 8760,
+        "y": 900,
+        "width": 295,
+        "height": 412,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:306",
+        "name": "01_Home",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 3880,
+        "text_count": 27,
+        "reaction_count": 15
+      },
+      {
+        "id": "10:358",
+        "name": "Header / Shop current",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 780,
+        "width": 1440,
+        "height": 140,
+        "text_count": 7,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:375",
+        "name": "02_Category",
+        "type": "FRAME",
+        "x": 1560,
+        "y": 0,
+        "width": 1440,
+        "height": 2340,
+        "text_count": 37,
+        "reaction_count": 13
+      },
+      {
+        "id": "10:748",
+        "name": "03_Product",
+        "type": "FRAME",
+        "x": 3120,
+        "y": 0,
+        "width": 1440,
+        "height": 3040,
+        "text_count": 42,
+        "reaction_count": 7
+      },
+      {
+        "id": "11:1074",
+        "name": "04_Cart",
+        "type": "FRAME",
+        "x": 4680,
+        "y": 0,
+        "width": 1440,
+        "height": 1460,
+        "text_count": 28,
+        "reaction_count": 7
+      },
+      {
+        "id": "12:1000",
+        "name": "Module / Filters",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 4900,
+        "width": 285,
+        "height": 1210,
+        "text_count": 25,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:1080",
+        "name": "Module / Review / Samantha D.",
+        "type": "COMPONENT",
+        "x": 385,
+        "y": 4900,
+        "width": 610,
+        "height": 238,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:1101",
+        "name": "Module / Quantity / 1",
+        "type": "COMPONENT",
+        "x": 1095,
+        "y": 4900,
+        "width": 160,
+        "height": 52,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:1107",
+        "name": "Module / Order Summary",
+        "type": "COMPONENT",
+        "x": 1355,
+        "y": 4900,
+        "width": 505,
+        "height": 490,
+        "text_count": 10,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:1127",
+        "name": "Module / Cart items",
+        "type": "COMPONENT",
+        "x": 1960,
+        "y": 4900,
+        "width": 715,
+        "height": 544,
+        "text_count": 15,
+        "reaction_count": 3
+      },
+      {
+        "id": "12:1163",
+        "name": "Module / Dress styles",
+        "type": "COMPONENT",
+        "x": 2775,
+        "y": 4900,
+        "width": 1240,
+        "height": 590,
+        "text_count": 5,
+        "reaction_count": 2
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nSHOP.CO — fashion store website\nDesign a fashion e-commerce website: discover new arrivals and best sellers, filter a category, review a product and its customer reviews, and check the cart. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the two typefaces in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the photos, the social and payment logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Home\nGoal: Get inspired and find something to buy.\nMUST INCLUDE\n• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Brands: NORDE · ATELIER K · MONVALE · RIVA · CASSEL (as wordmarks)\n• Browse by dress style: “BROWSE BY DRESS STYLE” · Casual · Formal · Party · Gym, each with its photo (Photo_Style_Casual, Photo_Style_Formal, Photo_Style_Party, Photo_Style_Gym)\n• Customer reviews: “OUR HAPPY CUSTOMERS” · previous / next (Icon_Arrow_Left, Icon_Arrow_Right) · 3 review cards with 5-star rating, name, verified mark (Icon_Verified) and quote (see DATA)\n• Footer: see DATA (Footer)\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · no item current · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Hero: “FIND CLOTHES THAT MATCH YOUR STYLE” · copy (see DATA) · “Shop Now” · stats 200+ International Brands · 2,000+ High-Quality Products · 30,000+ Happy Customers · Photo_Hero · two Icon_Sparkle\n• New Arrivals: “NEW ARRIVALS” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA) · “View All”\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Top Selling: “TOP SELLING” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA) · “View All”\nLINKS\n→ Shop Now, View All, Casual tile → 02_Category\n→ any product card → 03_Product\n→ cart (header) → 04_Cart\n02_Category\nGoal: Filter the Casual category and pick a product.\nMUST INCLUDE\n• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Breadcrumb: Home › Casual (Icon_Chevron_Right)\n• Filters: “Filters” (Icon_Filter) · T-shirts · Shorts · Shirts · Hoodie · Jeans (Icon_Chevron_Right) · “Price” range $50 – $200 · “Colors” 10 swatches (see DATA) · selected: blue (Icon_Check) · “Size” XX-Small · X-Small · Small · Medium · Large · X-Large · XX-Large · 3X-Large · 4X-Large · selected: Large · “Dress Style” Casual · Formal · Party · Gym (Icon_Chevron_Right) · “Apply Filter”\n• Footer: see DATA (Footer)\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · current: Shop · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Pagination: “Previous” (Icon_Arrow_Left) · 1 · 2 · 3 · … · 8 · 9 · 10 · “Next” (Icon_Arrow_Right) · current: 1\n• Products: 9 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA)\n• Results header: “Casual” · “Showing 1-9 of 100 Products” · “Sort by: Most Popular” (Icon_Chevron_Down)\nLINKS\n→ any product card → 03_Product\n→ Home (breadcrumb) → 01_Home\n→ cart (header) → 04_Cart\n03_Product\nGoal: Choose color and size, read reviews and add the T-shirt to the cart.\nMUST INCLUDE\n• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Breadcrumb: Home › Shop › Men › T-shirts (Icon_Chevron_Right)\n• Footer: see DATA (Footer)\n• Gallery: Photo_One_Life_TShirt_1 (main) · thumbnails Photo_One_Life_TShirt_1, Photo_One_Life_TShirt_2, Photo_One_Life_TShirt_3 · selected: the first\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · current: Shop · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Options: “Select Colors” olive · teal · navy (see DATA) · selected: olive (Icon_Check) · “Choose Size” Small · Medium · Large · X-Large · selected: Large\n• Purchase: quantity − 1 + (Icon_Minus, Icon_Plus) · “Add to Cart”\n• Reviews: “All Reviews” (451) · filter (Icon_Filter) · sort “Latest” (Icon_Chevron_Down) · “Write a Review” · 6 review cards with rating, name, verified mark (Icon_Verified), more (Icon_More), quote and post date (see DATA) · “Load More Reviews”\n• Summary: “ONE LIFE GRAPHIC T-SHIRT” · rating 4.5/5 (Icon_Star, Icon_Star_Half) · $260 · old $300 · -13% · description (see DATA)\n• Tabs: Product Details · Rating & Reviews · FAQs · current: Rating & Reviews\n• You might also like: “YOU MIGHT ALSO LIKE” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA)\nLINKS\n→ Add to Cart → 04_Cart\n→ Shop (breadcrumb) → 02_Category\n→ product cards → 03_Product\n04_Cart\nGoal: Review the cart and its order summary.\nMUST INCLUDE\n• Announcement bar: “Sign up and get 20% off to your first order.” ·",
+  "layer_summary": {
+    "board_count": 5,
+    "boards": [
+      {
+        "name": "SHOP.CO · System",
+        "size": "1440×1100",
+        "nodes": 111,
+        "max_depth": 5,
+        "instances": 17,
+        "texts": 33,
+        "images": 0,
+        "types": [
+          "vector×45",
+          "text×33",
+          "instance×15",
+          "group×9",
+          "frame×7",
+          "component×2"
+        ],
+        "names": [
+          "Header",
+          "Announcement",
+          "Sign up and get 20% off ",
+          "Icon_Close",
+          "Vector",
+          "SHOP.CO"
+        ]
+      },
+      {
+        "name": "01_Home",
+        "size": "1440×3880",
+        "nodes": 328,
+        "max_depth": 5,
+        "instances": 99,
+        "texts": 93,
+        "images": 0,
+        "types": [
+          "vector×106",
+          "instance×99",
+          "text×93",
+          "frame×21",
+          "group×9"
+        ],
+        "names": [
+          "Header",
+          "Announcement",
+          "Sign up and get 20% off ",
+          "Icon_Close",
+          "Vector",
+          "SHOP.CO"
+        ]
+      },
+      {
+        "name": "02_Category",
+        "size": "1440×2340",
+        "nodes": 362,
+        "max_depth": 5,
+        "instances": 93,
+        "texts": 108,
+        "images": 0,
+        "types": [
+          "text×108",
+          "vector×103",
+          "instance×93",
+          "frame×49",
+          "group×9"
+        ],
+        "names": [
+          "Header / Shop current",
+          "Announcement",
+          "Sign up and get 20% off ",
+          "Icon_Close",
+          "Vector",
+          "SHOP.CO"
+        ]
+      },
+      {
+        "name": "03_Product",
+        "size": "1440×3040",
+        "nodes": 371,
+        "max_depth": 5,
+        "instances": 101,
+        "texts": 94,
+        "images": 0,
+        "types": [
+          "vector×135",
+          "instance×101",
+          "text×94",
+          "frame×32",
+          "group×9"
+        ],
+        "names": [
+          "Header / Shop current",
+          "Announcement",
+          "Sign up and get 20% off ",
+          "Icon_Close",
+          "Vector",
+          "SHOP.CO"
+        ]
+      },
+      {
+        "name": "04_Cart",
+        "size": "1440×1460",
+        "nodes": 183,
+        "max_depth": 5,
+        "instances": 34,
+        "texts": 63,
+        "images": 0,
+        "types": [
+          "text×63",
+          "vector×58",
+          "instance×34",
+          "frame×19",
+          "group×9"
+        ],
+        "names": [
+          "Header",
+          "Announcement",
+          "Sign up and get 20% off ",
+          "Icon_Close",
+          "Vector",
+          "SHOP.CO"
+        ]
+      }
+    ]
+  }
+}

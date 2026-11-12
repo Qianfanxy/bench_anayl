@@ -1,0 +1,27 @@
+[
+  {
+    "node_id": "7:22",
+    "name": "01_Wallet",
+    "file": "7-22.png"
+  },
+  {
+    "node_id": "11:23",
+    "name": "02_Discovery",
+    "file": "11-23.png"
+  },
+  {
+    "node_id": "13:36",
+    "name": "03_Strategy",
+    "file": "13-36.png"
+  },
+  {
+    "node_id": "15:48",
+    "name": "04_Invest_Amount",
+    "file": "15-48.png"
+  },
+  {
+    "node_id": "17:65",
+    "name": "05_Invest_Success",
+    "file": "17-65.png"
+  }
+]

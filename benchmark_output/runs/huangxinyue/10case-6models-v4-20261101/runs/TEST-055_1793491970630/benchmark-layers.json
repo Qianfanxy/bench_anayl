@@ -1,0 +1,154 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "instance×5",
+        "text×3",
+        "frame×2",
+        "ellipse×1",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "375×812",
+      "nodes": 64,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "instance×12",
+        "rectangle×11",
+        "frame×10",
+        "vector×4",
+        "ellipse×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "03_Wallet",
+      "size": "375×812",
+      "nodes": 61,
+      "max_depth": 3,
+      "instances": 16,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "text×21",
+        "instance×16",
+        "rectangle×13",
+        "frame×7",
+        "vector×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "04_Add_Card",
+      "size": "375×812",
+      "nodes": 74,
+      "max_depth": 4,
+      "instances": 18,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "text×22",
+        "instance×18",
+        "vector×15",
+        "rectangle×10",
+        "frame×8",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Left Icon",
+        "Vector",
+        "Title",
+        "Right Icon",
+        "Maria Visa Card"
+      ]
+    },
+    {
+      "name": "05_Payment",
+      "size": "375×812",
+      "nodes": 38,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "rectangle×10",
+        "instance×8",
+        "frame×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "name": "06_Receipt",
+      "size": "375×812",
+      "nodes": 82,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "vector×52",
+        "text×13",
+        "rectangle×7",
+        "instance×6",
+        "frame×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Notch",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    }
+  ]
+}

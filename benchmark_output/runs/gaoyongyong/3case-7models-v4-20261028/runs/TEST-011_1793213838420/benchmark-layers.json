@@ -1,0 +1,55 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Sign_Up",
+      "size": "375×812",
+      "nodes": 38,
+      "max_depth": 8,
+      "instances": 4,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "rectangle×8",
+        "frame×5",
+        "group×5",
+        "instance×4",
+        "vector×4"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "Logo",
+        "B"
+      ]
+    },
+    {
+      "name": "02_OTP",
+      "size": "375×812",
+      "nodes": 36,
+      "max_depth": 5,
+      "instances": 3,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "rectangle×8",
+        "frame×8",
+        "instance×3",
+        "ellipse×3",
+        "vector×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Rectangle",
+        "Ellipse",
+        "Back",
+        "Icon_Back"
+      ]
+    }
+  ]
+}
