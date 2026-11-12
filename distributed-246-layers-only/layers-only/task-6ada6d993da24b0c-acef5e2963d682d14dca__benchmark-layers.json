@@ -1,0 +1,248 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Sign_Up",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "By signing up, you agree",
+        "balance",
+        "Frame",
+        "Sign up"
+      ]
+    },
+    {
+      "name": "02_OTP",
+      "size": "375×812",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "frame×8",
+        "instance×5",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "By signing up, you agree",
+        "Icon_Back",
+        "OTP",
+        "Avatar_Neutral"
+      ]
+    },
+    {
+      "name": "03_Home_My_Balance",
+      "size": "375×812",
+      "nodes": 77,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 39,
+      "images": 0,
+      "types": [
+        "text×39",
+        "frame×24",
+        "instance×14"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Account",
+        "Frame",
+        "My Balance",
+        "Upcoming Bills"
+      ]
+    },
+    {
+      "name": "04_Home_Upcoming_Bills",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×8",
+        "text×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Account",
+        "Frame",
+        "My Balance",
+        "Upcoming Bills"
+      ]
+    },
+    {
+      "name": "05_Home_Transactions",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×8",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Account",
+        "Frame",
+        "My Balance",
+        "Upcoming Bills"
+      ]
+    },
+    {
+      "name": "06_Discussion_Forum",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×6",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Discussion Forum",
+        "Icon_Message",
+        "Icon_Bell"
+      ]
+    },
+    {
+      "name": "07_Cards",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×7",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Cards",
+        "Avatar_Neutral",
+        "Icon_More_Horizontal"
+      ]
+    },
+    {
+      "name": "08_Profile",
+      "size": "375×812",
+      "nodes": 34,
+      "max_depth": 1,
+      "instances": 15,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×15",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Profile",
+        "Icon_Message",
+        "Icon_Bell"
+      ]
+    },
+    {
+      "name": "09_Analytics",
+      "size": "375×812",
+      "nodes": 39,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "text×20",
+        "frame×10",
+        "instance×6",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Analytics",
+        "Avatar_Neutral",
+        "Icon_More_Horizontal"
+      ]
+    },
+    {
+      "name": "10_Markets",
+      "size": "375×812",
+      "nodes": 82,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "frame×46",
+        "text×26",
+        "instance×10"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Markets",
+        "Avatar_Neutral",
+        "Crypto_Bitcoin"
+      ]
+    },
+    {
+      "name": "11_Send",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 19,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×5",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Send",
+        "Avatar_Neutral",
+        "Frame"
+      ]
+    }
+  ]
+}

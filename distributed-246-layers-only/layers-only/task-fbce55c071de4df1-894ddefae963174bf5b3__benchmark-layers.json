@@ -1,0 +1,249 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Sign_Up",
+      "size": "375×812",
+      "nodes": 21,
+      "max_depth": 5,
+      "instances": 4,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "frame×6",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Content",
+        "Frame",
+        "Sign up",
+        "Sign up with phone numbe"
+      ]
+    },
+    {
+      "name": "02_OTP",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "frame×9",
+        "text×6",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Back",
+        "Back",
+        "Frame"
+      ]
+    },
+    {
+      "name": "03_Home_My_Balance",
+      "size": "375×812",
+      "nodes": 90,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 34,
+      "images": 0,
+      "types": [
+        "frame×45",
+        "text×34",
+        "instance×11"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Account",
+        "Frame",
+        "Avatar_Neutral",
+        "Hi, Esaaa!"
+      ]
+    },
+    {
+      "name": "04_Home_Upcoming_Bills",
+      "size": "375×812",
+      "nodes": 58,
+      "max_depth": 5,
+      "instances": 12,
+      "texts": 23,
+      "images": 0,
+      "types": [
+        "frame×23",
+        "text×23",
+        "instance×12"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Frame",
+        "Avatar_Neutral",
+        "Hi, Esaaa!",
+        "Icon_Message"
+      ]
+    },
+    {
+      "name": "05_Home_Transactions",
+      "size": "375×812",
+      "nodes": 63,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "text×29",
+        "frame×22",
+        "instance×12"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Frame",
+        "Avatar_Neutral",
+        "Hi, Esaaa!",
+        "Icon_Message"
+      ]
+    },
+    {
+      "name": "07_Cards",
+      "size": "375×812",
+      "nodes": 58,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "frame×22",
+        "text×22",
+        "instance×14"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Frame",
+        "Icon_Back",
+        "Cards",
+        "Avatar_Neutral"
+      ]
+    },
+    {
+      "name": "06_Discussion_Forum",
+      "size": "375×812",
+      "nodes": 49,
+      "max_depth": 3,
+      "instances": 19,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×17",
+        "frame×13"
+      ],
+      "names": [
+        "Status Bar",
+        "hdr",
+        "Icon_Back",
+        "Discussion Forum",
+        "rgt",
+        "Icon_Message"
+      ]
+    },
+    {
+      "name": "08_Profile",
+      "size": "375×812",
+      "nodes": 35,
+      "max_depth": 2,
+      "instances": 15,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×15",
+        "frame×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "hdr",
+        "Icon_Back",
+        "Profile",
+        "Icon_Message"
+      ]
+    },
+    {
+      "name": "09_Analytics",
+      "size": "375×812",
+      "nodes": 43,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "text×20",
+        "frame×9",
+        "instance×7",
+        "ellipse×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "hdr",
+        "Icon_Back",
+        "Analytics",
+        "Avatar_Neutral"
+      ]
+    },
+    {
+      "name": "10_Markets",
+      "size": "375×812",
+      "nodes": 75,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 38,
+      "images": 0,
+      "types": [
+        "text×38",
+        "rectangle×16",
+        "frame×13",
+        "instance×8"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Markets",
+        "Avatar_Neutral",
+        "Crypto_Bitcoin"
+      ]
+    },
+    {
+      "name": "11_Send",
+      "size": "375×812",
+      "nodes": 37,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "text×17",
+        "frame×14",
+        "instance×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Send",
+        "Avatar_Neutral",
+        "recipient"
+      ]
+    }
+  ]
+}

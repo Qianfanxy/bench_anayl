@@ -1,0 +1,11 @@
+model,low,low|not_set,no trajectory,not_set
+DeepSeek V4 Flash,26,5,0,5
+Fable 5.1,6,1,0,6
+GLM-5.3 Flash,8,1,0,4
+GPT 6.1 Sol,39,0,1,2
+Gemini 3.5 Flash,7,3,0,3
+Kimi K3,8,2,0,3
+Opus 5.5（三方A）,2,1,0,10
+Qwen 3.8 Max,35,2,0,0
+Sonnet 5.5,26,2,0,14
+gpt-6-astra,0,0,1,12

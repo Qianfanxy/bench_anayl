@@ -1,0 +1,7 @@
+rule,fail_this_rule,newly_excluded,remaining
+R1 finished,11,11,409
+R2 score is of the final artifact,38,27,382
+R3 cost attributable to judged file,31,26,356
+R4 token count verified by trajectory,49,26,330
+R5 no material infra failures,35,26,304
+R6 trajectory available,10,2,302

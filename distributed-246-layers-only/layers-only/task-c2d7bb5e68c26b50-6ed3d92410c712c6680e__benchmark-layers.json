@@ -1,0 +1,136 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Aktivitas",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 16,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Header/App",
+        "Content",
+        "Balance Card",
+        "SectionHeader",
+        "Section Header"
+      ]
+    },
+    {
+      "name": "02_Trending",
+      "size": "375×812",
+      "nodes": 39,
+      "max_depth": 4,
+      "instances": 28,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×28",
+        "frame×9",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header/App",
+        "Content",
+        "IndicesRow",
+        "Index Card",
+        "MarketTabs"
+      ]
+    },
+    {
+      "name": "03_Detail_Saham",
+      "size": "375×812",
+      "nodes": 43,
+      "max_depth": 5,
+      "instances": 28,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×28",
+        "frame×10",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Header/Detail",
+        "Content",
+        "StockInfo",
+        "LogoWrap",
+        "Logo_GOTO"
+      ]
+    },
+    {
+      "name": "04_Top_Up_Metode",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×3",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header/Back Help",
+        "Content",
+        "BalanceStrip",
+        "Label",
+        "Amount"
+      ]
+    },
+    {
+      "name": "05_Top_Up_Nominal",
+      "size": "375×812",
+      "nodes": 32,
+      "max_depth": 5,
+      "instances": 17,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "frame×10",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Header/Back Help",
+        "Content",
+        "Frame",
+        "Dana Saya",
+        "Rp2.125.000"
+      ]
+    },
+    {
+      "name": "06_Top_Up_Pembayaran",
+      "size": "375×812",
+      "nodes": 50,
+      "max_depth": 6,
+      "instances": 7,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "frame×22",
+        "text×21",
+        "instance×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Frame",
+        "Selesaikan Pembayaran",
+        "Silakan selesaikan prose",
+        "Content",
+        "Payment Row"
+      ]
+    }
+  ]
+}

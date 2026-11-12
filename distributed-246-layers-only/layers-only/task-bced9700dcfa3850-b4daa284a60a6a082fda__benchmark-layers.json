@@ -1,0 +1,50 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1920×6024",
+      "nodes": 47,
+      "max_depth": 5,
+      "instances": 22,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×22",
+        "frame×18",
+        "text×4",
+        "ellipse×3"
+      ],
+      "names": [
+        "Header/Home",
+        "HeroSection",
+        "Hero",
+        "BrandSection",
+        "BrandStrip",
+        "CollectionSection"
+      ]
+    },
+    {
+      "name": "02_Shop",
+      "size": "1920×322",
+      "nodes": 8,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×3",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Header/Store",
+        "TitleSection",
+        "Fashion",
+        "Breadcrumb",
+        "Home",
+        "Icon_Chevron_Right"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Check_In",
+      "size": "390×844",
+      "nodes": 19,
+      "max_depth": 4,
+      "instances": 7,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "frame×8",
+        "instance×7",
+        "text×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "ambient glow",
+        "Content",
+        "Brand Lockup",
+        "spacer",
+        "Heading",
+        "Body"
+      ]
+    },
+    {
+      "name": "02_Stress_Sources",
+      "size": "390×844",
+      "nodes": 20,
+      "max_depth": 4,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "frame×8",
+        "instance×8",
+        "text×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "ambient glow",
+        "Content",
+        "Onboarding Header",
+        "Back",
+        "icon",
+        "Onboarding Progress"
+      ]
+    },
+    {
+      "name": "03_Today",
+      "size": "390×844",
+      "nodes": 22,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×8",
+        "text×1"
+      ],
+      "names": [
+        "Content",
+        "Today Header",
+        "spacer",
+        "Mood Check",
+        "Mood question",
+        "Face Row"
+      ]
+    },
+    {
+      "name": "04_Focus_Session",
+      "size": "390×844",
+      "nodes": 14,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×5",
+        "text×2"
+      ],
+      "names": [
+        "Content",
+        "Rain Sounds chip",
+        "spacer",
+        "Breathing Circle",
+        "Timer",
+        "Timer label"
+      ]
+    },
+    {
+      "name": "08_Campus_Support",
+      "size": "390×1195",
+      "nodes": 30,
+      "max_depth": 5,
+      "instances": 12,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "frame×13",
+        "instance×12",
+        "text×5"
+      ],
+      "names": [
+        "Content",
+        "Intro",
+        "Logo_MindfulMentor",
+        "t",
+        "Heading",
+        "Body"
+      ]
+    },
+    {
+      "name": "09_Exam_Mode",
+      "size": "390×911",
+      "nodes": 26,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×10",
+        "text×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "ambient glow",
+        "Content",
+        "Brand Lockup",
+        "spacer",
+        "Status Chip",
+        "Heading"
+      ]
+    },
+    {
+      "name": "10_Immediate_Support",
+      "size": "390×885",
+      "nodes": 22,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "frame×9",
+        "instance×9",
+        "text×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "ambient glow",
+        "Content",
+        "Logo_MindfulMentor",
+        "spacer",
+        "Heading",
+        "Body"
+      ]
+    },
+    {
+      "name": "11_Your_Journey",
+      "size": "390×1267",
+      "nodes": 35,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "frame×16",
+        "instance×13",
+        "text×6"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "t",
+        "Heading",
+        "Body",
+        "Avatar_Alex"
+      ]
+    },
+    {
+      "name": "12_Micro_Exercises",
+      "size": "390×1039",
+      "nodes": 30,
+      "max_depth": 4,
+      "instances": 16,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "frame×12",
+        "text×2"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "t",
+        "Overline",
+        "Heading",
+        "Logo_MindfulMentor"
+      ]
+    },
+    {
+      "name": "05_Reflect",
+      "size": "390×844",
+      "nodes": 25,
+      "max_depth": 4,
+      "instances": 10,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "frame×10",
+        "instance×10",
+        "text×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "ambient glow",
+        "Content",
+        "Badge with star",
+        "Logo_MindfulMentor_Badge",
+        "star",
+        "Icon_Star"
+      ]
+    },
+    {
+      "name": "06_Growth_Insights",
+      "size": "390×1164",
+      "nodes": 20,
+      "max_depth": 4,
+      "instances": 10,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×8",
+        "text×2"
+      ],
+      "names": [
+        "Content",
+        "Intro",
+        "Logo_MindfulMentor",
+        "t",
+        "Heading",
+        "Body"
+      ]
+    },
+    {
+      "name": "07_Your_Routine",
+      "size": "390×1172",
+      "nodes": 42,
+      "max_depth": 5,
+      "instances": 12,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "frame×18",
+        "instance×12",
+        "text×11",
+        "rectangle×1"
+      ],
+      "names": [
+        "Content",
+        "Intro",
+        "Logo_MindfulMentor",
+        "t",
+        "Heading",
+        "Body"
+      ]
+    }
+  ]
+}

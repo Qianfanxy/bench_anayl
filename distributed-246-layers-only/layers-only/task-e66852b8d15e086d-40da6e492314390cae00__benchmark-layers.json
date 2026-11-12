@@ -1,0 +1,137 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "414×896",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×3",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Splash BG",
+        "Nectar_Logo_White"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "414×896",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Nectar_Carrot",
+        "Photo_Welcome_Delivery",
+        "Welcome to our store",
+        "Get your groceries in as"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "414×896",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "text×6",
+        "instance×4",
+        "rectangle×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Get your groceries with ",
+        "Rectangle",
+        "Flag_Bangladesh",
+        "+880"
+      ]
+    },
+    {
+      "name": "04_Verification",
+      "size": "414×896",
+      "nodes": 20,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "rectangle×8",
+        "instance×3"
+      ],
+      "names": [
+        "Rectangle",
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Chevron_Right",
+        "Verification",
+        "Enter your 4-digit code"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "414×896",
+      "nodes": 78,
+      "max_depth": 4,
+      "instances": 15,
+      "texts": 39,
+      "images": 0,
+      "types": [
+        "text×39",
+        "rectangle×18",
+        "instance×14",
+        "vector×4",
+        "frame×1",
+        "component×1"
+      ],
+      "names": [
+        "Rectangle",
+        "Status Bar",
+        "Home Indicator",
+        "tile",
+        "Icon_Explore",
+        "Group 3"
+      ]
+    },
+    {
+      "name": "06_Product_Detail",
+      "size": "414×896",
+      "nodes": 26,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "rectangle×6",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Chevron_Right",
+        "Product Detail",
+        "Rectangle",
+        "Product_Red_Apple"
+      ]
+    }
+  ]
+}

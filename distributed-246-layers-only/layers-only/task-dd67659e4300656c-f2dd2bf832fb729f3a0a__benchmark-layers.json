@@ -1,0 +1,246 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "414×932",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 1,
+      "images": 1,
+      "types": [
+        "ellipse×2",
+        "rectangle×2",
+        "instance×2",
+        "rectangle-image×1",
+        "text×1"
+      ],
+      "names": [
+        "Decor 1",
+        "Decor 2",
+        "Paradise_Group_Logo",
+        "Wordmark",
+        "Loader track",
+        "Loader progress"
+      ]
+    },
+    {
+      "name": "02_Welcome",
+      "size": "414×932",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 2,
+      "images": 1,
+      "types": [
+        "instance×4",
+        "text×2",
+        "ellipse×1",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Decor",
+        "Welcome_Illustration",
+        "Headline",
+        "Body"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Empty",
+      "size": "414×932",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Back button",
+        "Title",
+        "Subtitle",
+        "Form",
+        "Email address field"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Filled",
+      "size": "414×932",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Back button",
+        "Title",
+        "Subtitle",
+        "Form",
+        "Email address field"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Error",
+      "size": "414×932",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Back button",
+        "Title",
+        "Subtitle",
+        "Form",
+        "Email address field"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "414×1139",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 15,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Menu button",
+        "Greeting",
+        "Notification button",
+        "Portfolio Card",
+        "Invest now button"
+      ]
+    },
+    {
+      "name": "05_My_Asset_Overlay",
+      "size": "414×932",
+      "nodes": 30,
+      "max_depth": 2,
+      "instances": 24,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×24",
+        "frame×2",
+        "text×2",
+        "rectangle×2"
+      ],
+      "names": [
+        "Home (behind)",
+        "Status Bar",
+        "Menu button",
+        "Greeting",
+        "Notification button",
+        "Portfolio Card"
+      ]
+    },
+    {
+      "name": "06_Notification",
+      "size": "414×932",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Notification 30 secs ago",
+        "Notification 3 min ago",
+        "Notification 15 min ago"
+      ]
+    },
+    {
+      "name": "07_Profile",
+      "size": "414×932",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Title",
+        "Account summary",
+        "Avatar",
+        "Name",
+        "Level tag"
+      ]
+    },
+    {
+      "name": "08_Contact_Info",
+      "size": "414×932",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Avatar block",
+        "Avatar",
+        "Edit avatar button"
+      ]
+    },
+    {
+      "name": "09_Bank_Account_Info",
+      "size": "414×932",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Bank Bank of America",
+        "Bank Zenith Bank",
+        "Add account button"
+      ]
+    }
+  ]
+}

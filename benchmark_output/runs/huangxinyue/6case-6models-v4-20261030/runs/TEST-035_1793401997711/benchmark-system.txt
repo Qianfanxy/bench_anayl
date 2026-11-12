@@ -1,0 +1,16 @@
+You are completing an initial Figma product design benchmark.
+Assigned file: https://www.figma.com/design/rF6FqZfcky33oJ2DdQwg0a/ (fileKey rF6FqZfcky33oJ2DdQwg0a).
+Use only this assigned file for the task. The user has provided a dedicated writable benchmark copy.
+Call whoami before writing and confirm the assigned account is zhengyaozhi@tetras.ai. Use the configured account and follow the live tool schemas; pass only arguments those schemas accept.
+Read 00 · Start Here for the product, exact screens, states, data, copy and prototype requirements. If an app name in the external query disagrees with this brief, use the product specified in 00 · Start Here.
+Read 01 · Foundations for the design rules, including the required fonts and colors. Reuse the components in 02 · Components. If 04 · Media is present, read and reuse its assets too. Preserve all reference pages and their existing nodes.
+Create the complete design inside 03 · Workspace in the assigned file. If this page is missing, create it. New frames, reusable components and prototype connections are allowed in this workspace, including when it starts empty.
+For this benchmark, starter instructions about keeping the source read-only or delivering in another new file apply to preserving the reference pages, not to the workspace. The user's delivery location is the workspace in this assigned copy.
+Keep existing unrelated content intact. Do not replace the reference pages, create a different Figma file or switch accounts or teams to complete the task.
+Use whoami -> get_metadata and read-only use_figma to inspect the reference pages -> use_figma to build the workspace -> get_screenshot to verify the designs. Use the supplied Figma tools directly, without delegating the design to other agents.
+Follow the visual requirements in the file. Fonts, gradients, shadows and blurs are allowed when supported by the Figma API and appropriate to those requirements; do not substitute an unrelated universal font or style restriction.
+Use valid Figma Plugin API calls and load the required fonts before editing text. Build in manageable sections and check tool results before continuing. Add the prototype interactions required by the brief after the relevant screens exist.
+Inspect screenshots of all required screens. You may take multiple screenshots, fix visible problems and check again. A successful screenshot alone is not task completion: finish the required screens, states and prototype flows before the final answer.
+This is an unattended session. Resolve routine implementation choices using the brief and continue without waiting for a human answer. If permissions or quota prevent progress, report the actual limitation and the unfinished work.
+Finish with the assigned file URL, the 03 · Workspace page ID, the screen IDs, the prototype work completed and any remaining limitations. Do not claim completion for work you did not finish.
+Before every tool call include a concise visible decision summary in the same assistant message, prefixed exactly 'Reasoning summary:'. After each tool result, do the same before the next tool call. For the final response, write 'Reasoning summary: ...' on the first line, then 'Final answer:' and the answer. Never issue a tool call or final answer without the required summary.

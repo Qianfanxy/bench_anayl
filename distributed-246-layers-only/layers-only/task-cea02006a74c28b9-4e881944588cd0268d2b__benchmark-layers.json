@@ -1,0 +1,223 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "390×844",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "text×6",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "FinX",
+        "BANKING, BETTER.",
+        "Illustration_Welcome",
+        "Manage your finances sim"
+      ]
+    },
+    {
+      "name": "02_Photo_ID",
+      "size": "390×844",
+      "nodes": 12,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×4",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Photo ID Card",
+        "Please point the camera ",
+        "Frame"
+      ]
+    },
+    {
+      "name": "03_Bank_Home",
+      "size": "390×844",
+      "nodes": 19,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×6",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / FinX",
+        "Payment card",
+        "See all",
+        "Payment card / 0"
+      ]
+    },
+    {
+      "name": "04_Bank_Transactions",
+      "size": "390×844",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Transactions",
+        "Total balance",
+        "Weekly spending / Thu se",
+        "Monthly budget"
+      ]
+    },
+    {
+      "name": "05_Profile",
+      "size": "390×844",
+      "nodes": 20,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "frame×3",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Profile",
+        "Avatar_User",
+        "Frame",
+        "Icon_Edit"
+      ]
+    },
+    {
+      "name": "06_XTrade_Welcome",
+      "size": "390×844",
+      "nodes": 12,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×5",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "FinX",
+        "Frame",
+        "X",
+        "Coin_BTC"
+      ]
+    },
+    {
+      "name": "07_Trade_Home",
+      "size": "390×844",
+      "nodes": 22,
+      "max_depth": 1,
+      "instances": 15,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×4",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Avatar_User",
+        "Text Field",
+        "Icon_Scan",
+        "Icon_Notification"
+      ]
+    },
+    {
+      "name": "08_Market",
+      "size": "390×844",
+      "nodes": 19,
+      "max_depth": 1,
+      "instances": 15,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Market",
+        "Text Field",
+        "Market tabs / Favorites",
+        "Coin / 24h volume"
+      ]
+    },
+    {
+      "name": "09_Exchange_Stock",
+      "size": "390×844",
+      "nodes": 14,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Exchange",
+        "Stock side / Buy",
+        "Stock from / AAPL",
+        "Frame"
+      ]
+    },
+    {
+      "name": "10_Exchange_Crypto",
+      "size": "390×844",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Exchange",
+        "Pair / BTC USDT",
+        "View / Orderbook",
+        "BTC orderbook"
+      ]
+    }
+  ]
+}

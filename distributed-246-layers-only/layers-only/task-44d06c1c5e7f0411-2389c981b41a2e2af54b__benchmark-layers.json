@@ -1,0 +1,197 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×3950",
+      "nodes": 346,
+      "max_depth": 8,
+      "instances": 41,
+      "texts": 77,
+      "images": 0,
+      "types": [
+        "vector×111",
+        "text×77",
+        "group×65",
+        "frame×52",
+        "component×41"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "NavAndButton",
+        "Home",
+        "Blog",
+        "About Us"
+      ]
+    },
+    {
+      "name": "02_Blog",
+      "size": "1440×3100",
+      "nodes": 150,
+      "max_depth": 8,
+      "instances": 18,
+      "texts": 52,
+      "images": 0,
+      "types": [
+        "text×52",
+        "frame×31",
+        "vector×29",
+        "group×20",
+        "component×18"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "NavAndButton",
+        "Home",
+        "Blog",
+        "About Us"
+      ]
+    },
+    {
+      "name": "03_Blog_Post",
+      "size": "1440×2750",
+      "nodes": 118,
+      "max_depth": 7,
+      "instances": 14,
+      "texts": 48,
+      "images": 0,
+      "types": [
+        "text×48",
+        "frame×26",
+        "vector×18",
+        "component×14",
+        "group×12"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "NavAndButton",
+        "Home",
+        "Blog",
+        "About Us"
+      ]
+    },
+    {
+      "name": "04_About_Us",
+      "size": "1440×3500",
+      "nodes": 316,
+      "max_depth": 9,
+      "instances": 51,
+      "texts": 58,
+      "images": 0,
+      "types": [
+        "group×81",
+        "vector×81",
+        "text×58",
+        "component×51",
+        "frame×45"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "NavAndButton",
+        "Home",
+        "Blog",
+        "About Us"
+      ]
+    },
+    {
+      "name": "05_Category_Business",
+      "size": "1440×1600",
+      "nodes": 142,
+      "max_depth": 9,
+      "instances": 14,
+      "texts": 44,
+      "images": 0,
+      "types": [
+        "text×44",
+        "frame×35",
+        "vector×29",
+        "group×20",
+        "component×14"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "NavAndButton",
+        "Home",
+        "Blog",
+        "About Us"
+      ]
+    },
+    {
+      "name": "06_Author",
+      "size": "1440×1500",
+      "nodes": 94,
+      "max_depth": 7,
+      "instances": 14,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "text×26",
+        "frame×18",
+        "group×18",
+        "vector×18",
+        "component×14"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "NavAndButton",
+        "Home",
+        "Blog",
+        "About Us"
+      ]
+    },
+    {
+      "name": "07_Contact",
+      "size": "1440×1500",
+      "nodes": 76,
+      "max_depth": 7,
+      "instances": 11,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "text×31",
+        "frame×16",
+        "component×11",
+        "group×9",
+        "vector×9"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "NavAndButton",
+        "Home",
+        "Blog",
+        "About Us"
+      ]
+    },
+    {
+      "name": "08_Privacy_Policy",
+      "size": "1440×1200",
+      "nodes": 61,
+      "max_depth": 7,
+      "instances": 7,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "frame×12",
+        "group×9",
+        "vector×9",
+        "component×7"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "NavAndButton",
+        "Home",
+        "Blog",
+        "About Us"
+      ]
+    }
+  ]
+}

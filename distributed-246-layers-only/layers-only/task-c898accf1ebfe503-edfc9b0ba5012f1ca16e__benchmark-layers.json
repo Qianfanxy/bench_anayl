@@ -1,0 +1,283 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Check_In",
+      "size": "390×844",
+      "nodes": 24,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "instance×7",
+        "frame×4",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_MindfulMentor",
+        "Brand",
+        "Heading",
+        "Body"
+      ]
+    },
+    {
+      "name": "02_Stress_Sources",
+      "size": "390×844",
+      "nodes": 26,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×6",
+        "frame×6",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Skip",
+        "Rectangle",
+        "Logo_MindfulMentor"
+      ]
+    },
+    {
+      "name": "03_Today",
+      "size": "390×844",
+      "nodes": 51,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "instance×12",
+        "frame×10",
+        "ellipse×9",
+        "vector×1",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Eyebrow",
+        "Greeting",
+        "BellBtn",
+        "notifications"
+      ]
+    },
+    {
+      "name": "04_Focus_Session",
+      "size": "390×844",
+      "nodes": 25,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×6",
+        "frame×5",
+        "ellipse×4",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Frame",
+        "Close",
+        "DEEP FOCUS",
+        "Session 4 of 10"
+      ]
+    },
+    {
+      "name": "05_Reflect",
+      "size": "390×844",
+      "nodes": 26,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×8",
+        "frame×5",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Close",
+        "More",
+        "Logo_MindfulMentor_Badge",
+        "Icon_Star"
+      ]
+    },
+    {
+      "name": "06_Growth_Insights",
+      "size": "390×1180",
+      "nodes": 58,
+      "max_depth": 5,
+      "instances": 10,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "text×22",
+        "frame×13",
+        "instance×10",
+        "ellipse×7",
+        "rectangle×4",
+        "vector×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Growth Insights",
+        "More",
+        "Logo_MindfulMentor"
+      ]
+    },
+    {
+      "name": "07_Your_Routine",
+      "size": "390×1010",
+      "nodes": 67,
+      "max_depth": 4,
+      "instances": 14,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "frame×31",
+        "text×20",
+        "instance×14",
+        "ellipse×2"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Back",
+        "Logo_MindfulMentor",
+        "Your Routine",
+        "Spacer"
+      ]
+    },
+    {
+      "name": "08_Campus_Support",
+      "size": "390×1030",
+      "nodes": 41,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "frame×16",
+        "instance×13",
+        "text×12"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Back",
+        "T8Sp",
+        "MindfulMentor",
+        "T8Sp2"
+      ]
+    },
+    {
+      "name": "09_Exam_Mode",
+      "size": "390×900",
+      "nodes": 45,
+      "max_depth": 4,
+      "instances": 7,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "frame×17",
+        "instance×7",
+        "ellipse×2"
+      ],
+      "names": [
+        "Header",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "ExamModeChip",
+        "Ellipse",
+        "EXAM MODE ACTIVE"
+      ]
+    },
+    {
+      "name": "10_Immediate_Support",
+      "size": "390×900",
+      "nodes": 25,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×8",
+        "frame×7"
+      ],
+      "names": [
+        "Logo_MindfulMentor",
+        "We’re here with you.",
+        "Take a breath. You are s",
+        "Start Grounding",
+        "Icon_Play_Small",
+        "3-minute calming exercis"
+      ]
+    },
+    {
+      "name": "11_Your_Journey",
+      "size": "390×1240",
+      "nodes": 84,
+      "max_depth": 4,
+      "instances": 7,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "rectangle×31",
+        "text×26",
+        "frame×20",
+        "instance×7"
+      ],
+      "names": [
+        "Header",
+        "H11Texts",
+        "Your Journey",
+        "Reflect on your emotiona",
+        "H11Sp",
+        "Avatar_Alex"
+      ]
+    },
+    {
+      "name": "12_Micro_Exercises",
+      "size": "390×1080",
+      "nodes": 29,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "frame×9",
+        "text×6"
+      ],
+      "names": [
+        "Header",
+        "H12Texts",
+        "MICRO-EXERCISES",
+        "How are you feeling righ",
+        "H12Sp",
+        "Logo_MindfulMentor"
+      ]
+    }
+  ]
+}

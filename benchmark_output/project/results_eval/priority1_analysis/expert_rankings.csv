@@ -1,0 +1,253 @@
+﻿case_id,title,reviewer,model,rank,arena_run_id,score,strict_case
+10case-case-006,Payment Wallet,R1,Opus,1,run_73ea523f788f4578,52,True
+10case-case-006,Payment Wallet,R1,GPT,2,run_e7f5b7ed481d4eeb,50,True
+10case-case-006,Payment Wallet,R1,Fable,4,run_a94a69d7e4c54858,45,True
+10case-case-006,Payment Wallet,R1,GLM,3,run_e1cec9b8b6a8494b,48,True
+10case-case-006,Payment Wallet,R1,Kimi,5,run_f58f8e44319942a5,43,True
+10case-case-006,Payment Wallet,R1,Gemini,6,run_06114690eab7480f,38,True
+3case-case-001,Balance,R1,Opus,3,run_3c27c3d669e34617,48,False
+3case-case-001,Balance,R1,GPT,2,run_4d512be0f19a4e92,42,False
+3case-case-001,Balance,R1,Fable,1,run_c78bec7abd6742e8,36,False
+3case-case-001,Balance,R1,GLM,6,run_8abc16b93f22483c,32,False
+3case-case-001,Balance,R1,Kimi,4,run_f5c54e2727ab4bcb,33,False
+3case-case-001,Balance,R1,Gemini,5,run_d746d3b2f13b4aeb,35,False
+3case-case-002,Paradise Invest,R1,Opus,1,run_fc248e6f539d499c,47,True
+3case-case-002,Paradise Invest,R1,GPT,3,run_9f36a4040a4a4a84,45,True
+3case-case-002,Paradise Invest,R1,Fable,2,run_8ceac755cb4a48e7,40,True
+3case-case-002,Paradise Invest,R1,GLM,4,run_f27714f101c44b35,44,True
+3case-case-002,Paradise Invest,R1,Kimi,5,run_91e7c4cd3d0e46bf,40,True
+3case-case-002,Paradise Invest,R1,Gemini,6,run_a2a5878bc3414b7f,39,True
+3case-case-003,Foodgo,R1,Opus,1,run_8cdc1d6de469473b,46,True
+3case-case-003,Foodgo,R1,GPT,3,run_01019aef99dc4dbb,37,True
+3case-case-003,Foodgo,R1,Fable,2,run_548c122a102f458e,41,True
+3case-case-003,Foodgo,R1,GLM,4,run_d7598f4eed634d17,38,True
+3case-case-003,Foodgo,R1,Kimi,5,run_489707d8aba84aad,38,True
+3case-case-003,Foodgo,R1,Gemini,6,run_4f19ec34e95247ee,36,True
+6case-case-001,StockWave,R1,Opus,1,run_3cd3a95545ef4da3,45,True
+6case-case-001,StockWave,R1,GPT,2,run_4f9446f398ba4022,42,True
+6case-case-001,StockWave,R1,Fable,3,run_9ed244fb744d4338,44,True
+6case-case-001,StockWave,R1,GLM,4,run_5d0ba1fcfc644339,40,True
+6case-case-001,StockWave,R1,Kimi,5,run_c7ca5a285c8f4345,39,True
+6case-case-001,StockWave,R1,Gemini,6,run_899c2fa579964719,40,True
+6case-case-002,Nectar,R1,Opus,1,run_22738d74fd994327,47,True
+6case-case-002,Nectar,R1,GPT,2,run_a6e0a6a0756a4ac0,46,True
+6case-case-002,Nectar,R1,Fable,4,run_d01ea21a16fb4203,38,True
+6case-case-002,Nectar,R1,GLM,3,run_f024d96282944413,44,True
+6case-case-002,Nectar,R1,Kimi,5,run_08e6fa72ab264fc1,41,True
+6case-case-002,Nectar,R1,Gemini,6,run_211e792b304f4735,38,True
+6case-case-003,Stylish,R1,Opus,1,run_c9780c2cfa9f43c3,42,True
+6case-case-003,Stylish,R1,GPT,4,run_25056fae2f754984,36,True
+6case-case-003,Stylish,R1,Fable,2,run_ce4149fad6a64a79,35,True
+6case-case-003,Stylish,R1,GLM,3,run_754970d9eda9486d,35,True
+6case-case-003,Stylish,R1,Kimi,5,run_b3a9011569f3435a,31,True
+6case-case-003,Stylish,R1,Gemini,6,run_611abffe5f0c4390,29,True
+web10-case-010,ABM Developer Portfolio,R1,Opus,2,run_f02d691e66914a55,53,False
+web10-case-010,ABM Developer Portfolio,R1,GPT,5,run_bea3e34ae14c4137,49,False
+web10-case-010,ABM Developer Portfolio,R1,Fable,1,run_583de8ba1388437a,51,False
+web10-case-010,ABM Developer Portfolio,R1,GLM,4,run_027b3bbf9aaf4817,53,False
+web10-case-010,ABM Developer Portfolio,R1,Kimi,3,run_1a201ef501a74732,52,False
+web10-case-010,ABM Developer Portfolio,R1,Gemini,6,run_c5bbee48e4b14c54,0,False
+web10-case-009,Deniz Arslan 3D Portfolio,R1,Opus,2,run_8981551319e74fc4,50,True
+web10-case-009,Deniz Arslan 3D Portfolio,R1,GPT,1,run_7f4480f8cbd847cf,48,True
+web10-case-009,Deniz Arslan 3D Portfolio,R1,Fable,4,run_a9ee9f7670fb4d29,47,True
+web10-case-009,Deniz Arslan 3D Portfolio,R1,GLM,5,run_276d9cbdacb64cb2,43,True
+web10-case-009,Deniz Arslan 3D Portfolio,R1,Kimi,3,run_0fa58854c3794db7,48,True
+web10-case-009,Deniz Arslan 3D Portfolio,R1,Gemini,6,run_3c29be2d077247a3,37,True
+web10-case-008,MAC Agency,R1,Opus,2,run_2798e08e8cce4886,48,True
+web10-case-008,MAC Agency,R1,GPT,1,run_099c0c4864334020,47,True
+web10-case-008,MAC Agency,R1,Fable,5,run_ea029fe2e4b043a4,38,True
+web10-case-008,MAC Agency,R1,GLM,3,run_e6b07d6550014dc3,47,True
+web10-case-008,MAC Agency,R1,Kimi,4,run_377167f1c0b64a47,42,True
+web10-case-008,MAC Agency,R1,Gemini,6,run_caf9be5ad6d843eb,32,True
+web10-case-007,Foodwagon,R1,Opus,1,run_40f750fb59844d84,50,True
+web10-case-007,Foodwagon,R1,GPT,4,run_2d0ac63d91f6414b,49,True
+web10-case-007,Foodwagon,R1,Fable,5,run_b979dfa7bcac4070,43,True
+web10-case-007,Foodwagon,R1,GLM,3,run_ed0ad56840d54123,46,True
+web10-case-007,Foodwagon,R1,Kimi,2,run_a74c1d021d8340a5,48,True
+web10-case-007,Foodwagon,R1,Gemini,6,run_4cc0363f14fb41a1,30,True
+web10-case-006,Octom,R1,Opus,3,run_051e31238ad94573,50,True
+web10-case-006,Octom,R1,GPT,2,run_337a804002bd408c,48,True
+web10-case-006,Octom,R1,Fable,1,run_456e2a0ef2b3463f,43,True
+web10-case-006,Octom,R1,GLM,4,run_b09bd6ade0f04a17,48,True
+web10-case-006,Octom,R1,Kimi,5,run_e6aa812b7a6843fe,41,True
+web10-case-006,Octom,R1,Gemini,6,run_9360e4c906d34394,29,True
+web10-case-005,Northgate Homes,R1,Opus,1,run_952a41d1154c41fc,48,True
+web10-case-005,Northgate Homes,R1,GPT,4,run_149b91f96b1f4121,48,True
+web10-case-005,Northgate Homes,R1,Fable,3,run_c4fb4d635b6d483a,42,True
+web10-case-005,Northgate Homes,R1,GLM,5,run_bda5655cbe604b56,39,True
+web10-case-005,Northgate Homes,R1,Kimi,2,run_30f611f8c7064d98,44,True
+web10-case-005,Northgate Homes,R1,Gemini,6,run_041cfe820b164f4e,33,True
+web10-case-004,Shop.co,R1,Opus,1,run_42dab211922645f8,51,True
+web10-case-004,Shop.co,R1,GPT,2,run_ea79d079c5014c5f,49,True
+web10-case-004,Shop.co,R1,Fable,5,run_89932ea5fba94a69,45,True
+web10-case-004,Shop.co,R1,GLM,3,run_9d516989764b45c0,48,True
+web10-case-004,Shop.co,R1,Kimi,4,run_7683d495de1d4093,40,True
+web10-case-004,Shop.co,R1,Gemini,6,run_d9cf574fb3a84eea,28,True
+web10-case-003,Fasco,R1,Opus,1,run_b6bf02edfa674ece,48,True
+web10-case-003,Fasco,R1,GPT,2,run_23a9c5a03a774faa,37,True
+web10-case-003,Fasco,R1,Fable,4,run_e528e0836a144a33,40,True
+web10-case-003,Fasco,R1,GLM,3,run_329a8b08af3d4c2c,41,True
+web10-case-003,Fasco,R1,Kimi,5,run_f626e43e4e2c4cd3,30,True
+web10-case-003,Fasco,R1,Gemini,6,run_a036f63b857a4188,27,True
+web10-case-002,Foodieland,R1,Opus,1,run_c9db5da2ed68418b,51,False
+web10-case-002,Foodieland,R1,GPT,2,run_066ee9d1ed6e4351,47,False
+web10-case-002,Foodieland,R1,Fable,5,run_62f5098fae8249a7,44,False
+web10-case-002,Foodieland,R1,GLM,4,run_8f71e3914b284a5d,42,False
+web10-case-002,Foodieland,R1,Kimi,3,run_ef69073c129d4b3a,48,False
+web10-case-002,Foodieland,R1,Gemini,6,run_43c1fa6504134447,36,False
+6case-case-005,FinX,R1,Opus,3,run_9af1095a3c1b4d1a,44,True
+6case-case-005,FinX,R1,GPT,1,run_35b30b48222a45ca,39,True
+6case-case-005,FinX,R1,Fable,2,run_cf129cfc690d4c5d,35,True
+6case-case-005,FinX,R1,GLM,4,run_e384d89f39b64a6f,33,True
+6case-case-005,FinX,R1,Kimi,5,run_eeb9a4588eeb4118,36,True
+6case-case-005,FinX,R1,Gemini,6,run_bfe1f2ec3e44403d,40,True
+10case-case-010,Budget,R1,Opus,1,run_857b8cc9790e4c6c,48,False
+10case-case-010,Budget,R1,GPT,2,run_39ddc689ac4a45de,45,False
+10case-case-010,Budget,R1,Fable,5,run_bfd7146317d248a7,40,False
+10case-case-010,Budget,R1,GLM,3,run_cf37f69562764abb,47,False
+10case-case-010,Budget,R1,Kimi,4,run_1fa74e56b26b4338,44,False
+10case-case-010,Budget,R1,Gemini,6,run_ec85bd7e28df40e7,31,False
+10case-case-007,Vulcan Invest,R1,Opus,1,run_ce9f23685a8b40ad,45,True
+10case-case-007,Vulcan Invest,R1,GPT,4,run_9eb6e3cd77574355,41,True
+10case-case-007,Vulcan Invest,R1,Fable,2,run_d3c6a5e5218843fb,43,True
+10case-case-007,Vulcan Invest,R1,GLM,3,run_e31d55eba35d40ce,36,True
+10case-case-007,Vulcan Invest,R1,Kimi,5,run_acb4f40616b34cb0,38,True
+10case-case-007,Vulcan Invest,R1,Gemini,6,run_dd557e81a6894660,30,True
+web10-case-001,Furniro,R1,Opus,1,run_57a6d3be87d74a86,46,True
+web10-case-001,Furniro,R1,GPT,2,run_c4b412d600b649bc,34,True
+web10-case-001,Furniro,R1,Fable,4,run_84786a8e7e7c419d,37,True
+web10-case-001,Furniro,R1,GLM,3,run_179b2c3274874e3d,45,True
+web10-case-001,Furniro,R1,Kimi,5,run_faf3f3377dcd4a50,34,True
+web10-case-001,Furniro,R1,Gemini,6,run_08db15998eb047a6,29,True
+10case-case-008,Fitness App,R1,Opus,1,run_c0017d97ac934b11,51,True
+10case-case-008,Fitness App,R1,GPT,2,run_c6d228d0e0644247,48,True
+10case-case-008,Fitness App,R1,Fable,4,run_e2abb1cc42d64746,46,True
+10case-case-008,Fitness App,R1,GLM,3,run_7683e3b498eb40ce,43,True
+10case-case-008,Fitness App,R1,Kimi,5,run_ce505112e386481e,27,True
+10case-case-008,Fitness App,R1,Gemini,6,run_feda5042f9004594,33,True
+10case-case-009,Workout Class,R1,Opus,1,run_4e50b1a757ff4a1d,50,True
+10case-case-009,Workout Class,R1,GPT,2,run_ca1abbabcf1e4aaf,45,True
+10case-case-009,Workout Class,R1,Fable,4,run_4f4da0c8264f4e54,43,True
+10case-case-009,Workout Class,R1,GLM,5,run_91e8cee79b394f52,44,True
+10case-case-009,Workout Class,R1,Kimi,3,run_71366bb8c69e467c,43,True
+10case-case-009,Workout Class,R1,Gemini,6,run_4febc55c8cc34af7,40,True
+10case-case-004,Meet,R1,Opus,1,run_aa5dddf1677e4cab,51,True
+10case-case-004,Meet,R1,GPT,2,run_fad8f1bd0aef40da,49,True
+10case-case-004,Meet,R1,Fable,5,run_501d3ff778b64401,39,True
+10case-case-004,Meet,R1,GLM,4,run_49f9519b65dd477d,40,True
+10case-case-004,Meet,R1,Kimi,3,run_7c3c777c94344aa8,47,True
+10case-case-004,Meet,R1,Gemini,6,run_d5d6322b9faa4c2d,36,True
+10case-case-005,Expenio,R1,Opus,1,run_3b0fa72ce4fb4438,49,True
+10case-case-005,Expenio,R1,GPT,2,run_c2394ec2b9984733,46,True
+10case-case-005,Expenio,R1,Fable,4,run_f9587737f4784903,46,True
+10case-case-005,Expenio,R1,GLM,3,run_1697e08836d44440,44,True
+10case-case-005,Expenio,R1,Kimi,5,run_e981658e0c954cc8,46,True
+10case-case-005,Expenio,R1,Gemini,6,run_34e2ebca9de44176,42,True
+10case-case-001,Investment Wallet,R1,Opus,1,run_faaad7f52dc04e96,50,True
+10case-case-001,Investment Wallet,R1,GPT,5,run_da587171cd264fc2,47,True
+10case-case-001,Investment Wallet,R1,Fable,2,run_11935fb843f1499f,45,True
+10case-case-001,Investment Wallet,R1,GLM,3,run_1fb39c6dccf24c22,49,True
+10case-case-001,Investment Wallet,R1,Kimi,6,run_a2f914efccfb4f67,41,True
+10case-case-001,Investment Wallet,R1,Gemini,4,run_70ef8ee82cfa4041,42,True
+10case-case-002,Travelin,R1,Opus,2,run_bae4ef44e63d48fa,53,True
+10case-case-002,Travelin,R1,GPT,1,run_a2b2d19b5ae242d6,51,True
+10case-case-002,Travelin,R1,Fable,3,run_3e7625e0ec1846a2,52,True
+10case-case-002,Travelin,R1,GLM,5,run_be70fc586b074755,50,True
+10case-case-002,Travelin,R1,Kimi,4,run_cdabfc04f08e40ce,44,True
+10case-case-002,Travelin,R1,Gemini,6,run_d3bc870e36164222,37,True
+10case-case-003,Stock Trading,R1,Opus,2,run_154d576dd22f4304,48,True
+10case-case-003,Stock Trading,R1,GPT,1,run_e9e3dffc4bdf449c,47,True
+10case-case-003,Stock Trading,R1,Fable,3,run_13a0b0ec4686418a,44,True
+10case-case-003,Stock Trading,R1,GLM,5,run_e0ce49b873544230,44,True
+10case-case-003,Stock Trading,R1,Kimi,4,run_2ae4141f8cb749b6,40,True
+10case-case-003,Stock Trading,R1,Gemini,6,run_d1cd502af5b54783,33,True
+6case-case-006,Fruit Hub,R1,Opus,1,run_86fe6fbebb504b04,49,True
+6case-case-006,Fruit Hub,R1,GPT,2,run_90bc84da7785497a,44,True
+6case-case-006,Fruit Hub,R1,Fable,3,run_f3999ef393894c4f,42,True
+6case-case-006,Fruit Hub,R1,GLM,4,run_b53402eabe484a87,41,True
+6case-case-006,Fruit Hub,R1,Kimi,5,run_f0b05ef34a24409c,44,True
+6case-case-006,Fruit Hub,R1,Gemini,6,run_3c8abfc6a46d4e06,44,True
+10case-case-007,Vulcan Invest,R2,Opus,1,run_ce9f23685a8b40ad,45,True
+10case-case-007,Vulcan Invest,R2,GPT,2,run_9eb6e3cd77574355,41,True
+10case-case-007,Vulcan Invest,R2,Fable,5,run_d3c6a5e5218843fb,43,True
+10case-case-007,Vulcan Invest,R2,GLM,4,run_e31d55eba35d40ce,36,True
+10case-case-007,Vulcan Invest,R2,Kimi,3,run_acb4f40616b34cb0,38,True
+10case-case-007,Vulcan Invest,R2,Gemini,6,run_dd557e81a6894660,30,True
+3case-case-001,Balance,R2,Opus,2,run_3c27c3d669e34617,48,False
+3case-case-001,Balance,R2,GPT,4,run_4d512be0f19a4e92,42,False
+3case-case-001,Balance,R2,Fable,3,run_c78bec7abd6742e8,36,False
+3case-case-001,Balance,R2,GLM,6,run_8abc16b93f22483c,32,False
+3case-case-001,Balance,R2,Kimi,5,run_f5c54e2727ab4bcb,33,False
+3case-case-001,Balance,R2,Gemini,1,run_d746d3b2f13b4aeb,35,False
+3case-case-002,Paradise Invest,R2,Opus,1,run_fc248e6f539d499c,47,True
+3case-case-002,Paradise Invest,R2,GPT,5,run_9f36a4040a4a4a84,45,True
+3case-case-002,Paradise Invest,R2,Fable,2,run_8ceac755cb4a48e7,40,True
+3case-case-002,Paradise Invest,R2,GLM,4,run_f27714f101c44b35,44,True
+3case-case-002,Paradise Invest,R2,Kimi,3,run_91e7c4cd3d0e46bf,40,True
+3case-case-002,Paradise Invest,R2,Gemini,6,run_a2a5878bc3414b7f,39,True
+3case-case-003,Foodgo,R2,Opus,1,run_8cdc1d6de469473b,46,True
+3case-case-003,Foodgo,R2,GPT,5,run_01019aef99dc4dbb,37,True
+3case-case-003,Foodgo,R2,Fable,3,run_548c122a102f458e,41,True
+3case-case-003,Foodgo,R2,GLM,2,run_d7598f4eed634d17,38,True
+3case-case-003,Foodgo,R2,Kimi,4,run_489707d8aba84aad,38,True
+3case-case-003,Foodgo,R2,Gemini,6,run_4f19ec34e95247ee,36,True
+6case-case-001,StockWave,R2,Opus,1,run_3cd3a95545ef4da3,45,True
+6case-case-001,StockWave,R2,GPT,5,run_4f9446f398ba4022,42,True
+6case-case-001,StockWave,R2,Fable,3,run_9ed244fb744d4338,44,True
+6case-case-001,StockWave,R2,GLM,2,run_5d0ba1fcfc644339,40,True
+6case-case-001,StockWave,R2,Kimi,6,run_c7ca5a285c8f4345,39,True
+6case-case-001,StockWave,R2,Gemini,4,run_899c2fa579964719,40,True
+6case-case-002,Nectar,R2,Opus,1,run_22738d74fd994327,47,True
+6case-case-002,Nectar,R2,GPT,3,run_a6e0a6a0756a4ac0,46,True
+6case-case-002,Nectar,R2,Fable,4,run_d01ea21a16fb4203,38,True
+6case-case-002,Nectar,R2,GLM,2,run_f024d96282944413,44,True
+6case-case-002,Nectar,R2,Kimi,5,run_08e6fa72ab264fc1,41,True
+6case-case-002,Nectar,R2,Gemini,6,run_211e792b304f4735,38,True
+6case-case-003,Stylish,R2,Opus,1,run_c9780c2cfa9f43c3,42,True
+6case-case-003,Stylish,R2,GPT,5,run_25056fae2f754984,36,True
+6case-case-003,Stylish,R2,Fable,4,run_ce4149fad6a64a79,35,True
+6case-case-003,Stylish,R2,GLM,3,run_754970d9eda9486d,35,True
+6case-case-003,Stylish,R2,Kimi,2,run_b3a9011569f3435a,31,True
+6case-case-003,Stylish,R2,Gemini,6,run_611abffe5f0c4390,29,True
+10case-case-002,Travelin,R2,Opus,1,run_bae4ef44e63d48fa,53,True
+10case-case-002,Travelin,R2,GPT,4,run_a2b2d19b5ae242d6,51,True
+10case-case-002,Travelin,R2,Fable,3,run_3e7625e0ec1846a2,52,True
+10case-case-002,Travelin,R2,GLM,2,run_be70fc586b074755,50,True
+10case-case-002,Travelin,R2,Kimi,5,run_cdabfc04f08e40ce,44,True
+10case-case-002,Travelin,R2,Gemini,6,run_d3bc870e36164222,37,True
+10case-case-003,Stock Trading,R2,Opus,1,run_154d576dd22f4304,48,True
+10case-case-003,Stock Trading,R2,GPT,3,run_e9e3dffc4bdf449c,47,True
+10case-case-003,Stock Trading,R2,Fable,5,run_13a0b0ec4686418a,44,True
+10case-case-003,Stock Trading,R2,GLM,4,run_e0ce49b873544230,44,True
+10case-case-003,Stock Trading,R2,Kimi,2,run_2ae4141f8cb749b6,40,True
+10case-case-003,Stock Trading,R2,Gemini,6,run_d1cd502af5b54783,33,True
+10case-case-004,Meet,R2,Opus,1,run_aa5dddf1677e4cab,51,True
+10case-case-004,Meet,R2,GPT,2,run_fad8f1bd0aef40da,49,True
+10case-case-004,Meet,R2,Fable,5,run_501d3ff778b64401,39,True
+10case-case-004,Meet,R2,GLM,3,run_49f9519b65dd477d,40,True
+10case-case-004,Meet,R2,Kimi,4,run_7c3c777c94344aa8,47,True
+10case-case-004,Meet,R2,Gemini,6,run_d5d6322b9faa4c2d,36,True
+10case-case-005,Expenio,R2,Opus,1,run_3b0fa72ce4fb4438,49,True
+10case-case-005,Expenio,R2,GPT,5,run_c2394ec2b9984733,46,True
+10case-case-005,Expenio,R2,Fable,2,run_f9587737f4784903,46,True
+10case-case-005,Expenio,R2,GLM,4,run_1697e08836d44440,44,True
+10case-case-005,Expenio,R2,Kimi,3,run_e981658e0c954cc8,46,True
+10case-case-005,Expenio,R2,Gemini,6,run_34e2ebca9de44176,42,True
+10case-case-006,Payment Wallet,R2,Opus,2,run_73ea523f788f4578,52,True
+10case-case-006,Payment Wallet,R2,GPT,3,run_e7f5b7ed481d4eeb,50,True
+10case-case-006,Payment Wallet,R2,Fable,4,run_a94a69d7e4c54858,45,True
+10case-case-006,Payment Wallet,R2,GLM,1,run_e1cec9b8b6a8494b,48,True
+10case-case-006,Payment Wallet,R2,Kimi,5,run_f58f8e44319942a5,43,True
+10case-case-006,Payment Wallet,R2,Gemini,6,run_06114690eab7480f,38,True
+10case-case-010,Budget,R2,Opus,1,run_857b8cc9790e4c6c,48,False
+10case-case-010,Budget,R2,GPT,3,run_39ddc689ac4a45de,45,False
+10case-case-010,Budget,R2,Fable,4,run_bfd7146317d248a7,40,False
+10case-case-010,Budget,R2,GLM,2,run_cf37f69562764abb,47,False
+10case-case-010,Budget,R2,Kimi,5,run_1fa74e56b26b4338,44,False
+10case-case-010,Budget,R2,Gemini,6,run_ec85bd7e28df40e7,31,False
+web10-case-001,Furniro,R2,Opus,2,run_57a6d3be87d74a86,46,True
+web10-case-001,Furniro,R2,GPT,4,run_c4b412d600b649bc,34,True
+web10-case-001,Furniro,R2,Fable,3,run_84786a8e7e7c419d,37,True
+web10-case-001,Furniro,R2,GLM,1,run_179b2c3274874e3d,45,True
+web10-case-001,Furniro,R2,Kimi,6,run_faf3f3377dcd4a50,34,True
+web10-case-001,Furniro,R2,Gemini,5,run_08db15998eb047a6,29,True

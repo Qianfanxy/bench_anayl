@@ -1,0 +1,613 @@
+{
+ "file_key": "AuqY1P2MVRVdEbLBKDwPWn",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "11:4",
+     "name": "DESIGNER STARTER / PARADISE INVEST · LEVEL L2 · v2",
+     "x": 56,
+     "y": 48,
+     "text": "DESIGNER STARTER / PARADISE INVEST · LEVEL L2 · v2"
+    },
+    {
+     "id": "11:5",
+     "name": "Complete mobile product design",
+     "x": 56,
+     "y": 87,
+     "text": "Complete mobile product design"
+    },
+    {
+     "id": "11:6",
+     "name": "Content, structure, brand primary and typefaces are fixed. Layout, hierarchy, all other colors, states, components and visual system are yours.",
+     "x": 56,
+     "y": 162,
+     "text": "Content, structure, brand primary and typefaces are fixed. Layout, hierarchy, all other colors, states, components and visual system are yours."
+    },
+    {
+     "id": "11:9",
+     "name": "THE ASSIGNMENT",
+     "x": 56,
+     "y": 289,
+     "text": "THE ASSIGNMENT"
+    },
+    {
+     "id": "11:10",
+     "name": "Design the complete Paradise Invest mobile investment app (brand: Paradise Group) for a first-time investor: sign up, understand their portfolio, follow plans and news, and manage their profile and bank accounts.",
+     "x": 56,
+     "y": 329,
+     "text": "Design the complete Paradise Invest mobile investment app (brand: Paradise Group) for a first-time investor: sign up, understand their portfolio, follow plans and news, and manage their profile and bank accounts."
+    },
+    {
+     "id": "11:11",
+     "name": "English interface / Nigerian Naira (₦) / one signed-in user: Jonas Macroni. Base viewport 414 × 932 for every frame; Home may scroll vertically.",
+     "x": 56,
+     "y": 387,
+     "text": "English interface / Nigerian Naira (₦) / one signed-in user: Jonas Macroni. Base viewport 414 × 932 for every frame; Home may scroll vertically."
+    },
+    {
+     "id": "11:12",
+     "name": "FIXED by this brief: frame list & names, the content each frame must contain (what, not how), navigation structure, all data and copy, brand primary color, typefaces (DM Sans + Inter), media, a default Button, a default Text Field and the platform shell.",
+     "x": 56,
+     "y": 421,
+     "text": "FIXED by this brief: frame list & names, the content each frame must contain (what, not how), navigation structure, all data and copy, brand primary color, typefaces (DM Sans + Inter), media, a default Button, a default Text Field and the platform shell."
+    },
+    {
+     "id": "11:13",
+     "name": "YOURS to decide: layout, grouping, order and emphasis on every screen; all other colors (neutrals, text, surfaces, semantic); type scale, spacing, radii, elevation; all states (selected, pressed, disabled, focused, error); headers, bottom navigation and every business component.",
+     "x": 56,
+     "y": 479,
+     "text": "YOURS to decide: layout, grouping, order and emphasis on every screen; all other colors (neutrals, text, surfaces, semantic); type scale, spacing, radii, elevation; all states (selected, pressed, disabled, focused, error); headers, bottom navigation and every business component."
+    },
+    {
+     "id": "11:15",
+     "name": "FRAMES TO DELIVER (11) — USE THESE EXACT NAMES",
+     "x": 56,
+     "y": 567,
+     "text": "FRAMES TO DELIVER (11) — USE THESE EXACT NAMES"
+    },
+    {
+     "id": "11:16",
+     "name": "01_Splash · 02_Welcome · 03_Create_Account_Empty · 03_Create_Account_Filled · 03_Create_Account_Error · 04_Home ·",
+     "x": 56,
+     "y": 607,
+     "text": "01_Splash · 02_Welcome · 03_Create_Account_Empty · 03_Create_Account_Filled · 03_Create_Account_Error · 04_Home ·"
+    },
+    {
+     "id": "11:17",
+     "name": "05_My_Asset_Overlay · 06_Notification · 07_Profile · 08_Contact_Info · 09_Bank_Account_Info. One frame per state.",
+     "x": 56,
+     "y": 641,
+     "text": "05_My_Asset_Overlay · 06_Notification · 07_Profile · 08_Contact_Info · 09_Bank_Account_Info. One frame per state."
+    },
+    {
+     "id": "11:19",
+     "name": "FRAME-BY-FRAME CHECKLIST",
+     "x": 56,
+     "y": 705,
+     "text": "FRAME-BY-FRAME CHECKLIST"
+    },
+    {
+     "id": "48:57",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks. Layout, grouping, emphasis and styling are your decisions.",
+     "x": 56,
+     "y": 757,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks. Layout, grouping, emphasis and styling are your decisions."
+    },
+    {
+     "id": "11:21",
+     "name": "01_Splash",
+     "x": 76,
+     "y": 839,
+     "text": "01_Splash"
+    },
+    {
+     "id": "11:22",
+     "name": "Goal: brand recognition while the app loads.",
+     "x": 76,
+     "y": 869,
+     "text": "Goal: brand recognition while the app loads."
+    },
+    {
+     "id": "11:23",
+     "name": "Must include: • Brand: Paradise Group logo",
+     "x": 76,
+     "y": 896,
+     "text": "Must include:\n• Brand: Paradise Group logo"
+    },
+    {
+     "id": "11:24",
+     "name": "Links: auto-advances to 02_Welcome.",
+     "x": 76,
+     "y": 946,
+     "text": "Links: auto-advances to 02_Welcome."
+    },
+    {
+     "id": "11:26",
+     "name": "02_Welcome",
+     "x": 76,
+     "y": 1019,
+     "text": "02_Welcome"
+    },
+    {
+     "id": "11:27",
+     "name": "Goal: explain the value and start sign-up.",
+     "x": 76,
+     "y": 1049,
+     "text": "Goal: explain the value and start sign-up."
+    },
+    {
+     "id": "11:28",
+     "name": "Must include: • Actions: Create account · Login • Copy: “Stay on top of your finance with us.” · “We are your new financial advisors to recommend the best investments for you.” • Media: Welcome_Illustration",
+     "x": 76,
+     "y": 1076,
+     "text": "Must include:\n• Actions: Create account · Login\n• Copy: “Stay on top of your finance with us.” · “We are your new financial advisors to recommend the best investments for you.”\n• Media: Welcome_Illustration"
+    },
+    {
+     "id": "11:29",
+     "name": "Links: Create account → 03_Create_Account_Empty.",
+     "x": 76,
+     "y": 1172,
+     "text": "Links: Create account → 03_Create_Account_Empty."
+    },
+    {
+     "id": "11:31",
+     "name": "03_Create_Account (Empty / Filled / Error)",
+     "x": 76,
+     "y": 1245,
+     "text": "03_Create_Account (Empty / Filled / Error)"
+    },
+    {
+     "id": "11:32",
+     "name": "Goal: create an account with minimum effort and clear validation.",
+     "x": 76,
+     "y": 1275,
+     "text": "Goal: create an account with minimum effort and clear validation."
+    },
+    {
+     "id": "11:33",
+     "name": "Must include: • Actions: back · Create account · “Already have an account?” Login • Copy: “Create an account” · “Invest and double your income now” • Form: Email address · Full name · Password (can be shown or hidden)",
+     "x": 76,
+     "y": 1302,
+     "text": "Must include:\n• Actions: back · Create account · “Already have an account?” Login\n• Copy: “Create an account” · “Invest and double your income now”\n• Form: Email address · Full name · Password (can be shown or hidden)"
+    },
+    {
+     "id": "11:34",
+     "name": "States (one frame each): • Empty — nothing entered; Create account cannot be submitted yet • Error — email “jonas.macroni@invest” · message “Enter a valid email address” • Filled — Jonas Macroni · jonas.macroni@invest.ai · password entered (masked); Create account can be submitted",
+     "x": 76,
+     "y": 1398,
+     "text": "States (one frame each):\n• Empty — nothing entered; Create account cannot be submitted yet\n• Error — email “jonas.macroni@invest” · message “Enter a valid email address”\n• Filled — Jonas Macroni · jonas.macroni@invest.ai · password entered (masked); Create account can be submitted"
+    },
+    {
+     "id": "11:35",
+     "name": "Links: back → 02_Welcome; Create account (Filled) → 04_Home.",
+     "x": 76,
+     "y": 1494,
+     "text": "Links: back → 02_Welcome; Create account (Filled) → 04_Home."
+    },
+    {
+     "id": "11:37",
+     "name": "04_Home",
+     "x": 76,
+     "y": 1567,
+     "text": "04_Home"
+    },
+    {
+     "id": "11:38",
+     "name": "Goal: see total wealth and today’s change at a glance, then explore plans and learning content.",
+     "x": 76,
+     "y": 1597,
+     "text": "Goal: see total wealth and today’s change at a glance, then explore plans and learning content."
+    },
+    {
+     "id": "11:39",
+     "name": "Must include: • Account: “Welcome, Jonas.” · menu entry · notification entry • Actions: Invest now • Articles: “Investment Guide” · 3 articles, each with title, summary and thumbnail • Main navigation: current tab Home • Plans: “Best Plans” · See All · Gold 30% / Silver 60% / Platinum 90% return, each with its coin image • Portfolio: “Your total asset portfolio” · ₦203,935 · +2%",
+     "x": 76,
+     "y": 1624,
+     "text": "Must include:\n• Account: “Welcome, Jonas.” · menu entry · notification entry\n• Actions: Invest now\n• Articles: “Investment Guide” · 3 articles, each with title, summary and thumbnail\n• Main navigation: current tab Home\n• Plans: “Best Plans” · See All · Gold 30% / Silver 60% / Platinum 90% return, each with its coin image\n• Portfolio: “Your total asset portfolio” · ₦203,935 · +2%"
+    },
+    {
+     "id": "11:40",
+     "name": "Links: portfolio → 05_My_Asset_Overlay; notification entry → 06_Notification; Account tab → 07_Profile.",
+     "x": 76,
+     "y": 1789,
+     "text": "Links: portfolio → 05_My_Asset_Overlay; notification entry → 06_Notification; Account tab → 07_Profile."
+    },
+    {
+     "id": "11:42",
+     "name": "05_My_Asset_Overlay",
+     "x": 76,
+     "y": 1862,
+     "text": "05_My_Asset_Overlay"
+    },
+    {
+     "id": "11:43",
+     "name": "Goal: inspect holdings and recent activity without leaving Home.",
+     "x": 76,
+     "y": 1892,
+     "text": "Goal: inspect holdings and recent activity without leaving Home."
+    },
+    {
+     "id": "11:44",
+     "name": "Must include: • Actions: close · See All Plans • Copy: “My Asset” • Current plan: “Current Plans” · Gold · 30% return • History: “History” · 4 transactions, each with type (Buy / Sell), stock, amount and date • Portfolio: “Your total asset portfolio” · ₦203,935 · +2% • Presentation: opens over Home; Home stays behind it",
+     "x": 76,
+     "y": 1919,
+     "text": "Must include:\n• Actions: close · See All Plans\n• Copy: “My Asset”\n• Current plan: “Current Plans” · Gold · 30% return\n• History: “History” · 4 transactions, each with type (Buy / Sell), stock, amount and date\n• Portfolio: “Your total asset portfolio” · ₦203,935 · +2%\n• Presentation: opens over Home; Home stays behind it"
+    },
+    {
+     "id": "11:45",
+     "name": "Links: close → 04_Home.",
+     "x": 76,
+     "y": 2084,
+     "text": "Links: close → 04_Home."
+    },
+    {
+     "id": "11:47",
+     "name": "06_Notification",
+     "x": 76,
+     "y": 2157,
+     "text": "06_Notification"
+    },
+    {
+     "id": "11:48",
+     "name": "Goal: scan recent updates quickly.",
+     "x": 76,
+     "y": 2187,
+     "text": "Goal: scan recent updates quickly."
+    },
+    {
+     "id": "11:49",
+     "name": "Must include: • Actions: back • Copy: “Notification” • Notifications: 3, newest first, each with thumbnail, message and time",
+     "x": 76,
+     "y": 2214,
+     "text": "Must include:\n• Actions: back\n• Copy: “Notification”\n• Notifications: 3, newest first, each with thumbnail, message and time"
+    },
+    {
+     "id": "11:50",
+     "name": "Links: back → 04_Home.",
+     "x": 76,
+     "y": 2310,
+     "text": "Links: back → 04_Home."
+    },
+    {
+     "id": "11:52",
+     "name": "07_Profile",
+     "x": 76,
+     "y": 2383,
+     "text": "07_Profile"
+    },
+    {
+     "id": "11:53",
+     "name": "Goal: identify the account and reach account settings.",
+     "x": 76,
+     "y": 2413,
+     "text": "Goal: identify the account and reach account settings."
+    },
+    {
+     "id": "11:54",
+     "name": "Must include: • Account: avatar · Jonas Macroni · level “Expert” • Copy: “Profile” • Entries: Bank Account Info · Contact Info · Document Info · Settings · Source of Funding Info • Main navigation: current tab Account",
+     "x": 76,
+     "y": 2440,
+     "text": "Must include:\n• Account: avatar · Jonas Macroni · level “Expert”\n• Copy: “Profile”\n• Entries: Bank Account Info · Contact Info · Document Info · Settings · Source of Funding Info\n• Main navigation: current tab Account"
+    },
+    {
+     "id": "11:55",
+     "name": "Links: Contact Info → 08_Contact_Info; Bank Account Info → 09_Bank_Account_Info; Home tab → 04_Home.",
+     "x": 76,
+     "y": 2559,
+     "text": "Links: Contact Info → 08_Contact_Info; Bank Account Info → 09_Bank_Account_Info; Home tab → 04_Home."
+    },
+    {
+     "id": "11:57",
+     "name": "08_Contact_Info",
+     "x": 76,
+     "y": 2632,
+     "text": "08_Contact_Info"
+    },
+    {
+     "id": "11:58",
+     "name": "Goal: review personal details and see what is missing.",
+     "x": 76,
+     "y": 2662,
+     "text": "Goal: review personal details and see what is missing."
+    },
+    {
+     "id": "11:59",
+     "name": "Must include: • Account: avatar · edit avatar • Actions: back • Copy: “Contact info” • Details: Birthdate · Email · Gender · Name — each with its value and Change • Not added yet: Address · Phone Number — each with Add",
+     "x": 76,
+     "y": 2689,
+     "text": "Must include:\n• Account: avatar · edit avatar\n• Actions: back\n• Copy: “Contact info”\n• Details: Birthdate · Email · Gender · Name — each with its value and Change\n• Not added yet: Address · Phone Number — each with Add"
+    },
+    {
+     "id": "11:60",
+     "name": "Links: back → 07_Profile.",
+     "x": 76,
+     "y": 2831,
+     "text": "Links: back → 07_Profile."
+    },
+    {
+     "id": "11:62",
+     "name": "09_Bank_Account_Info",
+     "x": 76,
+     "y": 2904,
+     "text": "09_Bank_Account_Info"
+    },
+    {
+     "id": "11:63",
+     "name": "Goal: review linked bank accounts and add a new one.",
+     "x": 76,
+     "y": 2934,
+     "text": "Goal: review linked bank accounts and add a new one."
+    },
+    {
+     "id": "11:64",
+     "name": "Must include: • Accounts: 2, each with bank logo, bank name, masked number, holder and more options • Actions: Add account · back • Copy: “Bank account info”",
+     "x": 76,
+     "y": 2961,
+     "text": "Must include:\n• Accounts: 2, each with bank logo, bank name, masked number, holder and more options\n• Actions: Add account · back\n• Copy: “Bank account info”"
+    },
+    {
+     "id": "11:65",
+     "name": "Links: back → 07_Profile.",
+     "x": 76,
+     "y": 3057,
+     "text": "Links: back → 07_Profile."
+    },
+    {
+     "id": "11:67",
+     "name": "STRUCTURE (FIXED)",
+     "x": 56,
+     "y": 3134,
+     "text": "STRUCTURE (FIXED)"
+    },
+    {
+     "id": "11:68",
+     "name": "Main navigation on 04_Home and 07_Profile — four tabs in this order: Home (Icon_Tab_Home) → 04 · Product (Icon_Tab_Product_Search, entry only) · Transaction (Icon_Tab_Transaction, entry only) · Account (Icon_Tab_Account) → 07. The current tab must match the frame. How it looks is yours.",
+     "x": 56,
+     "y": 3174,
+     "text": "Main navigation on 04_Home and 07_Profile — four tabs in this order: Home (Icon_Tab_Home) → 04 · Product (Icon_Tab_Product_Search, entry only) · Transaction (Icon_Tab_Transaction, entry only) · Account (Icon_Tab_Account) → 07. The current tab must match the frame. How it looks is yours."
+    },
+    {
+     "id": "11:69",
+     "name": "My Asset opens as an overlay above Home (not a separate pushed screen). Notifications open from Home. Profile is the Account tab; Contact info and Bank account info are pushed from it with back navigation.",
+     "x": 56,
+     "y": 3232,
+     "text": "My Asset opens as an overlay above Home (not a separate pushed screen). Notifications open from Home. Profile is the Account tab; Contact info and Bank account info are pushed from it with back navigation."
+    },
+    {
+     "id": "11:70",
+     "name": "Entry-only (no screen required): menu, Invest now, See All, See All Plans, Login, Source of Funding Info, Document Info, Settings, Change / Add, edit avatar, more-options, Add account.",
+     "x": 56,
+     "y": 3290,
+     "text": "Entry-only (no screen required): menu, Invest now, See All, See All Plans, Login, Source of Funding Info, Document Info, Settings, Change / Add, edit avatar, more-options, Add account."
+    },
+    {
+     "id": "11:72",
+     "name": "DATA & COPY (FIXED)",
+     "x": 56,
+     "y": 3378,
+     "text": "DATA & COPY (FIXED)"
+    },
+    {
+     "id": "11:73",
+     "name": "User: Jonas Macroni · Expert · 05 November 1993 · Male · jonas.macroni@invest.ai · phone and address not added. Same name and avatar everywhere.",
+     "x": 56,
+     "y": 3418,
+     "text": "User: Jonas Macroni · Expert · 05 November 1993 · Male · jonas.macroni@invest.ai · phone and address not added. Same name and avatar everywhere."
+    },
+    {
+     "id": "11:74",
+     "name": "Portfolio: ₦203,935, +2% — identical on Home and My Asset. Plans: Gold 30% return · Silver 60% return · Platinum 90% return. Current plan: Gold.",
+     "x": 56,
+     "y": 3452,
+     "text": "Portfolio: ₦203,935, +2% — identical on Home and My Asset. Plans: Gold 30% return · Silver 60% return · Platinum 90% return. Current plan: Gold."
+    },
+    {
+     "id": "11:75",
+     "name": "History (all Mon 22 Jun 2020): Buy “AAPL” Stock ₦200,000 · Sell “TLKM” Stock ₦150,000 · Buy “FB” Stock ₦1,000,240 · Sell “AAPL” Stock ₦1,000,240. Sell = money in, Buy = money out.",
+     "x": 56,
+     "y": 3486,
+     "text": "History (all Mon 22 Jun 2020): Buy “AAPL” Stock ₦200,000 · Sell “TLKM” Stock ₦150,000 · Buy “FB” Stock ₦1,000,240 · Sell “AAPL” Stock ₦1,000,240. Sell = money in, Buy = money out."
+    },
+    {
+     "id": "11:76",
+     "name": "Articles: “Basic type of investments” — This is how you set your foot for the 2020 stock market recession. What’s next…",
+     "x": 56,
+     "y": 3544,
+     "text": "Articles: “Basic type of investments” — This is how you set your foot for the 2020 stock market recession. What’s next…"
+    },
+    {
+     "id": "11:77",
+     "name": "“How much can you start with?” — What do you like to see? It’s a very different market from 2018. The way…",
+     "x": 56,
+     "y": 3578,
+     "text": "“How much can you start with?” — What do you like to see? It’s a very different market from 2018. The way…"
+    },
+    {
+     "id": "11:78",
+     "name": "“Welcome to New NASDAQ” — When we talk about Wall Street, what looks good might be different… (no photo supplied: choose a consistent fallback).",
+     "x": 56,
+     "y": 3612,
+     "text": "“Welcome to New NASDAQ” — When we talk about Wall Street, what looks good might be different… (no photo supplied: choose a consistent fallback)."
+    },
+    {
+     "id": "11:79",
+     "name": "Notifications (newest first): “Where do you see yourself in the next ages?” 30 secs ago · “Check out today’s best investor. You’ll learn from him.” 3 min ago · “Apple stocks just increased. Check it out now.” 15 min ago.",
+     "x": 56,
+     "y": 3646,
+     "text": "Notifications (newest first): “Where do you see yourself in the next ages?” 30 secs ago · “Check out today’s best investor. You’ll learn from him.” 3 min ago · “Apple stocks just increased. Check it out now.” 15 min ago."
+    },
+    {
+     "id": "11:80",
+     "name": "Banks: Bank of America — 0182128xxx · Zenith Bank — 0182128xxx; holder Jonas Macroni.",
+     "x": 56,
+     "y": 3704,
+     "text": "Banks: Bank of America — 0182128xxx · Zenith Bank — 0182128xxx; holder Jonas Macroni."
+    },
+    {
+     "id": "11:81",
+     "name": "The source file mixes user names, currencies (N / Rp) and has typos. Follow this brief, not the source.",
+     "x": 56,
+     "y": 3738,
+     "text": "The source file mixes user names, currencies (N / Rp) and has typos. Follow this brief, not the source."
+    },
+    {
+     "id": "11:83",
+     "name": "HANDOFF & EVALUATION",
+     "x": 56,
+     "y": 3802,
+     "text": "HANDOFF & EVALUATION"
+    },
+    {
+     "id": "11:84",
+     "name": "Copy Components and Media into your own new Figma file; do not edit, rename or delete anything in this starter file.",
+     "x": 56,
+     "y": 3842,
+     "text": "Copy Components and Media into your own new Figma file; do not edit, rename or delete anything in this starter file."
+    },
+    {
+     "id": "11:85",
+     "name": "Deliver all 11 frames with the exact names above, prototype links as listed, and your own reusable components. Submit your file link.",
+     "x": 56,
+     "y": 3876,
+     "text": "Deliver all 11 frames with the exact names above, prototype links as listed, and your own reusable components. Submit your file link."
+    },
+    {
+     "id": "11:86",
+     "name": "Evaluated: (1) checklist coverage per frame · (2) data & copy accuracy · (3) flow & prototype completeness · (4) information hierarchy · (5) visual quality & consistency of your own system · (6) component reuse · (7) state design.",
+     "x": 56,
+     "y": 3910,
+     "text": "Evaluated: (1) checklist coverage per frame · (2) data & copy accuracy · (3) flow & prototype completeness · (4) information hierarchy · (5) visual quality & consistency of your own system · (6) component reuse · (7) state design."
+    },
+    {
+     "id": "11:87",
+     "name": "The completed reference screens are withheld. There is no single correct layout.",
+     "x": 56,
+     "y": 3968,
+     "text": "The completed reference screens are withheld. There is no single correct layout."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "10:54",
+     "name": "PARADISE INVEST / DESIGN FOUNDATIONS",
+     "x": 56,
+     "y": 48,
+     "text": "PARADISE INVEST / DESIGN FOUNDATIONS"
+    },
+    {
+     "id": "10:55",
+     "name": "Fixed: brand primary + typefaces. You build everything else.",
+     "x": 56,
+     "y": 79,
+     "text": "Fixed: brand primary + typefaces. You build everything else."
+    },
+    {
+     "id": "10:58",
+     "name": "01 BRAND COLOR (FIXED)",
+     "x": 56,
+     "y": 228,
+     "text": "01  BRAND COLOR (FIXED)"
+    },
+    {
+     "id": "10:59",
+     "name": "Only the brand primary is given. Define every other color yourself — neutrals and grays, text, backgrounds and surfaces, semantic colors (gain / loss, error, disabled) and any supporting colors — once, and use them consistently.",
+     "x": 56,
+     "y": 270,
+     "text": "Only the brand primary is given. Define every other color yourself — neutrals and grays, text, backgrounds and surfaces, semantic colors (gain / loss, error, disabled) and any supporting colors — once, and use them consistently."
+    },
+    {
+     "id": "10:63",
+     "name": "Brand primary",
+     "x": 56,
+     "y": 412,
+     "text": "Brand primary"
+    },
+    {
+     "id": "10:64",
+     "name": "#31A062",
+     "x": 56,
+     "y": 434,
+     "text": "#31A062"
+    },
+    {
+     "id": "10:65",
+     "name": "The Paradise Invest brand color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 456,
+     "text": "The Paradise Invest brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "10:97",
+     "name": "02 TYPEFACES (FIXED)",
+     "x": 56,
+     "y": 568,
+     "text": "02  TYPEFACES (FIXED)"
+    },
+    {
+     "id": "10:98",
+     "name": "DM Sans and Inter are the brand typefaces (Inter replaces the unavailable SF Pro). Which face, size, weight and line height goes where is yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 610,
+     "text": "DM Sans and Inter are the brand typefaces (Inter replaces the unavailable SF Pro). Which face, size, weight and line height goes where is yours to define as a consistent type scale."
+    },
+    {
+     "id": "10:100",
+     "name": "DM Sans Aa ₦203,935",
+     "x": 56,
+     "y": 648,
+     "text": "DM Sans  Aa ₦203,935"
+    },
+    {
+     "id": "10:101",
+     "name": "Inter Aa Bb Cc 0123456789",
+     "x": 519,
+     "y": 671,
+     "text": "Inter  Aa Bb Cc 0123456789"
+    },
+    {
+     "id": "10:103",
+     "name": "03 YOUR SYSTEM (TO DESIGN)",
+     "x": 56,
+     "y": 748,
+     "text": "03  YOUR SYSTEM (TO DESIGN)"
+    },
+    {
+     "id": "10:104",
+     "name": "• Base viewport 414 × 932 (fixed). Home may scroll vertically.",
+     "x": 56,
+     "y": 790,
+     "text": "• Base viewport 414 × 932 (fixed). Home may scroll vertically."
+    },
+    {
+     "id": "10:105",
+     "name": "• Define your own type scale, spacing rhythm, corner radii, elevation, dividers and icon sizing — and apply them consistently on every screen.",
+     "x": 56,
+     "y": 829,
+     "text": "• Define your own type scale, spacing rhythm, corner radii, elevation, dividers and icon sizing — and apply them consistently on every screen."
+    },
+    {
+     "id": "10:106",
+     "name": "• Build reusable components for repeated patterns. Component reuse and consistency are evaluated.",
+     "x": 56,
+     "y": 868,
+     "text": "• Build reusable components for repeated patterns. Component reuse and consistency are evaluated."
+    },
+    {
+     "id": "10:108",
+     "name": "• Icons from 04 · Media may be recolored to your palette; do not redraw brand assets.",
+     "x": 56,
+     "y": 907,
+     "text": "• Icons from 04 · Media may be recolored to your palette; do not redraw brand assets."
+    }
+   ]
+  }
+ ]
+}

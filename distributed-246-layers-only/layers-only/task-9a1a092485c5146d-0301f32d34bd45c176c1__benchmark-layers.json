@@ -1,0 +1,272 @@
+{
+  "board_count": 14,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Photo_Onboarding_1",
+        "Photo_Onboarding_2",
+        "Photo_Onboarding_3",
+        "Photo_Onboarding_4"
+      ]
+    },
+    {
+      "name": "02_Log_In",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Arrow_Left",
+        "Welcome Back!",
+        "Log in to your Placoo ac",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "frame×9",
+        "instance×3",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Text Field",
+        "Near your location",
+        "Frame",
+        "Hotspot to 07_Filter"
+      ]
+    },
+    {
+      "name": "03_Sign_Up",
+      "size": "375×812",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "03_Sign_Up",
+        "Hotspot to 01_Onboarding",
+        "Hotspot to 04_Home",
+        "Heading: Let’s explore t"
+      ]
+    },
+    {
+      "name": "05_Explore",
+      "size": "375×812",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "05_Explore",
+        "Experiences: “Want to di",
+        "Hotspot to 07_Filter",
+        "Hotspot to 04_Home"
+      ]
+    },
+    {
+      "name": "06_Property_Details",
+      "size": "375×812",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "06_Property_Details",
+        "Hotspot to 04_Home",
+        "Hotspot to 10_Rent_Booki",
+        "Entire Bromo mountain vi"
+      ]
+    },
+    {
+      "name": "07_Filter",
+      "size": "375×812",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "07_Filter",
+        "Hotspot to 04_Home",
+        "Hotspot to 08_Search_Res",
+        "Search: Jakarta, Indones"
+      ]
+    },
+    {
+      "name": "08_Search_Results",
+      "size": "375×812",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "08_Search_Results",
+        "Hotspot to 07_Filter",
+        "Hotspot to 09_Search_Pin",
+        "Map with 10 price pins R"
+      ]
+    },
+    {
+      "name": "09_Search_Pin_Selected",
+      "size": "375×812",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "09_Search_Pin_Selected",
+        "Hotspot to 08_Search_Res",
+        "Map with 11 price pins, "
+      ]
+    },
+    {
+      "name": "10_Rent_Booking",
+      "size": "375×812",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "10_Rent_Booking",
+        "Hotspot to 06_Property_D",
+        "Rent booking Input detai"
+      ]
+    },
+    {
+      "name": "11_Chat",
+      "size": "375×812",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "11_Chat",
+        "Hotspot to 12_Chat_Room",
+        "Conversations: - Kari Ra"
+      ]
+    },
+    {
+      "name": "12_Chat_Room",
+      "size": "375×812",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "12_Chat_Room",
+        "Hotspot to 11_Chat",
+        "Chat with Kari Rasmussen"
+      ]
+    },
+    {
+      "name": "13_Saved",
+      "size": "375×812",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "13_Saved",
+        "Hotspot to 06_Property_D",
+        "Saved properties: - Brom"
+      ]
+    },
+    {
+      "name": "14_Profile",
+      "size": "375×812",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2"
+      ],
+      "names": [
+        "14_Profile",
+        "Lucy Bond (lucy.bond@exa"
+      ]
+    }
+  ]
+}

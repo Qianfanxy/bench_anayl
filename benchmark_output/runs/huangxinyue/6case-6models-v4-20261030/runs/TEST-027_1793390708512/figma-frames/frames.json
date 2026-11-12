@@ -1,0 +1,52 @@
+[
+  {
+    "node_id": "12:2",
+    "name": "01_Welcome",
+    "file": "12-2.png"
+  },
+  {
+    "node_id": "12:22",
+    "name": "02_Photo_ID",
+    "file": "12-22.png"
+  },
+  {
+    "node_id": "13:2",
+    "name": "03_Bank_Home",
+    "file": "13-2.png"
+  },
+  {
+    "node_id": "14:2",
+    "name": "04_Bank_Transactions",
+    "file": "14-2.png"
+  },
+  {
+    "node_id": "15:2",
+    "name": "05_Profile",
+    "file": "15-2.png"
+  },
+  {
+    "node_id": "17:2",
+    "name": "06_XTrade_Welcome",
+    "file": "17-2.png"
+  },
+  {
+    "node_id": "17:26",
+    "name": "07_Trade_Home",
+    "file": "17-26.png"
+  },
+  {
+    "node_id": "18:453",
+    "name": "08_Market",
+    "file": "18-453.png"
+  },
+  {
+    "node_id": "20:56",
+    "name": "09_Exchange_Stock",
+    "file": "20-56.png"
+  },
+  {
+    "node_id": "24:2",
+    "name": "10_Exchange_Crypto",
+    "file": "24-2.png"
+  }
+]

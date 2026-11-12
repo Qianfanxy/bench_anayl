@@ -1,0 +1,146 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Dashboard",
+      "size": "1440×1024",
+      "nodes": 171,
+      "max_depth": 3,
+      "instances": 41,
+      "texts": 81,
+      "images": 0,
+      "types": [
+        "text×81",
+        "instance×41",
+        "frame×24",
+        "rectangle×18",
+        "vector×5",
+        "ellipse×2"
+      ],
+      "names": [
+        "Sidebar",
+        "border",
+        "Logo_Octom",
+        "pill",
+        "Icon_Nav_Dashboard",
+        "Icon_Nav_Timeline"
+      ]
+    },
+    {
+      "name": "02_Timeline",
+      "size": "1440×1024",
+      "nodes": 186,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 60,
+      "images": 0,
+      "types": [
+        "rectangle×103",
+        "text×60",
+        "frame×16",
+        "instance×5",
+        "vector×2"
+      ],
+      "names": [
+        "Timeline",
+        "Icon_Chevron_Left",
+        "June 20, 2022",
+        "Icon_Chevron_Right",
+        "today",
+        "Today"
+      ]
+    },
+    {
+      "name": "03_Task_Board",
+      "size": "1440×1024",
+      "nodes": 226,
+      "max_depth": 4,
+      "instances": 104,
+      "texts": 79,
+      "images": 0,
+      "types": [
+        "instance×104",
+        "text×79",
+        "frame×36",
+        "rectangle×7"
+      ],
+      "names": [
+        "🔥 Task",
+        "Avatar_Cris_Morich",
+        "Avatar_Charmie",
+        "Avatar_Jason_Mandala",
+        "Avatar_Charlie_Chu",
+        "Avatar_Novita"
+      ]
+    },
+    {
+      "name": "04_Files",
+      "size": "1440×1024",
+      "nodes": 156,
+      "max_depth": 3,
+      "instances": 49,
+      "texts": 50,
+      "images": 0,
+      "types": [
+        "text×50",
+        "instance×49",
+        "rectangle×45",
+        "frame×12"
+      ],
+      "names": [
+        "Files",
+        "newfolder",
+        "+ Create New Folder",
+        "upload",
+        "Icon_Upload",
+        "Upload"
+      ]
+    },
+    {
+      "name": "05_Settings",
+      "size": "1440×1024",
+      "nodes": 38,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "text×22",
+        "frame×9",
+        "instance×6",
+        "rectangle×1"
+      ],
+      "names": [
+        "profile_header",
+        "Photo_Gradient_Blue",
+        "Avatar_Current_User",
+        "Settings",
+        "cancel",
+        "Cancel"
+      ]
+    },
+    {
+      "name": "06_Messages",
+      "size": "1440×1024",
+      "nodes": 121,
+      "max_depth": 2,
+      "instances": 34,
+      "texts": 64,
+      "images": 0,
+      "types": [
+        "text×64",
+        "instance×34",
+        "frame×13",
+        "rectangle×10"
+      ],
+      "names": [
+        "conversation_list",
+        "Messages",
+        "search",
+        "Search...",
+        "Pinned",
+        "Avatar_Killan_James"
+      ]
+    }
+  ]
+}

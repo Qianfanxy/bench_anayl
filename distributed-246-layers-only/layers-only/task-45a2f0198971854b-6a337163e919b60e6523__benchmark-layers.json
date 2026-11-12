@@ -1,0 +1,328 @@
+{
+  "board_count": 17,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Welcome",
+        "Button “Get Started” Mes"
+      ]
+    },
+    {
+      "name": "02_Sign_In_Options",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Sign In Options",
+        "Back (Icon_Back) Brand: "
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Log In",
+        "Back (Icon_Back) Brand: "
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Home",
+        "Header: avatar · “Welcom"
+      ]
+    },
+    {
+      "name": "05_Explore",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Explore",
+        "Header: Logo_Musium_Mark"
+      ]
+    },
+    {
+      "name": "06_Library",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Library",
+        "4 rows (see Fixed data “"
+      ]
+    },
+    {
+      "name": "07_Library_Folders",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Library Folders",
+        "4 folder rows: moods · 1"
+      ]
+    },
+    {
+      "name": "08_Folder_Moods",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Folder Moods",
+        "Action “Add New Playlist"
+      ]
+    },
+    {
+      "name": "09_Playlist",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Playlist",
+        "6 track rows with artwor"
+      ]
+    },
+    {
+      "name": "10_Now_Playing",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Now Playing",
+        "Artwork Cover_Grainy_Day"
+      ]
+    },
+    {
+      "name": "11_Queue",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Queue",
+        "Header: “PLAYING FROM PL"
+      ]
+    },
+    {
+      "name": "12_Equalizer",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Equalizer",
+        "7 band sliders (0 dB lin"
+      ]
+    },
+    {
+      "name": "13_Sleep_Timer",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Sleep Timer",
+        "Heading “Stop audio in” "
+      ]
+    },
+    {
+      "name": "14_Song_Menu",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Song Menu",
+        "13 actions with icons — "
+      ]
+    },
+    {
+      "name": "15_Add_To_Playlist",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Add To Playlist",
+        "Button “New Playlist” He"
+      ]
+    },
+    {
+      "name": "16_New_Playlist",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "New Playlist",
+        "Actions: “Cancel” · “Cre"
+      ]
+    },
+    {
+      "name": "17_Stats",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Stats",
+        "7 ranked rows #1–#7 with"
+      ]
+    }
+  ]
+}

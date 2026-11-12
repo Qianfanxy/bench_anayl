@@ -1,0 +1,886 @@
+{
+ "file_key": "weYFSS5IcozT265TIIh0H2",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "5:4",
+     "name": "NECTAR · LEVEL L2 · DESIGN TASK · v2",
+     "x": 56,
+     "y": 56,
+     "text": "NECTAR · LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "5:5",
+     "name": "Nectar — online groceries app",
+     "x": 56,
+     "y": 88,
+     "text": "Nectar — online groceries app"
+    },
+    {
+     "id": "5:6",
+     "name": "Design the complete Nectar mobile grocery app: a shopper in Dhaka signs in with a phone number, browses the store, opens a product, explores a category, fills the cart, checks out, gets an order confirmation and manages the account. Canvas 414 × 896 (iPhone), light mode only. Work in your own new Figma file — this file is read-only reference.",
+     "x": 56,
+     "y": 160,
+     "text": "Design the complete Nectar mobile grocery app: a shopper in Dhaka signs in with a phone number, browses the store, opens a product, explores a category, fills the cart, checks out, gets an order confirmation and manages the account.\nCanvas 414 × 896 (iPhone), light mode only. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "5:8",
+     "name": "How to work",
+     "x": 56,
+     "y": 289,
+     "text": "How to work"
+    },
+    {
+     "id": "5:9",
+     "name": "1. Build exactly the 12 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / error / warning / disabled, rating), plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the main navigation and every business component as reusable components in your file. 5. Use product photos, category images, the logo, flag, illustrations and icons from 04 · Media. People have no photos: use Avatar_Neutral. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 56,
+     "y": 341,
+     "text": "1. Build exactly the 12 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / error / warning / disabled, rating), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the main navigation and every business component as reusable components in your file.\n5. Use product photos, category images, the logo, flag, illustrations and icons from 04 · Media. People have no photos: use Avatar_Neutral.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "5:11",
+     "name": "Frames · goals · must include · links",
+     "x": 56,
+     "y": 605,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "5:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 56,
+     "y": 657,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "5:15",
+     "name": "01_Splash",
+     "x": 80,
+     "y": 720,
+     "text": "01_Splash"
+    },
+    {
+     "id": "5:22",
+     "name": "02_Onboarding",
+     "x": 740,
+     "y": 720,
+     "text": "02_Onboarding"
+    },
+    {
+     "id": "5:16",
+     "name": "Goal: Brand recognition while the app loads.",
+     "x": 80,
+     "y": 760,
+     "text": "Goal: Brand recognition while the app loads."
+    },
+    {
+     "id": "5:23",
+     "name": "Goal: Welcome a new shopper and get started.",
+     "x": 740,
+     "y": 760,
+     "text": "Goal: Welcome a new shopper and get started."
+    },
+    {
+     "id": "5:17",
+     "name": "MUST INCLUDE",
+     "x": 80,
+     "y": 791,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:24",
+     "name": "MUST INCLUDE",
+     "x": 740,
+     "y": 791,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:18",
+     "name": "• Brand: Nectar logo",
+     "x": 80,
+     "y": 818,
+     "text": "• Brand: Nectar logo"
+    },
+    {
+     "id": "5:25",
+     "name": "• Actions: Get Started • Brand: Nectar_Carrot • Copy: “Welcome to our store” · “Get your groceries in as fast as one hour” • Media: Photo_Welcome_Delivery",
+     "x": 740,
+     "y": 818,
+     "text": "• Actions: Get Started\n• Brand: Nectar_Carrot\n• Copy: “Welcome to our store” · “Get your groceries in as fast as one hour”\n• Media: Photo_Welcome_Delivery"
+    },
+    {
+     "id": "5:19",
+     "name": "LINKS",
+     "x": 80,
+     "y": 849,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:20",
+     "name": "→ auto → 02_Onboarding",
+     "x": 80,
+     "y": 876,
+     "text": "→ auto → 02_Onboarding"
+    },
+    {
+     "id": "5:26",
+     "name": "LINKS",
+     "x": 740,
+     "y": 912,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:27",
+     "name": "→ Get Started → 03_Sign_In",
+     "x": 740,
+     "y": 939,
+     "text": "→ Get Started → 03_Sign_In"
+    },
+    {
+     "id": "5:29",
+     "name": "03_Sign_In",
+     "x": 80,
+     "y": 1040,
+     "text": "03_Sign_In"
+    },
+    {
+     "id": "5:36",
+     "name": "04_Verification",
+     "x": 740,
+     "y": 1040,
+     "text": "04_Verification"
+    },
+    {
+     "id": "5:30",
+     "name": "Goal: Start sign-in with a phone number or a social account.",
+     "x": 80,
+     "y": 1080,
+     "text": "Goal: Start sign-in with a phone number or a social account."
+    },
+    {
+     "id": "5:37",
+     "name": "Goal: Verify the phone number with a 4-digit code.",
+     "x": 740,
+     "y": 1080,
+     "text": "Goal: Verify the phone number with a 4-digit code."
+    },
+    {
+     "id": "5:31",
+     "name": "MUST INCLUDE",
+     "x": 80,
+     "y": 1111,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:38",
+     "name": "MUST INCLUDE",
+     "x": 740,
+     "y": 1111,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:32",
+     "name": "• Actions: Continue with Google · Continue with Facebook • Copy: “Get your groceries with nectar” · “Or connect with social media” • Media: Photo_Sign_In_Groceries • Phone: country code +880 (Flag_Bangladesh) · number not entered yet",
+     "x": 80,
+     "y": 1138,
+     "text": "• Actions: Continue with Google · Continue with Facebook\n• Copy: “Get your groceries with nectar” · “Or connect with social media”\n• Media: Photo_Sign_In_Groceries\n• Phone: country code +880 (Flag_Bangladesh) · number not entered yet"
+    },
+    {
+     "id": "5:39",
+     "name": "• Actions: back · Resend Code · next • Code: “Code” · 4 digits, none entered yet • Copy: “Enter your 4-digit code”",
+     "x": 740,
+     "y": 1138,
+     "text": "• Actions: back · Resend Code · next\n• Code: “Code” · 4 digits, none entered yet\n• Copy: “Enter your 4-digit code”"
+    },
+    {
+     "id": "5:40",
+     "name": "LINKS",
+     "x": 740,
+     "y": 1211,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:33",
+     "name": "LINKS",
+     "x": 80,
+     "y": 1232,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:41",
+     "name": "→ back → 03_Sign_In → next → 05_Home",
+     "x": 740,
+     "y": 1238,
+     "text": "→ back → 03_Sign_In\n→ next → 05_Home"
+    },
+    {
+     "id": "5:34",
+     "name": "→ phone number → 04_Verification",
+     "x": 80,
+     "y": 1259,
+     "text": "→ phone number → 04_Verification"
+    },
+    {
+     "id": "5:43",
+     "name": "05_Home",
+     "x": 80,
+     "y": 1360,
+     "text": "05_Home"
+    },
+    {
+     "id": "5:50",
+     "name": "06_Product_Detail",
+     "x": 740,
+     "y": 1360,
+     "text": "06_Product_Detail"
+    },
+    {
+     "id": "5:44",
+     "name": "Goal: Find groceries fast — by search, offer or category.",
+     "x": 80,
+     "y": 1400,
+     "text": "Goal: Find groceries fast — by search, offer or category."
+    },
+    {
+     "id": "5:51",
+     "name": "Goal: Judge a product and add it to the basket.",
+     "x": 740,
+     "y": 1400,
+     "text": "Goal: Judge a product and add it to the basket."
+    },
+    {
+     "id": "5:45",
+     "name": "MUST INCLUDE",
+     "x": 80,
+     "y": 1431,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:52",
+     "name": "MUST INCLUDE",
+     "x": 740,
+     "y": 1431,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:46",
+     "name": "• Best Selling: “Best Selling” · See all · Bell Pepper Red, Ginger • Brand: Nectar_Carrot • Exclusive Offer: “Exclusive Offer” · See all · Organic Bananas, Red Apple • Groceries: “Groceries” · See all · categories Pulses, Rice · products Beef Bone, Broiler Chicken • Location: Dhaka, Banasree • Main navigation: current tab Shop • Products (all sections): each with image, name, unit, price and add to cart • Promotion: “Fresh Vegetables” · “Get Up To 40% OFF” (Banner_Fresh_Vegetables) • Search: “Search Store”",
+     "x": 80,
+     "y": 1458,
+     "text": "• Best Selling: “Best Selling” · See all · Bell Pepper Red, Ginger\n• Brand: Nectar_Carrot\n• Exclusive Offer: “Exclusive Offer” · See all · Organic Bananas, Red Apple\n• Groceries: “Groceries” · See all · categories Pulses, Rice · products Beef Bone, Broiler Chicken\n• Location: Dhaka, Banasree\n• Main navigation: current tab Shop\n• Products (all sections): each with image, name, unit, price and add to cart\n• Promotion: “Fresh Vegetables” · “Get Up To 40% OFF” (Banner_Fresh_Vegetables)\n• Search: “Search Store”"
+    },
+    {
+     "id": "5:53",
+     "name": "• Actions: back · share · favourite (not favourited yet) · Add To Basket • Details: “Product Detail” with its description (open) · “Nutritions” 100gr · “Review” 5 of 5 stars • Product: Product_Red_Apple · “Natural Red Apple” · “1kg, Price” · $4.99 • Quantity: 1, can be decreased / increased",
+     "x": 740,
+     "y": 1458,
+     "text": "• Actions: back · share · favourite (not favourited yet) · Add To Basket\n• Details: “Product Detail” with its description (open) · “Nutritions” 100gr · “Review” 5 of 5 stars\n• Product: Product_Red_Apple · “Natural Red Apple” · “1kg, Price” · $4.99\n• Quantity: 1, can be decreased / increased"
+    },
+    {
+     "id": "5:54",
+     "name": "LINKS",
+     "x": 740,
+     "y": 1573,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:55",
+     "name": "→ back → 05_Home → Add To Basket → 09_My_Cart",
+     "x": 740,
+     "y": 1600,
+     "text": "→ back → 05_Home\n→ Add To Basket → 09_My_Cart"
+    },
+    {
+     "id": "5:47",
+     "name": "LINKS",
+     "x": 80,
+     "y": 1678,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:48",
+     "name": "→ Red Apple → 06_Product_Detail → tabs → 05 / 07 / 09 / 12",
+     "x": 80,
+     "y": 1705,
+     "text": "→ Red Apple → 06_Product_Detail\n→ tabs → 05 / 07 / 09 / 12"
+    },
+    {
+     "id": "5:57",
+     "name": "07_Explore",
+     "x": 80,
+     "y": 1827,
+     "text": "07_Explore"
+    },
+    {
+     "id": "5:64",
+     "name": "08_Beverages",
+     "x": 740,
+     "y": 1827,
+     "text": "08_Beverages"
+    },
+    {
+     "id": "5:58",
+     "name": "Goal: Browse the store by category.",
+     "x": 80,
+     "y": 1867,
+     "text": "Goal: Browse the store by category."
+    },
+    {
+     "id": "5:65",
+     "name": "Goal: Pick drinks from one category.",
+     "x": 740,
+     "y": 1867,
+     "text": "Goal: Pick drinks from one category."
+    },
+    {
+     "id": "5:59",
+     "name": "MUST INCLUDE",
+     "x": 80,
+     "y": 1898,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:66",
+     "name": "MUST INCLUDE",
+     "x": 740,
+     "y": 1898,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:60",
+     "name": "• Categories: 6, each with its image — Fresh Fruits & Vegetable · Cooking Oil & Ghee · Meat & Fish · Bakery & Snacks · Dairy & Eggs · Beverages • Copy: “Find Products” • Main navigation: current tab Explore • Search: “Search Store”",
+     "x": 80,
+     "y": 1925,
+     "text": "• Categories: 6, each with its image — Fresh Fruits & Vegetable · Cooking Oil & Ghee · Meat & Fish · Bakery & Snacks · Dairy & Eggs · Beverages\n• Copy: “Find Products”\n• Main navigation: current tab Explore\n• Search: “Search Store”"
+    },
+    {
+     "id": "5:67",
+     "name": "• Actions: back · filter entry • Copy: “Beverages” • Products: 6 — Diet Coke · Sprite Can · Apple & Grape Juice · Orange Juice · Coca Cola Can · Pepsi Can — each with image, name, size, price and add to cart",
+     "x": 740,
+     "y": 1925,
+     "text": "• Actions: back · filter entry\n• Copy: “Beverages”\n• Products: 6 — Diet Coke · Sprite Can · Apple & Grape Juice · Orange Juice · Coca Cola Can · Pepsi Can — each with image, name, size, price and add to cart"
+    },
+    {
+     "id": "5:68",
+     "name": "LINKS",
+     "x": 740,
+     "y": 2019,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:61",
+     "name": "LINKS",
+     "x": 80,
+     "y": 2040,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:69",
+     "name": "→ back → 07_Explore",
+     "x": 740,
+     "y": 2046,
+     "text": "→ back → 07_Explore"
+    },
+    {
+     "id": "5:62",
+     "name": "→ Beverages → 08_Beverages → tabs",
+     "x": 80,
+     "y": 2067,
+     "text": "→ Beverages → 08_Beverages\n→ tabs"
+    },
+    {
+     "id": "5:71",
+     "name": "09_My_Cart",
+     "x": 80,
+     "y": 2189,
+     "text": "09_My_Cart"
+    },
+    {
+     "id": "5:78",
+     "name": "10_Checkout_Overlay",
+     "x": 740,
+     "y": 2189,
+     "text": "10_Checkout_Overlay"
+    },
+    {
+     "id": "5:72",
+     "name": "Goal: Review the basket and go to checkout.",
+     "x": 80,
+     "y": 2229,
+     "text": "Goal: Review the basket and go to checkout."
+    },
+    {
+     "id": "5:79",
+     "name": "Goal: Confirm delivery, payment and cost, then place the order.",
+     "x": 740,
+     "y": 2229,
+     "text": "Goal: Confirm delivery, payment and cost, then place the order."
+    },
+    {
+     "id": "5:73",
+     "name": "MUST INCLUDE",
+     "x": 80,
+     "y": 2260,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:80",
+     "name": "MUST INCLUDE",
+     "x": 740,
+     "y": 2260,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:74",
+     "name": "• Actions: Go to Checkout, showing the cart total $14.96 • Cart: 4 items — Bell Pepper Red · Egg Chicken Red · Organic Bananas · Ginger — each with image, name, unit, price, quantity 1 (can be decreased / increased) and remove • Copy: “My Cart” • Main navigation: current tab Cart",
+     "x": 80,
+     "y": 2287,
+     "text": "• Actions: Go to Checkout, showing the cart total $14.96\n• Cart: 4 items — Bell Pepper Red · Egg Chicken Red · Organic Bananas · Ginger — each with image, name, unit, price, quantity 1 (can be decreased / increased) and remove\n• Copy: “My Cart”\n• Main navigation: current tab Cart"
+    },
+    {
+     "id": "5:81",
+     "name": "• Actions: close · Place Order • Copy: “Checkout” • Legal: “By placing an order you agree to our Terms And Conditions” (Terms And Conditions is a link) • Order rows: Delivery “Select Method” · Payment (card, Icon_Payment) · Promo Code “Pick discount” · Total Cost $14.96 — each row opens its own choice • Presentation: opens over 09_My_Cart; the cart stays behind it",
+     "x": 740,
+     "y": 2287,
+     "text": "• Actions: close · Place Order\n• Copy: “Checkout”\n• Legal: “By placing an order you agree to our Terms And Conditions” (Terms And Conditions is a link)\n• Order rows: Delivery “Select Method” · Payment (card, Icon_Payment) · Promo Code “Pick discount” · Total Cost $14.96 — each row opens its own choice\n• Presentation: opens over 09_My_Cart; the cart stays behind it"
+    },
+    {
+     "id": "5:75",
+     "name": "LINKS",
+     "x": 80,
+     "y": 2423,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:82",
+     "name": "LINKS",
+     "x": 740,
+     "y": 2444,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:76",
+     "name": "→ Go to Checkout → 10_Checkout_Overlay → tabs",
+     "x": 80,
+     "y": 2450,
+     "text": "→ Go to Checkout → 10_Checkout_Overlay\n→ tabs"
+    },
+    {
+     "id": "5:83",
+     "name": "→ close → 09_My_Cart → Place Order → 11_Order_Accepted",
+     "x": 740,
+     "y": 2471,
+     "text": "→ close → 09_My_Cart\n→ Place Order → 11_Order_Accepted"
+    },
+    {
+     "id": "5:85",
+     "name": "11_Order_Accepted",
+     "x": 80,
+     "y": 2593,
+     "text": "11_Order_Accepted"
+    },
+    {
+     "id": "5:92",
+     "name": "12_Account",
+     "x": 740,
+     "y": 2593,
+     "text": "12_Account"
+    },
+    {
+     "id": "5:86",
+     "name": "Goal: Confirm the order unambiguously.",
+     "x": 80,
+     "y": 2633,
+     "text": "Goal: Confirm the order unambiguously."
+    },
+    {
+     "id": "5:93",
+     "name": "Goal: Identify the account and reach account settings.",
+     "x": 740,
+     "y": 2633,
+     "text": "Goal: Identify the account and reach account settings."
+    },
+    {
+     "id": "5:87",
+     "name": "MUST INCLUDE",
+     "x": 80,
+     "y": 2664,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:94",
+     "name": "MUST INCLUDE",
+     "x": 740,
+     "y": 2664,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:88",
+     "name": "• Actions: Track Order · Back to home • Copy: “Your Order has been accepted” · “Your items have been placed and are on their way to being processed” • Media: Illustration_Order_Accepted",
+     "x": 80,
+     "y": 2691,
+     "text": "• Actions: Track Order · Back to home\n• Copy: “Your Order has been accepted” · “Your items have been placed and are on their way to being processed”\n• Media: Illustration_Order_Accepted"
+    },
+    {
+     "id": "5:95",
+     "name": "• Account: Avatar_Neutral · “Afsar Hossen” · edit name entry · imshuvo97@gmail.com • Actions: Log Out • Entries: About · Delivery Address · Help · My Details · Notifications · Orders · Payment Methods · Promo Code • Main navigation: current tab Account",
+     "x": 740,
+     "y": 2691,
+     "text": "• Account: Avatar_Neutral · “Afsar Hossen” · edit name entry · imshuvo97@gmail.com\n• Actions: Log Out\n• Entries: About · Delivery Address · Help · My Details · Notifications · Orders · Payment Methods · Promo Code\n• Main navigation: current tab Account"
+    },
+    {
+     "id": "5:89",
+     "name": "LINKS",
+     "x": 80,
+     "y": 2785,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:96",
+     "name": "LINKS",
+     "x": 740,
+     "y": 2806,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:90",
+     "name": "→ Back to home → 05_Home",
+     "x": 80,
+     "y": 2812,
+     "text": "→ Back to home → 05_Home"
+    },
+    {
+     "id": "5:97",
+     "name": "→ tabs",
+     "x": 740,
+     "y": 2833,
+     "text": "→ tabs"
+    },
+    {
+     "id": "5:99",
+     "name": "Navigation structure",
+     "x": 56,
+     "y": 2926,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "5:100",
+     "name": "• Onboarding: 01_Splash → 02_Onboarding → 03_Sign_In → 04_Verification → 05_Home. • Main navigation on 05, 07, 09, 12 — five tabs in this order: Shop (Icon_Shop) → 05 · Explore (Icon_Explore) → 07 · Cart (Icon_Cart) → 09 · Favourite (Icon_Favourite, entry only) · Account (Icon_Account) → 12. The current tab must match the frame. How it looks is yours. • Pushed screens with back: 04, 06, 08. 06 and 08 have no main navigation. • 10_Checkout_Overlay opens over 09_My_Cart; 11_Order_Accepted replaces it. • Entry only (no screen required): See all, add to cart on product cards, share, favourite, filter, Resend Code, social sign-in, Track Order, Favourite tab, Delivery / Payment / Promo Code rows, account entries, edit name, Log Out. • There is no search-results, filter, favourites, location or order-failed screen — do not add frames beyond the 12.",
+     "x": 56,
+     "y": 2978,
+     "text": "• Onboarding: 01_Splash → 02_Onboarding → 03_Sign_In → 04_Verification → 05_Home.\n• Main navigation on 05, 07, 09, 12 — five tabs in this order: Shop (Icon_Shop) → 05 · Explore (Icon_Explore) → 07 · Cart (Icon_Cart) → 09 · Favourite (Icon_Favourite, entry only) · Account (Icon_Account) → 12. The current tab must match the frame. How it looks is yours.\n• Pushed screens with back: 04, 06, 08. 06 and 08 have no main navigation.\n• 10_Checkout_Overlay opens over 09_My_Cart; 11_Order_Accepted replaces it.\n• Entry only (no screen required): See all, add to cart on product cards, share, favourite, filter, Resend Code, social sign-in, Track Order, Favourite tab, Delivery / Payment / Promo Code rows, account entries, edit name, Log Out.\n• There is no search-results, filter, favourites, location or order-failed screen — do not add frames beyond the 12."
+    },
+    {
+     "id": "5:102",
+     "name": "Fixed data & copy",
+     "x": 56,
+     "y": 3218,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "5:103",
+     "name": "Use these values verbatim.",
+     "x": 56,
+     "y": 3270,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "5:106",
+     "name": "Shopper",
+     "x": 80,
+     "y": 3333,
+     "text": "Shopper"
+    },
+    {
+     "id": "5:109",
+     "name": "Catalog (name · unit · price · image)",
+     "x": 740,
+     "y": 3333,
+     "text": "Catalog (name · unit · price · image)"
+    },
+    {
+     "id": "5:107",
+     "name": "Afsar Hossen · imshuvo97@gmail.com · avatar = Avatar_Neutral Location: Dhaka, Banasree · phone country code +880 (Bangladesh) Currency USD · unit line format “1kg, Price”",
+     "x": 80,
+     "y": 3365,
+     "text": "Afsar Hossen · imshuvo97@gmail.com · avatar = Avatar_Neutral\nLocation: Dhaka, Banasree · phone country code +880 (Bangladesh)\nCurrency USD · unit line format “1kg, Price”"
+    },
+    {
+     "id": "5:110",
+     "name": "Organic Bananas · 7pcs · $4.99 · Product_Organic_Bananas Red Apple · 1kg · $4.99 · Product_Red_Apple (detail title “Natural Red Apple”) Bell Pepper Red · 1kg · $4.99 · Product_Bell_Pepper_Red Ginger · 250gm · $2.99 · Product_Ginger Beef Bone · 1kg · $4.99 · Product_Beef_Bone Broiler Chicken · 1kg · $4.99 · Product_Broiler_Chicken Egg Chicken Red · 4pcs · $1.99 · Product_Egg_Chicken_Red",
+     "x": 740,
+     "y": 3365,
+     "text": "Organic Bananas · 7pcs · $4.99 · Product_Organic_Bananas\nRed Apple · 1kg · $4.99 · Product_Red_Apple (detail title “Natural Red Apple”)\nBell Pepper Red · 1kg · $4.99 · Product_Bell_Pepper_Red\nGinger · 250gm · $2.99 · Product_Ginger\nBeef Bone · 1kg · $4.99 · Product_Beef_Bone\nBroiler Chicken · 1kg · $4.99 · Product_Broiler_Chicken\nEgg Chicken Red · 4pcs · $1.99 · Product_Egg_Chicken_Red"
+    },
+    {
+     "id": "5:112",
+     "name": "Beverages (name · size · price)",
+     "x": 80,
+     "y": 3592,
+     "text": "Beverages (name · size · price)"
+    },
+    {
+     "id": "5:115",
+     "name": "Home",
+     "x": 740,
+     "y": 3592,
+     "text": "Home"
+    },
+    {
+     "id": "5:113",
+     "name": "Diet Coke · 355ml · $1.99 Sprite Can · 325ml · $1.50 Apple & Grape Juice · 2L · $15.99 Orange Juice · 2L · $15.99 Coca Cola Can · 325ml · $4.99 Pepsi Can · 330ml · $4.99",
+     "x": 80,
+     "y": 3624,
+     "text": "Diet Coke · 355ml · $1.99\nSprite Can · 325ml · $1.50\nApple & Grape Juice · 2L · $15.99\nOrange Juice · 2L · $15.99\nCoca Cola Can · 325ml · $4.99\nPepsi Can · 330ml · $4.99"
+    },
+    {
+     "id": "5:116",
+     "name": "Location “Dhaka, Banasree” · search “Search Store” Promotion “Fresh Vegetables” · “Get Up To 40% OFF” Exclusive Offer: Organic Bananas, Red Apple Best Selling: Bell Pepper Red, Ginger Groceries: categories Pulses (Category_Pulses), Rice (Category_Rice); Beef Bone, Broiler Chicken",
+     "x": 740,
+     "y": 3624,
+     "text": "Location “Dhaka, Banasree” · search “Search Store”\nPromotion “Fresh Vegetables” · “Get Up To 40% OFF”\nExclusive Offer: Organic Bananas, Red Apple\nBest Selling: Bell Pepper Red, Ginger\nGroceries: categories Pulses (Category_Pulses), Rice (Category_Rice); Beef Bone, Broiler Chicken"
+    },
+    {
+     "id": "5:118",
+     "name": "Product detail",
+     "x": 80,
+     "y": 3830,
+     "text": "Product detail"
+    },
+    {
+     "id": "5:121",
+     "name": "Cart & checkout",
+     "x": 740,
+     "y": 3830,
+     "text": "Cart & checkout"
+    },
+    {
+     "id": "5:119",
+     "name": "“Natural Red Apple” · “1kg, Price” · quantity 1 · $4.99 Product Detail: “Apples are nutritious. Apples may be good for weight loss. Apples may be good for your heart. As part of a healthful and varied diet.” Nutritions: 100gr · Review: 5 of 5 stars",
+     "x": 80,
+     "y": 3862,
+     "text": "“Natural Red Apple” · “1kg, Price” · quantity 1 · $4.99\nProduct Detail: “Apples are nutritious. Apples may be good for weight loss. Apples may be good for your heart. As part of a healthful and varied diet.”\nNutritions: 100gr · Review: 5 of 5 stars"
+    },
+    {
+     "id": "5:122",
+     "name": "Bell Pepper Red $4.99 · Egg Chicken Red $1.99 · Organic Bananas $4.99 · Ginger $2.99 — quantity 1 each Total $14.96 — the same on Go to Checkout and Total Cost Delivery “Select Method” · Promo Code “Pick discount”",
+     "x": 740,
+     "y": 3862,
+     "text": "Bell Pepper Red $4.99 · Egg Chicken Red $1.99 · Organic Bananas $4.99 · Ginger $2.99 — quantity 1 each\nTotal $14.96 — the same on Go to Checkout and Total Cost\nDelivery “Select Method” · Promo Code “Pick discount”"
+    },
+    {
+     "id": "5:124",
+     "name": "Explore",
+     "x": 80,
+     "y": 4026,
+     "text": "Explore"
+    },
+    {
+     "id": "5:127",
+     "name": "Sign in, verification & order",
+     "x": 740,
+     "y": 4026,
+     "text": "Sign in, verification & order"
+    },
+    {
+     "id": "5:125",
+     "name": "“Find Products” · search “Search Store” Fresh Fruits & Vegetable · Cooking Oil & Ghee · Meat & Fish · Bakery & Snacks · Dairy & Eggs · Beverages (images: Category_*)",
+     "x": 80,
+     "y": 4058,
+     "text": "“Find Products” · search “Search Store”\nFresh Fruits & Vegetable · Cooking Oil & Ghee · Meat & Fish · Bakery & Snacks · Dairy & Eggs · Beverages (images: Category_*)"
+    },
+    {
+     "id": "5:128",
+     "name": "Sign in: “Get your groceries with nectar” · +880 · “Or connect with social media” · Continue with Google · Continue with Facebook Verification: “Enter your 4-digit code” · “Code” · Resend Code Onboarding: “Welcome to our store” · “Get your groceries in as fast as one hour” · Get Started Accepted: “Your Order has been accepted” · “Your items have been placed and are on their way to being processed” · Track Order · Back to home",
+     "x": 740,
+     "y": 4058,
+     "text": "Sign in: “Get your groceries with nectar” · +880 · “Or connect with social media” · Continue with Google · Continue with Facebook\nVerification: “Enter your 4-digit code” · “Code” · Resend Code\nOnboarding: “Welcome to our store” · “Get your groceries in as fast as one hour” · Get Started\nAccepted: “Your Order has been accepted” · “Your items have been placed and are on their way to being processed” · Track Order · Back to home"
+    },
+    {
+     "id": "5:130",
+     "name": "Account",
+     "x": 80,
+     "y": 4285,
+     "text": "Account"
+    },
+    {
+     "id": "5:133",
+     "name": "Source corrections",
+     "x": 740,
+     "y": 4285,
+     "text": "Source corrections"
+    },
+    {
+     "id": "5:131",
+     "name": "Afsar Hossen · imshuvo97@gmail.com Orders · My Details · Delivery Address · Payment Methods · Promo Code · Notifications · Help · About · Log Out",
+     "x": 80,
+     "y": 4317,
+     "text": "Afsar Hossen · imshuvo97@gmail.com\nOrders · My Details · Delivery Address · Payment Methods · Promo Code · Notifications · Help · About · Log Out"
+    },
+    {
+     "id": "5:134",
+     "name": "The source has typos (Naturel, Frash, Orenge, “Priceg”, “placcd”, Promo Cord, Notifecations), product prices that differ between screens and cart totals that do not add up ($12.96 / $13.97). Follow this brief, not the source.",
+     "x": 740,
+     "y": 4317,
+     "text": "The source has typos (Naturel, Frash, Orenge, “Priceg”, “placcd”, Promo Cord, Notifecations), product prices that differ between screens and cart totals that do not add up ($12.96 / $13.97). Follow this brief, not the source."
+    },
+    {
+     "id": "5:136",
+     "name": "What is fixed · what is yours",
+     "x": 56,
+     "y": 4452,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "5:139",
+     "name": "Fixed (given)",
+     "x": 80,
+     "y": 4528,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "5:142",
+     "name": "Yours (designer decides)",
+     "x": 740,
+     "y": 4528,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "5:140",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand primary color + Poppins • Media: product photos, category images, logo, flag, illustrations, icons, neutral avatar • Default Button, default Text Field, platform shell",
+     "x": 80,
+     "y": 4562,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand primary color + Poppins\n• Media: product photos, category images, logo, flag, illustrations, icons, neutral avatar\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "5:143",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, surfaces, semantic and rating colors • Type scale, spacing, radii, elevation • All states: selected, pressed, disabled, favourite, quantity, open / closed • Headers, main navigation, overlay and all business components",
+     "x": 740,
+     "y": 4562,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, surfaces, semantic and rating colors\n• Type scale, spacing, radii, elevation\n• All states: selected, pressed, disabled, favourite, quantity, open / closed\n• Headers, main navigation, overlay and all business components"
+    },
+    {
+     "id": "5:145",
+     "name": "How it is evaluated",
+     "x": 56,
+     "y": 4781,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "5:146",
+     "name": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference.",
+     "x": 56,
+     "y": 4833,
+     "text": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference."
+    },
+    {
+     "id": "5:147",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current tabs, quantities, favourite, empty code input, checkout over cart)",
+     "x": 56,
+     "y": 4872,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current tabs, quantities, favourite, empty code input, checkout over cart)"
+    },
+    {
+     "id": "5:148",
+     "name": "Deliverable: the link to your own Figma file containing the 12 named frames, your components and the prototype.",
+     "x": 56,
+     "y": 5056,
+     "text": "Deliverable: the link to your own Figma file containing the 12 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "6:4",
+     "name": "NECTAR · 01 FOUNDATIONS",
+     "x": 56,
+     "y": 56,
+     "text": "NECTAR · 01 FOUNDATIONS"
+    },
+    {
+     "id": "6:5",
+     "name": "Foundations · Nectar",
+     "x": 56,
+     "y": 84,
+     "text": "Foundations · Nectar"
+    },
+    {
+     "id": "6:6",
+     "name": "Fixed: the brand primary color and the typeface below — they carry the Nectar identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, semantic colors (success, error, warning, disabled), rating and supporting colors, type scale, weights per role, spacing, radii and elevation.",
+     "x": 56,
+     "y": 144,
+     "text": "Fixed: the brand primary color and the typeface below — they carry the Nectar identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, semantic colors (success, error, warning, disabled), rating and supporting colors, type scale, weights per role, spacing, radii and elevation."
+    },
+    {
+     "id": "6:8",
+     "name": "Brand color",
+     "x": 56,
+     "y": 249,
+     "text": "Brand color"
+    },
+    {
+     "id": "6:11",
+     "name": "Brand primary",
+     "x": 56,
+     "y": 422,
+     "text": "Brand primary"
+    },
+    {
+     "id": "6:12",
+     "name": "#53B175",
+     "x": 56,
+     "y": 447,
+     "text": "#53B175"
+    },
+    {
+     "id": "6:13",
+     "name": "The Nectar brand color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 471,
+     "text": "The Nectar brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "6:15",
+     "name": "Typeface",
+     "x": 56,
+     "y": 551,
+     "text": "Typeface"
+    },
+    {
+     "id": "6:16",
+     "name": "Poppins",
+     "x": 56,
+     "y": 596,
+     "text": "Poppins"
+    },
+    {
+     "id": "6:17",
+     "name": "Aa Bb Cc 0123456789 $14.96 1kg, Price",
+     "x": 56,
+     "y": 660,
+     "text": "Aa Bb Cc 0123456789  $14.96  1kg, Price"
+    },
+    {
+     "id": "6:18",
+     "name": "Use Poppins for all UI text (Regular / Medium / SemiBold / Bold available). It replaces the source font Gilroy, which is not available. The Nectar logo is supplied as an asset in 04 · Media — do not retype it.",
+     "x": 56,
+     "y": 709,
+     "text": "Use Poppins for all UI text (Regular / Medium / SemiBold / Bold available). It replaces the source font Gilroy, which is not available. The Nectar logo is supplied as an asset in 04 · Media — do not retype it."
+    },
+    {
+     "id": "6:19",
+     "name": "Canvas: 414 × 896 (iPhone). Light mode only. Long screens (Home) may scroll vertically.",
+     "x": 56,
+     "y": 791,
+     "text": "Canvas: 414 × 896 (iPhone). Light mode only. Long screens (Home) may scroll vertically."
+    }
+   ]
+  }
+ ]
+}

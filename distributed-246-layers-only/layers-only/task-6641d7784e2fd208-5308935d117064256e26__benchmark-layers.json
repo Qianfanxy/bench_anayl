@@ -1,0 +1,345 @@
+{
+  "board_count": 17,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "428×926",
+      "nodes": 3,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "From the latest to the g",
+        "Get Started"
+      ]
+    },
+    {
+      "name": "02_Sign_In_Options",
+      "size": "428×926",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "text×4",
+        "frame×3"
+      ],
+      "names": [
+        "Let’s get you in",
+        "Back",
+        "Log in with a password",
+        "Provider Sign In",
+        "Continue with Google"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "428×926",
+      "nodes": 5,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Login to your account",
+        "Back",
+        "Log in"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "428×926",
+      "nodes": 27,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "frame×11"
+      ],
+      "names": [
+        "Welcome back !",
+        "chandrama",
+        "Stats",
+        "Settings",
+        "Lo-Fi Beats",
+        "Explore"
+      ]
+    },
+    {
+      "name": "05_Explore",
+      "size": "428×926",
+      "nodes": 28,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "frame×12"
+      ],
+      "names": [
+        "Search",
+        "Home",
+        "Library",
+        "Songs, Artists, Podcasts",
+        "Browse All",
+        "Made for You"
+      ]
+    },
+    {
+      "name": "06_Library",
+      "size": "428×926",
+      "nodes": 19,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "text×10",
+        "frame×9"
+      ],
+      "names": [
+        "Your Library",
+        "Folders",
+        "3:00am vibes",
+        "Home",
+        "Explore",
+        "Playlists"
+      ]
+    },
+    {
+      "name": "07_Library_Folders",
+      "size": "428×926",
+      "nodes": 21,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "frame×10"
+      ],
+      "names": [
+        "Your Library",
+        "moods",
+        "Home",
+        "Folders",
+        "Playlists",
+        "Artists"
+      ]
+    },
+    {
+      "name": "08_Folder_Moods",
+      "size": "428×926",
+      "nodes": 5,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Moods",
+        "Back",
+        "Lofi Loft"
+      ]
+    },
+    {
+      "name": "09_Playlist",
+      "size": "428×926",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "text×4",
+        "frame×3"
+      ],
+      "names": [
+        "Lofi Loft",
+        "Back",
+        "grainy days",
+        "grainy days - driftwood.",
+        "More on a track",
+        "..."
+      ]
+    },
+    {
+      "name": "10_Now_Playing",
+      "size": "428×926",
+      "nodes": 10,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "text×7",
+        "frame×3"
+      ],
+      "names": [
+        "Lofi Loft",
+        "PLAYING FROM PLAYLIST: L",
+        "More",
+        "Swipe up / queue",
+        "Swipe up for Queue",
+        "grainy days"
+      ]
+    },
+    {
+      "name": "11_Queue",
+      "size": "428×926",
+      "nodes": 24,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "frame×10"
+      ],
+      "names": [
+        "Header",
+        "PLAYING FROM PLAYLIST: L",
+        "now playing :",
+        "grainy days • driftwood.",
+        "next in queue :",
+        "Beguile • Lana Hart"
+      ]
+    },
+    {
+      "name": "12_Equalizer",
+      "size": "428×926",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "frame×6"
+      ],
+      "names": [
+        "Back",
+        "Equalizer",
+        "BUILT-IN SPEAKERS",
+        "PRESETS",
+        "Custom",
+        "Normal"
+      ]
+    },
+    {
+      "name": "13_Sleep_Timer",
+      "size": "428×926",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "frame×8"
+      ],
+      "names": [
+        "Any option",
+        "30 minutes",
+        "Stop audio in",
+        "End of Track",
+        "60 seconds",
+        "5 minutes"
+      ]
+    },
+    {
+      "name": "14_Song_Menu",
+      "size": "428×926",
+      "nodes": 34,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "frame×16"
+      ],
+      "names": [
+        "Add to playlist",
+        "Sleep Timer",
+        "Close",
+        "grainy days",
+        "driftwood.",
+        "Add to queue"
+      ]
+    },
+    {
+      "name": "15_Add_To_Playlist",
+      "size": "428×926",
+      "nodes": 6,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "frame×3",
+        "text×3"
+      ],
+      "names": [
+        "Back",
+        "New Playlist",
+        "Any playlist",
+        "3:00am vibes"
+      ]
+    },
+    {
+      "name": "16_New_Playlist",
+      "size": "428×926",
+      "nodes": 4,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Cancel",
+        "Create"
+      ]
+    },
+    {
+      "name": "17_Stats",
+      "size": "428×926",
+      "nodes": 26,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "frame×12"
+      ],
+      "names": [
+        "Back",
+        "Top",
+        "Past 30 Days",
+        "30 days",
+        "6 Months",
+        "1 Year"
+      ]
+    }
+  ]
+}

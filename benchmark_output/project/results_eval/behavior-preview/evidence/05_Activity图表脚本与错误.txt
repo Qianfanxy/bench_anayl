@@ -1,0 +1,94 @@
+
+messages[68] / m68-call0.js
+0002: const workspace = figma.root.children.find(p => p.id === "5:2");
+0003: const activityFrame = workspace.children.find(c => c.name === "04_Activity");
+0004: const scrollContainer = activityFrame.findOne(n => n.name === "ScrollContent");
+0005: 
+0006: // Help colors & styles
+0007: const BRAND_PRIMARY = { r: 0.141, g: 0.784, b: 0.996 }; // #24C8FE
+0008: const BRAND_LIGHT = { r: 0.91, g: 0.97, b: 1.0 }; // light blue tint
+0009: const TEXT_DARK = { r: 0.102, g: 0.102, b: 0.122 }; // #1A1A1F
+0010: const TEXT_MUTED = { r: 0.53, g: 0.55, b: 0.60 }; // grey muted
+0011: const WHITE = { r: 1, g: 1, b: 1 };
+0023: // CALORIES & CHART CONTAINER
+0024: // -------------------------------------------------------------
+0025: const statsSection = figma.createFrame();
+0026: statsSection.name = "StatsSection";
+0027: statsSection.resize(374, 210);
+0028: statsSection.x = 20;
+0029: statsSection.y = 180;
+0030: statsSection.cornerRadius = 24;
+0031: statsSection.fills = [{ type: 'SOLID', color: WHITE }];
+0032: statsSection.effects = [{
+0033:   type: 'DROP_SHADOW',
+0034:   color: { r: 0, g: 0, b: 0, a: 0.04 },
+0035:   offset: { x: 0, y: 6 },
+0036:   radius: 16,
+0037:   visible: true,
+0038:   blendMode: 'NORMAL'
+0039: }];
+0051: const calLabel = createText("Calories burned", 13, "Medium", TEXT_MUTED);
+0052: const calValue = createText("1,680 kcal", 22, "Bold", TEXT_DARK);
+0053: calHeader.appendChild(calLabel);
+0054: calHeader.appendChild(calValue);
+0055: statsSection.appendChild(calHeader);
+0056: 
+0057: // -------------------------------------------------------------
+0058: // HOURLY CALORIES CHART
+0059: // axis 8AM · 10AM · 12PM · 2PM · 4PM · selected: 4PM · 120 cal
+0060: // We will construct this as a clean, stylish custom SVG curve or vector path with markers in Figma
+0061: // -------------------------------------------------------------
+0062: const chartContainer = figma.createFrame();
+0072: curve.name = "ChartCurve";
+0073: // Vector data
+0074: curve.vectorPaths = [{
+0075:   windingRule: "EVENODD",
+0076:   data: "M 0 60 C 30 50, 50 30, 80 40 C 110 50, 140 80, 170 60 C 200 40, 220 10, 250 20 C 280 30, 300 50, 334 10"
+0077: }];
+0078: curve.resize(334, 60);
+0079: curve.x = 0;
+0080: curve.y = 15;
+0081: curve.strokes = [{ type: 'SOLID', color: BRAND_PRIMARY }];
+0082: curve.strokeWeight = 3;
+0083: curve.strokeCap = "ROUND";
+0084: chartContainer.appendChild(curve);
+0085: 
+0086: // Bottom labels (X axis)
+0087: const hours = ["8AM", "10AM", "12PM", "2PM", "4PM"];
+0088: const xStep = 334 / 4;
+0089: hours.forEach((h, idx) => {
+0090:   const isSelected = h === "4PM";
+0091:   const lbl = createText(h, 11, isSelected ? "Bold" : "Medium", isSelected ? BRAND_PRIMARY : TEXT_MUTED);
+0096:   if (idx === 4) lbl.x = 334 - 40;
+0097:   lbl.y = 90;
+0098:   chartContainer.appendChild(lbl);
+0099: });
+0100: 
+0101: // Selected dot & tooltip at 4PM
+0102: // 4PM is at position index 4 (x = 334, y = 10 on the spline)
+0103: const dot = figma.createEllipse();
+0104: dot.name = "SelectedDot";
+0105: dot.resize(10, 10);
+0109: dot.strokes = [{ type: 'SOLID', color: WHITE }];
+0110: dot.strokeWeight = 2;
+0111: chartContainer.appendChild(dot);
+0112: 
+0113: // Elegant tooltip above 4PM: "120 cal"
+0114: const tooltip = figma.createFrame();
+0115: tooltip.name = "Tooltip";
+0116: tooltip.resize(64, 26);
+0117: tooltip.x = 334 - 32;
+0118: tooltip.y = -10;
+0124: 
+0125: const toolText = createText("120 cal", 11, "Bold", WHITE);
+0126: tooltip.appendChild(toolText);
+0127: chartContainer.appendChild(tooltip);
+0128: 
+0129: statsSection.appendChild(chartContainer);
+0130: scrollContainer.appendChild(statsSection);
+0131: 
+0132: console.log("04_Activity stats section with custom chart curve successfully built");
+0133: return "Calories chart built successfully";
+
+messages[69] / m69-result.txt
+0001: [{"type": "tool_result", "content": "Error: in set_vectorPaths: Failed to convert path. Invalid command at ,\n    at set (<input>:78:11)\n    at <anonymous> (PLUGIN_61_SOURCE:74:6)\n    at <eval> (PLUGIN_61_SOURCE:135:3)\n\nFigma Debug UUID: 6c324601-baf0-45a1-92e9-24dc7f75cc64\n\n<system-reminder>\n<total_tokens>14903801 tokens left</total_tokens>\n</system-reminder>", "is_error": true, "tool_use_id": "call_9b2cf40966784efead60667ed831d1e4", "cache_control": {"type": "ephemeral"}}]

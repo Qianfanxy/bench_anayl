@@ -1,0 +1,606 @@
+{
+ "file_key": "Due9oPeFd4oHqHjMvF2ehH",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "7:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "7:5",
+     "name": "Expenio — personal expense manager",
+     "x": 64,
+     "y": 95,
+     "text": "Expenio — personal expense manager"
+    },
+    {
+     "id": "7:6",
+     "name": "Design Expenio, a personal expense manager: get started, check your balance and spending, open your wallet, add a new card, pay a friend and keep the receipt. Canvas 375 × 812, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design Expenio, a personal expense manager: get started, check your balance and spending, open your wallet, add a new card, pay a friend and keep the receipt. Canvas 375 × 812, iPhone, light mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "7:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "7:9",
+     "name": "1. Build exactly the 6 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the navigation and every business component as reusable components in your file. 5. Use the logo, illustrations, card artwork, avatars, merchant and card-network marks and icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 6 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the navigation and every business component as reusable components in your file.\n5. Use the logo, illustrations, card artwork, avatars, merchant and card-network marks and icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "7:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 532,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "7:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 583,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "7:15",
+     "name": "01_Get_Started",
+     "x": 88,
+     "y": 645,
+     "text": "01_Get_Started"
+    },
+    {
+     "id": "7:22",
+     "name": "02_Home",
+     "x": 756,
+     "y": 645,
+     "text": "02_Home"
+    },
+    {
+     "id": "7:16",
+     "name": "Goal: Understand what Expenio is and start.",
+     "x": 88,
+     "y": 681,
+     "text": "Goal: Understand what Expenio is and start."
+    },
+    {
+     "id": "7:23",
+     "name": "Goal: See my balance, spending trend and latest transactions.",
+     "x": 756,
+     "y": 681,
+     "text": "Goal: See my balance, spending trend and latest transactions."
+    },
+    {
+     "id": "7:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:18",
+     "name": "• Actions: “Get Started” • App: Logo_Expenio • Copy: “Going cashless has never been easier with the world’s leading expense manager.” • Media: Illustration_Get_Started",
+     "x": 88,
+     "y": 737,
+     "text": "• Actions: “Get Started”\n• App: Logo_Expenio\n• Copy: “Going cashless has never been easier with the world’s leading expense manager.”\n• Media: Illustration_Get_Started"
+    },
+    {
+     "id": "7:25",
+     "name": "• Actions: open balance (Icon_Chevron_Right) · “See all” · new payment (Icon_Plus) • Balance: “My Balance” · $25,520.00 • Expenses: “Expenses” chart, MAR – AUG, JUN highlighted at $80.40 • Greeting: “Hello, Maria” · “Home” · Avatar_Maria_Lopez • Transactions: “Wallet” · 3 rows (see DATA)",
+     "x": 756,
+     "y": 737,
+     "text": "• Actions: open balance (Icon_Chevron_Right) · “See all” · new payment (Icon_Plus)\n• Balance: “My Balance” · $25,520.00\n• Expenses: “Expenses” chart, MAR – AUG, JUN highlighted at $80.40\n• Greeting: “Hello, Maria” · “Home” · Avatar_Maria_Lopez\n• Transactions: “Wallet” · 3 rows (see DATA)"
+    },
+    {
+     "id": "7:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 847,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 847,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:20",
+     "name": "→ Get Started → 02_Home",
+     "x": 88,
+     "y": 873,
+     "text": "→ Get Started → 02_Home"
+    },
+    {
+     "id": "7:27",
+     "name": "→ open balance / See all → 03_Wallet → new payment → 05_Payment",
+     "x": 756,
+     "y": 873,
+     "text": "→ open balance / See all → 03_Wallet\n→ new payment → 05_Payment"
+    },
+    {
+     "id": "7:29",
+     "name": "03_Wallet",
+     "x": 88,
+     "y": 985,
+     "text": "03_Wallet"
+    },
+    {
+     "id": "7:36",
+     "name": "04_Add_Card",
+     "x": 756,
+     "y": 985,
+     "text": "04_Add_Card"
+    },
+    {
+     "id": "7:30",
+     "name": "Goal: Review my card, an offer and my transactions.",
+     "x": 88,
+     "y": 1021,
+     "text": "Goal: Review my card, an offer and my transactions."
+    },
+    {
+     "id": "7:37",
+     "name": "Goal: Add a new payment card.",
+     "x": 756,
+     "y": 1021,
+     "text": "Goal: Add a new payment card."
+    },
+    {
+     "id": "7:31",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1051,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:38",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1051,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:32",
+     "name": "• Actions: “Back” (Icon_Back) · add card (Icon_Add_Card) • Card: Maria’s Visa card (see DATA) · card 1 of 3 in the wallet • Header: “Wallet” • Promo: “POPULAR” · “Get up to 15% cashback on clothing and apparel” (Promo_Cashback) • Transactions: “Transactions” · 3 rows (see DATA)",
+     "x": 88,
+     "y": 1077,
+     "text": "• Actions: “Back” (Icon_Back) · add card (Icon_Add_Card)\n• Card: Maria’s Visa card (see DATA) · card 1 of 3 in the wallet\n• Header: “Wallet”\n• Promo: “POPULAR” · “Get up to 15% cashback on clothing and apparel” (Promo_Cashback)\n• Transactions: “Transactions” · 3 rows (see DATA)"
+    },
+    {
+     "id": "7:39",
+     "name": "• Actions: close (Icon_Close) · “Add new card” • Card preview: shows the number typed so far (see DATA, Logo_Mastercard); name and expiry not yet entered • Form: “Card holder’s name” (empty, placeholder “Name on card”) · “Card number” 5412 7534 0089 2216, focused, Mastercard detected (Logo_Mastercard) · “Expiry Date” (empty, placeholder “MM / YY”) · “CVV” (empty, placeholder “123”, help Icon_Help) • Header: “Add new card” • Presentation: sheet over 03_Wallet",
+     "x": 756,
+     "y": 1077,
+     "text": "• Actions: close (Icon_Close) · “Add new card”\n• Card preview: shows the number typed so far (see DATA, Logo_Mastercard); name and expiry not yet entered\n• Form: “Card holder’s name” (empty, placeholder “Name on card”) · “Card number” 5412 7534 0089 2216, focused, Mastercard detected (Logo_Mastercard) · “Expiry Date” (empty, placeholder “MM / YY”) · “CVV” (empty, placeholder “123”, help Icon_Help)\n• Header: “Add new card”\n• Presentation: sheet over 03_Wallet"
+    },
+    {
+     "id": "7:33",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1207,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:34",
+     "name": "→ Back → 02_Home → add card → 04_Add_Card",
+     "x": 88,
+     "y": 1233,
+     "text": "→ Back → 02_Home\n→ add card → 04_Add_Card"
+    },
+    {
+     "id": "7:40",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1247,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:41",
+     "name": "→ Add new card / close → 03_Wallet",
+     "x": 756,
+     "y": 1273,
+     "text": "→ Add new card / close → 03_Wallet"
+    },
+    {
+     "id": "7:43",
+     "name": "05_Payment",
+     "x": 88,
+     "y": 1365,
+     "text": "05_Payment"
+    },
+    {
+     "id": "7:50",
+     "name": "06_Receipt",
+     "x": 756,
+     "y": 1365,
+     "text": "06_Receipt"
+    },
+    {
+     "id": "7:44",
+     "name": "Goal: Pay Robert $50.00 with my card.",
+     "x": 88,
+     "y": 1401,
+     "text": "Goal: Pay Robert $50.00 with my card."
+    },
+    {
+     "id": "7:51",
+     "name": "Goal: Confirm what I paid.",
+     "x": 756,
+     "y": 1401,
+     "text": "Goal: Confirm what I paid."
+    },
+    {
+     "id": "7:45",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1431,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:52",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1431,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:46",
+     "name": "• Actions: “Cancel” · “Pay now” • Amount: $50.00 • Card: Maria’s Visa card (as on 03_Wallet) · card 1 of 3 • Header: “Payment” • Note: “Add a note” (empty) • Payee: “PAYING” · “Robert Dawson” (Avatar_Robert_Dawson)",
+     "x": 88,
+     "y": 1457,
+     "text": "• Actions: “Cancel” · “Pay now”\n• Amount: $50.00\n• Card: Maria’s Visa card (as on 03_Wallet) · card 1 of 3\n• Header: “Payment”\n• Note: “Add a note” (empty)\n• Payee: “PAYING” · “Robert Dawson” (Avatar_Robert_Dawson)"
+    },
+    {
+     "id": "7:53",
+     "name": "• Actions: share (Icon_Share) · “Home” • Header: “Receipt” • Receipt: “CASH RECEIPT” · 20.08.2020 · Amount · Service Fee · Internet Charge · Total · barcode (Barcode_Receipt) (see DATA)",
+     "x": 756,
+     "y": 1457,
+     "text": "• Actions: share (Icon_Share) · “Home”\n• Header: “Receipt”\n• Receipt: “CASH RECEIPT” · 20.08.2020 · Amount · Service Fee · Internet Charge · Total · barcode (Barcode_Receipt) (see DATA)"
+    },
+    {
+     "id": "7:54",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1547,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:55",
+     "name": "→ Home → 02_Home",
+     "x": 756,
+     "y": 1573,
+     "text": "→ Home → 02_Home"
+    },
+    {
+     "id": "7:47",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1587,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:48",
+     "name": "→ Pay now → 06_Receipt → Cancel → 02_Home",
+     "x": 88,
+     "y": 1613,
+     "text": "→ Pay now → 06_Receipt\n→ Cancel → 02_Home"
+    },
+    {
+     "id": "7:57",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 1725,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "7:58",
+     "name": "• Flow: 01_Get_Started → Get Started → 02_Home. From 02: open balance or See all → 03_Wallet; new payment → 05_Payment → Pay now → 06_Receipt → Home → 02_Home. • 04_Add_Card is a sheet over 03_Wallet. There is no tab bar in this task. • Entry only (no frame): transaction rows, chart points, the promo, other cards in the wallet, share, typing a note.",
+     "x": 64,
+     "y": 1776,
+     "text": "• Flow: 01_Get_Started → Get Started → 02_Home. From 02: open balance or See all → 03_Wallet; new payment → 05_Payment → Pay now → 06_Receipt → Home → 02_Home.\n• 04_Add_Card is a sheet over 03_Wallet. There is no tab bar in this task.\n• Entry only (no frame): transaction rows, chart points, the promo, other cards in the wallet, share, typing a note."
+    },
+    {
+     "id": "7:60",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 1890,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "7:61",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 1941,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "7:64",
+     "name": "User",
+     "x": 84,
+     "y": 1999,
+     "text": "User"
+    },
+    {
+     "id": "7:67",
+     "name": "Balance",
+     "x": 528,
+     "y": 1999,
+     "text": "Balance"
+    },
+    {
+     "id": "7:70",
+     "name": "Expenses chart",
+     "x": 972,
+     "y": 1999,
+     "text": "Expenses chart"
+    },
+    {
+     "id": "7:65",
+     "name": "Maria Lopez · Avatar_Maria_Lopez",
+     "x": 84,
+     "y": 2027,
+     "text": "Maria Lopez · Avatar_Maria_Lopez"
+    },
+    {
+     "id": "7:68",
+     "name": "My Balance $25,520.00 (the same balance printed on Maria’s card)",
+     "x": 528,
+     "y": 2027,
+     "text": "My Balance $25,520.00 (the same balance printed on Maria’s card)"
+    },
+    {
+     "id": "7:71",
+     "name": "Months MAR · APR · MAY · JUN · JUL · AUG Highlighted point: JUN · $80.40 (the curve shape of other months is illustrative)",
+     "x": 972,
+     "y": 2027,
+     "text": "Months MAR · APR · MAY · JUN · JUL · AUG\nHighlighted point: JUN · $80.40 (the curve shape of other months is illustrative)"
+    },
+    {
+     "id": "7:73",
+     "name": "Transactions (newest first)",
+     "x": 84,
+     "y": 2148,
+     "text": "Transactions (newest first)"
+    },
+    {
+     "id": "7:76",
+     "name": "Maria’s card",
+     "x": 528,
+     "y": 2148,
+     "text": "Maria’s card"
+    },
+    {
+     "id": "7:79",
+     "name": "New card (04)",
+     "x": 972,
+     "y": 2148,
+     "text": "New card (04)"
+    },
+    {
+     "id": "7:74",
+     "name": "Nike Air Max 2090 · 15 Aug 2020 · −$243.00 (Merchant_Nike) iPad Pro 2020 · 10 Aug 2020 · −$799.00 (Merchant_Apple) Uber · 5 Mar 2020 · +$50.00 (Merchant_Uber)",
+     "x": 84,
+     "y": 2176,
+     "text": "Nike Air Max 2090 · 15 Aug 2020 · −$243.00 (Merchant_Nike)\niPad Pro 2020 · 10 Aug 2020 · −$799.00 (Merchant_Apple)\nUber · 5 Mar 2020 · +$50.00 (Merchant_Uber)"
+    },
+    {
+     "id": "7:77",
+     "name": "Visa (Logo_Visa) · BALANCE $25,520.00 4225 9765 0008 6141 · MARIA LOPEZ · EXPIRY 09/24 Artwork: Card_Texture_Coral",
+     "x": 528,
+     "y": 2176,
+     "text": "Visa (Logo_Visa) · BALANCE $25,520.00\n4225 9765 0008 6141 · MARIA LOPEZ · EXPIRY 09/24\nArtwork: Card_Texture_Coral"
+    },
+    {
+     "id": "7:80",
+     "name": "Mastercard (Logo_Mastercard) · 5412 7534 0089 2216 Holder name, expiry and CVV not yet entered",
+     "x": 972,
+     "y": 2176,
+     "text": "Mastercard (Logo_Mastercard) · 5412 7534 0089 2216\nHolder name, expiry and CVV not yet entered"
+    },
+    {
+     "id": "7:82",
+     "name": "Promo",
+     "x": 84,
+     "y": 2297,
+     "text": "Promo"
+    },
+    {
+     "id": "7:85",
+     "name": "Payment",
+     "x": 528,
+     "y": 2297,
+     "text": "Payment"
+    },
+    {
+     "id": "7:88",
+     "name": "Receipt",
+     "x": 972,
+     "y": 2297,
+     "text": "Receipt"
+    },
+    {
+     "id": "7:83",
+     "name": "POPULAR · Get up to 15% cashback on clothing and apparel · Promo_Cashback",
+     "x": 84,
+     "y": 2325,
+     "text": "POPULAR · Get up to 15% cashback on clothing and apparel · Promo_Cashback"
+    },
+    {
+     "id": "7:86",
+     "name": "Paying Robert Dawson (Avatar_Robert_Dawson) · $50.00 · from Maria’s Visa card",
+     "x": 528,
+     "y": 2325,
+     "text": "Paying Robert Dawson (Avatar_Robert_Dawson) · $50.00 · from Maria’s Visa card"
+    },
+    {
+     "id": "7:89",
+     "name": "CASH RECEIPT · 20.08.2020 Amount $40.00 · Service Fee $2.82 · Internet Charge $7.18 Total $50.00",
+     "x": 972,
+     "y": 2325,
+     "text": "CASH RECEIPT · 20.08.2020\nAmount $40.00 · Service Fee $2.82 · Internet Charge $7.18\nTotal $50.00"
+    },
+    {
+     "id": "7:91",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 2450,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "7:94",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 2525,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "7:97",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 2525,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "7:95",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand color #007AFF and Inter • Media: logo, illustrations, card artwork, avatars, merchant and card-network marks, barcode, icons • Default Button, default Text Field, platform shell",
+     "x": 88,
+     "y": 2558,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand color #007AFF and Inter\n• Media: logo, illustrations, card artwork, avatars, merchant and card-network marks, barcode, icons\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "7:98",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, backgrounds / surfaces, chart, positive / negative amounts, error / disabled • Type scale, spacing, radii, elevation • All states: focused field, current card in the wallet, highlighted chart point, pressed, disabled • Headers, balance card, payment card, chart, transaction rows, promo card, sheet, receipt • How images are cropped and treated",
+     "x": 756,
+     "y": 2558,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, backgrounds / surfaces, chart, positive / negative amounts, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: focused field, current card in the wallet, highlighted chart point, pressed, disabled\n• Headers, balance card, payment card, chart, transaction rows, promo card, sheet, receipt\n• How images are cropped and treated"
+    },
+    {
+     "id": "7:100",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 2810,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "7:101",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 2861,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "7:102",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (focused card-number field, current card, highlighted chart point, sheet presentation)",
+     "x": 64,
+     "y": 2899,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (focused card-number field, current card, highlighted chart point, sheet presentation)"
+    },
+    {
+     "id": "7:103",
+     "name": "Deliverable: the link to your own Figma file containing the 6 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 3069,
+     "text": "Deliverable: the link to your own Figma file containing the 6 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · Expenio",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Expenio"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces (including any tint or gradient), the payment-card artwork, chart colors, positive / negative amounts, error and disabled, type scale, spacing, radii and elevation.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces (including any tint or gradient), the payment-card artwork, chart colors, positive / negative amounts, error and disabled, type scale, spacing, radii and elevation."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand color",
+     "x": 56,
+     "y": 189,
+     "text": "Brand color"
+    },
+    {
+     "id": "1:12",
+     "name": "Brand primary · blue",
+     "x": 56,
+     "y": 373,
+     "text": "Brand primary · blue"
+    },
+    {
+     "id": "1:13",
+     "name": "#007AFF",
+     "x": 56,
+     "y": 398,
+     "text": "#007AFF"
+    },
+    {
+     "id": "1:14",
+     "name": "Expenio’s main brand color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 422,
+     "text": "Expenio’s main brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:15",
+     "name": "Typeface",
+     "x": 56,
+     "y": 484,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:16",
+     "name": "Aa Bb Cc 0123456789 $25,520.00",
+     "x": 56,
+     "y": 540,
+     "text": "Aa Bb Cc 0123456789  $25,520.00"
+    },
+    {
+     "id": "1:17",
+     "name": "Use Inter for all UI text (it replaces the source’s SF Pro and Helvetica Neue, which are not available). Numbers printed on the payment card may use a monospaced face of your choice. Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 620,
+     "text": "Use Inter for all UI text (it replaces the source’s SF Pro and Helvetica Neue, which are not available). Numbers printed on the payment card may use a monospaced face of your choice. Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:18",
+     "name": "Canvas: 375 × 812 (iPhone X / 11 Pro). Light mode only. 02_Home and 03_Wallet may scroll vertically.",
+     "x": 56,
+     "y": 686,
+     "text": "Canvas: 375 × 812 (iPhone X / 11 Pro). Light mode only. 02_Home and 03_Wallet may scroll vertically."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,634 @@
+{
+ "file_key": "nISgchmziUh7mWv20c4JGx",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "4:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "4:5",
+     "name": "Stock Trading — Indonesian stock investing app",
+     "x": 64,
+     "y": 95,
+     "text": "Stock Trading — Indonesian stock investing app"
+    },
+    {
+     "id": "4:6",
+     "name": "Design an Indonesian stock investing app (Bahasa Indonesia, dark mode): see your main balance, today’s trending tickers and your watchlist, browse global trending stocks, open the GOTO stock detail, and top up your balance at Alfamart up to the payment code. Canvas 375 × 812, dark mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design an Indonesian stock investing app (Bahasa Indonesia, dark mode): see your main balance, today’s trending tickers and your watchlist, browse global trending stocks, open the GOTO stock detail, and top up your balance at Alfamart up to the payment code. Canvas 375 × 812, dark mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "4:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 282,
+     "text": "How to work"
+    },
+    {
+     "id": "4:9",
+     "name": "1. Build exactly the 6 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand primary color, the typeface and dark mode in 01 · Foundations are fixed. Define every other color yourself (dark background and surface levels, neutrals, text, gain / loss, selected, warning, error / disabled, chart colors), plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the tab bar, tabs and chips, and every business component as reusable components in your file. 5. Use the company logos, ticker marks and icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly (Indonesian number format: Rp2.125.000 · 0,58%). This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 333,
+     "text": "1. Build exactly the 6 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color, the typeface and dark mode in 01 · Foundations are fixed. Define every other color yourself (dark background and surface levels, neutrals, text, gain / loss, selected, warning, error / disabled, chart colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the tab bar, tabs and chips, and every business component as reusable components in your file.\n5. Use the company logos, ticker marks and icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly (Indonesian number format: Rp2.125.000 · 0,58%). This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "4:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 579,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "4:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 630,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "4:15",
+     "name": "01_Aktivitas",
+     "x": 88,
+     "y": 692,
+     "text": "01_Aktivitas"
+    },
+    {
+     "id": "4:22",
+     "name": "02_Trending",
+     "x": 756,
+     "y": 692,
+     "text": "02_Trending"
+    },
+    {
+     "id": "4:16",
+     "name": "Goal: See my balance, today’s trending tickers and my watchlist.",
+     "x": 88,
+     "y": 728,
+     "text": "Goal: See my balance, today’s trending tickers and my watchlist."
+    },
+    {
+     "id": "4:23",
+     "name": "Goal: Browse what is trending in global and regional markets.",
+     "x": 756,
+     "y": 728,
+     "text": "Goal: Browse what is trending in global and regional markets."
+    },
+    {
+     "id": "4:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 758,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 758,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:18",
+     "name": "• Actions: Deposit (Icon_Deposit) · Tarik (Icon_Withdraw) • Balance: “Dana Utama” · Rp2.125.000 · rising Rp206.920 (10,79%) • Header: “Aktivitas” · menu (Icon_Menu) · settings (Icon_Settings) • Main navigation: tab bar Aktivitas / Trending / Top Up / Pasar / Profil · current: Aktivitas • Trending today: “Trending Hari ini” · BRRI · ARB · FSX, each with mark, ticker, price and change (see DATA) • Watchlist: “Watchlist Saya” · add (Icon_Plus) · DHDI · AMRI · ODD · PYQ · DAN, each with mark, ticker, company, price and change (see DATA)",
+     "x": 88,
+     "y": 784,
+     "text": "• Actions: Deposit (Icon_Deposit) · Tarik (Icon_Withdraw)\n• Balance: “Dana Utama” · Rp2.125.000 · rising Rp206.920 (10,79%)\n• Header: “Aktivitas” · menu (Icon_Menu) · settings (Icon_Settings)\n• Main navigation: tab bar Aktivitas / Trending / Top Up / Pasar / Profil · current: Aktivitas\n• Trending today: “Trending Hari ini” · BRRI · ARB · FSX, each with mark, ticker, price and change (see DATA)\n• Watchlist: “Watchlist Saya” · add (Icon_Plus) · DHDI · AMRI · ODD · PYQ · DAN, each with mark, ticker, company, price and change (see DATA)"
+    },
+    {
+     "id": "4:25",
+     "name": "• Header: “Trending” · menu (Icon_Menu) · settings (Icon_Settings) • Indices: IHSG · NIKKEI · SENSEX, each with value and direction (see DATA) • Main navigation: tab bar · current: Trending • Market tabs: Global · Crypto · Reksadana · CFD · current: Global • Recommendations: “Rekomendasi” · NFLX · META · AMZN, each with ticker, company, price and change (see DATA) • Regions: Asia · Eropa · Amerika · Mata Uang · current: Asia • Trending list: “Trending” · period “24 jam” (Icon_Chevron_Down) · ROTI · GOTO · ABNB · UNVR · BBRI · ADRO, each with logo, ticker, company, price and change (see DATA) · “Lihat Semua” (Icon_Chevron_Right)",
+     "x": 756,
+     "y": 784,
+     "text": "• Header: “Trending” · menu (Icon_Menu) · settings (Icon_Settings)\n• Indices: IHSG · NIKKEI · SENSEX, each with value and direction (see DATA)\n• Main navigation: tab bar · current: Trending\n• Market tabs: Global · Crypto · Reksadana · CFD · current: Global\n• Recommendations: “Rekomendasi” · NFLX · META · AMZN, each with ticker, company, price and change (see DATA)\n• Regions: Asia · Eropa · Amerika · Mata Uang · current: Asia\n• Trending list: “Trending” · period “24 jam” (Icon_Chevron_Down) · ROTI · GOTO · ABNB · UNVR · BBRI · ADRO, each with logo, ticker, company, price and change (see DATA) · “Lihat Semua” (Icon_Chevron_Right)"
+    },
+    {
+     "id": "4:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 954,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:20",
+     "name": "→ Deposit → 04_Top_Up_Metode → Trending tab → 02_Trending → Top Up tab → 04_Top_Up_Metode",
+     "x": 88,
+     "y": 980,
+     "text": "→ Deposit → 04_Top_Up_Metode\n→ Trending tab → 02_Trending\n→ Top Up tab → 04_Top_Up_Metode"
+    },
+    {
+     "id": "4:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 994,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:27",
+     "name": "→ GOTO → 03_Detail_Saham → Aktivitas tab → 01_Aktivitas → Top Up tab → 04_Top_Up_Metode",
+     "x": 756,
+     "y": 1020,
+     "text": "→ GOTO → 03_Detail_Saham\n→ Aktivitas tab → 01_Aktivitas\n→ Top Up tab → 04_Top_Up_Metode"
+    },
+    {
+     "id": "4:29",
+     "name": "03_Detail_Saham",
+     "x": 88,
+     "y": 1152,
+     "text": "03_Detail_Saham"
+    },
+    {
+     "id": "4:36",
+     "name": "04_Top_Up_Metode",
+     "x": 756,
+     "y": 1152,
+     "text": "04_Top_Up_Metode"
+    },
+    {
+     "id": "4:30",
+     "name": "Goal: Understand how GOTO is doing before buying or selling.",
+     "x": 88,
+     "y": 1188,
+     "text": "Goal: Understand how GOTO is doing before buying or selling."
+    },
+    {
+     "id": "4:37",
+     "name": "Goal: Choose how to top up my balance.",
+     "x": 756,
+     "y": 1188,
+     "text": "Goal: Choose how to top up my balance."
+    },
+    {
+     "id": "4:31",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1218,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:38",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1218,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:32",
+     "name": "• Actions: Beli · Jual • Chart: 1D price line with a highlighted point and tooltip, time axis 6:00 – 2:00 (see DATA) • Compare: “Dibandingkan dengan” · BUKA · BBRI · SIDO, each with company, ticker, price and change (see DATA) • Header: back (Icon_Back) · add (Icon_Plus) · share (Icon_Share) · favorite (Icon_Star) • Key stats: “Keystats” · 8 rows (see DATA) • Range tabs: 1D · 5D · 1M · 6M · YTD · 1Y · 5Y · MAX · current: 1D • Stock: Logo_GOTO · GOTO · GoTo Gojek Tokopedia · Rp189 · falling −Rp9 (−4,55%) · “Hari ini”",
+     "x": 88,
+     "y": 1244,
+     "text": "• Actions: Beli · Jual\n• Chart: 1D price line with a highlighted point and tooltip, time axis 6:00 – 2:00 (see DATA)\n• Compare: “Dibandingkan dengan” · BUKA · BBRI · SIDO, each with company, ticker, price and change (see DATA)\n• Header: back (Icon_Back) · add (Icon_Plus) · share (Icon_Share) · favorite (Icon_Star)\n• Key stats: “Keystats” · 8 rows (see DATA)\n• Range tabs: 1D · 5D · 1M · 6M · YTD · 1Y · 5Y · MAX · current: 1D\n• Stock: Logo_GOTO · GOTO · GoTo Gojek Tokopedia · Rp189 · falling −Rp9 (−4,55%) · “Hari ini”"
+    },
+    {
+     "id": "4:39",
+     "name": "• Balance: “Dana Saya” · Rp2.125.000 • Header: “Top Up” · back (Icon_Back) · help (Icon_Help) • Main navigation: tab bar · current: Top Up • Methods: “Pilih Metode” · ATM (Icon_ATM) · Kartu Debit (Icon_Debit_Card) · Mobile Banking (Icon_Mobile_Banking) · Indomaret (Icon_Store) · Alfamart (Icon_Store), each opens its next step (Icon_Chevron_Right)",
+     "x": 756,
+     "y": 1244,
+     "text": "• Balance: “Dana Saya” · Rp2.125.000\n• Header: “Top Up” · back (Icon_Back) · help (Icon_Help)\n• Main navigation: tab bar · current: Top Up\n• Methods: “Pilih Metode” · ATM (Icon_ATM) · Kartu Debit (Icon_Debit_Card) · Mobile Banking (Icon_Mobile_Banking) · Indomaret (Icon_Store) · Alfamart (Icon_Store), each opens its next step (Icon_Chevron_Right)"
+    },
+    {
+     "id": "4:40",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1374,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:41",
+     "name": "→ Alfamart → 05_Top_Up_Nominal → back → 01_Aktivitas",
+     "x": 756,
+     "y": 1400,
+     "text": "→ Alfamart → 05_Top_Up_Nominal\n→ back → 01_Aktivitas"
+    },
+    {
+     "id": "4:33",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1434,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:34",
+     "name": "→ back → 02_Trending",
+     "x": 88,
+     "y": 1460,
+     "text": "→ back → 02_Trending"
+    },
+    {
+     "id": "4:43",
+     "name": "05_Top_Up_Nominal",
+     "x": 88,
+     "y": 1552,
+     "text": "05_Top_Up_Nominal"
+    },
+    {
+     "id": "4:50",
+     "name": "06_Top_Up_Pembayaran",
+     "x": 756,
+     "y": 1552,
+     "text": "06_Top_Up_Pembayaran"
+    },
+    {
+     "id": "4:44",
+     "name": "Goal: Pick the top-up amount for Alfamart.",
+     "x": 88,
+     "y": 1588,
+     "text": "Goal: Pick the top-up amount for Alfamart."
+    },
+    {
+     "id": "4:51",
+     "name": "Goal: Know exactly how and by when to pay at the store.",
+     "x": 756,
+     "y": 1588,
+     "text": "Goal: Know exactly how and by when to pay at the store."
+    },
+    {
+     "id": "4:45",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1618,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:52",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1618,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:46",
+     "name": "• Action: Bayar • Amount options: “Pilih Nominal Top Up” · Rp50.000 · Rp100.000 · Rp200.000 · Rp300.000 · Rp500.000 · Rp1.000.000 · selected: Rp500.000 • Custom amount: “Atau masukkan nominal di sini” · field “Minimal Rp10.000” — empty • Header: “Top Up” · back (Icon_Back) · help (Icon_Help) • Main navigation: tab bar · current: Top Up • Method: “Top Up ke” · Alfamart (Icon_Store) · “Ganti” • Steps: 1 Masukkan Nominal · 2 Pembayaran · current: step 1",
+     "x": 88,
+     "y": 1644,
+     "text": "• Action: Bayar\n• Amount options: “Pilih Nominal Top Up” · Rp50.000 · Rp100.000 · Rp200.000 · Rp300.000 · Rp500.000 · Rp1.000.000 · selected: Rp500.000\n• Custom amount: “Atau masukkan nominal di sini” · field “Minimal Rp10.000” — empty\n• Header: “Top Up” · back (Icon_Back) · help (Icon_Help)\n• Main navigation: tab bar · current: Top Up\n• Method: “Top Up ke” · Alfamart (Icon_Store) · “Ganti”\n• Steps: 1 Masukkan Nominal · 2 Pembayaran · current: step 1"
+    },
+    {
+     "id": "4:53",
+     "name": "• Action: Oke • Deadline: “Bayar Sebelum” · Minggu, 30 Oktober 2022, 13:32 WIB · countdown 00 : 08 : 46 • Guide: “Panduan Pembayaran” · 6 steps (see DATA) • Payment: No Transaksi · Nominal · Kode Pembayaran with copy (Icon_Copy) (see DATA) • Title: “Selesaikan Pembayaran” · “Silakan selesaikan proses pembayaran”",
+     "x": 756,
+     "y": 1644,
+     "text": "• Action: Oke\n• Deadline: “Bayar Sebelum” · Minggu, 30 Oktober 2022, 13:32 WIB · countdown 00 : 08 : 46\n• Guide: “Panduan Pembayaran” · 6 steps (see DATA)\n• Payment: No Transaksi · Nominal · Kode Pembayaran with copy (Icon_Copy) (see DATA)\n• Title: “Selesaikan Pembayaran” · “Silakan selesaikan proses pembayaran”"
+    },
+    {
+     "id": "4:54",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1774,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:55",
+     "name": "→ Oke → 01_Aktivitas",
+     "x": 756,
+     "y": 1800,
+     "text": "→ Oke → 01_Aktivitas"
+    },
+    {
+     "id": "4:47",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1814,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:48",
+     "name": "→ Bayar → 06_Top_Up_Pembayaran → back / Ganti → 04_Top_Up_Metode",
+     "x": 88,
+     "y": 1840,
+     "text": "→ Bayar → 06_Top_Up_Pembayaran\n→ back / Ganti → 04_Top_Up_Metode"
+    },
+    {
+     "id": "4:57",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 1952,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "4:58",
+     "name": "• Bottom tab bar with 5 tabs in this order: Aktivitas (Icon_Tab_Aktivitas), Trending (Icon_Tab_Trending), Top Up (Icon_Plus), Pasar (Icon_Tab_Pasar), Profil (Icon_Tab_Profil). Current tab: Aktivitas on 01, Trending on 02, Top Up on 04 and 05. 03 and 06 have no tab bar. How the current tab looks is yours. • Browse flow: 01_Aktivitas → 02_Trending → 03_Detail_Saham (GOTO). • Top-up flow: 01_Aktivitas (Deposit or Top Up tab) → 04_Top_Up_Metode → 05_Top_Up_Nominal (Alfamart) → 06_Top_Up_Pembayaran → Oke → 01_Aktivitas. • Entry only (no frame): menu, settings, Tarik, watchlist add, other tickers, Crypto / Reksadana / CFD, Eropa / Amerika / Mata Uang, 24 jam, Lihat Semua, Rekomendasi cards, range tabs other than 1D, add / share / favorite, Jual, Beli, compare items, ATM / Kartu Debit / Mobile Banking / Indomaret, help, copy code, Pasar, Profil.",
+     "x": 64,
+     "y": 2003,
+     "text": "• Bottom tab bar with 5 tabs in this order: Aktivitas (Icon_Tab_Aktivitas), Trending (Icon_Tab_Trending), Top Up (Icon_Plus), Pasar (Icon_Tab_Pasar), Profil (Icon_Tab_Profil). Current tab: Aktivitas on 01, Trending on 02, Top Up on 04 and 05. 03 and 06 have no tab bar. How the current tab looks is yours.\n• Browse flow: 01_Aktivitas → 02_Trending → 03_Detail_Saham (GOTO).\n• Top-up flow: 01_Aktivitas (Deposit or Top Up tab) → 04_Top_Up_Metode → 05_Top_Up_Nominal (Alfamart) → 06_Top_Up_Pembayaran → Oke → 01_Aktivitas.\n• Entry only (no frame): menu, settings, Tarik, watchlist add, other tickers, Crypto / Reksadana / CFD, Eropa / Amerika / Mata Uang, 24 jam, Lihat Semua, Rekomendasi cards, range tabs other than 1D, add / share / favorite, Jual, Beli, compare items, ATM / Kartu Debit / Mobile Banking / Indomaret, help, copy code, Pasar, Profil."
+    },
+    {
+     "id": "4:60",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 2183,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "4:61",
+     "name": "Use these values verbatim. Bahasa Indonesia; prices in rupiah; Indonesian number format (“.” thousands, “,” decimals).",
+     "x": 64,
+     "y": 2234,
+     "text": "Use these values verbatim. Bahasa Indonesia; prices in rupiah; Indonesian number format (“.” thousands, “,” decimals)."
+    },
+    {
+     "id": "4:64",
+     "name": "Balance",
+     "x": 84,
+     "y": 2292,
+     "text": "Balance"
+    },
+    {
+     "id": "4:67",
+     "name": "Trending Hari ini (price · change)",
+     "x": 528,
+     "y": 2292,
+     "text": "Trending Hari ini (price · change)"
+    },
+    {
+     "id": "4:70",
+     "name": "Watchlist Saya (company · price · change)",
+     "x": 972,
+     "y": 2292,
+     "text": "Watchlist Saya (company · price · change)"
+    },
+    {
+     "id": "4:65",
+     "name": "Dana Utama: Rp2.125.000 · ▲ Rp206.920 (10,79%) Dana Saya (top up): Rp2.125.000",
+     "x": 84,
+     "y": 2320,
+     "text": "Dana Utama: Rp2.125.000 · ▲ Rp206.920 (10,79%)\nDana Saya (top up): Rp2.125.000"
+    },
+    {
+     "id": "4:68",
+     "name": "BRRI · 8.600 · +50 (+0,58%) (Logo_BRRI) ARB · 8.600 · +50 (+0,58%) (Logo_ARB) FSX · 8.600 · +50 (+0,58%) (Logo_FSX)",
+     "x": 528,
+     "y": 2320,
+     "text": "BRRI · 8.600 · +50 (+0,58%) (Logo_BRRI)\nARB · 8.600 · +50 (+0,58%) (Logo_ARB)\nFSX · 8.600 · +50 (+0,58%) (Logo_FSX)"
+    },
+    {
+     "id": "4:71",
+     "name": "DHDI · PT Duatiga Pertama · 8.600 · +50 (+0,58%) (Logo_DHDI) AMRI · PT Atma Merapi · 2.421 · −121 (−4,76%) (Logo_AMRI) ODD · PT Okufo Dokuri · 5.300 · +31 (+0,59%) (Logo_ODD) PYQ · PT Pimnas Yosque · 3.867 · −71 (−1,80%) (Logo_PYQ) DAN · PT Danang Amin · 6.600 · −201 (−2,96%) (Logo_DAN)",
+     "x": 972,
+     "y": 2320,
+     "text": "DHDI · PT Duatiga Pertama · 8.600 · +50 (+0,58%) (Logo_DHDI)\nAMRI · PT Atma Merapi · 2.421 · −121 (−4,76%) (Logo_AMRI)\nODD · PT Okufo Dokuri · 5.300 · +31 (+0,59%) (Logo_ODD)\nPYQ · PT Pimnas Yosque · 3.867 · −71 (−1,80%) (Logo_PYQ)\nDAN · PT Danang Amin · 6.600 · −201 (−2,96%) (Logo_DAN)"
+    },
+    {
+     "id": "4:73",
+     "name": "Indices (Asia)",
+     "x": 84,
+     "y": 2498,
+     "text": "Indices (Asia)"
+    },
+    {
+     "id": "4:76",
+     "name": "Trending · 24 jam (company · price · change)",
+     "x": 528,
+     "y": 2498,
+     "text": "Trending · 24 jam (company · price · change)"
+    },
+    {
+     "id": "4:79",
+     "name": "Rekomendasi (company · price · change)",
+     "x": 972,
+     "y": 2498,
+     "text": "Rekomendasi (company · price · change)"
+    },
+    {
+     "id": "4:74",
+     "name": "IHSG · 7.206,92 · rising NIKKEI · 27.105,20 · falling SENSEX · 59.959,85 · rising",
+     "x": 84,
+     "y": 2526,
+     "text": "IHSG · 7.206,92 · rising\nNIKKEI · 27.105,20 · falling\nSENSEX · 59.959,85 · rising"
+    },
+    {
+     "id": "4:77",
+     "name": "ROTI · Nippon Indosari Tbk · 8.600 · +50 (+0,58%) (Logo_ROTI) GOTO · GoTo Gojek Tokopedia · 189 · −9 (−4,55%) (Logo_GOTO) ABNB · Airbnb Inc · 5.300 · +31 (+0,59%) (Logo_ABNB) UNVR · Unilever Indonesia · 3.867 · −71 (−1,80%) (Logo_UNVR) BBRI · Bank Rakyat Indonesia · 4.630 · +38 (+0,83%) (Logo_BBRI) ADRO · Adaro Energy Indonesia · 3.600 · +21 (+0,59%) (Logo_ADRO)",
+     "x": 528,
+     "y": 2526,
+     "text": "ROTI · Nippon Indosari Tbk · 8.600 · +50 (+0,58%) (Logo_ROTI)\nGOTO · GoTo Gojek Tokopedia · 189 · −9 (−4,55%) (Logo_GOTO)\nABNB · Airbnb Inc · 5.300 · +31 (+0,59%) (Logo_ABNB)\nUNVR · Unilever Indonesia · 3.867 · −71 (−1,80%) (Logo_UNVR)\nBBRI · Bank Rakyat Indonesia · 4.630 · +38 (+0,83%) (Logo_BBRI)\nADRO · Adaro Energy Indonesia · 3.600 · +21 (+0,59%) (Logo_ADRO)"
+    },
+    {
+     "id": "4:80",
+     "name": "NFLX · Netflix, Inc · 2.122.340 · −0,20% META · Meta Platforms · 987.890 · +1,29% AMZN · Amazon.com, Inc · 1.001.333 · −6,20% (ticker badges are text — no logos)",
+     "x": 972,
+     "y": 2526,
+     "text": "NFLX · Netflix, Inc · 2.122.340 · −0,20%\nMETA · Meta Platforms · 987.890 · +1,29%\nAMZN · Amazon.com, Inc · 1.001.333 · −6,20%\n(ticker badges are text — no logos)"
+    },
+    {
+     "id": "4:82",
+     "name": "GOTO · 1D chart",
+     "x": 84,
+     "y": 2799,
+     "text": "GOTO · 1D chart"
+    },
+    {
+     "id": "4:85",
+     "name": "Dibandingkan dengan (price · change)",
+     "x": 528,
+     "y": 2799,
+     "text": "Dibandingkan dengan (price · change)"
+    },
+    {
+     "id": "4:88",
+     "name": "Keystats (GOTO)",
+     "x": 972,
+     "y": 2799,
+     "text": "Keystats (GOTO)"
+    },
+    {
+     "id": "4:83",
+     "name": "Price at 6:00 197 · 10:00 199 · 14:00 194 · 18:00 196 · 22:00 192 · 2:00 189 Tooltip on the 22:00 point: Rp192 · 28 Okt 2022 - 22:00 · Volume: 102K",
+     "x": 84,
+     "y": 2827,
+     "text": "Price at 6:00 197 · 10:00 199 · 14:00 194 · 18:00 196 · 22:00 192 · 2:00 189\nTooltip on the 22:00 point: Rp192 · 28 Okt 2022 - 22:00 · Volume: 102K"
+    },
+    {
+     "id": "4:86",
+     "name": "Bukalapak Tbk · BUKA · Rp276 · +2,82% Bank Rakyat Indonesia · BBRI · Rp4.630 · +0,83% PT Industri Jamu · SIDO · Rp740 · +2,82%",
+     "x": 528,
+     "y": 2827,
+     "text": "Bukalapak Tbk · BUKA · Rp276 · +2,82%\nBank Rakyat Indonesia · BBRI · Rp4.630 · +0,83%\nPT Industri Jamu · SIDO · Rp740 · +2,82%"
+    },
+    {
+     "id": "4:89",
+     "name": "Previous Close · Rp198 Day Range · Rp188 - Rp199 Year Range · Rp180 - Rp396 Market Cap · 694,70T IDR AVG Volume · 167,58M P/E Ratio · 15,50 Dividend Yield · 3,76% Primary Exchange · IDX",
+     "x": 972,
+     "y": 2827,
+     "text": "Previous Close · Rp198\nDay Range · Rp188 - Rp199\nYear Range · Rp180 - Rp396\nMarket Cap · 694,70T IDR\nAVG Volume · 167,58M\nP/E Ratio · 15,50\nDividend Yield · 3,76%\nPrimary Exchange · IDX"
+    },
+    {
+     "id": "4:91",
+     "name": "Pembayaran",
+     "x": 84,
+     "y": 3043,
+     "text": "Pembayaran"
+    },
+    {
+     "id": "4:94",
+     "name": "Panduan Pembayaran (6 steps)",
+     "x": 528,
+     "y": 3043,
+     "text": "Panduan Pembayaran (6 steps)"
+    },
+    {
+     "id": "4:92",
+     "name": "No Transaksi · FD8U4J38J004093J8U80TJ039 Nominal · Rp500.000 Kode Pembayaran · 1111000065665144",
+     "x": 84,
+     "y": 3071,
+     "text": "No Transaksi · FD8U4J38J004093J8U80TJ039\nNominal · Rp500.000\nKode Pembayaran · 1111000065665144"
+    },
+    {
+     "id": "4:95",
+     "name": "1. Catat kode pembayaran di atas dan datang ke gerai Alfamart, Alfa Midi, Lawson atau DAN+DAN terdekat. 2. Beritahukan ke kasir bahwa Anda ingin melakukan pembayaran. 3. Kasir akan menanyakan kode pembayaran. Berikan kode pembayaran Anda 1111000065665144. 4. Kasir akan melakukan konfirmasi data konsumen berupa Nama Merchant, Nama Konsumen, dan Nominal. Lakukan pembayaran ke kasir sejumlah nominal yang disebutkan. 5. Terima struk sebagai bukti pembayaran sudah sukses dilakukan. Notifikasi pembayaran akan langsung diterima oleh Merchant. 6. Selesai.",
+     "x": 528,
+     "y": 3071,
+     "text": "1. Catat kode pembayaran di atas dan datang ke gerai Alfamart, Alfa Midi, Lawson atau DAN+DAN terdekat.\n2. Beritahukan ke kasir bahwa Anda ingin melakukan pembayaran.\n3. Kasir akan menanyakan kode pembayaran. Berikan kode pembayaran Anda 1111000065665144.\n4. Kasir akan melakukan konfirmasi data konsumen berupa Nama Merchant, Nama Konsumen, dan Nominal. Lakukan pembayaran ke kasir sejumlah nominal yang disebutkan.\n5. Terima struk sebagai bukti pembayaran sudah sukses dilakukan. Notifikasi pembayaran akan langsung diterima oleh Merchant.\n6. Selesai."
+    },
+    {
+     "id": "4:97",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 3386,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "4:100",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 3461,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "4:103",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 3461,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "4:101",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy (Bahasa Indonesia) • Brand primary #279646, Roboto, dark mode • Media: company logos, ticker marks, icons • Default Button, default Text Field, platform shell",
+     "x": 88,
+     "y": 3494,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy (Bahasa Indonesia)\n• Brand primary #279646, Roboto, dark mode\n• Media: company logos, ticker marks, icons\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "4:104",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: background / surface levels, neutrals, text, gain / loss, selected, warning, error / disabled, chart • Type scale, spacing, radii, elevation • All states: current tab, selected tab / chip / range / amount, rising / falling, current step, pressed, disabled • Headers, tab bar, tabs, chips, cards, rows, chart, key-stats table, stepper, payment details • Chart styling and tooltip",
+     "x": 756,
+     "y": 3494,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: background / surface levels, neutrals, text, gain / loss, selected, warning, error / disabled, chart\n• Type scale, spacing, radii, elevation\n• All states: current tab, selected tab / chip / range / amount, rising / falling, current step, pressed, disabled\n• Headers, tab bar, tabs, chips, cards, rows, chart, key-stats table, stepper, payment details\n• Chart styling and tooltip"
+    },
+    {
+     "id": "4:106",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 3746,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "4:107",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 3797,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "4:108",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current tab, selected tab / chip / range / amount, current step, rising / falling, empty field)",
+     "x": 64,
+     "y": 3835,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current tab, selected tab / chip / range / amount, current step, rising / falling, empty field)"
+    },
+    {
+     "id": "4:109",
+     "name": "Deliverable: the link to your own Figma file containing the 6 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 4005,
+     "text": "Deliverable: the link to your own Figma file containing the 6 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · Stock Trading",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Stock Trading"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the brand primary color, the typeface and dark mode — they carry the app’s identity. Everything else is yours to define and apply consistently: dark background and surface levels, neutrals and grays, text colors, semantic colors (gain / loss, selected, success, warning, error, disabled), chart colors, type scale, weights per role, spacing, radii and elevation.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the brand primary color, the typeface and dark mode — they carry the app’s identity. Everything else is yours to define and apply consistently: dark background and surface levels, neutrals and grays, text colors, semantic colors (gain / loss, selected, success, warning, error, disabled), chart colors, type scale, weights per role, spacing, radii and elevation."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand color",
+     "x": 56,
+     "y": 208,
+     "text": "Brand color"
+    },
+    {
+     "id": "1:11",
+     "name": "Brand primary · green",
+     "x": 56,
+     "y": 392,
+     "text": "Brand primary · green"
+    },
+    {
+     "id": "1:12",
+     "name": "#279646",
+     "x": 56,
+     "y": 417,
+     "text": "#279646"
+    },
+    {
+     "id": "1:13",
+     "name": "The app’s brand color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 441,
+     "text": "The app’s brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:14",
+     "name": "Typeface",
+     "x": 56,
+     "y": 503,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:15",
+     "name": "Aa Bb Cc 0123456789 Rp2.125.000 +0,58%",
+     "x": 56,
+     "y": 559,
+     "text": "Aa Bb Cc 0123456789  Rp2.125.000  +0,58%"
+    },
+    {
+     "id": "1:16",
+     "name": "Use Roboto for all UI text (Regular / Medium / SemiBold / Bold available). Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 638,
+     "text": "Use Roboto for all UI text (Regular / Medium / SemiBold / Bold available). Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:17",
+     "name": "Canvas: 375 × 812 (Android / iPhone size). Dark mode only. Language: Bahasa Indonesia (copy is fixed in the brief). Number format: Indonesian — “.” for thousands, “,” for decimals (Rp2.125.000 · 0,58%). 01_Aktivitas, 02_Trending, 03_Detail_Saham and 06_Top_Up_Pembayaran may scroll vertically.",
+     "x": 56,
+     "y": 687,
+     "text": "Canvas: 375 × 812 (Android / iPhone size). Dark mode only. Language: Bahasa Indonesia (copy is fixed in the brief). Number format: Indonesian — “.” for thousands, “,” for decimals (Rp2.125.000 · 0,58%). 01_Aktivitas, 02_Trending, 03_Detail_Saham and 06_Top_Up_Pembayaran may scroll vertically."
+    }
+   ]
+  }
+ ]
+}

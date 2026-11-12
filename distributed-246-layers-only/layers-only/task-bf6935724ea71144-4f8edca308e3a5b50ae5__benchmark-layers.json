@@ -1,0 +1,159 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Frontpage",
+      "size": "1680×3600",
+      "nodes": 184,
+      "max_depth": 6,
+      "instances": 33,
+      "texts": 84,
+      "images": 0,
+      "types": [
+        "text×84",
+        "frame×67",
+        "instance×33"
+      ],
+      "names": [
+        "Header",
+        "Wordmark",
+        "Navigation",
+        "Magazine",
+        "Authors",
+        "Podcast"
+      ]
+    },
+    {
+      "name": "02_Magazine",
+      "size": "1680×3900",
+      "nodes": 195,
+      "max_depth": 5,
+      "instances": 29,
+      "texts": 113,
+      "images": 0,
+      "types": [
+        "text×113",
+        "frame×53",
+        "instance×29"
+      ],
+      "names": [
+        "Header",
+        "FYRRE MAGAZINE",
+        "Frame",
+        "Magazine",
+        "Authors",
+        "Podcast"
+      ]
+    },
+    {
+      "name": "03_Magazine_Post",
+      "size": "1680×3600",
+      "nodes": 92,
+      "max_depth": 5,
+      "instances": 20,
+      "texts": 42,
+      "images": 0,
+      "types": [
+        "text×42",
+        "frame×30",
+        "instance×20"
+      ],
+      "names": [
+        "Header",
+        "FYRRE MAGAZINE",
+        "Frame",
+        "Magazine",
+        "Authors",
+        "Podcast"
+      ]
+    },
+    {
+      "name": "04_Podcast",
+      "size": "1680×1800",
+      "nodes": 92,
+      "max_depth": 5,
+      "instances": 20,
+      "texts": 37,
+      "images": 0,
+      "types": [
+        "text×37",
+        "frame×35",
+        "instance×20"
+      ],
+      "names": [
+        "Header",
+        "FYRRE MAGAZINE",
+        "Frame",
+        "Magazine",
+        "Authors",
+        "Podcast"
+      ]
+    },
+    {
+      "name": "05_Podcast_Post",
+      "size": "1680×2600",
+      "nodes": 92,
+      "max_depth": 5,
+      "instances": 23,
+      "texts": 39,
+      "images": 0,
+      "types": [
+        "text×39",
+        "frame×30",
+        "instance×23"
+      ],
+      "names": [
+        "Header",
+        "FYRRE MAGAZINE",
+        "Frame",
+        "Magazine",
+        "Authors",
+        "Podcast"
+      ]
+    },
+    {
+      "name": "06_Authors",
+      "size": "1680×1900",
+      "nodes": 96,
+      "max_depth": 5,
+      "instances": 22,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "frame×39",
+        "text×35",
+        "instance×22"
+      ],
+      "names": [
+        "Header",
+        "FYRRE MAGAZINE",
+        "Frame",
+        "Magazine",
+        "Authors",
+        "Podcast"
+      ]
+    },
+    {
+      "name": "07_Author_Profile",
+      "size": "1680×2400",
+      "nodes": 75,
+      "max_depth": 5,
+      "instances": 20,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "text×32",
+        "frame×23",
+        "instance×20"
+      ],
+      "names": [
+        "Header",
+        "FYRRE MAGAZINE",
+        "Frame",
+        "Magazine",
+        "Authors",
+        "Podcast"
+      ]
+    }
+  ]
+}

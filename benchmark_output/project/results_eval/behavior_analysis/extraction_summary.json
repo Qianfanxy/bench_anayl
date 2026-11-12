@@ -1,0 +1,13 @@
+{
+  "n_runs": 168,
+  "n_events": 8943,
+  "sources": {
+    "run.log": 140,
+    "trajectory": 28
+  },
+  "role_counts": {
+    "main": 116,
+    "unspecified": 28,
+    "subagent": 24
+  }
+}

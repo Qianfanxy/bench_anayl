@@ -1,0 +1,485 @@
+{
+  "file_key": "9heKhkdl3nBs0098pOlkYl",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "5:2",
+      "name": "03 · Workspace",
+      "child_count": 13
+    }
+  ],
+  "workspace": {
+    "id": "5:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "12:2",
+        "name": "Components · Chat Bot AI",
+        "type": "SECTION",
+        "x": 0,
+        "y": 4400,
+        "width": 1640,
+        "height": 1300,
+        "text_count": 29,
+        "reaction_count": 0
+      },
+      {
+        "id": "15:20",
+        "name": "01_Login",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 428,
+        "height": 928,
+        "text_count": 14,
+        "reaction_count": 3
+      },
+      {
+        "id": "15:75",
+        "name": "02_Home_Chats",
+        "type": "FRAME",
+        "x": 520,
+        "y": 0,
+        "width": 428,
+        "height": 928,
+        "text_count": 33,
+        "reaction_count": 5
+      },
+      {
+        "id": "16:63",
+        "name": "03_Home_Images",
+        "type": "FRAME",
+        "x": 1040,
+        "y": 0,
+        "width": 428,
+        "height": 928,
+        "text_count": 22,
+        "reaction_count": 4
+      },
+      {
+        "id": "16:133",
+        "name": "04_Home_Exports",
+        "type": "FRAME",
+        "x": 0,
+        "y": 1040,
+        "width": 428,
+        "height": 928,
+        "text_count": 28,
+        "reaction_count": 3
+      },
+      {
+        "id": "17:113",
+        "name": "05_Chat_New",
+        "type": "FRAME",
+        "x": 520,
+        "y": 1040,
+        "width": 428,
+        "height": 928,
+        "text_count": 15,
+        "reaction_count": 2
+      },
+      {
+        "id": "19:174",
+        "name": "06_Chat_Conversation",
+        "type": "FRAME",
+        "x": 1040,
+        "y": 1040,
+        "width": 428,
+        "height": 928,
+        "text_count": 24,
+        "reaction_count": 2
+      },
+      {
+        "id": "19:257",
+        "name": "08_Profile_Settings",
+        "type": "FRAME",
+        "x": 1560,
+        "y": 0,
+        "width": 428,
+        "height": 928,
+        "text_count": 21,
+        "reaction_count": 4
+      },
+      {
+        "id": "19:346",
+        "name": "11_Cloud_Space",
+        "type": "FRAME",
+        "x": 1560,
+        "y": 1040,
+        "width": 428,
+        "height": 928,
+        "text_count": 33,
+        "reaction_count": 2
+      },
+      {
+        "id": "20:238",
+        "name": "07_Export_PDF_Sheet",
+        "type": "FRAME",
+        "x": 0,
+        "y": 2080,
+        "width": 428,
+        "height": 928,
+        "text_count": 27,
+        "reaction_count": 3
+      },
+      {
+        "id": "20:333",
+        "name": "09_Account_Actions_Sheet",
+        "type": "FRAME",
+        "x": 520,
+        "y": 2080,
+        "width": 428,
+        "height": 928,
+        "text_count": 28,
+        "reaction_count": 3
+      },
+      {
+        "id": "20:431",
+        "name": "10_Theme_Sheet",
+        "type": "FRAME",
+        "x": 1040,
+        "y": 2080,
+        "width": 428,
+        "height": 928,
+        "text_count": 31,
+        "reaction_count": 2
+      },
+      {
+        "id": "20:527",
+        "name": "12_Clear_Cache_Dialog",
+        "type": "FRAME",
+        "x": 1560,
+        "y": 2080,
+        "width": 428,
+        "height": 928,
+        "text_count": 37,
+        "reaction_count": 2
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nChat Bot AI — AI assistant app\nDesign the complete Chat Bot AI mobile app: Sam Rivera logs in, browses past chats, generated images and PDF exports, starts a new chat, continues a conversation that ends with a generated image, exports it as PDF, and manages profile, theme and cloud storage.\nCanvas 428 × 928, light mode only. Home, the conversation and Cloud Space may scroll vertically. Today is Dec 30, 2023. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 12 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typefaces in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / warning / error / disabled, storage-breakdown colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, sheets, dialogs, message bubbles and every business component as reusable components in your file.\n5. Use the logo, generated images, PDF icon and icons from 04 · Media. People have no photos: use Avatar_Neutral or initials.\n6. Copy and data must match “Fixed data” exactly. Long answers may be cut off where the frame ends; everything listed must still be visible. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Login\nGoal: Sign in to the account.\nMUST INCLUDE\n• Actions: Forgot Password? · Login · “Don’t have an account?” Sign Up\n• Brand: logo\n• Copy: “Login to your account”\n• Form: Email “sam.rivera@example.com” · Password entered (masked, can be shown or hidden)\n• Legal: Terms of use · Privacy policy\n• Social sign-in: “Or login with” · Facebook · Google\nLINKS\n→ Login → 02_Home_Chats\n02_Home_Chats\nGoal: Find a past conversation or start a new one.\nMUST INCLUDE\n• Account: avatar (profile entry) · back\n• Actions: New Topic\n• Chats: 7 chats, newest first, each with question, answer preview and time · the 3-days-ago chat shows its generated image (DATA)\n• Copy: “Start a new chat with Chat Bot AI” · logo\n• History: “History” · search “Search ...”\n• View: Chats / Archived / Images / Exports · current: Chats\nLINKS\n→ New Topic → 05_Chat_New\n→ chat “Tell me the story…” → 06_Chat_Conversation\n→ Images → 03 · Exports → 04\n→ avatar → 08_Profile_Settings\n03_Home_Images\nGoal: Browse every image the assistant generated.\nMUST INCLUDE\n• Account: same as 02\n• Actions: New Topic\n• Copy: same as 02\n• History: same as 02\n• Images: 8 generated images (DATA)\n• View: same switch as 02 · current: Images\nLINKS\n→ Chats → 02 · Exports → 04\n→ New Topic → 05_Chat_New\n04_Home_Exports\nGoal: Find a PDF export.\nMUST INCLUDE\n• Account: same as 02\n• Actions: New Topic\n• Copy: same as 02\n• Exports: 7 PDF files, newest first, each with PDF icon, title, date and size (DATA)\n• History: same as 02\n• View: same switch as 02 · current: Exports\nLINKS\n→ Chats → 02 · Images → 03\n→ New Topic → 05_Chat_New\n05_Chat_New\nGoal: Start a conversation from a blank chat.\nMUST INCLUDE\n• Actions: menu · export · send\n• Assistant: logo · “Chat Bot AI 4.5” · “Premium account”\n• Copy: “How can I help you my friend? 😊”\n• Input: “Ask me anything...” (empty)\n• Suggestions: 4 prompts, each with title and detail (DATA)\nLINKS\n→ menu → 02_Home_Chats\n06_Chat_Conversation\nGoal: Read the conversation and act on messages.\nMUST INCLUDE\n• Actions: menu · export · send\n• Assistant: logo · “Chat Bot AI 4.5” · “Premium account”\n• Input: “Ask me anything...” (empty)\n• Messages: 4 messages in this order — You · Chat Bot AI · You · Chat Bot AI (DATA) · each sender identified\n• Message actions: on your messages Edit · Copy; on the story Copy · Share · Regenerate; on the image Download · Share · Regenerate\nLINKS\n→ menu → 02_Home_Chats\n→ export → 07_Export_PDF_Sheet\n07_Export_PDF_Sheet\nGoal: Name and export the conversation as PDF.\nMUST INCLUDE\n• Actions: close · Export\n• Copy: “Export as PDF” · “All your conversations with Chat Bot AI will be exported as PDF. Please choose a title for this file”\n• Form: Title “The story of a student”\n• Media: PDF_File_Icon\n• Presentation: sheet over 06_Chat_Conversation; the conversation stays behind it\nLINKS\n→ close → 06 · Export → 06\n08_Profile_Settings\nGoal: Check the account and reach settings.\nMUST INCLUDE\n• Account: avatar · Sam Rivera · “premium account” · “278 days until the end of the premium account”\n• Actions: back · more\n• Copy: “Profile & Settings”\n• Footer: “Chat Bot AI - Version 2.0.5” · Terms of use · Privacy policy\n• Settings: Change password · Data & storage “83% Used” · Email sam.rivera@example.com · Send feedback (“Chat Bot AI can make mistakes. Consider checking important information and send us your feedback”) · Theme “System default”\nLINKS\n→ back → 02_Home_Chats\n→ more → 09_Account_Actions_Sheet\n→ Theme → 10_Theme_Sheet\n→ Data & storage → 11_Cloud_Space\n09_Account_Actions_Sheet\nGoal: Leave or remove the account.\nMUST INCLUDE\n• Actions: Delete Account · Sign out\n• Presentation: sheet over 08_Profile_Settings; Profile stays behind it\nLINKS\n→ Sign out → 01_Login\n→ tap outside → 08\n10_Theme_Sheet\nGoal: Choose the app theme.\nMUST INCLUDE\n• Options: Dark mode · Light mode · System default · only one can be chosen · current: System default\n• Presentation: sheet over 08_Profile_Settings; Profile stays behind it\nLINKS\n→ tap outside → 08\n11_Cloud_Space\nGoal: See what uses storage and free some up.\nMUST INCLUDE\n• Actions: back · more\n• Clear cache: “Clear cache” · 238.05 MB\n• Copy: “Cloud Space”\n• Delete all chats: “Delete all chats” · 12.48 GB · “Warning! By deleting all chats, all photos, conversations and documents will be lost and cannot be recovered!”\n• Exports: “Exports” · 37 items · 506 MB · note (DATA) · latest 3 exports, each with title, date, size and delete\n• Footer: same as 08\n• Images: “Images” · 169 items · 8,225 MB · note (DATA) · 7 thumbnails\n• Usage: “12.48 GB of 15 GB used” ·",
+  "layer_summary": {
+    "board_count": 12,
+    "boards": [
+      {
+        "name": "01_Login",
+        "size": "428×928",
+        "nodes": 54,
+        "max_depth": 3,
+        "instances": 9,
+        "texts": 14,
+        "images": 0,
+        "types": [
+          "text×14",
+          "vector×13",
+          "rectangle×11",
+          "instance×9",
+          "frame×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "02_Home_Chats",
+        "size": "428×928",
+        "nodes": 80,
+        "max_depth": 3,
+        "instances": 8,
+        "texts": 33,
+        "images": 0,
+        "types": [
+          "text×33",
+          "frame×17",
+          "rectangle×15",
+          "instance×8",
+          "vector×4",
+          "ellipse×3"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "03_Home_Images",
+        "size": "428×928",
+        "nodes": 69,
+        "max_depth": 3,
+        "instances": 15,
+        "texts": 22,
+        "images": 0,
+        "types": [
+          "text×22",
+          "frame×17",
+          "instance×15",
+          "rectangle×8",
+          "vector×4",
+          "ellipse×3"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "04_Home_Exports",
+        "size": "428×928",
+        "nodes": 101,
+        "max_depth": 3,
+        "instances": 21,
+        "texts": 28,
+        "images": 0,
+        "types": [
+          "text×28",
+          "instance×21",
+          "vector×18",
+          "frame×16",
+          "rectangle×15",
+          "ellipse×3"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "05_Chat_New",
+        "size": "428×928",
+        "nodes": 66,
+        "max_depth": 4,
+        "instances": 14,
+        "texts": 15,
+        "images": 0,
+        "types": [
+          "vector×17",
+          "text×15",
+          "instance×14",
+          "frame×10",
+          "rectangle×9",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "06_Chat_Conversation",
+        "size": "428×928",
+        "nodes": 102,
+        "max_depth": 4,
+        "instances": 22,
+        "texts": 24,
+        "images": 0,
+        "types": [
+          "vector×30",
+          "text×24",
+          "instance×22",
+          "frame×15",
+          "rectangle×10",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "08_Profile_Settings",
+        "size": "428×928",
+        "nodes": 88,
+        "max_depth": 4,
+        "instances": 19,
+        "texts": 21,
+        "images": 0,
+        "types": [
+          "text×21",
+          "instance×19",
+          "vector×19",
+          "rectangle×14",
+          "frame×12",
+          "ellipse×3"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "11_Cloud_Space",
+        "size": "428×928",
+        "nodes": 109,
+        "max_depth": 3,
+        "instances": 19,
+        "texts": 33,
+        "images": 0,
+        "types": [
+          "text×33",
+          "frame×21",
+          "instance×19",
+          "rectangle×18",
+          "vector×17",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "07_Export_PDF_Sheet",
+        "size": "428×928",
+        "nodes": 107,
+        "max_depth": 5,
+        "instances": 24,
+        "texts": 27,
+        "images": 0,
+        "types": [
+          "text×27",
+          "vector×25",
+          "instance×24",
+          "frame×17",
+          "rectangle×13",
+          "ellipse×1"
+        ],
+        "names": [
+          "parentScreen",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "09_Account_Actions_Sheet",
+        "size": "428×928",
+        "nodes": 113,
+        "max_depth": 5,
+        "instances": 22,
+        "texts": 28,
+        "images": 0,
+        "types": [
+          "text×28",
+          "vector×26",
+          "instance×22",
+          "rectangle×18",
+          "frame×16",
+          "ellipse×3"
+        ],
+        "names": [
+          "parentScreen",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "10_Theme_Sheet",
+        "size": "428×928",
+        "nodes": 111,
+        "max_depth": 5,
+        "instances": 20,
+        "texts": 31,
+        "images": 0,
+        "types": [
+          "text×31",
+          "frame×21",
+          "instance×20",
+          "vector×19",
+          "rectangle×17",
+          "ellipse×3"
+        ],
+        "names": [
+          "parentScreen",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "12_Clear_Cache_Dialog",
+        "size": "428×928",
+        "nodes": 127,
+        "max_depth": 4,
+        "instances": 23,
+        "texts": 37,
+        "images": 0,
+        "types": [
+          "text×37",
+          "frame×24",
+          "instance×23",
+          "rectangle×21",
+          "vector×21",
+          "ellipse×1"
+        ],
+        "names": [
+          "parentScreen",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      }
+    ]
+  }
+}

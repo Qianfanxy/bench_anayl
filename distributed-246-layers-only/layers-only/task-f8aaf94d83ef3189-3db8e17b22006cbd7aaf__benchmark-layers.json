@@ -1,0 +1,159 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4030",
+      "nodes": 89,
+      "max_depth": 2,
+      "instances": 40,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "instance×40",
+        "text×32",
+        "frame×17"
+      ],
+      "names": [
+        "Header / Desktop",
+        "Footer / Desktop",
+        "Hero / Beyond Pro.",
+        "Beyond Pro.",
+        "Pomelo One 14 Pro",
+        "Created to change everyt"
+      ]
+    },
+    {
+      "name": "02_Products",
+      "size": "1440×1850",
+      "nodes": 58,
+      "max_depth": 2,
+      "instances": 22,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "text×29",
+        "instance×22",
+        "frame×7"
+      ],
+      "names": [
+        "Header / Desktop",
+        "Footer / Desktop",
+        "Home",
+        "Icon_Chevron_Right",
+        "Catalog",
+        "Smartphones"
+      ]
+    },
+    {
+      "name": "03_Product_Details",
+      "size": "1440×3750",
+      "nodes": 139,
+      "max_depth": 2,
+      "instances": 30,
+      "texts": 70,
+      "images": 0,
+      "types": [
+        "text×70",
+        "frame×39",
+        "instance×30"
+      ],
+      "names": [
+        "Header / Desktop",
+        "Footer / Desktop",
+        "Home",
+        "Icon_Chevron_Right",
+        "Catalog",
+        "Smartphones"
+      ]
+    },
+    {
+      "name": "04_Shopping_Cart",
+      "size": "1440×1180",
+      "nodes": 49,
+      "max_depth": 2,
+      "instances": 18,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "instance×18",
+        "frame×7"
+      ],
+      "names": [
+        "Header / Desktop",
+        "Footer / Desktop",
+        "Shopping Cart",
+        "Cart Row",
+        "Photo_Phone_Purple",
+        "Pomelo One 14 Pro Max 12"
+      ]
+    },
+    {
+      "name": "05_Checkout_Address",
+      "size": "1440×1180",
+      "nodes": 36,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "instance×12",
+        "frame×6"
+      ],
+      "names": [
+        "Header / Desktop",
+        "Footer / Desktop",
+        "Checkout Stepper",
+        "Icon_Step_Address",
+        "Step 1",
+        "Address"
+      ]
+    },
+    {
+      "name": "06_Checkout_Shipping",
+      "size": "1440×1100",
+      "nodes": 31,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "instance×8",
+        "frame×4"
+      ],
+      "names": [
+        "Header / Desktop",
+        "Footer / Desktop",
+        "Checkout Stepper",
+        "Icon_Step_Address",
+        "Step 1",
+        "Address"
+      ]
+    },
+    {
+      "name": "07_Checkout_Payment",
+      "size": "1440×1470",
+      "nodes": 53,
+      "max_depth": 3,
+      "instances": 15,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "text×31",
+        "instance×15",
+        "frame×7"
+      ],
+      "names": [
+        "Header / Desktop",
+        "Footer / Desktop",
+        "Checkout Stepper",
+        "Icon_Step_Address",
+        "Step 1",
+        "Address"
+      ]
+    }
+  ]
+}

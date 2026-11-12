@@ -1,0 +1,394 @@
+{
+  "board_count": 18,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Photo_Welcome",
+        "Legibility gradient",
+        "Logo_Swoosh_White",
+        "Nike App",
+        "Bringing Nike Members th",
+        "Join Us"
+      ]
+    },
+    {
+      "name": "02_Email_Sign_In",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×5"
+      ],
+      "names": [
+        "Header / Account sheet",
+        "Logo_Swoosh_Black",
+        "Enter your email to join",
+        "United States",
+        "Change",
+        "Email"
+      ]
+    },
+    {
+      "name": "03_Create_Member",
+      "size": "375×812",
+      "nodes": 26,
+      "max_depth": 1,
+      "instances": 15,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×11"
+      ],
+      "names": [
+        "Header / Account sheet",
+        "Logo_Swoosh_Black",
+        "Now let’s make you a Nik",
+        "We’ve sent a code to joh",
+        "Edit",
+        "Code"
+      ]
+    },
+    {
+      "name": "04_Personalize_Intro",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×1"
+      ],
+      "names": [
+        "Onboarding / Progress",
+        "To personalize your expe",
+        "Get Started",
+        "Status Bar",
+        "Home Indicator",
+        "Editorial / Personalizat"
+      ]
+    },
+    {
+      "name": "05_Products_You_Use",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×2"
+      ],
+      "names": [
+        "Onboarding / Progress",
+        "First up, which products",
+        "Choose Mens",
+        "Choose Womens",
+        "Choose Boys",
+        "Choose Girls"
+      ]
+    },
+    {
+      "name": "06_Shoe_Size",
+      "size": "375×812",
+      "nodes": 32,
+      "max_depth": 1,
+      "instances": 30,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×30",
+        "text×2"
+      ],
+      "names": [
+        "Onboarding / Progress",
+        "What’s your shoe size?",
+        "US sizing",
+        "US 4",
+        "US 4.5",
+        "US 5"
+      ]
+    },
+    {
+      "name": "07_Interests",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 13,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×1"
+      ],
+      "names": [
+        "Onboarding / Progress",
+        "What moves you?",
+        "Next",
+        "Status Bar",
+        "Home Indicator",
+        "Onboarding / Interest · "
+      ]
+    },
+    {
+      "name": "08_Notifications",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Onboarding / Progress",
+        "Notification accent",
+        "N",
+        "Stay in the know with no",
+        "Next",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "09_Welcome_To_App",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×1",
+        "frame×1"
+      ],
+      "names": [
+        "Icon_Back",
+        "Welcome to the Nike App",
+        "Status Bar",
+        "Navigation / Tab bar",
+        "Active tab",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "10_Home",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×5",
+        "frame×1"
+      ],
+      "names": [
+        "What’s new",
+        "Go Discover",
+        "The latest arrivals from",
+        "Product_Air_Jordan_XXXVI",
+        "Product_Revolution_5",
+        "Air Jordan XXXVI"
+      ]
+    },
+    {
+      "name": "11_Discover",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Tuesday, 3 May",
+        "Discover",
+        "Go Latest",
+        "Photo_Discover_Jordan_Fl",
+        "Status Bar",
+        "Navigation / Tab bar"
+      ]
+    },
+    {
+      "name": "12_Shop",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 4,
+      "instances": 9,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×8",
+        "frame×8"
+      ],
+      "names": [
+        "Navigation / Header",
+        "Men Women Kids",
+        "Selected Men",
+        "Shop · scroll for stores",
+        "Must-Haves, Best Sellers",
+        "Best Sellers"
+      ]
+    },
+    {
+      "name": "13_Best_Sellers",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×1",
+        "frame×1"
+      ],
+      "names": [
+        "Navigation / Header",
+        "Base Layer Socks Accesso",
+        "Nike Therma",
+        "Nike Sportswear Club Fle",
+        "Nike Dri-FIT Miler",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "14_Jordan_Flight_Essentials",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×1",
+        "frame×1"
+      ],
+      "names": [
+        "Navigation / Header",
+        "All Tops & T-Shirts Hood",
+        "Jordan Essentials",
+        "Jordan Essentials Statem",
+        "Status Bar",
+        "Navigation / Tab bar"
+      ]
+    },
+    {
+      "name": "15_Product_Detail",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×7",
+        "text×2"
+      ],
+      "names": [
+        "Navigation / Header",
+        "Product_AF1_Black",
+        "Gallery indicator",
+        "Product_AF1_White",
+        "Selected Black",
+        "Black"
+      ]
+    },
+    {
+      "name": "16_Style_Matching",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×1"
+      ],
+      "names": [
+        "Navigation / Header",
+        "Nike Flex Experience Run",
+        "Nike Downshifter 11",
+        "Nike Legend Essential 2",
+        "Nike Air Max Bella TR 4",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "17_Stores",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Navigation / Header",
+        "Icon_Location",
+        "Store Locator",
+        "Divider",
+        "Nearby Stores",
+        "Find a Store"
+      ]
+    },
+    {
+      "name": "18_Playlist_Story",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×3",
+        "text×2"
+      ],
+      "names": [
+        "Icon_Back",
+        "Icon_Share",
+        "Icon_Comment",
+        "Story · scroll to read",
+        "Soyeon’s Dance Challenge",
+        "Photo_Playlist_Story"
+      ]
+    }
+  ]
+}

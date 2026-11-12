@@ -1,0 +1,257 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Login",
+      "size": "428×928",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "frame×8"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Frame",
+        "AI",
+        "Login to your account"
+      ]
+    },
+    {
+      "name": "02_Home_Chats",
+      "size": "428×928",
+      "nodes": 52,
+      "max_depth": 3,
+      "instances": 0,
+      "texts": 33,
+      "images": 0,
+      "types": [
+        "text×33",
+        "frame×19"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Avatar_Btn",
+        "SR",
+        "Frame"
+      ]
+    },
+    {
+      "name": "03_Home_Images",
+      "size": "428×928",
+      "nodes": 38,
+      "max_depth": 3,
+      "instances": 0,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "frame×19",
+        "text×19"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Avatar_Btn",
+        "SR",
+        "Frame"
+      ]
+    },
+    {
+      "name": "04_Home_Exports",
+      "size": "428×928",
+      "nodes": 57,
+      "max_depth": 3,
+      "instances": 0,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "text×32",
+        "frame×25"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Avatar_Btn",
+        "SR",
+        "Frame"
+      ]
+    },
+    {
+      "name": "05_Chat_New",
+      "size": "428×928",
+      "nodes": 27,
+      "max_depth": 3,
+      "instances": 0,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "frame×11"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Menu_Btn",
+        "☰",
+        "Frame"
+      ]
+    },
+    {
+      "name": "06_Chat_Conversation",
+      "size": "428×928",
+      "nodes": 27,
+      "max_depth": 3,
+      "instances": 0,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "frame×12"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Menu_Btn",
+        "☰",
+        "Frame"
+      ]
+    },
+    {
+      "name": "07_Export_PDF_Sheet",
+      "size": "428×928",
+      "nodes": 15,
+      "max_depth": 3,
+      "instances": 0,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "frame×8",
+        "text×7"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Frame",
+        "Export as PDF",
+        "Close_Btn"
+      ]
+    },
+    {
+      "name": "08_Profile_Settings",
+      "size": "428×928",
+      "nodes": 36,
+      "max_depth": 3,
+      "instances": 0,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "frame×11"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Back_Btn",
+        "←",
+        "Profile & Settings"
+      ]
+    },
+    {
+      "name": "09_Account_Actions_Sheet",
+      "size": "428×928",
+      "nodes": 9,
+      "max_depth": 3,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "frame×6",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Overlay_Tap_Outside",
+        "Frame",
+        "Sign_Out_Btn"
+      ]
+    },
+    {
+      "name": "10_Theme_Sheet",
+      "size": "428×928",
+      "nodes": 13,
+      "max_depth": 3,
+      "instances": 0,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "frame×7",
+        "text×6"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Overlay_Tap_Outside",
+        "Frame",
+        "Choose Theme"
+      ]
+    },
+    {
+      "name": "11_Cloud_Space",
+      "size": "428×928",
+      "nodes": 46,
+      "max_depth": 3,
+      "instances": 0,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "frame×21"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Back_Btn",
+        "←",
+        "Cloud Space"
+      ]
+    },
+    {
+      "name": "12_Clear_Cache_Dialog",
+      "size": "428×928",
+      "nodes": 11,
+      "max_depth": 3,
+      "instances": 0,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "frame×6",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Frame",
+        "Clear cache",
+        "You are requesting to de"
+      ]
+    }
+  ]
+}

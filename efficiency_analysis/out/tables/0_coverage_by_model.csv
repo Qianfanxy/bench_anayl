@@ -1,0 +1,17 @@
+model,protocol,records,problems,finished,scored,tokens_ok,tokens_partial,hit_time_limit,multi_attempt,checker_failed,needs_review
+DeepSeek V4 Flash,v2_no_screenshot_direct,42,42,36,23,12,24,22,16,12,34
+Fable 5.1,v1_screenshot_cc,29,29,29,29,28,1,0,0,0,0
+Fable 5.1,v2_no_screenshot_direct,13,13,13,13,10,3,2,4,0,9
+GLM-5.3 Flash,v1_screenshot_cc,29,29,29,29,29,0,1,0,0,0
+GLM-5.3 Flash,v2_no_screenshot_direct,13,13,13,12,11,2,1,6,0,7
+GPT 6.1 Sol,v2_no_screenshot_direct,42,42,42,40,38,4,0,7,12,15
+Gemini 3.5 Flash,v1_screenshot_cc,29,29,29,29,29,0,0,0,0,0
+Gemini 3.5 Flash,v2_no_screenshot_direct,13,13,13,13,12,1,0,10,0,12
+Kimi K3,v1_screenshot_cc,29,29,29,29,24,5,1,0,0,0
+Kimi K3,v2_no_screenshot_direct,13,13,13,13,10,3,3,6,0,6
+Opus 5.5（三方A）,v1_screenshot_cc,29,29,29,29,26,3,0,0,0,0
+Opus 5.5（三方A）,v2_no_screenshot_direct,13,13,13,12,11,2,0,3,0,2
+Qwen 3.8 Max,v2_no_screenshot_direct,42,42,37,34,16,21,14,15,11,27
+Sonnet 5.5,v2_no_screenshot_direct,42,42,42,39,41,1,0,3,16,9
+gpt-6-astra,v1_screenshot_cc,29,29,29,28,29,0,0,0,0,0
+gpt-6-astra,v2_no_screenshot_direct,13,13,13,13,13,0,0,0,0,2

@@ -1,0 +1,837 @@
+{
+ "file_key": "B2Sbh1dTGQFUT6PZkSTqHy",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "7:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "7:5",
+     "name": "FinX — mobile banking and trading app",
+     "x": 64,
+     "y": 96,
+     "text": "FinX — mobile banking and trading app"
+    },
+    {
+     "id": "7:6",
+     "name": "Design the complete FinX mobile app for Alex Morgan: a banking area (sign up, verify identity, see cards, exchange rates, transactions, budget and profile) and an XTrade trading area (portfolio, crypto market, stock and crypto exchange). Canvas 390 × 844, iPhone. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 162,
+     "text": "Design the complete FinX mobile app for Alex Morgan: a banking area (sign up, verify identity, see cards, exchange rates, transactions, budget and profile) and an XTrade trading area (portfolio, crypto market, stock and crypto exchange).\nCanvas 390 × 844, iPhone. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "7:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 288,
+     "text": "How to work"
+    },
+    {
+     "id": "7:9",
+     "name": "1. Build exactly the 10 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand primary color and the typefaces in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, light / dark mode, gain / loss, success / error / warning / disabled, chart colors), plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, both bottom navigations and every business component as reusable components in your file. 5. Use logos, coin icons, banners, the avatar, the ID card placeholder and icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 340,
+     "text": "1. Build exactly the 10 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typefaces in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, light / dark mode, gain / loss, success / error / warning / disabled, chart colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, both bottom navigations and every business component as reusable components in your file.\n5. Use logos, coin icons, banners, the avatar, the ID card placeholder and icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "7:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 595,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "7:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 647,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "7:15",
+     "name": "01_Welcome",
+     "x": 89,
+     "y": 711,
+     "text": "01_Welcome"
+    },
+    {
+     "id": "7:22",
+     "name": "02_Photo_ID",
+     "x": 757,
+     "y": 711,
+     "text": "02_Photo_ID"
+    },
+    {
+     "id": "7:16",
+     "name": "Goal: Start using FinX or log in.",
+     "x": 89,
+     "y": 748,
+     "text": "Goal: Start using FinX or log in."
+    },
+    {
+     "id": "7:23",
+     "name": "Goal: Verify identity by scanning an ID card.",
+     "x": 757,
+     "y": 748,
+     "text": "Goal: Verify identity by scanning an ID card."
+    },
+    {
+     "id": "7:17",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 779,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:24",
+     "name": "MUST INCLUDE",
+     "x": 757,
+     "y": 779,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:18",
+     "name": "• Actions: GET STARTED · Log In (“Already have an account?”) • Copy: “Manage your finances simply” • Media: Illustration_Welcome",
+     "x": 89,
+     "y": 806,
+     "text": "• Actions: GET STARTED · Log In (“Already have an account?”)\n• Copy: “Manage your finances simply”\n• Media: Illustration_Welcome"
+    },
+    {
+     "id": "7:25",
+     "name": "• Actions: back · TRY AGAIN · CONTINUE • Camera: the ID card being scanned (ID_Card_Placeholder) • Copy: “Photo ID Card” · “Please point the camera at the ID card”",
+     "x": 757,
+     "y": 806,
+     "text": "• Actions: back · TRY AGAIN · CONTINUE\n• Camera: the ID card being scanned (ID_Card_Placeholder)\n• Copy: “Photo ID Card” · “Please point the camera at the ID card”"
+    },
+    {
+     "id": "7:19",
+     "name": "LINKS",
+     "x": 89,
+     "y": 879,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:26",
+     "name": "LINKS",
+     "x": 757,
+     "y": 879,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:20",
+     "name": "→ GET STARTED → 02_Photo_ID",
+     "x": 89,
+     "y": 906,
+     "text": "→ GET STARTED → 02_Photo_ID"
+    },
+    {
+     "id": "7:27",
+     "name": "→ back → 01_Welcome → CONTINUE → 03_Bank_Home",
+     "x": 757,
+     "y": 906,
+     "text": "→ back → 01_Welcome\n→ CONTINUE → 03_Bank_Home"
+    },
+    {
+     "id": "7:29",
+     "name": "03_Bank_Home",
+     "x": 89,
+     "y": 1022,
+     "text": "03_Bank_Home"
+    },
+    {
+     "id": "7:36",
+     "name": "04_Bank_Transactions",
+     "x": 757,
+     "y": 1022,
+     "text": "04_Bank_Transactions"
+    },
+    {
+     "id": "7:30",
+     "name": "Goal: See payment cards, exchange rates and recent transactions.",
+     "x": 89,
+     "y": 1059,
+     "text": "Goal: See payment cards, exchange rates and recent transactions."
+    },
+    {
+     "id": "7:37",
+     "name": "Goal: Understand this week’s spending against the monthly budget.",
+     "x": 757,
+     "y": 1059,
+     "text": "Goal: Understand this week’s spending against the monthly budget."
+    },
+    {
+     "id": "7:31",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 1090,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:38",
+     "name": "MUST INCLUDE",
+     "x": 757,
+     "y": 1090,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:32",
+     "name": "• Actions: menu · contacts · notifications (unread) • Cards: “Payment card” · 2 cards • Exchange rates: “Exchange rates” · AUD / EUR / GBP, each with rate and change · entry to all rates • Main navigation: current tab Home • Transactions: “Transactions” · 3 transactions, newest first · entry to all transactions",
+     "x": 89,
+     "y": 1117,
+     "text": "• Actions: menu · contacts · notifications (unread)\n• Cards: “Payment card” · 2 cards\n• Exchange rates: “Exchange rates” · AUD / EUR / GBP, each with rate and change · entry to all rates\n• Main navigation: current tab Home\n• Transactions: “Transactions” · 3 transactions, newest first · entry to all transactions"
+    },
+    {
+     "id": "7:39",
+     "name": "• Actions: history · currency exchange · notifications (unread) • Balance: “Total balance” $41,900.10 • Budget: “Monthly budget” · $1,080.24 spent of $2,500 · Food & restaurants $890.12 · Tickets & Journey $190.12 • Copy: “Transactions” • Main navigation: current tab Trans. • Weekly spending: “Transactions” $1,041.90 · period Week (changeable) · spend per day Mon 01 – Sat 06 · selected day: Thu 04, $134.90",
+     "x": 757,
+     "y": 1117,
+     "text": "• Actions: history · currency exchange · notifications (unread)\n• Balance: “Total balance” $41,900.10\n• Budget: “Monthly budget” · $1,080.24 spent of $2,500 · Food & restaurants $890.12 · Tickets & Journey $190.12\n• Copy: “Transactions”\n• Main navigation: current tab Trans.\n• Weekly spending: “Transactions” $1,041.90 · period Week (changeable) · spend per day Mon 01 – Sat 06 · selected day: Thu 04, $134.90"
+    },
+    {
+     "id": "7:33",
+     "name": "LINKS",
+     "x": 89,
+     "y": 1253,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:34",
+     "name": "→ Transactions entry → 04_Bank_Transactions → tabs → 04 / 03 / 05",
+     "x": 89,
+     "y": 1280,
+     "text": "→ Transactions entry → 04_Bank_Transactions\n→ tabs → 04 / 03 / 05"
+    },
+    {
+     "id": "7:40",
+     "name": "LINKS",
+     "x": 757,
+     "y": 1295,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:41",
+     "name": "→ tabs → 04 / 03 / 05",
+     "x": 757,
+     "y": 1322,
+     "text": "→ tabs → 04 / 03 / 05"
+    },
+    {
+     "id": "7:43",
+     "name": "05_Profile",
+     "x": 89,
+     "y": 1417,
+     "text": "05_Profile"
+    },
+    {
+     "id": "7:50",
+     "name": "06_XTrade_Welcome",
+     "x": 757,
+     "y": 1417,
+     "text": "06_XTrade_Welcome"
+    },
+    {
+     "id": "7:44",
+     "name": "Goal: Review the account and reach settings.",
+     "x": 89,
+     "y": 1454,
+     "text": "Goal: Review the account and reach settings."
+    },
+    {
+     "id": "7:51",
+     "name": "Goal: Introduce XTrade, the FinX trading area.",
+     "x": 757,
+     "y": 1454,
+     "text": "Goal: Introduce XTrade, the FinX trading area."
+    },
+    {
+     "id": "7:45",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 1485,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:52",
+     "name": "MUST INCLUDE",
+     "x": 757,
+     "y": 1485,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:46",
+     "name": "• Account: Avatar_User · Alex Morgan · alex.morgan@finx.app · +1 234 567 8901 · edit avatar • Actions: notifications · history · more menu • Main navigation: current tab Profile • Settings: Contact us · Edit profile information · Help & Support · Language: English · Notifications: ON · Privacy policy · Security · Theme: Light mode",
+     "x": 89,
+     "y": 1512,
+     "text": "• Account: Avatar_User · Alex Morgan · alex.morgan@finx.app · +1 234 567 8901 · edit avatar\n• Actions: notifications · history · more menu\n• Main navigation: current tab Profile\n• Settings: Contact us · Edit profile information · Help & Support · Language: English · Notifications: ON · Privacy policy · Security · Theme: Light mode"
+    },
+    {
+     "id": "7:53",
+     "name": "• Actions: GET STARTED • Brand: “FinX” • Copy: “Zero fee payment on XTrade” · “No 1 design for E-bank, e-wallet, personal financial mobile application.”",
+     "x": 757,
+     "y": 1512,
+     "text": "• Actions: GET STARTED\n• Brand: “FinX”\n• Copy: “Zero fee payment on XTrade” · “No 1 design for E-bank, e-wallet, personal financial mobile application.”"
+    },
+    {
+     "id": "7:54",
+     "name": "LINKS",
+     "x": 757,
+     "y": 1606,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:55",
+     "name": "→ GET STARTED → 07_Trade_Home",
+     "x": 757,
+     "y": 1633,
+     "text": "→ GET STARTED → 07_Trade_Home"
+    },
+    {
+     "id": "7:47",
+     "name": "LINKS",
+     "x": 89,
+     "y": 1648,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:48",
+     "name": "→ tabs → 04 / 03 / 05",
+     "x": 89,
+     "y": 1675,
+     "text": "→ tabs → 04 / 03 / 05"
+    },
+    {
+     "id": "7:57",
+     "name": "07_Trade_Home",
+     "x": 89,
+     "y": 1770,
+     "text": "07_Trade_Home"
+    },
+    {
+     "id": "7:64",
+     "name": "08_Market",
+     "x": 757,
+     "y": 1770,
+     "text": "08_Market"
+    },
+    {
+     "id": "7:58",
+     "name": "Goal: See portfolio value and jump into trading.",
+     "x": 89,
+     "y": 1807,
+     "text": "Goal: See portfolio value and jump into trading."
+    },
+    {
+     "id": "7:65",
+     "name": "Goal: Scan coin prices and pick one to trade.",
+     "x": 757,
+     "y": 1807,
+     "text": "Goal: Scan coin prices and pick one to trade."
+    },
+    {
+     "id": "7:59",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 1838,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:66",
+     "name": "MUST INCLUDE",
+     "x": 757,
+     "y": 1838,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:60",
+     "name": "• Account: Avatar_User · search “Search” · scan · notifications (unread) • Banners: Banner_ETH_2_0 · Banner_Upcoming_Events • Exchange rates: same as 03 · See all • Main navigation: current tab Home • Portfolio: “My Portfolios” · See all · BTC / ETH / XRP / BNB, each with logo, name, holding, value, 24h change and 7-day trend • Shortcuts: Deposit · Earn · Gift card · More · Orders · Referral · Save coins · Shop",
+     "x": 89,
+     "y": 1865,
+     "text": "• Account: Avatar_User · search “Search” · scan · notifications (unread)\n• Banners: Banner_ETH_2_0 · Banner_Upcoming_Events\n• Exchange rates: same as 03 · See all\n• Main navigation: current tab Home\n• Portfolio: “My Portfolios” · See all · BTC / ETH / XRP / BNB, each with logo, name, holding, value, 24h change and 7-day trend\n• Shortcuts: Deposit · Earn · Gift card · More · Orders · Referral · Save coins · Shop"
+    },
+    {
+     "id": "7:67",
+     "name": "• Actions: filter • Coins: 9 coins, each with ticker, name, 24h volume, price and 24h change • Copy: “Market” • Main navigation: current tab Markets • Search: “Search coin” • Tabs: Favorites / Spot / Futures / Zones / Others · current: Favorites",
+     "x": 757,
+     "y": 1865,
+     "text": "• Actions: filter\n• Coins: 9 coins, each with ticker, name, 24h volume, price and 24h change\n• Copy: “Market”\n• Main navigation: current tab Markets\n• Search: “Search coin”\n• Tabs: Favorites / Spot / Futures / Zones / Others · current: Favorites"
+    },
+    {
+     "id": "7:68",
+     "name": "LINKS",
+     "x": 757,
+     "y": 2001,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:61",
+     "name": "LINKS",
+     "x": 89,
+     "y": 2022,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:69",
+     "name": "→ BTC → 10_Exchange_Crypto → tabs → 07 / 08 / 09",
+     "x": 757,
+     "y": 2028,
+     "text": "→ BTC → 10_Exchange_Crypto\n→ tabs → 07 / 08 / 09"
+    },
+    {
+     "id": "7:62",
+     "name": "→ BTC → 10_Exchange_Crypto → tabs → 07 / 08 / 09",
+     "x": 89,
+     "y": 2049,
+     "text": "→ BTC → 10_Exchange_Crypto\n→ tabs → 07 / 08 / 09"
+    },
+    {
+     "id": "7:71",
+     "name": "09_Exchange_Stock",
+     "x": 89,
+     "y": 2165,
+     "text": "09_Exchange_Stock"
+    },
+    {
+     "id": "7:78",
+     "name": "10_Exchange_Crypto",
+     "x": 757,
+     "y": 2165,
+     "text": "10_Exchange_Crypto"
+    },
+    {
+     "id": "7:72",
+     "name": "Goal: Swap one stock for another.",
+     "x": 89,
+     "y": 2202,
+     "text": "Goal: Swap one stock for another."
+    },
+    {
+     "id": "7:79",
+     "name": "Goal: Place a limit order for BTC.",
+     "x": 757,
+     "y": 2202,
+     "text": "Goal: Place a limit order for BTC."
+    },
+    {
+     "id": "7:73",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 2233,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:80",
+     "name": "MUST INCLUDE",
+     "x": 757,
+     "y": 2233,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:74",
+     "name": "• Actions: filter · swap direction · calculator • Copy: “Exchange” • From: AAPL (Apple Inc.) · Logo_Apple · amount $156.50 being entered · stock changeable • Keypad: 1 · 2 ABC · 3 DEF · 4 GHI · 5 JKL · 6 MNO · 7 PQRS · 8 TUV · 9 WXYZ · 0 · backspace • Main navigation: current tab Exchange • Side: Buy / Sell · current: Buy • To: SPOT (Spotify) · Logo_Spotify · ≈ 0.69 shares at $226.90 · stock changeable",
+     "x": 89,
+     "y": 2260,
+     "text": "• Actions: filter · swap direction · calculator\n• Copy: “Exchange”\n• From: AAPL (Apple Inc.) · Logo_Apple · amount $156.50 being entered · stock changeable\n• Keypad: 1 · 2 ABC · 3 DEF · 4 GHI · 5 JKL · 6 MNO · 7 PQRS · 8 TUV · 9 WXYZ · 0 · backspace\n• Main navigation: current tab Exchange\n• Side: Buy / Sell · current: Buy\n• To: SPOT (Spotify) · Logo_Spotify · ≈ 0.69 shares at $226.90 · stock changeable"
+    },
+    {
+     "id": "7:81",
+     "name": "• Copy: “Exchange” • Main navigation: current tab Exchange • Order book: 5 asks and 5 bids, each with price and amount (BTC) • Order form: side Buy / Sell · current Buy · type Limit (changeable) · price 29,198.00 USDT (− / +) · amount 0.0500 BTC (− / +) · 25% / 50% / 75% / 100% · Total 1,459.90 USDT · Available 2,500.00 USDT · Buy BTC • Pair: BTC / USDT · Logo_BTC · Vol 2.8B · last price 29,198.24 · +3.73% · pair changeable • View: Orderbook / Chart · current: Orderbook",
+     "x": 757,
+     "y": 2260,
+     "text": "• Copy: “Exchange”\n• Main navigation: current tab Exchange\n• Order book: 5 asks and 5 bids, each with price and amount (BTC)\n• Order form: side Buy / Sell · current Buy · type Limit (changeable) · price 29,198.00 USDT (− / +) · amount 0.0500 BTC (− / +) · 25% / 50% / 75% / 100% · Total 1,459.90 USDT · Available 2,500.00 USDT · Buy BTC\n• Pair: BTC / USDT · Logo_BTC · Vol 2.8B · last price 29,198.24 · +3.73% · pair changeable\n• View: Orderbook / Chart · current: Orderbook"
+    },
+    {
+     "id": "7:82",
+     "name": "LINKS",
+     "x": 757,
+     "y": 2438,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:75",
+     "name": "LINKS",
+     "x": 89,
+     "y": 2459,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:83",
+     "name": "→ tabs → 07 / 08 / 09",
+     "x": 757,
+     "y": 2465,
+     "text": "→ tabs → 07 / 08 / 09"
+    },
+    {
+     "id": "7:76",
+     "name": "→ tabs → 07 / 08 / 09",
+     "x": 89,
+     "y": 2486,
+     "text": "→ tabs → 07 / 08 / 09"
+    },
+    {
+     "id": "7:85",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 2580,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "7:86",
+     "name": "• Banking: 01_Welcome → 02_Photo_ID → 03_Bank_Home. Trading: 06_XTrade_Welcome → 07_Trade_Home. Two entry points, two areas. • Banking navigation on 03, 04, 05 — five tabs in this order: Trans. (Icon_Tab_Transactions) → 04 · Feeds (Icon_Tab_Feeds, entry only) · Home (Icon_Tab_Home, centre) → 03 · Wallet (Icon_Tab_Wallet, entry only) · Profile (Icon_Tab_Profile) → 05. • Trading navigation on 07, 08, 09, 10 — five tabs in this order: Home (Icon_Tab_Home) → 07 · Markets (Icon_Tab_Markets) → 08 · Exchange (Icon_Tab_Exchange, centre) → 09 · Futures (Icon_Tab_Futures, entry only) · Wallets (Icon_Tab_Wallet, entry only). • The current tab must match the frame. How the navigations look is yours. • Entry only (no frame): Log In, TRY AGAIN, menu, contacts, notifications, history, currency exchange, more menu, settings rows, edit avatar, search, scan, shortcuts, banners, See all, filter, calculator, Chart view, Sell.",
+     "x": 64,
+     "y": 2632,
+     "text": "• Banking: 01_Welcome → 02_Photo_ID → 03_Bank_Home. Trading: 06_XTrade_Welcome → 07_Trade_Home. Two entry points, two areas.\n• Banking navigation on 03, 04, 05 — five tabs in this order: Trans. (Icon_Tab_Transactions) → 04 · Feeds (Icon_Tab_Feeds, entry only) · Home (Icon_Tab_Home, centre) → 03 · Wallet (Icon_Tab_Wallet, entry only) · Profile (Icon_Tab_Profile) → 05.\n• Trading navigation on 07, 08, 09, 10 — five tabs in this order: Home (Icon_Tab_Home) → 07 · Markets (Icon_Tab_Markets) → 08 · Exchange (Icon_Tab_Exchange, centre) → 09 · Futures (Icon_Tab_Futures, entry only) · Wallets (Icon_Tab_Wallet, entry only).\n• The current tab must match the frame. How the navigations look is yours.\n• Entry only (no frame): Log In, TRY AGAIN, menu, contacts, notifications, history, currency exchange, more menu, settings rows, edit avatar, search, scan, shortcuts, banners, See all, filter, calculator, Chart view, Sell."
+    },
+    {
+     "id": "7:88",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 2864,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "7:89",
+     "name": "Use these values verbatim. Today is Apr 13, 2022. Currency USD unless stated.",
+     "x": 64,
+     "y": 2916,
+     "text": "Use these values verbatim. Today is Apr 13, 2022. Currency USD unless stated."
+    },
+    {
+     "id": "7:92",
+     "name": "User",
+     "x": 84,
+     "y": 2975,
+     "text": "User"
+    },
+    {
+     "id": "7:95",
+     "name": "Payment cards",
+     "x": 528,
+     "y": 2975,
+     "text": "Payment cards"
+    },
+    {
+     "id": "7:98",
+     "name": "Exchange rates (vs USD, all rising)",
+     "x": 972,
+     "y": 2975,
+     "text": "Exchange rates (vs USD, all rising)"
+    },
+    {
+     "id": "7:93",
+     "name": "Alex Morgan · alex.morgan@finx.app · +1 234 567 8901 · avatar = Avatar_User",
+     "x": 84,
+     "y": 3004,
+     "text": "Alex Morgan · alex.morgan@finx.app · +1 234 567 8901 · avatar = Avatar_User"
+    },
+    {
+     "id": "7:96",
+     "name": "Mastercard (Logo_Mastercard) · 3141 5926 5358 9793 · ALEX MORGAN · Exp 06/24 Mastercard (Logo_Mastercard) · 5412 7534 0192 4467 · ALEX MORGAN · Exp 11/25",
+     "x": 528,
+     "y": 3004,
+     "text": "Mastercard (Logo_Mastercard) · 3141 5926 5358 9793 · ALEX MORGAN · Exp 06/24\nMastercard (Logo_Mastercard) · 5412 7534 0192 4467 · ALEX MORGAN · Exp 11/25"
+    },
+    {
+     "id": "7:99",
+     "name": "AUD $0.80 · +0.03 (+3.9%) EUR $1.10 · +0.03 (+2.8%) GBP $1.30 · +0.03 (+2.4%)",
+     "x": 972,
+     "y": 3004,
+     "text": "AUD $0.80 · +0.03 (+3.9%)\nEUR $1.10 · +0.03 (+2.8%)\nGBP $1.30 · +0.03 (+2.4%)"
+    },
+    {
+     "id": "7:101",
+     "name": "Bank transactions (newest first)",
+     "x": 84,
+     "y": 3148,
+     "text": "Bank transactions (newest first)"
+    },
+    {
+     "id": "7:104",
+     "name": "Weekly spending",
+     "x": 528,
+     "y": 3148,
+     "text": "Weekly spending"
+    },
+    {
+     "id": "7:107",
+     "name": "Monthly budget",
+     "x": 972,
+     "y": 3148,
+     "text": "Monthly budget"
+    },
+    {
+     "id": "7:102",
+     "name": "Car loans (Icon_Car_Loan) · $13.10 · −4.5% · today 9:01 AM Mortgage real estate (Icon_Mortgage) · $15.10 · −1.5% · Apr 12, 2022 5:01 AM Personal loans (Icon_Personal_Loan) · $41.10 · −6.5% · Mar 13, 2022 7:02 PM",
+     "x": 84,
+     "y": 3177,
+     "text": "Car loans (Icon_Car_Loan) · $13.10 · −4.5% · today 9:01 AM\nMortgage real estate (Icon_Mortgage) · $15.10 · −1.5% · Apr 12, 2022 5:01 AM\nPersonal loans (Icon_Personal_Loan) · $41.10 · −6.5% · Mar 13, 2022 7:02 PM"
+    },
+    {
+     "id": "7:105",
+     "name": "Total balance $41,900.10 · this week $1,041.90 · period Week Mon 01 $96.40 · Tue 02 $210.25 · Wed 03 $305.80 · Thu 04 $134.90 (selected) · Fri 05 $58.20 · Sat 06 $236.35",
+     "x": 528,
+     "y": 3177,
+     "text": "Total balance $41,900.10 · this week $1,041.90 · period Week\nMon 01 $96.40 · Tue 02 $210.25 · Wed 03 $305.80 · Thu 04 $134.90 (selected) · Fri 05 $58.20 · Sat 06 $236.35"
+    },
+    {
+     "id": "7:108",
+     "name": "$1,080.24 spent of $2,500 Food & restaurants (Icon_Food) $890.12 · Tickets & Journey (Icon_Ticket) $190.12",
+     "x": 972,
+     "y": 3177,
+     "text": "$1,080.24 spent of $2,500\nFood & restaurants (Icon_Food) $890.12 · Tickets & Journey (Icon_Ticket) $190.12"
+    },
+    {
+     "id": "7:110",
+     "name": "Profile settings",
+     "x": 84,
+     "y": 3341,
+     "text": "Profile settings"
+    },
+    {
+     "id": "7:113",
+     "name": "Trade shortcuts",
+     "x": 528,
+     "y": 3341,
+     "text": "Trade shortcuts"
+    },
+    {
+     "id": "7:116",
+     "name": "My Portfolios (holding · value · 24h)",
+     "x": 972,
+     "y": 3341,
+     "text": "My Portfolios (holding · value · 24h)"
+    },
+    {
+     "id": "7:111",
+     "name": "Edit profile information · Notifications ON · Language English Security · Theme Light mode Help & Support · Contact us · Privacy policy",
+     "x": 84,
+     "y": 3370,
+     "text": "Edit profile information · Notifications ON · Language English\nSecurity · Theme Light mode\nHelp & Support · Contact us · Privacy policy"
+    },
+    {
+     "id": "7:114",
+     "name": "Deposit · Referral · Earn · Save coins · Orders · Shop · Gift card · More (icons Icon_Deposit … Icon_More_Horizontal)",
+     "x": 528,
+     "y": 3370,
+     "text": "Deposit · Referral · Earn · Save coins · Orders · Shop · Gift card · More (icons Icon_Deposit … Icon_More_Horizontal)"
+    },
+    {
+     "id": "7:117",
+     "name": "BTC Bitcoin · 0.5000 BTC · $14,599.12 · +3.73% ETH Ethereum · 2.0000 ETH · $3,700.24 · −1.07% XRP Ripple · 5,000 XRP · $2,465.00 · +1.76% BNB BNB · 1.2000 BNB · $289.56 · +0.62% Logos: Coin_BTC, Coin_ETH, Coin_XRP, Coin_BNB",
+     "x": 972,
+     "y": 3370,
+     "text": "BTC Bitcoin · 0.5000 BTC · $14,599.12 · +3.73%\nETH Ethereum · 2.0000 ETH · $3,700.24 · −1.07%\nXRP Ripple · 5,000 XRP · $2,465.00 · +1.76%\nBNB BNB · 1.2000 BNB · $289.56 · +0.62%\nLogos: Coin_BTC, Coin_ETH, Coin_XRP, Coin_BNB"
+    },
+    {
+     "id": "7:119",
+     "name": "Market · Favorites (price · 24h · volume)",
+     "x": 84,
+     "y": 3534,
+     "text": "Market · Favorites (price · 24h · volume)"
+    },
+    {
+     "id": "7:122",
+     "name": "Stock exchange",
+     "x": 528,
+     "y": 3534,
+     "text": "Stock exchange"
+    },
+    {
+     "id": "7:125",
+     "name": "Order book BTC / USDT (price · amount BTC)",
+     "x": 972,
+     "y": 3534,
+     "text": "Order book BTC / USDT (price · amount BTC)"
+    },
+    {
+     "id": "7:120",
+     "name": "BTC Bitcoin $29,198.24 · +3.73% · 2.8B ETH Ethereum $1,850.12 · −1.07% · 1.1B USDT TetherUS $1.00 · +0.01% · 41.2B BNB BNB $241.30 · +0.62% · 412.5M ADA Cardano $0.2874 · −0.62% · 186.0M XRP Ripple $0.4930 · +1.76% · 990.0M SOL Solana $20.58 · +2.15% · 305.4M DOT Polkadot $4.92 · +0.84% · 98.7M AVAX Avalanche $11.36 · −0.45% · 120.3M",
+     "x": 84,
+     "y": 3563,
+     "text": "BTC Bitcoin $29,198.24 · +3.73% · 2.8B\nETH Ethereum $1,850.12 · −1.07% · 1.1B\nUSDT TetherUS $1.00 · +0.01% · 41.2B\nBNB BNB $241.30 · +0.62% · 412.5M\nADA Cardano $0.2874 · −0.62% · 186.0M\nXRP Ripple $0.4930 · +1.76% · 990.0M\nSOL Solana $20.58 · +2.15% · 305.4M\nDOT Polkadot $4.92 · +0.84% · 98.7M\nAVAX Avalanche $11.36 · −0.45% · 120.3M"
+    },
+    {
+     "id": "7:123",
+     "name": "Buy · from AAPL (Apple Inc.) $156.50 → to SPOT (Spotify) at $226.90 per share ≈ 0.69 shares",
+     "x": 528,
+     "y": 3563,
+     "text": "Buy · from AAPL (Apple Inc.) $156.50 → to SPOT (Spotify) at $226.90 per share ≈ 0.69 shares"
+    },
+    {
+     "id": "7:126",
+     "name": "Asks: 29,203.00 · 0.0446 / 29,201.80 · 0.1185 / 29,200.65 · 0.0797 / 29,199.40 · 0.0032 / 29,198.50 · 0.1852 Bids: 29,198.00 · 0.2104 / 29,196.75 · 0.0446 / 29,195.20 · 0.1185 / 29,194.10 · 0.0797 / 29,193.50 · 0.0560 Form: Limit · 29,198.00 USDT × 0.0500 BTC = 1,459.90 USDT · Available 2,500.00 USDT",
+     "x": 972,
+     "y": 3563,
+     "text": "Asks: 29,203.00 · 0.0446 / 29,201.80 · 0.1185 / 29,200.65 · 0.0797 / 29,199.40 · 0.0032 / 29,198.50 · 0.1852\nBids: 29,198.00 · 0.2104 / 29,196.75 · 0.0446 / 29,195.20 · 0.1185 / 29,194.10 · 0.0797 / 29,193.50 · 0.0560\nForm: Limit · 29,198.00 USDT × 0.0500 BTC = 1,459.90 USDT · Available 2,500.00 USDT"
+    },
+    {
+     "id": "7:128",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 3811,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "7:131",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 3887,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "7:134",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 3887,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "7:132",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand primary color #1573FE + Poppins and Roboto • Media: logos, coin icons, banners, avatar, ID card placeholder, icons • Default Button, default Text Field, platform shell",
+     "x": 88,
+     "y": 3921,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand primary color #1573FE + Poppins and Roboto\n• Media: logos, coin icons, banners, avatar, ID card placeholder, icons\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "7:135",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, surfaces, light / dark mode, gain / loss, semantic and chart colors • Type scale, spacing, radii, elevation • All states: selected, pressed, disabled, unread, rising / falling • Headers, both bottom navigations and all business components • Chart styling (weekly spending, budget, trends, order book depth)",
+     "x": 756,
+     "y": 3921,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, surfaces, light / dark mode, gain / loss, semantic and chart colors\n• Type scale, spacing, radii, elevation\n• All states: selected, pressed, disabled, unread, rising / falling\n• Headers, both bottom navigations and all business components\n• Chart styling (weekly spending, budget, trends, order book depth)"
+    },
+    {
+     "id": "7:137",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 4140,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "7:138",
+     "name": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference.",
+     "x": 64,
+     "y": 4192,
+     "text": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference."
+    },
+    {
+     "id": "7:139",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current tabs and switches, selected day, unread notifications, gains vs losses, amount being entered)",
+     "x": 64,
+     "y": 4231,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current tabs and switches, selected day, unread notifications, gains vs losses, amount being entered)"
+    },
+    {
+     "id": "7:140",
+     "name": "Deliverable: the link to your own Figma file containing the 10 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 4408,
+     "text": "Deliverable: the link to your own Figma file containing the 10 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "6:3",
+     "name": "Foundations · FinX",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · FinX"
+    },
+    {
+     "id": "6:4",
+     "name": "Fixed: the brand primary color and the two typefaces below — they carry the FinX identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, light / dark mode, semantic colors (gain / loss, success, error, warning, disabled), chart and supporting colors, type scale, weights per role, spacing, radii and elevation.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the brand primary color and the two typefaces below — they carry the FinX identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, light / dark mode, semantic colors (gain / loss, success, error, warning, disabled), chart and supporting colors, type scale, weights per role, spacing, radii and elevation."
+    },
+    {
+     "id": "6:5",
+     "name": "Brand color",
+     "x": 56,
+     "y": 208,
+     "text": "Brand color"
+    },
+    {
+     "id": "6:8",
+     "name": "Brand primary",
+     "x": 56,
+     "y": 392,
+     "text": "Brand primary"
+    },
+    {
+     "id": "6:9",
+     "name": "#1573FE",
+     "x": 56,
+     "y": 417,
+     "text": "#1573FE"
+    },
+    {
+     "id": "6:10",
+     "name": "The FinX brand color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 441,
+     "text": "The FinX brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "6:11",
+     "name": "Typefaces",
+     "x": 56,
+     "y": 503,
+     "text": "Typefaces"
+    },
+    {
+     "id": "6:14",
+     "name": "Poppins",
+     "x": 56,
+     "y": 559,
+     "text": "Poppins"
+    },
+    {
+     "id": "6:17",
+     "name": "Roboto",
+     "x": 400,
+     "y": 559,
+     "text": "Roboto"
+    },
+    {
+     "id": "6:15",
+     "name": "Aa $41,900.10",
+     "x": 56,
+     "y": 582,
+     "text": "Aa  $41,900.10"
+    },
+    {
+     "id": "6:18",
+     "name": "Aa Bb Cc 0123456789 +3.73%",
+     "x": 400,
+     "y": 582,
+     "text": "Aa Bb Cc 0123456789  +3.73%"
+    },
+    {
+     "id": "6:19",
+     "name": "Poppins and Roboto are the FinX typefaces (Regular / Medium / SemiBold / Bold available). Which face, size and weight goes where is yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 674,
+     "text": "Poppins and Roboto are the FinX typefaces (Regular / Medium / SemiBold / Bold available). Which face, size and weight goes where is yours to define as a consistent type scale."
+    },
+    {
+     "id": "6:20",
+     "name": "Canvas: 390 × 844 (iPhone). Light or dark mode — per area or for the whole app — is your decision.",
+     "x": 56,
+     "y": 723,
+     "text": "Canvas: 390 × 844 (iPhone). Light or dark mode — per area or for the whole app — is your decision."
+    }
+   ]
+  }
+ ]
+}

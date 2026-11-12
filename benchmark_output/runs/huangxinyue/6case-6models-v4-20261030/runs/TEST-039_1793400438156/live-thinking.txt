@@ -1,0 +1,7 @@
+All 10 screens built, all prototype links wired. Let me do a final check of 07 (Trade Home after banner fix) quickly — actually I verified it earlier. The remaining screens verified. Let me finalize with the summary. Also current page is workspace. All deliverables:
+
+- File: https://www.figma.com/design/taESNi0IFEkMvTSOVrS6K7/
+- Workspace page ID: 8:2
+- Screen IDs listed
+- Prototype: 24 links
+- Limitations: self-links on current tab not possible (Figma constraint); Feeds/Wallet/Futures/Wallets tabs are entry-only per brief; 06 banner stack slight overlap (teaser).

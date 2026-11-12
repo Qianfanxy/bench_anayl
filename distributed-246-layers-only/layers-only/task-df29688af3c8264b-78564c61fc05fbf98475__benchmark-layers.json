@@ -1,0 +1,312 @@
+{
+  "board_count": 18,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "402×874",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2"
+      ],
+      "names": [
+        "01_Splash • Brand: Logo_",
+        "Auto"
+      ]
+    },
+    {
+      "name": "02_Onboarding_1",
+      "size": "402×874",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2"
+      ],
+      "names": [
+        "02_Onboarding_1 • Headin",
+        "Next"
+      ]
+    },
+    {
+      "name": "03_Onboarding_2",
+      "size": "402×874",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2"
+      ],
+      "names": [
+        "03_Onboarding_2 • Headin",
+        "Next"
+      ]
+    },
+    {
+      "name": "04_Onboarding_3",
+      "size": "402×874",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2"
+      ],
+      "names": [
+        "04_Onboarding_3 • Headin",
+        "Next"
+      ]
+    },
+    {
+      "name": "05_Sign_In",
+      "size": "402×874",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3"
+      ],
+      "names": [
+        "05_Sign_In • Back (Icon_",
+        "Back",
+        "Continue"
+      ]
+    },
+    {
+      "name": "06_Sign_Up",
+      "size": "402×874",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3"
+      ],
+      "names": [
+        "06_Sign_Up • Back (Icon_",
+        "Back",
+        "Continue"
+      ]
+    },
+    {
+      "name": "07_Home",
+      "size": "402×874",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "text×5"
+      ],
+      "names": [
+        "07_Home • Header “Find y",
+        "Search",
+        "Mountain range",
+        "Guide",
+        "Chart"
+      ]
+    },
+    {
+      "name": "08_Nordic_Cottage",
+      "size": "402×874",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "text×4"
+      ],
+      "names": [
+        "08_Nordic_Cottage • Acti",
+        "Back",
+        "Enter the plan",
+        "View other"
+      ]
+    },
+    {
+      "name": "09_Map",
+      "size": "402×874",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3"
+      ],
+      "names": [
+        "09_Map • Back (Icon_Back",
+        "Back",
+        "Place card"
+      ]
+    },
+    {
+      "name": "10_Cottage_Info",
+      "size": "402×874",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3"
+      ],
+      "names": [
+        "10_Cottage_Info • Back (",
+        "Back",
+        "Plan trip"
+      ]
+    },
+    {
+      "name": "11_New_Plan",
+      "size": "402×874",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3"
+      ],
+      "names": [
+        "11_New_Plan • Banner Pho",
+        "Back",
+        "Next step"
+      ]
+    },
+    {
+      "name": "12_Add_Itinerary",
+      "size": "402×874",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3"
+      ],
+      "names": [
+        "12_Add_Itinerary • 4 act",
+        "Back",
+        "Next step"
+      ]
+    },
+    {
+      "name": "13_Travel_Plan",
+      "size": "402×874",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3"
+      ],
+      "names": [
+        "13_Travel_Plan • Button ",
+        "Back",
+        "Determine the plan"
+      ]
+    },
+    {
+      "name": "14_Trip_Home",
+      "size": "402×874",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3"
+      ],
+      "names": [
+        "14_Trip_Home • Greeting ",
+        "Schedule",
+        "Chart"
+      ]
+    },
+    {
+      "name": "15_Itinerary_Form",
+      "size": "402×874",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "text×4"
+      ],
+      "names": [
+        "15_Itinerary_Form • Butt",
+        "Back",
+        "Home",
+        "Chart"
+      ]
+    },
+    {
+      "name": "16_Partners",
+      "size": "402×874",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "text×4"
+      ],
+      "names": [
+        "16_Partners • 5 partner ",
+        "Edit profile",
+        "Home",
+        "Guide"
+      ]
+    },
+    {
+      "name": "17_Social_Links",
+      "size": "402×874",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2"
+      ],
+      "names": [
+        "17_Social_Links • 4 card",
+        "Back"
+      ]
+    },
+    {
+      "name": "18_Profile",
+      "size": "402×874",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "text×4"
+      ],
+      "names": [
+        "18_Profile • Back (Icon_",
+        "Back",
+        "Authenticate",
+        "Save Settings"
+      ]
+    }
+  ]
+}

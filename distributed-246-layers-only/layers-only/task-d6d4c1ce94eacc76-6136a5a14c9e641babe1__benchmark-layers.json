@@ -1,0 +1,113 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×6410",
+      "nodes": 35,
+      "max_depth": 1,
+      "instances": 30,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×30",
+        "text×5"
+      ],
+      "names": [
+        "Header / Home",
+        "Featured recipe",
+        "Categories",
+        "Button",
+        "Category / Breakfast",
+        "Category / Vegan"
+      ]
+    },
+    {
+      "name": "02_Recipe",
+      "size": "1440×4920",
+      "nodes": 63,
+      "max_depth": 3,
+      "instances": 31,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "instance×31",
+        "text×18",
+        "frame×14"
+      ],
+      "names": [
+        "Header / Recipes",
+        "Healthy Japanese Fried R",
+        "Avatar_John_Smith",
+        "John Smith",
+        "15 March 2022",
+        "Surface"
+      ]
+    },
+    {
+      "name": "03_Blog",
+      "size": "1440×3100",
+      "nodes": 18,
+      "max_depth": 1,
+      "instances": 15,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×3"
+      ],
+      "names": [
+        "Header / Blog",
+        "Blog & Article",
+        "Recipes, kitchen tips an",
+        "Search bar",
+        "Article list item / Croc",
+        "Article list item / 10 V"
+      ]
+    },
+    {
+      "name": "04_Blog_Post",
+      "size": "1440×4545",
+      "nodes": 36,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "instance×14",
+        "frame×6"
+      ],
+      "names": [
+        "Header / Blog",
+        "Full Guide to Becoming a",
+        "Avatar_Dianne_Russell",
+        "Dianne Russell",
+        "12 November 2021",
+        "We asked a working head "
+      ]
+    },
+    {
+      "name": "05_Contact",
+      "size": "1440×2400",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "Header / Contact",
+        "Contact us",
+        "Surface",
+        "Photo_Chef_Contact",
+        "Contact form",
+        "Newsletter"
+      ]
+    }
+  ]
+}

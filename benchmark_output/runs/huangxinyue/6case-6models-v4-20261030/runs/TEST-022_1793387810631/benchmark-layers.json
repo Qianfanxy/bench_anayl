@@ -1,0 +1,252 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "02_Welcome",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "rectangle×6",
+        "text×4",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "03_Name",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "rectangle×6",
+        "text×4",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "375×812",
+      "nodes": 110,
+      "max_depth": 4,
+      "instances": 29,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "instance×29",
+        "rectangle×28",
+        "text×21",
+        "frame×17",
+        "vector×14",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "05_Product_Quinoa",
+      "size": "375×812",
+      "nodes": 40,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "rectangle×12",
+        "instance×11",
+        "text×8",
+        "vector×6",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "06_Basket",
+      "size": "375×812",
+      "nodes": 44,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "instance×11",
+        "rectangle×11",
+        "frame×5",
+        "ellipse×1",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "01_Splash",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "rectangle×6",
+        "instance×3",
+        "text×2",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "07_Checkout_Delivery",
+      "size": "375×812",
+      "nodes": 63,
+      "max_depth": 3,
+      "instances": 16,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "text×22",
+        "instance×16",
+        "rectangle×16",
+        "frame×5",
+        "vector×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "08_Checkout_Card",
+      "size": "375×812",
+      "nodes": 69,
+      "max_depth": 3,
+      "instances": 17,
+      "texts": 27,
+      "images": 0,
+      "types": [
+        "text×27",
+        "instance×17",
+        "rectangle×16",
+        "frame×5",
+        "vector×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "09_Order_Complete",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "text×8",
+        "rectangle×8",
+        "instance×5",
+        "frame×2",
+        "ellipse×1",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "10_Track_Order",
+      "size": "375×812",
+      "nodes": 42,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "rectangle×12",
+        "instance×10",
+        "frame×4",
+        "vector×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    }
+  ]
+}

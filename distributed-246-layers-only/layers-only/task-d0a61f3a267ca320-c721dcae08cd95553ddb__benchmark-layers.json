@@ -1,0 +1,255 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 2,
+      "images": 1,
+      "types": [
+        "instance×3",
+        "text×2",
+        "frame×1",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo_Wordmark / White",
+        "Good food. Great mood.",
+        "Frame",
+        "Splash_Burger_Stack"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "430×932",
+      "nodes": 63,
+      "max_depth": 3,
+      "instances": 19,
+      "texts": 23,
+      "images": 4,
+      "types": [
+        "text×23",
+        "instance×19",
+        "frame×17",
+        "rectangle-image×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo_Wordmark / Dark",
+        "Avatar_Neutral",
+        "Order your favourite foo",
+        "Frame"
+      ]
+    },
+    {
+      "name": "03_Product_Cheeseburger",
+      "size": "430×932",
+      "nodes": 30,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 11,
+      "images": 1,
+      "types": [
+        "text×11",
+        "frame×10",
+        "instance×8",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo / Header",
+        "Frame",
+        "Burger_Cheeseburger_Wend",
+        "Icon / Heart"
+      ]
+    },
+    {
+      "name": "04_Product_Veggie",
+      "size": "430×932",
+      "nodes": 30,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 11,
+      "images": 1,
+      "types": [
+        "text×11",
+        "frame×10",
+        "instance×8",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo / Header",
+        "Frame",
+        "Burger_Veggie",
+        "Icon / Heart"
+      ]
+    },
+    {
+      "name": "05_Product_Chicken",
+      "size": "430×932",
+      "nodes": 30,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 11,
+      "images": 1,
+      "types": [
+        "text×11",
+        "frame×10",
+        "instance×8",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo / Header",
+        "Frame",
+        "Burger_Chicken",
+        "Icon / Heart"
+      ]
+    },
+    {
+      "name": "06_Product_Fried_Chicken",
+      "size": "430×932",
+      "nodes": 30,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 11,
+      "images": 1,
+      "types": [
+        "text×11",
+        "frame×10",
+        "instance×8",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo / Header",
+        "Frame",
+        "Burger_Fried_Chicken",
+        "Icon / Heart"
+      ]
+    },
+    {
+      "name": "07_Customize",
+      "size": "430×932",
+      "nodes": 40,
+      "max_depth": 2,
+      "instances": 18,
+      "texts": 11,
+      "images": 1,
+      "types": [
+        "instance×18",
+        "text×11",
+        "frame×10",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo / Header",
+        "Frame",
+        "Burger_Exploded_Custom",
+        "Customize Your Burger to"
+      ]
+    },
+    {
+      "name": "08_Payment",
+      "size": "430×932",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "instance×6",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo / Header",
+        "Order summary",
+        "Frame",
+        "Order"
+      ]
+    },
+    {
+      "name": "09_Payment_Success_Overlay",
+      "size": "430×932",
+      "nodes": 43,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 21,
+      "images": 2,
+      "types": [
+        "text×21",
+        "frame×12",
+        "instance×8",
+        "rectangle-image×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo / Header",
+        "Order summary",
+        "Frame",
+        "Order"
+      ]
+    },
+    {
+      "name": "10_Profile",
+      "size": "430×932",
+      "nodes": 19,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo / Header",
+        "Icon / Settings",
+        "Frame",
+        "Avatar_Neutral"
+      ]
+    },
+    {
+      "name": "11_Support_Chat",
+      "size": "430×932",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "frame×9",
+        "instance×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo / Header",
+        "Icon / Menu",
+        "Typically replies in a f",
+        "Frame"
+      ]
+    }
+  ]
+}

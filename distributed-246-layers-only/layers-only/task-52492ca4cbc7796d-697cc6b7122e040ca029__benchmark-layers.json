@@ -1,0 +1,190 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "393×852",
+      "nodes": 21,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×5",
+        "rectangle×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Rectangle",
+        "Portrait_Henry",
+        "Portrait_Lucie",
+        "Portrait_Sarah_Payne",
+        "Portrait_Marry",
+        "Portrait_Pierre"
+      ]
+    },
+    {
+      "name": "02_Apple_ID_Sheet",
+      "size": "393×852",
+      "nodes": 31,
+      "max_depth": 3,
+      "instances": 15,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×8",
+        "rectangle×4",
+        "frame×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Rectangle",
+        "Portrait_Henry",
+        "Portrait_Lucie",
+        "Portrait_Sarah_Payne",
+        "Portrait_Marry",
+        "Portrait_Pierre"
+      ]
+    },
+    {
+      "name": "03_Explore",
+      "size": "393×852",
+      "nodes": 80,
+      "max_depth": 3,
+      "instances": 29,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "instance×29",
+        "frame×25",
+        "text×21",
+        "rectangle×5"
+      ],
+      "names": [
+        "Explore",
+        "Notifications",
+        "Icon_Bell",
+        "Story Your Story",
+        "Frame",
+        "Portrait_Sarah_Payne"
+      ]
+    },
+    {
+      "name": "04_Find_Partner",
+      "size": "393×852",
+      "nodes": 35,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "frame×10",
+        "rectangle×6",
+        "text×5"
+      ],
+      "names": [
+        "Icon_Back",
+        "Find your partner",
+        "Card Kalvin",
+        "Portrait_Kalvin",
+        "Card Keven",
+        "Portrait_Keven"
+      ]
+    },
+    {
+      "name": "05_Friend_Profile",
+      "size": "393×852",
+      "nodes": 38,
+      "max_depth": 3,
+      "instances": 17,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "text×8",
+        "rectangle×7",
+        "frame×6"
+      ],
+      "names": [
+        "Icon_Back",
+        "Claire Smith",
+        "Icon_More",
+        "Portrait_Claire_Smith",
+        "63K Followers",
+        "Follow"
+      ]
+    },
+    {
+      "name": "06_Short_Video",
+      "size": "393×852",
+      "nodes": 33,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×9",
+        "rectangle×6",
+        "frame×5"
+      ],
+      "names": [
+        "Short_Yu_Jian_Shore",
+        "Scrim",
+        "Icon_Back",
+        "Short",
+        "Icon_Camera",
+        "Icon_Heart"
+      ]
+    },
+    {
+      "name": "07_Profile",
+      "size": "393×852",
+      "nodes": 35,
+      "max_depth": 3,
+      "instances": 15,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×8",
+        "rectangle×7",
+        "frame×5"
+      ],
+      "names": [
+        "Icon_Menu",
+        "Sarah Payne",
+        "Portrait_Sarah_Payne",
+        "103K Followers",
+        "Edit Profile",
+        "Share Profile"
+      ]
+    },
+    {
+      "name": "08_Menu",
+      "size": "393×852",
+      "nodes": 84,
+      "max_depth": 4,
+      "instances": 34,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "instance×34",
+        "frame×24",
+        "text×18",
+        "rectangle×8"
+      ],
+      "names": [
+        "Icon_Menu",
+        "Sarah Payne",
+        "Portrait_Sarah_Payne",
+        "103K Followers",
+        "Edit Profile",
+        "Share Profile"
+      ]
+    }
+  ]
+}

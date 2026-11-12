@@ -1,0 +1,720 @@
+{
+  "file_key": "1oPizmZzd4fjneLUff0gxt",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "7:2",
+      "name": "03 · Workspace",
+      "child_count": 34
+    }
+  ],
+  "workspace": {
+    "id": "7:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "9:2",
+        "name": "01_Splash",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 2,
+        "reaction_count": 2
+      },
+      {
+        "id": "9:3",
+        "name": "02_Onboarding",
+        "type": "FRAME",
+        "x": 474,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 5,
+        "reaction_count": 1
+      },
+      {
+        "id": "9:4",
+        "name": "03_Sign_In",
+        "type": "FRAME",
+        "x": 948,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 9,
+        "reaction_count": 1
+      },
+      {
+        "id": "9:5",
+        "name": "04_Verification",
+        "type": "FRAME",
+        "x": 0,
+        "y": 956,
+        "width": 414,
+        "height": 896,
+        "text_count": 9,
+        "reaction_count": 3
+      },
+      {
+        "id": "9:6",
+        "name": "05_Home",
+        "type": "FRAME",
+        "x": 474,
+        "y": 956,
+        "width": 414,
+        "height": 1680,
+        "text_count": 36,
+        "reaction_count": 4
+      },
+      {
+        "id": "9:7",
+        "name": "06_Product_Detail",
+        "type": "FRAME",
+        "x": 948,
+        "y": 956,
+        "width": 414,
+        "height": 896,
+        "text_count": 13,
+        "reaction_count": 2
+      },
+      {
+        "id": "9:8",
+        "name": "07_Explore",
+        "type": "FRAME",
+        "x": 0,
+        "y": 1912,
+        "width": 414,
+        "height": 896,
+        "text_count": 14,
+        "reaction_count": 4
+      },
+      {
+        "id": "9:9",
+        "name": "08_Beverages",
+        "type": "FRAME",
+        "x": 474,
+        "y": 1912,
+        "width": 414,
+        "height": 896,
+        "text_count": 20,
+        "reaction_count": 1
+      },
+      {
+        "id": "9:10",
+        "name": "09_My_Cart",
+        "type": "FRAME",
+        "x": 948,
+        "y": 1912,
+        "width": 414,
+        "height": 896,
+        "text_count": 27,
+        "reaction_count": 4
+      },
+      {
+        "id": "9:11",
+        "name": "10_Checkout_Overlay",
+        "type": "FRAME",
+        "x": 0,
+        "y": 2868,
+        "width": 414,
+        "height": 896,
+        "text_count": 35,
+        "reaction_count": 3
+      },
+      {
+        "id": "9:12",
+        "name": "11_Order_Accepted",
+        "type": "FRAME",
+        "x": 474,
+        "y": 2868,
+        "width": 414,
+        "height": 896,
+        "text_count": 6,
+        "reaction_count": 1
+      },
+      {
+        "id": "9:13",
+        "name": "12_Account",
+        "type": "FRAME",
+        "x": 948,
+        "y": 2868,
+        "width": 414,
+        "height": 896,
+        "text_count": 18,
+        "reaction_count": 3
+      },
+      {
+        "id": "10:2",
+        "name": "lib label",
+        "type": "TEXT",
+        "x": 1600,
+        "y": 0,
+        "width": 1400,
+        "height": 24,
+        "render_bounds": {
+          "width": 491.6729736328125,
+          "height": 14.67199993133545
+        },
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:3",
+        "name": "Button / Primary",
+        "type": "COMPONENT",
+        "x": 1600,
+        "y": 60,
+        "width": 364,
+        "height": 67,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:5",
+        "name": "Button / Disabled",
+        "type": "COMPONENT",
+        "x": 1600,
+        "y": 150,
+        "width": 364,
+        "height": 67,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:7",
+        "name": "Button / Social",
+        "type": "COMPONENT",
+        "x": 1600,
+        "y": 240,
+        "width": 364,
+        "height": 64,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:15",
+        "name": "Button / Social Facebook",
+        "type": "COMPONENT",
+        "x": 1600,
+        "y": 320,
+        "width": 364,
+        "height": 64,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:19",
+        "name": "Search Bar",
+        "type": "COMPONENT",
+        "x": 1600,
+        "y": 410,
+        "width": 364,
+        "height": 52,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:23",
+        "name": "Header / Back",
+        "type": "COMPONENT",
+        "x": 2020,
+        "y": 60,
+        "width": 414,
+        "height": 56,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:31",
+        "name": "Header / Title",
+        "type": "COMPONENT",
+        "x": 2020,
+        "y": 140,
+        "width": 414,
+        "height": 56,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:33",
+        "name": "Header / Back + Subtitle",
+        "type": "COMPONENT",
+        "x": 2020,
+        "y": 220,
+        "width": 414,
+        "height": 84,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:42",
+        "name": "Code Input / Empty",
+        "type": "COMPONENT",
+        "x": 2020,
+        "y": 340,
+        "width": 74,
+        "height": 74,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:45",
+        "name": "Quantity Stepper",
+        "type": "COMPONENT",
+        "x": 2020,
+        "y": 450,
+        "width": 110,
+        "height": 40,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:50",
+        "name": "Tab Bar / Shop",
+        "type": "COMPONENT",
+        "x": 2020,
+        "y": 530,
+        "width": 414,
+        "height": 92,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:81",
+        "name": "Tab Bar / Explore",
+        "type": "COMPONENT",
+        "x": 2020,
+        "y": 640,
+        "width": 414,
+        "height": 92,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:112",
+        "name": "Tab Bar / Cart",
+        "type": "COMPONENT",
+        "x": 2020,
+        "y": 750,
+        "width": 414,
+        "height": 92,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:143",
+        "name": "Tab Bar / Favourite",
+        "type": "COMPONENT",
+        "x": 2020,
+        "y": 860,
+        "width": 414,
+        "height": 92,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:174",
+        "name": "Tab Bar / Account",
+        "type": "COMPONENT",
+        "x": 2020,
+        "y": 970,
+        "width": 414,
+        "height": 92,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:205",
+        "name": "Product Card",
+        "type": "COMPONENT",
+        "x": 2560,
+        "y": 60,
+        "width": 173,
+        "height": 250,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:214",
+        "name": "Category Card",
+        "type": "COMPONENT",
+        "x": 2560,
+        "y": 350,
+        "width": 173,
+        "height": 196,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:217",
+        "name": "Cart Row",
+        "type": "COMPONENT",
+        "x": 2560,
+        "y": 590,
+        "width": 364,
+        "height": 104,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:231",
+        "name": "Checkout Row",
+        "type": "COMPONENT",
+        "x": 2560,
+        "y": 730,
+        "width": 364,
+        "height": 70,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:241",
+        "name": "Icon Star",
+        "type": "COMPONENT",
+        "x": 2560,
+        "y": 830,
+        "width": 16,
+        "height": 16,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "21:852",
+        "name": "Product Card / Compact",
+        "type": "COMPONENT",
+        "x": 2560,
+        "y": 1060,
+        "width": 173,
+        "height": 200,
+        "text_count": 3,
+        "reaction_count": 0
+      }
+    ]
+  },
+  "brief": "NECTAR · LEVEL L2 · DESIGN TASK · v2\nNectar — online groceries app\nDesign the complete Nectar mobile grocery app: a shopper in Dhaka signs in with a phone number, browses the store, opens a product, explores a category, fills the cart, checks out, gets an order confirmation and manages the account.\nCanvas 414 × 896 (iPhone), light mode only. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 12 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / error / warning / disabled, rating), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the main navigation and every business component as reusable components in your file.\n5. Use product photos, category images, the logo, flag, illustrations and icons from 04 · Media. People have no photos: use Avatar_Neutral.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Splash\nGoal: Brand recognition while the app loads.\nMUST INCLUDE\n• Brand: Nectar logo\nLINKS\n→ auto → 02_Onboarding\n02_Onboarding\nGoal: Welcome a new shopper and get started.\nMUST INCLUDE\n• Actions: Get Started\n• Brand: Nectar_Carrot\n• Copy: “Welcome to our store” · “Get your groceries in as fast as one hour”\n• Media: Photo_Welcome_Delivery\nLINKS\n→ Get Started → 03_Sign_In\n03_Sign_In\nGoal: Start sign-in with a phone number or a social account.\nMUST INCLUDE\n• Actions: Continue with Google · Continue with Facebook\n• Copy: “Get your groceries with nectar” · “Or connect with social media”\n• Media: Photo_Sign_In_Groceries\n• Phone: country code +880 (Flag_Bangladesh) · number not entered yet\nLINKS\n→ phone number → 04_Verification\n04_Verification\nGoal: Verify the phone number with a 4-digit code.\nMUST INCLUDE\n• Actions: back · Resend Code · next\n• Code: “Code” · 4 digits, none entered yet\n• Copy: “Enter your 4-digit code”\nLINKS\n→ back → 03_Sign_In\n→ next → 05_Home\n05_Home\nGoal: Find groceries fast — by search, offer or category.\nMUST INCLUDE\n• Best Selling: “Best Selling” · See all · Bell Pepper Red, Ginger\n• Brand: Nectar_Carrot\n• Exclusive Offer: “Exclusive Offer” · See all · Organic Bananas, Red Apple\n• Groceries: “Groceries” · See all · categories Pulses, Rice · products Beef Bone, Broiler Chicken\n• Location: Dhaka, Banasree\n• Main navigation: current tab Shop\n• Products (all sections): each with image, name, unit, price and add to cart\n• Promotion: “Fresh Vegetables” · “Get Up To 40% OFF” (Banner_Fresh_Vegetables)\n• Search: “Search Store”\nLINKS\n→ Red Apple → 06_Product_Detail\n→ tabs → 05 / 07 / 09 / 12\n06_Product_Detail\nGoal: Judge a product and add it to the basket.\nMUST INCLUDE\n• Actions: back · share · favourite (not favourited yet) · Add To Basket\n• Details: “Product Detail” with its description (open) · “Nutritions” 100gr · “Review” 5 of 5 stars\n• Product: Product_Red_Apple · “Natural Red Apple” · “1kg, Price” · $4.99\n• Quantity: 1, can be decreased / increased\nLINKS\n→ back → 05_Home\n→ Add To Basket → 09_My_Cart\n07_Explore\nGoal: Browse the store by category.\nMUST INCLUDE\n• Categories: 6, each with its image — Fresh Fruits & Vegetable · Cooking Oil & Ghee · Meat & Fish · Bakery & Snacks · Dairy & Eggs · Beverages\n• Copy: “Find Products”\n• Main navigation: current tab Explore\n• Search: “Search Store”\nLINKS\n→ Beverages → 08_Beverages\n→ tabs\n08_Beverages\nGoal: Pick drinks from one category.\nMUST INCLUDE\n• Actions: back · filter entry\n• Copy: “Beverages”\n• Products: 6 — Diet Coke · Sprite Can · Apple & Grape Juice · Orange Juice · Coca Cola Can · Pepsi Can — each with image, name, size, price and add to cart\nLINKS\n→ back → 07_Explore\n09_My_Cart\nGoal: Review the basket and go to checkout.\nMUST INCLUDE\n• Actions: Go to Checkout, showing the cart total $14.96\n• Cart: 4 items — Bell Pepper Red · Egg Chicken Red · Organic Bananas · Ginger — each with image, name, unit, price, quantity 1 (can be decreased / increased) and remove\n• Copy: “My Cart”\n• Main navigation: current tab Cart\nLINKS\n→ Go to Checkout → 10_Checkout_Overlay\n→ tabs\n10_Checkout_Overlay\nGoal: Confirm delivery, payment and cost, then place the order.\nMUST INCLUDE\n• Actions: close · Place Order\n• Copy: “Checkout”\n• Legal: “By placing an order you agree to our Terms And Conditions” (Terms And Conditions is a link)\n• Order rows: Delivery “Select Method” · Payment (card, Icon_Payment) · Promo Code “Pick discount” · Total Cost $14.96 — each row opens its own choice\n• Presentation: opens over 09_My_Cart; the cart stays behind it\nLINKS\n→ close → 09_My_Cart\n→ Place Order → 11_Order_Accepted\n11_Order_Accepted\nGoal: Confirm the order unambiguously.\nMUST INCLUDE\n• Actions: Track Order · Back to home\n• Copy: “Your Order has been accepted” · “Your items have been placed and are on their way to being processed”\n• Media: Illustration_Order_Accepted\nLINKS\n→ Back to home → 05_Home\n12_Account\nGoal: Identify the account and reach account settings.\nMUST INCLUDE\n• Account: Avatar_Neutral · “Afsar Hossen” · edit name entry · imshuvo97@gmail.com\n• Actions: Log Out\n• Entries: About · Delivery Address · Help · My Details · Notifications · Orders · Payment Methods · Promo Code\n• Main navigation: current tab Account\nLINKS\n→ tabs\nNavigation structure\n• Onboarding: 01_Splash → 02_Onboarding → 03_Sign_In → 04_Verification → 05_Home.\n• Main navigation on 05, 07, 09, 12 — five tabs in this order: Shop (Icon_Shop) → 05 · Explore (Icon_Explore) → 07 · Cart (Icon_Cart) → 09 · Favourite (Icon_Favourite, entry only) · Account (Icon_Account) → 12. The current tab must match the frame. How it looks is yours.\n• Pushed screens with back: 04, 06, 08. 06 and 08 have no main navigation.\n• 10_Checkout_Overlay opens over 09_My_Cart; 11_Order_",
+  "layer_summary": {
+    "board_count": 12,
+    "boards": [
+      {
+        "name": "01_Splash",
+        "size": "414×896",
+        "nodes": 29,
+        "max_depth": 5,
+        "instances": 3,
+        "texts": 2,
+        "images": 0,
+        "types": [
+          "vector×9",
+          "rectangle×7",
+          "group×4",
+          "instance×3",
+          "ellipse×2",
+          "text×2"
+        ],
+        "names": [
+          "Glow",
+          "Nectar_Logo",
+          "logo",
+          "Group",
+          "Vector",
+          "Vector_2"
+        ]
+      },
+      {
+        "name": "02_Onboarding",
+        "size": "414×896",
+        "nodes": 23,
+        "max_depth": 3,
+        "instances": 4,
+        "texts": 5,
+        "images": 1,
+        "types": [
+          "rectangle×7",
+          "text×5",
+          "instance×4",
+          "vector×2",
+          "frame×2",
+          "rectangle-image×1"
+        ],
+        "names": [
+          "Photo_Welcome_Delivery",
+          "Nectar_Carrot",
+          "Group",
+          "Vector_5",
+          "Vector_6",
+          "Welcome"
+        ]
+      },
+      {
+        "name": "03_Sign_In",
+        "size": "414×896",
+        "nodes": 52,
+        "max_depth": 5,
+        "instances": 7,
+        "texts": 9,
+        "images": 2,
+        "types": [
+          "vector×14",
+          "rectangle×12",
+          "text×9",
+          "instance×7",
+          "group×5",
+          "rectangle-image×2"
+        ],
+        "names": [
+          "Photo_Sign_In_Groceries",
+          "Nectar_Logo",
+          "logo",
+          "Group",
+          "Vector",
+          "Vector_2"
+        ]
+      },
+      {
+        "name": "04_Verification",
+        "size": "414×896",
+        "nodes": 38,
+        "max_depth": 5,
+        "instances": 8,
+        "texts": 9,
+        "images": 0,
+        "types": [
+          "rectangle×11",
+          "text×9",
+          "instance×8",
+          "frame×3",
+          "vector×3",
+          "group×3"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "05_Home",
+        "size": "414×1680",
+        "nodes": 127,
+        "max_depth": 7,
+        "instances": 19,
+        "texts": 36,
+        "images": 9,
+        "types": [
+          "text×36",
+          "rectangle×32",
+          "instance×19",
+          "vector×13",
+          "frame×9",
+          "rectangle-image×9"
+        ],
+        "names": [
+          "Nectar_Carrot",
+          "Group",
+          "Vector_5",
+          "Vector_6",
+          "Location",
+          "Status Bar"
+        ]
+      },
+      {
+        "name": "06_Product_Detail",
+        "size": "414×896",
+        "nodes": 54,
+        "max_depth": 4,
+        "instances": 7,
+        "texts": 13,
+        "images": 1,
+        "types": [
+          "rectangle×14",
+          "text×13",
+          "vector×10",
+          "instance×7",
+          "group×6",
+          "frame×2"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "07_Explore",
+        "size": "414×896",
+        "nodes": 71,
+        "max_depth": 7,
+        "instances": 17,
+        "texts": 14,
+        "images": 6,
+        "types": [
+          "instance×17",
+          "text×14",
+          "rectangle×13",
+          "vector×11",
+          "group×7",
+          "rectangle-image×6"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "08_Beverages",
+        "size": "414×896",
+        "nodes": 75,
+        "max_depth": 3,
+        "instances": 9,
+        "texts": 20,
+        "images": 6,
+        "types": [
+          "rectangle×27",
+          "text×20",
+          "instance×9",
+          "frame×9",
+          "rectangle-image×6",
+          "ellipse×3"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "09_My_Cart",
+        "size": "414×896",
+        "nodes": 103,
+        "max_depth": 7,
+        "instances": 18,
+        "texts": 27,
+        "images": 4,
+        "types": [
+          "text×27",
+          "rectangle×26",
+          "instance×18",
+          "vector×14",
+          "group×7",
+          "frame×6"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "10_Checkout_Overlay",
+        "size": "414×896",
+        "nodes": 170,
+        "max_depth": 9,
+        "instances": 30,
+        "texts": 35,
+        "images": 4,
+        "types": [
+          "text×35",
+          "vector×35",
+          "instance×30",
+          "group×30",
+          "rectangle×24",
+          "frame×11"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "11_Order_Accepted",
+        "size": "414×896",
+        "nodes": 37,
+        "max_depth": 5,
+        "instances": 4,
+        "texts": 6,
+        "images": 0,
+        "types": [
+          "vector×13",
+          "rectangle×7",
+          "text×6",
+          "instance×4",
+          "frame×3",
+          "group×3"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "12_Account",
+        "size": "414×896",
+        "nodes": 179,
+        "max_depth": 8,
+        "instances": 25,
+        "texts": 18,
+        "images": 0,
+        "types": [
+          "vector×56",
+          "group×53",
+          "instance×25",
+          "rectangle×24",
+          "text×18",
+          "frame×2"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      }
+    ]
+  }
+}

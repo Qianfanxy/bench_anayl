@@ -1,0 +1,183 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Sign_In",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Frame",
+        "Email Field",
+        "Password Field",
+        "Sign In Button",
+        "Audio"
+      ]
+    },
+    {
+      "name": "02_Sign_Up",
+      "size": "375×812",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Audio It’s modular and d",
+        "Sign Up Button",
+        "Sign In Link"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "375×812",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Avatar",
+        "Search Field",
+        "See All Link",
+        "MOD-2 HD Wireless Card"
+      ]
+    },
+    {
+      "name": "04_Search",
+      "size": "375×812",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "frame×3"
+      ],
+      "names": [
+        "Back Button",
+        "Cart Button",
+        "Popular Product Row"
+      ]
+    },
+    {
+      "name": "05_Explore_Products",
+      "size": "375×812",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "frame×4"
+      ],
+      "names": [
+        "Back Button",
+        "Cart Button",
+        "Filter Button",
+        "Product Card"
+      ]
+    },
+    {
+      "name": "06_Filter",
+      "size": "375×812",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "frame×2"
+      ],
+      "names": [
+        "Close Button",
+        "Apply Filter Button"
+      ]
+    },
+    {
+      "name": "07_Product_Overview",
+      "size": "375×1000",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "frame×4"
+      ],
+      "names": [
+        "Back Button",
+        "Cart Button",
+        "Features Tab",
+        "Add To Cart Button"
+      ]
+    },
+    {
+      "name": "08_Product_Features",
+      "size": "375×1000",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "frame×4"
+      ],
+      "names": [
+        "Back Button",
+        "Cart Button",
+        "Overview Tab",
+        "Add To Cart Button"
+      ]
+    },
+    {
+      "name": "09_Shopping_Cart",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "frame×1"
+      ],
+      "names": [
+        "Back Button"
+      ]
+    },
+    {
+      "name": "10_Profile",
+      "size": "375×812",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "frame×1",
+        "text×1"
+      ],
+      "names": [
+        "Back Button",
+        "Logout Link"
+      ]
+    }
+  ]
+}

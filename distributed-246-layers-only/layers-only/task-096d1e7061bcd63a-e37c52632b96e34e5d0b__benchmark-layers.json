@@ -1,0 +1,96 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4424",
+      "nodes": 77,
+      "max_depth": 6,
+      "instances": 27,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "instance×27",
+        "frame×27",
+        "text×21",
+        "rectangle×2"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Header",
+        "Hero",
+        "FIND CLOTHES THAT MATCH ",
+        "Browse through our diver",
+        "btn_Shop Now"
+      ]
+    },
+    {
+      "name": "04_Cart",
+      "size": "1440×1444",
+      "nodes": 70,
+      "max_depth": 6,
+      "instances": 17,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "frame×27",
+        "text×26",
+        "instance×17"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Header",
+        "body",
+        "breadcrumb",
+        "crumb_Home",
+        "Icon_Chevron_Right"
+      ]
+    },
+    {
+      "name": "02_Category",
+      "size": "1440×2275",
+      "nodes": 123,
+      "max_depth": 6,
+      "instances": 57,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "instance×57",
+        "frame×38",
+        "text×24",
+        "rectangle×2",
+        "ellipse×2"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Header",
+        "body",
+        "breadcrumb",
+        "crumb_Home",
+        "Icon_Chevron_Right"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1440×3292",
+      "nodes": 88,
+      "max_depth": 6,
+      "instances": 42,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "instance×42",
+        "frame×30",
+        "text×16"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Header",
+        "body",
+        "breadcrumb",
+        "crumb_Home",
+        "Icon_Chevron_Right"
+      ]
+    }
+  ]
+}

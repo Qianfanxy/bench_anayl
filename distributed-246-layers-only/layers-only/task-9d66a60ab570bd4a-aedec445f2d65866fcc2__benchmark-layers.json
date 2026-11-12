@@ -1,0 +1,249 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Sign_Up",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Body",
+        "Sign up",
+        "Sign up with phone numbe",
+        "Country code"
+      ]
+    },
+    {
+      "name": "02_OTP",
+      "size": "375×812",
+      "nodes": 17,
+      "max_depth": 4,
+      "instances": 4,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "frame×8",
+        "text×5",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Body",
+        "Header",
+        "Back",
+        "Icon_Back"
+      ]
+    },
+    {
+      "name": "03_Home_My_Balance",
+      "size": "375×812",
+      "nodes": 73,
+      "max_depth": 6,
+      "instances": 16,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "frame×33",
+        "text×24",
+        "instance×16"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Body",
+        "Account Header",
+        "Home View Switch",
+        "Balance Card"
+      ]
+    },
+    {
+      "name": "04_Home_Upcoming_Bills",
+      "size": "375×812",
+      "nodes": 45,
+      "max_depth": 5,
+      "instances": 11,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "frame×18",
+        "text×16",
+        "instance×11"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Body",
+        "Account Header",
+        "Home View Switch",
+        "Bills Title"
+      ]
+    },
+    {
+      "name": "05_Home_Transactions",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×1",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Body",
+        "Account Header",
+        "Home View Switch",
+        "Transactions"
+      ]
+    },
+    {
+      "name": "06_Discussion_Forum",
+      "size": "375×812",
+      "nodes": 59,
+      "max_depth": 6,
+      "instances": 22,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "frame×23",
+        "instance×22",
+        "text×14"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Body",
+        "Header",
+        "Back",
+        "Icon_Back"
+      ]
+    },
+    {
+      "name": "07_Cards",
+      "size": "375×812",
+      "nodes": 43,
+      "max_depth": 4,
+      "instances": 14,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "instance×14",
+        "frame×13"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Body",
+        "Header",
+        "Back",
+        "Icon_Back"
+      ]
+    },
+    {
+      "name": "08_Profile",
+      "size": "375×812",
+      "nodes": 48,
+      "max_depth": 5,
+      "instances": 15,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "instance×15",
+        "frame×14"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Body",
+        "Header",
+        "Back",
+        "Icon_Back"
+      ]
+    },
+    {
+      "name": "09_Analytics",
+      "size": "375×812",
+      "nodes": 48,
+      "max_depth": 4,
+      "instances": 7,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "frame×19",
+        "text×19",
+        "instance×7",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Body",
+        "Header",
+        "Back",
+        "Icon_Back"
+      ]
+    },
+    {
+      "name": "10_Markets",
+      "size": "375×812",
+      "nodes": 100,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "text×35",
+        "rectangle×29",
+        "frame×25",
+        "instance×11"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Body",
+        "Header",
+        "Back",
+        "Icon_Back"
+      ]
+    },
+    {
+      "name": "11_Send",
+      "size": "375×812",
+      "nodes": 48,
+      "max_depth": 5,
+      "instances": 7,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "frame×24",
+        "text×17",
+        "instance×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Body",
+        "Header",
+        "Back",
+        "Icon_Back"
+      ]
+    }
+  ]
+}

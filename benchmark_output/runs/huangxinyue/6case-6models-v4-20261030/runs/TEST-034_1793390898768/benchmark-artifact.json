@@ -1,0 +1,399 @@
+{
+  "file_key": "jiYwYdVVeh1sSSwCPVx5uG",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "5:2",
+      "name": "03 · Workspace",
+      "child_count": 10
+    }
+  ],
+  "workspace": {
+    "id": "5:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "11:181",
+        "name": "01_Splash",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 1,
+        "reaction_count": 1
+      },
+      {
+        "id": "11:195",
+        "name": "02_Welcome",
+        "type": "FRAME",
+        "x": 425,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 4,
+        "reaction_count": 1
+      },
+      {
+        "id": "11:215",
+        "name": "03_Name",
+        "type": "FRAME",
+        "x": 850,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 4,
+        "reaction_count": 1
+      },
+      {
+        "id": "11:236",
+        "name": "04_Home",
+        "type": "FRAME",
+        "x": 1275,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 19,
+        "reaction_count": 2
+      },
+      {
+        "id": "11:330",
+        "name": "05_Product_Quinoa",
+        "type": "FRAME",
+        "x": 1700,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 9,
+        "reaction_count": 2
+      },
+      {
+        "id": "11:373",
+        "name": "06_Basket",
+        "type": "FRAME",
+        "x": 2125,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 15,
+        "reaction_count": 2
+      },
+      {
+        "id": "11:423",
+        "name": "07_Checkout_Delivery",
+        "type": "FRAME",
+        "x": 2550,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 21,
+        "reaction_count": 3
+      },
+      {
+        "id": "11:482",
+        "name": "08_Checkout_Card",
+        "type": "FRAME",
+        "x": 2975,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 24,
+        "reaction_count": 2
+      },
+      {
+        "id": "11:545",
+        "name": "09_Order_Complete",
+        "type": "FRAME",
+        "x": 3400,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 5,
+        "reaction_count": 2
+      },
+      {
+        "id": "11:566",
+        "name": "10_Track_Order",
+        "type": "FRAME",
+        "x": 3825,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 8,
+        "reaction_count": 1
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nFruit Hub — fruit salad ordering app\nDesign the complete Fruit Hub mobile app: Tony tells the app their first name, browses fruit salad combos, adds one to the basket, checks out with delivery details or a card, and tracks the delivery.\nCanvas 375 × 812, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 10 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / error / warning / disabled, supporting colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the sheets and every business component as reusable components in your file.\n5. Use the logo, product photos, illustrations, map and icons from 04 · Media. Prices use the Naira glyph (Icon_Naira or “₦”).\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Splash\nGoal: Brand recognition while the app loads.\nMUST INCLUDE\n• Brand: Logo_Fruit_Hub\nLINKS\n→ auto → 02_Welcome\n02_Welcome\nGoal: Explain the offer and start.\nMUST INCLUDE\n• Actions: Let’s Continue\n• Copy: “Get The Freshest Fruit Salad Combo” · “We deliver the best and freshest fruit salad in town. Order for a combo today!!!”\n• Media: Basket_Welcome · Fruit_Drops\nLINKS\n→ Let’s Continue → 03_Name\n03_Name\nGoal: Tell the app your first name.\nMUST INCLUDE\n• Actions: Start Ordering\n• Copy: “What is your firstname?”\n• Form: first name, entered “Tony”\n• Media: Basket_Name · Fruit_Drops\nLINKS\n→ Start Ordering → 04_Home\n04_Home\nGoal: Find a fruit salad combo.\nMUST INCLUDE\n• Account: “Hello Tony, What fruit salad combo do you want today?” · menu entry · My basket entry\n• Categories: Hottest / Popular / New combo / Top · current: Hottest\n• Hottest: Quinoa fruit salad · Tropical fruit salad · Melon fruit salad, each with photo, name, price, favourite toggle and add to basket\n• Recommended: “Recommended Combo” · Honey lime combo · Berry mango combo, each with photo, name, price, favourite toggle and add to basket\n• Search & filter: search “Search for fruit salad combos” · filter entry\nLINKS\n→ Quinoa fruit salad → 05_Product_Quinoa\n→ My basket → 06_Basket\n05_Product_Quinoa\nGoal: Choose a quantity and add the combo to the basket.\nMUST INCLUDE\n• Actions: Go back · favourite toggle · Add to basket\n• Contents: “One Pack Contains:” · Red Quinoa, Lime, Honey, Blueberries, Strawberries, Mango, Fresh mint.\n• Copy: “Quinoa Fruit Salad” · “If you are looking for a new fruit salad to eat today, quinoa is the perfect brunch for you.”\n• Media: Salad_Quinoa\n• Quantity: 1 pack, can be decreased / increased · price ₦10,000\nLINKS\n→ Go back → 04_Home\n→ Add to basket → 06_Basket\n06_Basket\nGoal: Review the basket and check out.\nMUST INCLUDE\n• Actions: Go back · Checkout\n• Copy: “My Basket”\n• Items: Quinoa fruit salad · Melon fruit salad · Tropical fruit salad, each with photo, name, “2 packs” and ₦20,000\n• Total: “Total” ₦60,000\nLINKS\n→ Go back → 04_Home\n→ Checkout → 07_Checkout_Delivery\n07_Checkout_Delivery\nGoal: Give delivery details and choose how to pay.\nMUST INCLUDE\n• Actions: close · Pay on delivery · Pay with card\n• Delivery: “Delivery address” 10th avenue, Lekki, Lagos State · “Number we can call” 09090605708 · both filled in\n• Presentation: opens over 06_Basket; the basket stays behind it\nLINKS\n→ close → 06_Basket\n→ Pay with card → 08_Checkout_Card\n→ Pay on delivery → 09_Order_Complete\n08_Checkout_Card\nGoal: Pay by card.\nMUST INCLUDE\n• Actions: close · Complete Order\n• Card: “Card Holder’s Name” Tony Chris · “Card Number” 1234 5678 9012 1314 · “Date” 10/30 · “CVV” 123 · all filled in\n• Presentation: opens over 06_Basket; the basket stays behind it\nLINKS\n→ close → 06_Basket\n→ Complete Order → 09_Order_Complete\n09_Order_Complete\nGoal: Confirm the order was placed.\nMUST INCLUDE\n• Actions: Track order · Continue shopping\n• Copy: “Congratulations!!!” · “Your order has been taken and is being attended to”\n• Status: success mark (Icon_Success_Check)\nLINKS\n→ Track order → 10_Track_Order\n→ Continue shopping → 04_Home\n10_Track_Order\nGoal: Follow the delivery.\nMUST INCLUDE\n• Actions: Go back · call the delivery agent\n• Copy: “Delivery Status”\n• Map: Map_Delivery\n• Steps, in this order: Order Taken (done, Step_Order_Taken) · Order Is Being Prepared (done, Step_Order_Prepared) · Order Is Being Delivered (current, “Your delivery agent is coming”, Step_Order_Delivering) · Order Received (not yet)\nLINKS\n→ Go back → 04_Home\nNavigation structure\n• One linear flow, no bottom navigation: 01_Splash → 02_Welcome → 03_Name → 04_Home → 05_Product_Quinoa → 06_Basket → 07_Checkout_Delivery → 08_Checkout_Card → 09_Order_Complete → 10_Track_Order.\n• 07 and 08 are sheets over the basket (one frame each). 07 can skip the card step: Pay on delivery → 09.\n• Pushed screens with Go back: 05, 06, 10.\n• Entry only (no frame): menu, search, filter, categories other than Hottest, favourite toggles, add-to-basket on Home, combos other than Quinoa, call agent.\nFixed data & copy\nUse these values verbatim. Currency Nigerian Naira (₦).\nCustomer\nFirst name Tony (entered on 03_Name; greeting on 04_Home)\nCombos (name · price · photo)\nHoney lime combo · ₦2,000 · Salad_Honey_Lime\nBerry mango combo · ₦8,000 · Salad_Berry_Mango\nQuinoa fruit salad · ₦10,000 · Salad_Quinoa\nTropical fruit salad · ₦10,000 · Salad_Tropical\nMelon fruit salad · ₦10,000 · Salad_Melon\nHome sections\nRecommended Combo: Honey lime, Berry mango\nCategories: Hottest (current) / Popular / New combo / Top\nHottest: Quinoa, Tropical, Melon\nQuinoa Fruit Salad\nOne Pack Contains: Red Quinoa, Lime, Honey, Blueberries, Strawberries, Mango, Fresh mint.\n“If you are looking for a new fruit salad to eat today, quinoa is",
+  "layer_summary": {
+    "board_count": 10,
+    "boards": [
+      {
+        "name": "01_Splash",
+        "size": "375×812",
+        "nodes": 13,
+        "max_depth": 3,
+        "instances": 3,
+        "texts": 1,
+        "images": 0,
+        "types": [
+          "rectangle×6",
+          "instance×3",
+          "frame×2",
+          "text×1",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "02_Welcome",
+        "size": "375×812",
+        "nodes": 19,
+        "max_depth": 3,
+        "instances": 5,
+        "texts": 4,
+        "images": 0,
+        "types": [
+          "rectangle×6",
+          "instance×5",
+          "text×4",
+          "frame×3",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "03_Name",
+        "size": "375×812",
+        "nodes": 20,
+        "max_depth": 3,
+        "instances": 6,
+        "texts": 4,
+        "images": 0,
+        "types": [
+          "instance×6",
+          "rectangle×6",
+          "text×4",
+          "frame×3",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "04_Home",
+        "size": "375×812",
+        "nodes": 93,
+        "max_depth": 4,
+        "instances": 26,
+        "texts": 19,
+        "images": 0,
+        "types": [
+          "vector×29",
+          "instance×26",
+          "text×19",
+          "frame×11",
+          "rectangle×7",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "05_Product_Quinoa",
+        "size": "375×812",
+        "nodes": 42,
+        "max_depth": 4,
+        "instances": 9,
+        "texts": 9,
+        "images": 0,
+        "types": [
+          "instance×9",
+          "text×9",
+          "rectangle×9",
+          "vector×8",
+          "frame×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "06_Basket",
+        "size": "375×812",
+        "nodes": 49,
+        "max_depth": 4,
+        "instances": 11,
+        "texts": 15,
+        "images": 0,
+        "types": [
+          "text×15",
+          "instance×11",
+          "rectangle×9",
+          "frame×8",
+          "vector×5",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "07_Checkout_Delivery",
+        "size": "375×812",
+        "nodes": 64,
+        "max_depth": 4,
+        "instances": 14,
+        "texts": 21,
+        "images": 0,
+        "types": [
+          "text×21",
+          "instance×14",
+          "frame×11",
+          "rectangle×10",
+          "vector×7",
+          "ellipse×1"
+        ],
+        "names": [
+          "Go back",
+          "Icon_Back",
+          "Vector",
+          "My Basket",
+          "Basket Sheet",
+          "BasketRow_Quinoa fruit s"
+        ]
+      },
+      {
+        "name": "08_Checkout_Card",
+        "size": "375×812",
+        "nodes": 68,
+        "max_depth": 4,
+        "instances": 17,
+        "texts": 24,
+        "images": 0,
+        "types": [
+          "text×24",
+          "instance×17",
+          "rectangle×10",
+          "frame×9",
+          "vector×7",
+          "ellipse×1"
+        ],
+        "names": [
+          "Go back",
+          "Icon_Back",
+          "Vector",
+          "My Basket",
+          "Basket Sheet",
+          "BasketRow_Quinoa fruit s"
+        ]
+      },
+      {
+        "name": "09_Order_Complete",
+        "size": "375×812",
+        "nodes": 20,
+        "max_depth": 3,
+        "instances": 4,
+        "texts": 5,
+        "images": 0,
+        "types": [
+          "rectangle×6",
+          "text×5",
+          "instance×4",
+          "frame×3",
+          "ellipse×1",
+          "vector×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "10_Track_Order",
+        "size": "375×812",
+        "nodes": 42,
+        "max_depth": 4,
+        "instances": 10,
+        "texts": 8,
+        "images": 0,
+        "types": [
+          "instance×10",
+          "frame×9",
+          "text×8",
+          "vector×7",
+          "rectangle×6",
+          "ellipse×2"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      }
+    ]
+  }
+}

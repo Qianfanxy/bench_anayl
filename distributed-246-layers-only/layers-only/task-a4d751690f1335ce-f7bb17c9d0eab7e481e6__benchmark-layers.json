@@ -1,0 +1,395 @@
+{
+  "board_count": 18,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×3",
+        "text×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Photo_Welcome",
+        "Scrim",
+        "Status Bar",
+        "Content",
+        "Logo_Swoosh_White",
+        "Copy"
+      ]
+    },
+    {
+      "name": "02_Email_Sign_In",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 4,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×4",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Sheet",
+        "Sheet Header",
+        "Content",
+        "Logo_Swoosh_Black",
+        "Heading"
+      ]
+    },
+    {
+      "name": "03_Create_Member",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 5,
+      "instances": 12,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×8",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Sheet",
+        "Sheet Header",
+        "Content",
+        "Logo_Swoosh_Black",
+        "Intro"
+      ]
+    },
+    {
+      "name": "04_Personalize_Intro",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Progress",
+        "Onboarding Progress",
+        "Photo Collage",
+        "Content",
+        "Heading"
+      ]
+    },
+    {
+      "name": "05_Products_You_Use",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×4",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Progress",
+        "Onboarding Progress",
+        "Content",
+        "Heading",
+        "Primary options"
+      ]
+    },
+    {
+      "name": "06_Shoe_Size",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Progress",
+        "Onboarding Progress",
+        "Content",
+        "Heading",
+        "Size Grid"
+      ]
+    },
+    {
+      "name": "07_Interests",
+      "size": "375×812",
+      "nodes": 17,
+      "max_depth": 3,
+      "instances": 13,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Progress",
+        "Onboarding Progress",
+        "Content",
+        "Interest options",
+        "Air Max"
+      ]
+    },
+    {
+      "name": "08_Notifications",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "frame×4",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Progress",
+        "Onboarding Progress",
+        "Content",
+        "Spacer",
+        "Message"
+      ]
+    },
+    {
+      "name": "09_Welcome_To_App",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×1",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Content",
+        "Heading",
+        "Photo Collage",
+        "Tab Bar"
+      ]
+    },
+    {
+      "name": "10_Home",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×5",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Views",
+        "What’s new",
+        "Discover",
+        "Content",
+        "Title"
+      ]
+    },
+    {
+      "name": "11_Discover",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×3",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Views",
+        "What’s new",
+        "Discover",
+        "Content",
+        "Title"
+      ]
+    },
+    {
+      "name": "12_Shop",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Gender Tabs",
+        "Content",
+        "Banners",
+        "New & Featured"
+      ]
+    },
+    {
+      "name": "13_Best_Sellers",
+      "size": "375×957",
+      "nodes": 15,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Category Tabs",
+        "Base Layer",
+        "Socks",
+        "Accessories & Equipment"
+      ]
+    },
+    {
+      "name": "14_Jordan_Flight_Essentials",
+      "size": "375×941",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Category Tabs",
+        "All",
+        "Tops & T-Shirts",
+        "Hoodies & Pullovers"
+      ]
+    },
+    {
+      "name": "15_Product_Detail",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Main Image · Product_AF1",
+        "Content",
+        "Gallery Progress",
+        "Colour Thumbnails"
+      ]
+    },
+    {
+      "name": "16_Style_Matching",
+      "size": "375×930",
+      "nodes": 11,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Product Grid",
+        "Row 1",
+        "Nike Flex Experience Run",
+        "Nike Downshifter 11"
+      ]
+    },
+    {
+      "name": "17_Stores",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Gender Tabs",
+        "Content",
+        "Store Locator",
+        "Nearby Stores"
+      ]
+    },
+    {
+      "name": "18_Playlist_Story",
+      "size": "375×940",
+      "nodes": 8,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Story Hero",
+        "Story Copy",
+        "Heading",
+        "Body"
+      ]
+    }
+  ]
+}

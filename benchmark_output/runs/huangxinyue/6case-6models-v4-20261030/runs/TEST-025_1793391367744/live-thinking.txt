@@ -1,0 +1,32 @@
+Header Bar 实例里没有 4:60 的实例（Header Bar 组件 8:52 可能用的是别的箭头或 chevron 图形）。透明热区已放置 @(12,56) 40×40 → 覆盖 (12..52, 56..96)，返回键在 (20,64)+24×24 区域内 ✓。
+
+现在原型完整链路：
+- 01 splash →(2s auto)→ 02，click → 02
+- 02 →03 (Next), →05 (Skip)
+- 03 →02 (Prev), →04 (Next), →05 (Skip)
+- 04 →03 (Prev), →05 (Next/Skip)
+- 05 →06 (Sign Up), →07 (Forgot), →08?（05 的 3 个 reactions：Sign In→08, Sign Up link→06, Forgot→07）
+- 06 →05 (login link), →08?（2 个）
+- 07 →05（2 个：back→05, submit→05）
+- 08 →09 (Get Started)
+- 09: sneaker banner→11, Tab Cart→12, Tab Setting→15, View all→10
+- 10: back→09 (新热区), Tab Home→09, Tab Cart→12, Tab Setting→15
+- 11: back→10, Go to cart→12, Tab Home→09, Tab Cart→12, Tab Setting→15
+- 12: back→11, Proceed→13
+- 13: back→12, Continue→14, Tab Home→09, Tab Setting→15
+- 14: dialog→09
+- 15: back→09
+
+完整。最后再快速验证 10 的截图（热区是透明的，不影响视觉——热区 fills=[] 不可见，无需再截图；而且 10 之前已验证视觉完好）。热区透明所以 10 无视觉变化。
+
+全部完成。写最终答案：
+- 文件 URL: https://www.figma.com/design/tB1sUry3dJDspx8uxl0ftc/
+- 页面: 03 · Workspace = 5:2
+- 15 屏 ID
+- 原型工作总结
+- 限制
+
+保留记忆？这是 benchmark 会话，无长期项目上下文值得保存。系统有 auto memory 指令，但此任务是单次 benchmark，无明显用户偏好/项目事实需要跨会话保留。不过有一个值得记的：Figma MCP 限流行为 + 嵌套实例限制等是技术经验……"What NOT to save": 调试解决方案/修复配方不存。skip memory。
+
+最终答案格式：
+第一行 "Reasoning summary: ..."，然后 "Final answer:" + 内容。

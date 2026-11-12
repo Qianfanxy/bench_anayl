@@ -1,0 +1,28 @@
+{
+  "kind": "benchmark-legacy-media-audit/v1",
+  "checked_at": "2026-10-30T21:28:24.484314+00:00",
+  "raw_audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-025_1793391367744/task-000001/media/ff77ccea1ca6f179494582706c093f1e1e83b2fcefc61dc7a95560f18c69708c.jpg",
+      "ShareGPT conversion failed: invalid role 'function_call' at conversation index 72"
+    ],
+    "require_prototype": false
+  },
+  "audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-025_1793391367744/task-000001/media/ff77ccea1ca6f179494582706c093f1e1e83b2fcefc61dc7a95560f18c69708c.jpg",
+      "ShareGPT conversion failed: invalid role 'function_call' at conversation index 72"
+    ],
+    "require_prototype": false,
+    "raw_errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-025_1793391367744/task-000001/media/ff77ccea1ca6f179494582706c093f1e1e83b2fcefc61dc7a95560f18c69708c.jpg",
+      "ShareGPT conversion failed: invalid role 'function_call' at conversation index 72"
+    ],
+    "media_warnings": []
+  }
+}

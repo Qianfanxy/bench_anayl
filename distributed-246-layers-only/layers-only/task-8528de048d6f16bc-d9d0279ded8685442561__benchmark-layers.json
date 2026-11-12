@@ -1,0 +1,219 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "375×812",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×3",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Fruit_Hub",
+        "Fresh fruit salad, deliv"
+      ]
+    },
+    {
+      "name": "02_Welcome",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Fruit_Drops",
+        "Get The Freshest Fruit S",
+        "We deliver the best and ",
+        "Basket_Welcome"
+      ]
+    },
+    {
+      "name": "03_Name",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Fruit_Drops",
+        "What is your firstname?",
+        "Basket_Name",
+        "First name"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "375×812",
+      "nodes": 22,
+      "max_depth": 1,
+      "instances": 15,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×5",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon Button",
+        "Hello Tony,",
+        "What fruit salad combo d",
+        "My Basket"
+      ]
+    },
+    {
+      "name": "05_Product_Quinoa",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×6",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Rectangle",
+        "Salad_Quinoa",
+        "Icon Button",
+        "Favourite"
+      ]
+    },
+    {
+      "name": "06_Basket",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×3",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon Button",
+        "My Basket",
+        "Basket Row",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "07_Checkout_Delivery",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×4",
+        "rectangle×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon Button",
+        "My Basket",
+        "Basket Row",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "08_Checkout_Card",
+      "size": "375×812",
+      "nodes": 21,
+      "max_depth": 1,
+      "instances": 13,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×4",
+        "rectangle×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon Button",
+        "My Basket",
+        "Basket Row",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "09_Order_Complete",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "ellipse×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Ellipse",
+        "Icon_Success_Check",
+        "Congratulations!!!",
+        "Your order has been take"
+      ]
+    },
+    {
+      "name": "10_Track_Order",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon Button",
+        "Delivery Status",
+        "Map_Delivery",
+        "Button/Call agent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "375×812",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Fruit_Hub"
+      ]
+    },
+    {
+      "name": "02_Welcome",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Fruit_Drops",
+        "Basket_Welcome",
+        "Get The Freshest Fruit S",
+        "We deliver the best and "
+      ]
+    },
+    {
+      "name": "03_Name",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Fruit_Drops",
+        "Basket_Name",
+        "What is your firstname?",
+        "First name"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 20,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Menu",
+        "My basket icon",
+        "My basket",
+        "Hello Tony, What fruit s"
+      ]
+    },
+    {
+      "name": "05_Product_Quinoa",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×6",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Favourite",
+        "Frame",
+        "Salad_Quinoa"
+      ]
+    },
+    {
+      "name": "06_Basket",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "BasketRow",
+        "Salad_Quinoa",
+        "Salad_Melon"
+      ]
+    },
+    {
+      "name": "07_Checkout_Delivery",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 1,
+      "instances": 15,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×5",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "BasketRow",
+        "Salad_Quinoa",
+        "Salad_Melon"
+      ]
+    },
+    {
+      "name": "08_Checkout_Card",
+      "size": "375×812",
+      "nodes": 26,
+      "max_depth": 1,
+      "instances": 16,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "text×7",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "BasketRow",
+        "Salad_Quinoa",
+        "Salad_Melon"
+      ]
+    },
+    {
+      "name": "09_Order_Complete",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Frame",
+        "Icon_Success_Check",
+        "Congratulations!!!",
+        "Your order has been take"
+      ]
+    },
+    {
+      "name": "10_Track_Order",
+      "size": "375×812",
+      "nodes": 18,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×5",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Map_Delivery",
+        "TrackStep",
+        "Step_Order_Taken"
+      ]
+    }
+  ]
+}

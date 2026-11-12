@@ -1,0 +1,158 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "414×896",
+      "nodes": 18,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×3",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Vulcan Bank",
+        "Icon_Safe",
+        "Balance / payment card",
+        "Page 1 of 2"
+      ]
+    },
+    {
+      "name": "02_About_Investment",
+      "size": "414×896",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / ",
+        "INVEST WITH VULCAN",
+        "Investment",
+        "Surface"
+      ]
+    },
+    {
+      "name": "03_Create_PIN",
+      "size": "414×896",
+      "nodes": 22,
+      "max_depth": 1,
+      "instances": 19,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / ",
+        "Create PIN code",
+        "Secure your brokerage ac",
+        "PIN / 9"
+      ]
+    },
+    {
+      "name": "04_Portfolio",
+      "size": "414×896",
+      "nodes": 21,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×7",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Investment Port",
+        "Total earning",
+        "$87,875",
+        "+10%"
+      ]
+    },
+    {
+      "name": "05_Trading",
+      "size": "414×896",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Trading",
+        "Stock / Apple",
+        "Icon_Chart",
+        "Icon_Insights"
+      ]
+    },
+    {
+      "name": "06_Stock_Transaction",
+      "size": "414×896",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Stock transacti",
+        "Stock / Apple",
+        "ACCOUNT",
+        "Account / USD"
+      ]
+    },
+    {
+      "name": "07_Confirm_Purchase",
+      "size": "414×896",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Stock transacti",
+        "Stock / Apple",
+        "ACCOUNT",
+        "Account / USD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+当前环境说明，非历史运行时已知文档的证明。
+来源：/mnt/afs_design/huangxinyue/.codex/plugins/cache/openai-curated-remote/figma/17.0.0/skills/figma-use/SKILL.md
+用于支持页上下文解释；不能替代历史环境复现实验。
+L34: 9.  **Pages load incrementally** — use `await figma.setCurrentPageAsync(page)` to switch pages and load their content. The sync setter `figma.currentPage = page` does **NOT** work and throws `"Setting figma.currentPage is not supported"`. Page context resets to the **first page** at the start of every `use_figma` call, so re-switch each call; switch **at most once per call** and fan multi-page work out in parallel — see [Page Rules](#2-page-rules-critical) and [gotchas.md](references/gotchas.md#set-current-page-once-per-use_figma-call--split-multi-page-work-into-parallel-calls).

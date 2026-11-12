@@ -1,0 +1,25 @@
+{
+  "kind": "benchmark-legacy-media-audit/v1",
+  "checked_at": "2026-10-30T23:09:18.797662+00:00",
+  "raw_audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "ShareGPT conversion failed: invalid role 'function_call' at conversation index 216"
+    ],
+    "require_prototype": false
+  },
+  "audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "ShareGPT conversion failed: invalid role 'function_call' at conversation index 216"
+    ],
+    "require_prototype": false,
+    "raw_errors": [
+      "Figma create_new_file was not called",
+      "ShareGPT conversion failed: invalid role 'function_call' at conversation index 216"
+    ],
+    "media_warnings": []
+  }
+}

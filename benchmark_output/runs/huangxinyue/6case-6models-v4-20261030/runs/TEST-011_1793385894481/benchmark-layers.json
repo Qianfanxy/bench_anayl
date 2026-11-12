@@ -1,0 +1,304 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "375×812",
+      "nodes": 33,
+      "max_depth": 5,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "vector×8",
+        "rectangle×7",
+        "ellipse×5",
+        "instance×4",
+        "group×4",
+        "frame×3"
+      ],
+      "names": [
+        "Glow",
+        "StockWave_Symbol",
+        "icon",
+        "Vector",
+        "StockWave_Wordmark",
+        "logo"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "375×812",
+      "nodes": 93,
+      "max_depth": 7,
+      "instances": 22,
+      "texts": 23,
+      "images": 0,
+      "types": [
+        "text×23",
+        "instance×22",
+        "vector×15",
+        "frame×14",
+        "rectangle×9",
+        "group×7"
+      ],
+      "names": [
+        "Backdrop",
+        "Blank_Phone_Frame",
+        "App preview",
+        "StockWave_Wordmark",
+        "logo",
+        "icon_2"
+      ]
+    },
+    {
+      "name": "03_Sign_Up_Empty",
+      "size": "375×812",
+      "nodes": 46,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×11",
+        "rectangle×9",
+        "vector×5",
+        "frame×5",
+        "group×2"
+      ],
+      "names": [
+        "StockWave_Symbol",
+        "icon",
+        "Vector",
+        "Join StockWave",
+        "Embark on your investmen",
+        "Form"
+      ]
+    },
+    {
+      "name": "03_Sign_Up_Filled",
+      "size": "375×812",
+      "nodes": 59,
+      "max_depth": 5,
+      "instances": 14,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "instance×14",
+        "rectangle×9",
+        "vector×8",
+        "frame×8",
+        "group×3"
+      ],
+      "names": [
+        "StockWave_Symbol",
+        "icon",
+        "Vector",
+        "Join StockWave",
+        "Embark on your investmen",
+        "Form"
+      ]
+    },
+    {
+      "name": "04_Verify_Phone",
+      "size": "375×812",
+      "nodes": 55,
+      "max_depth": 5,
+      "instances": 21,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "text×16",
+        "rectangle×8",
+        "frame×7",
+        "vector×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Chevron_Left",
+        "path",
+        "Spacer",
+        "Enter your phone number"
+      ]
+    },
+    {
+      "name": "05_Verify_Code",
+      "size": "375×812",
+      "nodes": 62,
+      "max_depth": 5,
+      "instances": 25,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "instance×25",
+        "text×17",
+        "frame×9",
+        "rectangle×8",
+        "vector×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Chevron_Left",
+        "path",
+        "Spacer",
+        "Enter verification code"
+      ]
+    },
+    {
+      "name": "06_Welcome",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "text×5",
+        "instance×4",
+        "ellipse×2",
+        "frame×2"
+      ],
+      "names": [
+        "Backdrop",
+        "Welcome_Hand",
+        "Hello Agatha Bella!",
+        "Welcome to StockWave",
+        "It’s great to have you h",
+        "I’m ready to start!"
+      ]
+    },
+    {
+      "name": "07_Home",
+      "size": "375×1309",
+      "nodes": 236,
+      "max_depth": 9,
+      "instances": 50,
+      "texts": 52,
+      "images": 0,
+      "types": [
+        "frame×52",
+        "text×52",
+        "instance×50",
+        "vector×44",
+        "group×23",
+        "rectangle×12"
+      ],
+      "names": [
+        "Content",
+        "Top bar",
+        "StockWave_Wordmark",
+        "logo",
+        "icon_2",
+        "icon_3"
+      ]
+    },
+    {
+      "name": "08_Portfolio",
+      "size": "375×1016",
+      "nodes": 166,
+      "max_depth": 8,
+      "instances": 25,
+      "texts": 40,
+      "images": 0,
+      "types": [
+        "frame×47",
+        "text×40",
+        "instance×25",
+        "vector×24",
+        "rectangle×16",
+        "group×13"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Chevron_Left",
+        "path",
+        "Title",
+        "Spacer"
+      ]
+    },
+    {
+      "name": "09_Stock_Detail",
+      "size": "375×980",
+      "nodes": 98,
+      "max_depth": 6,
+      "instances": 22,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "text×26",
+        "instance×22",
+        "frame×19",
+        "rectangle×19",
+        "vector×7",
+        "ellipse×3"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Chevron_Left",
+        "path",
+        "Title",
+        "Price Alert"
+      ]
+    },
+    {
+      "name": "10_Confirm_Order",
+      "size": "375×812",
+      "nodes": 78,
+      "max_depth": 7,
+      "instances": 18,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "text×21",
+        "frame×20",
+        "instance×18",
+        "rectangle×8",
+        "vector×7",
+        "group×3"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Icon_Chevron_Left",
+        "path",
+        "Title",
+        "Spacer"
+      ]
+    },
+    {
+      "name": "11_Profile",
+      "size": "375×812",
+      "nodes": 109,
+      "max_depth": 8,
+      "instances": 23,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "vector×24",
+        "instance×23",
+        "frame×19",
+        "text×18",
+        "rectangle×13",
+        "group×11"
+      ],
+      "names": [
+        "Header",
+        "Title",
+        "Content",
+        "Account",
+        "Avatar_Neutral",
+        "Vector"
+      ]
+    }
+  ]
+}

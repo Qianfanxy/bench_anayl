@@ -1,0 +1,11 @@
+{
+  "playwright_module": "/absolute/path/to/playwright-core/index.mjs",
+  "browser_executable": "/absolute/path/to/chrome-headless-shell",
+  "library_path": "/absolute/path/to/browser-deps/usr/lib/x86_64-linux-gnu",
+  "storage_state": "/absolute/path/to/private/figma-browser-state.json",
+  "browser_lease_module": "/absolute/path/to/figma_browser_lease.mjs",
+  "identity_email": "your-authorized-account@example.com",
+  "identity_name": "your-authorized-account",
+  "user_id": "your-figma-user-id",
+  "destination": "https://www.figma.com/files/your-team-id/drafts"
+}

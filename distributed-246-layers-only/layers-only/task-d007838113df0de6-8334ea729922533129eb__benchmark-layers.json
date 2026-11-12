@@ -1,0 +1,446 @@
+{
+  "board_count": 20,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "375×4441.970703125",
+      "nodes": 107,
+      "max_depth": 4,
+      "instances": 43,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "instance×43",
+        "frame×35",
+        "text×22",
+        "rectangle×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Hero",
+        "Photo_Hero",
+        "Scrim",
+        "Headline"
+      ]
+    },
+    {
+      "name": "02_Menu",
+      "size": "375×773.071044921875",
+      "nodes": 27,
+      "max_depth": 3,
+      "instances": 18,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "frame×7",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Menu Top",
+        "Close",
+        "Gender Tabs",
+        "Tab",
+        "Departments"
+      ]
+    },
+    {
+      "name": "03_Search",
+      "size": "375×621",
+      "nodes": 27,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "frame×11",
+        "text×9",
+        "instance×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Search Bar",
+        "Field",
+        "Icon_Search",
+        "Search items",
+        "Close"
+      ]
+    },
+    {
+      "name": "04_Search_Results",
+      "size": "375×1873",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 16,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Search Wrap",
+        "Search Field",
+        "Search",
+        "Dress"
+      ]
+    },
+    {
+      "name": "05_Category_Grid",
+      "size": "375×1547",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Toolbar",
+        "Filter Chips",
+        "Chip",
+        "Grid"
+      ]
+    },
+    {
+      "name": "06_Product_Detail",
+      "size": "375×2352",
+      "nodes": 69,
+      "max_depth": 4,
+      "instances": 19,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "frame×25",
+        "instance×19",
+        "text×17",
+        "rectangle×5",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Gallery",
+        "Product_Wool_Coat",
+        "Expand",
+        "Dots"
+      ]
+    },
+    {
+      "name": "07_Collections",
+      "size": "375×2160",
+      "nodes": 22,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "frame×8",
+        "text×8",
+        "instance×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Title",
+        "October Collection",
+        "Banner · 01 October coll",
+        "Photo_Collection_October"
+      ]
+    },
+    {
+      "name": "08_Collection_Detail",
+      "size": "375×2458",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×5",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Hero",
+        "Photo_Collection_October",
+        "October Collection",
+        "Grid"
+      ]
+    },
+    {
+      "name": "09_Cart_Empty",
+      "size": "375×654",
+      "nodes": 10,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×3",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Cart Top",
+        "Close",
+        "Title",
+        "CART",
+        "Empty"
+      ]
+    },
+    {
+      "name": "10_Cart",
+      "size": "375×702",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×4",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Cart Top",
+        "Close",
+        "Title",
+        "CART",
+        "Items"
+      ]
+    },
+    {
+      "name": "11_Checkout",
+      "size": "375×813",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×6",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Title",
+        "Section Title",
+        "Items",
+        "Cart Row"
+      ]
+    },
+    {
+      "name": "12_Checkout_Shipping",
+      "size": "375×774",
+      "nodes": 25,
+      "max_depth": 4,
+      "instances": 9,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×8",
+        "text×8"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Title",
+        "CHECKOUT",
+        "Shipping Address",
+        "SHIPPING ADDRESS"
+      ]
+    },
+    {
+      "name": "13_Add_Address",
+      "size": "375×567",
+      "nodes": 16,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Title",
+        "Section Title",
+        "Form",
+        "Name Row"
+      ]
+    },
+    {
+      "name": "14_Add_Card",
+      "size": "375×740",
+      "nodes": 20,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×6",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Title",
+        "Section Title",
+        "Card Preview",
+        "Card"
+      ]
+    },
+    {
+      "name": "15_Payment_Success",
+      "size": "375×745",
+      "nodes": 33,
+      "max_depth": 3,
+      "instances": 15,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×10",
+        "frame×6",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Title",
+        "CHECKOUT",
+        "Checkout Summary",
+        "Address"
+      ]
+    },
+    {
+      "name": "16_Blog",
+      "size": "375×1272.071044921875",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 15,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Title",
+        "Section Title",
+        "Blog Tabs",
+        "Tab"
+      ]
+    },
+    {
+      "name": "17_Blog_Post",
+      "size": "375×1554",
+      "nodes": 15,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×5",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Photo_Blog_Post",
+        "Article",
+        "2021 STYLE GUIDE: THE BI",
+        "You guys know how much I"
+      ]
+    },
+    {
+      "name": "18_Our_Story",
+      "size": "375×1137",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×3",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Title",
+        "Section Title",
+        "Story",
+        "Lorem ipsum dolor sit am"
+      ]
+    },
+    {
+      "name": "19_Contact",
+      "size": "375×1444",
+      "nodes": 21,
+      "max_depth": 4,
+      "instances": 12,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×6",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Title",
+        "Section Title",
+        "Blocks",
+        "Chat block"
+      ]
+    },
+    {
+      "name": "20_Page_Not_Found",
+      "size": "375×951",
+      "nodes": 9,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Not Found",
+        "404",
+        "PAGE NOT FOUND",
+        "We can’t find the page y"
+      ]
+    }
+  ]
+}

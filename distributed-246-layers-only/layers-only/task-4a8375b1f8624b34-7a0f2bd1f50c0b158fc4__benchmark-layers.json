@@ -1,0 +1,181 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×5220",
+      "nodes": 46,
+      "max_depth": 1,
+      "instances": 22,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "instance×22",
+        "text×19",
+        "frame×5"
+      ],
+      "names": [
+        "Navigation / Desktop",
+        "Current navigation",
+        "Photo_Home_Hero",
+        "Hero scrim",
+        "POSTED ON STARTUP",
+        "Step-by-step guide to ch"
+      ]
+    },
+    {
+      "name": "02_Blog",
+      "size": "1440×3750",
+      "nodes": 25,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×8",
+        "frame×3"
+      ],
+      "names": [
+        "Navigation / Desktop",
+        "Current navigation",
+        "Featured band",
+        "FEATURED POST",
+        "Step-by-step guide to ch",
+        "By Andrew Johnson | May "
+      ]
+    },
+    {
+      "name": "03_Blog_Post",
+      "size": "1440×4046",
+      "nodes": 25,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "instance×9",
+        "frame×1"
+      ],
+      "names": [
+        "Navigation / Desktop",
+        "Current navigation",
+        "Avatar_Andrew",
+        "Andrew Johnson",
+        "Posted on 23rd May 2022",
+        "Step-by-step guide to ch"
+      ]
+    },
+    {
+      "name": "04_About_Us",
+      "size": "1440×4050",
+      "nodes": 39,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "text×22",
+        "instance×14",
+        "frame×3"
+      ],
+      "names": [
+        "Navigation / Desktop",
+        "Current navigation",
+        "ABOUT US",
+        "We are a team of content",
+        "Lorem ipsum dolor sit am",
+        "Photo_Group_Hero"
+      ]
+    },
+    {
+      "name": "05_Category_Business",
+      "size": "1440×2260",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Navigation / Desktop",
+        "Current navigation",
+        "Category heading",
+        "Business",
+        "Lorem ipsum dolor sit am",
+        "BLOG > BUSINESS"
+      ]
+    },
+    {
+      "name": "06_Author",
+      "size": "1440×1960",
+      "nodes": 15,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×3",
+        "text×3"
+      ],
+      "names": [
+        "Navigation / Desktop",
+        "Author intro",
+        "Avatar_Andrew",
+        "Hey there, I’m Andrew Jo",
+        "Lorem ipsum dolor sit am",
+        "Icon_Facebook"
+      ]
+    },
+    {
+      "name": "07_Contact",
+      "size": "1440×1740",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Navigation / Desktop",
+        "Current navigation",
+        "CONTACT US",
+        "Let’s Start a Conversati",
+        "Lorem ipsum dolor sit am",
+        "Footer / Newsletter"
+      ]
+    },
+    {
+      "name": "08_Privacy_Policy",
+      "size": "1440×1852",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "text×7",
+        "instance×2",
+        "frame×1"
+      ],
+      "names": [
+        "Navigation / Desktop",
+        "Privacy title",
+        "Privacy Policy",
+        "Last Updated on 27th Jan",
+        "Lorem ipsum dolor sit am",
+        "Footer / Newsletter"
+      ]
+    }
+  ]
+}

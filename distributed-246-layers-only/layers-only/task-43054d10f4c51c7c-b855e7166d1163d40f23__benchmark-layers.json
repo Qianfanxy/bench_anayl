@@ -1,0 +1,93 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "414×896",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Backdrop",
+        "Illustration_Onboarding",
+        "Headline",
+        "Body Copy",
+        "Get started Button",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "414×896",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×1",
+        "text×1"
+      ],
+      "names": [
+        "Content",
+        "Home Header",
+        "Title",
+        "Search Field",
+        "Today Activity Card",
+        "Categories Header"
+      ]
+    },
+    {
+      "name": "03_Warm_Up",
+      "size": "414×896",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 19,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Content",
+        "Nav Bar",
+        "Video Cover",
+        "Photo_Seated_Hug",
+        "Play Video",
+        "Title"
+      ]
+    },
+    {
+      "name": "04_Activity",
+      "size": "414×896",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 19,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×5",
+        "frame×1"
+      ],
+      "names": [
+        "Nav Bar",
+        "Title",
+        "Week Label",
+        "Week Range",
+        "Day Sat 26",
+        "Day Sun 27"
+      ]
+    }
+  ]
+}

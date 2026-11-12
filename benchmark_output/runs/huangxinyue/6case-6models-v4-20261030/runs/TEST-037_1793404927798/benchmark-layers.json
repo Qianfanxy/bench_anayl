@@ -1,0 +1,376 @@
+{
+  "board_count": 15,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "vector×5",
+        "instance×3",
+        "text×2",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Stylish_Logo",
+        "Vector",
+        "Fashion & Lifestyle Shop",
+        "Status Bar",
+        "9:41",
+        "Signal"
+      ]
+    },
+    {
+      "name": "02_Onboarding_Choose_Products",
+      "size": "375×812",
+      "nodes": 22,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "rectangle×10",
+        "text×5",
+        "instance×4",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Skip",
+        "Onboarding_Choose_Produc",
+        "Choose Products",
+        "Browse thousands of prod",
+        "Rectangle",
+        "NextBtn"
+      ]
+    },
+    {
+      "name": "03_Onboarding_Make_Payment",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "rectangle×10",
+        "text×6",
+        "instance×4",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Skip",
+        "Prev",
+        "Onboarding_Make_Payment",
+        "Make Payment",
+        "Pay securely with your s",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "04_Onboarding_Get_Your_Order",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "rectangle×10",
+        "text×6",
+        "instance×4",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Skip",
+        "Prev",
+        "Onboarding_Get_Your_Orde",
+        "Get Your Order",
+        "Track your order until i",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "05_Sign_In",
+      "size": "375×812",
+      "nodes": 44,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "rectangle×14",
+        "text×9",
+        "instance×9",
+        "vector×9",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Welcome Back!",
+        "Rectangle",
+        "Icon_User",
+        "Vector",
+        "Username or Email",
+        "Icon_Lock"
+      ]
+    },
+    {
+      "name": "06_Sign_Up",
+      "size": "375×812",
+      "nodes": 52,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "rectangle×15",
+        "vector×13",
+        "instance×11",
+        "text×10",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Create an account",
+        "Rectangle",
+        "Icon_User",
+        "Vector",
+        "Username or Email",
+        "Icon_Lock"
+      ]
+    },
+    {
+      "name": "07_Forgot_Password",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "rectangle×8",
+        "instance×5",
+        "text×5",
+        "vector×2",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "BackBtn",
+        "Vector",
+        "Forgot password?",
+        "Rectangle",
+        "Icon_Mail",
+        "Enter your email address"
+      ]
+    },
+    {
+      "name": "08_Get_Started",
+      "size": "375×812",
+      "nodes": 18,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "instance×4",
+        "text×4",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Get_Started_Photo",
+        "You want Authentic, here",
+        "Find it here, buy it now",
+        "GetStartedBtn",
+        "Login",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "09_Home",
+      "size": "375×2116",
+      "nodes": 244,
+      "max_depth": 3,
+      "instances": 61,
+      "texts": 86,
+      "images": 0,
+      "types": [
+        "text×86",
+        "instance×61",
+        "vector×48",
+        "rectangle×33",
+        "frame×15",
+        "ellipse×1"
+      ],
+      "names": [
+        "MainNav",
+        "Icon_Home",
+        "Vector",
+        "Label_Home",
+        "Icon_Wishlist",
+        "Label_Wishlist"
+      ]
+    },
+    {
+      "name": "10_Product_List",
+      "size": "375×1958",
+      "nodes": 299,
+      "max_depth": 3,
+      "instances": 98,
+      "texts": 67,
+      "images": 0,
+      "types": [
+        "instance×98",
+        "vector×92",
+        "text×67",
+        "rectangle×26",
+        "frame×15",
+        "ellipse×1"
+      ],
+      "names": [
+        "MainNav",
+        "Icon_Home",
+        "Vector",
+        "Label_Home",
+        "Icon_Wishlist",
+        "Label_Wishlist"
+      ]
+    },
+    {
+      "name": "11_Product_Detail",
+      "size": "375×1468",
+      "nodes": 188,
+      "max_depth": 3,
+      "instances": 49,
+      "texts": 49,
+      "images": 0,
+      "types": [
+        "vector×50",
+        "instance×49",
+        "text×49",
+        "rectangle×32",
+        "frame×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "MainNav",
+        "Icon_Home",
+        "Vector",
+        "Label_Home",
+        "Icon_Wishlist",
+        "Label_Wishlist"
+      ]
+    },
+    {
+      "name": "12_Shopping_Bag",
+      "size": "375×812",
+      "nodes": 53,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "rectangle×11",
+        "instance×9",
+        "vector×5",
+        "frame×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "BackBtn",
+        "Vector",
+        "Shopping Bag",
+        "WishlistEntry",
+        "Rectangle",
+        "Bag_Womens_Casual_Wear"
+      ]
+    },
+    {
+      "name": "13_Payment",
+      "size": "375×812",
+      "nodes": 70,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 23,
+      "images": 0,
+      "types": [
+        "text×23",
+        "rectangle×17",
+        "instance×14",
+        "vector×13",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "MainNav",
+        "Icon_Home",
+        "Vector",
+        "Label_Home",
+        "Icon_Wishlist",
+        "Label_Wishlist"
+      ]
+    },
+    {
+      "name": "15_Profile",
+      "size": "375×1180",
+      "nodes": 58,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "text×28",
+        "rectangle×21",
+        "instance×5",
+        "frame×2",
+        "vector×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "BackBtn",
+        "Vector",
+        "Profile",
+        "Avatar",
+        "EditAvatar",
+        "✎"
+      ]
+    },
+    {
+      "name": "14_Payment_Success_Overlay",
+      "size": "375×812",
+      "nodes": 75,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "rectangle×20",
+        "instance×14",
+        "vector×13",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "MainNav",
+        "Icon_Home",
+        "Vector",
+        "Label_Home",
+        "Icon_Wishlist",
+        "Label_Wishlist"
+      ]
+    }
+  ]
+}

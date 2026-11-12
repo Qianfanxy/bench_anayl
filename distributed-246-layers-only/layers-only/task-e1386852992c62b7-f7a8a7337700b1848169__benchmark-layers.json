@@ -1,0 +1,44 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Work",
+      "size": "1440×2380",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6"
+      ],
+      "names": [
+        "Header / Work",
+        "Work intro",
+        "Project / Goblin Bust",
+        "Project / Skin Shader St",
+        "Project / Creature Conce",
+        "Footer"
+      ]
+    },
+    {
+      "name": "02_About",
+      "size": "1440×1730",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×5"
+      ],
+      "names": [
+        "Header / About",
+        "About intro",
+        "Skills list",
+        "Contact block",
+        "Footer"
+      ]
+    }
+  ]
+}

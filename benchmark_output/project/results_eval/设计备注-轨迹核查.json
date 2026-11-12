@@ -1,0 +1,1118 @@
+{
+  "scope": "本地Arena快照：9条整组备注+23条逐屏备注；不含未落入当前表的历史event版本。messages索引从0计。",
+  "note_count": 32,
+  "notes": [
+    {
+      "source_table": "ballots",
+      "source_id": 7,
+      "case_id": "6case-case-006",
+      "title": "Fruit Hub",
+      "comment": "B感觉有很多基础问题啊 为什么连画板顺序都不对",
+      "screen": "",
+      "slot": null,
+      "side_mapping": "早期tournament：pairs.first_id/second_id（ballot事件side与winner核对）",
+      "pair_id": "1c9f443f0158af0a259fdc16",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "Kimi K3",
+          "run_id": "run_f0b05ef34a24409c",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-rerun1-kimi/runs/TEST-012_1793425230508/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "Fable 5.1",
+          "run_id": "run_f3999ef393894c4f",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-022_1793387810631/task-000001/trajectory.jsonl",
+          "status": "顺序异常确认；两套内容未证实",
+          "finding": "交付快照有且只有10个正式屏幕；workspace及Arena图片顺序是02、03、04、05、06、01、07、08、09、10。轨迹说明07/08重绘Basket背景以模拟sheet；不能据此认定存在两套完整屏幕。"
+        }
+      ]
+    },
+    {
+      "source_table": "ballots",
+      "source_id": 9,
+      "case_id": "6case-case-006",
+      "title": "Fruit Hub",
+      "comment": "B有两套内容",
+      "screen": "",
+      "slot": null,
+      "side_mapping": "早期tournament：pairs.first_id/second_id（ballot事件side与winner核对）",
+      "pair_id": "49c2a89a512b725d1ed3dc9f",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_b53402eabe484a87",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-rerun1-glm/runs/TEST-011_1793423035903/task-000001/trajectory.jsonl",
+          "status": "已确认重复；原因含工具状态异常",
+          "finding": "快照保留两套同名01–10，共20屏。轨迹messages[156]旧10节点返回NULL，[158]全局375×812搜索为0，随后重建；最终旧新两套均出现在快照。不能仅归为模型无故重复，也不能从现有证据确定底层状态异常原因。"
+        },
+        {
+          "side": "B",
+          "model": "Fable 5.1",
+          "run_id": "run_f3999ef393894c4f",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-022_1793387810631/task-000001/trajectory.jsonl",
+          "status": "顺序异常确认；两套内容未证实",
+          "finding": "交付快照有且只有10个正式屏幕；workspace及Arena图片顺序是02、03、04、05、06、01、07、08、09、10。轨迹说明07/08重绘Basket背景以模拟sheet；不能据此认定存在两套完整屏幕。"
+        }
+      ]
+    },
+    {
+      "source_table": "ballots",
+      "source_id": 26,
+      "case_id": "3case-case-001",
+      "title": "Balance",
+      "comment": "b对于部分信息的处理更清楚，但是屏幕上总有很多留白；二者其实差不太多",
+      "screen": "",
+      "slot": null,
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "123f34e42a62418c19ecaa5b",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "gpt-6-astra",
+          "run_id": "run_4d512be0f19a4e92",
+          "trajectory_path": "/mnt/afs_design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-029_1793360596550/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "Kimi K3",
+          "run_id": "run_f5c54e2727ab4bcb",
+          "trajectory_path": "/mnt/afs_design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-026_1793177822747/task-000001/trajectory.jsonl",
+          "status": "主观视觉评价；未发现缺屏证据",
+          "finding": "A/B实际GPT/Kimi，备注b指Kimi。11个正式屏幕齐全；截图可见OTP和Discussion Forum有较大留白，轨迹有逐屏检查及间距修正。不能从留白反推运行失败。"
+        }
+      ]
+    },
+    {
+      "source_table": "ballots",
+      "source_id": 146,
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "a很多图都没用上，b少了一半的画板，很难评价谁更好",
+      "screen": "",
+      "slot": null,
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "656d799ee6c882f90a353cc6",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "Gemini 3.5 Flash",
+          "run_id": "run_a618e4f4329241ea",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-032_1793389905558/task-000001/trajectory.jsonl",
+          "status": "已确认素材未正确使用",
+          "finding": "轨迹创建03_Home_Images时使用紫色Frame加Gen_Mug/Gen_Rat等文字标签；06生成图同样为占位。交付03截图直接显示素材名称而非对应图片。属素材复用缺陷。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        }
+      ]
+    },
+    {
+      "source_table": "ballots",
+      "source_id": 149,
+      "case_id": "6case-case-006",
+      "title": "Fruit Hub",
+      "comment": "这个应该是本来只有10个画板？a组现在有20个 导致不知道怎么比了。b组是10个",
+      "screen": "",
+      "slot": null,
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "53197332c3be46e0eae14aa8",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_b53402eabe484a87",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-rerun1-glm/runs/TEST-011_1793423035903/task-000001/trajectory.jsonl",
+          "status": "已确认重复；原因含工具状态异常",
+          "finding": "快照保留两套同名01–10，共20屏。轨迹messages[156]旧10节点返回NULL，[158]全局375×812搜索为0，随后重建；最终旧新两套均出现在快照。不能仅归为模型无故重复，也不能从现有证据确定底层状态异常原因。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_90bc84da7785497a",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-011_1793425219005/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        }
+      ]
+    },
+    {
+      "source_table": "ballots",
+      "source_id": 156,
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "画板无法加载",
+      "screen": "",
+      "slot": null,
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "10d0185e973c5f9a821ae084",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        }
+      ]
+    },
+    {
+      "source_table": "ballots",
+      "source_id": 164,
+      "case_id": "10case-case-001",
+      "title": "Investment Wallet",
+      "comment": "a组多了2张画板",
+      "screen": "",
+      "slot": null,
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "37f6d45c619dfb3f18f862f8",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "Gemini 3.5 Flash",
+          "run_id": "run_70ef8ee82cfa4041",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-rerun1-gemini/runs/TEST-011_1793528531943/trace-recovery/v3/e78b77c66576c43f4295cb731ed34c5fd319f8a45ea945d7a970b8d89c7cd8ff/trajectory.jsonl",
+          "status": "已确认重复画板",
+          "finding": "快照共7屏，01_Wallet和02_Discovery各两份，其余各一份。Arena配对计划也标duplicate。补救轨迹尾部原型写入因EASE_IN_OUT等schema错误失败，未见有效修复收尾。"
+        },
+        {
+          "side": "B",
+          "model": "Kimi K3",
+          "run_id": "run_a2f914efccfb4f67",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-rerun3-kimi/runs/TEST-011_1793689356234/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        }
+      ]
+    },
+    {
+      "source_table": "ballots",
+      "source_id": 234,
+      "case_id": "10case-case-008",
+      "title": "Fitness App",
+      "comment": "b组出现了三倍的画板 也有很多空白画板",
+      "screen": "",
+      "slot": null,
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "7e19c0b66c491295bae82e49",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "Kimi K3",
+          "run_id": "run_ce505112e386481e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-rerun3-kimi/runs/TEST-013_1793695036329/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "Gemini 3.5 Flash",
+          "run_id": "run_feda5042f9004594",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-048_1793479141642/task-000001/trajectory.jsonl",
+          "status": "已确认三套画板与空白残留",
+          "finding": "需求5屏，快照15个命名屏幕。16:2–16:6五屏text_count=0；15:92–15:96仅首屏有4段文字；18:13–18:17为最终有内容版本。轨迹多次清空、重建并出现null/undefined错误，最终快照仍保留旧版。"
+        }
+      ]
+    },
+    {
+      "source_table": "ballots",
+      "source_id": 265,
+      "case_id": "10case-case-009",
+      "title": "Workout Class",
+      "comment": "模型没有生成完毕",
+      "screen": "",
+      "slot": null,
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "678df83d39ae7001690c0cbf",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "Kimi K3",
+          "run_id": "run_71366bb8c69e467c",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-rerun1-kimi/runs/TEST-013_1793539381107/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "Gemini 3.5 Flash",
+          "run_id": "run_4febc55c8cc34af7",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-049_1793480594945/trace-recovery/v3/9a90fbce7b51c7caca9f62919483020ce2da66846367d7b7fd588811a8196a53/trajectory.jsonl",
+          "status": "已确认未完成",
+          "finding": "配对逐屏备注指向04_Activity。补救轨迹messages[68]继续创建卡路里统计与曲线，[69]vectorPaths报Invalid command at逗号，[70]为空assistant；交付截图仅日期栏，统计和活动卡缺失。delivery虽ready_for_scoring，不能证明完成。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:3d66212c2df61160043c63f8:390f9b3335da781f395d",
+      "case_id": "6case-case-003",
+      "title": "Stylish",
+      "comment": "左边这个也是有内容但是因为画板大小限制有点显示不全",
+      "screen": "09_Home",
+      "slot": {
+        "id": "390f9b3335da781f395d",
+        "name": "09_Home",
+        "required": true,
+        "duplicate": false,
+        "A": 8,
+        "B": 8,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "3d66212c2df61160043c63f8",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "gpt-6-astra",
+          "run_id": "run_25056fae2f754984",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-043_1793402529411/task-000001/trajectory.jsonl",
+          "status": "确认静态首屏裁切；不能等同缺屏",
+          "finding": "09_Home及11_Product_Detail截图有内容。messages[67]回读两个屏幕均有684px高VERTICAL滚动子容器。支持首屏只展示部分长内容；未现场验证原型实际滚动。"
+        },
+        {
+          "side": "B",
+          "model": "Kimi K3",
+          "run_id": "run_b3a9011569f3435a",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-037_1793404927798/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:b71f969efaab1d42639780c5:390f9b3335da781f395d",
+      "case_id": "6case-case-003",
+      "title": "Stylish",
+      "comment": "a又看不到了",
+      "screen": "09_Home",
+      "slot": {
+        "id": "390f9b3335da781f395d",
+        "name": "09_Home",
+        "required": true,
+        "duplicate": false,
+        "A": 8,
+        "B": 8,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "b71f969efaab1d42639780c5",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "gpt-6-astra",
+          "run_id": "run_25056fae2f754984",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-043_1793402529411/task-000001/trajectory.jsonl",
+          "status": "确认静态首屏裁切；不能等同缺屏",
+          "finding": "09_Home及11_Product_Detail截图有内容。messages[67]回读两个屏幕均有684px高VERTICAL滚动子容器。支持首屏只展示部分长内容；未现场验证原型实际滚动。"
+        },
+        {
+          "side": "B",
+          "model": "Fable 5.1",
+          "run_id": "run_ce4149fad6a64a79",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:b71f969efaab1d42639780c5:893af49f157070cbb219",
+      "case_id": "6case-case-003",
+      "title": "Stylish",
+      "comment": "a感觉很多这种问题 左边又是没什么内容的",
+      "screen": "11_Product_Detail",
+      "slot": {
+        "id": "893af49f157070cbb219",
+        "name": "11_Product_Detail",
+        "required": true,
+        "duplicate": false,
+        "A": 10,
+        "B": 10,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "b71f969efaab1d42639780c5",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "gpt-6-astra",
+          "run_id": "run_25056fae2f754984",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-043_1793402529411/task-000001/trajectory.jsonl",
+          "status": "确认静态首屏裁切；不能等同缺屏",
+          "finding": "09_Home及11_Product_Detail截图有内容。messages[67]回读两个屏幕均有684px高VERTICAL滚动子容器。支持首屏只展示部分长内容；未现场验证原型实际滚动。"
+        },
+        {
+          "side": "B",
+          "model": "Fable 5.1",
+          "run_id": "run_ce4149fad6a64a79",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-rerun1-fable/runs/TEST-011_1793423040195/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:cceae959c190af7a8564d2f0:c88d80f6f6328af427d5",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "a又看不见画板了",
+      "screen": "05_Chat_New",
+      "slot": {
+        "id": "c88d80f6f6328af427d5",
+        "name": "05_Chat_New",
+        "required": true,
+        "duplicate": false,
+        "A": null,
+        "B": 4,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "cceae959c190af7a8564d2f0",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        },
+        {
+          "side": "B",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:cceae959c190af7a8564d2f0:86b64a68bdd9823accc8",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "a后面就再也没有了啊！！ 烂烂的结果",
+      "screen": "06_Chat_Conversation",
+      "slot": {
+        "id": "86b64a68bdd9823accc8",
+        "name": "06_Chat_Conversation",
+        "required": true,
+        "duplicate": false,
+        "A": null,
+        "B": 5,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "cceae959c190af7a8564d2f0",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        },
+        {
+          "side": "B",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:cceae959c190af7a8564d2f0:628c2b692a626b2a5c7a",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "左边画板不对",
+      "screen": "07_Export_PDF_Sheet",
+      "slot": {
+        "id": "628c2b692a626b2a5c7a",
+        "name": "07_Export_PDF_Sheet",
+        "required": true,
+        "duplicate": false,
+        "A": null,
+        "B": 6,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "cceae959c190af7a8564d2f0",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        },
+        {
+          "side": "B",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:cceae959c190af7a8564d2f0:d4b692af8f767e414f39",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "画板丢失",
+      "screen": "09_Account_Actions_Sheet",
+      "slot": {
+        "id": "d4b692af8f767e414f39",
+        "name": "09_Account_Actions_Sheet",
+        "required": true,
+        "duplicate": false,
+        "A": null,
+        "B": 8,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "cceae959c190af7a8564d2f0",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        },
+        {
+          "side": "B",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:656d799ee6c882f90a353cc6:c88d80f6f6328af427d5",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "画板丢了",
+      "screen": "05_Chat_New",
+      "slot": {
+        "id": "c88d80f6f6328af427d5",
+        "name": "05_Chat_New",
+        "required": true,
+        "duplicate": false,
+        "A": 4,
+        "B": null,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "656d799ee6c882f90a353cc6",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "Gemini 3.5 Flash",
+          "run_id": "run_a618e4f4329241ea",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-032_1793389905558/task-000001/trajectory.jsonl",
+          "status": "已确认素材未正确使用",
+          "finding": "轨迹创建03_Home_Images时使用紫色Frame加Gen_Mug/Gen_Rat等文字标签；06生成图同样为占位。交付03截图直接显示素材名称而非对应图片。属素材复用缺陷。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:aa540317b3093a0808d41dae:b76cae65a4019fb4a072",
+      "case_id": "10case-case-001",
+      "title": "Investment Wallet",
+      "comment": "a模型又是下面显示不全",
+      "screen": "02_Discovery",
+      "slot": {
+        "id": "b76cae65a4019fb4a072",
+        "name": "02_Discovery",
+        "required": true,
+        "duplicate": false,
+        "A": 1,
+        "B": 1,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "aa540317b3093a0808d41dae",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "Fable 5.1",
+          "run_id": "run_11935fb843f1499f",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-021_1793475096552/task-000001/trajectory.jsonl",
+          "status": "确认首屏展示范围有限",
+          "finding": "02_Discovery为375×812，轨迹构建并设置VERTICAL滚动，最终答复明确01/02/03需预览滚动，截图仅首屏；截图显示策略卡部分及底栏。不能据截图单独判缺内容。"
+        },
+        {
+          "side": "B",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_1fb39c6dccf24c22",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-031_1793475112912/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-88da474b00f1bfba176ba284:10d0185e973c5f9a821ae084:c88d80f6f6328af427d5",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "画板无法加载",
+      "screen": "05_Chat_New",
+      "slot": {
+        "id": "c88d80f6f6328af427d5",
+        "name": "05_Chat_New",
+        "required": true,
+        "duplicate": false,
+        "A": 4,
+        "B": null,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "10d0185e973c5f9a821ae084",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-88da474b00f1bfba176ba284:10d0185e973c5f9a821ae084:86b64a68bdd9823accc8",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "画板无法加载",
+      "screen": "06_Chat_Conversation",
+      "slot": {
+        "id": "86b64a68bdd9823accc8",
+        "name": "06_Chat_Conversation",
+        "required": true,
+        "duplicate": false,
+        "A": 5,
+        "B": null,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "10d0185e973c5f9a821ae084",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-88da474b00f1bfba176ba284:10d0185e973c5f9a821ae084:628c2b692a626b2a5c7a",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "画板无法加载",
+      "screen": "07_Export_PDF_Sheet",
+      "slot": {
+        "id": "628c2b692a626b2a5c7a",
+        "name": "07_Export_PDF_Sheet",
+        "required": true,
+        "duplicate": false,
+        "A": 6,
+        "B": null,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "10d0185e973c5f9a821ae084",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-88da474b00f1bfba176ba284:10d0185e973c5f9a821ae084:b4b183b63b7feeebef3d",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "画板无法加载",
+      "screen": "08_Profile_Settings",
+      "slot": {
+        "id": "b4b183b63b7feeebef3d",
+        "name": "08_Profile_Settings",
+        "required": true,
+        "duplicate": false,
+        "A": 7,
+        "B": null,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "10d0185e973c5f9a821ae084",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-88da474b00f1bfba176ba284:10d0185e973c5f9a821ae084:d4b692af8f767e414f39",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "画板无法加载",
+      "screen": "09_Account_Actions_Sheet",
+      "slot": {
+        "id": "d4b692af8f767e414f39",
+        "name": "09_Account_Actions_Sheet",
+        "required": true,
+        "duplicate": false,
+        "A": 8,
+        "B": null,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "10d0185e973c5f9a821ae084",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-88da474b00f1bfba176ba284:10d0185e973c5f9a821ae084:90a87ca3c3290169fb2c",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "画板无法加载",
+      "screen": "10_Theme_Sheet",
+      "slot": {
+        "id": "90a87ca3c3290169fb2c",
+        "name": "10_Theme_Sheet",
+        "required": true,
+        "duplicate": false,
+        "A": 9,
+        "B": null,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "10d0185e973c5f9a821ae084",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-88da474b00f1bfba176ba284:10d0185e973c5f9a821ae084:9a1eae0a482ed20313e6",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "画板无法加载",
+      "screen": "11_Cloud_Space",
+      "slot": {
+        "id": "9a1eae0a482ed20313e6",
+        "name": "11_Cloud_Space",
+        "required": true,
+        "duplicate": false,
+        "A": 10,
+        "B": null,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "10d0185e973c5f9a821ae084",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-88da474b00f1bfba176ba284:10d0185e973c5f9a821ae084:82414a67a2e58f79eaa3",
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "comment": "画板无法加载",
+      "screen": "12_Clear_Cache_Dialog",
+      "slot": {
+        "id": "82414a67a2e58f79eaa3",
+        "name": "12_Clear_Cache_Dialog",
+        "required": true,
+        "duplicate": false,
+        "A": 11,
+        "B": null,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "10d0185e973c5f9a821ae084",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "GLM-5.3 Flash",
+          "run_id": "run_5aba68eb765b4e3e",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-026_1793396378444/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_34a4fdc1f1774a18",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-044_1793408971764/task-000001/trajectory.jsonl",
+          "status": "已确认：基础设施阻断",
+          "finding": "原始轨迹末条答复明确：第二批创建被 MCP 额度限制拦截；仅 01–04 四屏，剩余8屏、原型和截图验证未完成。Arena使用此原始run，并非索引中的offline-judge补跑。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:a649c68a7f7c140520b4b3a2:b76cae65a4019fb4a072",
+      "case_id": "10case-case-001",
+      "title": "Investment Wallet",
+      "comment": "b又显示不全",
+      "screen": "02_Discovery",
+      "slot": {
+        "id": "b76cae65a4019fb4a072",
+        "name": "02_Discovery",
+        "required": true,
+        "duplicate": false,
+        "A": 1,
+        "B": 2,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "a649c68a7f7c140520b4b3a2",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "Opus 5.5（三方A）",
+          "run_id": "run_faaad7f52dc04e96",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-011_1793475081301/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_da587171cd264fc2",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-rerun2-gpt/runs/TEST-011_1793603177004/task-000001/trajectory.jsonl",
+          "status": "确认首屏展示范围有限",
+          "finding": "messages[24]回读Discovery内容1454px、父容器624px且VERTICAL；截图只显示首屏策略卡，后续Coin Lists在滚动内容中。不能据截图判未生成。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:37f6d45c619dfb3f18f862f8:4f8d3ef9c44c642c1509",
+      "case_id": "10case-case-001",
+      "title": "Investment Wallet",
+      "comment": "a组又多了2张画板",
+      "screen": "02_Discovery",
+      "slot": {
+        "id": "4f8d3ef9c44c642c1509",
+        "name": "02_Discovery",
+        "required": true,
+        "duplicate": true,
+        "A": 3,
+        "B": null,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "37f6d45c619dfb3f18f862f8",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "Gemini 3.5 Flash",
+          "run_id": "run_70ef8ee82cfa4041",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-rerun1-gemini/runs/TEST-011_1793528531943/trace-recovery/v3/e78b77c66576c43f4295cb731ed34c5fd319f8a45ea945d7a970b8d89c7cd8ff/trajectory.jsonl",
+          "status": "已确认重复画板",
+          "finding": "快照共7屏，01_Wallet和02_Discovery各两份，其余各一份。Arena配对计划也标duplicate。补救轨迹尾部原型写入因EASE_IN_OUT等schema错误失败，未见有效修复收尾。"
+        },
+        {
+          "side": "B",
+          "model": "Kimi K3",
+          "run_id": "run_a2f914efccfb4f67",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-rerun3-kimi/runs/TEST-011_1793689356234/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:339592f62c2a899eccc8ff6a:0722cf43abfc668ec0a9",
+      "case_id": "10case-case-003",
+      "title": "Stock Trading",
+      "comment": "估计这个右边也是不全的",
+      "screen": "03_Detail_Saham",
+      "slot": {
+        "id": "0722cf43abfc668ec0a9",
+        "name": "03_Detail_Saham",
+        "required": true,
+        "duplicate": false,
+        "A": 2,
+        "B": 2,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "339592f62c2a899eccc8ff6a",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "Opus 5.5（三方A）",
+          "run_id": "run_154d576dd22f4304",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-013_1793478992194/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "Fable 5.1",
+          "run_id": "run_13a0b0ec4686418a",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-023_1793481658523/task-000001/trajectory.jsonl",
+          "status": "部分支持显示不全；不支持直接判未完成",
+          "finding": "A/B实际为Opus/Fable，备注右侧指Fable。03_Detail_Saham为375×812，轨迹创建并声明纵向滚动；截图底部股票行截断。已创建6个正式屏幕，需区分首屏与完整长内容。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:678df83d39ae7001690c0cbf:1a290f91666f559d5eed",
+      "case_id": "10case-case-009",
+      "title": "Workout Class",
+      "comment": "这部分总有一个模型没做完",
+      "screen": "04_Activity",
+      "slot": {
+        "id": "1a290f91666f559d5eed",
+        "name": "04_Activity",
+        "required": true,
+        "duplicate": false,
+        "A": 1,
+        "B": 3,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "678df83d39ae7001690c0cbf",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "Kimi K3",
+          "run_id": "run_71366bb8c69e467c",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-rerun1-kimi/runs/TEST-013_1793539381107/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "Gemini 3.5 Flash",
+          "run_id": "run_4febc55c8cc34af7",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-049_1793480594945/trace-recovery/v3/9a90fbce7b51c7caca9f62919483020ce2da66846367d7b7fd588811a8196a53/trajectory.jsonl",
+          "status": "已确认未完成",
+          "finding": "配对逐屏备注指向04_Activity。补救轨迹messages[68]继续创建卡路里统计与曲线，[69]vectorPaths报Invalid command at逗号，[70]为空assistant；交付截图仅日期栏，统计和活动卡缺失。delivery虽ready_for_scoring，不能证明完成。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:1068455910a0e4641987f92c:ea600922e8c3b84d7495",
+      "case_id": "10case-case-010",
+      "title": "Budget",
+      "comment": "这部分有的模型真的差的太离谱了？不确定要不要再check一下",
+      "screen": "01_Expenses",
+      "slot": {
+        "id": "ea600922e8c3b84d7495",
+        "name": "01_Expenses",
+        "required": true,
+        "duplicate": false,
+        "A": 0,
+        "B": 0,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "1068455910a0e4641987f92c",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "Gemini 3.5 Flash",
+          "run_id": "run_ec85bd7e28df40e7",
+          "trajectory_path": "",
+          "status": "无法完成原轨迹核查",
+          "finding": "Arena使用此run，索引为run_37fe0605a3624c6b；遍查本地bench-runs各轮runs表未找到Arena run。不应以索引0分版本解释本条备注。"
+        },
+        {
+          "side": "B",
+          "model": "gpt-6-astra",
+          "run_id": "run_39ddc689ac4a45de",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/10case-rerun1-gpt/runs/TEST-020_1793559490325/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        }
+      ]
+    },
+    {
+      "source_table": "pair_screen_votes",
+      "source_id": "participant-c387d1e86a8b70b0f54324a7:03a8ba01b664c03a2f4aa200:63904200c0614d1017b8",
+      "case_id": "web10-case-001",
+      "title": "Furniro",
+      "comment": "b模型也有点错的太离谱了",
+      "screen": "09_Blog",
+      "slot": {
+        "id": "63904200c0614d1017b8",
+        "name": "09_Blog",
+        "required": true,
+        "duplicate": false,
+        "A": 8,
+        "B": 8,
+        "manual": false
+      },
+      "side_mapping": "incremental_sort_requests.left_model_id/right_model_id",
+      "pair_id": "03a8ba01b664c03a2f4aa200",
+      "candidates": [
+        {
+          "side": "A",
+          "model": "gpt-6-astra",
+          "run_id": "run_c4b412d600b649bc",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-011_1793561065637/task-000001/trajectory.jsonl",
+          "status": "比较对照方",
+          "finding": "已定位并读取原始轨迹；本条需结合备注指向方判断。"
+        },
+        {
+          "side": "B",
+          "model": "Gemini 3.5 Flash",
+          "run_id": "run_08db15998eb047a6",
+          "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-011_1793560295414/task-000001/trajectory.jsonl",
+          "status": "已确认明显布局裁切",
+          "finding": "备注b实际指Gemini，屏幕09_Blog。交付截图中文章和侧栏内容被裁成窄条；messages[46]创建Posts Column等auto-layout容器，却未明确设置列宽及对应轴向尺寸策略，支持容器尺寸/裁切问题的判断。轨迹末答复声称全部完成，但未消除此视觉缺陷。"
+        }
+      ]
+    }
+  ]
+}

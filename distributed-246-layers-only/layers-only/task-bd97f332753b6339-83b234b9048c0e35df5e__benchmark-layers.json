@@ -1,0 +1,189 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×5370",
+      "nodes": 153,
+      "max_depth": 4,
+      "instances": 39,
+      "texts": 77,
+      "images": 0,
+      "types": [
+        "text×77",
+        "instance×39",
+        "frame×30",
+        "rectangle×7"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Nav Home",
+        "Rectangle",
+        "Nav Blog",
+        "Nav About Us"
+      ]
+    },
+    {
+      "name": "02_Blog",
+      "size": "1440×3810",
+      "nodes": 90,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 52,
+      "images": 0,
+      "types": [
+        "text×52",
+        "frame×19",
+        "instance×14",
+        "rectangle×5"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Nav Home",
+        "Nav Blog",
+        "Rectangle",
+        "Nav About Us"
+      ]
+    },
+    {
+      "name": "03_Blog_Post",
+      "size": "1440×4558",
+      "nodes": 74,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 46,
+      "images": 0,
+      "types": [
+        "text×46",
+        "frame×14",
+        "instance×10",
+        "rectangle×4"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Nav Home",
+        "Nav Blog",
+        "Rectangle",
+        "Nav About Us"
+      ]
+    },
+    {
+      "name": "04_About_Us",
+      "size": "1440×4250",
+      "nodes": 126,
+      "max_depth": 3,
+      "instances": 47,
+      "texts": 55,
+      "images": 0,
+      "types": [
+        "text×55",
+        "instance×47",
+        "frame×20",
+        "rectangle×4"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Nav Home",
+        "Nav Blog",
+        "Nav About Us",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "05_Category_Business",
+      "size": "1440×2350",
+      "nodes": 81,
+      "max_depth": 4,
+      "instances": 12,
+      "texts": 44,
+      "images": 0,
+      "types": [
+        "text×44",
+        "frame×21",
+        "instance×12",
+        "rectangle×4"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Nav Home",
+        "Nav Blog",
+        "Rectangle",
+        "Nav About Us"
+      ]
+    },
+    {
+      "name": "06_Author",
+      "size": "1440×1830",
+      "nodes": 48,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "text×26",
+        "instance×11",
+        "frame×8",
+        "rectangle×3"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Nav Home",
+        "Nav Blog",
+        "Nav About Us",
+        "Nav Contact us"
+      ]
+    },
+    {
+      "name": "07_Contact",
+      "size": "1440×1790",
+      "nodes": 60,
+      "max_depth": 4,
+      "instances": 4,
+      "texts": 37,
+      "images": 0,
+      "types": [
+        "text×37",
+        "rectangle×10",
+        "frame×9",
+        "instance×4"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Nav Home",
+        "Nav Blog",
+        "Nav About Us",
+        "Nav Contact us"
+      ]
+    },
+    {
+      "name": "08_Privacy_Policy",
+      "size": "1440×1850",
+      "nodes": 37,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "frame×6",
+        "instance×4",
+        "rectangle×3"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Nav Home",
+        "Nav Blog",
+        "Nav About Us",
+        "Nav Contact us"
+      ]
+    }
+  ]
+}

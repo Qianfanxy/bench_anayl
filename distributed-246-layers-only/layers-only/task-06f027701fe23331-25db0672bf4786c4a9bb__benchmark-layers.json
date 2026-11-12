@@ -1,0 +1,452 @@
+{
+  "board_count": 20,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "375×3949",
+      "nodes": 76,
+      "max_depth": 1,
+      "instances": 25,
+      "texts": 31,
+      "images": 8,
+      "types": [
+        "text×31",
+        "instance×25",
+        "rectangle×12",
+        "rectangle-image×8"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "Rectangle",
+        "LUXURY FASHION & ACCESSO",
+        "CarouselDots",
+        "ExploreBtn"
+      ]
+    },
+    {
+      "name": "02_Menu",
+      "size": "375×812",
+      "nodes": 33,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×11",
+        "rectangle×8"
+      ],
+      "names": [
+        "Status Bar",
+        "Close",
+        "TabCurrent",
+        "MAN",
+        "KIDS",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "03_Search",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 1,
+      "instances": 16,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "text×3",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Close",
+        "Icon_Search",
+        "Search items",
+        "Rectangle",
+        "POPULAR SEARCH TERMS"
+      ]
+    },
+    {
+      "name": "09_Cart_Empty",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Close",
+        "CART",
+        "You have no items in you",
+        "ActionBar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "10_Cart",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Close",
+        "CART",
+        "Rectangle",
+        "OF / Cart Row",
+        "SUB TOTAL"
+      ]
+    },
+    {
+      "name": "04_Search_Results",
+      "size": "375×1830",
+      "nodes": 30,
+      "max_depth": 1,
+      "instances": 19,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×8",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "Icon_Search",
+        "SearchValue",
+        "SearchClear",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "05_Category_Grid",
+      "size": "375×1504",
+      "nodes": 28,
+      "max_depth": 1,
+      "instances": 18,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×7",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "ChipWomen",
+        "ChipRemove",
+        "ChipApparel",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "11_Checkout",
+      "size": "375×812",
+      "nodes": 18,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×6",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "CHECKOUT",
+        "Ornament_Divider",
+        "OF / Cart Row",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "12_Checkout_Shipping",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×8",
+        "rectangle×4"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "CHECKOUT",
+        "TOTAL",
+        "Total",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "06_Product_Detail",
+      "size": "375×2243",
+      "nodes": 61,
+      "max_depth": 1,
+      "instances": 19,
+      "texts": 25,
+      "images": 1,
+      "types": [
+        "text×25",
+        "instance×19",
+        "rectangle×16",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "Gallery",
+        "Icon_Expand",
+        "Rectangle",
+        "MORANE"
+      ]
+    },
+    {
+      "name": "07_Collections",
+      "size": "375×1014",
+      "nodes": 17,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 7,
+      "images": 2,
+      "types": [
+        "text×7",
+        "instance×4",
+        "rectangle×4",
+        "rectangle-image×2"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "October Collection",
+        "Rectangle",
+        "01",
+        "Banner_01"
+      ]
+    },
+    {
+      "name": "08_Collection_Detail",
+      "size": "375×1916",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 4,
+      "images": 2,
+      "types": [
+        "instance×9",
+        "text×4",
+        "rectangle-image×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "October Collection",
+        "Hero",
+        "Card_Collection1",
+        "OF / Product Card"
+      ]
+    },
+    {
+      "name": "13_Add_Address",
+      "size": "375×812",
+      "nodes": 26,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "rectangle×7",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "ADD SHIPPING ADDRESS",
+        "First name",
+        "Rectangle",
+        "Field_First"
+      ]
+    },
+    {
+      "name": "14_Add_Card",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "instance×5",
+        "rectangle×5",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "PAYMENT METHOD",
+        "CardPreview",
+        "2365 3654 2365 3698",
+        "Iris Watson"
+      ]
+    },
+    {
+      "name": "15_Payment_Success",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×9",
+        "rectangle×2",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "Iris Watson · 606-3727 U",
+        "Card ending ••••89",
+        "Icon_Card",
+        "Lumière · Recycle Boucle"
+      ]
+    },
+    {
+      "name": "16_Blog",
+      "size": "375×1056",
+      "nodes": 33,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 18,
+      "images": 4,
+      "types": [
+        "text×18",
+        "instance×6",
+        "rectangle×5",
+        "rectangle-image×4"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "BLOG",
+        "Ornament_Divider",
+        "TabCurrent",
+        "PROMO"
+      ]
+    },
+    {
+      "name": "17_Blog_Post",
+      "size": "375×1162",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 6,
+      "images": 1,
+      "types": [
+        "text×6",
+        "instance×4",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "2021 Style Guide: The Bi",
+        "Photo_Blog_Post",
+        "“You guys know how much ",
+        "“I found this Maison Lio"
+      ]
+    },
+    {
+      "name": "18_Our_Story",
+      "size": "375×1300",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 5,
+      "images": 1,
+      "types": [
+        "instance×5",
+        "text×5",
+        "rectangle-image×1",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "OUR STORY",
+        "Ornament_Divider",
+        "Photo_Our_Story",
+        "Open Fashion was born fr"
+      ]
+    },
+    {
+      "name": "19_Contact",
+      "size": "375×992",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×4",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "CONTACT US",
+        "Ornament_Divider",
+        "Icon_Chat",
+        "Need an ASAP answer? Con"
+      ]
+    },
+    {
+      "name": "20_Page_Not_Found",
+      "size": "375×1000",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "OF / Header",
+        "PAGE NOT FOUND",
+        "We can’t find the page y",
+        "HomePageLink",
+        "Rectangle"
+      ]
+    }
+  ]
+}

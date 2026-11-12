@@ -1,0 +1,132 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Aktivitas",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "text×4",
+        "instance×2"
+      ],
+      "names": [
+        "Aktivitas",
+        "Dana Utama Rp2.125.000 ▲",
+        "Status Bar",
+        "Home Indicator",
+        "Aktivitas Trending Top U",
+        "Deposit →"
+      ]
+    },
+    {
+      "name": "02_Trending",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "text×4",
+        "instance×2"
+      ],
+      "names": [
+        "Trending",
+        "Global Crypto Reksadana ",
+        "Status Bar",
+        "Home Indicator",
+        "Aktivitas Trending Top U",
+        "Buka GOTO →"
+      ]
+    },
+    {
+      "name": "03_Detail_Saham",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×2",
+        "vector×1"
+      ],
+      "names": [
+        "GOTO",
+        "GoTo Gojek Tokopedia Rp1",
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Logo_GOTO"
+      ]
+    },
+    {
+      "name": "04_Top_Up_Metode",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3"
+      ],
+      "names": [
+        "Top Up",
+        "Dana Saya Rp2.125.000 Pi",
+        "Status Bar",
+        "Home Indicator",
+        "Button",
+        "Aktivitas Trending Top U"
+      ]
+    },
+    {
+      "name": "05_Top_Up_Nominal",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×3"
+      ],
+      "names": [
+        "Top Up",
+        "1 Masukkan Nominal 2 Pem",
+        "Status Bar",
+        "Home Indicator",
+        "Text Field",
+        "Button"
+      ]
+    },
+    {
+      "name": "06_Top_Up_Pembayaran",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3",
+        "instance×3"
+      ],
+      "names": [
+        "Selesaikan Pembayaran",
+        "Silakan selesaikan prose",
+        "Status Bar",
+        "Home Indicator",
+        "Button",
+        "1. Catat kode pembayaran"
+      ]
+    }
+  ]
+}

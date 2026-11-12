@@ -1,0 +1,212 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "rectangle×2",
+        "text×2"
+      ],
+      "names": [
+        "Backdrop",
+        "Illustration_Runners",
+        "Scrim",
+        "Status Bar",
+        "Home Indicator",
+        "Heading"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×5",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Skip",
+        "Illustration_Onboarding_",
+        "Title"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "375×812",
+      "nodes": 18,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×5",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Logo_App",
+        "Heading",
+        "Email field"
+      ]
+    },
+    {
+      "name": "04_Verify_Email",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Illustration_Verify_Emai",
+        "Heading",
+        "Body"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "375×1220",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×14"
+      ],
+      "names": [
+        "Header Home",
+        "Today Card",
+        "Stat Card · Steps",
+        "Stat Card · Earned Point",
+        "Daily Goal Card",
+        "Promo Banner"
+      ]
+    },
+    {
+      "name": "06_History",
+      "size": "375×880",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×11"
+      ],
+      "names": [
+        "Header",
+        "Summary Bar",
+        "History Row",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "07_Store",
+      "size": "375×812",
+      "nodes": 24,
+      "max_depth": 1,
+      "instances": 24,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×24"
+      ],
+      "names": [
+        "Header",
+        "Category · New",
+        "Category · Men",
+        "Category · Women",
+        "Category · Kids",
+        "Category · Equip"
+      ]
+    },
+    {
+      "name": "08_Address_Empty",
+      "size": "375×812",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×5"
+      ],
+      "names": [
+        "Header",
+        "Empty State",
+        "Add Address",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "09_New_Wallet",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Heading",
+        "Option · Bank Account",
+        "Option · Card",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "10_Account_Updated",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "Account · Harbor Bank",
+        "Account · Crescent Islam",
+        "Account · Union Gulf Ban",
+        "Add New Account",
+        "Dim Overlay"
+      ]
+    }
+  ]
+}

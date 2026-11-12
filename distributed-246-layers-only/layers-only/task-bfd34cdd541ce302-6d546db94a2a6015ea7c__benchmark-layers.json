@@ -1,0 +1,372 @@
+{
+  "board_count": 17,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "428×926",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "rectangle×1",
+        "text×1"
+      ],
+      "names": [
+        "Photo_Welcome",
+        "Photo Fade",
+        "Logo_Musium_Wordmark",
+        "Welcome message",
+        "Page Indicator",
+        "Button · Get Started"
+      ]
+    },
+    {
+      "name": "02_Sign_In_Options",
+      "size": "428×926",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×7",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Content",
+        "Logo_Musium_Mark",
+        "Spacer"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "428×926",
+      "nodes": 27,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×11",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Content",
+        "Logo_Musium_Mark",
+        "Spacer"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "428×980",
+      "nodes": 30,
+      "max_depth": 4,
+      "instances": 18,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "frame×12"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header Home",
+        "Content",
+        "Section · Based on your ",
+        "Spacer"
+      ]
+    },
+    {
+      "name": "05_Explore",
+      "size": "428×926",
+      "nodes": 29,
+      "max_depth": 4,
+      "instances": 17,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "frame×12"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header Brand",
+        "Content",
+        "Search Field",
+        "Spacer"
+      ]
+    },
+    {
+      "name": "06_Library",
+      "size": "428×926",
+      "nodes": 25,
+      "max_depth": 3,
+      "instances": 16,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "frame×9"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header Brand",
+        "Content",
+        "Filter Chips",
+        "Chip · Folders"
+      ]
+    },
+    {
+      "name": "07_Library_Folders",
+      "size": "428×926",
+      "nodes": 26,
+      "max_depth": 3,
+      "instances": 16,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "frame×10"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header Brand",
+        "Content",
+        "Filter Chips",
+        "Chip · Folders"
+      ]
+    },
+    {
+      "name": "08_Folder_Moods",
+      "size": "428×926",
+      "nodes": 19,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×8"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header Back",
+        "Content",
+        "Row · Add New Playlist",
+        "Spacer"
+      ]
+    },
+    {
+      "name": "09_Playlist",
+      "size": "428×980",
+      "nodes": 29,
+      "max_depth": 4,
+      "instances": 14,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "frame×13",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header Back",
+        "Content",
+        "Cover_Lofi_Loft",
+        "Spacer"
+      ]
+    },
+    {
+      "name": "10_Now_Playing",
+      "size": "428×926",
+      "nodes": 12,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×1",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header Player",
+        "Cover_Grainy_Days",
+        "Track Info",
+        "Progress Bar"
+      ]
+    },
+    {
+      "name": "11_Queue",
+      "size": "428×926",
+      "nodes": 26,
+      "max_depth": 3,
+      "instances": 13,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×9",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header Player",
+        "Content",
+        "Label row",
+        "now playing :"
+      ]
+    },
+    {
+      "name": "12_Equalizer",
+      "size": "428×926",
+      "nodes": 24,
+      "max_depth": 2,
+      "instances": 18,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "frame×3",
+        "text×2",
+        "line×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header Back",
+        "Output Selector",
+        "PRESETS",
+        "Presets"
+      ]
+    },
+    {
+      "name": "15_Add_To_Playlist",
+      "size": "428×926",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header Back",
+        "Search Field",
+        "Content",
+        "Row · current favorites"
+      ]
+    },
+    {
+      "name": "16_New_Playlist",
+      "size": "428×926",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×2"
+      ],
+      "names": [
+        "Backdrop · 15_Add_To_Pla",
+        "Header Back",
+        "Search Field",
+        "Content",
+        "Row · current favorites",
+        "Row · 3:00am vibes"
+      ]
+    },
+    {
+      "name": "13_Sleep_Timer",
+      "size": "428×926",
+      "nodes": 24,
+      "max_depth": 3,
+      "instances": 19,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "frame×3",
+        "text×2"
+      ],
+      "names": [
+        "Backdrop · 10_Now_Playin",
+        "Header Player",
+        "Cover_Grainy_Days",
+        "Track Info",
+        "Progress Bar",
+        "Player Controls"
+      ]
+    },
+    {
+      "name": "14_Song_Menu",
+      "size": "428×926",
+      "nodes": 32,
+      "max_depth": 3,
+      "instances": 27,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×27",
+        "frame×4",
+        "text×1"
+      ],
+      "names": [
+        "Backdrop · 10_Now_Playin",
+        "Header Player",
+        "Cover_Grainy_Days",
+        "Track Info",
+        "Progress Bar",
+        "Player Controls"
+      ]
+    },
+    {
+      "name": "17_Stats",
+      "size": "428×926",
+      "nodes": 20,
+      "max_depth": 2,
+      "instances": 17,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header Back",
+        "Tabs",
+        "Tab · Tracks",
+        "Tab · Artists"
+      ]
+    }
+  ]
+}

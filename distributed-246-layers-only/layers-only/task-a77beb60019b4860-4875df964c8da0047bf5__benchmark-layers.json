@@ -1,0 +1,225 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Sign_In",
+      "size": "375×812",
+      "nodes": 18,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×6",
+        "frame×3"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Frame",
+        "Logo_Mark",
+        "Audio",
+        "It’s modular and designe",
+        "Email"
+      ]
+    },
+    {
+      "name": "02_Sign_Up",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×6",
+        "text×5"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Frame",
+        "Logo_Mark",
+        "Audio",
+        "It’s modular and designe",
+        "Email"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "375×812",
+      "nodes": 42,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "instance×13",
+        "frame×11"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Menu",
+        "Logo_Mark",
+        "Audio",
+        "Avatar_User"
+      ]
+    },
+    {
+      "name": "04_Search",
+      "size": "375×812",
+      "nodes": 40,
+      "max_depth": 2,
+      "instances": 19,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×15",
+        "frame×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Search",
+        "Icon_Cart",
+        "Search headphone"
+      ]
+    },
+    {
+      "name": "05_Explore_Products",
+      "size": "375×812",
+      "nodes": 60,
+      "max_depth": 3,
+      "instances": 23,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "instance×23",
+        "frame×12"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Text",
+        "Icon_Cart",
+        "Headphone"
+      ]
+    },
+    {
+      "name": "06_Filter",
+      "size": "375×812",
+      "nodes": 97,
+      "max_depth": 3,
+      "instances": 30,
+      "texts": 41,
+      "images": 0,
+      "types": [
+        "text×41",
+        "instance×30",
+        "frame×26"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Text",
+        "Icon_Cart",
+        "Headphone"
+      ]
+    },
+    {
+      "name": "07_Product_Overview",
+      "size": "375×812",
+      "nodes": 62,
+      "max_depth": 3,
+      "instances": 30,
+      "texts": 23,
+      "images": 0,
+      "types": [
+        "instance×30",
+        "text×23",
+        "frame×9"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Text",
+        "Icon_Cart",
+        "USD 350"
+      ]
+    },
+    {
+      "name": "08_Product_Features",
+      "size": "375×812",
+      "nodes": 24,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "instance×7",
+        "frame×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Text",
+        "Icon_Cart",
+        "USD 350"
+      ]
+    },
+    {
+      "name": "09_Shopping_Cart",
+      "size": "375×812",
+      "nodes": 26,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×9",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Shopping Cart",
+        "Icon_Trash",
+        "Cart row"
+      ]
+    },
+    {
+      "name": "10_Profile",
+      "size": "375×812",
+      "nodes": 38,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "frame×14",
+        "text×13",
+        "instance×11"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Profile",
+        "Avatar_User",
+        "Andrea Halim"
+      ]
+    }
+  ]
+}

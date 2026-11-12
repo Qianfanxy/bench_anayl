@@ -1,0 +1,231 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Illustration_Runners",
+        "Rectangle",
+        "Running App",
+        "Run and earn with our ap",
+        "Button",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4",
+        "ellipse×3"
+      ],
+      "names": [
+        "Icon_Arrow_Left",
+        "Skip",
+        "Illustration_Onboarding_",
+        "Run",
+        "Track every step of your",
+        "Ellipse"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×7",
+        "rectangle×3"
+      ],
+      "names": [
+        "Icon_Arrow_Left",
+        "Logo_App",
+        "Log In",
+        "Rectangle",
+        "dani@example.com",
+        "Password"
+      ]
+    },
+    {
+      "name": "04_Verify_Email",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×4",
+        "rectangle×4"
+      ],
+      "names": [
+        "Icon_Arrow_Left",
+        "Illustration_Verify_Emai",
+        "Verify your email",
+        "We’ve sent a 4-digit cod",
+        "Rectangle",
+        "3"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "375×1190",
+      "nodes": 60,
+      "max_depth": 1,
+      "instances": 17,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "text×28",
+        "instance×17",
+        "rectangle×12",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Menu",
+        "Avatar_Daniela",
+        "HELLO!",
+        "Daniela",
+        "Icon_Inbox"
+      ]
+    },
+    {
+      "name": "06_History",
+      "size": "375×1190",
+      "nodes": 45,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "text×28",
+        "instance×8",
+        "rectangle×8",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back_Square",
+        "History",
+        "Icon_Inbox",
+        "Icon_Notification",
+        "Ellipse"
+      ]
+    },
+    {
+      "name": "07_Store",
+      "size": "375×1190",
+      "nodes": 63,
+      "max_depth": 1,
+      "instances": 21,
+      "texts": 30,
+      "images": 0,
+      "types": [
+        "text×30",
+        "instance×21",
+        "rectangle×11",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back_Square",
+        "Store",
+        "Icon_Inbox",
+        "Icon_Notification",
+        "Ellipse"
+      ]
+    },
+    {
+      "name": "08_Address_Empty",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4",
+        "ellipse×1",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back_Square",
+        "Address",
+        "Icon_Inbox",
+        "Icon_Notification",
+        "Ellipse"
+      ]
+    },
+    {
+      "name": "09_New_Wallet",
+      "size": "375×812",
+      "nodes": 18,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×6",
+        "rectangle×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back_Square",
+        "New Wallet",
+        "Icon_Inbox",
+        "Icon_Notification",
+        "Ellipse"
+      ]
+    },
+    {
+      "name": "10_Account_Updated",
+      "size": "375×812",
+      "nodes": 30,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×11",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back_Square",
+        "Select Account",
+        "Icon_Inbox",
+        "Icon_Notification",
+        "Ellipse"
+      ]
+    }
+  ]
+}

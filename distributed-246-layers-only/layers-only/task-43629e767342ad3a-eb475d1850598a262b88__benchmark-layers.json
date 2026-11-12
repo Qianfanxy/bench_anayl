@@ -1,0 +1,257 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "414×896",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Nectar_Logo_White"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "414×896",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Photo_Welcome_Delivery",
+        "Nectar_Carrot",
+        "Welcome to our store",
+        "Get your groceries in as"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "414×896",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Photo_Sign_In_Groceries",
+        "Get your groceries with ",
+        "Phone number",
+        "Flag_Bangladesh"
+      ]
+    },
+    {
+      "name": "04_Verification",
+      "size": "414×896",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 3,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "text×8",
+        "frame×4",
+        "instance×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "‹",
+        "Enter your 4-digit code",
+        "Code",
+        "Surface"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "414×896",
+      "nodes": 30,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×11",
+        "frame×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Nectar_Carrot",
+        "Dhaka, Banasree",
+        "Store / vertical scroll",
+        "Search / Empty"
+      ]
+    },
+    {
+      "name": "06_Product_Detail",
+      "size": "414×896",
+      "nodes": 22,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "instance×6",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Surface",
+        "‹",
+        "↗",
+        "Product_Red_Apple"
+      ]
+    },
+    {
+      "name": "07_Explore",
+      "size": "414×896",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Find Products",
+        "Search / Empty",
+        "Category / Fresh Fruits ",
+        "Category / Cooking Oil &"
+      ]
+    },
+    {
+      "name": "08_Beverages",
+      "size": "414×896",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Beverages",
+        "‹",
+        "☷",
+        "Product / Diet Coke"
+      ]
+    },
+    {
+      "name": "09_My_Cart",
+      "size": "414×896",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "My Cart",
+        "Cart Item / Bell Pepper ",
+        "Cart Item / Egg Chicken ",
+        "Cart Item / Organic Bana"
+      ]
+    },
+    {
+      "name": "10_Checkout_Overlay",
+      "size": "414×896",
+      "nodes": 38,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "text×17",
+        "frame×11",
+        "instance×10"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "My Cart",
+        "Cart Item / Bell Pepper ",
+        "Cart Item / Egg Chicken ",
+        "Cart Item / Organic Bana"
+      ]
+    },
+    {
+      "name": "11_Order_Accepted",
+      "size": "414×896",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Illustration_Order_Accep",
+        "Your Order has been acce",
+        "Your items have been pla",
+        "Track Order"
+      ]
+    },
+    {
+      "name": "12_Account",
+      "size": "414×896",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 13,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Avatar_Neutral",
+        "Afsar Hossen",
+        "✎",
+        "imshuvo97@gmail.com"
+      ]
+    }
+  ]
+}

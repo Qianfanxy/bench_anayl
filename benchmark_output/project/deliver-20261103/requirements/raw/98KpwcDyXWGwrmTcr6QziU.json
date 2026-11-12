@@ -1,0 +1,851 @@
+{
+ "file_key": "98KpwcDyXWGwrmTcr6QziU",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "2:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 56,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "2:5",
+     "name": "Chat Bot AI — AI assistant app",
+     "x": 64,
+     "y": 89,
+     "text": "Chat Bot AI — AI assistant app"
+    },
+    {
+     "id": "2:6",
+     "name": "Design the complete Chat Bot AI mobile app: Sam Rivera logs in, browses past chats, generated images and PDF exports, starts a new chat, continues a conversation that ends with a generated image, exports it as PDF, and manages profile, theme and cloud storage. Canvas 428 × 928, light mode only. Home, the conversation and Cloud Space may scroll vertically. Today is Dec 30, 2023. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 161,
+     "text": "Design the complete Chat Bot AI mobile app: Sam Rivera logs in, browses past chats, generated images and PDF exports, starts a new chat, continues a conversation that ends with a generated image, exports it as PDF, and manages profile, theme and cloud storage.\nCanvas 428 × 928, light mode only. Home, the conversation and Cloud Space may scroll vertically. Today is Dec 30, 2023. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "2:9",
+     "name": "How to work",
+     "x": 64,
+     "y": 385,
+     "text": "How to work"
+    },
+    {
+     "id": "2:10",
+     "name": "1. Build exactly the 12 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand primary color and the typefaces in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / warning / error / disabled, storage-breakdown colors), plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, sheets, dialogs, message bubbles and every business component as reusable components in your file. 5. Use the logo, generated images, PDF icon and icons from 04 · Media. People have no photos: use Avatar_Neutral or initials. 6. Copy and data must match “Fixed data” exactly. Long answers may be cut off where the frame ends; everything listed must still be visible. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 434,
+     "text": "1. Build exactly the 12 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typefaces in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / warning / error / disabled, storage-breakdown colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, sheets, dialogs, message bubbles and every business component as reusable components in your file.\n5. Use the logo, generated images, PDF icon and icons from 04 · Media. People have no photos: use Avatar_Neutral or initials.\n6. Copy and data must match “Fixed data” exactly. Long answers may be cut off where the frame ends; everything listed must still be visible. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "2:12",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 722,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "2:13",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 771,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "2:16",
+     "name": "01_Login",
+     "x": 89,
+     "y": 835,
+     "text": "01_Login"
+    },
+    {
+     "id": "2:23",
+     "name": "02_Home_Chats",
+     "x": 745,
+     "y": 835,
+     "text": "02_Home_Chats"
+    },
+    {
+     "id": "2:17",
+     "name": "Goal: Sign in to the account.",
+     "x": 89,
+     "y": 872,
+     "text": "Goal: Sign in to the account."
+    },
+    {
+     "id": "2:24",
+     "name": "Goal: Find a past conversation or start a new one.",
+     "x": 745,
+     "y": 872,
+     "text": "Goal: Find a past conversation or start a new one."
+    },
+    {
+     "id": "2:18",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 903,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "2:25",
+     "name": "MUST INCLUDE",
+     "x": 745,
+     "y": 903,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "2:19",
+     "name": "• Actions: Forgot Password? · Login · “Don’t have an account?” Sign Up • Brand: logo • Copy: “Login to your account” • Form: Email “sam.rivera@example.com” · Password entered (masked, can be shown or hidden) • Legal: Terms of use · Privacy policy • Social sign-in: “Or login with” · Facebook · Google",
+     "x": 89,
+     "y": 930,
+     "text": "• Actions: Forgot Password? · Login · “Don’t have an account?” Sign Up\n• Brand: logo\n• Copy: “Login to your account”\n• Form: Email “sam.rivera@example.com” · Password entered (masked, can be shown or hidden)\n• Legal: Terms of use · Privacy policy\n• Social sign-in: “Or login with” · Facebook · Google"
+    },
+    {
+     "id": "2:26",
+     "name": "• Account: avatar (profile entry) · back • Actions: New Topic • Chats: 7 chats, newest first, each with question, answer preview and time · the 3-days-ago chat shows its generated image (DATA) • Copy: “Start a new chat with Chat Bot AI” · logo • History: “History” · search “Search ...” • View: Chats / Archived / Images / Exports · current: Chats",
+     "x": 745,
+     "y": 930,
+     "text": "• Account: avatar (profile entry) · back\n• Actions: New Topic\n• Chats: 7 chats, newest first, each with question, answer preview and time · the 3-days-ago chat shows its generated image (DATA)\n• Copy: “Start a new chat with Chat Bot AI” · logo\n• History: “History” · search “Search ...”\n• View: Chats / Archived / Images / Exports · current: Chats"
+    },
+    {
+     "id": "2:20",
+     "name": "LINKS",
+     "x": 89,
+     "y": 1087,
+     "text": "LINKS"
+    },
+    {
+     "id": "2:27",
+     "name": "LINKS",
+     "x": 745,
+     "y": 1087,
+     "text": "LINKS"
+    },
+    {
+     "id": "2:21",
+     "name": "→ Login → 02_Home_Chats",
+     "x": 89,
+     "y": 1114,
+     "text": "→ Login → 02_Home_Chats"
+    },
+    {
+     "id": "2:28",
+     "name": "→ New Topic → 05_Chat_New → chat “Tell me the story…” → 06_Chat_Conversation → Images → 03 · Exports → 04 → avatar → 08_Profile_Settings",
+     "x": 745,
+     "y": 1114,
+     "text": "→ New Topic → 05_Chat_New\n→ chat “Tell me the story…” → 06_Chat_Conversation\n→ Images → 03 · Exports → 04\n→ avatar → 08_Profile_Settings"
+    },
+    {
+     "id": "2:30",
+     "name": "03_Home_Images",
+     "x": 89,
+     "y": 1272,
+     "text": "03_Home_Images"
+    },
+    {
+     "id": "2:37",
+     "name": "04_Home_Exports",
+     "x": 745,
+     "y": 1272,
+     "text": "04_Home_Exports"
+    },
+    {
+     "id": "2:31",
+     "name": "Goal: Browse every image the assistant generated.",
+     "x": 89,
+     "y": 1309,
+     "text": "Goal: Browse every image the assistant generated."
+    },
+    {
+     "id": "2:38",
+     "name": "Goal: Find a PDF export.",
+     "x": 745,
+     "y": 1309,
+     "text": "Goal: Find a PDF export."
+    },
+    {
+     "id": "2:32",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 1340,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "2:39",
+     "name": "MUST INCLUDE",
+     "x": 745,
+     "y": 1340,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "2:33",
+     "name": "• Account: same as 02 • Actions: New Topic • Copy: same as 02 • History: same as 02 • Images: 8 generated images (DATA) • View: same switch as 02 · current: Images",
+     "x": 89,
+     "y": 1367,
+     "text": "• Account: same as 02\n• Actions: New Topic\n• Copy: same as 02\n• History: same as 02\n• Images: 8 generated images (DATA)\n• View: same switch as 02 · current: Images"
+    },
+    {
+     "id": "2:40",
+     "name": "• Account: same as 02 • Actions: New Topic • Copy: same as 02 • Exports: 7 PDF files, newest first, each with PDF icon, title, date and size (DATA) • History: same as 02 • View: same switch as 02 · current: Exports",
+     "x": 745,
+     "y": 1367,
+     "text": "• Account: same as 02\n• Actions: New Topic\n• Copy: same as 02\n• Exports: 7 PDF files, newest first, each with PDF icon, title, date and size (DATA)\n• History: same as 02\n• View: same switch as 02 · current: Exports"
+    },
+    {
+     "id": "2:34",
+     "name": "LINKS",
+     "x": 89,
+     "y": 1503,
+     "text": "LINKS"
+    },
+    {
+     "id": "2:41",
+     "name": "LINKS",
+     "x": 745,
+     "y": 1503,
+     "text": "LINKS"
+    },
+    {
+     "id": "2:35",
+     "name": "→ Chats → 02 · Exports → 04 → New Topic → 05_Chat_New",
+     "x": 89,
+     "y": 1530,
+     "text": "→ Chats → 02 · Exports → 04\n→ New Topic → 05_Chat_New"
+    },
+    {
+     "id": "2:42",
+     "name": "→ Chats → 02 · Images → 03 → New Topic → 05_Chat_New",
+     "x": 745,
+     "y": 1530,
+     "text": "→ Chats → 02 · Images → 03\n→ New Topic → 05_Chat_New"
+    },
+    {
+     "id": "2:44",
+     "name": "05_Chat_New",
+     "x": 89,
+     "y": 1646,
+     "text": "05_Chat_New"
+    },
+    {
+     "id": "2:51",
+     "name": "06_Chat_Conversation",
+     "x": 745,
+     "y": 1646,
+     "text": "06_Chat_Conversation"
+    },
+    {
+     "id": "2:45",
+     "name": "Goal: Start a conversation from a blank chat.",
+     "x": 89,
+     "y": 1683,
+     "text": "Goal: Start a conversation from a blank chat."
+    },
+    {
+     "id": "2:52",
+     "name": "Goal: Read the conversation and act on messages.",
+     "x": 745,
+     "y": 1683,
+     "text": "Goal: Read the conversation and act on messages."
+    },
+    {
+     "id": "2:46",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 1714,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "2:53",
+     "name": "MUST INCLUDE",
+     "x": 745,
+     "y": 1714,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "2:47",
+     "name": "• Actions: menu · export · send • Assistant: logo · “Chat Bot AI 4.5” · “Premium account” • Copy: “How can I help you my friend? 😊” • Input: “Ask me anything...” (empty) • Suggestions: 4 prompts, each with title and detail (DATA)",
+     "x": 89,
+     "y": 1741,
+     "text": "• Actions: menu · export · send\n• Assistant: logo · “Chat Bot AI 4.5” · “Premium account”\n• Copy: “How can I help you my friend? 😊”\n• Input: “Ask me anything...” (empty)\n• Suggestions: 4 prompts, each with title and detail (DATA)"
+    },
+    {
+     "id": "2:54",
+     "name": "• Actions: menu · export · send • Assistant: logo · “Chat Bot AI 4.5” · “Premium account” • Input: “Ask me anything...” (empty) • Messages: 4 messages in this order — You · Chat Bot AI · You · Chat Bot AI (DATA) · each sender identified • Message actions: on your messages Edit · Copy; on the story Copy · Share · Regenerate; on the image Download · Share · Regenerate",
+     "x": 745,
+     "y": 1741,
+     "text": "• Actions: menu · export · send\n• Assistant: logo · “Chat Bot AI 4.5” · “Premium account”\n• Input: “Ask me anything...” (empty)\n• Messages: 4 messages in this order — You · Chat Bot AI · You · Chat Bot AI (DATA) · each sender identified\n• Message actions: on your messages Edit · Copy; on the story Copy · Share · Regenerate; on the image Download · Share · Regenerate"
+    },
+    {
+     "id": "2:48",
+     "name": "LINKS",
+     "x": 89,
+     "y": 1856,
+     "text": "LINKS"
+    },
+    {
+     "id": "2:49",
+     "name": "→ menu → 02_Home_Chats",
+     "x": 89,
+     "y": 1883,
+     "text": "→ menu → 02_Home_Chats"
+    },
+    {
+     "id": "2:55",
+     "name": "LINKS",
+     "x": 745,
+     "y": 1898,
+     "text": "LINKS"
+    },
+    {
+     "id": "2:56",
+     "name": "→ menu → 02_Home_Chats → export → 07_Export_PDF_Sheet",
+     "x": 745,
+     "y": 1925,
+     "text": "→ menu → 02_Home_Chats\n→ export → 07_Export_PDF_Sheet"
+    },
+    {
+     "id": "2:58",
+     "name": "07_Export_PDF_Sheet",
+     "x": 89,
+     "y": 2041,
+     "text": "07_Export_PDF_Sheet"
+    },
+    {
+     "id": "2:65",
+     "name": "08_Profile_Settings",
+     "x": 745,
+     "y": 2041,
+     "text": "08_Profile_Settings"
+    },
+    {
+     "id": "2:59",
+     "name": "Goal: Name and export the conversation as PDF.",
+     "x": 89,
+     "y": 2078,
+     "text": "Goal: Name and export the conversation as PDF."
+    },
+    {
+     "id": "2:66",
+     "name": "Goal: Check the account and reach settings.",
+     "x": 745,
+     "y": 2078,
+     "text": "Goal: Check the account and reach settings."
+    },
+    {
+     "id": "2:60",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 2109,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "2:67",
+     "name": "MUST INCLUDE",
+     "x": 745,
+     "y": 2109,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "2:61",
+     "name": "• Actions: close · Export • Copy: “Export as PDF” · “All your conversations with Chat Bot AI will be exported as PDF. Please choose a title for this file” • Form: Title “The story of a student” • Media: PDF_File_Icon • Presentation: sheet over 06_Chat_Conversation; the conversation stays behind it",
+     "x": 89,
+     "y": 2136,
+     "text": "• Actions: close · Export\n• Copy: “Export as PDF” · “All your conversations with Chat Bot AI will be exported as PDF. Please choose a title for this file”\n• Form: Title “The story of a student”\n• Media: PDF_File_Icon\n• Presentation: sheet over 06_Chat_Conversation; the conversation stays behind it"
+    },
+    {
+     "id": "2:68",
+     "name": "• Account: avatar · Sam Rivera · “premium account” · “278 days until the end of the premium account” • Actions: back · more • Copy: “Profile & Settings” • Footer: “Chat Bot AI - Version 2.0.5” · Terms of use · Privacy policy • Settings: Change password · Data & storage “83% Used” · Email sam.rivera@example.com · Send feedback (“Chat Bot AI can make mistakes. Consider checking important information and send us your feedback”) · Theme “System default”",
+     "x": 745,
+     "y": 2136,
+     "text": "• Account: avatar · Sam Rivera · “premium account” · “278 days until the end of the premium account”\n• Actions: back · more\n• Copy: “Profile & Settings”\n• Footer: “Chat Bot AI - Version 2.0.5” · Terms of use · Privacy policy\n• Settings: Change password · Data & storage “83% Used” · Email sam.rivera@example.com · Send feedback (“Chat Bot AI can make mistakes. Consider checking important information and send us your feedback”) · Theme “System default”"
+    },
+    {
+     "id": "2:62",
+     "name": "LINKS",
+     "x": 89,
+     "y": 2272,
+     "text": "LINKS"
+    },
+    {
+     "id": "2:63",
+     "name": "→ close → 06 · Export → 06",
+     "x": 89,
+     "y": 2299,
+     "text": "→ close → 06 · Export → 06"
+    },
+    {
+     "id": "2:69",
+     "name": "LINKS",
+     "x": 745,
+     "y": 2314,
+     "text": "LINKS"
+    },
+    {
+     "id": "2:70",
+     "name": "→ back → 02_Home_Chats → more → 09_Account_Actions_Sheet → Theme → 10_Theme_Sheet → Data & storage → 11_Cloud_Space",
+     "x": 745,
+     "y": 2341,
+     "text": "→ back → 02_Home_Chats\n→ more → 09_Account_Actions_Sheet\n→ Theme → 10_Theme_Sheet\n→ Data & storage → 11_Cloud_Space"
+    },
+    {
+     "id": "2:72",
+     "name": "09_Account_Actions_Sheet",
+     "x": 89,
+     "y": 2499,
+     "text": "09_Account_Actions_Sheet"
+    },
+    {
+     "id": "2:79",
+     "name": "10_Theme_Sheet",
+     "x": 745,
+     "y": 2499,
+     "text": "10_Theme_Sheet"
+    },
+    {
+     "id": "2:73",
+     "name": "Goal: Leave or remove the account.",
+     "x": 89,
+     "y": 2536,
+     "text": "Goal: Leave or remove the account."
+    },
+    {
+     "id": "2:80",
+     "name": "Goal: Choose the app theme.",
+     "x": 745,
+     "y": 2536,
+     "text": "Goal: Choose the app theme."
+    },
+    {
+     "id": "2:74",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 2567,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "2:81",
+     "name": "MUST INCLUDE",
+     "x": 745,
+     "y": 2567,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "2:75",
+     "name": "• Actions: Delete Account · Sign out • Presentation: sheet over 08_Profile_Settings; Profile stays behind it",
+     "x": 89,
+     "y": 2594,
+     "text": "• Actions: Delete Account · Sign out\n• Presentation: sheet over 08_Profile_Settings; Profile stays behind it"
+    },
+    {
+     "id": "2:82",
+     "name": "• Options: Dark mode · Light mode · System default · only one can be chosen · current: System default • Presentation: sheet over 08_Profile_Settings; Profile stays behind it",
+     "x": 745,
+     "y": 2594,
+     "text": "• Options: Dark mode · Light mode · System default · only one can be chosen · current: System default\n• Presentation: sheet over 08_Profile_Settings; Profile stays behind it"
+    },
+    {
+     "id": "2:76",
+     "name": "LINKS",
+     "x": 89,
+     "y": 2646,
+     "text": "LINKS"
+    },
+    {
+     "id": "2:83",
+     "name": "LINKS",
+     "x": 745,
+     "y": 2667,
+     "text": "LINKS"
+    },
+    {
+     "id": "2:77",
+     "name": "→ Sign out → 01_Login → tap outside → 08",
+     "x": 89,
+     "y": 2673,
+     "text": "→ Sign out → 01_Login\n→ tap outside → 08"
+    },
+    {
+     "id": "2:84",
+     "name": "→ tap outside → 08",
+     "x": 745,
+     "y": 2694,
+     "text": "→ tap outside → 08"
+    },
+    {
+     "id": "2:86",
+     "name": "11_Cloud_Space",
+     "x": 89,
+     "y": 2789,
+     "text": "11_Cloud_Space"
+    },
+    {
+     "id": "2:93",
+     "name": "12_Clear_Cache_Dialog",
+     "x": 745,
+     "y": 2789,
+     "text": "12_Clear_Cache_Dialog"
+    },
+    {
+     "id": "2:87",
+     "name": "Goal: See what uses storage and free some up.",
+     "x": 89,
+     "y": 2826,
+     "text": "Goal: See what uses storage and free some up."
+    },
+    {
+     "id": "2:94",
+     "name": "Goal: Confirm clearing the cache.",
+     "x": 745,
+     "y": 2826,
+     "text": "Goal: Confirm clearing the cache."
+    },
+    {
+     "id": "2:88",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 2857,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "2:95",
+     "name": "MUST INCLUDE",
+     "x": 745,
+     "y": 2857,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "2:89",
+     "name": "• Actions: back · more • Clear cache: “Clear cache” · 238.05 MB • Copy: “Cloud Space” • Delete all chats: “Delete all chats” · 12.48 GB · “Warning! By deleting all chats, all photos, conversations and documents will be lost and cannot be recovered!” • Exports: “Exports” · 37 items · 506 MB · note (DATA) · latest 3 exports, each with title, date, size and delete • Footer: same as 08 • Images: “Images” · 169 items · 8,225 MB · note (DATA) · 7 thumbnails • Usage: “12.48 GB of 15 GB used” · Chats 25% · Images 55% · Exports 3%",
+     "x": 89,
+     "y": 2884,
+     "text": "• Actions: back · more\n• Clear cache: “Clear cache” · 238.05 MB\n• Copy: “Cloud Space”\n• Delete all chats: “Delete all chats” · 12.48 GB · “Warning! By deleting all chats, all photos, conversations and documents will be lost and cannot be recovered!”\n• Exports: “Exports” · 37 items · 506 MB · note (DATA) · latest 3 exports, each with title, date, size and delete\n• Footer: same as 08\n• Images: “Images” · 169 items · 8,225 MB · note (DATA) · 7 thumbnails\n• Usage: “12.48 GB of 15 GB used” · Chats 25% · Images 55% · Exports 3%"
+    },
+    {
+     "id": "2:96",
+     "name": "• Actions: Cancel · Delete • Copy: “Clear cache” · “You are requesting to delete a cache with a size of 238.05 MB. Are you sure about your request?” • Presentation: dialog over 11_Cloud_Space; Cloud Space stays behind it",
+     "x": 745,
+     "y": 2884,
+     "text": "• Actions: Cancel · Delete\n• Copy: “Clear cache” · “You are requesting to delete a cache with a size of 238.05 MB. Are you sure about your request?”\n• Presentation: dialog over 11_Cloud_Space; Cloud Space stays behind it"
+    },
+    {
+     "id": "2:97",
+     "name": "LINKS",
+     "x": 745,
+     "y": 2978,
+     "text": "LINKS"
+    },
+    {
+     "id": "2:98",
+     "name": "→ Cancel → 11 · Delete → 11",
+     "x": 745,
+     "y": 3005,
+     "text": "→ Cancel → 11 · Delete → 11"
+    },
+    {
+     "id": "2:90",
+     "name": "LINKS",
+     "x": 89,
+     "y": 3104,
+     "text": "LINKS"
+    },
+    {
+     "id": "2:91",
+     "name": "→ back → 08_Profile_Settings → Clear cache → 12_Clear_Cache_Dialog",
+     "x": 89,
+     "y": 3131,
+     "text": "→ back → 08_Profile_Settings\n→ Clear cache → 12_Clear_Cache_Dialog"
+    },
+    {
+     "id": "2:100",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 3246,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "2:101",
+     "name": "• Entry: 01_Login → 02_Home_Chats. • Home has four views of one screen, switched in place: Chats (02), Archived (entry only), Images (03), Exports (04). All share the same header (back, avatar, “Start a new chat with Chat Bot AI”, New Topic, History search). • Chat: New Topic → 05_Chat_New; a chat → 06_Chat_Conversation; export → 07 (sheet over 06). Menu on 05 / 06 returns to 02. • Account: avatar → 08_Profile_Settings; more → 09 (sheet); Theme → 10 (sheet); Data & storage → 11_Cloud_Space; Clear cache → 12 (dialog over 11). • There is no tab bar. • Entry only (no screen required): Archived, Search, Forgot Password?, Sign Up, social sign-in, suggestions, Edit, Copy, Share, Regenerate, Download, Change password, Send feedback, Delete Account, Delete all chats, export delete, Terms of use, Privacy policy. • Do not add frames beyond the 12.",
+     "x": 64,
+     "y": 3295,
+     "text": "• Entry: 01_Login → 02_Home_Chats.\n• Home has four views of one screen, switched in place: Chats (02), Archived (entry only), Images (03), Exports (04). All share the same header (back, avatar, “Start a new chat with Chat Bot AI”, New Topic, History search).\n• Chat: New Topic → 05_Chat_New; a chat → 06_Chat_Conversation; export → 07 (sheet over 06). Menu on 05 / 06 returns to 02.\n• Account: avatar → 08_Profile_Settings; more → 09 (sheet); Theme → 10 (sheet); Data & storage → 11_Cloud_Space; Clear cache → 12 (dialog over 11).\n• There is no tab bar.\n• Entry only (no screen required): Archived, Search, Forgot Password?, Sign Up, social sign-in, suggestions, Edit, Copy, Share, Regenerate, Download, Change password, Send feedback, Delete Account, Delete all chats, export delete, Terms of use, Privacy policy.\n• Do not add frames beyond the 12."
+    },
+    {
+     "id": "2:103",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 3559,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "2:104",
+     "name": "Use these values verbatim. Message and preview texts below are complete; how much of a long answer is visible is your decision.",
+     "x": 64,
+     "y": 3608,
+     "text": "Use these values verbatim. Message and preview texts below are complete; how much of a long answer is visible is your decision."
+    },
+    {
+     "id": "2:107",
+     "name": "User",
+     "x": 85,
+     "y": 3668,
+     "text": "User"
+    },
+    {
+     "id": "2:110",
+     "name": "Chats (newest first)",
+     "x": 741,
+     "y": 3668,
+     "text": "Chats (newest first)"
+    },
+    {
+     "id": "2:108",
+     "name": "Sam Rivera · sam.rivera@example.com · premium account · 278 days left · avatar = Avatar_Neutral · Theme: System default · Data & storage 83% Used",
+     "x": 85,
+     "y": 3701,
+     "text": "Sam Rivera · sam.rivera@example.com · premium account · 278 days left · avatar = Avatar_Neutral · Theme: System default · Data & storage 83% Used"
+    },
+    {
+     "id": "2:111",
+     "name": "1. “How can I forget a bad memory?” — “Forgetting a bad memory entirely may be challenging, as memories are complex and deeply ingrained in the brain. However, there are strategies you can use to cope with and reduce the impact of negative memories.” — 28 mins ago 2. “Tell me the story of a student who was going to school and some interesting things happened to her on the way.” — “I’ll try to create that. Here is the image I generated based on your description. I hope you like it. 😊” + Gen_Student — 3 days ago 3. “What can I do to increase concentration while studying?” — “Improving concentration while studying involves adopting effective study habits, creating a conducive environment, and taking care of your overall well-being.” — 12 days ago 4. “What do you know about the French Revolution?” — “The French Revolution was a period of radical social and political change in France that lasted from 1789 to 1799.” — 16 days ago 5. “Who is Pope Francis?” — “As of my last knowledge update in January 2022, Pope Francis, born Jorge Mario Bergoglio, is the head of the Roman Catholic Church.” — 17 days ago 6. “How to get more followers on Instagram?” — “Increasing your followers on Instagram requires a combination of strategies to engage with your audience and attract new followers.” — 20 days ago 7. “Tell me about the latest trends in fashion design” — “As of my last knowledge update in January 2022, I can provide some general trends that were prevalent in fashion design.” — 2 months ago",
+     "x": 741,
+     "y": 3701,
+     "text": "1. “How can I forget a bad memory?” — “Forgetting a bad memory entirely may be challenging, as memories are complex and deeply ingrained in the brain. However, there are strategies you can use to cope with and reduce the impact of negative memories.” — 28 mins ago\n2. “Tell me the story of a student who was going to school and some interesting things happened to her on the way.” — “I’ll try to create that. Here is the image I generated based on your description. I hope you like it. 😊” + Gen_Student — 3 days ago\n3. “What can I do to increase concentration while studying?” — “Improving concentration while studying involves adopting effective study habits, creating a conducive environment, and taking care of your overall well-being.” — 12 days ago\n4. “What do you know about the French Revolution?” — “The French Revolution was a period of radical social and political change in France that lasted from 1789 to 1799.” — 16 days ago\n5. “Who is Pope Francis?” — “As of my last knowledge update in January 2022, Pope Francis, born Jorge Mario Bergoglio, is the head of the Roman Catholic Church.” — 17 days ago\n6. “How to get more followers on Instagram?” — “Increasing your followers on Instagram requires a combination of strategies to engage with your audience and attract new followers.” — 20 days ago\n7. “Tell me about the latest trends in fashion design” — “As of my last knowledge update in January 2022, I can provide some general trends that were prevalent in fashion design.” — 2 months ago"
+    },
+    {
+     "id": "2:113",
+     "name": "Images (03)",
+     "x": 85,
+     "y": 4229,
+     "text": "Images (03)"
+    },
+    {
+     "id": "2:116",
+     "name": "Exports (newest first)",
+     "x": 741,
+     "y": 4229,
+     "text": "Exports (newest first)"
+    },
+    {
+     "id": "2:114",
+     "name": "8 images in this order: Gen_Mug · Gen_Rat · Gen_Statue · Gen_Student · Gen_Statue · Gen_Mug · Gen_Rat · Gen_Student",
+     "x": 85,
+     "y": 4262,
+     "text": "8 images in this order: Gen_Mug · Gen_Rat · Gen_Statue · Gen_Student · Gen_Statue · Gen_Mug · Gen_Rat · Gen_Student"
+    },
+    {
+     "id": "2:117",
+     "name": "How can I forget a bad memory? · DEC 30, 2023 · 2.16 MB How to get more followers on Instagram? · DEC 16, 2023 · 158 KB Pope Francis · DEC 05, 2023 · 4.62 MB The effects of morning exercise on the body · NOV 04, 2023 · 75 KB New methods of advertising in Instagram · SEP 24, 2023 · 492 KB Saffron export business · SEP 08, 2023 · 169 KB The best cologne brands · AUG 16, 2023 · 27 KB",
+     "x": 741,
+     "y": 4262,
+     "text": "How can I forget a bad memory? · DEC 30, 2023 · 2.16 MB\nHow to get more followers on Instagram? · DEC 16, 2023 · 158 KB\nPope Francis · DEC 05, 2023 · 4.62 MB\nThe effects of morning exercise on the body · NOV 04, 2023 · 75 KB\nNew methods of advertising in Instagram · SEP 24, 2023 · 492 KB\nSaffron export business · SEP 08, 2023 · 169 KB\nThe best cologne brands · AUG 16, 2023 · 27 KB"
+    },
+    {
+     "id": "2:119",
+     "name": "New chat suggestions",
+     "x": 85,
+     "y": 4475,
+     "text": "New chat suggestions"
+    },
+    {
+     "id": "2:122",
+     "name": "Conversation (06)",
+     "x": 741,
+     "y": 4475,
+     "text": "Conversation (06)"
+    },
+    {
+     "id": "2:120",
+     "name": "Brainstorm names — for my fantasy football team with a frog theme Suggest some codenames — for a project introducing flexible work arrangements Write a SQL query — that adds a “status” column to an “orders” table Explain why popcorn pops — to a kid who loves watching it in the microwave",
+     "x": 85,
+     "y": 4508,
+     "text": "Brainstorm names — for my fantasy football team with a frog theme\nSuggest some codenames — for a project introducing flexible work arrangements\nWrite a SQL query — that adds a “status” column to an “orders” table\nExplain why popcorn pops — to a kid who loves watching it in the microwave"
+    },
+    {
+     "id": "2:123",
+     "name": "You: “Tell me the story of a student who was going to school and some interesting things happened to her on the way.” Chat Bot AI: the story “Once upon a time, in the quaint town of Meadowville, there lived a spirited high school student named Lily…” (full text: Story_Text in 04 · Media) You: “What a beautiful story it was! Imagine a student going to school. She has purple hair and shoes. Also, her hat and clothes are yellow and she wears glasses. She has a phone in her left hand.” Chat Bot AI: “I’ll try to create that. Here is the image I generated based on your description. I hope you like it. 😊” + Gen_Student",
+     "x": 741,
+     "y": 4508,
+     "text": "You: “Tell me the story of a student who was going to school and some interesting things happened to her on the way.”\nChat Bot AI: the story “Once upon a time, in the quaint town of Meadowville, there lived a spirited high school student named Lily…” (full text: Story_Text in 04 · Media)\nYou: “What a beautiful story it was! Imagine a student going to school. She has purple hair and shoes. Also, her hat and clothes are yellow and she wears glasses. She has a phone in her left hand.”\nChat Bot AI: “I’ll try to create that. Here is the image I generated based on your description. I hope you like it. 😊” + Gen_Student"
+    },
+    {
+     "id": "2:125",
+     "name": "Cloud Space (11)",
+     "x": 85,
+     "y": 4763,
+     "text": "Cloud Space (11)"
+    },
+    {
+     "id": "2:128",
+     "name": "Login",
+     "x": 741,
+     "y": 4763,
+     "text": "Login"
+    },
+    {
+     "id": "2:126",
+     "name": "12.48 GB of 15 GB used · Chats 25% · Images 55% · Exports 3% Images · 169 Item · 8,225 MB · “These Images are in the cache and by deleting them, the original file will not be lost. You can download the image again by going to the relevant topic” · thumbnails Gen_Mug, Gen_Rat, Gen_Statue, Gen_Student, Gen_Mug, Gen_Rat, Gen_Statue Exports · 37 Item · 506 MB · “The following PDFs cannot be recovered after deletion. But you can get the PDF output again by going to the relevant chat.” · latest 3: How can I forget a bad memory? DEC 30, 2023 2.16 MB · Pope Francis DEC 05, 2023 4.62 MB · The effects of morning exercise on the body NOV 04, 2023 75 KB Clear cache 238.05 MB · Delete all chats 12.48 GB",
+     "x": 85,
+     "y": 4796,
+     "text": "12.48 GB of 15 GB used · Chats 25% · Images 55% · Exports 3%\nImages · 169 Item · 8,225 MB · “These Images are in the cache and by deleting them, the original file will not be lost. You can download the image again by going to the relevant topic” · thumbnails Gen_Mug, Gen_Rat, Gen_Statue, Gen_Student, Gen_Mug, Gen_Rat, Gen_Statue\nExports · 37 Item · 506 MB · “The following PDFs cannot be recovered after deletion. But you can get the PDF output again by going to the relevant chat.” · latest 3: How can I forget a bad memory? DEC 30, 2023 2.16 MB · Pope Francis DEC 05, 2023 4.62 MB · The effects of morning exercise on the body NOV 04, 2023 75 KB\nClear cache 238.05 MB · Delete all chats 12.48 GB"
+    },
+    {
+     "id": "2:129",
+     "name": "Email sam.rivera@example.com · Password masked (8 characters) · “Login to your account” · “Don’t have an account? Sign Up” · “Or login with” Google / Facebook · Terms of use | Privacy policy",
+     "x": 741,
+     "y": 4796,
+     "text": "Email sam.rivera@example.com · Password masked (8 characters) · “Login to your account” · “Don’t have an account? Sign Up” · “Or login with” Google / Facebook · Terms of use | Privacy policy"
+    },
+    {
+     "id": "2:131",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 5075,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "2:134",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 5148,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "2:137",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 5148,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "2:135",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand primary color + Bricolage Grotesque and Nunito • Media: logo, generated images, PDF icon, icons, neutral avatar • Default Button, default Text Field, platform shell",
+     "x": 88,
+     "y": 5182,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand primary color + Bricolage Grotesque and Nunito\n• Media: logo, generated images, PDF icon, icons, neutral avatar\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "2:138",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, surfaces, semantic and storage-breakdown colors • Type scale, spacing, radii, elevation • All states: selected view and theme, pressed, disabled, focused, destructive • Headers, message bubbles, chat list items, sheets, dialogs and all business components • How storage usage is visualised",
+     "x": 756,
+     "y": 5182,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, surfaces, semantic and storage-breakdown colors\n• Type scale, spacing, radii, elevation\n• All states: selected view and theme, pressed, disabled, focused, destructive\n• Headers, message bubbles, chat list items, sheets, dialogs and all business components\n• How storage usage is visualised"
+    },
+    {
+     "id": "2:140",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 5415,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "2:141",
+     "name": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference.",
+     "x": 64,
+     "y": 5464,
+     "text": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference."
+    },
+    {
+     "id": "2:142",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current view and theme, sender of each message, sheets and dialogs over their parent, destructive actions)",
+     "x": 64,
+     "y": 5503,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current view and theme, sender of each message, sheets and dialogs over their parent, destructive actions)"
+    },
+    {
+     "id": "2:143",
+     "name": "Deliverable: the link to your own Figma file containing the 12 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 5687,
+     "text": "Deliverable: the link to your own Figma file containing the 12 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "3:3",
+     "name": "Foundations · Chat Bot AI",
+     "x": 64,
+     "y": 64,
+     "text": "Foundations · Chat Bot AI"
+    },
+    {
+     "id": "3:4",
+     "name": "Fixed: the brand primary color and the two typefaces below — they carry the Chat Bot AI identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, semantic colors (success, warning, error, disabled), storage-breakdown colors, type scale, weights per role, spacing, radii and elevation.",
+     "x": 64,
+     "y": 152,
+     "text": "Fixed: the brand primary color and the two typefaces below — they carry the Chat Bot AI identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, semantic colors (success, warning, error, disabled), storage-breakdown colors, type scale, weights per role, spacing, radii and elevation."
+    },
+    {
+     "id": "3:6",
+     "name": "Brand color",
+     "x": 64,
+     "y": 264,
+     "text": "Brand color"
+    },
+    {
+     "id": "3:9",
+     "name": "Brand primary",
+     "x": 64,
+     "y": 454,
+     "text": "Brand primary"
+    },
+    {
+     "id": "3:10",
+     "name": "#612A74",
+     "x": 64,
+     "y": 486,
+     "text": "#612A74"
+    },
+    {
+     "id": "3:11",
+     "name": "The Chat Bot AI brand color. Where and how much to use it is your decision.",
+     "x": 64,
+     "y": 515,
+     "text": "The Chat Bot AI brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "3:13",
+     "name": "Typefaces",
+     "x": 64,
+     "y": 618,
+     "text": "Typefaces"
+    },
+    {
+     "id": "3:14",
+     "name": "Bricolage Grotesque",
+     "x": 64,
+     "y": 660,
+     "text": "Bricolage Grotesque"
+    },
+    {
+     "id": "3:15",
+     "name": "Nunito Aa Bb Cc 0123456789 12.48 GB",
+     "x": 600,
+     "y": 732,
+     "text": "Nunito  Aa Bb Cc 0123456789  12.48 GB"
+    },
+    {
+     "id": "3:16",
+     "name": "Bricolage Grotesque comes from the source kit. Nunito replaces SF Pro Rounded (Apple-only, not available on every machine). Which face, size, weight and line height goes where is yours to define as a consistent type scale.",
+     "x": 64,
+     "y": 1875,
+     "text": "Bricolage Grotesque comes from the source kit. Nunito replaces SF Pro Rounded (Apple-only, not available on every machine). Which face, size, weight and line height goes where is yours to define as a consistent type scale."
+    },
+    {
+     "id": "3:17",
+     "name": "Canvas: 428 × 928 (iPhone). Light mode only.",
+     "x": 64,
+     "y": 1961,
+     "text": "Canvas: 428 × 928 (iPhone). Light mode only."
+    }
+   ]
+  }
+ ]
+}

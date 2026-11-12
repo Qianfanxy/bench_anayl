@@ -1,0 +1,118 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "03_Wallet",
+      "size": "375×812",
+      "nodes": 44,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "text×20",
+        "frame×10",
+        "instance×9",
+        "rectangle×5"
+      ],
+      "names": [
+        "bg",
+        "Header",
+        "back-btn",
+        "Wallet",
+        "add-card-btn",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "04_Add_Card",
+      "size": "375×812",
+      "nodes": 31,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "frame×9",
+        "rectangle×4",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Rectangle",
+        "Sheet",
+        "Icon_Close",
+        "Add new card"
+      ]
+    },
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo",
+        "Illustration",
+        "Headline",
+        "Get Started"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "375×812",
+      "nodes": 51,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "frame×12",
+        "rectangle×11",
+        "instance×7",
+        "vector×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "rect",
+        "Status Bar",
+        "Home Indicator",
+        "greet",
+        "home",
+        "avatar-wrap"
+      ]
+    },
+    {
+      "name": "05_Payment",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3",
+        "frame×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Home Indicator",
+        "Rectangle",
+        "Cancel",
+        "Payment"
+      ]
+    }
+  ]
+}

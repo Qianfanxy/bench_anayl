@@ -1,0 +1,1 @@
+The user is asking for the final report with no remaining tool needs: file URL, workspace page 5:2, the 12 frame IDs (01_Splash 11:316 through 11_Profile 11:945), and the stated limitations on navigation, flow start, and scrolling.

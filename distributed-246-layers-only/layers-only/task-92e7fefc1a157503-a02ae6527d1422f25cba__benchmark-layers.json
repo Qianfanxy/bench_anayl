@@ -1,0 +1,231 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Sign_In",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×4",
+        "rectangle×1"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Rectangle",
+        "Logo_Mark",
+        "Audio",
+        "It's modular and designe",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "02_Sign_Up",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×4",
+        "frame×3",
+        "rectangle×1"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Rectangle",
+        "Logo_Mark",
+        "Audio",
+        "It's modular and designe",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "375×812",
+      "nodes": 44,
+      "max_depth": 2,
+      "instances": 15,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "text×20",
+        "instance×15",
+        "frame×9"
+      ],
+      "names": [
+        "Icon_Menu",
+        "Logo_Mark",
+        "Audio",
+        "Avatar_User",
+        "Greeting",
+        "What are you looking for"
+      ]
+    },
+    {
+      "name": "04_Search",
+      "size": "375×812",
+      "nodes": 37,
+      "max_depth": 2,
+      "instances": 18,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×15",
+        "rectangle×3",
+        "frame×1"
+      ],
+      "names": [
+        "Icon_Back",
+        "Search",
+        "Icon_Cart",
+        "Search Field",
+        "Search headphone",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "05_Explore_Products",
+      "size": "375×1032",
+      "nodes": 57,
+      "max_depth": 2,
+      "instances": 23,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "instance×23",
+        "frame×10"
+      ],
+      "names": [
+        "Icon_Back",
+        "Icon_Cart",
+        "Headphone",
+        "MOD Wireless",
+        "Filter button",
+        "Icon_Filter"
+      ]
+    },
+    {
+      "name": "06_Filter",
+      "size": "375×812",
+      "nodes": 38,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "text×17",
+        "frame×13",
+        "instance×6",
+        "rectangle×2"
+      ],
+      "names": [
+        "Icon_Back",
+        "Icon_Cart",
+        "Headphone",
+        "Rectangle",
+        "Filter · Bottom Sheet",
+        "Filter"
+      ]
+    },
+    {
+      "name": "07_Product_Overview",
+      "size": "375×1750",
+      "nodes": 60,
+      "max_depth": 2,
+      "instances": 30,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "instance×30",
+        "text×22",
+        "rectangle×5",
+        "frame×3"
+      ],
+      "names": [
+        "Photo_Headphone_Detail",
+        "Photo_Detail_Closeup",
+        "Icon_Back",
+        "Icon_Cart",
+        "MOD-2 / HD WIRELESS",
+        "USD 350"
+      ]
+    },
+    {
+      "name": "08_Product_Features",
+      "size": "375×1250",
+      "nodes": 20,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "instance×7",
+        "frame×1",
+        "rectangle×1"
+      ],
+      "names": [
+        "Icon_Back",
+        "Icon_Cart",
+        "MOD-2 / HD WIRELESS",
+        "USD 350",
+        "Tabs",
+        "Overview"
+      ]
+    },
+    {
+      "name": "09_Shopping_Cart",
+      "size": "375×812",
+      "nodes": 27,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×9",
+        "frame×2",
+        "rectangle×2"
+      ],
+      "names": [
+        "Icon_Back",
+        "Shopping Cart",
+        "Icon_Trash",
+        "Photo_Headphone_Comfort",
+        "MOD-2 Comfort Wireless",
+        "USD 270"
+      ]
+    },
+    {
+      "name": "10_Profile",
+      "size": "375×812",
+      "nodes": 24,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "rectangle×7",
+        "instance×4"
+      ],
+      "names": [
+        "Icon_Back",
+        "Profile",
+        "Avatar_User",
+        "Andrea Halim",
+        "andrea.halim@example.com",
+        "General"
+      ]
+    }
+  ]
+}

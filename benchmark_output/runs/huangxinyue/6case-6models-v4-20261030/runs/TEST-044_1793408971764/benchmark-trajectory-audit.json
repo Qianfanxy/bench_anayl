@@ -1,0 +1,28 @@
+{
+  "kind": "benchmark-legacy-media-audit/v1",
+  "checked_at": "2026-10-31T01:12:01.342263+00:00",
+  "raw_audit": {
+    "ok": false,
+    "errors": [
+      "no non-empty thinking signature",
+      "Figma create_new_file was not called",
+      "no screenshot <image> tag"
+    ],
+    "require_prototype": false
+  },
+  "audit": {
+    "ok": false,
+    "errors": [
+      "no non-empty thinking signature",
+      "Figma create_new_file was not called",
+      "no screenshot <image> tag"
+    ],
+    "require_prototype": false,
+    "raw_errors": [
+      "no non-empty thinking signature",
+      "Figma create_new_file was not called",
+      "no screenshot <image> tag"
+    ],
+    "media_warnings": []
+  }
+}

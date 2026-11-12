@@ -1,0 +1,331 @@
+{
+  "board_count": 15,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "375×812",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×3",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Stylish_Logo",
+        "FASHION. EVERY DAY."
+      ]
+    },
+    {
+      "name": "02_Onboarding_Choose_Products",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "text×5",
+        "frame×4",
+        "instance×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "1 / 3",
+        "Skip",
+        "Surface",
+        "Onboarding_Choose_Produc"
+      ]
+    },
+    {
+      "name": "03_Onboarding_Make_Payment",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "text×6",
+        "frame×4",
+        "instance×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "2 / 3",
+        "Skip",
+        "Surface",
+        "Onboarding_Make_Payment"
+      ]
+    },
+    {
+      "name": "04_Onboarding_Get_Your_Order",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "text×6",
+        "frame×4",
+        "instance×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "3 / 3",
+        "Skip",
+        "Surface",
+        "Onboarding_Get_Your_Orde"
+      ]
+    },
+    {
+      "name": "05_Sign_In",
+      "size": "375×812",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×5",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Welcome Back!",
+        "Username or Email",
+        "Password",
+        "Icon_Eye"
+      ]
+    },
+    {
+      "name": "06_Sign_Up",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×5",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Create an account",
+        "Username or Email",
+        "Password",
+        "Confirm Password"
+      ]
+    },
+    {
+      "name": "07_Forgot_Password",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Forgot password?",
+        "Enter your email address",
+        "* We will send you a mes"
+      ]
+    },
+    {
+      "name": "08_Get_Started",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Get_Started_Photo",
+        "Surface",
+        "You want Authentic, here",
+        "Find it here, buy it now"
+      ]
+    },
+    {
+      "name": "09_Home",
+      "size": "375×812",
+      "nodes": 128,
+      "max_depth": 5,
+      "instances": 27,
+      "texts": 75,
+      "images": 0,
+      "types": [
+        "text×75",
+        "instance×27",
+        "frame×26"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Scroll",
+        "Content",
+        "Header / Store",
+        "Search / Empty"
+      ]
+    },
+    {
+      "name": "10_Product_List",
+      "size": "375×812",
+      "nodes": 111,
+      "max_depth": 5,
+      "instances": 21,
+      "texts": 60,
+      "images": 0,
+      "types": [
+        "text×60",
+        "frame×30",
+        "instance×21"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Scroll",
+        "Content",
+        "Header / Store",
+        "Search / Empty"
+      ]
+    },
+    {
+      "name": "11_Product_Detail",
+      "size": "375×812",
+      "nodes": 83,
+      "max_depth": 5,
+      "instances": 22,
+      "texts": 40,
+      "images": 0,
+      "types": [
+        "text×40",
+        "instance×22",
+        "frame×21"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Scroll",
+        "Content",
+        "Header / Back",
+        "cart entry"
+      ]
+    },
+    {
+      "name": "12_Shopping_Bag",
+      "size": "375×812",
+      "nodes": 31,
+      "max_depth": 4,
+      "instances": 7,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "instance×7",
+        "frame×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Scroll",
+        "Content",
+        "Header / Back",
+        "Icon_Wishlist"
+      ]
+    },
+    {
+      "name": "13_Payment",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×7",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Scroll",
+        "Content",
+        "Header / Back",
+        "Order"
+      ]
+    },
+    {
+      "name": "14_Payment_Success_Overlay",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "text×10",
+        "instance×9",
+        "frame×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Scroll",
+        "Content",
+        "Header / Back",
+        "Order"
+      ]
+    },
+    {
+      "name": "15_Profile",
+      "size": "375×812",
+      "nodes": 33,
+      "max_depth": 3,
+      "instances": 15,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "instance×15",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Scroll",
+        "Content",
+        "Header / Back",
+        "Avatar_Illustrated"
+      ]
+    }
+  ]
+}

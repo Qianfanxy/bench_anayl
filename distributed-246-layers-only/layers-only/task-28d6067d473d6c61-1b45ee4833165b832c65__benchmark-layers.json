@@ -1,0 +1,223 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Illustration_Runners",
+        "Scrim",
+        "Content",
+        "Heading",
+        "Body",
+        "Button"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "375×812",
+      "nodes": 18,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "frame×8",
+        "instance×6",
+        "text×4"
+      ],
+      "names": [
+        "TopBar",
+        "Back",
+        "Icon_Arrow_Left",
+        "Spacer",
+        "Skip",
+        "Body"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "375×812",
+      "nodes": 32,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "frame×16",
+        "instance×12",
+        "text×4"
+      ],
+      "names": [
+        "TopBar",
+        "Back",
+        "Icon_Arrow_Left",
+        "Content",
+        "Logo_App",
+        "Heading"
+      ]
+    },
+    {
+      "name": "04_Verify_Email",
+      "size": "375×812",
+      "nodes": 21,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "frame×9",
+        "instance×9",
+        "text×3"
+      ],
+      "names": [
+        "TopBar",
+        "Back",
+        "Icon_Arrow_Left",
+        "Content",
+        "Illustration_Verify_Emai",
+        "Gap"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "375×980",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "frame×6",
+        "text×3"
+      ],
+      "names": [
+        "Header/Home",
+        "Content",
+        "TodayCard",
+        "StatsRow",
+        "StatCard",
+        "ProgressGoal"
+      ]
+    },
+    {
+      "name": "06_History",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×2"
+      ],
+      "names": [
+        "Header/Back",
+        "Content",
+        "SummaryBar",
+        "HistoryList",
+        "HistoryRow",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "07_Store",
+      "size": "375×812",
+      "nodes": 38,
+      "max_depth": 4,
+      "instances": 21,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "frame×12",
+        "text×5"
+      ],
+      "names": [
+        "Header/Back",
+        "Content",
+        "Categories",
+        "CategoryBubble",
+        "BrandSection",
+        "BrandHeader"
+      ]
+    },
+    {
+      "name": "08_Address_Empty",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×1"
+      ],
+      "names": [
+        "Header/Back",
+        "Content",
+        "EmptyState",
+        "Button",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "09_New_Wallet",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Header/Back",
+        "Content",
+        "Heading",
+        "Options",
+        "OptionRow",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "10_Account_Updated",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×4",
+        "text×1"
+      ],
+      "names": [
+        "Header/Back",
+        "Content",
+        "Accounts",
+        "AccountRow",
+        "AddNew",
+        "Label"
+      ]
+    }
+  ]
+}

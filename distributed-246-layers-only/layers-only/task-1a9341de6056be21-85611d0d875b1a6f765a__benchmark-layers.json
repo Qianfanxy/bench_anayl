@@ -1,0 +1,181 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×5876",
+      "nodes": 87,
+      "max_depth": 7,
+      "instances": 27,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "frame×30",
+        "text×29",
+        "instance×27",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "Hero",
+        "Photo_Home_Hero",
+        "Overlay",
+        "Hero Content",
+        "Category Label"
+      ]
+    },
+    {
+      "name": "02_Blog",
+      "size": "1440×3669",
+      "nodes": 21,
+      "max_depth": 3,
+      "instances": 14,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "frame×5",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "Featured Section",
+        "Featured Post",
+        "All Posts Section",
+        "Section Title",
+        "Post List"
+      ]
+    },
+    {
+      "name": "03_Blog_Post",
+      "size": "1440×3892",
+      "nodes": 33,
+      "max_depth": 4,
+      "instances": 9,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "instance×9",
+        "frame×9"
+      ],
+      "names": [
+        "Header",
+        "Post Header",
+        "Category Tag",
+        "Icon_Tag_Startup",
+        "Category",
+        "Post Title"
+      ]
+    },
+    {
+      "name": "04_About_Us",
+      "size": "1440×4364",
+      "nodes": 47,
+      "max_depth": 4,
+      "instances": 19,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "frame×18",
+        "text×10"
+      ],
+      "names": [
+        "Header",
+        "Intro",
+        "Intro Row",
+        "Intro Title",
+        "Eyebrow",
+        "Title"
+      ]
+    },
+    {
+      "name": "05_Category_Business",
+      "size": "1440×2028",
+      "nodes": 13,
+      "max_depth": 4,
+      "instances": 9,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×4"
+      ],
+      "names": [
+        "Header",
+        "Header Band",
+        "Category Content",
+        "Content Row",
+        "Post List",
+        "Post 1"
+      ]
+    },
+    {
+      "name": "06_Author",
+      "size": "1440×1674",
+      "nodes": 14,
+      "max_depth": 4,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×5",
+        "text×3"
+      ],
+      "names": [
+        "Header",
+        "Author Intro",
+        "Intro Row",
+        "Avatar_Andrew",
+        "Intro Text",
+        "Title"
+      ]
+    },
+    {
+      "name": "07_Contact",
+      "size": "1440×1476",
+      "nodes": 10,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "frame×3",
+        "text×3"
+      ],
+      "names": [
+        "Header",
+        "Contact Intro",
+        "Eyebrow",
+        "Title",
+        "Body",
+        "Contact Content"
+      ]
+    },
+    {
+      "name": "08_Privacy_Policy",
+      "size": "1440×1778",
+      "nodes": 10,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "text×5",
+        "instance×3",
+        "frame×2"
+      ],
+      "names": [
+        "Header",
+        "Header Band",
+        "Policy Body",
+        "Policy Text",
+        "Heading",
+        "Paragraph"
+      ]
+    }
+  ]
+}

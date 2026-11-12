@@ -1,0 +1,271 @@
+{
+  "run_id": "run_a2f914efccfb4f67",
+  "original_trajectory": "/mnt/afs_design/huangxinyue/bench-runs/10case-rerun3-kimi/runs/TEST-011_1793689356234/task-000001/trajectory.jsonl",
+  "indexing": "messages从0计；保留工具操作、结果、公开答复，未复制reasoning_content。",
+  "all_screenshot_calls": [
+    {
+      "message_index": 12,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 1400,
+        "nodeId": "3:15"
+      }
+    },
+    {
+      "message_index": 21,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "7:22"
+      }
+    },
+    {
+      "message_index": 23,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "7:22"
+      }
+    },
+    {
+      "message_index": 33,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "11:23"
+      }
+    },
+    {
+      "message_index": 43,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "13:36"
+      }
+    },
+    {
+      "message_index": 53,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "15:48"
+      }
+    },
+    {
+      "message_index": 53,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "17:65"
+      }
+    },
+    {
+      "message_index": 62,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "15:48"
+      }
+    },
+    {
+      "message_index": 62,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "13:36"
+      }
+    },
+    {
+      "message_index": 73,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "7:22"
+      }
+    },
+    {
+      "message_index": 73,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "11:23"
+      }
+    },
+    {
+      "message_index": 78,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "15:48"
+      }
+    },
+    {
+      "message_index": 86,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "15:48"
+      }
+    },
+    {
+      "message_index": 88,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "7:22"
+      }
+    },
+    {
+      "message_index": 88,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "11:23"
+      }
+    },
+    {
+      "message_index": 93,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "13:36"
+      }
+    },
+    {
+      "message_index": 93,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 812,
+        "nodeId": "17:65"
+      }
+    },
+    {
+      "message_index": 102,
+      "name": "mcp__figma__get_screenshot",
+      "arguments": {
+        "enableBase64Response": true,
+        "fileKey": "6ywbeCjGQ9xjP7DRG8vt97",
+        "maxDimension": 1400,
+        "nodeId": "11:37"
+      }
+    }
+  ],
+  "selected_messages": [
+    {
+      "message_index": 31,
+      "message": {
+        "role": "assistant",
+        "content": "",
+        "tool_calls": [
+          {
+            "id": "mcp__figma__use_figma_0_b6a8043b",
+            "type": "function",
+            "function": {
+              "name": "mcp__figma__use_figma",
+              "arguments": {
+                "code": "\nconst page = await figma.getNodeByIdAsync('4:2');\nawait figma.setCurrentPageAsync(page);\nfor (const style of ['Regular','Medium','SemiBold','Bold','ExtraBold']) await figma.loadFontAsync({family:'Nunito',style});\n\nconst TEXT={r:0.169,g:0.176,b:0.2}, SUB={r:0.57,g:0.58,b:0.65}, GAIN={r:0.18,g:0.71,b:0.44}, LOSS={r:0.95,g:0.35,b:0.28}, CARD={r:0.96,g:0.965,b:0.975}, WHITE={r:1,g:1,b:1}, LINE={r:0.90,g:0.91,b:0.94}, BRAND={r:0.1686,g:0.1765,b:0.2};\nconst AMBER={r:0.95,g:0.62,b:0.10};\n\nconst old=page.children.find(n=>n.name==='02_Discovery'); if(old) old.remove();\n\nfunction frame(p,name,x,y,w,h){const f=figma.createFrame();f.name=name;f.x=x;f.y=y;f.resize(w,h);f.fills=[];f.clipsContent=true;(p||page).appendChild(f);return f;}\nfunction rect(p,n,x,y,w,h,c,r){const q=figma.createRectangle();q.name=n;q.x=x;q.y=y;q.resize(w,h);q.fills=[{type:'SOLID',color:c}];if(r)q.cornerRadius=r;p.appendChild(q);return q;}\nfunction txt(p,n,x,y,ch,s,st,c,o={}){const t=figma.createText();t.fontName={family:'Nunito',style:st};t.characters=ch;t.fontSize=s;t.fills=[{type:'SOLID',color:c}];t.name=n;t.x=x;t.y=y;if(o.w){t.textAutoResize='HEIGHT';t.resize(o.w,t.height);}if(o.align)t.textAlignHorizontal=o.align;p.appendChild(t);return t;}\nasync function inst(id,p,x,y,w,h,n){const c=await figma.getNodeByIdAsync(id);const i=c.createInstance();p.appendChild(i);i.x=x;i.y=y;if(w&&h)i.resize(w,h);if(n)i.name=n;return i;}\nconst COIN={BTC:'2:8',ETH:'2:11',USDT:'2:14',BNB:'2:17',USDC:'2:20',BUSD:'2:23',XRP:'2:26',DOGE:'2:29',ADA:'2:32',MATIC:'2:35',DAI:'2:38',AVAX:'2:41',CAKE:'2:44',MANA:'2:47',MKR:'2:50',NEAR:'2:53',DASH:'2:56',ETC:'2:59'};\n\nconst D = frame(null,'02_Discovery',460,0,375,812);\nrect(D,'BG',0,0,375,812,WHITE);\nconst sb=await figma.getNodeByIdAsync('3:26');const sbi=sb.createInstance();D.appendChild(sbi);sbi.x=0;sbi.y=0;\nconst hi=await figma.getNodeByIdAsync('3:36');const hii=hi.createInstance();D.appendChild(hii);hii.x=0;hii.y=778;\n\nconst C = frame(D,'Content',0,44,375,1130);\nC.clipsContent=false; C.fills=[];\nD.overflowDirection='VERTICAL';\n\nawait inst('2:65',C,20,14,40,40,'Avatar_Neutral');\nconst tf=await figma.getNodeByIdAsync('3:22');const tfi=tf.createInstance();C.appendChild(tfi);tfi.x=72;tfi.y=14;tfi.resize(283,40);\nawait inst('2:100',C,86,24,20,20,'Icon_Search');\n\ntxt(C,'Date',20,74,'December 05',12,'Bold',SUB);\ntxt(C,'For You Today',20,92,'For You Today',20,'ExtraBold',TEXT);\n\nasync function forYouCard(x,title,risk,riskColor,participants,ret,tint){\n  rect(C,'ForYou Card '+title,x,124,240,156,tint,16);\n  const chipT=txt(C,'RiskLabel',0,0,risk,11,'ExtraBold',riskColor);\n  rect(C,'Risk Chip',x+16,140,chipT.width+20,22,WHITE,11);\n  chipT.x=x+26;chipT.y=145;\n  txt(C,'Title',x+16,172,title,15,'ExtraBold',TEXT,{w:208});\n  txt(C,'Participants',x+16,196,participants+' participants',12,'SemiBold',SUB);\n  const r=txt(C,'Return',x+16,220,ret+'%',22,'ExtraBold',GAIN);\n  txt(C,'per year',x+16+r.width+5,231,'per year',11,'Bold',SUB);\n  rect(C,'View Button',x+150,224,74,32,BRAND,16);\n  txt(C,'View',x+170,231,'View',13,'ExtraBold',WHITE);\n}\nawait forYouCard(20,'Stable Income','Low risk',GAIN,'10,982','6.24',{r:0.93,g:0.97,b:0.94});\nawait forYouCard(272,'Binance Index Strategy','Medium risk',AMBER,'264','12.56',{r:0.99,g:0.95,b:0.90});\n\ntxt(C,'Investing Strategies',20,308,'Investing Strategies',20,'ExtraBold',TEXT);\nconst strategies=[\n  ['The Big Long','15.16',['BTC','ETH','USDT'],'+3'],\n  ['Aggressive Growth','159',['MATIC','MANA','CAKE'],'+2'],\n  ['Best Projects','46.22',['NEAR','DASH','AVAX'],'+12'],\n  ['Strategy 2022','26.08',['ETC','DAI','BNB'],'+2']\n];\nlet sx=20;\nfor(const [name,ret,logos,more] of strategies){\n  const card=rect(C,'Strategy Card '+name,sx,340,200,136,WHITE,16);\n  card.strokes=[{type:'SOLID',color:LINE}];card.strokeWeight=1;\n  let lx=sx+16;\n  for(let i=0;i<3;i++){ await inst(COIN[logos[i]],C,lx,356,26,26,'Logo'); lx+=18; }\n  txt(C,'More',lx+2,362,more,12,'ExtraBold',SUB);\n  txt(C,'Name',sx+16,392,name,15,'ExtraBold',TEXT,{w:168});\n  const r=txt(C,'Return',sx+16,426,ret+'%',20,'ExtraBold',GAIN);\n  txt(C,'per year',sx+16+r.width+5,434,'per year',11,'Bold',SUB);\n  sx+=212;\n}\n\ntxt(C,'Coin Lists',20,504,'Coin Lists',20,'ExtraBold',TEXT);\nconst tabs=[['🔥 Trending',true],['📺 Watchlist',false],['❤️ Favorites',false],['💵 Stablecoins',false],['🔗 BNB Chain Ecosystem',false]];\nlet tx=20;\nfor(const [label,active] of tabs){\n  const t=txt(C,'Tab Label',0,0,label,13,'ExtraBold',active?WHITE:SUB);\n  rect(C,'Tab '+label,tx,536,t.width+28,34,active?BRAND:CARD,17);\n  t.x=tx+14;t.y=545;\n  tx+=t.width+36;\n}\n\nconst coins=[\n  ['BTC','Bitcoin','BTC','$16,963.58','−0.12%',false],\n  ['ETH','Ethereum','ETH','$1,259.10','+1.15%',true],\n  ['USDT','Tether','USDT','$1.01','+0.01%',true],\n  ['BNB','Binance Coin','BNB','$288.01','+0.76%',true],\n  ['USDC','USD Coin','USDC','$0.9999','−0.02%',false],\n  ['BUSD','Binance USD','BUSD','$1.00','−0.01%',false],\n  ['XRP','XRP','XRP','$0.3891','+2.54%',true],\n  ['DOGE','Dogecoin','DOGE','$0.1012','−0.17%',false],\n  ['ADA','Cardano','ADA','$0.3196','+0.09%',true],\n  ['MATIC','Polygon','MATIC','$0.9082','+2.18%',true]\n];\nlet cy=590;\nfor(const [logo,name,tick,price,change,up] of coins){\n  await inst(COIN[logo],C,20,cy+4,36,36,'Coin_'+logo);\n  txt(C,'Name',68,cy+5,name,15,'ExtraBold',TEXT);\n  txt(C,'Ticker',68,cy+26,tick,12,'SemiBold',SUB);\n  txt(C,'Price',215,cy+5,price,15,'ExtraBold',TEXT,{align:'RIGHT',w:140});\n  txt(C,'Change',215,cy+26,change,12,'Bold',up?GAIN:LOSS,{align:'RIGHT',w:140});\n  cy+=52;\n}\n\nfunction dot(x,active,w){rect(D,'Page Dot',x,790,w||6,6,active?BRAND:{r:0.82,g:0.83,b:0.87},3);}\ndot(164,false);dot(176,false);dot(200,true,18);\n\nreturn 'discovery done: '+D.id;\n",
+                "description": "Build 02_Discovery (retry, no text override inside instance)",
+                "fileKey": "6ywbeCjGQ9xjP7DRG8vt97"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "message_index": 39,
+      "message": {
+        "role": "assistant",
+        "content": "",
+        "tool_calls": [
+          {
+            "id": "mcp__figma__use_figma_0_0c3ce571",
+            "type": "function",
+            "function": {
+              "name": "mcp__figma__use_figma",
+              "arguments": {
+                "code": "\nconst page = await figma.getNodeByIdAsync('4:2');\nawait figma.setCurrentPageAsync(page);\nfor (const style of ['Regular','Medium','SemiBold','Bold','ExtraBold']) await figma.loadFontAsync({family:'Nunito',style});\n\nconst TEXT={r:0.169,g:0.176,b:0.2}, SUB={r:0.57,g:0.58,b:0.65}, GAIN={r:0.18,g:0.71,b:0.44}, LOSS={r:0.95,g:0.35,b:0.28}, CARD={r:0.96,g:0.965,b:0.975}, WHITE={r:1,g:1,b:1}, LINE={r:0.90,g:0.91,b:0.94}, BRAND={r:0.1686,g:0.1765,b:0.2};\n\nconst old=page.children.find(n=>n.name==='03_Strategy'); if(old) old.remove();\n\nfunction frame(p,name,x,y,w,h){const f=figma.createFrame();f.name=name;f.x=x;f.y=y;f.resize(w,h);f.fills=[];f.clipsContent=true;(p||page).appendChild(f);return f;}\nfunction rect(p,n,x,y,w,h,c,r){const q=figma.createRectangle();q.name=n;q.x=x;q.y=y;q.resize(w,h);q.fills=[{type:'SOLID',color:c}];if(r)q.cornerRadius=r;p.appendChild(q);return q;}\nfunction txt(p,n,x,y,ch,s,st,c,o={}){const t=figma.createText();t.fontName={family:'Nunito',style:st};t.characters=ch;t.fontSize=s;t.fills=[{type:'SOLID',color:c}];t.name=n;t.x=x;t.y=y;if(o.w){t.textAutoResize='HEIGHT';t.resize(o.w,t.height);}if(o.align)t.textAlignHorizontal=o.align;p.appendChild(t);return t;}\nasync function inst(id,p,x,y,w,h,n){const c=await figma.getNodeByIdAsync(id);const i=c.createInstance();p.appendChild(i);i.x=x;i.y=y;if(w&&h)i.resize(w,h);if(n)i.name=n;return i;}\nconst COIN={MATIC:'2:35',MANA:'2:47',CAKE:'2:44',DOGE:'2:29',MKR:'2:50',DAI:'2:38'};\n\nconst S = frame(null,'03_Strategy',920,0,375,812);\nrect(S,'BG',0,0,375,812,WHITE);\nconst sb=await figma.getNodeByIdAsync('3:26');const sbi=sb.createInstance();S.appendChild(sbi);sbi.x=0;sbi.y=0;\nconst hi=await figma.getNodeByIdAsync('3:36');const hii=hi.createInstance();S.appendChild(hii);hii.x=0;hii.y=778;\nrect(S,'Scrim',0,0,375,812,{r:0.1,g:0.1,b:0.13}).fills=[{type:'SOLID',color:{r:0.1,g:0.1,b:0.13},opacity:0.45}];\n\nconst Sheet = frame(S,'Sheet',0,40,375,772);\nSheet.fills=[{type:'SOLID',color:WHITE}];\nSheet.topLeftRadius=24;Sheet.topRightRadius=24;\nrect(Sheet,'Grabber',168,10,40,5,{r:0.85,g:0.86,b:0.89},3);\nconst closeBg=rect(Sheet,'Dismiss',329,24,32,32,CARD,16);\nawait inst('2:128',Sheet,335,30,20,20,'Icon_Close');\n\nconst C = frame(Sheet,'Content',0,24,375,748);\nC.clipsContent=false;C.fills=[];\nSheet.overflowDirection='VERTICAL';\n// move grabber & dismiss above content visually: reorder later\n\ntxt(C,'Title',24,32,'Aggressive Growth',24,'ExtraBold',TEXT);\nconst riskT=txt(C,'Risk Label',0,0,'🔥 High Risk',12,'ExtraBold',LOSS);\nconst riskChip=rect(C,'Risk Chip',24,72,riskT.width+24,28,{r:1,g:0.92,b:0.90},14);\nriskT.x=36;riskT.y=78;\n\n// facts grid\nconst facts=[\n  ['🌱','159% per Year','Interest Income'],\n  ['🔥','High Risk','Level of risk'],\n  ['💵','$1,000','Minimum investment amount'],\n  ['🗓️','2 Years','Recommended investment period'],\n  ['🧑','1,982','Participants']\n];\nlet fx=24,fy=116;\nfor(let i=0;i<facts.length;i++){\n  const [emoji,value,label]=facts[i];\n  rect(C,'Fact Card',fx,fy,158,66,CARD,14);\n  txt(C,'Emoji',fx+12,fy+10,emoji,14,'Regular',TEXT);\n  txt(C,'Value',fx+34,fy+10,value,15,'ExtraBold',TEXT);\n  txt(C,'Label',fx+12,fy+36,label,10.5,'Bold',SUB,{w:134});\n  if(i%2===1){fx=24;fy+=76;}else{fx=193;}\n}\nfy+=76; // after 5th card (odd count: last row single)\n\n// projection card\nconst cardY=fy+12;\nconst pc=rect(C,'Projection Card',24,cardY,327,250,WHITE,16);\npc.strokes=[{type:'SOLID',color:LINE}];pc.strokeWeight=1;\ntxt(C,'Earn',40,cardY+16,'$1,590.00',24,'ExtraBold',GAIN);\ntxt(C,'Caption',40,cardY+48,'This is how much you can earn in a year if you invest $1,000 to “Aggressive Growth”',11.5,'SemiBold',SUB,{w:295});\n\n// chart\nconst chartTop=cardY+96, chartH=90, chartW=295, chartX=40;\nconst pts=[[0,72],[59,58],[118,64],[177,36],[236,42],[295,6]];\nlet d='M '+pts.map(p=>p[0]+' '+(chartTop+p[1])).join(' L ');\nconst line=figma.createVector();\nline.name='Growth Chart';\nline.vectorPaths=[{windingRule:'NONE',data:d}];\nline.strokeWeight=2.5;line.strokes=[{type:'SOLID',color:GAIN}];line.fills=[];line.strokeCap='ROUND';line.strokeJoin='ROUND';\nline.x=chartX;line.y=chartTop;line.resize(chartW,chartH);\nC.appendChild(line);\nconst area=figma.createVector();\narea.name='Chart Fill';\narea.vectorPaths=[{windingRule:'NONZERO',data:d+' L 295 '+(chartTop+90)+' L 0 '+(chartTop+90)+' Z'}];\narea.fills=[{type:'SOLID',color:GAIN,opacity:0.10}];area.strokes=[];\narea.x=chartX;area.y=chartTop;area.resize(chartW,chartH);\nC.appendChild(area);\n// x labels\nconst months=['Dec ’21','Mar','Jun','Sep','Dec'];\nlet mx=chartX;\nmonths.forEach((m,i)=>{\n  const t=txt(C,'Month',0,0,m,10,'Bold',SUB);\n  if(i===0)t.x=chartX;\n  else if(i===months.length-1)t.x=chartX+chartW-t.width;\n  else t.x=chartX+(chartW/(months.length-1))*i-t.width/2;\n  t.y=chartTop+chartH+8;\n});\n\n// About\nconst aboutY=cardY+266;\ntxt(C,'About Strategy',24,aboutY,'About Strategy',17,'ExtraBold',TEXT);\ntxt(C,'Description',24,aboutY+30,'The aggressive growth strategy allows you to earn 159% per annum, but with a high risk. Our analysts have balanced the strategy with different assets so that the strategy pays off within the recommended time frame.',13,'Medium',SUB,{w:327});\n\n// Share of Assets\nconst shareY=aboutY+30+90+24;\ntxt(C,'Share of Assets',24,shareY,'Share of Assets',17,'ExtraBold',TEXT);\nconst shares=[\n  ['MATIC','Polygon','MATIC','50.00%'],\n  ['MANA','Decentraland','MANA','25.00%'],\n  ['CAKE','PancakeSwap','CAKE','12.50%'],\n  ['DOGE','Dogecoin','DOGE','6.25%'],\n  ['MKR','Maker','MKR','6.25%']\n];\nlet sy=shareY+34;\nfor(const [logo,name,tick,share] of shares){\n  await inst(COIN[logo],C,24,sy,32,32,'Coin_'+logo);\n  txt(C,'Name',68,sy+1,name,14,'ExtraBold',TEXT);\n  txt(C,'Ticker',68,sy+20,tick,11,'SemiBold',SUB);\n  txt(C,'Share',251,sy+8,share,14,'ExtraBold',TEXT,{align:'RIGHT',w:100});\n  rect(C,'Bar Track',24,sy+40,327,4,CARD,2);\n  rect(C,'Bar Fill',24,sy+40,327*parseFloat(share)/100,4,BRAND,2);\n  sy+=56;\n}\n\n// bottom spacer so content scrolls above pinned invest bar\nrect(C,'Spacer',24,sy+8,327,120,WHITE);\n\n// pinned invest bar\nconst bar=rect(Sheet,'Invest Bar',0,668,375,104,WHITE);\nbar.strokes=[{type:'SOLID',color:LINE}];bar.strokeWeight=1;bar.strokeAlign='INSIDE';\nconst btn=await figma.getNodeByIdAsync('3:19');\nconst bi=btn.createInstance();Sheet.appendChild(bi);bi.x=20;bi.y=694;bi.resize(335,52);\n\n// ensure grabber & dismiss on top of scroll content\nSheet.appendChild(Sheet.findOne(n=>n.name==='Grabber'));\nSheet.appendChild(Sheet.findOne(n=>n.name==='Dismiss'));\nSheet.appendChild(Sheet.findOne(n=>n.name==='Icon_Close'));\n\nreturn 'strategy done: '+S.id;\n",
+                "description": "Build 03_Strategy bottom sheet with facts, projection chart, about, share of assets and pinned Invest button",
+                "fileKey": "6ywbeCjGQ9xjP7DRG8vt97"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "message_index": 76,
+      "message": {
+        "role": "assistant",
+        "content": "",
+        "tool_calls": [
+          {
+            "id": "mcp__figma__use_figma_0_f589af21",
+            "type": "function",
+            "function": {
+              "name": "mcp__figma__use_figma",
+              "arguments": {
+                "code": "\nconst page = await figma.getNodeByIdAsync('4:2');\n// 01_Wallet fixes\nconst W = page.children.find(n=>n.name==='01_Wallet');\n// find the Send button icon instance: it's named 'Icon_Send' inside frame (name set 'Icon_Send'? we named inst 'Icon_Send'/'Icon_Receive')\nfor (const nm of ['Icon_Send','Icon_Receive']){\n  const icon = W.findOne(n=>n.name===nm);\n  if(icon){\n    const det = icon.type==='INSTANCE' ? icon.detachInstance() : icon;\n    det.rotation = 0;\n    for(const v of det.findAll(n=>n.type==='VECTOR')) v.rotation = 0;\n  }\n}\n// ensure page dots above home indicator\nfor(const d of W.findAll(n=>n.name==='Page Dot')) W.appendChild(d);\n// 02_Discovery: dots above\nconst D = page.children.find(n=>n.name==='02_Discovery');\nfor(const d of D.findAll(n=>n.name==='Page Dot')) D.appendChild(d);\nreturn 'done';\n",
+                "description": "Fix action icon rotations and page indicator z-order on 01 and 02",
+                "fileKey": "6ywbeCjGQ9xjP7DRG8vt97"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "message_index": 96,
+      "message": {
+        "role": "assistant",
+        "content": "",
+        "tool_calls": [
+          {
+            "id": "mcp__figma__use_figma_0_523d278c",
+            "type": "function",
+            "function": {
+              "name": "mcp__figma__use_figma",
+              "arguments": {
+                "code": "\nconst page = await figma.getNodeByIdAsync('4:2');\nconst S = page.children.find(n=>n.name==='03_Strategy');\nconst C = S.findOne(n=>n.name==='Content');\nconst desc = C.findOne(n=>n.name==='Description');\nconst about = C.findOne(n=>n.name==='About Strategy');\nconst shareTitle = C.findOne(n=>n.name==='Share of Assets');\nconst spacer = C.findOne(n=>n.name==='Spacer');\n// compute proper positions\nconst aboutY = about.y;\nconst descBottom = aboutY + 30 + desc.height;\nconst newShareY = descBottom + 24;\nconst dy = newShareY - shareTitle.y;\nshareTitle.y = newShareY;\n// move all share rows (they are between shareY+34 ...) — identify nodes with y between old shareTitle.y+30 and spacer.y\nconst oldShareY = shareTitle.y - dy;\nconst movers = C.children.filter(n=> n!==shareTitle && n!==spacer && n.y > oldShareY+30 && n.y < spacer.y);\nfor(const m of movers) m.y += dy;\n// spacer: compute from last bar track\nconst bars = C.findAll(n=>n.name==='Bar Track');\nconst lastBar = bars.sort((a,b)=>b.y-a.y)[0];\nspacer.y = lastBar.y + 8;\nreturn 'dy='+dy+' movers='+movers.length+' shareY='+newShareY+' descH='+desc.height+' spacerY='+spacer.y;\n",
+                "description": "Fix Share of Assets overlap with description on 03_Strategy",
+                "fileKey": "6ywbeCjGQ9xjP7DRG8vt97"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

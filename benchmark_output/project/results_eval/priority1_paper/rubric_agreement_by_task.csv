@@ -1,0 +1,79 @@
+﻿scope,reviewer,case_id,title,tau_b,top1_set_hit,top1_unique_hit,rubric_top_tied,human_top,rubric_top_set,direct_agree,direct_decisive,direct_score_ties
+strict_matched,R1,10case-case-001,Investment Wallet,0.6,1,1,0,Opus,Opus,7,9,0
+strict_matched,R1,10case-case-002,Travelin,0.6,0,0,0,GPT,Opus,7,10,0
+strict_matched,R1,10case-case-003,Stock Trading,0.6900655593423543,0,0,0,GPT,Opus,9,11,0
+strict_matched,R1,10case-case-004,Meet,0.9999999999999999,1,1,0,Opus,Opus,11,11,0
+strict_matched,R1,10case-case-005,Expenio,0.5962847939999439,1,1,0,Opus,Opus,6,7,2
+strict_matched,R1,10case-case-006,Payment Wallet,0.9999999999999999,1,1,0,Opus,Opus,11,11,0
+strict_matched,R1,10case-case-007,Vulcan Invest,0.7333333333333333,1,1,0,Opus,Opus,10,11,0
+strict_matched,R1,10case-case-008,Fitness App,0.7333333333333333,1,1,0,Opus,Opus,7,9,0
+strict_matched,R1,10case-case-009,Workout Class,0.6900655593423543,1,1,0,Opus,Opus,6,7,1
+strict_matched,R1,3case-case-002,Paradise Invest,0.6900655593423543,1,1,0,Opus,Opus,7,9,0
+strict_matched,R1,3case-case-003,Foodgo,0.6900655593423543,1,1,0,Opus,Opus,7,9,1
+strict_matched,R1,6case-case-001,StockWave,0.6900655593423543,1,1,0,Opus,Opus,5,7,0
+strict_matched,R1,6case-case-002,Nectar,0.8280786712108251,1,1,0,Opus,Opus,8,9,1
+strict_matched,R1,6case-case-003,Stylish,0.6900655593423543,1,1,0,Opus,Opus,8,10,1
+strict_matched,R1,6case-case-005,FinX,-0.06666666666666665,0,0,0,GPT,Opus,5,10,0
+strict_matched,R1,6case-case-006,Fruit Hub,0.29814239699997197,1,1,0,Opus,Opus,5,7,2
+strict_matched,R1,web10-case-001,Furniro,0.6900655593423543,1,1,0,Opus,Opus,7,8,1
+strict_matched,R1,web10-case-003,Fasco,0.7333333333333333,1,1,0,Opus,Opus,8,10,0
+strict_matched,R1,web10-case-004,Shop.co,0.8666666666666666,1,1,0,Opus,Opus,10,11,0
+strict_matched,R1,web10-case-005,Northgate Homes,0.6900655593423543,1,0,1,Opus,Opus;GPT,7,9,0
+strict_matched,R1,web10-case-006,Octom,0.41403933560541256,0,0,0,Fable,Opus,4,7,1
+strict_matched,R1,web10-case-007,Foodwagon,0.7333333333333333,1,1,0,Opus,Opus,7,8,0
+strict_matched,R1,web10-case-008,MAC Agency,0.8280786712108251,0,0,0,GPT,Opus,9,10,0
+strict_matched,R1,web10-case-009,Deniz Arslan 3D Portfolio,0.8280786712108251,0,0,0,GPT,Opus,8,9,0
+strict_matched,R2,10case-case-002,Travelin,0.7333333333333333,1,1,0,Opus,Opus,8,10,0
+strict_matched,R2,10case-case-003,Stock Trading,0.5520524474738833,1,1,0,Opus,Opus,7,10,1
+strict_matched,R2,10case-case-004,Meet,0.8666666666666666,1,1,0,Opus,Opus,9,10,0
+strict_matched,R2,10case-case-005,Expenio,0.7453559924999299,1,1,0,Opus,Opus,7,8,3
+strict_matched,R2,10case-case-006,Payment Wallet,0.7333333333333333,0,0,0,GLM,Opus,8,9,0
+strict_matched,R2,10case-case-007,Vulcan Invest,0.6,1,1,0,Opus,Opus,10,11,0
+strict_matched,R2,3case-case-002,Paradise Invest,0.27602622373694163,1,1,0,Opus,Opus,3,7,1
+strict_matched,R2,3case-case-003,Foodgo,0.8280786712108251,1,1,0,Opus,Opus,8,9,1
+strict_matched,R2,6case-case-001,StockWave,0.5520524474738833,1,1,0,Opus,Opus,9,11,0
+strict_matched,R2,6case-case-002,Nectar,0.6900655593423543,1,1,0,Opus,Opus,6,8,1
+strict_matched,R2,6case-case-003,Stylish,0.27602622373694163,1,1,0,Opus,Opus,6,10,1
+strict_matched,R2,web10-case-001,Furniro,0.6900655593423543,0,0,0,GLM,Opus,8,10,1
+arena_embedded_sensitivity,R1,10case-case-001,Investment Wallet,0.6,1,1,0,Opus,Opus,7,9,0
+arena_embedded_sensitivity,R1,10case-case-002,Travelin,0.6,0,0,0,GPT,Opus,7,10,0
+arena_embedded_sensitivity,R1,10case-case-003,Stock Trading,0.6900655593423543,0,0,0,GPT,Opus,9,11,0
+arena_embedded_sensitivity,R1,10case-case-004,Meet,0.9999999999999999,1,1,0,Opus,Opus,11,11,0
+arena_embedded_sensitivity,R1,10case-case-005,Expenio,0.5962847939999439,1,1,0,Opus,Opus,6,7,2
+arena_embedded_sensitivity,R1,10case-case-006,Payment Wallet,0.9999999999999999,1,1,0,Opus,Opus,11,11,0
+arena_embedded_sensitivity,R1,10case-case-007,Vulcan Invest,0.7333333333333333,1,1,0,Opus,Opus,10,11,0
+arena_embedded_sensitivity,R1,10case-case-008,Fitness App,0.7333333333333333,1,1,0,Opus,Opus,7,9,0
+arena_embedded_sensitivity,R1,10case-case-009,Workout Class,0.6900655593423543,1,1,0,Opus,Opus,6,7,1
+arena_embedded_sensitivity,R1,10case-case-010,Budget,0.8666666666666666,1,1,0,Opus,Opus,8,9,0
+arena_embedded_sensitivity,R1,3case-case-001,Balance,0.4666666666666666,0,0,0,Fable,Opus,6,9,0
+arena_embedded_sensitivity,R1,3case-case-002,Paradise Invest,0.6900655593423543,1,1,0,Opus,Opus,7,9,0
+arena_embedded_sensitivity,R1,3case-case-003,Foodgo,0.6900655593423543,1,1,0,Opus,Opus,7,9,1
+arena_embedded_sensitivity,R1,6case-case-001,StockWave,0.6900655593423543,1,1,0,Opus,Opus,5,7,0
+arena_embedded_sensitivity,R1,6case-case-002,Nectar,0.8280786712108251,1,1,0,Opus,Opus,8,9,1
+arena_embedded_sensitivity,R1,6case-case-003,Stylish,0.6900655593423543,1,1,0,Opus,Opus,8,10,1
+arena_embedded_sensitivity,R1,6case-case-005,FinX,-0.06666666666666665,0,0,0,GPT,Opus,5,10,0
+arena_embedded_sensitivity,R1,6case-case-006,Fruit Hub,0.29814239699997197,1,1,0,Opus,Opus,5,7,2
+arena_embedded_sensitivity,R1,web10-case-001,Furniro,0.6900655593423543,1,1,0,Opus,Opus,7,8,1
+arena_embedded_sensitivity,R1,web10-case-002,Foodieland,0.7333333333333333,1,1,0,Opus,Opus,9,11,0
+arena_embedded_sensitivity,R1,web10-case-003,Fasco,0.7333333333333333,1,1,0,Opus,Opus,8,10,0
+arena_embedded_sensitivity,R1,web10-case-004,Shop.co,0.8666666666666666,1,1,0,Opus,Opus,10,11,0
+arena_embedded_sensitivity,R1,web10-case-005,Northgate Homes,0.6900655593423543,1,0,1,Opus,Opus;GPT,7,9,0
+arena_embedded_sensitivity,R1,web10-case-006,Octom,0.41403933560541256,0,0,0,Fable,Opus,4,7,1
+arena_embedded_sensitivity,R1,web10-case-007,Foodwagon,0.7333333333333333,1,1,0,Opus,Opus,7,8,0
+arena_embedded_sensitivity,R1,web10-case-008,MAC Agency,0.8280786712108251,0,0,0,GPT,Opus,9,10,0
+arena_embedded_sensitivity,R1,web10-case-009,Deniz Arslan 3D Portfolio,0.8280786712108251,0,0,0,GPT,Opus,8,9,0
+arena_embedded_sensitivity,R1,web10-case-010,ABM Developer Portfolio,0.41403933560541256,0,0,1,Fable,Opus;GLM,5,8,1
+arena_embedded_sensitivity,R2,10case-case-002,Travelin,0.7333333333333333,1,1,0,Opus,Opus,8,10,0
+arena_embedded_sensitivity,R2,10case-case-003,Stock Trading,0.5520524474738833,1,1,0,Opus,Opus,7,10,1
+arena_embedded_sensitivity,R2,10case-case-004,Meet,0.8666666666666666,1,1,0,Opus,Opus,9,10,0
+arena_embedded_sensitivity,R2,10case-case-005,Expenio,0.7453559924999299,1,1,0,Opus,Opus,7,8,3
+arena_embedded_sensitivity,R2,10case-case-006,Payment Wallet,0.7333333333333333,0,0,0,GLM,Opus,8,9,0
+arena_embedded_sensitivity,R2,10case-case-007,Vulcan Invest,0.6,1,1,0,Opus,Opus,10,11,0
+arena_embedded_sensitivity,R2,10case-case-010,Budget,0.8666666666666666,1,1,0,Opus,Opus,10,11,0
+arena_embedded_sensitivity,R2,3case-case-001,Balance,0.4666666666666666,0,0,0,Gemini,Opus,6,10,0
+arena_embedded_sensitivity,R2,3case-case-002,Paradise Invest,0.27602622373694163,1,1,0,Opus,Opus,3,7,1
+arena_embedded_sensitivity,R2,3case-case-003,Foodgo,0.8280786712108251,1,1,0,Opus,Opus,8,9,1
+arena_embedded_sensitivity,R2,6case-case-001,StockWave,0.5520524474738833,1,1,0,Opus,Opus,9,11,0
+arena_embedded_sensitivity,R2,6case-case-002,Nectar,0.6900655593423543,1,1,0,Opus,Opus,6,8,1
+arena_embedded_sensitivity,R2,6case-case-003,Stylish,0.27602622373694163,1,1,0,Opus,Opus,6,10,1
+arena_embedded_sensitivity,R2,web10-case-001,Furniro,0.6900655593423543,0,0,0,GLM,Opus,8,10,1

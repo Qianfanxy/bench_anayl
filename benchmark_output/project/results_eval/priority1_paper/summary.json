@@ -1,0 +1,623 @@
+{
+  "middle_four_posthoc": {
+    "R1": {
+      "tau_b": {
+        "estimate": 0.433990894012733,
+        "lo": 0.3143758194364812,
+        "hi": 0.5598789371887198,
+        "n_tasks": 24
+      },
+      "direct_pair_agreement": {
+        "estimate": 0.7083333333333334,
+        "lo": 0.6344086021505376,
+        "hi": 0.7835051546391752,
+        "n_tasks": 24
+      },
+      "direct_agree": 68,
+      "direct_decisive": 96
+    },
+    "R2": {
+      "tau_b": {
+        "estimate": 0.1684427530186403,
+        "lo": -0.15832282809476686,
+        "hi": 0.46567699299002624,
+        "n_tasks": 12
+      },
+      "direct_pair_agreement": {
+        "estimate": 0.6,
+        "lo": 0.4166666666666667,
+        "hi": 0.7619360902255634,
+        "n_tasks": 12
+      },
+      "direct_agree": 30,
+      "direct_decisive": 50
+    }
+  },
+  "paired_GPT_minus_GLM_rank": {
+    "R1": {
+      "estimate": -1.5,
+      "lo": -2.2857142857142856,
+      "hi": -0.7142857142857143,
+      "n_tasks": 14
+    },
+    "R2": {
+      "estimate": 0.9285714285714286,
+      "lo": 0.0,
+      "hi": 1.7857142857142858,
+      "n_tasks": 14
+    }
+  },
+  "seed": 20261108,
+  "bootstrap_replicates": 10000,
+  "bootstrap_unit": "task, within reviewer; paired shared tasks for human-human; conditional on these reviewers",
+  "excluded_case": "6case-case-004",
+  "source": "sorting.json authoritative for session/ranking/vote; SQLite authoritative for candidate identity only",
+  "sorting_status": {
+    "paused-cycle": 2,
+    "awaiting-vote": 7,
+    "complete": 42,
+    "paused-unable": 5,
+    "reviewing": 1
+  },
+  "sqlite_status": {
+    "complete": 41,
+    "paused-cycle": 2,
+    "awaiting-vote": 8,
+    "paused-unable": 6
+  },
+  "snapshot_differences": [
+    {
+      "session_id": "f13494d58f9e91ff32a70e25",
+      "case_id": "6case-case-005",
+      "reviewer": "R1",
+      "export_status": "complete",
+      "export_revision": 10,
+      "sqlite_status": "awaiting-vote",
+      "sqlite_revision": 8
+    },
+    {
+      "session_id": "4ec2315a74b730436847fcf4",
+      "case_id": "6case-case-004",
+      "reviewer": "R2",
+      "export_status": "reviewing",
+      "export_revision": 6,
+      "sqlite_status": "paused-unable",
+      "sqlite_revision": 6
+    }
+  ],
+  "versions": {
+    "candidates": 174,
+    "verified_same_run_score_and_images": 169,
+    "run_mismatches": 5,
+    "strict_cases": 24,
+    "strict_case_ids": [
+      "10case-case-001",
+      "10case-case-002",
+      "10case-case-003",
+      "10case-case-004",
+      "10case-case-005",
+      "10case-case-006",
+      "10case-case-007",
+      "10case-case-008",
+      "10case-case-009",
+      "3case-case-002",
+      "3case-case-003",
+      "6case-case-001",
+      "6case-case-002",
+      "6case-case-003",
+      "6case-case-005",
+      "6case-case-006",
+      "web10-case-001",
+      "web10-case-003",
+      "web10-case-004",
+      "web10-case-005",
+      "web10-case-006",
+      "web10-case-007",
+      "web10-case-008",
+      "web10-case-009"
+    ]
+  },
+  "n_completed": {
+    "R1": 28,
+    "R2": 14
+  },
+  "n_common": 14,
+  "expert_rank_summary": [
+    {
+      "scope": "all_completed",
+      "reviewer": "R1",
+      "model": "Opus",
+      "mean_rank": 1.3928571428571428,
+      "ci_lo": 1.1785714285714286,
+      "ci_hi": 1.6428571428571428,
+      "n_tasks": 28,
+      "first_count": 20,
+      "last_count": 0
+    },
+    {
+      "scope": "all_completed",
+      "reviewer": "R1",
+      "model": "GPT",
+      "mean_rank": 2.392857142857143,
+      "ci_lo": 2.0,
+      "ci_hi": 2.8214285714285716,
+      "n_tasks": 28,
+      "first_count": 5,
+      "last_count": 0
+    },
+    {
+      "scope": "all_completed",
+      "reviewer": "R1",
+      "model": "Fable",
+      "mean_rank": 3.2857142857142856,
+      "ci_lo": 2.7857142857142856,
+      "ci_hi": 3.75,
+      "n_tasks": 28,
+      "first_count": 3,
+      "last_count": 0
+    },
+    {
+      "scope": "all_completed",
+      "reviewer": "R1",
+      "model": "GLM",
+      "mean_rank": 3.7857142857142856,
+      "ci_lo": 3.5,
+      "ci_hi": 4.107142857142857,
+      "n_tasks": 28,
+      "first_count": 0,
+      "last_count": 1
+    },
+    {
+      "scope": "all_completed",
+      "reviewer": "R1",
+      "model": "Kimi",
+      "mean_rank": 4.25,
+      "ci_lo": 3.857142857142857,
+      "ci_hi": 4.607142857142857,
+      "n_tasks": 28,
+      "first_count": 0,
+      "last_count": 1
+    },
+    {
+      "scope": "all_completed",
+      "reviewer": "R1",
+      "model": "Gemini",
+      "mean_rank": 5.892857142857143,
+      "ci_lo": 5.714285714285714,
+      "ci_hi": 6.0,
+      "n_tasks": 28,
+      "first_count": 0,
+      "last_count": 26
+    },
+    {
+      "scope": "all_completed",
+      "reviewer": "R2",
+      "model": "Opus",
+      "mean_rank": 1.2142857142857142,
+      "ci_lo": 1.0,
+      "ci_hi": 1.4285714285714286,
+      "n_tasks": 14,
+      "first_count": 11,
+      "last_count": 0
+    },
+    {
+      "scope": "all_completed",
+      "reviewer": "R2",
+      "model": "GPT",
+      "mean_rank": 3.7857142857142856,
+      "ci_lo": 3.2142857142857144,
+      "ci_hi": 4.357142857142857,
+      "n_tasks": 14,
+      "first_count": 0,
+      "last_count": 0
+    },
+    {
+      "scope": "all_completed",
+      "reviewer": "R2",
+      "model": "Fable",
+      "mean_rank": 3.5714285714285716,
+      "ci_lo": 3.0714285714285716,
+      "ci_hi": 4.071428571428571,
+      "n_tasks": 14,
+      "first_count": 0,
+      "last_count": 0
+    },
+    {
+      "scope": "all_completed",
+      "reviewer": "R2",
+      "model": "GLM",
+      "mean_rank": 2.857142857142857,
+      "ci_lo": 2.142857142857143,
+      "ci_hi": 3.5714285714285716,
+      "n_tasks": 14,
+      "first_count": 2,
+      "last_count": 1
+    },
+    {
+      "scope": "all_completed",
+      "reviewer": "R2",
+      "model": "Kimi",
+      "mean_rank": 4.142857142857143,
+      "ci_lo": 3.4285714285714284,
+      "ci_hi": 4.785714285714286,
+      "n_tasks": 14,
+      "first_count": 0,
+      "last_count": 2
+    },
+    {
+      "scope": "all_completed",
+      "reviewer": "R2",
+      "model": "Gemini",
+      "mean_rank": 5.428571428571429,
+      "ci_lo": 4.642857142857143,
+      "ci_hi": 6.0,
+      "n_tasks": 14,
+      "first_count": 1,
+      "last_count": 11
+    },
+    {
+      "scope": "common_tasks",
+      "reviewer": "R1",
+      "model": "Opus",
+      "mean_rank": 1.2857142857142858,
+      "ci_lo": 1.0,
+      "ci_hi": 1.6428571428571428,
+      "n_tasks": 14,
+      "first_count": 11,
+      "last_count": 0
+    },
+    {
+      "scope": "common_tasks",
+      "reviewer": "R1",
+      "model": "GPT",
+      "mean_rank": 2.2857142857142856,
+      "ci_lo": 1.8571428571428572,
+      "ci_hi": 2.7857142857142856,
+      "n_tasks": 14,
+      "first_count": 2,
+      "last_count": 0
+    },
+    {
+      "scope": "common_tasks",
+      "reviewer": "R1",
+      "model": "Fable",
+      "mean_rank": 3.142857142857143,
+      "ci_lo": 2.5,
+      "ci_hi": 3.7857142857142856,
+      "n_tasks": 14,
+      "first_count": 1,
+      "last_count": 0
+    },
+    {
+      "scope": "common_tasks",
+      "reviewer": "R1",
+      "model": "GLM",
+      "mean_rank": 3.7857142857142856,
+      "ci_lo": 3.357142857142857,
+      "ci_hi": 4.285714285714286,
+      "n_tasks": 14,
+      "first_count": 0,
+      "last_count": 1
+    },
+    {
+      "scope": "common_tasks",
+      "reviewer": "R1",
+      "model": "Kimi",
+      "mean_rank": 4.571428571428571,
+      "ci_lo": 4.214285714285714,
+      "ci_hi": 4.857142857142857,
+      "n_tasks": 14,
+      "first_count": 0,
+      "last_count": 0
+    },
+    {
+      "scope": "common_tasks",
+      "reviewer": "R1",
+      "model": "Gemini",
+      "mean_rank": 5.928571428571429,
+      "ci_lo": 5.785714285714286,
+      "ci_hi": 6.0,
+      "n_tasks": 14,
+      "first_count": 0,
+      "last_count": 13
+    },
+    {
+      "scope": "common_tasks",
+      "reviewer": "R2",
+      "model": "Opus",
+      "mean_rank": 1.2142857142857142,
+      "ci_lo": 1.0,
+      "ci_hi": 1.4285714285714286,
+      "n_tasks": 14,
+      "first_count": 11,
+      "last_count": 0
+    },
+    {
+      "scope": "common_tasks",
+      "reviewer": "R2",
+      "model": "GPT",
+      "mean_rank": 3.7857142857142856,
+      "ci_lo": 3.2142857142857144,
+      "ci_hi": 4.357142857142857,
+      "n_tasks": 14,
+      "first_count": 0,
+      "last_count": 0
+    },
+    {
+      "scope": "common_tasks",
+      "reviewer": "R2",
+      "model": "Fable",
+      "mean_rank": 3.5714285714285716,
+      "ci_lo": 3.0714285714285716,
+      "ci_hi": 4.071428571428571,
+      "n_tasks": 14,
+      "first_count": 0,
+      "last_count": 0
+    },
+    {
+      "scope": "common_tasks",
+      "reviewer": "R2",
+      "model": "GLM",
+      "mean_rank": 2.857142857142857,
+      "ci_lo": 2.142857142857143,
+      "ci_hi": 3.5714285714285716,
+      "n_tasks": 14,
+      "first_count": 2,
+      "last_count": 1
+    },
+    {
+      "scope": "common_tasks",
+      "reviewer": "R2",
+      "model": "Kimi",
+      "mean_rank": 4.142857142857143,
+      "ci_lo": 3.4285714285714284,
+      "ci_hi": 4.785714285714286,
+      "n_tasks": 14,
+      "first_count": 0,
+      "last_count": 2
+    },
+    {
+      "scope": "common_tasks",
+      "reviewer": "R2",
+      "model": "Gemini",
+      "mean_rank": 5.428571428571429,
+      "ci_lo": 4.642857142857143,
+      "ci_hi": 6.0,
+      "n_tasks": 14,
+      "first_count": 1,
+      "last_count": 11
+    }
+  ],
+  "inter_reviewer": {
+    "tau_b": {
+      "estimate": 0.5238095238095237,
+      "lo": 0.419047619047619,
+      "hi": 0.6380952380952379,
+      "n_tasks": 14
+    },
+    "top1_agreement": {
+      "estimate": 0.6428571428571429,
+      "lo": 0.35714285714285715,
+      "hi": 0.8571428571428571,
+      "n_tasks": 14
+    },
+    "top1_same": 9,
+    "rank_implied_pair_agreement": {
+      "estimate": 0.7619047619047619,
+      "lo": 0.7095238095238096,
+      "hi": 0.819047619047619,
+      "n_tasks": 14
+    }
+  },
+  "rubric_agreement": {
+    "strict_matched": {
+      "R1": {
+        "tau_b": {
+          "estimate": 0.6769400145129154,
+          "lo": 0.5829309247384847,
+          "hi": 0.7556852226199442,
+          "n_tasks": 24
+        },
+        "top1_set_hit": {
+          "estimate": 0.75,
+          "lo": 0.5833333333333334,
+          "hi": 0.9166666666666666,
+          "n_tasks": 24
+        },
+        "top1_unique_hit": {
+          "estimate": 0.7083333333333334,
+          "lo": 0.5,
+          "hi": 0.875,
+          "n_tasks": 24
+        },
+        "direct_pair_agreement": {
+          "estimate": 0.817351598173516,
+          "lo": 0.7663551401869159,
+          "hi": 0.8622222222222222,
+          "n_tasks": 24
+        },
+        "direct_agree": 179,
+        "direct_decisive": 219,
+        "direct_score_ties": 10,
+        "top1_set_hits": 18,
+        "top1_unique_hits": 17,
+        "rubric_top_tied_tasks": 1
+      },
+      "R2": {
+        "tau_b": {
+          "estimate": 0.628588038179204,
+          "lo": 0.5211548173393472,
+          "hi": 0.7250386544996952,
+          "n_tasks": 12
+        },
+        "top1_set_hit": {
+          "estimate": 0.8333333333333334,
+          "lo": 0.5833333333333334,
+          "hi": 1.0,
+          "n_tasks": 12
+        },
+        "top1_unique_hit": {
+          "estimate": 0.8333333333333334,
+          "lo": 0.5833333333333334,
+          "hi": 1.0,
+          "n_tasks": 12
+        },
+        "direct_pair_agreement": {
+          "estimate": 0.7876106194690266,
+          "lo": 0.7117117117117117,
+          "hi": 0.8495575221238938,
+          "n_tasks": 12
+        },
+        "direct_agree": 89,
+        "direct_decisive": 113,
+        "direct_score_ties": 9,
+        "top1_set_hits": 10,
+        "top1_unique_hits": 10,
+        "rubric_top_tied_tasks": 0
+      }
+    },
+    "arena_embedded_sensitivity": {
+      "R1": {
+        "tau_b": {
+          "estimate": 0.6688309410922161,
+          "lo": 0.5840209148463592,
+          "hi": 0.7422216577007756,
+          "n_tasks": 28
+        },
+        "top1_set_hit": {
+          "estimate": 0.7142857142857143,
+          "lo": 0.5357142857142857,
+          "hi": 0.8571428571428571,
+          "n_tasks": 28
+        },
+        "top1_unique_hit": {
+          "estimate": 0.6785714285714286,
+          "lo": 0.5,
+          "hi": 0.8571428571428571,
+          "n_tasks": 28
+        },
+        "direct_pair_agreement": {
+          "estimate": 0.80859375,
+          "lo": 0.7622943086916176,
+          "hi": 0.85,
+          "n_tasks": 28
+        },
+        "direct_agree": 207,
+        "direct_decisive": 256,
+        "direct_score_ties": 11,
+        "top1_set_hits": 20,
+        "top1_unique_hits": 19,
+        "rubric_top_tied_tasks": 2
+      },
+      "R2": {
+        "tau_b": {
+          "estimate": 0.6340278422488413,
+          "lo": 0.5299261205302863,
+          "hi": 0.7270700965364261,
+          "n_tasks": 14
+        },
+        "top1_set_hit": {
+          "estimate": 0.7857142857142857,
+          "lo": 0.5714285714285714,
+          "hi": 1.0,
+          "n_tasks": 14
+        },
+        "top1_unique_hit": {
+          "estimate": 0.7857142857142857,
+          "lo": 0.5714285714285714,
+          "hi": 1.0,
+          "n_tasks": 14
+        },
+        "direct_pair_agreement": {
+          "estimate": 0.7835820895522388,
+          "lo": 0.7089552238805971,
+          "hi": 0.8467153284671532,
+          "n_tasks": 14
+        },
+        "direct_agree": 105,
+        "direct_decisive": 134,
+        "direct_score_ties": 9,
+        "top1_set_hits": 11,
+        "top1_unique_hits": 11,
+        "rubric_top_tied_tasks": 0
+      }
+    }
+  },
+  "sqlite_completed_sensitivity": {
+    "R1": {
+      "tau_b": {
+        "estimate": 0.7092707397815928,
+        "lo": 0.6444286063353998,
+        "hi": 0.7701059554649708,
+        "n_tasks": 23
+      },
+      "top1_set_hit": {
+        "estimate": 0.782608695652174,
+        "lo": 0.6086956521739131,
+        "hi": 0.9565217391304348,
+        "n_tasks": 23
+      },
+      "top1_unique_hit": {
+        "estimate": 0.7391304347826086,
+        "lo": 0.5652173913043478,
+        "hi": 0.9130434782608695,
+        "n_tasks": 23
+      },
+      "direct_pair_agreement": {
+        "estimate": 0.8325358851674641,
+        "lo": 0.7920792079207921,
+        "hi": 0.8709677419354839,
+        "n_tasks": 23
+      },
+      "direct_agree": 174,
+      "direct_decisive": 209,
+      "direct_score_ties": 10,
+      "top1_set_hits": 18,
+      "top1_unique_hits": 17,
+      "rubric_top_tied_tasks": 1
+    },
+    "R2": {
+      "tau_b": {
+        "estimate": 0.628588038179204,
+        "lo": 0.5211548173393472,
+        "hi": 0.7250386544996952,
+        "n_tasks": 12
+      },
+      "top1_set_hit": {
+        "estimate": 0.8333333333333334,
+        "lo": 0.5833333333333334,
+        "hi": 1.0,
+        "n_tasks": 12
+      },
+      "top1_unique_hit": {
+        "estimate": 0.8333333333333334,
+        "lo": 0.5833333333333334,
+        "hi": 1.0,
+        "n_tasks": 12
+      },
+      "direct_pair_agreement": {
+        "estimate": 0.7876106194690266,
+        "lo": 0.7117117117117117,
+        "hi": 0.8495575221238938,
+        "n_tasks": 12
+      },
+      "direct_agree": 89,
+      "direct_decisive": 113,
+      "direct_score_ties": 9,
+      "top1_set_hits": 10,
+      "top1_unique_hits": 10,
+      "rubric_top_tied_tasks": 0
+    }
+  },
+  "duplicate_active_votes": {
+    "repeated_active_pair": 2,
+    "conflicting_repeated_pair": 2
+  },
+  "completed_rank_vote_conflicts": 0,
+  "inputs": {
+    "arena/sorting.json": "5ec88a7d9cf36133070f8405c8aeb81e28a7dc2b224afed889e984f855bc2dcb",
+    "arena/arena.sqlite3": "0ff3da03b1a75f3d2204a84aa8246a73f8fec503de39f7159258efad8454da80",
+    "deliver-20261103/manifest.csv": "cf528c59c98c97a05658b89b0e8ef85b74cb98a94df9b8a98a4ccdd81d6de604",
+    "results_eval/资产清单-索引.csv": "d8cfc588d73d982cf5bab9082699a5084844193985e5e557f1c827bfd853d8f8"
+  }
+}

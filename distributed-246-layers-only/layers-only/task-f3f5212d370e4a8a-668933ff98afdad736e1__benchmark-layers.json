@@ -1,0 +1,276 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Login",
+      "size": "428×928",
+      "nodes": 25,
+      "max_depth": 4,
+      "instances": 8,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "instance×8",
+        "frame×6"
+      ],
+      "names": [
+        "Content",
+        "Logo",
+        "title",
+        "sub",
+        "Email field",
+        "Password field"
+      ]
+    },
+    {
+      "name": "02_Home_Chats",
+      "size": "428×928",
+      "nodes": 28,
+      "max_depth": 5,
+      "instances": 19,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "frame×7",
+        "text×2"
+      ],
+      "names": [
+        "Content (scroll)",
+        "Top bar",
+        "Back",
+        "Avatar (profile)",
+        "Hero",
+        "Logo"
+      ]
+    },
+    {
+      "name": "03_Home_Images",
+      "size": "428×928",
+      "nodes": 34,
+      "max_depth": 4,
+      "instances": 19,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "frame×13",
+        "text×2"
+      ],
+      "names": [
+        "Content (scroll)",
+        "Top bar",
+        "Back",
+        "Avatar (profile)",
+        "Hero",
+        "Logo"
+      ]
+    },
+    {
+      "name": "04_Home_Exports",
+      "size": "428×928",
+      "nodes": 25,
+      "max_depth": 3,
+      "instances": 18,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "frame×5",
+        "text×2"
+      ],
+      "names": [
+        "Content (scroll)",
+        "Top bar",
+        "Back",
+        "Avatar (profile)",
+        "Hero",
+        "Logo"
+      ]
+    },
+    {
+      "name": "05_Chat_New",
+      "size": "428×928",
+      "nodes": 24,
+      "max_depth": 5,
+      "instances": 13,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×8",
+        "text×3"
+      ],
+      "names": [
+        "Content",
+        "Logo",
+        "Greeting",
+        "Suggestions",
+        "SuggestionCard",
+        "Chat header"
+      ]
+    },
+    {
+      "name": "06_Chat_Conversation",
+      "size": "428×928",
+      "nodes": 36,
+      "max_depth": 5,
+      "instances": 23,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×23",
+        "frame×11",
+        "text×2"
+      ],
+      "names": [
+        "Messages (scroll)",
+        "Bubble/User",
+        "Message actions",
+        "Action Edit",
+        "Action Copy",
+        "Bubble/Bot"
+      ]
+    },
+    {
+      "name": "07_Export_PDF_Sheet",
+      "size": "428×928",
+      "nodes": 47,
+      "max_depth": 5,
+      "instances": 27,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×27",
+        "frame×14",
+        "text×4",
+        "rectangle×2"
+      ],
+      "names": [
+        "Messages (scroll)",
+        "Bubble/User",
+        "Message actions",
+        "Action Edit",
+        "Action Copy",
+        "Bubble/Bot"
+      ]
+    },
+    {
+      "name": "08_Profile_Settings",
+      "size": "428×928",
+      "nodes": 26,
+      "max_depth": 5,
+      "instances": 11,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×8",
+        "frame×7"
+      ],
+      "names": [
+        "Content",
+        "Top bar",
+        "Back",
+        "Title",
+        "More",
+        "Account card"
+      ]
+    },
+    {
+      "name": "09_Account_Actions_Sheet",
+      "size": "428×928",
+      "nodes": 31,
+      "max_depth": 5,
+      "instances": 13,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×8",
+        "text×8",
+        "rectangle×2"
+      ],
+      "names": [
+        "Content",
+        "Top bar",
+        "Back",
+        "Title",
+        "More",
+        "Account card"
+      ]
+    },
+    {
+      "name": "10_Theme_Sheet",
+      "size": "428×928",
+      "nodes": 33,
+      "max_depth": 5,
+      "instances": 14,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×9",
+        "frame×8",
+        "rectangle×2"
+      ],
+      "names": [
+        "Content",
+        "Top bar",
+        "Back",
+        "Title",
+        "More",
+        "Account card"
+      ]
+    },
+    {
+      "name": "11_Cloud_Space",
+      "size": "428×928",
+      "nodes": 66,
+      "max_depth": 5,
+      "instances": 14,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "frame×26",
+        "text×20",
+        "instance×14",
+        "rectangle×3",
+        "ellipse×3"
+      ],
+      "names": [
+        "Content (scroll)",
+        "Top bar",
+        "Back",
+        "Title",
+        "More",
+        "Usage card"
+      ]
+    },
+    {
+      "name": "12_Clear_Cache_Dialog",
+      "size": "428×928",
+      "nodes": 73,
+      "max_depth": 5,
+      "instances": 16,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "frame×28",
+        "text×22",
+        "instance×16",
+        "rectangle×4",
+        "ellipse×3"
+      ],
+      "names": [
+        "Content (scroll)",
+        "Top bar",
+        "Back",
+        "Title",
+        "More",
+        "Usage card"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿case_id,title,reviewer_at_minimum,minimum_tau_b,selection_rule
+6case-case-005,FinX,R1,-0.06666666666666665,"lowest minimum strict-matched task-reviewer tau; five unique tasks, post-hoc"
+3case-case-002,Paradise Invest,R2,0.27602622373694163,"lowest minimum strict-matched task-reviewer tau; five unique tasks, post-hoc"
+6case-case-003,Stylish,R2,0.27602622373694163,"lowest minimum strict-matched task-reviewer tau; five unique tasks, post-hoc"
+6case-case-006,Fruit Hub,R1,0.29814239699997197,"lowest minimum strict-matched task-reviewer tau; five unique tasks, post-hoc"
+web10-case-006,Octom,R1,0.41403933560541256,"lowest minimum strict-matched task-reviewer tau; five unique tasks, post-hoc"

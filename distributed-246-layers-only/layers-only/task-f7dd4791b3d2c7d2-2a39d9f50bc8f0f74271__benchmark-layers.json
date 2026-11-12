@@ -1,0 +1,364 @@
+{
+  "board_count": 17,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "414×896",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Hero",
+        "Logo_Self_Care_Mark",
+        "Self Care",
+        "Photo_Onboarding_Doctor"
+      ]
+    },
+    {
+      "name": "02_Choose_Role",
+      "size": "414×896",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Self_Care_Mark",
+        "Let’s get acquainted",
+        "Lorem ipsum dolor sit am",
+        "I’m a patient / Card"
+      ]
+    },
+    {
+      "name": "03_About_You",
+      "size": "414×896",
+      "nodes": 15,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Self_Care_Mark",
+        "A little about yourself",
+        "Lorem ipsum dolor sit am",
+        "Your gender"
+      ]
+    },
+    {
+      "name": "04_Sign_In",
+      "size": "414×896",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Self_Care_Mark",
+        "Sign In",
+        "Email",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "05_Sign_Up",
+      "size": "414×896",
+      "nodes": 15,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Self_Care_Mark",
+        "Sign Up",
+        "Full Name",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "06_Sign_Up_Error",
+      "size": "414×896",
+      "nodes": 18,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×9"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Self_Care_Mark",
+        "Sign Up",
+        "Full Name *",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "07_Verify_Code",
+      "size": "414×896",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Self_Care_Mark",
+        "Your Code",
+        "Code sent to your email",
+        "Code box / 1"
+      ]
+    },
+    {
+      "name": "08_Home",
+      "size": "414×896",
+      "nodes": 26,
+      "max_depth": 1,
+      "instances": 19,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Welcome Back, Jan!",
+        "Icon_Location",
+        "Warsaw, Poland",
+        "Icon_Bell"
+      ]
+    },
+    {
+      "name": "10_Doctors",
+      "size": "414×896",
+      "nodes": 23,
+      "max_depth": 1,
+      "instances": 20,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Back → 8",
+        "Icon_Bell",
+        "Doctors",
+        "Search field"
+      ]
+    },
+    {
+      "name": "09_Visit",
+      "size": "414×896",
+      "nodes": 30,
+      "max_depth": 1,
+      "instances": 23,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×23",
+        "text×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Back → 8",
+        "Icon_Bell",
+        "Doctor header / Eleanor",
+        "Stat / Patients / Eleano"
+      ]
+    },
+    {
+      "name": "11_Doctor_Profile",
+      "size": "414×896",
+      "nodes": 31,
+      "max_depth": 1,
+      "instances": 24,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×24",
+        "text×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Back → 10",
+        "Icon_Bell",
+        "Doctor header / Floyd",
+        "Stat / Patients / Floyd"
+      ]
+    },
+    {
+      "name": "12_Booking_Confirmed",
+      "size": "414×896",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Back → 11",
+        "Icon_Bell",
+        "Logo_Self_Care_Mark",
+        "Self Care"
+      ]
+    },
+    {
+      "name": "13_Payment",
+      "size": "414×896",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Back → 12",
+        "Icon_Bell",
+        "Payment Options",
+        "Choose your payment meth"
+      ]
+    },
+    {
+      "name": "14_Chats",
+      "size": "414×896",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Back → 8",
+        "Icon_Bell",
+        "Chat",
+        "Chat row / Floyd → 15"
+      ]
+    },
+    {
+      "name": "15_Chat",
+      "size": "414×896",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 13,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Back → 14",
+        "Icon_Bell",
+        "Avatar_Floyd_Miles",
+        "Dr. Floyd Miles"
+      ]
+    },
+    {
+      "name": "16_Prescriptions",
+      "size": "414×896",
+      "nodes": 17,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Back → 8",
+        "Icon_Bell",
+        "Prescriptions",
+        "Avatar_Jacob_Jones"
+      ]
+    },
+    {
+      "name": "17_Video_Call",
+      "size": "414×896",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Photo_Video_Call_Doctor",
+        "Video tint",
+        "Dr. Wade Warren",
+        "Psychiatrist"
+      ]
+    }
+  ]
+}

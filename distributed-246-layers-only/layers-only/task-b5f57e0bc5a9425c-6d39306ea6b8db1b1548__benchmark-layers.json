@@ -1,0 +1,49 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4549",
+      "nodes": 87,
+      "max_depth": 5,
+      "instances": 23,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "frame×33",
+        "text×31",
+        "instance×23"
+      ],
+      "names": [
+        "Header",
+        "Hero",
+        "Hero Text",
+        "NORTHGATE HOMES",
+        "Beautiful homes made for",
+        "Hand-picked homes, hones"
+      ]
+    },
+    {
+      "name": "02_Property",
+      "size": "1440×2847",
+      "nodes": 118,
+      "max_depth": 7,
+      "instances": 43,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "instance×43",
+        "frame×43",
+        "text×32"
+      ],
+      "names": [
+        "Header",
+        "Title Bar",
+        "Title Left",
+        "Modern House",
+        "3002 Foster Ave, Brookly",
+        "Title Right"
+      ]
+    }
+  ]
+}

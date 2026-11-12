@@ -1,0 +1,7 @@
+﻿case_id,reviewer,session_status,source_table,pair_id,comment
+6case-case-003,R2,complete,pair_screen_votes,3d66212c2df61160043c63f8,左边这个也是有内容但是因为画板大小限制有点显示不全
+6case-case-003,R2,complete,pair_screen_votes,b71f969efaab1d42639780c5,a又看不到了
+6case-case-003,R2,complete,pair_screen_votes,b71f969efaab1d42639780c5,a感觉很多这种问题 左边又是没什么内容的
+6case-case-006,R2,paused-unable,ballots,1c9f443f0158af0a259fdc16,B感觉有很多基础问题啊 为什么连画板顺序都不对
+6case-case-006,R2,paused-unable,ballots,49c2a89a512b725d1ed3dc9f,B有两套内容
+6case-case-006,R2,paused-unable,ballots,53197332c3be46e0eae14aa8,这个应该是本来只有10个画板？a组现在有20个 导致不知道怎么比了。b组是10个

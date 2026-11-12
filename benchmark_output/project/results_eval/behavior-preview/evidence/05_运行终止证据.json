@@ -1,0 +1,42 @@
+{
+  "run_4febc55c8cc34af7": {
+    "record_index": 36,
+    "timestamp_utc": "2026-10-31T21:10:55.109861+00:00",
+    "model": "gemini-3.5-flash",
+    "content": [
+      {
+        "type": "text",
+        "text": ""
+      }
+    ],
+    "stop_reason": "refusal",
+    "runner_result": {
+      "stop_reason": "refusal",
+      "terminal_reason": "api_error",
+      "is_error": true,
+      "safety_stops": 2,
+      "num_turns": 36
+    },
+    "runner_log_line": 122
+  },
+  "run_70ef8ee82cfa4041": {
+    "record_index": 39,
+    "timestamp_utc": "2026-11-01T10:34:40.936880+00:00",
+    "model": "gemini-3.5-flash",
+    "content": [
+      {
+        "type": "text",
+        "text": ""
+      }
+    ],
+    "stop_reason": "refusal",
+    "runner_result": {
+      "stop_reason": "refusal",
+      "terminal_reason": "api_error",
+      "is_error": true,
+      "safety_stops": 2,
+      "num_turns": 39
+    },
+    "runner_log_line": 127
+  }
+}

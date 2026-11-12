@@ -1,0 +1,125 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Sign_In",
+      "size": "375×812",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3"
+      ],
+      "names": [
+        "Audio",
+        "It’s modular and designe"
+      ]
+    },
+    {
+      "name": "02_Sign_Up",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "03_Home",
+      "size": "375×812",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2"
+      ],
+      "names": [
+        "Hi, Andrea",
+        "What are you looking for"
+      ]
+    },
+    {
+      "name": "04_Search",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "05_Explore_Products",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "06_Filter",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "07_Product_Overview",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "08_Product_Features",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "09_Shopping_Cart",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "10_Profile",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    }
+  ]
+}

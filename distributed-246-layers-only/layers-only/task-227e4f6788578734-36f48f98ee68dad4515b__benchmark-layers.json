@@ -1,0 +1,302 @@
+{
+  "board_count": 14,
+  "boards": [
+    {
+      "name": "03_Sign_Up",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Text",
+        "Let’s explore together!",
+        "Create your Placoo accou"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "375×2510",
+      "nodes": 49,
+      "max_depth": 2,
+      "instances": 18,
+      "texts": 30,
+      "images": 0,
+      "types": [
+        "text×30",
+        "instance×18",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Find your place in",
+        "Icon_Location",
+        "Surabaya, Indonesia",
+        "Icon_Chevron_Down"
+      ]
+    },
+    {
+      "name": "05_Explore",
+      "size": "375×1790",
+      "nodes": 22,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "instance×10"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Explore",
+        "Search",
+        "Find out your next trip!",
+        "Photo_Bali"
+      ]
+    },
+    {
+      "name": "06_Property_Details",
+      "size": "375×2850",
+      "nodes": 47,
+      "max_depth": 1,
+      "instances": 30,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "instance×30",
+        "text×17"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Photo_Bromo_Cabin",
+        "Back",
+        "Text",
+        "Icon_Share"
+      ]
+    },
+    {
+      "name": "07_Filter",
+      "size": "375×1780",
+      "nodes": 81,
+      "max_depth": 2,
+      "instances": 30,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "frame×36",
+        "instance×30",
+        "text×15"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Filter",
+        "Row / Reset all",
+        "Search"
+      ]
+    },
+    {
+      "name": "08_Search_Results",
+      "size": "375×1210",
+      "nodes": 25,
+      "max_depth": 1,
+      "instances": 19,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×5",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Image_Map",
+        "Back",
+        "Text",
+        "Search"
+      ]
+    },
+    {
+      "name": "09_Search_Pin_Selected",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 1,
+      "instances": 18,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Image_Map",
+        "Back",
+        "Text",
+        "Search"
+      ]
+    },
+    {
+      "name": "10_Rent_Booking",
+      "size": "375×1270",
+      "nodes": 26,
+      "max_depth": 1,
+      "instances": 18,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×8"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Rent booking",
+        "Icon_Help",
+        "Bromo cabin card"
+      ]
+    },
+    {
+      "name": "11_Chat",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Messages",
+        "Search",
+        "Kari Rasmussen row",
+        "Anita Cruz row"
+      ]
+    },
+    {
+      "name": "12_Chat_Room",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Text",
+        "Avatar_Kari",
+        "Kari Rasmussen"
+      ]
+    },
+    {
+      "name": "13_Saved",
+      "size": "375×1030",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Saved places",
+        "Search",
+        "Bromo cabin card",
+        "Entire private villa in "
+      ]
+    },
+    {
+      "name": "14_Profile",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 13,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "My profile",
+        "Avatar_Lucy",
+        "Lucy Bond",
+        "lucy.bond@example.com"
+      ]
+    },
+    {
+      "name": "02_Log_In",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Text",
+        "Welcome Back!",
+        "Log in to your Placoo ac"
+      ]
+    },
+    {
+      "name": "01_Onboarding",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×3"
+      ],
+      "names": [
+        "Photo_Onboarding_1",
+        "Photo_Onboarding_2",
+        "Photo_Onboarding_3",
+        "Photo_Onboarding_4",
+        "Photo_Onboarding_5",
+        "Photo_Onboarding_6"
+      ]
+    }
+  ]
+}

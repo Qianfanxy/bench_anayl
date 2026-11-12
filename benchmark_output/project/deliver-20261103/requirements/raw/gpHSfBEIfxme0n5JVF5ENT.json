@@ -1,0 +1,697 @@
+{
+ "file_key": "gpHSfBEIfxme0n5JVF5ENT",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "6:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "6:5",
+     "name": "Meet — dating and social app",
+     "x": 64,
+     "y": 95,
+     "text": "Meet — dating and social app"
+    },
+    {
+     "id": "6:6",
+     "name": "Design Meet, a dating and social app: sign in, browse stories and posts on Explore, decide on suggested partners, visit a friend’s profile and watch a short, and manage your own profile from its menu. Canvas 393 × 852, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design Meet, a dating and social app: sign in, browse stories and posts on Explore, decide on suggested partners, visit a friend’s profile and watch a short, and manage your own profile from its menu. Canvas 393 × 852, iPhone, light mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "6:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "6:9",
+     "name": "1. Build exactly the 8 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, backgrounds and surfaces including any tint or gradient, overlays on photos, online / active, like, error / disabled), plus type scale, spacing, radii, blur and elevation, and apply them consistently. 4. 02 · Components gives only a default Button and the platform shell (status bar, home indicator). Design all other states, the headers, the tab bar, the tabs, the sheet, the drawer and every business component as reusable components in your file. 5. Use the photos, logo and icons from 04 · Media. Each person always uses their own portrait. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 8 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, backgrounds and surfaces including any tint or gradient, overlays on photos, online / active, like, error / disabled), plus type scale, spacing, radii, blur and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button and the platform shell (status bar, home indicator). Design all other states, the headers, the tab bar, the tabs, the sheet, the drawer and every business component as reusable components in your file.\n5. Use the photos, logo and icons from 04 · Media. Each person always uses their own portrait.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "6:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 554,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "6:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 605,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "6:15",
+     "name": "01_Welcome",
+     "x": 88,
+     "y": 667,
+     "text": "01_Welcome"
+    },
+    {
+     "id": "6:22",
+     "name": "02_Apple_ID_Sheet",
+     "x": 756,
+     "y": 667,
+     "text": "02_Apple_ID_Sheet"
+    },
+    {
+     "id": "6:16",
+     "name": "Goal: Choose how to get started.",
+     "x": 88,
+     "y": 703,
+     "text": "Goal: Choose how to get started."
+    },
+    {
+     "id": "6:23",
+     "name": "Goal: Confirm signing in with an Apple ID.",
+     "x": 756,
+     "y": 703,
+     "text": "Goal: Confirm signing in with an Apple ID."
+    },
+    {
+     "id": "6:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:18",
+     "name": "• Actions: “Continue with Facebook” (Icon_Facebook) · “Continue with Google” (Icon_Google) · “Use mobile number” · “Sign Up” • Copy: “Don’t have an account?” · headline “Let’s meet new people around you” • Media: Portrait_Sarah_Payne with a heart (Icon_Heart) · Portrait_Henry · Portrait_Lucie · Portrait_Marry · Portrait_Pierre",
+     "x": 88,
+     "y": 759,
+     "text": "• Actions: “Continue with Facebook” (Icon_Facebook) · “Continue with Google” (Icon_Google) · “Use mobile number” · “Sign Up”\n• Copy: “Don’t have an account?” · headline “Let’s meet new people around you”\n• Media: Portrait_Sarah_Payne with a heart (Icon_Heart) · Portrait_Henry · Portrait_Lucie · Portrait_Marry · Portrait_Pierre"
+    },
+    {
+     "id": "6:25",
+     "name": "• Actions: close (Icon_Close) · Face ID (Icon_Face_ID) • App: Logo_Meet • Copy: “Apple ID” · “Do you want to sign in to Meet Dating App: Meet People with your Apple ID “sarahp@example.com”?” · “Face ID” • Presentation: sheet over 01_Welcome",
+     "x": 756,
+     "y": 759,
+     "text": "• Actions: close (Icon_Close) · Face ID (Icon_Face_ID)\n• App: Logo_Meet\n• Copy: “Apple ID” · “Do you want to sign in to Meet Dating App: Meet People with your Apple ID “sarahp@example.com”?” · “Face ID”\n• Presentation: sheet over 01_Welcome"
+    },
+    {
+     "id": "6:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 869,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 869,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:20",
+     "name": "→ Sign Up → 02_Apple_ID_Sheet",
+     "x": 88,
+     "y": 895,
+     "text": "→ Sign Up → 02_Apple_ID_Sheet"
+    },
+    {
+     "id": "6:27",
+     "name": "→ Face ID → 03_Explore → close → 01_Welcome",
+     "x": 756,
+     "y": 895,
+     "text": "→ Face ID → 03_Explore\n→ close → 01_Welcome"
+    },
+    {
+     "id": "6:29",
+     "name": "03_Explore",
+     "x": 88,
+     "y": 1007,
+     "text": "03_Explore"
+    },
+    {
+     "id": "6:36",
+     "name": "04_Find_Partner",
+     "x": 756,
+     "y": 1007,
+     "text": "04_Find_Partner"
+    },
+    {
+     "id": "6:30",
+     "name": "Goal: Catch up on stories and posts from people.",
+     "x": 88,
+     "y": 1043,
+     "text": "Goal: Catch up on stories and posts from people."
+    },
+    {
+     "id": "6:37",
+     "name": "Goal: Decide on the next suggested partner.",
+     "x": 756,
+     "y": 1043,
+     "text": "Goal: Decide on the next suggested partner."
+    },
+    {
+     "id": "6:31",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1073,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:38",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1073,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:32",
+     "name": "• Actions: “Make Friends” · “Search Partners” • Feed: Noemi Slater · Yu Jian · Maddison Burke posts, each with portrait, name, photo and like (Icon_Like) / comment (Icon_Chat) / more (Icon_More) (see DATA) • Header: “Explore” · notifications (Icon_Bell) • Main navigation: tab bar Home / Dating / Add / Chat / Profile · current: Home • Stories: “Your Story” with add (Icon_Plus) · Ben · Lucie · Marry · Claire · Lina · Jo · Henry · Pierre, each with portrait and first name",
+     "x": 88,
+     "y": 1099,
+     "text": "• Actions: “Make Friends” · “Search Partners”\n• Feed: Noemi Slater · Yu Jian · Maddison Burke posts, each with portrait, name, photo and like (Icon_Like) / comment (Icon_Chat) / more (Icon_More) (see DATA)\n• Header: “Explore” · notifications (Icon_Bell)\n• Main navigation: tab bar Home / Dating / Add / Chat / Profile · current: Home\n• Stories: “Your Story” with add (Icon_Plus) · Ben · Lucie · Marry · Claire · Lina · Jo · Henry · Pierre, each with portrait and first name"
+    },
+    {
+     "id": "6:39",
+     "name": "• Actions: like (Icon_Heart) · pass (Icon_Close) · super like (Icon_Star) • Card stack: top card John, 27 · San Francisco (Icon_Location) · 20 km away · Active Now (Portrait_John); 5 more cards behind it (see DATA) • Header: back (Icon_Back) · “Find your partner” • Main navigation: tab bar · current: Dating",
+     "x": 756,
+     "y": 1099,
+     "text": "• Actions: like (Icon_Heart) · pass (Icon_Close) · super like (Icon_Star)\n• Card stack: top card John, 27 · San Francisco (Icon_Location) · 20 km away · Active Now (Portrait_John); 5 more cards behind it (see DATA)\n• Header: back (Icon_Back) · “Find your partner”\n• Main navigation: tab bar · current: Dating"
+    },
+    {
+     "id": "6:40",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1209,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:41",
+     "name": "→ back / Home tab → 03_Explore → Profile tab → 07_Profile",
+     "x": 756,
+     "y": 1235,
+     "text": "→ back / Home tab → 03_Explore\n→ Profile tab → 07_Profile"
+    },
+    {
+     "id": "6:33",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1249,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:34",
+     "name": "→ Claire (story) → 05_Friend_Profile → Dating tab → 04_Find_Partner → Profile tab → 07_Profile",
+     "x": 88,
+     "y": 1275,
+     "text": "→ Claire (story) → 05_Friend_Profile\n→ Dating tab → 04_Find_Partner\n→ Profile tab → 07_Profile"
+    },
+    {
+     "id": "6:43",
+     "name": "05_Friend_Profile",
+     "x": 88,
+     "y": 1407,
+     "text": "05_Friend_Profile"
+    },
+    {
+     "id": "6:50",
+     "name": "06_Short_Video",
+     "x": 756,
+     "y": 1407,
+     "text": "06_Short_Video"
+    },
+    {
+     "id": "6:44",
+     "name": "Goal: See who Claire is and connect.",
+     "x": 88,
+     "y": 1443,
+     "text": "Goal: See who Claire is and connect."
+    },
+    {
+     "id": "6:51",
+     "name": "Goal: Watch a short and react to it.",
+     "x": 756,
+     "y": 1443,
+     "text": "Goal: Watch a short and react to it."
+    },
+    {
+     "id": "6:45",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1473,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:52",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1473,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:46",
+     "name": "• Actions: “Follow” · “Message” • Header: back (Icon_Back) · “Claire Smith” · more (Icon_More) • Main navigation: tab bar · current: Home • Media grid: Claire_01 – Claire_09 (01 and 09 are videos, Icon_Play) • Profile: Portrait_Claire_Smith · “63K Followers” • Tabs: Top · Recent · Short · current: Top",
+     "x": 88,
+     "y": 1499,
+     "text": "• Actions: “Follow” · “Message”\n• Header: back (Icon_Back) · “Claire Smith” · more (Icon_More)\n• Main navigation: tab bar · current: Home\n• Media grid: Claire_01 – Claire_09 (01 and 09 are videos, Icon_Play)\n• Profile: Portrait_Claire_Smith · “63K Followers”\n• Tabs: Top · Recent · Short · current: Top"
+    },
+    {
+     "id": "6:53",
+     "name": "• Actions: like 123 (Icon_Heart) · comment 89 (Icon_Chat) · share (Icon_Send) · more (Icon_More) • Author: Portrait_Yu_Jian · “Yu Jian” · “Follow” • Caption: “I think I’m in love with you” · “Liked by Harrison Pearce and others” · music “Nothing Can Stop Me! · Jperriel” (Icon_Music) · “4 people” (Icon_Person) • Header: back (Icon_Back) · “Short” · camera (Icon_Camera) • Main navigation: tab bar · current: Home • Media: Short_Yu_Jian_Shore, full-screen video",
+     "x": 756,
+     "y": 1499,
+     "text": "• Actions: like 123 (Icon_Heart) · comment 89 (Icon_Chat) · share (Icon_Send) · more (Icon_More)\n• Author: Portrait_Yu_Jian · “Yu Jian” · “Follow”\n• Caption: “I think I’m in love with you” · “Liked by Harrison Pearce and others” · music “Nothing Can Stop Me! · Jperriel” (Icon_Music) · “4 people” (Icon_Person)\n• Header: back (Icon_Back) · “Short” · camera (Icon_Camera)\n• Main navigation: tab bar · current: Home\n• Media: Short_Yu_Jian_Shore, full-screen video"
+    },
+    {
+     "id": "6:47",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1629,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:48",
+     "name": "→ back → 03_Explore → Short (tab) → 06_Short_Video",
+     "x": 88,
+     "y": 1655,
+     "text": "→ back → 03_Explore\n→ Short (tab) → 06_Short_Video"
+    },
+    {
+     "id": "6:54",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1669,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:55",
+     "name": "→ back → 05_Friend_Profile",
+     "x": 756,
+     "y": 1695,
+     "text": "→ back → 05_Friend_Profile"
+    },
+    {
+     "id": "6:57",
+     "name": "07_Profile",
+     "x": 88,
+     "y": 1787,
+     "text": "07_Profile"
+    },
+    {
+     "id": "6:64",
+     "name": "08_Menu",
+     "x": 756,
+     "y": 1787,
+     "text": "08_Menu"
+    },
+    {
+     "id": "6:58",
+     "name": "Goal: See and manage my own profile.",
+     "x": 88,
+     "y": 1823,
+     "text": "Goal: See and manage my own profile."
+    },
+    {
+     "id": "6:65",
+     "name": "Goal: Reach account areas from the profile.",
+     "x": 756,
+     "y": 1823,
+     "text": "Goal: Reach account areas from the profile."
+    },
+    {
+     "id": "6:59",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1853,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:66",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1853,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:60",
+     "name": "• Actions: “Edit Profile” · “Share Profile” • Header: menu (Icon_Menu) · “Sarah Payne” • Main navigation: tab bar · current: Profile • Media grid: Sarah_01 – Sarah_09 (01 is a video, Icon_Play) • Profile: Portrait_Sarah_Payne · “103K Followers” • Tabs: Top · Recent · Short · current: Top",
+     "x": 88,
+     "y": 1879,
+     "text": "• Actions: “Edit Profile” · “Share Profile”\n• Header: menu (Icon_Menu) · “Sarah Payne”\n• Main navigation: tab bar · current: Profile\n• Media grid: Sarah_01 – Sarah_09 (01 is a video, Icon_Play)\n• Profile: Portrait_Sarah_Payne · “103K Followers”\n• Tabs: Top · Recent · Short · current: Top"
+    },
+    {
+     "id": "6:67",
+     "name": "• Account: Portrait_Sarah_Payne · “Sarah Payne” · “Show Profile” · close (Icon_Close) • App: Logo_Meet • Menu: Archive · Close Friends · Discover people · Favorites · Group profiles · Saved · Setting · Your Activity, each with its icon and Icon_Chevron_Right (source order in DATA) • Presentation: drawer over 07_Profile",
+     "x": 756,
+     "y": 1879,
+     "text": "• Account: Portrait_Sarah_Payne · “Sarah Payne” · “Show Profile” · close (Icon_Close)\n• App: Logo_Meet\n• Menu: Archive · Close Friends · Discover people · Favorites · Group profiles · Saved · Setting · Your Activity, each with its icon and Icon_Chevron_Right (source order in DATA)\n• Presentation: drawer over 07_Profile"
+    },
+    {
+     "id": "6:68",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1989,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:61",
+     "name": "LINKS",
+     "x": 88,
+     "y": 2009,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:69",
+     "name": "→ close / Show Profile → 07_Profile",
+     "x": 756,
+     "y": 2015,
+     "text": "→ close / Show Profile → 07_Profile"
+    },
+    {
+     "id": "6:62",
+     "name": "→ menu → 08_Menu → Home tab → 03_Explore",
+     "x": 88,
+     "y": 2035,
+     "text": "→ menu → 08_Menu\n→ Home tab → 03_Explore"
+    },
+    {
+     "id": "6:71",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 2147,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "6:72",
+     "name": "• Sign-in flow: 01_Welcome → Sign Up → 02_Apple_ID_Sheet (sheet over 01) → Face ID → 03_Explore. • Bottom tab bar on 03–07 with 5 tabs in this order: Home (Icon_Home), Dating (Icon_Heart), Add (Icon_Plus), Chat (Icon_Chat), Profile (Portrait_Sarah_Payne). Current: Home on 03, 05 and 06; Dating on 04; Profile on 07. How the current tab looks is yours. • 05 and 06 are pushed from Explore (Claire’s story → her profile → its Short tab → the short). 08_Menu is a drawer over 07_Profile. • Entry only (no frame): Continue with Facebook / Google, Use mobile number, notifications, Make Friends, Search Partners, other stories, feed actions, Your Story, like / pass / super like, Follow, Message, more, Top / Recent tabs, grid items, short actions, camera, Edit Profile, Share Profile, menu rows, Add, Chat.",
+     "x": 64,
+     "y": 2198,
+     "text": "• Sign-in flow: 01_Welcome → Sign Up → 02_Apple_ID_Sheet (sheet over 01) → Face ID → 03_Explore.\n• Bottom tab bar on 03–07 with 5 tabs in this order: Home (Icon_Home), Dating (Icon_Heart), Add (Icon_Plus), Chat (Icon_Chat), Profile (Portrait_Sarah_Payne). Current: Home on 03, 05 and 06; Dating on 04; Profile on 07. How the current tab looks is yours.\n• 05 and 06 are pushed from Explore (Claire’s story → her profile → its Short tab → the short). 08_Menu is a drawer over 07_Profile.\n• Entry only (no frame): Continue with Facebook / Google, Use mobile number, notifications, Make Friends, Search Partners, other stories, feed actions, Your Story, like / pass / super like, Follow, Message, more, Top / Recent tabs, grid items, short actions, camera, Edit Profile, Share Profile, menu rows, Add, Chat."
+    },
+    {
+     "id": "6:74",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 2378,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "6:75",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 2429,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "6:78",
+     "name": "Me",
+     "x": 84,
+     "y": 2487,
+     "text": "Me"
+    },
+    {
+     "id": "6:81",
+     "name": "Stories (in this order)",
+     "x": 528,
+     "y": 2487,
+     "text": "Stories (in this order)"
+    },
+    {
+     "id": "6:84",
+     "name": "Feed posts (portrait · photo)",
+     "x": 972,
+     "y": 2487,
+     "text": "Feed posts (portrait · photo)"
+    },
+    {
+     "id": "6:79",
+     "name": "Sarah Payne · 103K Followers · Portrait_Sarah_Payne Apple ID: sarahp@example.com",
+     "x": 84,
+     "y": 2515,
+     "text": "Sarah Payne · 103K Followers · Portrait_Sarah_Payne\nApple ID: sarahp@example.com"
+    },
+    {
+     "id": "6:82",
+     "name": "Your Story (Portrait_Sarah_Payne) · Ben · Lucie · Marry · Claire · Lina · Jo · Henry · Pierre (Portrait_<name>; Claire = Portrait_Claire_Smith)",
+     "x": 528,
+     "y": 2515,
+     "text": "Your Story (Portrait_Sarah_Payne) · Ben · Lucie · Marry · Claire · Lina · Jo · Henry · Pierre (Portrait_<name>; Claire = Portrait_Claire_Smith)"
+    },
+    {
+     "id": "6:85",
+     "name": "Noemi Slater (Portrait_Noemi_Slater · Post_Noemi_Slater) Yu Jian (Portrait_Yu_Jian · Post_Yu_Jian) Maddison Burke (Portrait_Maddison_Burke · Post_Maddison_Burke)",
+     "x": 972,
+     "y": 2515,
+     "text": "Noemi Slater (Portrait_Noemi_Slater · Post_Noemi_Slater)\nYu Jian (Portrait_Yu_Jian · Post_Yu_Jian)\nMaddison Burke (Portrait_Maddison_Burke · Post_Maddison_Burke)"
+    },
+    {
+     "id": "6:87",
+     "name": "Partner cards (top to bottom of the stack)",
+     "x": 84,
+     "y": 2655,
+     "text": "Partner cards (top to bottom of the stack)"
+    },
+    {
+     "id": "6:90",
+     "name": "Friend profile",
+     "x": 528,
+     "y": 2655,
+     "text": "Friend profile"
+    },
+    {
+     "id": "6:93",
+     "name": "Short video",
+     "x": 972,
+     "y": 2655,
+     "text": "Short video"
+    },
+    {
+     "id": "6:88",
+     "name": "John, 27 · San Francisco · 20 km away · Active Now (Portrait_John) Dan, 28 · Fremont · 12 km away · Active Now (Portrait_Dan) Aidan, 25 · San Ramon · 20 km away · Active Now (Portrait_Aidan) William, 24 · Stockton · 40 km away · Active Now (Portrait_William) Keven, 24 · Los Angeles · 560 km away · Active Now (Portrait_Keven) Kalvin, 23 · Los Angeles · 560 km away · Active Now (Portrait_Kalvin)",
+     "x": 84,
+     "y": 2683,
+     "text": "John, 27 · San Francisco · 20 km away · Active Now (Portrait_John)\nDan, 28 · Fremont · 12 km away · Active Now (Portrait_Dan)\nAidan, 25 · San Ramon · 20 km away · Active Now (Portrait_Aidan)\nWilliam, 24 · Stockton · 40 km away · Active Now (Portrait_William)\nKeven, 24 · Los Angeles · 560 km away · Active Now (Portrait_Keven)\nKalvin, 23 · Los Angeles · 560 km away · Active Now (Portrait_Kalvin)"
+    },
+    {
+     "id": "6:91",
+     "name": "Claire Smith · 63K Followers · Portrait_Claire_Smith Grid: Claire_01_Video_Ocean, Claire_02 – Claire_08, Claire_09_Video_Reef",
+     "x": 528,
+     "y": 2683,
+     "text": "Claire Smith · 63K Followers · Portrait_Claire_Smith\nGrid: Claire_01_Video_Ocean, Claire_02 – Claire_08, Claire_09_Video_Reef"
+    },
+    {
+     "id": "6:94",
+     "name": "Yu Jian · “I think I’m in love with you” Liked by Harrison Pearce and others Nothing Can Stop Me! · Jperriel · 4 people Likes 123 · Comments 89",
+     "x": 972,
+     "y": 2683,
+     "text": "Yu Jian · “I think I’m in love with you”\nLiked by Harrison Pearce and others\nNothing Can Stop Me! · Jperriel · 4 people\nLikes 123 · Comments 89"
+    },
+    {
+     "id": "6:96",
+     "name": "My profile grid",
+     "x": 84,
+     "y": 2956,
+     "text": "My profile grid"
+    },
+    {
+     "id": "6:99",
+     "name": "Menu (source order)",
+     "x": 528,
+     "y": 2956,
+     "text": "Menu (source order)"
+    },
+    {
+     "id": "6:97",
+     "name": "Sarah_01_Video_Wave, Sarah_02 – Sarah_09",
+     "x": 84,
+     "y": 2984,
+     "text": "Sarah_01_Video_Wave, Sarah_02 – Sarah_09"
+    },
+    {
+     "id": "6:100",
+     "name": "Setting (Icon_Settings) · Your Activity (Icon_Activity) · Archive (Icon_Archive) · Saved (Icon_Saved) · Close Friends (Icon_Close_Friends) · Favorites (Icon_Star) · Group profiles (Icon_Group) · Discover people (Icon_Discover)",
+     "x": 528,
+     "y": 2984,
+     "text": "Setting (Icon_Settings) · Your Activity (Icon_Activity) · Archive (Icon_Archive) · Saved (Icon_Saved) · Close Friends (Icon_Close_Friends) · Favorites (Icon_Star) · Group profiles (Icon_Group) · Discover people (Icon_Discover)"
+    },
+    {
+     "id": "6:102",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 3128,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "6:105",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 3203,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "6:108",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 3203,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "6:106",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand colors #4B164C + #DD88CF and Inter • Media: portraits, posts, profile grids, logo, icons • Default Button, platform shell",
+     "x": 88,
+     "y": 3236,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand colors #4B164C + #DD88CF and Inter\n• Media: portraits, posts, profile grids, logo, icons\n• Default Button, platform shell"
+    },
+    {
+     "id": "6:109",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, backgrounds / surfaces (tints, gradients), overlays on photos, online / active, like, error / disabled • Type scale, spacing, radii, blur, elevation • All states: current tab, current profile tab, pressed, followed / liked, disabled • Headers, tab bar, tabs, story avatars, feed post, swipe card stack, action buttons, profile header, media grid, short-video overlay, sign-in sheet, drawer and menu rows • How photos are cropped and treated",
+     "x": 756,
+     "y": 3236,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, backgrounds / surfaces (tints, gradients), overlays on photos, online / active, like, error / disabled\n• Type scale, spacing, radii, blur, elevation\n• All states: current tab, current profile tab, pressed, followed / liked, disabled\n• Headers, tab bar, tabs, story avatars, feed post, swipe card stack, action buttons, profile header, media grid, short-video overlay, sign-in sheet, drawer and menu rows\n• How photos are cropped and treated"
+    },
+    {
+     "id": "6:111",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 3468,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "6:112",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 3519,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "6:113",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current tab, current profile tab, top card of the stack, sheet / drawer presentation)",
+     "x": 64,
+     "y": 3557,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current tab, current profile tab, top card of the stack, sheet / drawer presentation)"
+    },
+    {
+     "id": "6:114",
+     "name": "Deliverable: the link to your own Figma file containing the 8 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 3727,
+     "text": "Deliverable: the link to your own Figma file containing the 8 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · Meet",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Meet"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the two brand colors and the typeface below — they carry Meet’s identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces (including any tint or gradient), overlays on photos, semantic colors (online / active, like, error, disabled), type scale, weights per role, spacing, radii, blur and elevation.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the two brand colors and the typeface below — they carry Meet’s identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces (including any tint or gradient), overlays on photos, semantic colors (online / active, like, error, disabled), type scale, weights per role, spacing, radii, blur and elevation."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand colors",
+     "x": 56,
+     "y": 208,
+     "text": "Brand colors"
+    },
+    {
+     "id": "1:12",
+     "name": "Brand primary · plum",
+     "x": 56,
+     "y": 392,
+     "text": "Brand primary · plum"
+    },
+    {
+     "id": "1:17",
+     "name": "Brand secondary · orchid pink",
+     "x": 300,
+     "y": 392,
+     "text": "Brand secondary · orchid pink"
+    },
+    {
+     "id": "1:13",
+     "name": "#4B164C",
+     "x": 56,
+     "y": 417,
+     "text": "#4B164C"
+    },
+    {
+     "id": "1:18",
+     "name": "#DD88CF",
+     "x": 300,
+     "y": 417,
+     "text": "#DD88CF"
+    },
+    {
+     "id": "1:14",
+     "name": "Meet’s main brand color (the “M” of the logo). Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 441,
+     "text": "Meet’s main brand color (the “M” of the logo). Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:19",
+     "name": "The second brand color, Meet’s accent. Where and how much to use it is your decision.",
+     "x": 300,
+     "y": 441,
+     "text": "The second brand color, Meet’s accent. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:20",
+     "name": "Typeface",
+     "x": 56,
+     "y": 518,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:21",
+     "name": "Aa Bb Cc 0123456789 John, 27 103K Followers",
+     "x": 56,
+     "y": 574,
+     "text": "Aa Bb Cc 0123456789  John, 27  103K Followers"
+    },
+    {
+     "id": "1:22",
+     "name": "Use Inter for all UI text (Regular / Medium / Semi Bold / Bold / Extra Bold available; it replaces the source’s SF Pro, which is not available). Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 654,
+     "text": "Use Inter for all UI text (Regular / Medium / Semi Bold / Bold / Extra Bold available; it replaces the source’s SF Pro, which is not available). Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:23",
+     "name": "Canvas: 393 × 852 (iPhone 15). Light mode only. 03_Explore, 05_Friend_Profile and 07_Profile may scroll vertically.",
+     "x": 56,
+     "y": 720,
+     "text": "Canvas: 393 × 852 (iPhone 15). Light mode only. 03_Explore, 05_Friend_Profile and 07_Profile may scroll vertically."
+    }
+   ]
+  }
+ ]
+}

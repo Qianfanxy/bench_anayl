@@ -1,0 +1,218 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Illustration_Runners",
+        "Title panel",
+        "MOVE MORE. EARN MORE.",
+        "Running App",
+        "Run and earn with our ap",
+        "Get Started"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Back",
+        "Icon_Arrow_Left",
+        "Skip",
+        "Artwork backdrop",
+        "Illustration_Onboarding_",
+        "Run"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×7",
+        "frame×1"
+      ],
+      "names": [
+        "Back",
+        "Icon_Arrow_Left",
+        "Logo_App",
+        "Log In",
+        "Email",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "04_Verify_Email",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Back",
+        "Icon_Arrow_Left",
+        "Illustration_Verify_Emai",
+        "Verify your email",
+        "We’ve sent a 4-digit cod",
+        "UI / Code 0"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "375×1111",
+      "nodes": 15,
+      "max_depth": 1,
+      "instances": 13,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×2"
+      ],
+      "names": [
+        "UI / Home header",
+        "UI / Daily goal",
+        "UI / Today",
+        "UI / Steps",
+        "UI / Earned Points",
+        "UI / Share promo"
+      ]
+    },
+    {
+      "name": "06_History",
+      "size": "375×907",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×1"
+      ],
+      "names": [
+        "UI / Header",
+        "UI / Summary",
+        "Recent activity",
+        "UI / History 27",
+        "UI / History 26",
+        "UI / History 25"
+      ]
+    },
+    {
+      "name": "07_Store",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 22,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×22",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "UI / Header",
+        "UI / Category New",
+        "UI / Category Men",
+        "UI / Category Women",
+        "UI / Category Kids",
+        "UI / Category Equip"
+      ]
+    },
+    {
+      "name": "08_Address_Empty",
+      "size": "375×812",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×5"
+      ],
+      "names": [
+        "UI / Header",
+        "UI / Address empty",
+        "Add Address",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "09_New_Wallet",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×1"
+      ],
+      "names": [
+        "UI / Header",
+        "Select the withdrawal ty",
+        "UI / Withdrawal Bank Acc",
+        "UI / Withdrawal Card",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "10_Account_Updated",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×1"
+      ],
+      "names": [
+        "UI / Header",
+        "UI / Account Harbor Bank",
+        "UI / Account Crescent Is",
+        "UI / Account Union Gulf ",
+        "Add New Account",
+        "Modal scrim"
+      ]
+    }
+  ]
+}

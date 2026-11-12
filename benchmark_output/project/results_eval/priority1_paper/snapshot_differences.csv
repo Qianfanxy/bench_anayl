@@ -1,0 +1,3 @@
+﻿session_id,case_id,reviewer,export_status,export_revision,sqlite_status,sqlite_revision
+f13494d58f9e91ff32a70e25,6case-case-005,R1,complete,10,awaiting-vote,8
+4ec2315a74b730436847fcf4,6case-case-004,R2,reviewing,6,paused-unable,6

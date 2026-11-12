@@ -1,0 +1,157 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Frontpage",
+      "size": "1680×5022",
+      "nodes": 45,
+      "max_depth": 6,
+      "instances": 31,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×31",
+        "frame×12",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "News Ticker",
+        "Page Title",
+        "Page padding",
+        "Main",
+        "Left"
+      ]
+    },
+    {
+      "name": "02_Magazine",
+      "size": "1680×4952",
+      "nodes": 37,
+      "max_depth": 4,
+      "instances": 26,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×26",
+        "frame×10",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Page Title",
+        "Page padding",
+        "Category Filter",
+        "Label",
+        "Filter_All"
+      ]
+    },
+    {
+      "name": "03_Magazine_Post",
+      "size": "1680×4575",
+      "nodes": 36,
+      "max_depth": 6,
+      "instances": 13,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×12",
+        "frame×11"
+      ],
+      "names": [
+        "Header",
+        "Page padding",
+        "Back Bar",
+        "Title block",
+        "Tag + Meta",
+        "Tag"
+      ]
+    },
+    {
+      "name": "04_Podcast",
+      "size": "1680×2221",
+      "nodes": 9,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×1"
+      ],
+      "names": [
+        "Header",
+        "Page Title",
+        "Page padding",
+        "Row_Ep05",
+        "Row_Ep04",
+        "Row_Ep03"
+      ]
+    },
+    {
+      "name": "05_Podcast_Post",
+      "size": "1680×3851",
+      "nodes": 35,
+      "max_depth": 7,
+      "instances": 11,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "frame×12",
+        "text×12",
+        "instance×11"
+      ],
+      "names": [
+        "Header",
+        "Page padding",
+        "Back Bar",
+        "Episode hero",
+        "Cover",
+        "Episode info"
+      ]
+    },
+    {
+      "name": "06_Authors",
+      "size": "1680×2046",
+      "nodes": 10,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×1"
+      ],
+      "names": [
+        "Header",
+        "Page Title",
+        "Page padding",
+        "Row_Jakob Grønberg",
+        "Row_Louise Jensen",
+        "Row_Anne Henry"
+      ]
+    },
+    {
+      "name": "07_Author_Profile",
+      "size": "1680×2802",
+      "nodes": 21,
+      "max_depth": 4,
+      "instances": 10,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×6",
+        "text×5"
+      ],
+      "names": [
+        "Header",
+        "Page padding",
+        "Back Bar",
+        "Profile",
+        "Avatar",
+        "Profile info"
+      ]
+    }
+  ]
+}

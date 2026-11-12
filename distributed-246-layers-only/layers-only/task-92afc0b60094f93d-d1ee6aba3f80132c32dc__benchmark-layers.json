@@ -1,0 +1,164 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Frontpage",
+      "size": "1680×5910",
+      "nodes": 59,
+      "max_depth": 2,
+      "instances": 27,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "instance×27",
+        "text×25",
+        "frame×4",
+        "rectangle×3"
+      ],
+      "names": [
+        "Header / Home",
+        "ART & LIFE",
+        "Rectangle",
+        "News ticker",
+        "Don’t close your eyes",
+        "Lorem ipsum dolor sit am"
+      ]
+    },
+    {
+      "name": "02_Magazine",
+      "size": "1680×5670",
+      "nodes": 34,
+      "max_depth": 2,
+      "instances": 21,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "text×7",
+        "frame×5",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header / Magazine",
+        "MAGAZINE",
+        "Rectangle",
+        "CATEGORIES",
+        "Category / All",
+        "All"
+      ]
+    },
+    {
+      "name": "04_Podcast",
+      "size": "1680×2810",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×1",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header / Podcast",
+        "PODCAST",
+        "Rectangle",
+        "Episode row / 05",
+        "Episode row / 04",
+        "Episode row / 03"
+      ]
+    },
+    {
+      "name": "06_Authors",
+      "size": "1680×2590",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×1",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header / Authors",
+        "AUTHORS",
+        "Rectangle",
+        "Author row / Jakob Grønb",
+        "Author row / Louise Jens",
+        "Author row / Anne Henry"
+      ]
+    },
+    {
+      "name": "03_Magazine_Post",
+      "size": "1680×4500",
+      "nodes": 33,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "instance×14",
+        "frame×3",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header / Magazine",
+        "GO BACK",
+        "Icon_Arrow_Left",
+        "MAGAZINE",
+        "HOPE DIES LAST",
+        "Lorem ipsum dolor sit am"
+      ]
+    },
+    {
+      "name": "05_Podcast_Post",
+      "size": "1680×3701",
+      "nodes": 35,
+      "max_depth": 2,
+      "instances": 16,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "text×16",
+        "frame×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header / Podcast",
+        "GO BACK",
+        "Icon_Arrow_Left",
+        "PODCAST",
+        "Podcast cover / Ep 05",
+        "EPISODE 05"
+      ]
+    },
+    {
+      "name": "07_Author_Profile",
+      "size": "1680×3110",
+      "nodes": 22,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×8",
+        "frame×1",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header / Authors",
+        "GO BACK",
+        "Icon_Arrow_Left",
+        "AUTHOR",
+        "Avatar_Louise",
+        "FOLLOW"
+      ]
+    }
+  ]
+}

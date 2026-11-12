@@ -1,0 +1,159 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4796",
+      "nodes": 64,
+      "max_depth": 5,
+      "instances": 37,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×37",
+        "frame×20",
+        "text×7"
+      ],
+      "names": [
+        "Header",
+        "Hero",
+        "Hero Text",
+        "Pomelo One 14 Pro",
+        "Headline",
+        "Created to change everyt"
+      ]
+    },
+    {
+      "name": "02_Products",
+      "size": "1440×2102",
+      "nodes": 54,
+      "max_depth": 6,
+      "instances": 38,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×38",
+        "frame×14",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "Page Body",
+        "Breadcrumb",
+        "Crumb · Home",
+        "Crumb · Catalog",
+        "Crumb · Smartphones"
+      ]
+    },
+    {
+      "name": "03_Product_Details",
+      "size": "1440×3528",
+      "nodes": 99,
+      "max_depth": 7,
+      "instances": 56,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "instance×56",
+        "frame×29",
+        "text×14"
+      ],
+      "names": [
+        "Header",
+        "Page Body",
+        "Breadcrumb",
+        "Crumb · Home",
+        "Crumb · Catalog",
+        "Crumb · Smartphones"
+      ]
+    },
+    {
+      "name": "04_Shopping_Cart",
+      "size": "1440×1388",
+      "nodes": 29,
+      "max_depth": 6,
+      "instances": 14,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "frame×11",
+        "text×4"
+      ],
+      "names": [
+        "Header",
+        "Page Body",
+        "Shopping Cart",
+        "Cart Layout",
+        "Cart Items",
+        "Cart Row · Pomelo One 14"
+      ]
+    },
+    {
+      "name": "05_Checkout_Address",
+      "size": "1440×1100",
+      "nodes": 15,
+      "max_depth": 4,
+      "instances": 8,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×5",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "Page Body",
+        "Checkout Stepper",
+        "Select Address",
+        "Add New Address",
+        "Icon_Plus_Circle"
+      ]
+    },
+    {
+      "name": "06_Checkout_Shipping",
+      "size": "1440×1236",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Page Body",
+        "Checkout Stepper",
+        "Shipment Method",
+        "Shipment Options",
+        "Shipment · Free"
+      ]
+    },
+    {
+      "name": "07_Checkout_Payment",
+      "size": "1440×1561",
+      "nodes": 45,
+      "max_depth": 7,
+      "instances": 21,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "frame×17",
+        "text×7"
+      ],
+      "names": [
+        "Header",
+        "Page Body",
+        "Checkout Stepper",
+        "Payment Layout",
+        "Payment",
+        "Payment Tabs"
+      ]
+    }
+  ]
+}

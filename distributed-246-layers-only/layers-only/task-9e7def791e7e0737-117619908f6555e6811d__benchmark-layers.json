@@ -1,0 +1,92 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "390×844",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Art surface",
+        "Illustration_Onboarding",
+        "Pay Manage Grow…",
+        "An easy app to manage al",
+        "Button",
+        "Already have an account?"
+      ]
+    },
+    {
+      "name": "02_Phone_Number",
+      "size": "390×844",
+      "nodes": 21,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×7",
+        "frame×5"
+      ],
+      "names": [
+        "01_Onboarding",
+        "Art surface",
+        "Illustration_Onboarding",
+        "Pay Manage Grow…",
+        "An easy app to manage al",
+        "Button"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "390×844",
+      "nodes": 19,
+      "max_depth": 1,
+      "instances": 17,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "text×2"
+      ],
+      "names": [
+        "Avatar_Hallie_Goebel",
+        "Search",
+        "Icon_History",
+        "Primary balance",
+        "Send",
+        "Receive"
+      ]
+    },
+    {
+      "name": "04_Menu",
+      "size": "390×844",
+      "nodes": 37,
+      "max_depth": 2,
+      "instances": 26,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×26",
+        "frame×6",
+        "text×5"
+      ],
+      "names": [
+        "03_Home",
+        "Avatar_Hallie_Goebel",
+        "Search",
+        "Icon_History",
+        "Primary balance",
+        "Send"
+      ]
+    }
+  ]
+}

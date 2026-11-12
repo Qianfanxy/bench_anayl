@@ -1,0 +1,426 @@
+{
+  "board_count": 20,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "375×2400",
+      "nodes": 19,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×4",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "02_Menu",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "03_Search",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "04_Search_Results",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "05_Category_Grid",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "06_Product_Detail",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "07_Collections",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "08_Collection_Detail",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "09_Cart_Empty",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "10_Cart",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "11_Checkout",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "12_Checkout_Shipping",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "13_Add_Address",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "14_Add_Card",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "15_Payment_Success",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "16_Blog",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "17_Blog_Post",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "18_Our_Story",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "19_Contact",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "20_Page_Not_Found",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Icon_Menu",
+        "Logo_Open_Fashion",
+        "Icon_Search"
+      ]
+    }
+  ]
+}

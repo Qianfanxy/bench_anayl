@@ -1,0 +1,160 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Frontpage",
+      "size": "1680×3500",
+      "nodes": 48,
+      "max_depth": 1,
+      "instances": 26,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "instance×26",
+        "text×14",
+        "rectangle×8"
+      ],
+      "names": [
+        "Header",
+        "NewsTicker",
+        "ART & LIFE",
+        "Rectangle",
+        "LeadPhoto",
+        "Category Tag"
+      ]
+    },
+    {
+      "name": "02_Magazine",
+      "size": "1680×3600",
+      "nodes": 33,
+      "max_depth": 1,
+      "instances": 25,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×25",
+        "rectangle×5",
+        "text×3"
+      ],
+      "names": [
+        "Header/Magazine",
+        "FYRRE MAGAZINE",
+        "MAGAZINE",
+        "Rectangle",
+        "CATEGORIES",
+        "CatFilterCurrent"
+      ]
+    },
+    {
+      "name": "03_Magazine_Post",
+      "size": "1680×3600",
+      "nodes": 33,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×13",
+        "rectangle×6"
+      ],
+      "names": [
+        "Header/Magazine",
+        "BackLink",
+        "MAGAZINE",
+        "Category Tag",
+        "HOPE DIES LAST",
+        "Lorem ipsum dolor sit am"
+      ]
+    },
+    {
+      "name": "04_Podcast",
+      "size": "1680×1740",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "rectangle×4",
+        "text×2"
+      ],
+      "names": [
+        "Header/Podcast",
+        "FYRRE MAGAZINE",
+        "PODCAST",
+        "Rectangle",
+        "EpisodeRow",
+        "FooterBand"
+      ]
+    },
+    {
+      "name": "05_Podcast_Post",
+      "size": "1680×2610",
+      "nodes": 32,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×12",
+        "rectangle×6",
+        "frame×1"
+      ],
+      "names": [
+        "Header/Podcast",
+        "BackLink",
+        "PODCAST",
+        "HeroCover",
+        "Photo_Podcast_Ep05",
+        "Icon_Arrow_Diagonal"
+      ]
+    },
+    {
+      "name": "06_Authors",
+      "size": "1680×1744",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "rectangle×4",
+        "text×2"
+      ],
+      "names": [
+        "Header/Authors",
+        "FYRRE MAGAZINE",
+        "AUTHORS",
+        "Rectangle",
+        "AuthorRow",
+        "FooterBand"
+      ]
+    },
+    {
+      "name": "07_Author_Profile",
+      "size": "1680×2328",
+      "nodes": 21,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×7",
+        "rectangle×5"
+      ],
+      "names": [
+        "Header/Authors",
+        "BackLink",
+        "AUTHOR",
+        "Avatar_Louise",
+        "LOUISE JENSEN",
+        "Lorem ipsum dolor sit am"
+      ]
+    }
+  ]
+}

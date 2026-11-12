@@ -1,0 +1,413 @@
+set,cost,problem,n_models,spearman
+primary,tokens,ABM Developer Portfolio @ v1_screenshot_cc,6,0.4058397249567139
+primary,tokens,Audio Shop @ v2_no_screenshot_direct,10,-0.16463720699615814
+primary,tokens,Balance @ v1_screenshot_cc,6,0.2571428571428572
+primary,tokens,Budget @ v1_screenshot_cc,6,-0.6571428571428573
+primary,tokens,Chat Bot AI @ v1_screenshot_cc,5,-0.7
+primary,tokens,Chat Bot AI @ v2_no_screenshot_direct,4,-0.39999999999999997
+primary,tokens,Cyber Phone Store @ v2_no_screenshot_direct,9,-0.6
+primary,tokens,Deniz Arslan 3D Portfolio @ v1_screenshot_cc,6,-0.17393131069573453
+primary,tokens,Expenio @ v1_screenshot_cc,6,0.5161002296110789
+primary,tokens,Fasco @ v1_screenshot_cc,6,0.2571428571428572
+primary,tokens,FinX @ v1_screenshot_cc,6,-0.3142857142857143
+primary,tokens,Fitness App @ v1_screenshot_cc,6,-0.3714285714285715
+primary,tokens,Foodgo @ v1_screenshot_cc,6,0.20291986247835694
+primary,tokens,Foodgo @ v2_no_screenshot_direct,4,-1.0
+primary,tokens,Foodieland @ v1_screenshot_cc,6,0.08571428571428573
+primary,tokens,Foodwagon @ v1_screenshot_cc,6,-0.08571428571428573
+primary,tokens,Foodwagon @ v2_no_screenshot_direct,4,0.316227766016838
+primary,tokens,Fruit Hub @ v1_screenshot_cc,6,-0.33394720739540396
+primary,tokens,Furniro @ v1_screenshot_cc,6,0.28988551782622424
+primary,tokens,Fyrre Magazine @ v2_no_screenshot_direct,7,0.19702760155977517
+primary,tokens,Hawkeye Travel @ v2_no_screenshot_direct,9,0.2761530448893886
+primary,tokens,Inkline Blog @ v2_no_screenshot_direct,9,-0.42018290340800896
+primary,tokens,Investment Wallet @ v1_screenshot_cc,6,-0.08571428571428573
+primary,tokens,Investment Wallet @ v2_no_screenshot_direct,4,-0.7999999999999999
+primary,tokens,MAC Agency @ v1_screenshot_cc,6,-0.17393131069573453
+primary,tokens,MAC Agency @ v2_no_screenshot_direct,4,-0.7999999999999999
+primary,tokens,Magic Coffee @ v2_no_screenshot_direct,9,-0.14347141033685276
+primary,tokens,Meet @ v1_screenshot_cc,6,-0.2
+primary,tokens,MindfulMentor @ v2_no_screenshot_direct,10,0.09146511499786561
+primary,tokens,Musium @ v2_no_screenshot_direct,10,0.0
+primary,tokens,Nectar @ v1_screenshot_cc,6,-0.34786262139146906
+primary,tokens,Nikle @ v2_no_screenshot_direct,10,-0.3126526997403612
+primary,tokens,Northgate Homes @ v1_screenshot_cc,6,0.14494275891311212
+primary,tokens,Octom @ v1_screenshot_cc,6,-0.08696565534786727
+primary,tokens,Open Fashion @ v2_no_screenshot_direct,8,-0.023809523809523815
+primary,tokens,Paradise Invest @ v1_screenshot_cc,6,-0.5217939320872036
+primary,tokens,Paradise Invest @ v2_no_screenshot_direct,4,-0.7378647873726218
+primary,tokens,Payment Wallet @ v1_screenshot_cc,6,-0.08571428571428573
+primary,tokens,Placoo Rental @ v2_no_screenshot_direct,10,-0.2727272727272727
+primary,tokens,Run & Earn @ v2_no_screenshot_direct,10,-0.3446561747421316
+primary,tokens,Self Care Clinic @ v2_no_screenshot_direct,9,-0.11666666666666665
+primary,tokens,Shop.co @ v1_screenshot_cc,6,-0.14285714285714288
+primary,tokens,Stock Trading @ v1_screenshot_cc,6,0.2608969660436018
+primary,tokens,StockWave @ v1_screenshot_cc,6,-0.08696565534786727
+primary,tokens,StockWave @ v2_no_screenshot_direct,4,-1.0
+primary,tokens,Stylish @ v1_screenshot_cc,6,-0.05797710356524484
+primary,tokens,Travelin @ v1_screenshot_cc,6,0.3142857142857143
+primary,tokens,Vulcan Invest @ v1_screenshot_cc,6,0.2571428571428572
+primary,tokens,Workout Class @ v1_screenshot_cc,6,-0.17393131069573453
+primary,time,ABM Developer Portfolio @ v1_screenshot_cc,6,0.6087595874350709
+primary,time,Audio Shop @ v2_no_screenshot_direct,10,-0.2743953449935969
+primary,time,Balance @ v1_screenshot_cc,6,0.028571428571428574
+primary,time,Budget @ v1_screenshot_cc,6,-0.2571428571428572
+primary,time,Chat Bot AI @ v1_screenshot_cc,5,-0.19999999999999998
+primary,time,Chat Bot AI @ v2_no_screenshot_direct,4,0.0
+primary,time,Cyber Phone Store @ v2_no_screenshot_direct,9,-0.48333333333333334
+primary,time,Deniz Arslan 3D Portfolio @ v1_screenshot_cc,6,-0.23190841426097936
+primary,time,Expenio @ v1_screenshot_cc,6,0.21251185925162072
+primary,time,Fasco @ v1_screenshot_cc,6,0.2571428571428572
+primary,time,FinX @ v1_screenshot_cc,6,-0.7714285714285715
+primary,time,Fitness App @ v1_screenshot_cc,6,-0.5428571428571429
+primary,time,Foodgo @ v1_screenshot_cc,6,0.4058397249567139
+primary,time,Foodgo @ v2_no_screenshot_direct,4,-1.0
+primary,time,Foodieland @ v1_screenshot_cc,6,0.2
+primary,time,Foodwagon @ v1_screenshot_cc,6,0.08571428571428573
+primary,time,Foodwagon @ v2_no_screenshot_direct,4,-0.316227766016838
+primary,time,Fruit Hub @ v1_screenshot_cc,6,-0.33394720739540396
+primary,time,Furniro @ v1_screenshot_cc,6,0.5217939320872036
+primary,time,Fyrre Magazine @ v2_no_screenshot_direct,6,0.15179418517972906
+primary,time,Hawkeye Travel @ v2_no_screenshot_direct,9,-0.09205101496312953
+primary,time,Inkline Blog @ v2_no_screenshot_direct,9,-0.47060485181697
+primary,time,Investment Wallet @ v1_screenshot_cc,6,0.3714285714285715
+primary,time,Investment Wallet @ v2_no_screenshot_direct,4,-0.7999999999999999
+primary,time,MAC Agency @ v1_screenshot_cc,6,-0.02898855178262242
+primary,time,MAC Agency @ v2_no_screenshot_direct,4,-0.39999999999999997
+primary,time,Magic Coffee @ v2_no_screenshot_direct,9,-0.7342360411356582
+primary,time,Meet @ v1_screenshot_cc,6,0.48571428571428577
+primary,time,MindfulMentor @ v2_no_screenshot_direct,10,0.054879068998719374
+primary,time,Musium @ v2_no_screenshot_direct,10,-0.06707441766510144
+primary,time,Nectar @ v1_screenshot_cc,6,-0.23190841426097936
+primary,time,Nikle @ v2_no_screenshot_direct,10,-0.1875916198442167
+primary,time,Northgate Homes @ v1_screenshot_cc,6,-0.3188740696088466
+primary,time,Octom @ v1_screenshot_cc,6,0.05797710356524484
+primary,time,Open Fashion @ v2_no_screenshot_direct,8,0.28571428571428575
+primary,time,Paradise Invest @ v1_screenshot_cc,6,-0.6377481392176932
+primary,time,Paradise Invest @ v2_no_screenshot_direct,4,-0.7378647873726218
+primary,time,Payment Wallet @ v1_screenshot_cc,6,0.028571428571428574
+primary,time,Placoo Rental @ v2_no_screenshot_direct,10,-0.2727272727272727
+primary,time,Run & Earn @ v2_no_screenshot_direct,10,-0.4800568148193976
+primary,time,Self Care Clinic @ v2_no_screenshot_direct,9,-0.6
+primary,time,Shop.co @ v1_screenshot_cc,6,-0.14285714285714288
+primary,time,Stock Trading @ v1_screenshot_cc,6,0.11595420713048968
+primary,time,StockWave @ v1_screenshot_cc,6,-0.3188740696088466
+primary,time,StockWave @ v2_no_screenshot_direct,4,-0.7999999999999999
+primary,time,Stylish @ v1_screenshot_cc,6,0.17393131069573453
+primary,time,Travelin @ v1_screenshot_cc,6,0.14285714285714288
+primary,time,Vulcan Invest @ v1_screenshot_cc,6,-0.08571428571428573
+primary,time,Workout Class @ v1_screenshot_cc,6,-0.20291986247835694
+primary,tool_calls,ABM Developer Portfolio @ v1_screenshot_cc,6,0.5217939320872036
+primary,tool_calls,Audio Shop @ v2_no_screenshot_direct,10,-0.3231767396591252
+primary,tool_calls,Balance @ v1_screenshot_cc,6,0.2
+primary,tool_calls,Budget @ v1_screenshot_cc,6,-0.6
+primary,tool_calls,Chat Bot AI @ v1_screenshot_cc,5,-0.19999999999999998
+primary,tool_calls,Chat Bot AI @ v2_no_screenshot_direct,4,0.0
+primary,tool_calls,Cyber Phone Store @ v2_no_screenshot_direct,9,-0.6666666666666667
+primary,tool_calls,Deniz Arslan 3D Portfolio @ v1_screenshot_cc,6,-0.17393131069573453
+primary,tool_calls,Expenio @ v1_screenshot_cc,6,0.33394720739540396
+primary,tool_calls,Fasco @ v1_screenshot_cc,6,0.3142857142857143
+primary,tool_calls,FinX @ v1_screenshot_cc,6,-0.7714285714285715
+primary,tool_calls,Fitness App @ v1_screenshot_cc,6,-0.6
+primary,tool_calls,Foodgo @ v1_screenshot_cc,6,-0.08696565534786727
+primary,tool_calls,Foodgo @ v2_no_screenshot_direct,4,-1.0
+primary,tool_calls,Foodieland @ v1_screenshot_cc,6,-0.14285714285714288
+primary,tool_calls,Foodwagon @ v1_screenshot_cc,6,0.14285714285714288
+primary,tool_calls,Foodwagon @ v2_no_screenshot_direct,4,0.316227766016838
+primary,tool_calls,Fruit Hub @ v1_screenshot_cc,6,-0.5768179036829705
+primary,tool_calls,Furniro @ v1_screenshot_cc,6,0.3188740696088466
+primary,tool_calls,Fyrre Magazine @ v2_no_screenshot_direct,6,0.5768179036829705
+primary,tool_calls,Hawkeye Travel @ v2_no_screenshot_direct,9,0.217575126276488
+primary,tool_calls,Inkline Blog @ v2_no_screenshot_direct,9,-0.4557002590600451
+primary,tool_calls,Investment Wallet @ v1_screenshot_cc,6,-0.2571428571428572
+primary,tool_calls,Investment Wallet @ v2_no_screenshot_direct,4,-0.7999999999999999
+primary,tool_calls,MAC Agency @ v1_screenshot_cc,6,-0.17393131069573453
+primary,tool_calls,MAC Agency @ v2_no_screenshot_direct,4,-0.7999999999999999
+primary,tool_calls,Magic Coffee @ v2_no_screenshot_direct,9,-0.4279814704522755
+primary,tool_calls,Meet @ v1_screenshot_cc,6,0.2571428571428572
+primary,tool_calls,MindfulMentor @ v2_no_screenshot_direct,10,-0.02439069733276417
+primary,tool_calls,Musium @ v2_no_screenshot_direct,10,-0.1036604636642477
+primary,tool_calls,Nectar @ v1_screenshot_cc,6,-0.1911764705882353
+primary,tool_calls,Nikle @ v2_no_screenshot_direct,10,-0.47523210360534907
+primary,tool_calls,Northgate Homes @ v1_screenshot_cc,6,-0.2647058823529412
+primary,tool_calls,Octom @ v1_screenshot_cc,6,-0.02898855178262242
+primary,tool_calls,Open Fashion @ v2_no_screenshot_direct,8,-0.011976262619132589
+primary,tool_calls,Paradise Invest @ v1_screenshot_cc,6,-0.9276336570439174
+primary,tool_calls,Paradise Invest @ v2_no_screenshot_direct,4,-0.7378647873726218
+primary,tool_calls,Payment Wallet @ v1_screenshot_cc,6,-0.3142857142857143
+primary,tool_calls,Placoo Rental @ v2_no_screenshot_direct,10,-0.498482545817653
+primary,tool_calls,Run & Earn @ v2_no_screenshot_direct,10,-0.5123847282619746
+primary,tool_calls,Self Care Clinic @ v2_no_screenshot_direct,9,-0.6333333333333333
+primary,tool_calls,Shop.co @ v1_screenshot_cc,6,-0.3142857142857143
+primary,tool_calls,Stock Trading @ v1_screenshot_cc,6,-0.11595420713048968
+primary,tool_calls,StockWave @ v1_screenshot_cc,6,-0.3188740696088466
+primary,tool_calls,StockWave @ v2_no_screenshot_direct,4,-0.7999999999999999
+primary,tool_calls,Stylish @ v1_screenshot_cc,6,0.05797710356524484
+primary,tool_calls,Travelin @ v1_screenshot_cc,6,0.14285714285714288
+primary,tool_calls,Vulcan Invest @ v1_screenshot_cc,6,0.08571428571428573
+primary,tool_calls,Workout Class @ v1_screenshot_cc,6,-0.17393131069573453
+all_measurable,tokens,ABM Developer Portfolio @ v1_screenshot_cc,6,0.4058397249567139
+all_measurable,tokens,Audio Shop @ v2_no_screenshot_direct,10,-0.16463720699615814
+all_measurable,tokens,Balance @ v1_screenshot_cc,6,0.2571428571428572
+all_measurable,tokens,Budget @ v1_screenshot_cc,6,-0.6571428571428573
+all_measurable,tokens,Chat Bot AI @ v1_screenshot_cc,5,-0.7
+all_measurable,tokens,Chat Bot AI @ v2_no_screenshot_direct,4,-0.39999999999999997
+all_measurable,tokens,Cyber Phone Store @ v2_no_screenshot_direct,9,-0.6
+all_measurable,tokens,Deniz Arslan 3D Portfolio @ v1_screenshot_cc,6,-0.17393131069573453
+all_measurable,tokens,Expenio @ v1_screenshot_cc,6,0.5161002296110789
+all_measurable,tokens,Fasco @ v1_screenshot_cc,6,0.2571428571428572
+all_measurable,tokens,FinX @ v1_screenshot_cc,6,-0.3142857142857143
+all_measurable,tokens,Fitness App @ v1_screenshot_cc,6,-0.3714285714285715
+all_measurable,tokens,Foodgo @ v1_screenshot_cc,6,0.20291986247835694
+all_measurable,tokens,Foodgo @ v2_no_screenshot_direct,4,-1.0
+all_measurable,tokens,Foodieland @ v1_screenshot_cc,6,0.08571428571428573
+all_measurable,tokens,Foodwagon @ v1_screenshot_cc,6,-0.08571428571428573
+all_measurable,tokens,Foodwagon @ v2_no_screenshot_direct,4,0.316227766016838
+all_measurable,tokens,Fruit Hub @ v1_screenshot_cc,6,-0.33394720739540396
+all_measurable,tokens,Furniro @ v1_screenshot_cc,6,0.28988551782622424
+all_measurable,tokens,Fyrre Magazine @ v2_no_screenshot_direct,7,0.19702760155977517
+all_measurable,tokens,Hawkeye Travel @ v2_no_screenshot_direct,9,0.2761530448893886
+all_measurable,tokens,Inkline Blog @ v2_no_screenshot_direct,9,-0.42018290340800896
+all_measurable,tokens,Investment Wallet @ v1_screenshot_cc,6,-0.08571428571428573
+all_measurable,tokens,Investment Wallet @ v2_no_screenshot_direct,4,-0.7999999999999999
+all_measurable,tokens,MAC Agency @ v1_screenshot_cc,6,-0.17393131069573453
+all_measurable,tokens,MAC Agency @ v2_no_screenshot_direct,4,-0.7999999999999999
+all_measurable,tokens,Magic Coffee @ v2_no_screenshot_direct,9,-0.14347141033685276
+all_measurable,tokens,Meet @ v1_screenshot_cc,6,-0.2
+all_measurable,tokens,MindfulMentor @ v2_no_screenshot_direct,10,0.09146511499786561
+all_measurable,tokens,Musium @ v2_no_screenshot_direct,10,0.0
+all_measurable,tokens,Nectar @ v1_screenshot_cc,6,-0.34786262139146906
+all_measurable,tokens,Nikle @ v2_no_screenshot_direct,10,-0.3126526997403612
+all_measurable,tokens,Northgate Homes @ v1_screenshot_cc,6,0.14494275891311212
+all_measurable,tokens,Octom @ v1_screenshot_cc,6,-0.08696565534786727
+all_measurable,tokens,Open Fashion @ v2_no_screenshot_direct,8,-0.023809523809523815
+all_measurable,tokens,Paradise Invest @ v1_screenshot_cc,6,-0.5217939320872036
+all_measurable,tokens,Paradise Invest @ v2_no_screenshot_direct,4,-0.7378647873726218
+all_measurable,tokens,Payment Wallet @ v1_screenshot_cc,6,-0.08571428571428573
+all_measurable,tokens,Placoo Rental @ v2_no_screenshot_direct,10,-0.2727272727272727
+all_measurable,tokens,Run & Earn @ v2_no_screenshot_direct,10,-0.3446561747421316
+all_measurable,tokens,Self Care Clinic @ v2_no_screenshot_direct,9,-0.11666666666666665
+all_measurable,tokens,Shop.co @ v1_screenshot_cc,6,-0.14285714285714288
+all_measurable,tokens,Stock Trading @ v1_screenshot_cc,6,0.2608969660436018
+all_measurable,tokens,StockWave @ v1_screenshot_cc,6,-0.08696565534786727
+all_measurable,tokens,StockWave @ v2_no_screenshot_direct,4,-1.0
+all_measurable,tokens,Stylish @ v1_screenshot_cc,6,-0.05797710356524484
+all_measurable,tokens,Stylish @ v2_no_screenshot_direct,4,-0.39999999999999997
+all_measurable,tokens,Travelin @ v1_screenshot_cc,6,0.3142857142857143
+all_measurable,tokens,Vulcan Invest @ v1_screenshot_cc,6,0.2571428571428572
+all_measurable,tokens,Workout Class @ v1_screenshot_cc,6,-0.17393131069573453
+all_measurable,time,ABM Developer Portfolio @ v1_screenshot_cc,6,0.6087595874350709
+all_measurable,time,Audio Shop @ v2_no_screenshot_direct,10,-0.2743953449935969
+all_measurable,time,Balance @ v1_screenshot_cc,6,0.028571428571428574
+all_measurable,time,Budget @ v1_screenshot_cc,6,-0.2571428571428572
+all_measurable,time,Chat Bot AI @ v1_screenshot_cc,5,-0.19999999999999998
+all_measurable,time,Chat Bot AI @ v2_no_screenshot_direct,4,0.0
+all_measurable,time,Cyber Phone Store @ v2_no_screenshot_direct,9,-0.48333333333333334
+all_measurable,time,Deniz Arslan 3D Portfolio @ v1_screenshot_cc,6,-0.23190841426097936
+all_measurable,time,Expenio @ v1_screenshot_cc,6,0.21251185925162072
+all_measurable,time,Fasco @ v1_screenshot_cc,6,0.2571428571428572
+all_measurable,time,FinX @ v1_screenshot_cc,6,-0.7714285714285715
+all_measurable,time,Fitness App @ v1_screenshot_cc,6,-0.5428571428571429
+all_measurable,time,Foodgo @ v1_screenshot_cc,6,0.4058397249567139
+all_measurable,time,Foodgo @ v2_no_screenshot_direct,4,-1.0
+all_measurable,time,Foodieland @ v1_screenshot_cc,6,0.2
+all_measurable,time,Foodwagon @ v1_screenshot_cc,6,0.08571428571428573
+all_measurable,time,Foodwagon @ v2_no_screenshot_direct,4,-0.316227766016838
+all_measurable,time,Fruit Hub @ v1_screenshot_cc,6,-0.33394720739540396
+all_measurable,time,Furniro @ v1_screenshot_cc,6,0.5217939320872036
+all_measurable,time,Fyrre Magazine @ v2_no_screenshot_direct,6,0.15179418517972906
+all_measurable,time,Hawkeye Travel @ v2_no_screenshot_direct,9,-0.09205101496312953
+all_measurable,time,Inkline Blog @ v2_no_screenshot_direct,9,-0.47060485181697
+all_measurable,time,Investment Wallet @ v1_screenshot_cc,6,0.3714285714285715
+all_measurable,time,Investment Wallet @ v2_no_screenshot_direct,4,-0.7999999999999999
+all_measurable,time,MAC Agency @ v1_screenshot_cc,6,-0.02898855178262242
+all_measurable,time,MAC Agency @ v2_no_screenshot_direct,4,-0.39999999999999997
+all_measurable,time,Magic Coffee @ v2_no_screenshot_direct,9,-0.7342360411356582
+all_measurable,time,Meet @ v1_screenshot_cc,6,0.48571428571428577
+all_measurable,time,MindfulMentor @ v2_no_screenshot_direct,10,0.054879068998719374
+all_measurable,time,Musium @ v2_no_screenshot_direct,10,-0.06707441766510144
+all_measurable,time,Nectar @ v1_screenshot_cc,6,-0.23190841426097936
+all_measurable,time,Nikle @ v2_no_screenshot_direct,10,-0.1875916198442167
+all_measurable,time,Northgate Homes @ v1_screenshot_cc,6,-0.3188740696088466
+all_measurable,time,Octom @ v1_screenshot_cc,6,0.05797710356524484
+all_measurable,time,Open Fashion @ v2_no_screenshot_direct,8,0.28571428571428575
+all_measurable,time,Paradise Invest @ v1_screenshot_cc,6,-0.6377481392176932
+all_measurable,time,Paradise Invest @ v2_no_screenshot_direct,4,-0.7378647873726218
+all_measurable,time,Payment Wallet @ v1_screenshot_cc,6,0.028571428571428574
+all_measurable,time,Placoo Rental @ v2_no_screenshot_direct,10,-0.2727272727272727
+all_measurable,time,Run & Earn @ v2_no_screenshot_direct,10,-0.4800568148193976
+all_measurable,time,Self Care Clinic @ v2_no_screenshot_direct,9,-0.6
+all_measurable,time,Shop.co @ v1_screenshot_cc,6,-0.14285714285714288
+all_measurable,time,Stock Trading @ v1_screenshot_cc,6,0.11595420713048968
+all_measurable,time,StockWave @ v1_screenshot_cc,6,-0.3188740696088466
+all_measurable,time,StockWave @ v2_no_screenshot_direct,4,-0.7999999999999999
+all_measurable,time,Stylish @ v1_screenshot_cc,6,0.17393131069573453
+all_measurable,time,Travelin @ v1_screenshot_cc,6,0.14285714285714288
+all_measurable,time,Vulcan Invest @ v1_screenshot_cc,6,-0.08571428571428573
+all_measurable,time,Workout Class @ v1_screenshot_cc,6,-0.20291986247835694
+all_measurable,tool_calls,ABM Developer Portfolio @ v1_screenshot_cc,6,0.5217939320872036
+all_measurable,tool_calls,Audio Shop @ v2_no_screenshot_direct,10,-0.3231767396591252
+all_measurable,tool_calls,Balance @ v1_screenshot_cc,6,0.2
+all_measurable,tool_calls,Budget @ v1_screenshot_cc,6,-0.6
+all_measurable,tool_calls,Chat Bot AI @ v1_screenshot_cc,5,-0.19999999999999998
+all_measurable,tool_calls,Chat Bot AI @ v2_no_screenshot_direct,4,0.0
+all_measurable,tool_calls,Cyber Phone Store @ v2_no_screenshot_direct,9,-0.6666666666666667
+all_measurable,tool_calls,Deniz Arslan 3D Portfolio @ v1_screenshot_cc,6,-0.17393131069573453
+all_measurable,tool_calls,Expenio @ v1_screenshot_cc,6,0.33394720739540396
+all_measurable,tool_calls,Fasco @ v1_screenshot_cc,6,0.3142857142857143
+all_measurable,tool_calls,FinX @ v1_screenshot_cc,6,-0.7714285714285715
+all_measurable,tool_calls,Fitness App @ v1_screenshot_cc,6,-0.6
+all_measurable,tool_calls,Foodgo @ v1_screenshot_cc,6,-0.08696565534786727
+all_measurable,tool_calls,Foodgo @ v2_no_screenshot_direct,4,-1.0
+all_measurable,tool_calls,Foodieland @ v1_screenshot_cc,6,-0.14285714285714288
+all_measurable,tool_calls,Foodwagon @ v1_screenshot_cc,6,0.14285714285714288
+all_measurable,tool_calls,Foodwagon @ v2_no_screenshot_direct,4,0.316227766016838
+all_measurable,tool_calls,Fruit Hub @ v1_screenshot_cc,6,-0.5768179036829705
+all_measurable,tool_calls,Furniro @ v1_screenshot_cc,6,0.3188740696088466
+all_measurable,tool_calls,Fyrre Magazine @ v2_no_screenshot_direct,6,0.5768179036829705
+all_measurable,tool_calls,Hawkeye Travel @ v2_no_screenshot_direct,9,0.217575126276488
+all_measurable,tool_calls,Inkline Blog @ v2_no_screenshot_direct,9,-0.4557002590600451
+all_measurable,tool_calls,Investment Wallet @ v1_screenshot_cc,6,-0.2571428571428572
+all_measurable,tool_calls,Investment Wallet @ v2_no_screenshot_direct,4,-0.7999999999999999
+all_measurable,tool_calls,MAC Agency @ v1_screenshot_cc,6,-0.17393131069573453
+all_measurable,tool_calls,MAC Agency @ v2_no_screenshot_direct,4,-0.7999999999999999
+all_measurable,tool_calls,Magic Coffee @ v2_no_screenshot_direct,9,-0.4279814704522755
+all_measurable,tool_calls,Meet @ v1_screenshot_cc,6,0.2571428571428572
+all_measurable,tool_calls,MindfulMentor @ v2_no_screenshot_direct,10,-0.02439069733276417
+all_measurable,tool_calls,Musium @ v2_no_screenshot_direct,10,-0.1036604636642477
+all_measurable,tool_calls,Nectar @ v1_screenshot_cc,6,-0.1911764705882353
+all_measurable,tool_calls,Nikle @ v2_no_screenshot_direct,10,-0.47523210360534907
+all_measurable,tool_calls,Northgate Homes @ v1_screenshot_cc,6,-0.2647058823529412
+all_measurable,tool_calls,Octom @ v1_screenshot_cc,6,-0.02898855178262242
+all_measurable,tool_calls,Open Fashion @ v2_no_screenshot_direct,8,-0.011976262619132589
+all_measurable,tool_calls,Paradise Invest @ v1_screenshot_cc,6,-0.9276336570439174
+all_measurable,tool_calls,Paradise Invest @ v2_no_screenshot_direct,4,-0.7378647873726218
+all_measurable,tool_calls,Payment Wallet @ v1_screenshot_cc,6,-0.3142857142857143
+all_measurable,tool_calls,Placoo Rental @ v2_no_screenshot_direct,10,-0.498482545817653
+all_measurable,tool_calls,Run & Earn @ v2_no_screenshot_direct,10,-0.5123847282619746
+all_measurable,tool_calls,Self Care Clinic @ v2_no_screenshot_direct,9,-0.6333333333333333
+all_measurable,tool_calls,Shop.co @ v1_screenshot_cc,6,-0.3142857142857143
+all_measurable,tool_calls,Stock Trading @ v1_screenshot_cc,6,-0.11595420713048968
+all_measurable,tool_calls,StockWave @ v1_screenshot_cc,6,-0.3188740696088466
+all_measurable,tool_calls,StockWave @ v2_no_screenshot_direct,4,-0.7999999999999999
+all_measurable,tool_calls,Stylish @ v1_screenshot_cc,6,0.05797710356524484
+all_measurable,tool_calls,Stylish @ v2_no_screenshot_direct,4,-0.39999999999999997
+all_measurable,tool_calls,Travelin @ v1_screenshot_cc,6,0.14285714285714288
+all_measurable,tool_calls,Vulcan Invest @ v1_screenshot_cc,6,0.08571428571428573
+all_measurable,tool_calls,Workout Class @ v1_screenshot_cc,6,-0.17393131069573453
+strict_clean,tokens,ABM Developer Portfolio @ v1_screenshot_cc,5,0.5642880936468347
+strict_clean,tokens,Balance @ v1_screenshot_cc,6,0.2571428571428572
+strict_clean,tokens,Budget @ v1_screenshot_cc,6,-0.6571428571428573
+strict_clean,tokens,Cyber Phone Store @ v2_no_screenshot_direct,4,-0.39999999999999997
+strict_clean,tokens,Deniz Arslan 3D Portfolio @ v1_screenshot_cc,6,-0.17393131069573453
+strict_clean,tokens,Expenio @ v1_screenshot_cc,6,0.5161002296110789
+strict_clean,tokens,Fasco @ v1_screenshot_cc,5,0.6
+strict_clean,tokens,FinX @ v1_screenshot_cc,5,-0.6
+strict_clean,tokens,Fitness App @ v1_screenshot_cc,6,-0.3714285714285715
+strict_clean,tokens,Foodgo @ v1_screenshot_cc,6,0.20291986247835694
+strict_clean,tokens,Foodieland @ v1_screenshot_cc,6,0.08571428571428573
+strict_clean,tokens,Foodwagon @ v1_screenshot_cc,6,-0.08571428571428573
+strict_clean,tokens,Fruit Hub @ v1_screenshot_cc,6,-0.33394720739540396
+strict_clean,tokens,Furniro @ v1_screenshot_cc,5,0.4103913408340617
+strict_clean,tokens,Hawkeye Travel @ v2_no_screenshot_direct,8,-0.03592878785739777
+strict_clean,tokens,Inkline Blog @ v2_no_screenshot_direct,7,-0.594618725379069
+strict_clean,tokens,Investment Wallet @ v1_screenshot_cc,6,-0.08571428571428573
+strict_clean,tokens,MAC Agency @ v1_screenshot_cc,6,-0.17393131069573453
+strict_clean,tokens,Magic Coffee @ v2_no_screenshot_direct,7,-0.38188130791298674
+strict_clean,tokens,Meet @ v1_screenshot_cc,6,-0.2
+strict_clean,tokens,MindfulMentor @ v2_no_screenshot_direct,5,0.15389675281277312
+strict_clean,tokens,Musium @ v2_no_screenshot_direct,7,-0.09009374626955591
+strict_clean,tokens,Nectar @ v1_screenshot_cc,6,-0.34786262139146906
+strict_clean,tokens,Nikle @ v2_no_screenshot_direct,5,-0.49999999999999994
+strict_clean,tokens,Northgate Homes @ v1_screenshot_cc,6,0.14494275891311212
+strict_clean,tokens,Octom @ v1_screenshot_cc,6,-0.08696565534786727
+strict_clean,tokens,Open Fashion @ v2_no_screenshot_direct,7,0.1785714285714286
+strict_clean,tokens,Paradise Invest @ v1_screenshot_cc,6,-0.5217939320872036
+strict_clean,tokens,Payment Wallet @ v1_screenshot_cc,6,-0.08571428571428573
+strict_clean,tokens,Run & Earn @ v2_no_screenshot_direct,5,-0.05270462766947299
+strict_clean,tokens,Self Care Clinic @ v2_no_screenshot_direct,7,-0.03571428571428572
+strict_clean,tokens,Shop.co @ v1_screenshot_cc,5,0.0
+strict_clean,tokens,Stock Trading @ v1_screenshot_cc,6,0.2608969660436018
+strict_clean,tokens,StockWave @ v1_screenshot_cc,5,-0.5642880936468347
+strict_clean,tokens,Stylish @ v1_screenshot_cc,6,-0.05797710356524484
+strict_clean,tokens,Travelin @ v1_screenshot_cc,6,0.3142857142857143
+strict_clean,tokens,Vulcan Invest @ v1_screenshot_cc,6,0.2571428571428572
+strict_clean,tokens,Workout Class @ v1_screenshot_cc,5,0.0
+strict_clean,time,ABM Developer Portfolio @ v1_screenshot_cc,6,0.6087595874350709
+strict_clean,time,Balance @ v1_screenshot_cc,6,0.028571428571428574
+strict_clean,time,Budget @ v1_screenshot_cc,6,-0.2571428571428572
+strict_clean,time,Chat Bot AI @ v1_screenshot_cc,4,-0.7999999999999999
+strict_clean,time,Cyber Phone Store @ v2_no_screenshot_direct,5,-0.19999999999999998
+strict_clean,time,Deniz Arslan 3D Portfolio @ v1_screenshot_cc,6,-0.23190841426097936
+strict_clean,time,Expenio @ v1_screenshot_cc,6,0.21251185925162072
+strict_clean,time,Fasco @ v1_screenshot_cc,6,0.2571428571428572
+strict_clean,time,FinX @ v1_screenshot_cc,6,-0.7714285714285715
+strict_clean,time,Fitness App @ v1_screenshot_cc,6,-0.5428571428571429
+strict_clean,time,Foodgo @ v1_screenshot_cc,6,0.4058397249567139
+strict_clean,time,Foodieland @ v1_screenshot_cc,6,0.2
+strict_clean,time,Foodwagon @ v1_screenshot_cc,6,0.08571428571428573
+strict_clean,time,Foodwagon @ v2_no_screenshot_direct,4,-0.316227766016838
+strict_clean,time,Fruit Hub @ v1_screenshot_cc,6,-0.33394720739540396
+strict_clean,time,Furniro @ v1_screenshot_cc,6,0.5217939320872036
+strict_clean,time,Hawkeye Travel @ v2_no_screenshot_direct,8,0.01197626261913259
+strict_clean,time,Inkline Blog @ v2_no_screenshot_direct,7,-0.43244998209386837
+strict_clean,time,Investment Wallet @ v1_screenshot_cc,6,0.3714285714285715
+strict_clean,time,MAC Agency @ v1_screenshot_cc,6,-0.02898855178262242
+strict_clean,time,Magic Coffee @ v2_no_screenshot_direct,7,-0.490990253030983
+strict_clean,time,Meet @ v1_screenshot_cc,6,0.48571428571428577
+strict_clean,time,MindfulMentor @ v2_no_screenshot_direct,5,0.05129891760425771
+strict_clean,time,Musium @ v2_no_screenshot_direct,8,0.21557272714438658
+strict_clean,time,Nectar @ v1_screenshot_cc,6,-0.23190841426097936
+strict_clean,time,Nikle @ v2_no_screenshot_direct,5,-0.49999999999999994
+strict_clean,time,Northgate Homes @ v1_screenshot_cc,6,-0.3188740696088466
+strict_clean,time,Octom @ v1_screenshot_cc,6,0.05797710356524484
+strict_clean,time,Open Fashion @ v2_no_screenshot_direct,7,0.39285714285714296
+strict_clean,time,Paradise Invest @ v1_screenshot_cc,6,-0.6377481392176932
+strict_clean,time,Payment Wallet @ v1_screenshot_cc,6,0.028571428571428574
+strict_clean,time,Run & Earn @ v2_no_screenshot_direct,5,0.15811388300841897
+strict_clean,time,Self Care Clinic @ v2_no_screenshot_direct,7,-0.642857142857143
+strict_clean,time,Shop.co @ v1_screenshot_cc,6,-0.14285714285714288
+strict_clean,time,Stock Trading @ v1_screenshot_cc,6,0.11595420713048968
+strict_clean,time,StockWave @ v1_screenshot_cc,6,-0.3188740696088466
+strict_clean,time,Stylish @ v1_screenshot_cc,6,0.17393131069573453
+strict_clean,time,Travelin @ v1_screenshot_cc,6,0.14285714285714288
+strict_clean,time,Vulcan Invest @ v1_screenshot_cc,6,-0.08571428571428573
+strict_clean,time,Workout Class @ v1_screenshot_cc,5,-0.09999999999999999
+strict_clean,tool_calls,ABM Developer Portfolio @ v1_screenshot_cc,5,0.6668859288553503
+strict_clean,tool_calls,Balance @ v1_screenshot_cc,6,0.2
+strict_clean,tool_calls,Budget @ v1_screenshot_cc,6,-0.6
+strict_clean,tool_calls,Cyber Phone Store @ v2_no_screenshot_direct,4,-0.39999999999999997
+strict_clean,tool_calls,Deniz Arslan 3D Portfolio @ v1_screenshot_cc,6,-0.17393131069573453
+strict_clean,tool_calls,Expenio @ v1_screenshot_cc,6,0.33394720739540396
+strict_clean,tool_calls,Fasco @ v1_screenshot_cc,5,0.6
+strict_clean,tool_calls,FinX @ v1_screenshot_cc,5,-0.8999999999999998
+strict_clean,tool_calls,Fitness App @ v1_screenshot_cc,6,-0.6
+strict_clean,tool_calls,Foodgo @ v1_screenshot_cc,6,-0.08696565534786727
+strict_clean,tool_calls,Foodieland @ v1_screenshot_cc,6,-0.14285714285714288
+strict_clean,tool_calls,Foodwagon @ v1_screenshot_cc,6,0.14285714285714288
+strict_clean,tool_calls,Fruit Hub @ v1_screenshot_cc,6,-0.5768179036829705
+strict_clean,tool_calls,Furniro @ v1_screenshot_cc,5,0.46169025843831935
+strict_clean,tool_calls,Hawkeye Travel @ v2_no_screenshot_direct,8,-0.11976262619132588
+strict_clean,tool_calls,Inkline Blog @ v2_no_screenshot_direct,7,-0.5585812268712466
+strict_clean,tool_calls,Investment Wallet @ v1_screenshot_cc,6,-0.2571428571428572
+strict_clean,tool_calls,MAC Agency @ v1_screenshot_cc,6,-0.17393131069573453
+strict_clean,tool_calls,Magic Coffee @ v2_no_screenshot_direct,7,-0.4128614119223853
+strict_clean,tool_calls,Meet @ v1_screenshot_cc,6,0.2571428571428572
+strict_clean,tool_calls,MindfulMentor @ v2_no_screenshot_direct,5,0.05129891760425771
+strict_clean,tool_calls,Musium @ v2_no_screenshot_direct,7,-0.396412483586046
+strict_clean,tool_calls,Nectar @ v1_screenshot_cc,6,-0.1911764705882353
+strict_clean,tool_calls,Nikle @ v2_no_screenshot_direct,5,-0.8999999999999998
+strict_clean,tool_calls,Northgate Homes @ v1_screenshot_cc,6,-0.2647058823529412
+strict_clean,tool_calls,Octom @ v1_screenshot_cc,6,-0.02898855178262242
+strict_clean,tool_calls,Open Fashion @ v2_no_screenshot_direct,7,0.2702812388086677
+strict_clean,tool_calls,Paradise Invest @ v1_screenshot_cc,6,-0.9276336570439174
+strict_clean,tool_calls,Payment Wallet @ v1_screenshot_cc,6,-0.3142857142857143
+strict_clean,tool_calls,Run & Earn @ v2_no_screenshot_direct,5,-0.05270462766947299
+strict_clean,tool_calls,Self Care Clinic @ v2_no_screenshot_direct,7,-0.7142857142857144
+strict_clean,tool_calls,Shop.co @ v1_screenshot_cc,5,-0.19999999999999998
+strict_clean,tool_calls,Stock Trading @ v1_screenshot_cc,6,-0.11595420713048968
+strict_clean,tool_calls,StockWave @ v1_screenshot_cc,5,-0.46169025843831935
+strict_clean,tool_calls,Stylish @ v1_screenshot_cc,6,0.05797710356524484
+strict_clean,tool_calls,Travelin @ v1_screenshot_cc,6,0.14285714285714288
+strict_clean,tool_calls,Vulcan Invest @ v1_screenshot_cc,6,0.08571428571428573
+strict_clean,tool_calls,Workout Class @ v1_screenshot_cc,5,0.0

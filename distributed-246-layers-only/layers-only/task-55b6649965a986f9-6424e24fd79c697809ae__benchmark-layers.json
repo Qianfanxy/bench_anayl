@@ -1,0 +1,435 @@
+{
+  "board_count": 20,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "frame×4",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Surface",
+        "Logo_Magic_Coffee",
+        "Magic Coffee",
+        "CRAFTED AROUND YOU"
+      ]
+    },
+    {
+      "name": "02_Sign_In",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Sign in",
+        "Welcome back",
+        "Surface",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "03_Sign_Up",
+      "size": "375×812",
+      "nodes": 21,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×4",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Sign up",
+        "Create an account here",
+        "Surface",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "04_Verification",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Verification",
+        "Enter the OTP code we se",
+        "Input / OTP empty",
+        "Resend in 00:30"
+      ]
+    },
+    {
+      "name": "05_Select_Store",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Image_Store_Map",
+        "Icon_Back → 04_Verificat",
+        "Icon_Map_Pin",
+        "Icon_Target"
+      ]
+    },
+    {
+      "name": "06_Menu",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Welcome!",
+        "Alex",
+        "Icon_Cart → 14_My_Order",
+        "Icon_Profile → 17_Profil"
+      ]
+    },
+    {
+      "name": "07_Order_Options",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 15,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×8",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Surface",
+        "Coffee_Cappuccino",
+        "Cappuccino",
+        "Quantity stepper"
+      ]
+    },
+    {
+      "name": "09_Assemblage",
+      "size": "375×812",
+      "nodes": 29,
+      "max_depth": 1,
+      "instances": 18,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×10",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Selection row / Select a",
+        "Selection row / Coffee s",
+        "Coffee type",
+        "Arabica"
+      ]
+    },
+    {
+      "name": "08_Milk_Picker",
+      "size": "375×812",
+      "nodes": 39,
+      "max_depth": 2,
+      "instances": 23,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "instance×23",
+        "text×12",
+        "frame×4"
+      ],
+      "names": [
+        "Selection row / Select a",
+        "Selection row / Coffee s",
+        "Coffee type",
+        "Arabica",
+        "Robusta",
+        "Slider / coffee type"
+      ]
+    },
+    {
+      "name": "10_Select_Barista",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Select a barista",
+        "Barista / Victor → 09_As",
+        "Barista / Andrey → 09_As",
+        "Barista / Vera"
+      ]
+    },
+    {
+      "name": "11_Coffee_Country",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 15,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Select country and sort ",
+        "List / Brazil → 12_Coffe",
+        "List / Colombia",
+        "List / Costa Rica"
+      ]
+    },
+    {
+      "name": "12_Coffee_Sort",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Select a sort of coffee",
+        "Brazil",
+        "List / Santos → 09_Assem",
+        "List / Bourbon Santos → "
+      ]
+    },
+    {
+      "name": "13_Additives",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Select additives",
+        "List / Ceylon cinnamon",
+        "List / Grated chocolate",
+        "List / Liquid chocolate"
+      ]
+    },
+    {
+      "name": "14_My_Order",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Your daily ritual, ready",
+        "Cart item / Americano",
+        "Surface",
+        "Icon_Delete"
+      ]
+    },
+    {
+      "name": "15_Order_Payment",
+      "size": "375×812",
+      "nodes": 28,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×10",
+        "frame×5"
+      ],
+      "names": [
+        "Your daily ritual, ready",
+        "Cart item / Americano",
+        "Surface",
+        "Icon_Delete",
+        "Cart item / Cappuccino /",
+        "Cart item / Flat White"
+      ]
+    },
+    {
+      "name": "16_Order_Confirmed",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Illustration_Ordered",
+        "Ordered",
+        "Alex, your order has bee",
+        "The order will be ready "
+      ]
+    },
+    {
+      "name": "17_Profile",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Profile field / Name",
+        "Profile field / Phone nu",
+        "Profile field / Email",
+        "Profile field / Magic Co"
+      ]
+    },
+    {
+      "name": "18_Rewards",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Loyalty / four stamps",
+        "Points card",
+        "History Rewards",
+        "Rewards history / Americ"
+      ]
+    },
+    {
+      "name": "19_Redeem",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "A little treat, on us.",
+        "Redeem drink / Latte",
+        "Redeem drink / Flat Whit",
+        "Redeem drink / Cappuccin"
+      ]
+    },
+    {
+      "name": "20_My_Orders",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Orders tabs / ongoing",
+        "Current order / American",
+        "Current order / Latte",
+        "Current order / Flat Whi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "414×896",
+      "nodes": 3,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×3"
+      ],
+      "names": [
+        "Nectar_Logo_White",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "414×896",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×2"
+      ],
+      "names": [
+        "Photo_Welcome_Delivery",
+        "Nectar_Carrot",
+        "Welcome to our store",
+        "Get your groceries in as",
+        "Button",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "414×896",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×6",
+        "frame×3"
+      ],
+      "names": [
+        "Photo_Sign_In_Groceries",
+        "Get your groceries with ",
+        "Phone Input",
+        "Flag_Bangladesh",
+        "+880",
+        "Mobile number"
+      ]
+    },
+    {
+      "name": "04_Verification",
+      "size": "414×896",
+      "nodes": 8,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Header Back",
+        "Enter your 4-digit code",
+        "Text Field",
+        "Resend Code",
+        "Next",
+        "Icon_Chevron_Right"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "414×1480",
+      "nodes": 28,
+      "max_depth": 2,
+      "instances": 23,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×23",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Nectar_Carrot",
+        "Dhaka, Banasree",
+        "Search Bar",
+        "Banner_Fresh_Vegetables",
+        "Section Header",
+        "Product Card"
+      ]
+    },
+    {
+      "name": "06_Product_Detail",
+      "size": "414×896",
+      "nodes": 26,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "instance×5",
+        "rectangle×4",
+        "frame×3"
+      ],
+      "names": [
+        "Image Bg",
+        "Product_Red_Apple",
+        "Header Back",
+        "Natural Red Apple",
+        "1kg, Price",
+        "Favourite"
+      ]
+    },
+    {
+      "name": "07_Explore",
+      "size": "414×896",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×7",
+        "frame×6"
+      ],
+      "names": [
+        "Find Products",
+        "Search Bar",
+        "Category Fresh Fruits & ",
+        "Category_Fresh_Fruits_Ve",
+        "Fresh Fruits & Vegetable",
+        "Category Cooking Oil & G"
+      ]
+    },
+    {
+      "name": "08_Beverages",
+      "size": "414×896",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 15,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×1"
+      ],
+      "names": [
+        "Header Back",
+        "Filter",
+        "Product Card",
+        "Product_Diet_Coke",
+        "Product_Sprite_Can",
+        "Product_Apple_Grape_Juic"
+      ]
+    },
+    {
+      "name": "09_My_Cart",
+      "size": "414×896",
+      "nodes": 19,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "rectangle×4",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "My Cart",
+        "Cart Row",
+        "Product_Bell_Pepper_Red",
+        "Rectangle",
+        "Product_Egg_Chicken_Red",
+        "Product_Organic_Bananas"
+      ]
+    },
+    {
+      "name": "10_Checkout_Overlay",
+      "size": "414×896",
+      "nodes": 43,
+      "max_depth": 2,
+      "instances": 19,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×12",
+        "rectangle×10",
+        "frame×2"
+      ],
+      "names": [
+        "My Cart",
+        "Cart Row",
+        "Product_Bell_Pepper_Red",
+        "Rectangle",
+        "Product_Egg_Chicken_Red",
+        "Product_Organic_Bananas"
+      ]
+    },
+    {
+      "name": "11_Order_Accepted",
+      "size": "414×896",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3"
+      ],
+      "names": [
+        "Illustration_Order_Accep",
+        "Your Order has been acce",
+        "Your items have been pla",
+        "Button",
+        "Back to home",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "12_Account",
+      "size": "414×896",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 20,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Avatar_Neutral",
+        "Afsar Hossen",
+        "Edit name",
+        "imshuvo97@gmail.com",
+        "List Row",
+        "Icon_Orders"
+      ]
+    }
+  ]
+}

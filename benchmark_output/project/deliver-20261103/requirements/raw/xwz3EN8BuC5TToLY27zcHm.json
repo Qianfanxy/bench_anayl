@@ -1,0 +1,634 @@
+{
+ "file_key": "xwz3EN8BuC5TToLY27zcHm",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "4:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "4:5",
+     "name": "Vulcan Invest — banking and stock investing",
+     "x": 64,
+     "y": 95,
+     "text": "Vulcan Invest — banking and stock investing"
+    },
+    {
+     "id": "4:6",
+     "name": "Design the investing area of Vulcan Bank’s app: from the home screen, open Invest for the first time, set a PIN, review the portfolio, study a stock and buy one share with a confirmation. Canvas 414 × 896, iPhone. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design the investing area of Vulcan Bank’s app: from the home screen, open Invest for the first time, set a PIN, review the portfolio, study a stock and buy one share with a confirmation. Canvas 414 × 896, iPhone. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "4:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "4:9",
+     "name": "1. Build exactly the 7 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the navigation and every business component as reusable components in your file. 5. Use the illustration, company logos and icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 7 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the navigation and every business component as reusable components in your file.\n5. Use the illustration, company logos and icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "4:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 532,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "4:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 583,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "4:15",
+     "name": "01_Home",
+     "x": 88,
+     "y": 645,
+     "text": "01_Home"
+    },
+    {
+     "id": "4:22",
+     "name": "02_About_Investment",
+     "x": 756,
+     "y": 645,
+     "text": "02_About_Investment"
+    },
+    {
+     "id": "4:16",
+     "name": "Goal: See my balance, act on my money and review today’s history.",
+     "x": 88,
+     "y": 681,
+     "text": "Goal: See my balance, act on my money and review today’s history."
+    },
+    {
+     "id": "4:23",
+     "name": "Goal: Learn what investing offers and start.",
+     "x": 756,
+     "y": 681,
+     "text": "Goal: Learn what investing offers and start."
+    },
+    {
+     "id": "4:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:18",
+     "name": "• Actions: “My card” (Icon_Card) · “Transfer” (Icon_Transfer) · “Mobile” (Icon_Mobile) · search history (Icon_Search) • Balance: $3,821 (Icon_Safe) · Vulcan Bank payment card (no number shown) · 2 pages, current: 1 • History: “History” · “TODAY” · 3 rows (see DATA) • Main navigation: tab bar Main / Payments / Cashback / Invest / More · current: Main",
+     "x": 88,
+     "y": 737,
+     "text": "• Actions: “My card” (Icon_Card) · “Transfer” (Icon_Transfer) · “Mobile” (Icon_Mobile) · search history (Icon_Search)\n• Balance: $3,821 (Icon_Safe) · Vulcan Bank payment card (no number shown) · 2 pages, current: 1\n• History: “History” · “TODAY” · 3 rows (see DATA)\n• Main navigation: tab bar Main / Payments / Cashback / Invest / More · current: Main"
+    },
+    {
+     "id": "4:25",
+     "name": "• Actions: back (Icon_Back) · start (Icon_Arrow_Right) • Copy: “Investment” · two paragraphs (see DATA) • Media: Illustration_Investment",
+     "x": 756,
+     "y": 737,
+     "text": "• Actions: back (Icon_Back) · start (Icon_Arrow_Right)\n• Copy: “Investment” · two paragraphs (see DATA)\n• Media: Illustration_Investment"
+    },
+    {
+     "id": "4:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 807,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:27",
+     "name": "→ start → 03_Create_PIN → back → 01_Home",
+     "x": 756,
+     "y": 833,
+     "text": "→ start → 03_Create_PIN\n→ back → 01_Home"
+    },
+    {
+     "id": "4:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 867,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:20",
+     "name": "→ Invest tab → 02_About_Investment",
+     "x": 88,
+     "y": 893,
+     "text": "→ Invest tab → 02_About_Investment"
+    },
+    {
+     "id": "4:29",
+     "name": "03_Create_PIN",
+     "x": 88,
+     "y": 985,
+     "text": "03_Create_PIN"
+    },
+    {
+     "id": "4:36",
+     "name": "04_Portfolio",
+     "x": 756,
+     "y": 985,
+     "text": "04_Portfolio"
+    },
+    {
+     "id": "4:30",
+     "name": "Goal: Create a 4-digit PIN for the brokerage account.",
+     "x": 88,
+     "y": 1021,
+     "text": "Goal: Create a 4-digit PIN for the brokerage account."
+    },
+    {
+     "id": "4:37",
+     "name": "Goal: See how my investments perform.",
+     "x": 756,
+     "y": 1021,
+     "text": "Goal: See how my investments perform."
+    },
+    {
+     "id": "4:31",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1051,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:38",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1051,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:32",
+     "name": "• Actions: back (Icon_Back) · “Ready” • Header: “Create PIN code” • Keypad: 1–9 and 0 with letters (2 ABC … 9 WXYZ) · delete (Icon_Backspace) • PIN: 4 positions · 3 entered (9 · 7 · 7) · 4th empty",
+     "x": 88,
+     "y": 1077,
+     "text": "• Actions: back (Icon_Back) · “Ready”\n• Header: “Create PIN code”\n• Keypad: 1–9 and 0 with letters (2 ABC … 9 WXYZ) · delete (Icon_Backspace)\n• PIN: 4 positions · 3 entered (9 · 7 · 7) · 4th empty"
+    },
+    {
+     "id": "4:39",
+     "name": "• Cases: “Cases” · AAPL · TSLA · NFLX · MSFT, each with logo, price and change (see DATA) • Chart: monthly earnings, Mar – Sep, axis 0 / 50k / 100k • Header: back (Icon_Back) · “Investment Portfolio” · menu (Icon_Menu) · chart (Icon_Chart, with an unread dot) · insights (Icon_Insights) • Main navigation: tab bar · current: Invest • Summary: “Total earning” $87,875 · +10% · “Profit” $28,160 · +32%",
+     "x": 756,
+     "y": 1077,
+     "text": "• Cases: “Cases” · AAPL · TSLA · NFLX · MSFT, each with logo, price and change (see DATA)\n• Chart: monthly earnings, Mar – Sep, axis 0 / 50k / 100k\n• Header: back (Icon_Back) · “Investment Portfolio” · menu (Icon_Menu) · chart (Icon_Chart, with an unread dot) · insights (Icon_Insights)\n• Main navigation: tab bar · current: Invest\n• Summary: “Total earning” $87,875 · +10% · “Profit” $28,160 · +32%"
+    },
+    {
+     "id": "4:33",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1167,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:34",
+     "name": "→ Ready → 04_Portfolio → back → 02_About_Investment",
+     "x": 88,
+     "y": 1193,
+     "text": "→ Ready → 04_Portfolio\n→ back → 02_About_Investment"
+    },
+    {
+     "id": "4:40",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1227,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:41",
+     "name": "→ AAPL case → 05_Trading → back / Main tab → 01_Home",
+     "x": 756,
+     "y": 1253,
+     "text": "→ AAPL case → 05_Trading\n→ back / Main tab → 01_Home"
+    },
+    {
+     "id": "4:43",
+     "name": "05_Trading",
+     "x": 88,
+     "y": 1365,
+     "text": "05_Trading"
+    },
+    {
+     "id": "4:50",
+     "name": "06_Stock_Transaction",
+     "x": 756,
+     "y": 1365,
+     "text": "06_Stock_Transaction"
+    },
+    {
+     "id": "4:44",
+     "name": "Goal: Study Apple’s price before deciding.",
+     "x": 88,
+     "y": 1401,
+     "text": "Goal: Study Apple’s price before deciding."
+    },
+    {
+     "id": "4:51",
+     "name": "Goal: Set up the purchase of one Apple share.",
+     "x": 756,
+     "y": 1401,
+     "text": "Goal: Set up the purchase of one Apple share."
+    },
+    {
+     "id": "4:45",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1431,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:52",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1431,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:46",
+     "name": "• Actions: “Buy” (Icon_Arrow_Up) · “Sell” (Icon_Arrow_Down) • Chart: AAPL intraday candlesticks, 10 am – 3 pm, axis $100.00 – $150.00 • Header: back (Icon_Back) · “Trading” · menu (Icon_Menu) · chart (Icon_Chart) · insights (Icon_Insights) • Main navigation: tab bar · current: Invest • Period: Day · Week · Month · Year · All · current: Day • Position: “Market Value” $97.83 · “Buying Power” $18,943.43 • Stock: AAPL · Apple Inc. · $143.43 · +31.62 (28.28%) (Logo_Apple)",
+     "x": 88,
+     "y": 1457,
+     "text": "• Actions: “Buy” (Icon_Arrow_Up) · “Sell” (Icon_Arrow_Down)\n• Chart: AAPL intraday candlesticks, 10 am – 3 pm, axis $100.00 – $150.00\n• Header: back (Icon_Back) · “Trading” · menu (Icon_Menu) · chart (Icon_Chart) · insights (Icon_Insights)\n• Main navigation: tab bar · current: Invest\n• Period: Day · Week · Month · Year · All · current: Day\n• Position: “Market Value” $97.83 · “Buying Power” $18,943.43\n• Stock: AAPL · Apple Inc. · $143.43 · +31.62 (28.28%) (Logo_Apple)"
+    },
+    {
+     "id": "4:53",
+     "name": "• Account: “ACCOUNT” · USD $18,943.43 (selected) · EUR €16,473.11 • Actions: “Buy” • Form: “Quantity” 1 (“1 lot = 1 stock”) · “Price” $143.43 (“1 unit = $143.43” · “commission $14.34”) • Header: back (Icon_Back) · “Stock transaction” · menu (Icon_Menu) • Main navigation: tab bar · current: Invest • Stock: Apple Inc. · AAPL · $143.43 · +31.62 (28.28%) (Logo_Apple)",
+     "x": 756,
+     "y": 1457,
+     "text": "• Account: “ACCOUNT” · USD $18,943.43 (selected) · EUR €16,473.11\n• Actions: “Buy”\n• Form: “Quantity” 1 (“1 lot = 1 stock”) · “Price” $143.43 (“1 unit = $143.43” · “commission $14.34”)\n• Header: back (Icon_Back) · “Stock transaction” · menu (Icon_Menu)\n• Main navigation: tab bar · current: Invest\n• Stock: Apple Inc. · AAPL · $143.43 · +31.62 (28.28%) (Logo_Apple)"
+    },
+    {
+     "id": "4:54",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1607,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:47",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1627,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:55",
+     "name": "→ Buy → 07_Confirm_Purchase → back → 05_Trading",
+     "x": 756,
+     "y": 1633,
+     "text": "→ Buy → 07_Confirm_Purchase\n→ back → 05_Trading"
+    },
+    {
+     "id": "4:48",
+     "name": "→ Buy → 06_Stock_Transaction → back → 04_Portfolio",
+     "x": 88,
+     "y": 1653,
+     "text": "→ Buy → 06_Stock_Transaction\n→ back → 04_Portfolio"
+    },
+    {
+     "id": "4:57",
+     "name": "07_Confirm_Purchase",
+     "x": 88,
+     "y": 1765,
+     "text": "07_Confirm_Purchase"
+    },
+    {
+     "id": "4:58",
+     "name": "Goal: Confirm or cancel the purchase.",
+     "x": 88,
+     "y": 1801,
+     "text": "Goal: Confirm or cancel the purchase."
+    },
+    {
+     "id": "4:59",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1831,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:60",
+     "name": "• Actions: “Cancel” · “Buy” • Copy: “Are you sure?” • Presentation: dialog over 06_Stock_Transaction",
+     "x": 88,
+     "y": 1857,
+     "text": "• Actions: “Cancel” · “Buy”\n• Copy: “Are you sure?”\n• Presentation: dialog over 06_Stock_Transaction"
+    },
+    {
+     "id": "4:61",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1927,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:62",
+     "name": "→ Cancel → 06_Stock_Transaction → Buy (entry only — the purchase result is not part of this task)",
+     "x": 88,
+     "y": 1953,
+     "text": "→ Cancel → 06_Stock_Transaction\n→ Buy (entry only — the purchase result is not part of this task)"
+    },
+    {
+     "id": "4:64",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 2065,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "4:65",
+     "name": "• Bottom tab bar on 01 and 04–06 with 5 tabs in this order: Main (Icon_Main), Payments (Icon_Payments), Cashback (Icon_Cashback), Invest (Icon_Invest), More (Icon_More). Current: Main on 01; Invest on 04–06. How the current tab looks is yours. 02, 03 and 07 have no tab bar. • First-time Invest flow: 01_Home → Invest tab → 02_About_Investment → start → 03_Create_PIN → Ready → 04_Portfolio. • Buying: 04 → AAPL → 05_Trading → Buy → 06_Stock_Transaction → Buy → 07_Confirm_Purchase (dialog over 06). • Entry only (no frame): My card, Transfer, Mobile, history search and rows, card pager, Payments / Cashback / More tabs, other cases, Sell, periods, menu, chart, insights, EUR account, Buy on 07.",
+     "x": 64,
+     "y": 2116,
+     "text": "• Bottom tab bar on 01 and 04–06 with 5 tabs in this order: Main (Icon_Main), Payments (Icon_Payments), Cashback (Icon_Cashback), Invest (Icon_Invest), More (Icon_More). Current: Main on 01; Invest on 04–06. How the current tab looks is yours. 02, 03 and 07 have no tab bar.\n• First-time Invest flow: 01_Home → Invest tab → 02_About_Investment → start → 03_Create_PIN → Ready → 04_Portfolio.\n• Buying: 04 → AAPL → 05_Trading → Buy → 06_Stock_Transaction → Buy → 07_Confirm_Purchase (dialog over 06).\n• Entry only (no frame): My card, Transfer, Mobile, history search and rows, card pager, Payments / Cashback / More tabs, other cases, Sell, periods, menu, chart, insights, EUR account, Buy on 07."
+    },
+    {
+     "id": "4:67",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 2296,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "4:68",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 2347,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "4:71",
+     "name": "Bank and balance",
+     "x": 84,
+     "y": 2405,
+     "text": "Bank and balance"
+    },
+    {
+     "id": "4:74",
+     "name": "History · TODAY (top to bottom)",
+     "x": 528,
+     "y": 2405,
+     "text": "History · TODAY (top to bottom)"
+    },
+    {
+     "id": "4:77",
+     "name": "About Investment (02)",
+     "x": 972,
+     "y": 2405,
+     "text": "About Investment (02)"
+    },
+    {
+     "id": "4:72",
+     "name": "Vulcan Bank · balance $3,821 · payment card (no number shown)",
+     "x": 84,
+     "y": 2433,
+     "text": "Vulcan Bank · balance $3,821 · payment card (no number shown)"
+    },
+    {
+     "id": "4:75",
+     "name": "Airbnb · Payments · −$560 (Icon_Location) to Anna Nelsen · Transfer · −$380 (Icon_Transfer) from Anna Nelsen · Transfer · +$470 (Icon_Transfer_In)",
+     "x": 528,
+     "y": 2433,
+     "text": "Airbnb · Payments · −$560 (Icon_Location)\nto Anna Nelsen · Transfer · −$380 (Icon_Transfer)\nfrom Anna Nelsen · Transfer · +$470 (Icon_Transfer_In)"
+    },
+    {
+     "id": "4:78",
+     "name": "Investment “I will help you create an investment portfolio in less than five minutes!” “Have you wanted to invest in the shares of global giants for a long time? Now it is possible by opening a brokerage account. Let’s start!”",
+     "x": 972,
+     "y": 2433,
+     "text": "Investment\n“I will help you create an investment portfolio in less than five minutes!”\n“Have you wanted to invest in the shares of global giants for a long time? Now it is possible by opening a brokerage account. Let’s start!”"
+    },
+    {
+     "id": "4:80",
+     "name": "PIN",
+     "x": 84,
+     "y": 2611,
+     "text": "PIN"
+    },
+    {
+     "id": "4:83",
+     "name": "Portfolio summary",
+     "x": 528,
+     "y": 2611,
+     "text": "Portfolio summary"
+    },
+    {
+     "id": "4:86",
+     "name": "Cases",
+     "x": 972,
+     "y": 2611,
+     "text": "Cases"
+    },
+    {
+     "id": "4:81",
+     "name": "4 digits · entered so far: 9 7 7",
+     "x": 84,
+     "y": 2639,
+     "text": "4 digits · entered so far: 9 7 7"
+    },
+    {
+     "id": "4:84",
+     "name": "Total earning $87,875 · +10% Profit $28,160 · +32% Chart: monthly, Mar – Sep, axis 0 / 50k / 100k",
+     "x": 528,
+     "y": 2639,
+     "text": "Total earning $87,875 · +10%\nProfit $28,160 · +32%\nChart: monthly, Mar – Sep, axis 0 / 50k / 100k"
+    },
+    {
+     "id": "4:87",
+     "name": "AAPL · $143.43 · +31.62 (28.28%) · Logo_Apple TSLA · $739.38 · +9.21 (1.26%) · Logo_Tesla NFLX · $573.14 · −2.29 (0.40%) · Logo_Netflix MSFT · $294.80 · +0.50 (0.17%) · Logo_Microsoft",
+     "x": 972,
+     "y": 2639,
+     "text": "AAPL · $143.43 · +31.62 (28.28%) · Logo_Apple\nTSLA · $739.38 · +9.21 (1.26%) · Logo_Tesla\nNFLX · $573.14 · −2.29 (0.40%) · Logo_Netflix\nMSFT · $294.80 · +0.50 (0.17%) · Logo_Microsoft"
+    },
+    {
+     "id": "4:89",
+     "name": "Apple trading",
+     "x": 84,
+     "y": 2779,
+     "text": "Apple trading"
+    },
+    {
+     "id": "4:92",
+     "name": "Order (06)",
+     "x": 528,
+     "y": 2779,
+     "text": "Order (06)"
+    },
+    {
+     "id": "4:90",
+     "name": "AAPL · Apple Inc. · $143.43 · +31.62 (28.28%) Intraday axis $100.00 – $150.00 (step $10), 10 am – 3 pm Market Value $97.83 · Buying Power $18,943.43",
+     "x": 84,
+     "y": 2807,
+     "text": "AAPL · Apple Inc. · $143.43 · +31.62 (28.28%)\nIntraday axis $100.00 – $150.00 (step $10), 10 am – 3 pm\nMarket Value $97.83 · Buying Power $18,943.43"
+    },
+    {
+     "id": "4:93",
+     "name": "Account: USD $18,943.43 (selected) · EUR €16,473.11 Quantity 1 · 1 lot = 1 stock Price $143.43 · 1 unit = $143.43 · commission $14.34",
+     "x": 528,
+     "y": 2807,
+     "text": "Account: USD $18,943.43 (selected) · EUR €16,473.11\nQuantity 1 · 1 lot = 1 stock\nPrice $143.43 · 1 unit = $143.43 · commission $14.34"
+    },
+    {
+     "id": "4:95",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 2932,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "4:98",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 3007,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "4:101",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 3007,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "4:99",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand color #FA5555 and Inter • Media: illustration, company logos, icons • Default Button, default Text Field, platform shell",
+     "x": 88,
+     "y": 3040,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand color #FA5555 and Inter\n• Media: illustration, company logos, icons\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "4:102",
+     "name": "• Layout, grouping, order and emphasis on every screen • Light or dark per screen, and all other colors: neutrals, text, surfaces, gains / losses, chart, buy / sell, error / disabled • Type scale, spacing, radii, elevation • All states: current tab, current period, selected account, PIN progress, focused field, pressed, disabled • Headers, tab bar, balance card, quick actions, history rows, PIN keypad, stock cards, charts, account selector, dialog • Chart rendering (the candle values between the axis limits are illustrative)",
+     "x": 756,
+     "y": 3040,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• Light or dark per screen, and all other colors: neutrals, text, surfaces, gains / losses, chart, buy / sell, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: current tab, current period, selected account, PIN progress, focused field, pressed, disabled\n• Headers, tab bar, balance card, quick actions, history rows, PIN keypad, stock cards, charts, account selector, dialog\n• Chart rendering (the candle values between the axis limits are illustrative)"
+    },
+    {
+     "id": "4:104",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 3292,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "4:105",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 3343,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "4:106",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current tab, current period, selected account, PIN progress, dialog presentation)",
+     "x": 64,
+     "y": 3381,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current tab, current period, selected account, PIN progress, dialog presentation)"
+    },
+    {
+     "id": "4:107",
+     "name": "Deliverable: the link to your own Figma file containing the 7 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 3551,
+     "text": "Deliverable: the link to your own Figma file containing the 7 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · Vulcan Invest",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Vulcan Invest"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces (light or dark, including any gradient), gains / losses, chart colors, the buy / sell actions, error and disabled, type scale, spacing, radii and elevation.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces (light or dark, including any gradient), gains / losses, chart colors, the buy / sell actions, error and disabled, type scale, spacing, radii and elevation."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand color",
+     "x": 56,
+     "y": 189,
+     "text": "Brand color"
+    },
+    {
+     "id": "1:12",
+     "name": "Brand primary · persian red",
+     "x": 56,
+     "y": 373,
+     "text": "Brand primary · persian red"
+    },
+    {
+     "id": "1:13",
+     "name": "#FA5555",
+     "x": 56,
+     "y": 398,
+     "text": "#FA5555"
+    },
+    {
+     "id": "1:14",
+     "name": "Vulcan Bank’s main brand color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 422,
+     "text": "Vulcan Bank’s main brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:15",
+     "name": "Typeface",
+     "x": 56,
+     "y": 499,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:16",
+     "name": "Aa Bb Cc 0123456789 $143.43 +28.28%",
+     "x": 56,
+     "y": 555,
+     "text": "Aa Bb Cc 0123456789  $143.43  +28.28%"
+    },
+    {
+     "id": "1:17",
+     "name": "Use Inter for all UI text (the source mixes Inter, Roboto, Open Sans and SF Pro; Inter replaces all of them). Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 635,
+     "text": "Use Inter for all UI text (the source mixes Inter, Roboto, Open Sans and SF Pro; Inter replaces all of them). Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:18",
+     "name": "Canvas: 414 × 896 (iPhone 11 Pro Max). The source mixes light and dark screens — light or dark per screen is your decision, as long as it is one coherent system. 04_Portfolio may scroll vertically.",
+     "x": 56,
+     "y": 684,
+     "text": "Canvas: 414 × 896 (iPhone 11 Pro Max). The source mixes light and dark screens — light or dark per screen is your decision, as long as it is one coherent system. 04_Portfolio may scroll vertically."
+    }
+   ]
+  }
+ ]
+}

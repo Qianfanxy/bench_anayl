@@ -1,0 +1,229 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×2",
+        "ellipse×1",
+        "rectangle×1"
+      ],
+      "names": [
+        "Ellipse",
+        "Illustration_Runners",
+        "Rectangle",
+        "Running App",
+        "Run and earn with our ap",
+        "Get Started"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×5",
+        "frame×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Back",
+        "Skip",
+        "Rectangle",
+        "Illustration_Onboarding_",
+        "Page Indicator / 3 · cur",
+        "Run"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 15,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×6",
+        "frame×2"
+      ],
+      "names": [
+        "Back",
+        "Logo_App",
+        "Log In",
+        "Email",
+        "Password",
+        "Show/Hide"
+      ]
+    },
+    {
+      "name": "04_Verify_Email",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Back",
+        "Illustration_Verify_Emai",
+        "Verify your email",
+        "We’ve sent a 4-digit cod",
+        "Code Input",
+        "Code Box / Filled"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "375×1240",
+      "nodes": 48,
+      "max_depth": 3,
+      "instances": 18,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×15",
+        "frame×10",
+        "ellipse×3",
+        "rectangle×2"
+      ],
+      "names": [
+        "Home Header",
+        "Icon_Menu",
+        "Avatar_Daniela",
+        "Frame",
+        "HELLO!",
+        "Daniela"
+      ]
+    },
+    {
+      "name": "06_History",
+      "size": "375×1000",
+      "nodes": 27,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×8",
+        "text×6"
+      ],
+      "names": [
+        "Header",
+        "Summary",
+        "Frame",
+        "Icon_Timer",
+        "18,3 H",
+        "Time"
+      ]
+    },
+    {
+      "name": "07_Store",
+      "size": "375×1300",
+      "nodes": 47,
+      "max_depth": 3,
+      "instances": 30,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×30",
+        "frame×13",
+        "text×4"
+      ],
+      "names": [
+        "Header",
+        "Today’s Special (scroll)",
+        "Offer Card",
+        "Categories",
+        "Category Bubble",
+        "Photo_New"
+      ]
+    },
+    {
+      "name": "08_Address_Empty",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Ellipse",
+        "Illustration_Address",
+        "Add your address",
+        "Unfortunately we don’t k",
+        "Add Address"
+      ]
+    },
+    {
+      "name": "09_New_Wallet",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Select the withdrawal ty",
+        "Bank Account",
+        "Card",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "10_Account_Updated",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×2",
+        "text×1",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "Frame",
+        "Account Row",
+        "Add New Account",
+        "+ Add New Account",
+        "Scrim"
+      ]
+    }
+  ]
+}

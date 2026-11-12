@@ -1,0 +1,25 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×5165",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×10"
+      ],
+      "names": [
+        "Header",
+        "Hero / growth",
+        "Trusted by / client word",
+        "About / projects / video",
+        "Case studies / selected ",
+        "Testimonial / 01 of 05"
+      ]
+    }
+  ]
+}

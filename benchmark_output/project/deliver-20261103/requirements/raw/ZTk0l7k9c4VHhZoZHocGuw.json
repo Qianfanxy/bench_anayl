@@ -1,0 +1,606 @@
+{
+ "file_key": "ZTk0l7k9c4VHhZoZHocGuw",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "7:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "7:5",
+     "name": "OCTOM — team task management web app",
+     "x": 64,
+     "y": 95,
+     "text": "OCTOM — team task management web app"
+    },
+    {
+     "id": "7:6",
+     "name": "Design a team task-management web app: see today’s overview, plan the project timeline, move tasks on a board, manage files, edit your profile and chat with the team. Desktop web app, 1440 × 1024, light mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design a team task-management web app: see today’s overview, plan the project timeline, move tasks on a board, manage files, edit your profile and chat with the team. Desktop web app, 1440 × 1024, light mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "7:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "7:9",
+     "name": "1. Build exactly the 6 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently. 4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file. 5. Use the logo, the avatars, the photos and the icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 6 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the logo, the avatars, the photos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "7:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 554,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "7:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 605,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "7:15",
+     "name": "01_Dashboard",
+     "x": 88,
+     "y": 667,
+     "text": "01_Dashboard"
+    },
+    {
+     "id": "7:22",
+     "name": "02_Timeline",
+     "x": 756,
+     "y": 667,
+     "text": "02_Timeline"
+    },
+    {
+     "id": "7:16",
+     "name": "Goal: See today’s workload, schedule and messages at a glance.",
+     "x": 88,
+     "y": 703,
+     "text": "Goal: See today’s workload, schedule and messages at a glance."
+    },
+    {
+     "id": "7:23",
+     "name": "Goal: Plan the project phases on a day-by-day timeline.",
+     "x": 756,
+     "y": 703,
+     "text": "Goal: Plan the project phases on a day-by-day timeline."
+    },
+    {
+     "id": "7:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:18",
+     "name": "• Messages: “Messages” · 4 conversations, each with avatar, name and last message (see DATA) • New Task: “New Task” · more (Icon_More) · “Task Title” · field “Create new” · emoji row 🎉 😍 😁 🔥 😘 😉 😎 👩 🙄 · “Add Collaborators” · chips Angela · Chris (each with an avatar) · add (Icon_Plus) · send (Icon_Send) • Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Dashboard • Stats: Task Completed 08 · New Task 10 · Project Done 10, each with icon, trend line and change “10+ more / 10+ more / 08+ more from last week” • Task Done: “Task Done” · Daily · Weekly · Monthly · current: Monthly · line chart with two series, y axis 0 – 400, months May – Apr (values illustrative) • Tasks: “Task” · 2 task rows, each with play (Icon_Play), “Start from” and time (Icon_Clock), title, link (Icon_Link), comments (Icon_Comment), progress and “Reminder” (Icon_Bell) (see DATA) • Today’s Schedule: “Today’s Schedule” · “30 minute call with Client” · “+ Invite” · “Project Discovery Call” · 3 participant avatars + initials “R” · timer 28:35 · call (Icon_Phone) • Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)",
+     "x": 88,
+     "y": 759,
+     "text": "• Messages: “Messages” · 4 conversations, each with avatar, name and last message (see DATA)\n• New Task: “New Task” · more (Icon_More) · “Task Title” · field “Create new” · emoji row 🎉 😍 😁 🔥 😘 😉 😎 👩 🙄 · “Add Collaborators” · chips Angela · Chris (each with an avatar) · add (Icon_Plus) · send (Icon_Send)\n• Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Dashboard\n• Stats: Task Completed 08 · New Task 10 · Project Done 10, each with icon, trend line and change “10+ more / 10+ more / 08+ more from last week”\n• Task Done: “Task Done” · Daily · Weekly · Monthly · current: Monthly · line chart with two series, y axis 0 – 400, months May – Apr (values illustrative)\n• Tasks: “Task” · 2 task rows, each with play (Icon_Play), “Start from” and time (Icon_Clock), title, link (Icon_Link), comments (Icon_Comment), progress and “Reminder” (Icon_Bell) (see DATA)\n• Today’s Schedule: “Today’s Schedule” · “30 minute call with Client” · “+ Invite” · “Project Discovery Call” · 3 participant avatars + initials “R” · timer 28:35 · call (Icon_Phone)\n• Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)"
+    },
+    {
+     "id": "7:25",
+     "name": "• Bars: 11 task bars on the timeline, each with label and percent (see DATA) • Complete Task: “Complete Task” · line chart of 7 points 67 · 73 · 53 · 47 · 39 · 27 · 27 · highlighted point: the last • Day scale: S 04 … S 21 (18 consecutive days) • Header: “Timeline” · “Today” · previous (Icon_Chevron_Left) · “June 20, 2022” · next (Icon_Chevron_Right) · “+ Invite” · team avatars with +5 • Phases: UX Research · Information Architecture · Design Phase (Build Wireframe, User Interface Design) · Prototyping · Development (Back-End Development, Front-End Development), each phase with member avatars and more (Icon_More) • Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Timeline • Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)",
+     "x": 756,
+     "y": 759,
+     "text": "• Bars: 11 task bars on the timeline, each with label and percent (see DATA)\n• Complete Task: “Complete Task” · line chart of 7 points 67 · 73 · 53 · 47 · 39 · 27 · 27 · highlighted point: the last\n• Day scale: S 04 … S 21 (18 consecutive days)\n• Header: “Timeline” · “Today” · previous (Icon_Chevron_Left) · “June 20, 2022” · next (Icon_Chevron_Right) · “+ Invite” · team avatars with +5\n• Phases: UX Research · Information Architecture · Design Phase (Build Wireframe, User Interface Design) · Prototyping · Development (Back-End Development, Front-End Development), each phase with member avatars and more (Icon_More)\n• Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Timeline\n• Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)"
+    },
+    {
+     "id": "7:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1049,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:27",
+     "name": "→ sidebar icons → other frames",
+     "x": 756,
+     "y": 1075,
+     "text": "→ sidebar icons → other frames"
+    },
+    {
+     "id": "7:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1149,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:20",
+     "name": "→ sidebar icons → 02_Timeline, 03_Task_Board, 05_Settings, 06_Messages, 04_Files → a message → 06_Messages",
+     "x": 88,
+     "y": 1175,
+     "text": "→ sidebar icons → 02_Timeline, 03_Task_Board, 05_Settings, 06_Messages, 04_Files\n→ a message → 06_Messages"
+    },
+    {
+     "id": "7:29",
+     "name": "03_Task_Board",
+     "x": 88,
+     "y": 1287,
+     "text": "03_Task_Board"
+    },
+    {
+     "id": "7:36",
+     "name": "04_Files",
+     "x": 756,
+     "y": 1287,
+     "text": "04_Files"
+    },
+    {
+     "id": "7:30",
+     "name": "Goal: Track tasks across the four board columns and chat with the group.",
+     "x": 88,
+     "y": 1323,
+     "text": "Goal: Track tasks across the four board columns and chat with the group."
+    },
+    {
+     "id": "7:37",
+     "name": "Goal: Find a folder or a recent file and check storage.",
+     "x": 756,
+     "y": 1323,
+     "text": "Goal: Find a folder or a recent file and check storage."
+    },
+    {
+     "id": "7:31",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1353,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:38",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1353,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:32",
+     "name": "• Board: columns Backlog · To Do · In Progress · Review, each with more (Icon_More) and add (Icon_Plus) · 12 task cards (see DATA) • Group chat: “Group Chat” · messages from members (avatar) and from you (see DATA) · voice message 1:25 (Icon_Play) · input “write here...” (Icon_Mic, Icon_Send) • Header: “🔥 Task” · team avatars with +6 · add (Icon_Plus) • Members: “Member (25)” · “View All” · member avatars • Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Task • Task card: tag · title · “Create content for peceland App” · date (Icon_Calendar) · 3 member avatars · checklist 0/8 (Icon_Checklist) or “4 Comment” (Icon_Comment) · “11 file” (Icon_Attachment) · cover photo where given • Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)",
+     "x": 88,
+     "y": 1379,
+     "text": "• Board: columns Backlog · To Do · In Progress · Review, each with more (Icon_More) and add (Icon_Plus) · 12 task cards (see DATA)\n• Group chat: “Group Chat” · messages from members (avatar) and from you (see DATA) · voice message 1:25 (Icon_Play) · input “write here...” (Icon_Mic, Icon_Send)\n• Header: “🔥 Task” · team avatars with +6 · add (Icon_Plus)\n• Members: “Member (25)” · “View All” · member avatars\n• Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Task\n• Task card: tag · title · “Create content for peceland App” · date (Icon_Calendar) · 3 member avatars · checklist 0/8 (Icon_Checklist) or “4 Comment” (Icon_Comment) · “11 file” (Icon_Attachment) · cover photo where given\n• Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)"
+    },
+    {
+     "id": "7:39",
+     "name": "• Activity Chart: “Activity Chart” · bar chart with legend Media · Photos · Docs (values illustrative) • All Files: “All Files” · “Show All” (Icon_Chevron_Down) · 6 folders (Icon_Folder), each with name, file count and member chips (see DATA) • Available Storage: “Available Storage” · 27% · “140GB / 512GB” · Media 86 GB · Documents 26 GB · Music 10 GB · Other File 18 GB, each with icon and usage bar • Header: “Files” · “+ Create New Folder” · “Upload” (Icon_Upload) • Recent Files: “Recent Files” · “View All” · table Name · Size · Last Modified · Members, sortable (Icon_Arrow_Up) · 4 rows with file icon (Icon_File), member avatars and more (Icon_More_Vertical) (see DATA) • Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Files • Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)",
+     "x": 756,
+     "y": 1379,
+     "text": "• Activity Chart: “Activity Chart” · bar chart with legend Media · Photos · Docs (values illustrative)\n• All Files: “All Files” · “Show All” (Icon_Chevron_Down) · 6 folders (Icon_Folder), each with name, file count and member chips (see DATA)\n• Available Storage: “Available Storage” · 27% · “140GB / 512GB” · Media 86 GB · Documents 26 GB · Music 10 GB · Other File 18 GB, each with icon and usage bar\n• Header: “Files” · “+ Create New Folder” · “Upload” (Icon_Upload)\n• Recent Files: “Recent Files” · “View All” · table Name · Size · Last Modified · Members, sortable (Icon_Arrow_Up) · 4 rows with file icon (Icon_File), member avatars and more (Icon_More_Vertical) (see DATA)\n• Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Files\n• Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)"
+    },
+    {
+     "id": "7:33",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1669,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:40",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1689,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:34",
+     "name": "→ sidebar icons → other frames",
+     "x": 88,
+     "y": 1695,
+     "text": "→ sidebar icons → other frames"
+    },
+    {
+     "id": "7:41",
+     "name": "→ sidebar icons → other frames",
+     "x": 756,
+     "y": 1715,
+     "text": "→ sidebar icons → other frames"
+    },
+    {
+     "id": "7:43",
+     "name": "05_Settings",
+     "x": 88,
+     "y": 1807,
+     "text": "05_Settings"
+    },
+    {
+     "id": "7:50",
+     "name": "06_Messages",
+     "x": 756,
+     "y": 1807,
+     "text": "06_Messages"
+    },
+    {
+     "id": "7:44",
+     "name": "Goal: Update your personal details.",
+     "x": 88,
+     "y": 1843,
+     "text": "Goal: Update your personal details."
+    },
+    {
+     "id": "7:51",
+     "name": "Goal: Read and reply in the Design Team conversation.",
+     "x": 756,
+     "y": 1843,
+     "text": "Goal: Read and reply in the Design Team conversation."
+    },
+    {
+     "id": "7:45",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1873,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:52",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1873,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "7:46",
+     "name": "• Form: First name “Dristin” · Last name “Watson” · Email “dristin.watson@example.com” (Icon_Mail) · photo upload “Click to upload or drag and drop” · “SVG, PNG, JPG or GIF (max. 800x400px)” (Icon_Upload_Cloud) · Role “Product Designer” • Profile header: Photo_Gradient_Blue (cover) · Avatar_Current_User · “Settings” · “Cancel” · “Save” • Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Settings • Tabs: My details · Profile · Password · Team · Plan · Billing · Email · Notifications · current: My details • Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)",
+     "x": 88,
+     "y": 1899,
+     "text": "• Form: First name “Dristin” · Last name “Watson” · Email “dristin.watson@example.com” (Icon_Mail) · photo upload “Click to upload or drag and drop” · “SVG, PNG, JPG or GIF (max. 800x400px)” (Icon_Upload_Cloud) · Role “Product Designer”\n• Profile header: Photo_Gradient_Blue (cover) · Avatar_Current_User · “Settings” · “Cancel” · “Save”\n• Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Settings\n• Tabs: My details · Profile · Password · Team · Plan · Billing · Email · Notifications · current: My details\n• Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)"
+    },
+    {
+     "id": "7:53",
+     "name": "• Contact panel: Avatar_Killan_James · “Killan James” · “@killanjames” · “Attachments” 4 files (Icon_File) with size and date · “View all” · “Members” · “+ Add Member” · Novita · Milie Nose · Ikhsan SD · Aditya with avatars (see DATA) • Conversation list: “Messages” · search “Search...” (Icon_Search) · 3 pinned conversations · “All Messages” · 5 conversations, each with avatar, name, time, last message and unread count where given · current: Design Team (see DATA) • Conversation: header Avatar_Design_Team · “Design Team” · “60 members, 10 online” · member avatars · add (Icon_Plus) · messages and day divider (see DATA) · composer “Add a comment...” (Icon_Mic, Icon_Emoji, Icon_Image, Icon_Attachment, Icon_Send) • Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Messages • Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)",
+     "x": 756,
+     "y": 1899,
+     "text": "• Contact panel: Avatar_Killan_James · “Killan James” · “@killanjames” · “Attachments” 4 files (Icon_File) with size and date · “View all” · “Members” · “+ Add Member” · Novita · Milie Nose · Ikhsan SD · Aditya with avatars (see DATA)\n• Conversation list: “Messages” · search “Search...” (Icon_Search) · 3 pinned conversations · “All Messages” · 5 conversations, each with avatar, name, time, last message and unread count where given · current: Design Team (see DATA)\n• Conversation: header Avatar_Design_Team · “Design Team” · “60 members, 10 online” · member avatars · add (Icon_Plus) · messages and day divider (see DATA) · composer “Add a comment...” (Icon_Mic, Icon_Emoji, Icon_Image, Icon_Attachment, Icon_Send)\n• Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Messages\n• Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)"
+    },
+    {
+     "id": "7:47",
+     "name": "LINKS",
+     "x": 88,
+     "y": 2149,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:48",
+     "name": "→ sidebar icons → other frames",
+     "x": 88,
+     "y": 2175,
+     "text": "→ sidebar icons → other frames"
+    },
+    {
+     "id": "7:54",
+     "name": "LINKS",
+     "x": 756,
+     "y": 2189,
+     "text": "LINKS"
+    },
+    {
+     "id": "7:55",
+     "name": "→ sidebar icons → other frames",
+     "x": 756,
+     "y": 2215,
+     "text": "→ sidebar icons → other frames"
+    },
+    {
+     "id": "7:57",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 2307,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "7:58",
+     "name": "• Sidebar and top bar on all 6 frames. The sidebar is icon-only in this order: Dashboard → 01, Timeline → 02, Task → 03, Settings → 05, Messages → 06, Files → 04. Current item as listed on each frame; how it looks is yours. • From 01_Dashboard, a message row opens 06_Messages. • Entry only (no frame): search, notifications, account menu, chart period tabs, play / reminder, invite, call, emoji, collaborators, date navigation, phases, bars, column actions, cards, group chat, create folder, upload, folders, file rows, storage, tabs other than My details, Cancel / Save, conversations other than Design Team, attachments, add member, composer actions.",
+     "x": 64,
+     "y": 2358,
+     "text": "• Sidebar and top bar on all 6 frames. The sidebar is icon-only in this order: Dashboard → 01, Timeline → 02, Task → 03, Settings → 05, Messages → 06, Files → 04. Current item as listed on each frame; how it looks is yours.\n• From 01_Dashboard, a message row opens 06_Messages.\n• Entry only (no frame): search, notifications, account menu, chart period tabs, play / reminder, invite, call, emoji, collaborators, date navigation, phases, bars, column actions, cards, group chat, create folder, upload, folders, file rows, storage, tabs other than My details, Cancel / Save, conversations other than Design Team, attachments, add member, composer actions."
+    },
+    {
+     "id": "7:60",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 2538,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "7:61",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 2589,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "7:64",
+     "name": "Dashboard (01)",
+     "x": 84,
+     "y": 2647,
+     "text": "Dashboard (01)"
+    },
+    {
+     "id": "7:67",
+     "name": "Timeline bars (02, by phase)",
+     "x": 528,
+     "y": 2647,
+     "text": "Timeline bars (02, by phase)"
+    },
+    {
+     "id": "7:70",
+     "name": "Task board · Backlog / To Do (03)",
+     "x": 972,
+     "y": 2647,
+     "text": "Task board · Backlog / To Do (03)"
+    },
+    {
+     "id": "7:65",
+     "name": "Messages: Cris Morich — Hi Dristin! How are you? (Avatar_Cris_Morich) · Charmie — Do you need that design? (Avatar_Charmie) · Jason Mandala — What is the price of hourly... (Avatar_Jason_Mandala) · Charlie Chu — Awesome design!! (Avatar_Charlie_Chu) Task 1: Search Inspiration for project · Start from 9.00 am · inspiration.example.com · 8 comments · 24% complete Task 2: Search Inspiration for project · Start from 3.00 am · moodboard.example.org · 5 comments · 60% complete",
+     "x": 84,
+     "y": 2675,
+     "text": "Messages: Cris Morich — Hi Dristin! How are you? (Avatar_Cris_Morich) · Charmie — Do you need that design? (Avatar_Charmie) · Jason Mandala — What is the price of hourly... (Avatar_Jason_Mandala) · Charlie Chu — Awesome design!! (Avatar_Charlie_Chu)\nTask 1: Search Inspiration for project · Start from 9.00 am · inspiration.example.com · 8 comments · 24% complete\nTask 2: Search Inspiration for project · Start from 3.00 am · moodboard.example.org · 5 comments · 60% complete"
+    },
+    {
+     "id": "7:68",
+     "name": "UX Research: Profile 48% · Menu 54% · Settings 39% Information Architecture: Login 48% · Services 54% Build Wireframe: Testimonials 69% User Interface Design: Menu 61% · Homepage 48% Prototyping: Our Portfolio 63% Development: Profile 48% Front-End Development: Services 54%",
+     "x": 528,
+     "y": 2675,
+     "text": "UX Research: Profile 48% · Menu 54% · Settings 39%\nInformation Architecture: Login 48% · Services 54%\nBuild Wireframe: Testimonials 69%\nUser Interface Design: Menu 61% · Homepage 48%\nPrototyping: Our Portfolio 63%\nDevelopment: Profile 48%\nFront-End Development: Services 54%"
+    },
+    {
+     "id": "7:71",
+     "name": "Backlog: Design · Create styleguide foundation · Aug 20, 2021 · 0/8 · cover Photo_Gradient_Blue | Research · Copywriting Content · Aug 20, 2021 · 0/8 | Planning · Update requirement list · Sep 20, 2021 · 4 Comment · 11 file To Do: Research · Auditing information architecture · Aug 20, 2021 · 0/8 | Content · Update support documentation · Aug 16, 2021 · 0/8 · cover Photo_Gradient_Glass | Research · Qualitative research planning · Aug 20, 2021 · 0/8",
+     "x": 972,
+     "y": 2675,
+     "text": "Backlog: Design · Create styleguide foundation · Aug 20, 2021 · 0/8 · cover Photo_Gradient_Blue | Research · Copywriting Content · Aug 20, 2021 · 0/8 | Planning · Update requirement list · Sep 20, 2021 · 4 Comment · 11 file\nTo Do: Research · Auditing information architecture · Aug 20, 2021 · 0/8 | Content · Update support documentation · Aug 16, 2021 · 0/8 · cover Photo_Gradient_Glass | Research · Qualitative research planning · Aug 20, 2021 · 0/8"
+    },
+    {
+     "id": "7:73",
+     "name": "Task board · In Progress / Review (03)",
+     "x": 84,
+     "y": 2910,
+     "text": "Task board · In Progress / Review (03)"
+    },
+    {
+     "id": "7:76",
+     "name": "Group chat (03, in order)",
+     "x": 528,
+     "y": 2910,
+     "text": "Group chat (03, in order)"
+    },
+    {
+     "id": "7:79",
+     "name": "Files (04)",
+     "x": 972,
+     "y": 2910,
+     "text": "Files (04)"
+    },
+    {
+     "id": "7:74",
+     "name": "In Progress: Planning · Listing deliverables checklist · Sep 20, 2021 · 4 Comment · 11 file | Research · Usability test plan · Aug 20, 2021 · 0/8 | Design · Onboarding copy · Aug 20, 2021 · 0/8 · cover Photo_Gradient_Orange Review: Content · Design System · Aug 16, 2021 · 0/8 · cover Photo_Gradient_Red | Design · High Fidelity UI Desktop · Aug 20, 2021 · 0/8 | Content · Handoff deliverables checklist · Sep 20, 2021 · 4 Comment · 11 file",
+     "x": 84,
+     "y": 2938,
+     "text": "In Progress: Planning · Listing deliverables checklist · Sep 20, 2021 · 4 Comment · 11 file | Research · Usability test plan · Aug 20, 2021 · 0/8 | Design · Onboarding copy · Aug 20, 2021 · 0/8 · cover Photo_Gradient_Orange\nReview: Content · Design System · Aug 16, 2021 · 0/8 · cover Photo_Gradient_Red | Design · High Fidelity UI Desktop · Aug 20, 2021 · 0/8 | Content · Handoff deliverables checklist · Sep 20, 2021 · 4 Comment · 11 file"
+    },
+    {
+     "id": "7:77",
+     "name": "Member: Hello! 👋 · 08.00 am You: Hi, Everyone 🔥 · 08.01 am Member: How are you? What did you do, everyone? · 08.03 am Member: Good ✌ · 08.05 am Member: voice message · 1:25",
+     "x": 528,
+     "y": 2938,
+     "text": "Member: Hello! 👋 · 08.00 am\nYou: Hi, Everyone 🔥 · 08.01 am\nMember: How are you? What did you do, everyone? · 08.03 am\nMember: Good ✌ · 08.05 am\nMember: voice message · 1:25"
+    },
+    {
+     "id": "7:80",
+     "name": "Folders: Documents · 24 files | Music · 102 files | Work Project · 84 files | Personal Media · 2450 files | Reddingo Backup · 22 files | Root · 105 files Recent Files: Proposal.docx · 2.9 MB · Feb 25, 2022 | Background.jpg · 3.5 MB · Feb 24, 2022 | Apex website.fig · 23.5 MB · Feb 22, 2022 | Illustration.ai · 7.2 MB · Feb 20, 2022",
+     "x": 972,
+     "y": 2938,
+     "text": "Folders: Documents · 24 files | Music · 102 files | Work Project · 84 files | Personal Media · 2450 files | Reddingo Backup · 22 files | Root · 105 files\nRecent Files: Proposal.docx · 2.9 MB · Feb 25, 2022 | Background.jpg · 3.5 MB · Feb 24, 2022 | Apex website.fig · 23.5 MB · Feb 22, 2022 | Illustration.ai · 7.2 MB · Feb 20, 2022"
+    },
+    {
+     "id": "7:82",
+     "name": "Conversation list (06)",
+     "x": 84,
+     "y": 3154,
+     "text": "Conversation list (06)"
+    },
+    {
+     "id": "7:85",
+     "name": "Design Team conversation (06, in order)",
+     "x": 528,
+     "y": 3154,
+     "text": "Design Team conversation (06, in order)"
+    },
+    {
+     "id": "7:88",
+     "name": "Attachments (06)",
+     "x": 972,
+     "y": 3154,
+     "text": "Attachments (06)"
+    },
+    {
+     "id": "7:83",
+     "name": "Pinned: Killan James · 4:30 PM · Typing... · 2 (Avatar_Killan_James) | Design Team · 9:36 AM · Hello! Everyone (Avatar_Design_Team) | Ahmed Medi · 1:15 AM · Wow really Cool 🔥 (Avatar_Ahmed_Medi) All Messages: Claudia Maudi · 4:30 PM · Typing... (Avatar_Claudia_Maudi) | Novita · 4:30 PM · yah, nice design · 2 (Avatar_Novita) | Milie Nose · 8:20 PM · Awesome 🔥 · 1 (Avatar_Milie_Nose) | Ikhsan SD · yesterday · Voice message (Avatar_Ikhsan_SD) | Aditya · yesterday · publish now (Avatar_Aditya)",
+     "x": 84,
+     "y": 3182,
+     "text": "Pinned: Killan James · 4:30 PM · Typing... · 2 (Avatar_Killan_James) | Design Team · 9:36 AM · Hello! Everyone (Avatar_Design_Team) | Ahmed Medi · 1:15 AM · Wow really Cool 🔥 (Avatar_Ahmed_Medi)\nAll Messages: Claudia Maudi · 4:30 PM · Typing... (Avatar_Claudia_Maudi) | Novita · 4:30 PM · yah, nice design · 2 (Avatar_Novita) | Milie Nose · 8:20 PM · Awesome 🔥 · 1 (Avatar_Milie_Nose) | Ikhsan SD · yesterday · Voice message (Avatar_Ikhsan_SD) | Aditya · yesterday · publish now (Avatar_Aditya)"
+    },
+    {
+     "id": "7:86",
+     "name": "Killan James · 10:12 AM: Hi, are you still a web designer? / Would love to see some designs 😁 — Today, March 24 — Claudia Maudi · 10:30 AM: Hey, happy to hear from you. Yes, I will be back in a couple of days. / Here are some designs I took earlier today. [Photo_Chat_Design_1, Photo_Chat_Design_2] Dristin Watson (you) · 10:30 AM: Great 🔥 That’s a nice design idea. 😍👏 Milie Nose · 8:20 PM: Awesome 🔥",
+     "x": 528,
+     "y": 3182,
+     "text": "Killan James · 10:12 AM: Hi, are you still a web designer? / Would love to see some designs 😁\n— Today, March 24 —\nClaudia Maudi · 10:30 AM: Hey, happy to hear from you. Yes, I will be back in a couple of days. / Here are some designs I took earlier today. [Photo_Chat_Design_1, Photo_Chat_Design_2]\nDristin Watson (you) · 10:30 AM: Great 🔥 That’s a nice design idea. 😍👏\nMilie Nose · 8:20 PM: Awesome 🔥"
+    },
+    {
+     "id": "7:89",
+     "name": "Very important file.figma · Some file.scratch · List of something.xd · Very important file.svg — each 7.5 MB · 3.22.22, 11:15 AM",
+     "x": 972,
+     "y": 3182,
+     "text": "Very important file.figma · Some file.scratch · List of something.xd · Very important file.svg — each 7.5 MB · 3.22.22, 11:15 AM"
+    },
+    {
+     "id": "7:91",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 3440,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "7:94",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 3515,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "7:97",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 3515,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "7:95",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand color #5051F9 and DM Sans • Media: logo, avatars, photos, icons • Default Button, default Text Field",
+     "x": 88,
+     "y": 3548,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand color #5051F9 and DM Sans\n• Media: logo, avatars, photos, icons\n• Default Button, default Text Field"
+    },
+    {
+     "id": "7:98",
+     "name": "• Layout, grid, grouping, order and emphasis on every screen • All other colors: neutrals, text, surfaces, chart and bar colors, tag colors, status / progress colors, online status, error / disabled • Type scale, spacing, radii, elevation • All states: current nav item, current period tab, current settings tab, current conversation, unread, typing, hover, focused field • Sidebar, top bar, stat cards, charts, task rows, schedule card, message rows, gantt rows and bars, kanban columns and cards, chat bubbles, folders, file table, storage panel, profile header, tabs, form, contact panel • How avatars, covers and photos are cropped",
+     "x": 756,
+     "y": 3548,
+     "text": "• Layout, grid, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, surfaces, chart and bar colors, tag colors, status / progress colors, online status, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: current nav item, current period tab, current settings tab, current conversation, unread, typing, hover, focused field\n• Sidebar, top bar, stat cards, charts, task rows, schedule card, message rows, gantt rows and bars, kanban columns and cards, chat bubbles, folders, file table, storage panel, profile header, tabs, form, contact panel\n• How avatars, covers and photos are cropped"
+    },
+    {
+     "id": "7:100",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 3820,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "7:101",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 3871,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "7:102",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current nav, tabs, conversation, unread / typing)",
+     "x": 64,
+     "y": 3909,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current nav, tabs, conversation, unread / typing)"
+    },
+    {
+     "id": "7:103",
+     "name": "Deliverable: the link to your own Figma file containing the 6 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 4079,
+     "text": "Deliverable: the link to your own Figma file containing the 6 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · OCTOM",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · OCTOM"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, app background and surfaces, chart and timeline bar colors, task tag colors, progress and status colors, online status, unread badge, selected states, error / disabled, type scale, spacing, radii, elevation and the layout grid.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, app background and surfaces, chart and timeline bar colors, task tag colors, progress and status colors, online status, unread badge, selected states, error / disabled, type scale, spacing, radii, elevation and the layout grid."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand color",
+     "x": 56,
+     "y": 208,
+     "text": "Brand color"
+    },
+    {
+     "id": "1:11",
+     "name": "Brand primary · indigo",
+     "x": 56,
+     "y": 392,
+     "text": "Brand primary · indigo"
+    },
+    {
+     "id": "1:12",
+     "name": "#5051F9",
+     "x": 56,
+     "y": 417,
+     "text": "#5051F9"
+    },
+    {
+     "id": "1:13",
+     "name": "The app’s signature accent. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 441,
+     "text": "The app’s signature accent. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:14",
+     "name": "Typeface",
+     "x": 56,
+     "y": 518,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:15",
+     "name": "Aa Bb Cc 0123456789 24% complete",
+     "x": 56,
+     "y": 574,
+     "text": "Aa Bb Cc 0123456789  24% complete"
+    },
+    {
+     "id": "1:16",
+     "name": "Use DM Sans for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 658,
+     "text": "Use DM Sans for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:17",
+     "name": "Canvas: desktop web app, 1440 × 1024 per screen. Light mode. Screens do not scroll as a page; panels may scroll inside.",
+     "x": 56,
+     "y": 707,
+     "text": "Canvas: desktop web app, 1440 × 1024 per screen. Light mode. Screens do not scroll as a page; panels may scroll inside."
+    }
+   ]
+  }
+ ]
+}

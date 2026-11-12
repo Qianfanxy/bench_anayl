@@ -1,0 +1,110 @@
+{
+  "kind": "benchmark-legacy-media-audit/v1",
+  "checked_at": "2026-10-30T21:16:28.198124+00:00",
+  "raw_audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/a51c396d5daca28936c6d6aa99df98138677ce6b3eecf1699fdce4199190e406.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/a51c396d5daca28936c6d6aa99df98138677ce6b3eecf1699fdce4199190e406.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/6b63d02ca5b5105013a9e9d16eaeb93c78e9fd555be76f6ae02d9d2d67d315b7.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/6b63d02ca5b5105013a9e9d16eaeb93c78e9fd555be76f6ae02d9d2d67d315b7.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/73880fc319def9afe0706e6742affc8f4c94ab6642aeb972a8c76c5971801a3f.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/73880fc319def9afe0706e6742affc8f4c94ab6642aeb972a8c76c5971801a3f.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/c69b773315198545fa36d9add3e0b9780d37c507f344921383913a94bcca749d.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/c69b773315198545fa36d9add3e0b9780d37c507f344921383913a94bcca749d.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/0779b45107a47cdfd9fb4fa44ca10bffe155473762173ef4de03f590daea0072.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/0779b45107a47cdfd9fb4fa44ca10bffe155473762173ef4de03f590daea0072.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/1c9273104320261235bcdad3565df7cbaa0d772595c4d0e097c0e845249645db.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/1c9273104320261235bcdad3565df7cbaa0d772595c4d0e097c0e845249645db.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/f1799ce4f46759f9680ea75f3f6c419267eb2817a81a8fa794a7256b63f3585e.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/f1799ce4f46759f9680ea75f3f6c419267eb2817a81a8fa794a7256b63f3585e.png"
+    ],
+    "require_prototype": false
+  },
+  "audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called"
+    ],
+    "require_prototype": false,
+    "raw_errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/a51c396d5daca28936c6d6aa99df98138677ce6b3eecf1699fdce4199190e406.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/a51c396d5daca28936c6d6aa99df98138677ce6b3eecf1699fdce4199190e406.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/6b63d02ca5b5105013a9e9d16eaeb93c78e9fd555be76f6ae02d9d2d67d315b7.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/6b63d02ca5b5105013a9e9d16eaeb93c78e9fd555be76f6ae02d9d2d67d315b7.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/73880fc319def9afe0706e6742affc8f4c94ab6642aeb972a8c76c5971801a3f.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/73880fc319def9afe0706e6742affc8f4c94ab6642aeb972a8c76c5971801a3f.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/c69b773315198545fa36d9add3e0b9780d37c507f344921383913a94bcca749d.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/c69b773315198545fa36d9add3e0b9780d37c507f344921383913a94bcca749d.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/0779b45107a47cdfd9fb4fa44ca10bffe155473762173ef4de03f590daea0072.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/0779b45107a47cdfd9fb4fa44ca10bffe155473762173ef4de03f590daea0072.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/1c9273104320261235bcdad3565df7cbaa0d772595c4d0e097c0e845249645db.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/1c9273104320261235bcdad3565df7cbaa0d772595c4d0e097c0e845249645db.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/f1799ce4f46759f9680ea75f3f6c419267eb2817a81a8fa794a7256b63f3585e.png",
+      "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/f1799ce4f46759f9680ea75f3f6c419267eb2817a81a8fa794a7256b63f3585e.png"
+    ],
+    "media_warnings": [
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/a51c396d5daca28936c6d6aa99df98138677ce6b3eecf1699fdce4199190e406.png",
+        "path": "TEST-027_1793390708512/task-000001/media/a51c396d5daca28936c6d6aa99df98138677ce6b3eecf1699fdce4199190e406.png",
+        "sha256": "a51c396d5daca28936c6d6aa99df98138677ce6b3eecf1699fdce4199190e406",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/6b63d02ca5b5105013a9e9d16eaeb93c78e9fd555be76f6ae02d9d2d67d315b7.png",
+        "path": "TEST-027_1793390708512/task-000001/media/6b63d02ca5b5105013a9e9d16eaeb93c78e9fd555be76f6ae02d9d2d67d315b7.png",
+        "sha256": "6b63d02ca5b5105013a9e9d16eaeb93c78e9fd555be76f6ae02d9d2d67d315b7",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/73880fc319def9afe0706e6742affc8f4c94ab6642aeb972a8c76c5971801a3f.png",
+        "path": "TEST-027_1793390708512/task-000001/media/73880fc319def9afe0706e6742affc8f4c94ab6642aeb972a8c76c5971801a3f.png",
+        "sha256": "73880fc319def9afe0706e6742affc8f4c94ab6642aeb972a8c76c5971801a3f",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/c69b773315198545fa36d9add3e0b9780d37c507f344921383913a94bcca749d.png",
+        "path": "TEST-027_1793390708512/task-000001/media/c69b773315198545fa36d9add3e0b9780d37c507f344921383913a94bcca749d.png",
+        "sha256": "c69b773315198545fa36d9add3e0b9780d37c507f344921383913a94bcca749d",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/0779b45107a47cdfd9fb4fa44ca10bffe155473762173ef4de03f590daea0072.png",
+        "path": "TEST-027_1793390708512/task-000001/media/0779b45107a47cdfd9fb4fa44ca10bffe155473762173ef4de03f590daea0072.png",
+        "sha256": "0779b45107a47cdfd9fb4fa44ca10bffe155473762173ef4de03f590daea0072",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/1c9273104320261235bcdad3565df7cbaa0d772595c4d0e097c0e845249645db.png",
+        "path": "TEST-027_1793390708512/task-000001/media/1c9273104320261235bcdad3565df7cbaa0d772595c4d0e097c0e845249645db.png",
+        "sha256": "1c9273104320261235bcdad3565df7cbaa0d772595c4d0e097c0e845249645db",
+        "width": 22,
+        "height": 22
+      },
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-027_1793390708512/task-000001/media/f1799ce4f46759f9680ea75f3f6c419267eb2817a81a8fa794a7256b63f3585e.png",
+        "path": "TEST-027_1793390708512/task-000001/media/f1799ce4f46759f9680ea75f3f6c419267eb2817a81a8fa794a7256b63f3585e.png",
+        "sha256": "f1799ce4f46759f9680ea75f3f6c419267eb2817a81a8fa794a7256b63f3585e",
+        "width": 300,
+        "height": 90
+      }
+    ],
+    "warnings": [
+      "PNG 解码与路径检查通过；旧 SFT 尺寸/色彩门槛记为告警，设计质量等待 fixed_v4 评测。"
+    ]
+  }
+}

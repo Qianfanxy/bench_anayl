@@ -1,0 +1,6 @@
+﻿case_id,human_preferred,other,total_margin,A,B,G,D,E,F
+6case-case-005,GPT,Opus,-5,-1,0,-2,-1,0,-1
+3case-case-002,Fable,GPT,-5,-2,-2,1,-3,1,0
+6case-case-003,Kimi,GPT,-5,1,0,-1,-4,0,-1
+6case-case-006,Fable,Kimi,-2,0,-1,0,1,-1,-1
+web10-case-006,Fable,GPT,-5,-1,0,0,-2,-1,-1

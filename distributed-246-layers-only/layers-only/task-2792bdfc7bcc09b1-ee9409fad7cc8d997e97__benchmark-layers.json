@@ -1,0 +1,73 @@
+{
+  "board_count": 3,
+  "boards": [
+    {
+      "name": "01_Expenses",
+      "size": "375×945",
+      "nodes": 41,
+      "max_depth": 4,
+      "instances": 14,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "frame×14",
+        "text×12",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "TabBar",
+        "Home Indicator",
+        "Header",
+        "PeriodPicker",
+        "September 2020"
+      ]
+    },
+    {
+      "name": "02_Bill",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 2,
+      "instances": 15,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "TabBar",
+        "Home Indicator",
+        "Header",
+        "Segments",
+        "Segment/Default"
+      ]
+    },
+    {
+      "name": "03_Credit_Score",
+      "size": "375×812",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×7",
+        "ellipse×2",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "TabBar",
+        "Home Indicator",
+        "Header",
+        "ScoreGauge",
+        "gauge track"
+      ]
+    }
+  ]
+}

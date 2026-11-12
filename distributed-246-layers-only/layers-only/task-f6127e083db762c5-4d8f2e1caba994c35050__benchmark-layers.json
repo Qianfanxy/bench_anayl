@@ -1,0 +1,261 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 1,
+      "images": 1,
+      "types": [
+        "instance×3",
+        "ellipse×2",
+        "rectangle-image×1",
+        "text×1"
+      ],
+      "names": [
+        "Ellipse",
+        "Status Bar",
+        "Home Indicator",
+        "Rectangle",
+        "Foodgo_Wordmark / White",
+        "Order your favourite foo"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "430×932",
+      "nodes": 68,
+      "max_depth": 4,
+      "instances": 23,
+      "texts": 15,
+      "images": 4,
+      "types": [
+        "frame×25",
+        "instance×23",
+        "text×15",
+        "rectangle-image×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo_Wordmark / Dark",
+        "Avatar",
+        "Order your favourite foo",
+        "SearchField"
+      ]
+    },
+    {
+      "name": "03_Product_Cheeseburger",
+      "size": "430×932",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 8,
+      "images": 1,
+      "types": [
+        "instance×11",
+        "text×8",
+        "frame×5",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "IconBtn_back",
+        "Icon",
+        "IconBtn_search",
+        "Hero"
+      ]
+    },
+    {
+      "name": "04_Product_Veggie",
+      "size": "430×932",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 8,
+      "images": 1,
+      "types": [
+        "instance×11",
+        "text×8",
+        "frame×5",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "IconBtn_back",
+        "Icon",
+        "IconBtn_search",
+        "Hero"
+      ]
+    },
+    {
+      "name": "05_Product_Chicken",
+      "size": "430×932",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 8,
+      "images": 1,
+      "types": [
+        "instance×11",
+        "text×8",
+        "frame×5",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "IconBtn_back",
+        "Icon",
+        "IconBtn_search",
+        "Hero"
+      ]
+    },
+    {
+      "name": "06_Product_Fried_Chicken",
+      "size": "430×932",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 8,
+      "images": 1,
+      "types": [
+        "instance×11",
+        "text×8",
+        "frame×5",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "IconBtn_back",
+        "Icon",
+        "IconBtn_search",
+        "Hero"
+      ]
+    },
+    {
+      "name": "07_Customize",
+      "size": "430×932",
+      "nodes": 39,
+      "max_depth": 2,
+      "instances": 22,
+      "texts": 8,
+      "images": 1,
+      "types": [
+        "instance×22",
+        "frame×8",
+        "text×8",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "IconBtn_back",
+        "Icon",
+        "IconBtn_search",
+        "Customize Your Burger to"
+      ]
+    },
+    {
+      "name": "08_Payment",
+      "size": "430×932",
+      "nodes": 38,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 11,
+      "images": 2,
+      "types": [
+        "instance×12",
+        "frame×12",
+        "text×11",
+        "rectangle-image×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "IconBtn_back",
+        "Icon / Back",
+        "IconBtn_search",
+        "Icon / Search"
+      ]
+    },
+    {
+      "name": "09_Payment_Success_Overlay",
+      "size": "430×932",
+      "nodes": 49,
+      "max_depth": 4,
+      "instances": 16,
+      "texts": 13,
+      "images": 2,
+      "types": [
+        "instance×16",
+        "frame×15",
+        "text×13",
+        "rectangle×2",
+        "rectangle-image×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "PaymentBehind",
+        "IconBtn_back",
+        "Icon / Back",
+        "IconBtn_search"
+      ]
+    },
+    {
+      "name": "10_Profile",
+      "size": "430×932",
+      "nodes": 45,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "frame×17",
+        "text×13",
+        "instance×11",
+        "rectangle×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "IconBtn_back",
+        "Icon / Back",
+        "IconBtn_settings",
+        "Icon / Settings"
+      ]
+    },
+    {
+      "name": "11_Support_Chat",
+      "size": "430×932",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×5",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "IconBtn_back",
+        "Icon / Back",
+        "IconBtn_menu",
+        "Icon / Menu"
+      ]
+    }
+  ]
+}

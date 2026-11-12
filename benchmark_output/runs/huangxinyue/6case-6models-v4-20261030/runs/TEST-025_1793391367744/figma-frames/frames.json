@@ -1,0 +1,101 @@
+[
+  {
+    "node_id": "13:39",
+    "name": "01_Splash",
+    "file": "13-39.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "tB1sUry3dJDspx8uxl0ftc",
+        "nodeId": "13:39",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "44abd819c114717ec65786e221e2bb2ed52f7e959042f608a025e54a59f1ee1e",
+      "response_file": "_debug/v2-native-13-39.png.txt",
+      "response_sha256": "da23580b2a89682ea7977dc60eadecb3d85deb13f8476c17d27d8437f34dd8aa"
+    }
+  },
+  {
+    "node_id": "13:59",
+    "name": "02_Onboarding_Choose_Products",
+    "file": "13-59.png"
+  },
+  {
+    "node_id": "13:85",
+    "name": "03_Onboarding_Make_Payment",
+    "file": "13-85.png"
+  },
+  {
+    "node_id": "13:113",
+    "name": "04_Onboarding_Get_Your_Order",
+    "file": "13-113.png"
+  },
+  {
+    "node_id": "14:108",
+    "name": "05_Sign_In",
+    "file": "14-108.png"
+  },
+  {
+    "node_id": "14:151",
+    "name": "06_Sign_Up",
+    "file": "14-151.png"
+  },
+  {
+    "node_id": "14:200",
+    "name": "07_Forgot_Password",
+    "file": "14-200.png"
+  },
+  {
+    "node_id": "14:222",
+    "name": "08_Get_Started",
+    "file": "14-222.png"
+  },
+  {
+    "node_id": "17:345",
+    "name": "09_Home",
+    "file": "17-345.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "tB1sUry3dJDspx8uxl0ftc",
+        "nodeId": "17:345",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "9a811e418624996221a718ac0109bd8f4dd35f4274f32038835a200a8298eaf0",
+      "response_file": "_debug/v2-native-17-345.png.txt",
+      "response_sha256": "3a61fa91484899a3e125f0fbe9b7da8be5bc27d9ee48ba102566bb6a2e3ffdc5"
+    }
+  },
+  {
+    "node_id": "18:345",
+    "name": "10_Product_List",
+    "file": "18-345.png"
+  },
+  {
+    "node_id": "19:527",
+    "name": "11_Product_Detail",
+    "file": "19-527.png"
+  },
+  {
+    "node_id": "20:619",
+    "name": "12_Shopping_Bag",
+    "file": "20-619.png"
+  },
+  {
+    "node_id": "21:637",
+    "name": "13_Payment",
+    "file": "21-637.png"
+  },
+  {
+    "node_id": "21:707",
+    "name": "14_Payment_Success_Overlay",
+    "file": "21-707.png"
+  },
+  {
+    "node_id": "21:731",
+    "name": "15_Profile",
+    "file": "21-731.png"
+  }
+]

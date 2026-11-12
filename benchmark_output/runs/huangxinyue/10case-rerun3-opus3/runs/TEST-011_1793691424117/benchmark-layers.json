@@ -1,0 +1,129 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "390×844",
+      "nodes": 24,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "rectangle×8",
+        "frame×6",
+        "instance×5",
+        "text×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "Photo_Onboarding",
+        "Scrim",
+        "Get Started",
+        "Button",
+        "Pagination",
+        "Dot 1"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "390×986",
+      "nodes": 133,
+      "max_depth": 6,
+      "instances": 38,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "instance×38",
+        "text×29",
+        "frame×28",
+        "vector×25",
+        "rectangle×12",
+        "ellipse×1"
+      ],
+      "names": [
+        "Greeting",
+        "User Name",
+        "Avatar",
+        "Initials",
+        "Search",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "03_Explore",
+      "size": "390×1258",
+      "nodes": 159,
+      "max_depth": 6,
+      "instances": 45,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "instance×45",
+        "vector×38",
+        "frame×35",
+        "text×32",
+        "rectangle×8",
+        "ellipse×1"
+      ],
+      "names": [
+        "Page Title",
+        "Banner · Best Quarantine",
+        "Photo",
+        "Scrim",
+        "Title",
+        "See more"
+      ]
+    },
+    {
+      "name": "04_Workout",
+      "size": "390×1063",
+      "nodes": 89,
+      "max_depth": 5,
+      "instances": 25,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "instance×25",
+        "frame×19",
+        "vector×18",
+        "text×18",
+        "rectangle×8",
+        "ellipse×1"
+      ],
+      "names": [
+        "Photo_Lower_Body_Trainin",
+        "Scrim",
+        "Nav Header",
+        "Back",
+        "Icon_Back",
+        "Vector"
+      ]
+    },
+    {
+      "name": "05_Analytics",
+      "size": "390×1066",
+      "nodes": 163,
+      "max_depth": 6,
+      "instances": 32,
+      "texts": 38,
+      "images": 0,
+      "types": [
+        "text×38",
+        "frame×37",
+        "vector×35",
+        "instance×32",
+        "rectangle×15",
+        "ellipse×6"
+      ],
+      "names": [
+        "Eyebrow",
+        "Month",
+        "Day Strip",
+        "Day / S 10",
+        "Day",
+        "Date"
+      ]
+    }
+  ]
+}

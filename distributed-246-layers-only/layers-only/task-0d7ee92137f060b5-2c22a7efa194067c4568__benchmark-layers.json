@@ -1,0 +1,247 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1920×5972",
+      "nodes": 56,
+      "max_depth": 4,
+      "instances": 29,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "instance×29",
+        "frame×15",
+        "text×12"
+      ],
+      "names": [
+        "Header · Home",
+        "Hero",
+        "HeroLeft",
+        "Photo_Hero_Left",
+        "Photo_Hero_Bottom",
+        "HeroMid"
+      ]
+    },
+    {
+      "name": "02_Shop",
+      "size": "1920×4186",
+      "nodes": 108,
+      "max_depth": 6,
+      "instances": 20,
+      "texts": 43,
+      "images": 0,
+      "types": [
+        "frame×45",
+        "text×43",
+        "instance×20"
+      ],
+      "names": [
+        "Header · Store",
+        "Page Title",
+        "Fashion",
+        "Breadcrumb",
+        "Home",
+        "Icon_Chevron_Right"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1920×3215",
+      "nodes": 98,
+      "max_depth": 6,
+      "instances": 25,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "frame×42",
+        "text×31",
+        "instance×25"
+      ],
+      "names": [
+        "Header · Store",
+        "Product",
+        "Gallery",
+        "Thumbs",
+        "Thumb Photo_Denim_Jacket",
+        "Photo_Denim_Jacket_Lilac"
+      ]
+    },
+    {
+      "name": "04_Mini_Cart",
+      "size": "1920×3215",
+      "nodes": 126,
+      "max_depth": 6,
+      "instances": 29,
+      "texts": 42,
+      "images": 0,
+      "types": [
+        "frame×55",
+        "text×42",
+        "instance×29"
+      ],
+      "names": [
+        "Header · Store",
+        "Product",
+        "Gallery",
+        "Thumbs",
+        "Thumb Photo_Denim_Jacket",
+        "Photo_Denim_Jacket_Lilac"
+      ]
+    },
+    {
+      "name": "05_Cart",
+      "size": "1920×1372",
+      "nodes": 39,
+      "max_depth": 6,
+      "instances": 6,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "frame×14",
+        "instance×6"
+      ],
+      "names": [
+        "Header · Store",
+        "Page Title",
+        "Shopping Cart",
+        "Breadcrumb",
+        "Home",
+        "Icon_Chevron_Right"
+      ]
+    },
+    {
+      "name": "06_Checkout",
+      "size": "1920×2336",
+      "nodes": 69,
+      "max_depth": 6,
+      "instances": 20,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "frame×29",
+        "instance×20",
+        "text×20"
+      ],
+      "names": [
+        "Header · Store",
+        "Page Title",
+        "FASCO Checkout",
+        "Checkout Body",
+        "Form",
+        "Section Contact"
+      ]
+    },
+    {
+      "name": "07_Sign_Up",
+      "size": "1920×1080",
+      "nodes": 29,
+      "max_depth": 4,
+      "instances": 10,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "frame×11",
+        "instance×10",
+        "text×8"
+      ],
+      "names": [
+        "Card",
+        "FASCO",
+        "Form",
+        "Heading",
+        "Create Account",
+        "r"
+      ]
+    },
+    {
+      "name": "08_Sign_In",
+      "size": "1920×1080",
+      "nodes": 26,
+      "max_depth": 4,
+      "instances": 6,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "frame×11",
+        "text×9",
+        "instance×6"
+      ],
+      "names": [
+        "Card",
+        "FASCO",
+        "Form",
+        "Heading",
+        "Sign In To FASCO",
+        "Social Sign in with Goog"
+      ]
+    },
+    {
+      "name": "09_Forgot_Password",
+      "size": "1920×1080",
+      "nodes": 17,
+      "max_depth": 4,
+      "instances": 6,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "frame×6",
+        "instance×6",
+        "text×5"
+      ],
+      "names": [
+        "Card",
+        "FASCO",
+        "Form",
+        "Heading",
+        "Forgot Password",
+        "r"
+      ]
+    },
+    {
+      "name": "10_Confirmation_Code",
+      "size": "1920×1080",
+      "nodes": 13,
+      "max_depth": 4,
+      "instances": 3,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "frame×5",
+        "text×5",
+        "instance×3"
+      ],
+      "names": [
+        "Card",
+        "FASCO",
+        "Form",
+        "Heading",
+        "Enter The Confirmation C",
+        "Field Confirmation Code"
+      ]
+    },
+    {
+      "name": "11_New_Password",
+      "size": "1920×1080",
+      "nodes": 11,
+      "max_depth": 4,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "frame×4",
+        "instance×4",
+        "text×3"
+      ],
+      "names": [
+        "Card",
+        "FASCO",
+        "Form",
+        "Heading",
+        "Enter Your New Password",
+        "Field New Password"
+      ]
+    }
+  ]
+}

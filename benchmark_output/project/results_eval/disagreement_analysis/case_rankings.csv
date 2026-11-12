@@ -1,0 +1,43 @@
+﻿case_id,title,reviewer,model,human_rank,rubric_score,rubric_tied_rank
+6case-case-005,FinX,R1,Opus,3,44,1.0
+6case-case-005,FinX,R1,GPT,1,39,3.0
+6case-case-005,FinX,R1,Fable,2,35,5.0
+6case-case-005,FinX,R1,GLM,4,33,6.0
+6case-case-005,FinX,R1,Kimi,5,36,4.0
+6case-case-005,FinX,R1,Gemini,6,40,2.0
+3case-case-002,Paradise Invest,R1,Opus,1,47,1.0
+3case-case-002,Paradise Invest,R1,GPT,3,45,2.0
+3case-case-002,Paradise Invest,R1,Fable,2,40,4.5
+3case-case-002,Paradise Invest,R1,GLM,4,44,3.0
+3case-case-002,Paradise Invest,R1,Kimi,5,40,4.5
+3case-case-002,Paradise Invest,R1,Gemini,6,39,6.0
+3case-case-002,Paradise Invest,R2,Opus,1,47,1.0
+3case-case-002,Paradise Invest,R2,GPT,5,45,2.0
+3case-case-002,Paradise Invest,R2,Fable,2,40,4.5
+3case-case-002,Paradise Invest,R2,GLM,4,44,3.0
+3case-case-002,Paradise Invest,R2,Kimi,3,40,4.5
+3case-case-002,Paradise Invest,R2,Gemini,6,39,6.0
+6case-case-003,Stylish,R1,Opus,1,42,1.0
+6case-case-003,Stylish,R1,GPT,4,36,2.0
+6case-case-003,Stylish,R1,Fable,2,35,3.5
+6case-case-003,Stylish,R1,GLM,3,35,3.5
+6case-case-003,Stylish,R1,Kimi,5,31,5.0
+6case-case-003,Stylish,R1,Gemini,6,29,6.0
+6case-case-003,Stylish,R2,Opus,1,42,1.0
+6case-case-003,Stylish,R2,GPT,5,36,2.0
+6case-case-003,Stylish,R2,Fable,4,35,3.5
+6case-case-003,Stylish,R2,GLM,3,35,3.5
+6case-case-003,Stylish,R2,Kimi,2,31,5.0
+6case-case-003,Stylish,R2,Gemini,6,29,6.0
+6case-case-006,Fruit Hub,R1,Opus,1,49,1.0
+6case-case-006,Fruit Hub,R1,GPT,2,44,3.0
+6case-case-006,Fruit Hub,R1,Fable,3,42,5.0
+6case-case-006,Fruit Hub,R1,GLM,4,41,6.0
+6case-case-006,Fruit Hub,R1,Kimi,5,44,3.0
+6case-case-006,Fruit Hub,R1,Gemini,6,44,3.0
+web10-case-006,Octom,R1,Opus,3,50,1.0
+web10-case-006,Octom,R1,GPT,2,48,2.5
+web10-case-006,Octom,R1,Fable,1,43,4.0
+web10-case-006,Octom,R1,GLM,4,48,2.5
+web10-case-006,Octom,R1,Kimi,5,41,5.0
+web10-case-006,Octom,R1,Gemini,6,29,6.0

@@ -1,0 +1,115 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Wallet",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×5",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Scrollable content",
+        "Content",
+        "Header / My Wallet",
+        "Balance / positive"
+      ]
+    },
+    {
+      "name": "02_Discovery",
+      "size": "375×812",
+      "nodes": 34,
+      "max_depth": 5,
+      "instances": 27,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×27",
+        "frame×4",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Scrollable content",
+        "Content",
+        "Header / Discovery",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "03_Strategy",
+      "size": "375×812",
+      "nodes": 61,
+      "max_depth": 6,
+      "instances": 42,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×42",
+        "frame×10",
+        "text×9"
+      ],
+      "names": [
+        "Discovery backdrop",
+        "Status Bar",
+        "Home Indicator",
+        "Scrollable content",
+        "Content",
+        "Header / Discovery"
+      ]
+    },
+    {
+      "name": "04_Invest_Amount",
+      "size": "375×812",
+      "nodes": 64,
+      "max_depth": 6,
+      "instances": 46,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×46",
+        "frame×10",
+        "text×8"
+      ],
+      "names": [
+        "Discovery backdrop",
+        "Status Bar",
+        "Home Indicator",
+        "Scrollable content",
+        "Content",
+        "Header / Discovery"
+      ]
+    },
+    {
+      "name": "05_Invest_Success",
+      "size": "375×812",
+      "nodes": 45,
+      "max_depth": 6,
+      "instances": 32,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×32",
+        "frame×8",
+        "text×5"
+      ],
+      "names": [
+        "Discovery backdrop",
+        "Status Bar",
+        "Home Indicator",
+        "Scrollable content",
+        "Content",
+        "Header / Discovery"
+      ]
+    }
+  ]
+}

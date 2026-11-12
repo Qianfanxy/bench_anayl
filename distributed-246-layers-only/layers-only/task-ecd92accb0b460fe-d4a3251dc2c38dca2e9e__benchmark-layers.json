@@ -1,0 +1,154 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4250",
+      "nodes": 35,
+      "max_depth": 1,
+      "instances": 29,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×29",
+        "text×5",
+        "frame×1"
+      ],
+      "names": [
+        "Navigation / Header",
+        "Navigation / Footer",
+        "Promotion / Flagship her",
+        "Promotion / Editorial mo",
+        "Browse By Category",
+        "Icon_Arrow_Left"
+      ]
+    },
+    {
+      "name": "02_Products",
+      "size": "1440×1980",
+      "nodes": 32,
+      "max_depth": 2,
+      "instances": 18,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×9",
+        "frame×5"
+      ],
+      "names": [
+        "Navigation / Header",
+        "Navigation / Footer",
+        "Home",
+        "Icon_Chevron_Right",
+        "Catalog",
+        "Smartphones"
+      ]
+    },
+    {
+      "name": "03_Product_Details",
+      "size": "1440×4140",
+      "nodes": 81,
+      "max_depth": 3,
+      "instances": 29,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "text×32",
+        "instance×29",
+        "frame×20"
+      ],
+      "names": [
+        "Navigation / Header",
+        "Navigation / Footer",
+        "Home",
+        "Icon_Chevron_Right",
+        "Catalog",
+        "Smartphones"
+      ]
+    },
+    {
+      "name": "04_Shopping_Cart",
+      "size": "1440×1180",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×1"
+      ],
+      "names": [
+        "Navigation / Header",
+        "Navigation / Footer",
+        "Shopping Cart",
+        "Cart / Pomelo One 14 Pro",
+        "Cart / Pomelo Pods Max S",
+        "Cart / Pomelo Watch Seri"
+      ]
+    },
+    {
+      "name": "05_Checkout_Address",
+      "size": "1440×1320",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "Navigation / Header",
+        "Navigation / Footer",
+        "Checkout / Step 1",
+        "Select Address",
+        "Checkout / Address HOME",
+        "Checkout / Address OFFIC"
+      ]
+    },
+    {
+      "name": "06_Checkout_Shipping",
+      "size": "1440×1180",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×1"
+      ],
+      "names": [
+        "Navigation / Header",
+        "Navigation / Footer",
+        "Checkout / Step 2",
+        "Shipment Method",
+        "Checkout / Shipment Free",
+        "Checkout / Shipment $8.5"
+      ]
+    },
+    {
+      "name": "07_Checkout_Payment",
+      "size": "1440×1460",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×5"
+      ],
+      "names": [
+        "Navigation / Header",
+        "Navigation / Footer",
+        "Checkout / Step 3",
+        "Payment / Order summary",
+        "Payment / Credit card fo"
+      ]
+    }
+  ]
+}

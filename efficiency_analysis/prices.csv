@@ -1,0 +1,11 @@
+model,api_model_id,currency,input_per_M,output_per_M,cache_read_per_M,cache_write_per_M,source
+DeepSeek V4 Flash,bailian/deepseek-v4-flash-0731,USD,0.15,0.60,,,price.md
+Fable 5.1,claude-fable-5-1/mix_L/sfm,USD,10.00,50.00,,,price.md
+GLM-5.3 Flash,glm-5.3-flash/tencent/sfb,USD,0.15,0.50,,,price.md
+GPT 6.1 Sol,gpt-6.1-sol/azure_L/sfa,USD,2.00,10.00,,,price.md
+Gemini 3.5 Flash,gemini-3.5-flash,USD,1.50,9.00,,,price.md
+Kimi K3,kimi-k3/tencent/sfb,USD,3.00,15.00,,,price.md
+Opus 5.5（三方A）,claude-opus-5-5/awsb_L/sfa,USD,4.00,20.00,,,price.md
+Qwen 3.8 Max,qwen3.8-max-0902/bailian/bailian,USD,1.80,5.40,,,price.md (approximate)
+Sonnet 5.5,claude-sonnet-5-5/awsb_L/sfg,USD,2.00,10.00,,,price.md
+gpt-6-astra,gpt-6-astra/azure_L/sfl,USD,10.00,50.00,,,price.md

@@ -1,0 +1,97 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×3670",
+      "nodes": 69,
+      "max_depth": 5,
+      "instances": 34,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×34",
+        "frame×21",
+        "text×11",
+        "rectangle×3"
+      ],
+      "names": [
+        "Header",
+        "Hero",
+        "HeroText",
+        "Kicker",
+        "Title",
+        "Desc"
+      ]
+    },
+    {
+      "name": "02_Products",
+      "size": "1440×1674",
+      "nodes": 118,
+      "max_depth": 5,
+      "instances": 32,
+      "texts": 34,
+      "images": 0,
+      "types": [
+        "frame×52",
+        "text×34",
+        "instance×32"
+      ],
+      "names": [
+        "Header",
+        "Breadcrumb",
+        "Home",
+        "Icon_Chevron_Right",
+        "Catalog",
+        "Smartphones"
+      ]
+    },
+    {
+      "name": "03_Product_Details",
+      "size": "1440×2871",
+      "nodes": 185,
+      "max_depth": 8,
+      "instances": 37,
+      "texts": 65,
+      "images": 0,
+      "types": [
+        "frame×72",
+        "text×65",
+        "instance×37",
+        "rectangle×6",
+        "ellipse×5"
+      ],
+      "names": [
+        "Header",
+        "Breadcrumb",
+        "Home",
+        "Icon_Chevron_Right",
+        "Catalog",
+        "Smartphones"
+      ]
+    },
+    {
+      "name": "04_Shopping_Cart",
+      "size": "1440×1080",
+      "nodes": 34,
+      "max_depth": 5,
+      "instances": 9,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "frame×12",
+        "text×12",
+        "instance×9",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "TitleBar",
+        "Shopping Cart",
+        "Body",
+        "CartItems",
+        "CartRow"
+      ]
+    }
+  ]
+}

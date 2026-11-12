@@ -1,0 +1,564 @@
+{
+ "file_key": "efeLy7ogjybd9HZN6rfLbp",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "3:41",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "3:42",
+     "name": "Investment Wallet — crypto wallet for beginners",
+     "x": 64,
+     "y": 96,
+     "text": "Investment Wallet — crypto wallet for beginners"
+    },
+    {
+     "id": "3:43",
+     "name": "Design the Investment Wallet mobile app for a beginner investor: see the wallet balance, assets and savings pockets, discover investing strategies and coins, read about the “Aggressive Growth” strategy, invest 3,021 DAI in it and confirm the result. Canvas 375 × 812, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 162,
+     "text": "Design the Investment Wallet mobile app for a beginner investor: see the wallet balance, assets and savings pockets, discover investing strategies and coins, read about the “Aggressive Growth” strategy, invest 3,021 DAI in it and confirm the result.\nCanvas 375 × 812, iPhone, light mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "3:45",
+     "name": "How to work",
+     "x": 64,
+     "y": 288,
+     "text": "How to work"
+    },
+    {
+     "id": "3:46",
+     "name": "1. Build exactly the 5 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, gain / loss, risk levels, success / disabled, accents and chart colors), plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the page indicator, the sheets and every business component as reusable components in your file. 5. Use the coin logos, neutral avatar and icons from 04 · Media. Emoji in the copy are plain text characters. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 340,
+     "text": "1. Build exactly the 5 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, gain / loss, risk levels, success / disabled, accents and chart colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the page indicator, the sheets and every business component as reusable components in your file.\n5. Use the coin logos, neutral avatar and icons from 04 · Media. Emoji in the copy are plain text characters.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "3:48",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 595,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "3:49",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 647,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "3:52",
+     "name": "01_Wallet",
+     "x": 89,
+     "y": 711,
+     "text": "01_Wallet"
+    },
+    {
+     "id": "3:59",
+     "name": "02_Discovery",
+     "x": 757,
+     "y": 711,
+     "text": "02_Discovery"
+    },
+    {
+     "id": "3:53",
+     "name": "Goal: See total balance, assets and savings pockets.",
+     "x": 89,
+     "y": 748,
+     "text": "Goal: See total balance, assets and savings pockets."
+    },
+    {
+     "id": "3:60",
+     "name": "Goal: Discover strategies and coins worth investing in.",
+     "x": 757,
+     "y": 748,
+     "text": "Goal: Discover strategies and coins worth investing in."
+    },
+    {
+     "id": "3:54",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 779,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "3:61",
+     "name": "MUST INCLUDE",
+     "x": 757,
+     "y": 779,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "3:55",
+     "name": "• Account: Avatar_Neutral · “My Wallet” · address 0xc8...320f · scan entry • Actions: Send · Receive • Assets: “Assets” · Ethereum / Dai / Avalanche / PancakeSwap, each with logo, name, holding, value and 24h change • Balance: $54,292.79 · +5.21% • Main navigation: page 2 of 3 (My Wallet) • Pockets: “Pockets” · My New House 🏡 · Tesla Model S Plaid 🚙, each with value, name and change · Add Pocket",
+     "x": 89,
+     "y": 806,
+     "text": "• Account: Avatar_Neutral · “My Wallet” · address 0xc8...320f · scan entry\n• Actions: Send · Receive\n• Assets: “Assets” · Ethereum / Dai / Avalanche / PancakeSwap, each with logo, name, holding, value and 24h change\n• Balance: $54,292.79 · +5.21%\n• Main navigation: page 2 of 3 (My Wallet)\n• Pockets: “Pockets” · My New House 🏡 · Tesla Model S Plaid 🚙, each with value, name and change · Add Pocket"
+    },
+    {
+     "id": "3:62",
+     "name": "• Account: Avatar_Neutral · search entry • Coin list: “Coin Lists” · 10 coins, each with logo, name, ticker, price and 24h change • Coin list tabs: 🔥 Trending / 📺 Watchlist / ❤️ Favorites / 💵 Stablecoins / 🔗 BNB Chain Ecosystem · current: Trending • For you: “December 05” · “For You Today” · Stable Income · Binance Index Strategy, each with risk, participants, yearly return and View • Main navigation: page 3 of 3 (Discovery) • Strategies: “Investing Strategies” · The Big Long · Aggressive Growth · Best Projects · Strategy 2022, each with yearly return, 3 asset logos and “+N” more",
+     "x": 757,
+     "y": 806,
+     "text": "• Account: Avatar_Neutral · search entry\n• Coin list: “Coin Lists” · 10 coins, each with logo, name, ticker, price and 24h change\n• Coin list tabs: 🔥 Trending / 📺 Watchlist / ❤️ Favorites / 💵 Stablecoins / 🔗 BNB Chain Ecosystem · current: Trending\n• For you: “December 05” · “For You Today” · Stable Income · Binance Index Strategy, each with risk, participants, yearly return and View\n• Main navigation: page 3 of 3 (Discovery)\n• Strategies: “Investing Strategies” · The Big Long · Aggressive Growth · Best Projects · Strategy 2022, each with yearly return, 3 asset logos and “+N” more"
+    },
+    {
+     "id": "3:56",
+     "name": "LINKS",
+     "x": 89,
+     "y": 984,
+     "text": "LINKS"
+    },
+    {
+     "id": "3:63",
+     "name": "LINKS",
+     "x": 757,
+     "y": 1005,
+     "text": "LINKS"
+    },
+    {
+     "id": "3:57",
+     "name": "→ swipe / page indicator → 02_Discovery",
+     "x": 89,
+     "y": 1011,
+     "text": "→ swipe / page indicator → 02_Discovery"
+    },
+    {
+     "id": "3:64",
+     "name": "→ Aggressive Growth → 03_Strategy → swipe / page indicator → 01_Wallet",
+     "x": 757,
+     "y": 1032,
+     "text": "→ Aggressive Growth → 03_Strategy\n→ swipe / page indicator → 01_Wallet"
+    },
+    {
+     "id": "3:66",
+     "name": "03_Strategy",
+     "x": 89,
+     "y": 1148,
+     "text": "03_Strategy"
+    },
+    {
+     "id": "3:73",
+     "name": "04_Invest_Amount",
+     "x": 757,
+     "y": 1148,
+     "text": "04_Invest_Amount"
+    },
+    {
+     "id": "3:67",
+     "name": "Goal: Understand the Aggressive Growth strategy before investing.",
+     "x": 89,
+     "y": 1185,
+     "text": "Goal: Understand the Aggressive Growth strategy before investing."
+    },
+    {
+     "id": "3:74",
+     "name": "Goal: Enter how much DAI to invest.",
+     "x": 757,
+     "y": 1185,
+     "text": "Goal: Enter how much DAI to invest."
+    },
+    {
+     "id": "3:68",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 1216,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "3:75",
+     "name": "MUST INCLUDE",
+     "x": 757,
+     "y": 1216,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "3:69",
+     "name": "• About: “About Strategy” · description (see DATA) • Actions: Invest · dismiss • Facts: 159% per Year · Interest Income / High Risk · Level of risk / $1,000 · Minimum investment amount / 2 Years · Recommended investment period / 1,982 · Participants • Presentation: sheet over 02_Discovery • Projection: $1,590.00 · “This is how much you can earn in a year if you invest $1,000 to “Aggressive Growth”” · growth chart Dec ’21 – Dec · risk “🔥 High Risk” • Share of assets: “Share of Assets” · 5 assets, each with logo, name, ticker and share (see DATA)",
+     "x": 89,
+     "y": 1243,
+     "text": "• About: “About Strategy” · description (see DATA)\n• Actions: Invest · dismiss\n• Facts: 159% per Year · Interest Income / High Risk · Level of risk / $1,000 · Minimum investment amount / 2 Years · Recommended investment period / 1,982 · Participants\n• Presentation: sheet over 02_Discovery\n• Projection: $1,590.00 · “This is how much you can earn in a year if you invest $1,000 to “Aggressive Growth”” · growth chart Dec ’21 – Dec · risk “🔥 High Risk”\n• Share of assets: “Share of Assets” · 5 assets, each with logo, name, ticker and share (see DATA)"
+    },
+    {
+     "id": "3:76",
+     "name": "• Actions: back · Max · swap input currency · Hold to Invest (Icon_Face_ID) • Amount: DAI (Coin_DAI) · 3,021 being entered • Copy: “Invest to Strategy” · “⛽️ No gas, free investments” • Keypad: 1 · 2 ABC · 3 DEF · 4 GHI · 5 JKL · 6 MNO · 7 PQRS · 8 TUV · 9 WXYZ · “,” · 0 · backspace • Presentation: sheet over 02_Discovery",
+     "x": 757,
+     "y": 1243,
+     "text": "• Actions: back · Max · swap input currency · Hold to Invest (Icon_Face_ID)\n• Amount: DAI (Coin_DAI) · 3,021 being entered\n• Copy: “Invest to Strategy” · “⛽️ No gas, free investments”\n• Keypad: 1 · 2 ABC · 3 DEF · 4 GHI · 5 JKL · 6 MNO · 7 PQRS · 8 TUV · 9 WXYZ · “,” · 0 · backspace\n• Presentation: sheet over 02_Discovery"
+    },
+    {
+     "id": "3:77",
+     "name": "LINKS",
+     "x": 757,
+     "y": 1379,
+     "text": "LINKS"
+    },
+    {
+     "id": "3:78",
+     "name": "→ back → 03_Strategy → Hold to Invest → 05_Invest_Success",
+     "x": 757,
+     "y": 1406,
+     "text": "→ back → 03_Strategy\n→ Hold to Invest → 05_Invest_Success"
+    },
+    {
+     "id": "3:70",
+     "name": "LINKS",
+     "x": 89,
+     "y": 1442,
+     "text": "LINKS"
+    },
+    {
+     "id": "3:71",
+     "name": "→ Invest → 04_Invest_Amount → dismiss → 02_Discovery",
+     "x": 89,
+     "y": 1469,
+     "text": "→ Invest → 04_Invest_Amount\n→ dismiss → 02_Discovery"
+    },
+    {
+     "id": "3:80",
+     "name": "05_Invest_Success",
+     "x": 89,
+     "y": 1585,
+     "text": "05_Invest_Success"
+    },
+    {
+     "id": "3:81",
+     "name": "Goal: Confirm the investment.",
+     "x": 89,
+     "y": 1622,
+     "text": "Goal: Confirm the investment."
+    },
+    {
+     "id": "3:82",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 1653,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "3:83",
+     "name": "• Actions: close · View Pocket • Celebration: 🎉 and confetti • Copy: “You’ve invested!” · “3,021.00 DAI in the “Aggressive Growth” strategy. You will find the purchased coins in a new pocket.” • Presentation: sheet over 02_Discovery",
+     "x": 89,
+     "y": 1680,
+     "text": "• Actions: close · View Pocket\n• Celebration: 🎉 and confetti\n• Copy: “You’ve invested!” · “3,021.00 DAI in the “Aggressive Growth” strategy. You will find the purchased coins in a new pocket.”\n• Presentation: sheet over 02_Discovery"
+    },
+    {
+     "id": "3:84",
+     "name": "LINKS",
+     "x": 89,
+     "y": 1795,
+     "text": "LINKS"
+    },
+    {
+     "id": "3:85",
+     "name": "→ close → 02_Discovery → View Pocket → 01_Wallet",
+     "x": 89,
+     "y": 1822,
+     "text": "→ close → 02_Discovery\n→ View Pocket → 01_Wallet"
+    },
+    {
+     "id": "3:87",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 1937,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "3:88",
+     "name": "• Top level is a horizontal pager with 3 pages and a page indicator: page 1 (not part of this task), page 2 My Wallet (01_Wallet), page 3 Discovery (02_Discovery). The indicator must show the current page. How it looks is yours. • 03, 04 and 05 are sheets stacked over 02_Discovery (one frame each). • Invest flow: 02_Discovery → 03_Strategy → 04_Invest_Amount → 05_Invest_Success. • Entry only (no frame): Send, Receive, scan, search, assets, pockets, Add Pocket, View on For You cards, other strategies, coins, coin-list tabs other than Trending, Max, swap currency.",
+     "x": 64,
+     "y": 1989,
+     "text": "• Top level is a horizontal pager with 3 pages and a page indicator: page 1 (not part of this task), page 2 My Wallet (01_Wallet), page 3 Discovery (02_Discovery). The indicator must show the current page. How it looks is yours.\n• 03, 04 and 05 are sheets stacked over 02_Discovery (one frame each).\n• Invest flow: 02_Discovery → 03_Strategy → 04_Invest_Amount → 05_Invest_Success.\n• Entry only (no frame): Send, Receive, scan, search, assets, pockets, Add Pocket, View on For You cards, other strategies, coins, coin-list tabs other than Trending, Max, swap currency."
+    },
+    {
+     "id": "3:90",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 2152,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "3:91",
+     "name": "Use these values verbatim. Today is December 05. Prices in USD.",
+     "x": 64,
+     "y": 2204,
+     "text": "Use these values verbatim. Today is December 05. Prices in USD."
+    },
+    {
+     "id": "3:94",
+     "name": "Wallet",
+     "x": 84,
+     "y": 2263,
+     "text": "Wallet"
+    },
+    {
+     "id": "3:97",
+     "name": "Assets (holding · value · 24h)",
+     "x": 528,
+     "y": 2263,
+     "text": "Assets (holding · value · 24h)"
+    },
+    {
+     "id": "3:100",
+     "name": "Pockets",
+     "x": 972,
+     "y": 2263,
+     "text": "Pockets"
+    },
+    {
+     "id": "3:95",
+     "name": "“My Wallet” · 0xc8...320f · $54,292.79 · +5.21% = assets $10,261.18 + pockets $44,031.61",
+     "x": 84,
+     "y": 2292,
+     "text": "“My Wallet” · 0xc8...320f · $54,292.79 · +5.21%\n= assets $10,261.18 + pockets $44,031.61"
+    },
+    {
+     "id": "3:98",
+     "name": "Ethereum · 2.569032 ETH · $3,226.31 · +3.48% (Coin_ETH) Dai · 3,045.86 DAI · $3,021.15 · −0.02% (Coin_DAI) Avalanche · 180.02 AVAX · $2,440.09 · +1.54% (Coin_AVAX) PancakeSwap · 397.33 CAKE · $1,573.63 · −0.02% (Coin_CAKE)",
+     "x": 528,
+     "y": 2292,
+     "text": "Ethereum · 2.569032 ETH · $3,226.31 · +3.48% (Coin_ETH)\nDai · 3,045.86 DAI · $3,021.15 · −0.02% (Coin_DAI)\nAvalanche · 180.02 AVAX · $2,440.09 · +1.54% (Coin_AVAX)\nPancakeSwap · 397.33 CAKE · $1,573.63 · −0.02% (Coin_CAKE)"
+    },
+    {
+     "id": "3:101",
+     "name": "My New House 🏡 · $15,642.40 · +7.86% Tesla Model S Plaid 🚙 · $28,389.21 · −2.13% Add Pocket",
+     "x": 972,
+     "y": 2292,
+     "text": "My New House 🏡 · $15,642.40 · +7.86%\nTesla Model S Plaid 🚙 · $28,389.21 · −2.13%\nAdd Pocket"
+    },
+    {
+     "id": "3:103",
+     "name": "For You Today",
+     "x": 84,
+     "y": 2456,
+     "text": "For You Today"
+    },
+    {
+     "id": "3:106",
+     "name": "Investing Strategies (per year · logos · more)",
+     "x": 528,
+     "y": 2456,
+     "text": "Investing Strategies (per year · logos · more)"
+    },
+    {
+     "id": "3:109",
+     "name": "Coin Lists · 🔥 Trending (price · 24h)",
+     "x": 972,
+     "y": 2456,
+     "text": "Coin Lists · 🔥 Trending (price · 24h)"
+    },
+    {
+     "id": "3:104",
+     "name": "Stable Income · Low risk · 10,982 participants · 6.24% per year · View Binance Index Strategy · Medium risk · 264 participants · 12.56% per year · View",
+     "x": 84,
+     "y": 2485,
+     "text": "Stable Income · Low risk · 10,982 participants · 6.24% per year · View\nBinance Index Strategy · Medium risk · 264 participants · 12.56% per year · View"
+    },
+    {
+     "id": "3:107",
+     "name": "The Big Long · 15.16% · BTC, ETH, USDT · +3 Aggressive Growth · 159% · MATIC, MANA, CAKE · +2 Best Projects · 46.22% · NEAR, DASH, AVAX · +12 Strategy 2022 · 26.08% · ETC, DAI, BNB · +2",
+     "x": 528,
+     "y": 2485,
+     "text": "The Big Long · 15.16% · BTC, ETH, USDT · +3\nAggressive Growth · 159% · MATIC, MANA, CAKE · +2\nBest Projects · 46.22% · NEAR, DASH, AVAX · +12\nStrategy 2022 · 26.08% · ETC, DAI, BNB · +2"
+    },
+    {
+     "id": "3:110",
+     "name": "Bitcoin BTC $16,963.58 · −0.12% Ethereum ETH $1,259.10 · +1.15% Tether USDT $1.01 · +0.01% Binance Coin BNB $288.01 · +0.76% USD Coin USDC $0.9999 · −0.02% Binance USD BUSD $1.00 · −0.01% XRP XRP $0.3891 · +2.54% Dogecoin DOGE $0.1012 · −0.17% Cardano ADA $0.3196 · +0.09% Polygon MATIC $0.9082 · +2.18%",
+     "x": 972,
+     "y": 2485,
+     "text": "Bitcoin BTC $16,963.58 · −0.12%\nEthereum ETH $1,259.10 · +1.15%\nTether USDT $1.01 · +0.01%\nBinance Coin BNB $288.01 · +0.76%\nUSD Coin USDC $0.9999 · −0.02%\nBinance USD BUSD $1.00 · −0.01%\nXRP XRP $0.3891 · +2.54%\nDogecoin DOGE $0.1012 · −0.17%\nCardano ADA $0.3196 · +0.09%\nPolygon MATIC $0.9082 · +2.18%"
+    },
+    {
+     "id": "3:112",
+     "name": "Aggressive Growth",
+     "x": 84,
+     "y": 2749,
+     "text": "Aggressive Growth"
+    },
+    {
+     "id": "3:115",
+     "name": "Share of Assets",
+     "x": 528,
+     "y": 2749,
+     "text": "Share of Assets"
+    },
+    {
+     "id": "3:118",
+     "name": "Invest & success",
+     "x": 972,
+     "y": 2749,
+     "text": "Invest & success"
+    },
+    {
+     "id": "3:113",
+     "name": "Projection: $1,590.00 earned in a year on $1,000 Chart labels: Dec ’21 · Mar · Jun · Sep · Dec “The aggressive growth strategy allows you to earn 159% per annum, but with a high risk. Our analysts have balanced the strategy with different assets so that the strategy pays off within the recommended time frame.” Facts (with emoji): 🌱 159% per Year · 🔥 High Risk · 💵 $1,000 minimum · 🗓️ 2 Years · 🧑 1,982 participants",
+     "x": 84,
+     "y": 2778,
+     "text": "Projection: $1,590.00 earned in a year on $1,000\nChart labels: Dec ’21 · Mar · Jun · Sep · Dec\n“The aggressive growth strategy allows you to earn 159% per annum, but with a high risk. Our analysts have balanced the strategy with different assets so that the strategy pays off within the recommended time frame.”\nFacts (with emoji): 🌱 159% per Year · 🔥 High Risk · 💵 $1,000 minimum · 🗓️ 2 Years · 🧑 1,982 participants"
+    },
+    {
+     "id": "3:116",
+     "name": "Polygon (MATIC) 50.00% Decentraland (MANA) 25.00% PancakeSwap (CAKE) 12.50% Dogecoin (DOGE) 6.25% Maker (MKR) 6.25%",
+     "x": 528,
+     "y": 2778,
+     "text": "Polygon (MATIC) 50.00%\nDecentraland (MANA) 25.00%\nPancakeSwap (CAKE) 12.50%\nDogecoin (DOGE) 6.25%\nMaker (MKR) 6.25%"
+    },
+    {
+     "id": "3:119",
+     "name": "Amount 3,021 DAI (balance 3,045.86 DAI; minimum $1,000 met) Button “Hold to Invest” Success: “You’ve invested!” · 3,021.00 DAI · button “View Pocket”",
+     "x": 972,
+     "y": 2778,
+     "text": "Amount 3,021 DAI (balance 3,045.86 DAI; minimum $1,000 met)\nButton “Hold to Invest”\nSuccess: “You’ve invested!” · 3,021.00 DAI · button “View Pocket”"
+    },
+    {
+     "id": "3:121",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 3006,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "3:124",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 3082,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "3:127",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 3082,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "3:125",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand primary color #2B2D33 + Nunito • Media: coin logos, neutral avatar, icons • Default Button, default Text Field, platform shell",
+     "x": 88,
+     "y": 3116,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand primary color #2B2D33 + Nunito\n• Media: coin logos, neutral avatar, icons\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "3:128",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, surfaces, gain / loss, risk levels, accents, chart colors • Type scale, spacing, radii, elevation • All states: current page, selected tab, pressed, disabled, amount being entered, rising / falling • Headers, page indicator, sheets and all business components • Chart and share-of-assets styling, confetti",
+     "x": 756,
+     "y": 3116,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, surfaces, gain / loss, risk levels, accents, chart colors\n• Type scale, spacing, radii, elevation\n• All states: current page, selected tab, pressed, disabled, amount being entered, rising / falling\n• Headers, page indicator, sheets and all business components\n• Chart and share-of-assets styling, confetti"
+    },
+    {
+     "id": "3:130",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 3335,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "3:131",
+     "name": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference.",
+     "x": 64,
+     "y": 3387,
+     "text": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference."
+    },
+    {
+     "id": "3:132",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current page, current coin-list tab, gains vs losses, risk levels, amount being entered)",
+     "x": 64,
+     "y": 3426,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current page, current coin-list tab, gains vs losses, risk levels, amount being entered)"
+    },
+    {
+     "id": "3:133",
+     "name": "Deliverable: the link to your own Figma file containing the 5 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 3603,
+     "text": "Deliverable: the link to your own Figma file containing the 5 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "3:3",
+     "name": "Foundations · Investment Wallet",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Investment Wallet"
+    },
+    {
+     "id": "3:4",
+     "name": "Fixed: the brand primary color and the typeface below — they carry the wallet’s identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, semantic colors (gain / loss, risk levels, success, disabled), accent and chart colors, type scale, weights per role, spacing, radii and elevation.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the brand primary color and the typeface below — they carry the wallet’s identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, semantic colors (gain / loss, risk levels, success, disabled), accent and chart colors, type scale, weights per role, spacing, radii and elevation."
+    },
+    {
+     "id": "3:5",
+     "name": "Brand color",
+     "x": 56,
+     "y": 208,
+     "text": "Brand color"
+    },
+    {
+     "id": "3:8",
+     "name": "Brand primary · graphite",
+     "x": 56,
+     "y": 392,
+     "text": "Brand primary · graphite"
+    },
+    {
+     "id": "3:9",
+     "name": "#2B2D33",
+     "x": 56,
+     "y": 417,
+     "text": "#2B2D33"
+    },
+    {
+     "id": "3:10",
+     "name": "The wallet’s brand color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 441,
+     "text": "The wallet’s brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "3:11",
+     "name": "Typeface",
+     "x": 56,
+     "y": 503,
+     "text": "Typeface"
+    },
+    {
+     "id": "3:12",
+     "name": "Aa Bb Cc 0123456789 $54,292.79 +5.21%",
+     "x": 56,
+     "y": 559,
+     "text": "Aa Bb Cc 0123456789  $54,292.79  +5.21%"
+    },
+    {
+     "id": "3:13",
+     "name": "Use Nunito for all UI text (Regular / Medium / SemiBold / Bold / ExtraBold available; it replaces the source’s SF Pro Rounded, which is not available). Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 646,
+     "text": "Use Nunito for all UI text (Regular / Medium / SemiBold / Bold / ExtraBold available; it replaces the source’s SF Pro Rounded, which is not available). Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "3:14",
+     "name": "Canvas: 375 × 812 (iPhone). Light mode only. 01_Wallet, 02_Discovery and 03_Strategy may scroll vertically.",
+     "x": 56,
+     "y": 712,
+     "text": "Canvas: 375 × 812 (iPhone). Light mode only. 01_Wallet, 02_Discovery and 03_Strategy may scroll vertically."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1 @@
+The user is asking for a final summary of the verification: 12 frames built, 28 prototype reactions, 02 links (chat1 to 06, avatar to 08), and 07's three buttons. Remaining limitations: sheets are separate frames with cloned dimmed parents rather than true overlays, and frames are static without scroll.

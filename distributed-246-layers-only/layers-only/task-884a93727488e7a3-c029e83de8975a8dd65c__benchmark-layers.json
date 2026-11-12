@@ -1,0 +1,379 @@
+{
+  "board_count": 17,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "414×896",
+      "nodes": 10,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Brand",
+        "Logo_Self_Care_Mark",
+        "BrandName",
+        "Photo_Onboarding_Doctor"
+      ]
+    },
+    {
+      "name": "02_Choose_Role",
+      "size": "414×896",
+      "nodes": 18,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×6",
+        "frame×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Self_Care_Mark",
+        "Heading",
+        "Body",
+        "Role Card"
+      ]
+    },
+    {
+      "name": "03_About_You",
+      "size": "414×980",
+      "nodes": 33,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "frame×12",
+        "text×11",
+        "instance×10"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Self_Care_Mark",
+        "Heading",
+        "Body",
+        "Section"
+      ]
+    },
+    {
+      "name": "04_Sign_In",
+      "size": "414×896",
+      "nodes": 17,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "text×7",
+        "instance×6",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Self_Care_Mark",
+        "Heading",
+        "Label",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "05_Sign_Up",
+      "size": "414×900",
+      "nodes": 23,
+      "max_depth": 4,
+      "instances": 9,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×8",
+        "frame×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Self_Care_Mark",
+        "Heading",
+        "Label",
+        "Text Field"
+      ]
+    },
+    {
+      "name": "06_Sign_Up_Error",
+      "size": "414×980",
+      "nodes": 25,
+      "max_depth": 4,
+      "instances": 9,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "instance×9",
+        "frame×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Self_Care_Mark",
+        "Heading",
+        "Label",
+        "Text Field/Error"
+      ]
+    },
+    {
+      "name": "07_Verify_Code",
+      "size": "414×1000",
+      "nodes": 46,
+      "max_depth": 4,
+      "instances": 5,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "frame×23",
+        "text×18",
+        "instance×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Self_Care_Mark",
+        "Heading",
+        "Body",
+        "Code Boxes"
+      ]
+    },
+    {
+      "name": "08_Home",
+      "size": "414×1450",
+      "nodes": 83,
+      "max_depth": 4,
+      "instances": 25,
+      "texts": 30,
+      "images": 0,
+      "types": [
+        "text×30",
+        "frame×28",
+        "instance×25"
+      ],
+      "names": [
+        "Status Bar",
+        "Heading",
+        "Location",
+        "Icon_Location",
+        "Warsaw, Poland",
+        "Notification Button"
+      ]
+    },
+    {
+      "name": "09_Visit",
+      "size": "414×1500",
+      "nodes": 64,
+      "max_depth": 4,
+      "instances": 15,
+      "texts": 23,
+      "images": 0,
+      "types": [
+        "frame×26",
+        "text×23",
+        "instance×15"
+      ],
+      "names": [
+        "Status Bar",
+        "Back Row lnk:08_Home",
+        "Icon_Back",
+        "Back",
+        "Avatar_Eleanor_Pena",
+        "Header Info"
+      ]
+    },
+    {
+      "name": "10_Doctors",
+      "size": "414×1420",
+      "nodes": 82,
+      "max_depth": 4,
+      "instances": 25,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "text×31",
+        "frame×26",
+        "instance×25"
+      ],
+      "names": [
+        "Status Bar",
+        "Back Row lnk:08_Home",
+        "Icon_Back",
+        "Back",
+        "Notification Button",
+        "Icon"
+      ]
+    },
+    {
+      "name": "11_Doctor_Profile",
+      "size": "414×1660",
+      "nodes": 63,
+      "max_depth": 4,
+      "instances": 17,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "frame×25",
+        "text×21",
+        "instance×17"
+      ],
+      "names": [
+        "Status Bar",
+        "Back Row lnk:10_Doctors",
+        "Icon_Back",
+        "Back",
+        "Avatar_Floyd_Miles",
+        "Header Info"
+      ]
+    },
+    {
+      "name": "12_Booking_Confirmed",
+      "size": "414×1300",
+      "nodes": 42,
+      "max_depth": 4,
+      "instances": 9,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "frame×15",
+        "instance×9"
+      ],
+      "names": [
+        "Status Bar",
+        "Back Row lnk:11_Doctor_P",
+        "Icon_Back",
+        "Back",
+        "Brand",
+        "Logo_Self_Care_Mark"
+      ]
+    },
+    {
+      "name": "13_Payment",
+      "size": "414×896",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "frame×8",
+        "instance×5",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Back Row lnk:12_Booking_",
+        "Icon_Back",
+        "Back",
+        "Heading",
+        "Payment Option Selected"
+      ]
+    },
+    {
+      "name": "14_Chats",
+      "size": "414×1120",
+      "nodes": 80,
+      "max_depth": 4,
+      "instances": 12,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "frame×40",
+        "text×28",
+        "instance×12"
+      ],
+      "names": [
+        "Status Bar",
+        "Back Row lnk:08_Home",
+        "Icon_Back",
+        "Back",
+        "Notification Button",
+        "Icon"
+      ]
+    },
+    {
+      "name": "15_Chat",
+      "size": "414×1000",
+      "nodes": 46,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "frame×20",
+        "text×14",
+        "instance×12"
+      ],
+      "names": [
+        "Status Bar",
+        "Back Row lnk:14_Chats",
+        "Icon_Back",
+        "Back",
+        "Avatar_Floyd_Miles",
+        "Name"
+      ]
+    },
+    {
+      "name": "16_Prescriptions",
+      "size": "414×1250",
+      "nodes": 49,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "frame×21",
+        "text×18",
+        "instance×10"
+      ],
+      "names": [
+        "Status Bar",
+        "Back Row lnk:08_Home",
+        "Icon_Back",
+        "Back",
+        "Heading",
+        "Recommendations Card"
+      ]
+    },
+    {
+      "name": "17_Video_Call",
+      "size": "414×896",
+      "nodes": 16,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×4",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Photo_Video_Call_Doctor",
+        "Timer",
+        "Caller",
+        "Specialty"
+      ]
+    }
+  ]
+}

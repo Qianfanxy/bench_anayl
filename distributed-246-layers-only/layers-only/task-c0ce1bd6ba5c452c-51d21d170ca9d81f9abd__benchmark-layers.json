@@ -1,0 +1,92 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×3820",
+      "nodes": 24,
+      "max_depth": 1,
+      "instances": 20,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Header / Default",
+        "Footer & Newsletter",
+        "Hero",
+        "Brand strip",
+        "NEW ARRIVALS",
+        "Product Card / T-shirt w"
+      ]
+    },
+    {
+      "name": "02_Category",
+      "size": "1440×2290",
+      "nodes": 38,
+      "max_depth": 2,
+      "instances": 18,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×12",
+        "frame×8"
+      ],
+      "names": [
+        "Header / Shop current",
+        "Footer & Newsletter",
+        "Home",
+        "Icon_Chevron_Right",
+        "Casual",
+        "Filters / Blue and Large"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1440×3005",
+      "nodes": 61,
+      "max_depth": 2,
+      "instances": 29,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "instance×29",
+        "text×20",
+        "frame×12"
+      ],
+      "names": [
+        "Header / Shop current",
+        "Footer & Newsletter",
+        "Home",
+        "Icon_Chevron_Right",
+        "Shop",
+        "Men"
+      ]
+    },
+    {
+      "name": "04_Cart",
+      "size": "1440×1430",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×3"
+      ],
+      "names": [
+        "Header / Default",
+        "Footer & Newsletter",
+        "Home",
+        "Icon_Chevron_Right",
+        "Cart",
+        "YOUR CART"
+      ]
+    }
+  ]
+}

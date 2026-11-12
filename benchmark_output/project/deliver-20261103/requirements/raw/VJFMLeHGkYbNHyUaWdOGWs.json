@@ -1,0 +1,319 @@
+{
+ "file_key": "VJFMLeHGkYbNHyUaWdOGWs",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "4:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "4:5",
+     "name": "ABM — developer portfolio",
+     "x": 64,
+     "y": 95,
+     "text": "ABM — developer portfolio"
+    },
+    {
+     "id": "4:6",
+     "name": "Design a one-page portfolio for a full-stack software engineer: who they are, the tech they use, two projects, work experience and contact. Desktop web, 1440 wide, dark mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design a one-page portfolio for a full-stack software engineer: who they are, the tech they use, two projects, work experience and contact. Desktop web, 1440 wide, dark mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "4:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "4:9",
+     "name": "1. Build exactly the 1 frame below, named exactly as listed. It is a single page (the navigation scrolls to sections), so there is no prototype to wire. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The two brand accents and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently. 4. 02 · Components gives only a default Button. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file. 5. Use the signature logo, the avatar, the project images, the tech and social logos and the icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 1 frame below, named exactly as listed. It is a single page (the navigation scrolls to sections), so there is no prototype to wire.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand accents and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the signature logo, the avatar, the project images, the tech and social logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "4:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 532,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "4:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 583,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "4:15",
+     "name": "01_Home",
+     "x": 88,
+     "y": 645,
+     "text": "01_Home"
+    },
+    {
+     "id": "4:16",
+     "name": "Goal: Understand who the engineer is, see their work and get in touch.",
+     "x": 88,
+     "y": 681,
+     "text": "Goal: Understand who the engineer is, see their work and get in touch."
+    },
+    {
+     "id": "4:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:18",
+     "name": "• Contact: “Contact” · “Seasoned Full Stack Software Engineer with over 8 years of hands-on experience in designing and implementing robust, scalable, and innovative web solutions. Adept at leveraging a comprehensive skill set encompassing front-end and back-end technologies.” · “abm@example.com” (Icon_Mail) · Logo_Instagram · Logo_X · Logo_YouTube • Experience: “Experience” · 3 entries, each with a company initials mark, role and company, dates and description (see DATA) • Header: Logo_ABM · navigation Home / Projects / Experience / Contact · current: Home • Hero: Photo_Avatar · “I do code and make content about it!” · “I am a seasoned full-stack software engineer with over 8 years of professional experience, specializing in backend development. My expertise lies in crafting robust and scalable SaaS-based architectures on the Amazon AWS platform.” · “Get In Touch” · “Download CV” • Projects: “Projects” · 2 project cards, each with photo, “CLICK HERE TO VISIT”, title and open (Icon_Arrow_Up_Right): HTML TUTORIAL (Photo_Project_HTML) · CSS TUTORIAL (Photo_Project_CSS) • Tech stack: “EXPERIENCE WITH” · Logo_JavaScript · Logo_Nextjs · Logo_HTML5 · Logo_CSS3 · Logo_React",
+     "x": 88,
+     "y": 737,
+     "text": "• Contact: “Contact” · “Seasoned Full Stack Software Engineer with over 8 years of hands-on experience in designing and implementing robust, scalable, and innovative web solutions. Adept at leveraging a comprehensive skill set encompassing front-end and back-end technologies.” · “abm@example.com” (Icon_Mail) · Logo_Instagram · Logo_X · Logo_YouTube\n• Experience: “Experience” · 3 entries, each with a company initials mark, role and company, dates and description (see DATA)\n• Header: Logo_ABM · navigation Home / Projects / Experience / Contact · current: Home\n• Hero: Photo_Avatar · “I do code and make content about it!” · “I am a seasoned full-stack software engineer with over 8 years of professional experience, specializing in backend development. My expertise lies in crafting robust and scalable SaaS-based architectures on the Amazon AWS platform.” · “Get In Touch” · “Download CV”\n• Projects: “Projects” · 2 project cards, each with photo, “CLICK HERE TO VISIT”, title and open (Icon_Arrow_Up_Right): HTML TUTORIAL (Photo_Project_HTML) · CSS TUTORIAL (Photo_Project_CSS)\n• Tech stack: “EXPERIENCE WITH” · Logo_JavaScript · Logo_Nextjs · Logo_HTML5 · Logo_CSS3 · Logo_React"
+    },
+    {
+     "id": "4:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1087,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:20",
+     "name": "Single-page task: no links between frames. Navigation items scroll to sections; every button and link is entry only.",
+     "x": 88,
+     "y": 1113,
+     "text": "Single-page task: no links between frames. Navigation items scroll to sections; every button and link is entry only."
+    },
+    {
+     "id": "4:22",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 1225,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "4:23",
+     "name": "• One frame. The header and the contact footer are part of it. • Home / Projects / Experience / Contact scroll to the matching section on the same page (no extra frames). • Entry only (no frame): Get In Touch, Download CV, project cards, email address, social logos.",
+     "x": 64,
+     "y": 1276,
+     "text": "• One frame. The header and the contact footer are part of it.\n• Home / Projects / Experience / Contact scroll to the matching section on the same page (no extra frames).\n• Entry only (no frame): Get In Touch, Download CV, project cards, email address, social logos."
+    },
+    {
+     "id": "4:25",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 1390,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "4:26",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 1441,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "4:29",
+     "name": "Experience (in order, newest first)",
+     "x": 84,
+     "y": 1499,
+     "text": "Experience (in order, newest first)"
+    },
+    {
+     "id": "4:32",
+     "name": "Company marks",
+     "x": 528,
+     "y": 1499,
+     "text": "Company marks"
+    },
+    {
+     "id": "4:30",
+     "name": "Lead Software Engineer at Searchlight · Nov 2019 – Present — “As a Lead Software Engineer at Searchlight, I played a pivotal role in developing innovative solutions for Searchlight’s core search algorithms. Collaborating with a dynamic team of engineers, I contributed to the enhancement of search accuracy and efficiency, optimizing user experiences for millions of users worldwide.” Software Engineer at Meridian Social · Jan 2017 – Oct 2019 — “At Meridian Social, I served as a Software Engineer, focusing on the design and implementation of backend systems for the social media company’s dynamic platform. Working on projects that involved large-scale data processing and user engagement features, I leveraged my expertise to ensure seamless functionality and scalability.” Junior Software Engineer at Orchard Computing · Jan 2016 – Dec 2016 — “During my tenure at Orchard Computing, I worked as a Junior Software Engineer and contributed to the architecture of mission-critical software projects. I helped design scalable and efficient systems as part of a cross-functional team.”",
+     "x": 84,
+     "y": 1527,
+     "text": "Lead Software Engineer at Searchlight · Nov 2019 – Present — “As a Lead Software Engineer at Searchlight, I played a pivotal role in developing innovative solutions for Searchlight’s core search algorithms. Collaborating with a dynamic team of engineers, I contributed to the enhancement of search accuracy and efficiency, optimizing user experiences for millions of users worldwide.”\nSoftware Engineer at Meridian Social · Jan 2017 – Oct 2019 — “At Meridian Social, I served as a Software Engineer, focusing on the design and implementation of backend systems for the social media company’s dynamic platform. Working on projects that involved large-scale data processing and user engagement features, I leveraged my expertise to ensure seamless functionality and scalability.”\nJunior Software Engineer at Orchard Computing · Jan 2016 – Dec 2016 — “During my tenure at Orchard Computing, I worked as a Junior Software Engineer and contributed to the architecture of mission-critical software projects. I helped design scalable and efficient systems as part of a cross-functional team.”"
+    },
+    {
+     "id": "4:33",
+     "name": "Searchlight → “S” · Meridian Social → “MS” · Orchard Computing → “OC” (draw these initials marks yourself)",
+     "x": 528,
+     "y": 1527,
+     "text": "Searchlight → “S” · Meridian Social → “MS” · Orchard Computing → “OC” (draw these initials marks yourself)"
+    },
+    {
+     "id": "4:35",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 1975,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "4:38",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 2050,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "4:41",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 2050,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "4:39",
+     "name": "• Frame name • Must-include content (what, not how) • All data and copy • Brand accents #D5491D and #1373D1, and Poppins • Media: signature logo, avatar, project images, tech and social logos, icons • Default Button",
+     "x": 88,
+     "y": 2083,
+     "text": "• Frame name\n• Must-include content (what, not how)\n• All data and copy\n• Brand accents #D5491D and #1373D1, and Poppins\n• Media: signature logo, avatar, project images, tech and social logos, icons\n• Default Button"
+    },
+    {
+     "id": "4:42",
+     "name": "• Layout, grid, grouping, order and emphasis of every section • All other colors: dark page and surface colors, text colors, gradients (if any), borders • Type scale, spacing, radii, elevation • All states: current nav item, hover • Header, avatar treatment, tech logo row, project card, experience entry, initials marks, contact footer • How the photos are cropped and placed",
+     "x": 756,
+     "y": 2083,
+     "text": "• Layout, grid, grouping, order and emphasis of every section\n• All other colors: dark page and surface colors, text colors, gradients (if any), borders\n• Type scale, spacing, radii, elevation\n• All states: current nav item, hover\n• Header, avatar treatment, tech logo row, project card, experience entry, initials marks, contact footer\n• How the photos are cropped and placed"
+    },
+    {
+     "id": "4:44",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 2295,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "4:45",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 2346,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "4:46",
+     "name": "1. Checklist coverage 2. Data & copy accuracy 3. Information hierarchy across sections 4. Visual quality & consistency of your own system 5. Component reuse 6. State design (current nav item, hover)",
+     "x": 64,
+     "y": 2384,
+     "text": "1. Checklist coverage\n2. Data & copy accuracy\n3. Information hierarchy across sections\n4. Visual quality & consistency of your own system\n5. Component reuse\n6. State design (current nav item, hover)"
+    },
+    {
+     "id": "4:47",
+     "name": "Deliverable: the link to your own Figma file containing the named frame and your components.",
+     "x": 64,
+     "y": 2532,
+     "text": "Deliverable: the link to your own Figma file containing the named frame and your components."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · ABM",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · ABM"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the two brand accents and the typeface below (the ABM signature logo is in 04 · Media). Everything else is yours to define and apply consistently: page and surface colors, text colors, gradients (if any), borders, link and current-nav states, type scale, spacing, radii, elevation and the page grid.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the two brand accents and the typeface below (the ABM signature logo is in 04 · Media). Everything else is yours to define and apply consistently: page and surface colors, text colors, gradients (if any), borders, link and current-nav states, type scale, spacing, radii, elevation and the page grid."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand colors",
+     "x": 56,
+     "y": 189,
+     "text": "Brand colors"
+    },
+    {
+     "id": "1:12",
+     "name": "Brand accent · orange",
+     "x": 56,
+     "y": 373,
+     "text": "Brand accent · orange"
+    },
+    {
+     "id": "1:17",
+     "name": "Brand accent · blue",
+     "x": 300,
+     "y": 373,
+     "text": "Brand accent · blue"
+    },
+    {
+     "id": "1:13",
+     "name": "#D5491D",
+     "x": 56,
+     "y": 398,
+     "text": "#D5491D"
+    },
+    {
+     "id": "1:18",
+     "name": "#1373D1",
+     "x": 300,
+     "y": 398,
+     "text": "#1373D1"
+    },
+    {
+     "id": "1:14",
+     "name": "One of the two signature accents. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 422,
+     "text": "One of the two signature accents. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:19",
+     "name": "The other signature accent. Where and how much to use it is your decision.",
+     "x": 300,
+     "y": 422,
+     "text": "The other signature accent. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:20",
+     "name": "Typeface",
+     "x": 56,
+     "y": 499,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:21",
+     "name": "Aa Bb Cc 0123456789 Nov 2019 – Present",
+     "x": 56,
+     "y": 555,
+     "text": "Aa Bb Cc 0123456789  Nov 2019 – Present"
+    },
+    {
+     "id": "1:22",
+     "name": "Use Poppins for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 647,
+     "text": "Use Poppins for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:23",
+     "name": "Canvas: desktop web, 1440 wide. Dark mode (the source is a dark site). Frame height is free — the page scrolls vertically.",
+     "x": 56,
+     "y": 696,
+     "text": "Canvas: desktop web, 1440 wide. Dark mode (the source is a dark site). Frame height is free — the page scrolls vertically."
+    }
+   ]
+  }
+ ]
+}

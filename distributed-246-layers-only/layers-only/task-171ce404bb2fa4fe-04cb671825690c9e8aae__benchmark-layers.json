@@ -1,0 +1,207 @@
+{
+  "board_count": 9,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4443",
+      "nodes": 94,
+      "max_depth": 6,
+      "instances": 28,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "frame×44",
+        "instance×28",
+        "text×18",
+        "ellipse×4"
+      ],
+      "names": [
+        "Header",
+        "Hero",
+        "Photo",
+        "Photo_Hero",
+        "HeroCard",
+        "New Arrival"
+      ]
+    },
+    {
+      "name": "02_Shop",
+      "size": "1440×3119",
+      "nodes": 47,
+      "max_depth": 5,
+      "instances": 26,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×26",
+        "frame×15",
+        "text×6"
+      ],
+      "names": [
+        "Header",
+        "PageTitle",
+        "Toolbar",
+        "Left",
+        "Filter",
+        "Icon_Filter"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1440×2739",
+      "nodes": 104,
+      "max_depth": 6,
+      "instances": 24,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "frame×46",
+        "text×28",
+        "instance×24",
+        "ellipse×6"
+      ],
+      "names": [
+        "Header",
+        "Breadcrumb",
+        "Home",
+        "Icon_Chevron_Right",
+        "Shop",
+        "Asgaard sofa"
+      ]
+    },
+    {
+      "name": "04_Cart_Drawer",
+      "size": "1440×2739",
+      "nodes": 128,
+      "max_depth": 6,
+      "instances": 27,
+      "texts": 36,
+      "images": 0,
+      "types": [
+        "frame×58",
+        "text×36",
+        "instance×27",
+        "ellipse×6",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "Breadcrumb",
+        "Home",
+        "Icon_Chevron_Right",
+        "Shop",
+        "Asgaard sofa"
+      ]
+    },
+    {
+      "name": "05_Comparison",
+      "size": "1440×3146",
+      "nodes": 212,
+      "max_depth": 6,
+      "instances": 18,
+      "texts": 85,
+      "images": 0,
+      "types": [
+        "frame×109",
+        "text×85",
+        "instance×18"
+      ],
+      "names": [
+        "Header",
+        "PageTitle",
+        "Intro",
+        "Go to Product page for m",
+        "ViewMore",
+        "View More"
+      ]
+    },
+    {
+      "name": "06_Cart",
+      "size": "1440×1493",
+      "nodes": 48,
+      "max_depth": 8,
+      "instances": 6,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "frame×26",
+        "text×16",
+        "instance×6"
+      ],
+      "names": [
+        "Header",
+        "PageTitle",
+        "CartContent",
+        "CartTableWrap",
+        "CartTable",
+        "THead"
+      ]
+    },
+    {
+      "name": "07_Checkout",
+      "size": "1440×2012",
+      "nodes": 106,
+      "max_depth": 7,
+      "instances": 6,
+      "texts": 45,
+      "images": 0,
+      "types": [
+        "frame×55",
+        "text×45",
+        "instance×6"
+      ],
+      "names": [
+        "Header",
+        "PageTitle",
+        "CheckoutContent",
+        "Billing",
+        "Billing details",
+        "Row1"
+      ]
+    },
+    {
+      "name": "08_Contact",
+      "size": "1440×2209",
+      "nodes": 43,
+      "max_depth": 5,
+      "instances": 7,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "frame×19",
+        "text×17",
+        "instance×7"
+      ],
+      "names": [
+        "Header",
+        "PageTitle",
+        "Intro",
+        "Get In Touch With Us",
+        "For more information abo",
+        "ContactDetails"
+      ]
+    },
+    {
+      "name": "09_Blog",
+      "size": "1440×2900",
+      "nodes": 117,
+      "max_depth": 7,
+      "instances": 26,
+      "texts": 41,
+      "images": 0,
+      "types": [
+        "frame×50",
+        "text×41",
+        "instance×26"
+      ],
+      "names": [
+        "Header",
+        "PageTitle",
+        "BlogContent",
+        "Posts",
+        "BlogCard",
+        "Photo"
+      ]
+    }
+  ]
+}

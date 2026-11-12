@@ -1,0 +1,100 @@
+[
+  {
+    "node_id": "11:27",
+    "name": "02_Welcome",
+    "file": "11-27.png"
+  },
+  {
+    "node_id": "11:47",
+    "name": "03_Name",
+    "file": "11-47.png"
+  },
+  {
+    "node_id": "16:50",
+    "name": "04_Home",
+    "file": "16-50.png"
+  },
+  {
+    "node_id": "16:163",
+    "name": "05_Product_Quinoa",
+    "file": "16-163.png"
+  },
+  {
+    "node_id": "16:204",
+    "name": "06_Basket",
+    "file": "16-204.png"
+  },
+  {
+    "node_id": "19:198",
+    "name": "01_Splash",
+    "file": "19-198.png"
+  },
+  {
+    "node_id": "19:213",
+    "name": "07_Checkout_Delivery",
+    "file": "19-213.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "5I7PlvtoC7GX1zbReFo1tr",
+        "nodeId": "19:213",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "115ea3ea887b4bdaa14d2524e0145cfe1a887d1e5c169bd1c15ae95868473c05",
+      "response_file": "_debug/v2-native-19-213.png.txt",
+      "response_sha256": "55926175e6ec3be1e980b0a2658c774c6cc43d044b3240b6e40c09390974141a"
+    }
+  },
+  {
+    "node_id": "19:277",
+    "name": "08_Checkout_Card",
+    "file": "19-277.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "5I7PlvtoC7GX1zbReFo1tr",
+        "nodeId": "19:277",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "b84a7d011b3ca4cef1c64d3c8168d357e0d9cce187cb1fc113db105f0c26cbf7",
+      "response_file": "_debug/v2-native-19-277.png.txt",
+      "response_sha256": "807fe4937b67cdfa9c22c71ec4f2b091aa1f1d2561937d533f4ad11bd3c24a7d"
+    }
+  },
+  {
+    "node_id": "19:347",
+    "name": "09_Order_Complete",
+    "file": "19-347.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "5I7PlvtoC7GX1zbReFo1tr",
+        "nodeId": "19:347",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "815b45ad8cc1bc7289a5656a27de33f872ca65fd021dd902bdff964ccc0f436a",
+      "response_file": "_debug/v2-native-19-347.png.txt",
+      "response_sha256": "c878448630cb79d8d3b8b3eae900ac89a344caca235bd784013a2882bbb1ac45"
+    }
+  },
+  {
+    "node_id": "19:373",
+    "name": "10_Track_Order",
+    "file": "19-373.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "5I7PlvtoC7GX1zbReFo1tr",
+        "nodeId": "19:373",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "ef51cee9af45bbad2855bc8387691662085bde940b44a8a0624a4779b11af2d3",
+      "response_file": "_debug/v2-native-19-373.png.txt",
+      "response_sha256": "eb880a19f7d7a86bdc74f8f346d2bea9a679cd3c98073953e18c8a7f40a91e84"
+    }
+  }
+]

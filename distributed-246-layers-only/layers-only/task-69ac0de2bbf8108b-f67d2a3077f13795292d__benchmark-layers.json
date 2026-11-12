@@ -1,0 +1,27 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×3200",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "rectangle×6",
+        "frame×2"
+      ],
+      "names": [
+        "Header",
+        "Logo_MAC",
+        "Service",
+        "Agency",
+        "Case Study",
+        "Resources"
+      ]
+    }
+  ]
+}

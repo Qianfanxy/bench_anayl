@@ -1,0 +1,141 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Aktivitas",
+      "size": "375×812",
+      "nodes": 31,
+      "max_depth": 4,
+      "instances": 15,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "frame×9",
+        "text×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Content",
+        "HeaderMain",
+        "BalanceCard",
+        "Dana Utama",
+        "Rp2.125.000"
+      ]
+    },
+    {
+      "name": "02_Trending",
+      "size": "375×812",
+      "nodes": 62,
+      "max_depth": 5,
+      "instances": 20,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "instance×20",
+        "frame×17"
+      ],
+      "names": [
+        "Status Bar",
+        "Content",
+        "HeaderMain",
+        "Indices",
+        "IHSG",
+        "7.206,92"
+      ]
+    },
+    {
+      "name": "03_Detail_Saham",
+      "size": "375×812",
+      "nodes": 104,
+      "max_depth": 4,
+      "instances": 7,
+      "texts": 54,
+      "images": 0,
+      "types": [
+        "text×54",
+        "frame×36",
+        "instance×7",
+        "rectangle×5",
+        "vector×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Content",
+        "HeaderDetail",
+        "Icon_Back",
+        "r"
+      ]
+    },
+    {
+      "name": "04_Top_Up_Metode",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×3",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Content",
+        "HeaderBack",
+        "BalanceCard",
+        "Dana Saya",
+        "Rp2.125.000"
+      ]
+    },
+    {
+      "name": "05_Top_Up_Nominal",
+      "size": "375×812",
+      "nodes": 35,
+      "max_depth": 5,
+      "instances": 13,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×12",
+        "text×9",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Content",
+        "HeaderBack",
+        "Steps",
+        "Step1",
+        "c"
+      ]
+    },
+    {
+      "name": "06_Top_Up_Pembayaran",
+      "size": "375×812",
+      "nodes": 44,
+      "max_depth": 5,
+      "instances": 4,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "frame×16",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Content",
+        "Selesaikan Pembayaran",
+        "Silakan selesaikan prose",
+        "Deadline"
+      ]
+    }
+  ]
+}

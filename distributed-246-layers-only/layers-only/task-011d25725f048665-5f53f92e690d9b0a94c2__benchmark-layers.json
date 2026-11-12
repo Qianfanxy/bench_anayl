@@ -1,0 +1,139 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Expenio",
+        "Illustration_Get_Started",
+        "Headline",
+        "Subhead"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Greeting",
+        "Home Label",
+        "Avatar_Maria_Lopez",
+        "Balance Card"
+      ]
+    },
+    {
+      "name": "03_Wallet",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Header Title",
+        "Icon_Add_Card",
+        "Payment Card / Visa"
+      ]
+    },
+    {
+      "name": "04_Add_Card",
+      "size": "375×812",
+      "nodes": 47,
+      "max_depth": 4,
+      "instances": 14,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "frame×17",
+        "instance×14",
+        "text×13",
+        "rectangle×3"
+      ],
+      "names": [
+        "Wallet (behind sheet)",
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Header Title",
+        "Icon_Add_Card"
+      ]
+    },
+    {
+      "name": "05_Payment",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "instance×5",
+        "frame×3",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Cancel",
+        "Payment",
+        "PAYING",
+        "Avatar_Robert_Dawson"
+      ]
+    },
+    {
+      "name": "06_Receipt",
+      "size": "375×812",
+      "nodes": 24,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "instance×5",
+        "frame×2",
+        "rectangle×2",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Share",
+        "Receipt",
+        "Success badge",
+        "Vector"
+      ]
+    }
+  ]
+}

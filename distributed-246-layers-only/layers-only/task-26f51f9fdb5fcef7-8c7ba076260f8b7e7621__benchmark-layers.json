@@ -1,0 +1,140 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Dashboard",
+      "size": "1440×1024",
+      "nodes": 132,
+      "max_depth": 4,
+      "instances": 33,
+      "texts": 60,
+      "images": 0,
+      "types": [
+        "text×60",
+        "frame×34",
+        "instance×33",
+        "vector×5"
+      ],
+      "names": [
+        "Sidebar",
+        "TopBar",
+        "StatCard · Task Complete",
+        "IconBg",
+        "Icon_Checklist",
+        "Task Completed"
+      ]
+    },
+    {
+      "name": "02_Timeline",
+      "size": "1440×1024",
+      "nodes": 149,
+      "max_depth": 3,
+      "instances": 46,
+      "texts": 45,
+      "images": 0,
+      "types": [
+        "frame×57",
+        "instance×46",
+        "text×45",
+        "vector×1"
+      ],
+      "names": [
+        "Sidebar",
+        "TopBar",
+        "Timeline",
+        "Today",
+        "Prev",
+        "Icon_Chevron_Left"
+      ]
+    },
+    {
+      "name": "03_Task_Board",
+      "size": "1440×1024",
+      "nodes": 87,
+      "max_depth": 5,
+      "instances": 47,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×47",
+        "frame×29",
+        "text×11"
+      ],
+      "names": [
+        "Sidebar",
+        "TopBar",
+        "🔥 Task",
+        "Avatar_Charmie",
+        "Avatar_Jason_Mandala",
+        "Avatar_Cris_Morich"
+      ]
+    },
+    {
+      "name": "04_Files",
+      "size": "1440×1024",
+      "nodes": 103,
+      "max_depth": 3,
+      "instances": 23,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "frame×46",
+        "text×32",
+        "instance×23",
+        "ellipse×2"
+      ],
+      "names": [
+        "Sidebar",
+        "TopBar",
+        "Files",
+        "Create Folder",
+        "+ Create New Folder",
+        "Button"
+      ]
+    },
+    {
+      "name": "05_Settings",
+      "size": "1440×1024",
+      "nodes": 31,
+      "max_depth": 4,
+      "instances": 19,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "frame×6",
+        "text×6"
+      ],
+      "names": [
+        "Sidebar",
+        "TopBar",
+        "Profile Card",
+        "Cover",
+        "Avatar Ring",
+        "Avatar_Current_User"
+      ]
+    },
+    {
+      "name": "06_Messages",
+      "size": "1440×1024",
+      "nodes": 84,
+      "max_depth": 4,
+      "instances": 38,
+      "texts": 27,
+      "images": 0,
+      "types": [
+        "instance×38",
+        "text×27",
+        "frame×19"
+      ],
+      "names": [
+        "Sidebar",
+        "TopBar",
+        "Conversation List",
+        "Messages",
+        "Search",
+        "Icon_Search"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "case_id": "6case-case-005",
+    "model": "Gemini",
+    "run_id": "run_bfe1f2ec3e44403d",
+    "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-033_1793390312123/task-000001/trajectory.jsonl",
+    "message_index_zero_based": 34,
+    "role": "assistant",
+    "evidence_type": "tool_call_code",
+    "excerpt": "const f9 = figma.createFrame(); f9.name = \"09_Exchange_Stock\"; f9.resize(390, 844); f9.x = 1290; f9.y = 900;\n  f9.fills = [{ type: \"SOLID\", color: BG_LIGHT }]; attachShell(f9);\n  const header9 = figma.createFrame(); header9.resize(342, 44); header9.x = 24; header9.y = 52; header9.fills = [];\n  const tTitle9 = figma.createText(); tTitle9.fontName = { family: \"Poppins\", style: \"Bold\" }; tTitle9.fontSize = 20; tTitle9.characters = \"Exchange\"; tTitle9.x = 0; tTitle9.y = 8; tTitle9.fills = [{ type: \"SOLID\", color: TEXT_MAIN }]; header9.appendChild(tTitle9);\n  const icCalc9 = getComponent(\"4:87\"); if (icCalc9) { icCalc9.x = 264; icCalc9.y = 10; header9.appendChild(icCalc9); }\n  const icFilt9 = getComponent(\"2:85\"); if (icFilt9) { icFilt9.x = 306; icFilt9.y = 10; header9.appendChild(icFilt9); }\n  f9.appendChild(header9);\n\n  const cardFrom = figma.createFrame(); cardFrom.resize(342, 90); cardFrom.cornerRadius = 16; cardFrom.x = 24; cardFrom.y = 156; cardFrom.fills = [{ type: \"SOLID\", color: SURFACE_WHITE }];\n  const logoApple = getComponent(\"4:120\"); if (logoApple) { logoApple.x = 16; logoApple.y = 16; cardFrom.appendChild(logoApple); }\n  const tFromT = figma.createText(); tFromT.fontName = { family: \"Poppins\", style: \"Bold\" }; tFromT.fontSize = 16; tFromT.characters = \"AAPL\"; tFromT.x = 56; tFromT.y = 16; tFromT.fills = [{ type: \"SOLID\", color: TEXT_MAIN }]; cardFrom.appendChild(tFromT);\n  const tFromN = figma.createText(); tFromN.fontName = { family: \"Poppins\", style: \"Regular\" }; tFromN.fontSize = 12; tFromN.characters = \"Apple Inc.\"; tFromN.x = 56; tFromN.y = 38; tFromN.fills = [{ type: \"SOLID\", color: TEXT_MUTED }]; cardFrom.appendChild(tFromN);\n  const tFromA = figma.createText(); tFromA.fontName = { family: \"Roboto\", style: \"Bold\" }; tFromA.fontSize = 20; tFromA.characters = \"$156.50\"; tFromA.textAlignHorizontal = \"RIGHT\"; tFromA.x = 180; tFromA.y = 30; tFromA.resize(146, 26); tFromA.fills = [{ type: \"SOLID\", color: BRAND }]; cardFrom.appendChild(tFromA);\n  f9.appendChild(cardFrom);\n\n  const cardTo = figma.createFrame(); cardTo.resize(342, 90); cardTo.cornerRadius = 16; cardTo.x = 24; cardTo.y = 258; cardTo.fills = [{ type: \"SOLID\", color: SURFACE_WHITE }];\n  const logoSpot = getComponent(\"4:126\"); if (logoSpot) { logoSpot.x = 16; logoSpot.y = 16; cardTo.appendChild(logoSpot); }\n  const tToT = figma.createText(); tToT.fontName = { family: \"Poppins\", style: \"Bold\" }; tToT.fontSize = 16; tToT.characters = \"SPOT\"; tToT.x = 56; tToT.y = 16; tToT.fills = [{ type: \"SOLID\", color: TEXT_MAIN }]; cardTo.appendChild(tToT);\n  const tToN = figma.createText(); tToN.fontName = { family: \"Poppins\", style: \"Regular\" }; tToN.fontSize = 12; tToN.characters = \"Spotify\"; tToN.x = 56; tToN.y = 38; tToN.fills = [{ type: \"SOLID\", color: TEXT_MUTED }]; cardTo.appendChild(tToN);\n  const tToV = figma.createText(); tToV.fontName = { family: \"Roboto\", style: \"Bold\" }; tToV.fontSize = 18; tToV.characters = \"≈ 0.69 shares\"; tToV.textAlignHorizontal = \"RIGHT\"; tToV.x = 160; tToV.y = 20; tToV.resize(166, 24); tToV.fills = [{ type: \"SOLID\", color: TEXT_MAIN }]; cardTo.appendChild(tToV);\n  f9.appendChild(cardTo);\n\n  const nav9 = createTradeNavComponent(\"Exchange\"); nav9.x = 0; nav9.y = 760; f9.appendChild(nav9);\n\n  return \"Frame 09 created successfully\";\n})()"
+  },
+  {
+    "case_id": "6case-case-005",
+    "model": "GPT",
+    "run_id": "run_35b30b48222a45ca",
+    "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-rerun1-gpt/runs/TEST-012_1793425559838/task-000001/trajectory.jsonl",
+    "message_index_zero_based": 26,
+    "role": "assistant",
+    "evidence_type": "tool_call_code",
+    "excerpt": "screen('09_Exchange_Stock',8);await head(f,'Exchange',['Icon_Filter']);side(f,24,113,342);let r=box(f,24,177,342,149);t(r,'FROM',16,13,10,M);await a(r,'Logo_Apple',16,40,32,32);t(r,'AAPL',61,37,16,I,true);t(r,'Apple Inc.',61,62,12,M);await ico(r,'Icon_Chevron_Down',305,45,18);t(r,'$156.50',16,87,32,I,true);box(r,161,92,2,35,B,0);comp(r,'Stock / From input');let sw=box(f,171,312,48,40,B,12);await ico(sw,'Icon_Swap',13,9);r=box(f,24,362,342,124);t(r,'TO',16,12,10,M);await a(r,'Logo_Spotify',16,39,32,32);t(r,'SPOT',61,36,16,I,true);t(r,'Spotify',61,62,12,M);await ico(r,'Icon_Chevron_Down',305,44,18);t(r,'≈ 0.69 shares',16,86,19,I,true);t(r,'at $226.90',234,94,12,M);comp(r,'Stock / To');await ico(f,'Icon_Calculator',24,504,20);t(f,'Enter amount in USD',54,507,12,M);r=box(f,24,539,342,199);const ks=[['1',''],['2','ABC'],['3','DEF'],['4','GHI'],['5','JKL'],['6','MNO'],['7','PQRS'],['8','TUV'],['9','WXYZ'],['.',''],['0',''],['⌫','']];for(let i=0;i<12;i++){let k=box(r,i%3*114,Math.floor(i/3)*49,114,46,'#FFFFFF',8);if(i===11)await ico(k,'Icon_Backspace',46,13);else{t(k,ks[i][0],0,3,23,I,true,114).textAlignHorizontal='CENTER';t(k,ks[i][1],0,32,8,M,false,114).textAlignHorizontal='CENTER'}comp(k,'Keypad / '+ks[i][0])}comp(r,'Keypad');await nav(f,true,'Exchange');f=await screen('10_Exchange_Crypto',9);await head(f,'Exchange');r=box(f,24,111,342,79);await a(r,'Coin_BTC',12,15,32,32);t(r,'BTC / USDT',55,11,17,I,true);await ico(r,'Icon_Chevron_Down',173,17,16);t(r,'Vol 2.8B',55,43,11,M);t(r,'29,198.24',226,11,19,I,true);t(r,'+3.73%',285,44,12,G);comp(r,'Pair / BTC USDT');t(f,'Orderbook',24,207,14,B,true);t(f,'Chart',140,207,14,M);box(f,24,233,89,3,B,2);let ob=box(f,24,251,153,458);t(ob,'Price (USDT)',8,12,10,M);t(ob,'Amount (BTC)',84,12,10,M);let asks=[['29,203.00','0.0446'],['29,201.80','0.1185'],['29,200.65','0.0797'],['29,199.40','0.0032'],['29,198.50','0.1852']],bids=[['29,198.00','0.2104'],['29,196.75','0.0446'],['29,195.20','0.1185'],['29,194.10','0.0797'],['29,193.50','0.0560']];for(let j=0;j<2;j++)for(let i=0;i<5;i++){let y=42+j*216+i*31,d=(j?bids:asks)[i],width=25+Number(d[1])*460;box(ob,153-width,y,width,27,j?'#E5F5EF':'#FCECF0',0);t(ob,d[0],8,y+7,11,j?G:R);t(ob,d[1],106,y+7,10,I)}t(ob,'29,198.24',8,205,21,G,true);t(ob,'≈ $29,198.24',8,235,10,M);comp(ob,'Orderbook / Depth');let form=box(f,189,251,177,458);side(form,10,8,157);let q=box(form,10,66,157,36,BG,8);t(q,'Limit',10,10,13,I);await ico(q,'Icon_Chevron_Down',130,10,16);t(form,'Price · USDT',10,117,11,M);q=box(form,10,139,157,42,BG,8);t(q,'−',8,12,16,M);t(q,'29,198.00',27,13,13,I,true);t(q,'+',140,12,16,M);t(form,'Amount · BTC',10,195,11,M);q=box(form,10,217,157,42,BG,8);t(q,'−',8,12,16,M);t(q,'0.0500',48,13,13,I,true);t(q,'+',140,12,16,M);['25%','50%','75%','100%'].forEach((s,i)=>{let n=box(form,10+i*40,274,37,26,'#EAF2FF',5);t(n,s,5,8,9,B)});t(form,'Total',10,318,11,M);t(form,'1,459.90 USDT',10,338,16,I,true);t(form,'Available',10,369,10,M);t(form,'2,500.00 USDT',10,387,12,I);await btn(form,'Buy BTC',10,416,157);comp(form,'Order form / Limit buy');await nav(f,true,'Exchange');})()`);return page.children.filter(n=>/^\\d\\d_/.test(n.name)).map(n=>({id:n.id,name:n.name}));"
+  },
+  {
+    "case_id": "3case-case-002",
+    "model": "Fable",
+    "run_id": "run_8ceac755cb4a48e7",
+    "trajectory_path": "/mnt/afs_design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-018_1793212991824/task-000001/trajectory.jsonl",
+    "message_index_zero_based": 29,
+    "role": "assistant",
+    "evidence_type": "tool_call_code",
+    "excerpt": "function createAccount(name,x,state){\n  const f=fr(name,414,932,C.white,0,x,100);\n  statusBar(f,false);\n  icon('6:275',f,30,62,C.ink,1);\n  tx(f,'Title','Create an account',F.db,28,34,C.ink,30,104,354);\n  tx(f,'Sub','Invest and double your income now',F.fr,15,22,C.ink2,30,144,354);\n  const fields=[\n    {label:'Full name',ph:'Enter your full name',val:'Jonas Macroni'},\n    {label:'Email address',ph:'Enter your email',val:'jonas.macroni@invest.ai'},\n    {label:'Password',ph:'Enter your password',val:'••••••••••'}\n  ];\n  let y=204;\n  fields.forEach((fd,i)=>{\n    tx(f,'Label '+fd.label,fd.label,F.fm,13,18,C.ink2,30,y,354);\n    const isErr = state==='error' && fd.label==='Email address';\n    const filledNow = state==='filled';\n    const comp = isErr?'2006:43':(filledNow?'2006:41':'2006:37');\n    const inst=figma.getNodeById(comp).createInstance(); inst.name='Field '+fd.label; f.appendChild(inst);\n    inst.x=30; inst.y=y+24; inst.resize(354,60);\n    const lab=inst.children[0];\n    if(isErr){ lab.characters='jonas.macroni@invest'; }\n    else if(filledNow){ lab.characters=fd.val; lab.fills=[solid(C.ink)]; }\n    else { lab.characters=fd.ph; lab.fills=[solid(C.ink3)]; }\n    if(fd.label==='Password' && filledNow){\n      icon('6:279',f,388,0,C.ink3,1); // placeholder position fixed below\n      const eye=f.children[f.children.length-1]; eye.name='Icon Show Password'; eye.x=336-16; eye.y=y+24+18;\n      try{ eye.children.forEach(c=>{}); }catch(e){}\n    }\n    y+=104;\n  });\n  if(state==='error'){\n    icon('6:274',f,30,y-104+84,C.danger,0.8); f.children[f.children.length-1].name='Error Icon';\n    tx(f,'Error msg','Enter a valid email address',F.fm,13,18,C.danger,30,y-6,354);\n    y+=26;\n  }\n  const btn = state==='filled'?'2006:25':'2006:29';\n  const bi=figma.getNodeById(btn).createInstance(); bi.name='Button · Create account'; f.appendChild(bi);\n  bi.x=30; bi.y=740; bi.children[0].characters='Create account';\n  tx(f,'Login row','Already have an account?  Login',F.fm,14,20,C.ink2,0,816,414,'CENTER');\n  homeIndicator(f,false);\n  return f;\n}\nframes.empty=createAccount('03_Create_Account_Empty',1128,'empty');\nframes.filled=createAccount('03_Create_Account_Filled',1642,'filled');\nframes.error=createAccount('03_Create_Account_Error',2156,'error');\nconst out={}; for(const k in frames) out[k]=frames[k].id;\nreturn JSON.stringify(out);"
+  },
+  {
+    "case_id": "3case-case-002",
+    "model": "GPT",
+    "run_id": "run_9f36a4040a4a4a84",
+    "trajectory_path": "/mnt/afs_design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-030_1793360607012/task-000001/trajectory.jsonl",
+    "message_index_zero_based": 18,
+    "role": "assistant",
+    "evidence_type": "tool_call_code",
+    "excerpt": "Enter a valid email address',24,y+90,366,12,'B64242');go(q,state==='Empty'&&i===1?'03_Create_Account_Error':'03_Create_Account_Filled');}let bt=await btn(f,'Create account',24,704);if(state==='Empty'){bt.name='Create account / disabled';bt.fills=col('DCE6DF');bt.findOne(n=>n.type==='TEXT').fills=col('84988C');}else go(bt,state==='Filled'?'04_Home':'03_Create_Account_Error');t(f,'Already have an account?',55,798,240,14,'6C7C74');go(t(f,'Login',298,798,60,14,'31A062',true),'03_Create_Account_Fille"
+  },
+  {
+    "case_id": "6case-case-003",
+    "model": "GPT",
+    "run_id": "run_25056fae2f754984",
+    "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-043_1793402529411/task-000001/trajectory.jsonl",
+    "message_index_zero_based": 24,
+    "role": "assistant",
+    "evidence_type": "tool_call_code",
+    "excerpt": "['Go to cart','Buy Now','View Similar','Add to Compare'].forEach((s,i)=>{let q=box(d,20+i%2*174,1020+Math.floor(i/2)*58,161,46,i<2?'F83758':'F6F7F9',8);t(q,s,12,15,145,12,'SemiBold',i<2?'FFFFFF':'20232B')});t(d,'Similar To',20,1160,327,20,'Bold');t(d,'282+ Items',20,1194,180,14);t(d,'Sort  ↕     Filter',244,1194,112,12);grid(d,[['Nike Sneakers','Nike Air Jordan Retro 1 Low Mystic Black','₹1,900','★ 46,890','3:197'],['Nike Sneakers','Mid Peach Moc"
+  },
+  {
+    "case_id": "6case-case-003",
+    "model": "GPT",
+    "run_id": "run_25056fae2f754984",
+    "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-043_1793402529411/task-000001/trajectory.jsonl",
+    "message_index_zero_based": 36,
+    "role": "assistant",
+    "evidence_type": "tool_call_code",
+    "excerpt": "txt(10,'Go to cart',11);txt(10,'Buy Now',11);link(figma.getNodeById('9:627'),12);link(figma.getNodeById('9:656'),13);link(figma.getNodeById('9:741'),8);txt(11,'‹',10);txt(12,'‹',11);txt(14,'‹',8);txt(14,'Save',8);txt(14,"
+  },
+  {
+    "case_id": "web10-case-006",
+    "model": "Fable",
+    "run_id": "run_456e2a0ef2b3463f",
+    "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-026_1793569988772/task-000001/trajectory.jsonl",
+    "message_index_zero_based": 98,
+    "role": "assistant",
+    "evidence_type": "tool_call_code",
+    "excerpt": "const ph2=[['UX Research','3 tasks',62,'#5051F9'],['Information Architecture','2 tasks',51,'#7B7CFA'],['Design Phase','3 tasks',59,'#22C3A6'],['Prototyping','1 task',63,'#A5A6FB'],['Development','3 tasks',50,'#5E8BFF']];\nph2.forEach((p,i)=>{\n  const ry=58+i*40;\n  A(ps,T(p[0],12,'Medium',C.ink),24,ry);\n  A(ps,T(p[1],11,'Regular',C.muted),300,ry+1);\n  const bgr=FR(ps,'Bar bg',390,ry+6,180,6,{fill:'#EEF1F7',r:999});FR(bgr,'Fill',0,0,180*(p[2]/100),6,{fill:p[3],r:999});\n  A(ps,T(p[2]+'%',11,'SemiBold',C.sub),586,ry);\n});\nreturn JSON.stringify({ok:t"
+  },
+  {
+    "case_id": "6case-case-003",
+    "model": "GPT",
+    "run_id": "run_25056fae2f754984",
+    "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-043_1793402529411/task-000001/trajectory.jsonl",
+    "message_index_zero_based": 67,
+    "role": "tool",
+    "evidence_type": "tool_result",
+    "excerpt": "7:150\",\"name\":\"09_Home\",\"overflow\":\"NONE\",\"children\":[{\"name\":\"Scrollable content\",\"h\":684,\"overflow\":\"VERTICAL\"}]},{\"id\":\"7:164\",\"name\":\"10_Product_List\",\"overflow\":\"NONE\",\"children\":[{\"name\":\"Scrollable content\",\"h\":684,\"overflow\":\"VERTICAL\"}]},{\"id\":\"7:178\",\"name\":\"11_Product_Detail\",\"overflow\":\"NONE\",\"children\":[{\"name\":\"Scrollable content\",\"h\":684,\"overflow\":\"VERTICAL\"}]},{\"id\":\"7:192\",\"name\":\"12_Shopping_Bag\",\"overflow\":\"NONE\",\"children\":[{\"name\":\"Frame\",\"h\":184,\"overflow\":\"NONE\"},{\"name\":\"Proceed to Payment\",\"h\":50,\"overflow\":\"NONE\"}]},{\"id\":\"7:206\",\"name\":\"13_Payment\",\"overflow\":\"NONE\",\"children\":[{\"name\":\"Payment method Logo_Visa\",\"h\":65,\"overflow\":\"NONE\"},{\"name"
+  },
+  {
+    "case_id": "6case-case-003",
+    "model": "Kimi",
+    "run_id": "run_b3a9011569f3435a",
+    "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-037_1793404927798/task-000001/trajectory.jsonl",
+    "message_index_zero_based": 62,
+    "role": "tool",
+    "evidence_type": "tool_result",
+    "excerpt": "09 done, height=2116\n\n<system-reminder>\n<total_tokens>14877038 tokens left</total_tokens>\n</system-r"
+  },
+  {
+    "case_id": "6case-case-003",
+    "model": "Kimi",
+    "run_id": "run_b3a9011569f3435a",
+    "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-037_1793404927798/task-000001/trajectory.jsonl",
+    "message_index_zero_based": 80,
+    "role": "tool",
+    "evidence_type": "tool_result",
+    "excerpt": "11 done height=1468\n\n<system-reminder>\n<total_tokens>14852684 tokens left</total_tokens>\n</system-re"
+  },
+  {
+    "case_id": "6case-case-006",
+    "model": "GLM",
+    "run_id": "run_b53402eabe484a87",
+    "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-rerun1-glm/runs/TEST-011_1793423035903/task-000001/trajectory.jsonl",
+    "message_index_zero_based": 156,
+    "role": "tool",
+    "evidence_type": "tool_result",
+    "excerpt": "10:24: NULL\n10:38: NULL\n10:58: NULL\n12:57: NULL\n13:130: NULL\n13:182: NULL\n14:185: NULL\n14:242: NULL\n17:254: NULL\n17:275: NULL\n\n\n<system-reminder>\n<total_tokens>14851414 tokens left</total_tokens>\n</system-reminder>"
+  },
+  {
+    "case_id": "6case-case-006",
+    "model": "GLM",
+    "run_id": "run_b53402eabe484a87",
+    "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-rerun1-glm/runs/TEST-011_1793423035903/task-000001/trajectory.jsonl",
+    "message_index_zero_based": 158,
+    "role": "tool",
+    "evidence_type": "tool_result",
+    "excerpt": "hits: 0\n\n\n<system-reminder>\n<total_token"
+  }
+]

@@ -1,0 +1,113 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "390×844",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×2"
+      ],
+      "names": [
+        "Photo_Onboarding",
+        "Wherever you are, health",
+        "There is no instant way ",
+        "Get Started",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "390×844",
+      "nodes": 18,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Good Morning 🔥",
+        "Pramuditya Uzumaki",
+        "Text Field",
+        "Icon_Search",
+        "Popular Workouts",
+        "Lower Body Training"
+      ]
+    },
+    {
+      "name": "03_Explore",
+      "size": "390×844",
+      "nodes": 21,
+      "max_depth": 2,
+      "instances": 16,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Explore",
+        "Quarantine banner",
+        "Best for you",
+        "Belly fat burner",
+        "Lose Fat",
+        "Plank"
+      ]
+    },
+    {
+      "name": "04_Workout",
+      "size": "390×844",
+      "nodes": 15,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×5"
+      ],
+      "names": [
+        "Workout",
+        "Icon_Back",
+        "Photo_Lower_Body_Trainin",
+        "Lower Body Training",
+        "Time",
+        "Burn"
+      ]
+    },
+    {
+      "name": "05_Analytics",
+      "size": "390×844",
+      "nodes": 26,
+      "max_depth": 2,
+      "instances": 21,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "July 2022",
+        "Day 10",
+        "Day 11",
+        "Day 12",
+        "Day 13",
+        "Day 14"
+      ]
+    }
+  ]
+}

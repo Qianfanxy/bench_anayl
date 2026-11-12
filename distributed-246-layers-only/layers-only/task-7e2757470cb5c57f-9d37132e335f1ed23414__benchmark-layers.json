@@ -1,0 +1,255 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "414×932",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 2,
+      "images": 1,
+      "types": [
+        "text×2",
+        "instance×2",
+        "frame×1",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Surface",
+        "Paradise_Group_Logo",
+        "PARADISE INVEST",
+        "A better future starts h",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "02_Welcome",
+      "size": "414×932",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 4,
+      "images": 1,
+      "types": [
+        "text×4",
+        "instance×3",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "PARADISE INVEST",
+        "Welcome_Illustration",
+        "Stay on top of your fina",
+        "We are your new financia",
+        "Button",
+        "Login"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Empty",
+      "size": "414×932",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "instance×7",
+        "frame×1"
+      ],
+      "names": [
+        "Back",
+        "Icon / Back",
+        "Text",
+        "Create an account",
+        "Invest and double your i",
+        "Full name"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Filled",
+      "size": "414×932",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "instance×7",
+        "frame×1"
+      ],
+      "names": [
+        "Back",
+        "Icon / Back",
+        "Text",
+        "Create an account",
+        "Invest and double your i",
+        "Full name"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Error",
+      "size": "414×932",
+      "nodes": 18,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "text×10",
+        "instance×7",
+        "frame×1"
+      ],
+      "names": [
+        "Back",
+        "Icon / Back",
+        "Text",
+        "Create an account",
+        "Invest and double your i",
+        "Full name"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "414×932",
+      "nodes": 35,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 16,
+      "images": 3,
+      "types": [
+        "text×16",
+        "instance×8",
+        "frame×8",
+        "rectangle-image×3"
+      ],
+      "names": [
+        "Icon / Menu",
+        "Notifications",
+        "Icon / Notification",
+        "Welcome, Jonas.",
+        "Portfolio",
+        "Your total asset portfol"
+      ]
+    },
+    {
+      "name": "05_My_Asset_Overlay",
+      "size": "414×932",
+      "nodes": 100,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 49,
+      "images": 6,
+      "types": [
+        "text×49",
+        "frame×34",
+        "instance×11",
+        "rectangle-image×6"
+      ],
+      "names": [
+        "04_Home",
+        "Icon / Menu",
+        "Notifications",
+        "Icon / Notification",
+        "Welcome, Jonas.",
+        "Portfolio"
+      ]
+    },
+    {
+      "name": "06_Notification",
+      "size": "414×932",
+      "nodes": 17,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 6,
+      "images": 1,
+      "types": [
+        "text×6",
+        "frame×4",
+        "instance×4",
+        "ellipse×2",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Back",
+        "Icon / Back",
+        "Notification",
+        "TODAY",
+        "Notification 1",
+        "Notification 2"
+      ]
+    },
+    {
+      "name": "07_Profile",
+      "size": "414×932",
+      "nodes": 27,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "instance×8",
+        "frame×6",
+        "ellipse×2"
+      ],
+      "names": [
+        "Profile",
+        "Avatar_Neutral",
+        "Ellipse",
+        "Jonas Macroni",
+        "Surface",
+        "Expert"
+      ]
+    },
+    {
+      "name": "08_Contact_Info",
+      "size": "414×932",
+      "nodes": 31,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "frame×8",
+        "instance×5",
+        "ellipse×2"
+      ],
+      "names": [
+        "Back",
+        "Icon / Back",
+        "Contact info",
+        "Avatar_Neutral",
+        "Ellipse",
+        "Edit avatar"
+      ]
+    },
+    {
+      "name": "09_Bank_Account_Info",
+      "size": "414×932",
+      "nodes": 14,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 5,
+      "images": 1,
+      "types": [
+        "instance×6",
+        "text×5",
+        "frame×2",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Back",
+        "Icon / Back",
+        "Bank account info",
+        "LINKED ACCOUNTS",
+        "Bank of America",
+        "Zenith Bank"
+      ]
+    }
+  ]
+}

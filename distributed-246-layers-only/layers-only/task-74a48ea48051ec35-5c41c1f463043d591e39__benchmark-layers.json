@@ -1,0 +1,207 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "id": "66:2",
+      "name": "01_Welcome",
+      "size": "393×852",
+      "nodes": 41,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "component×11",
+        "rectangle×10",
+        "text×8",
+        "vector×8",
+        "frame×2",
+        "ellipse×2"
+      ],
+      "names": [
+        "BG",
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle"
+      ]
+    },
+    {
+      "id": "66:3",
+      "name": "02_Apple_ID_Sheet",
+      "size": "393×852",
+      "nodes": 28,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "rectangle×12",
+        "component×5",
+        "text×5",
+        "vector×3",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "BG",
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle"
+      ]
+    },
+    {
+      "id": "66:4",
+      "name": "03_Explore",
+      "size": "393×852",
+      "nodes": 13,
+      "max_depth": 3,
+      "instances": 2,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "component×2",
+        "frame×2",
+        "text×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "id": "66:5",
+      "name": "04_Find_Partner",
+      "size": "393×852",
+      "nodes": 13,
+      "max_depth": 3,
+      "instances": 2,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "component×2",
+        "frame×2",
+        "text×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "id": "66:6",
+      "name": "05_Friend_Profile",
+      "size": "393×852",
+      "nodes": 13,
+      "max_depth": 3,
+      "instances": 2,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "component×2",
+        "frame×2",
+        "text×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "id": "66:7",
+      "name": "06_Short_Video",
+      "size": "393×852",
+      "nodes": 13,
+      "max_depth": 3,
+      "instances": 2,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "component×2",
+        "frame×2",
+        "text×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "id": "66:8",
+      "name": "07_Profile",
+      "size": "393×852",
+      "nodes": 13,
+      "max_depth": 3,
+      "instances": 2,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "component×2",
+        "frame×2",
+        "text×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "id": "66:9",
+      "name": "08_Menu",
+      "size": "393×852",
+      "nodes": 13,
+      "max_depth": 3,
+      "instances": 2,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "rectangle×7",
+        "component×2",
+        "frame×2",
+        "text×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    }
+  ]
+}

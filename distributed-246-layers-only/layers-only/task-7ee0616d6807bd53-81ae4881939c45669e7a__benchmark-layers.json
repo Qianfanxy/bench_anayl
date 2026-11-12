@@ -1,0 +1,215 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Illustration_Runners",
+        "Rectangle",
+        "Running App",
+        "Run and earn with our ap",
+        "Get Started",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×4",
+        "rectangle×1"
+      ],
+      "names": [
+        "Back",
+        "Skip",
+        "Rectangle",
+        "Illustration_Onboarding_",
+        "Page Indicator / 2 of 3",
+        "Run"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×4"
+      ],
+      "names": [
+        "Back",
+        "Logo_App",
+        "Log In",
+        "dani@example.com",
+        "Password",
+        "Icon_Eye_Closed"
+      ]
+    },
+    {
+      "name": "04_Verify_Email",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×3"
+      ],
+      "names": [
+        "Back",
+        "Illustration_Verify_Emai",
+        "Verify your email",
+        "We’ve sent a 4-digit cod",
+        "Code Input / First digit",
+        "Verify Email"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "375×1000",
+      "nodes": 15,
+      "max_depth": 1,
+      "instances": 13,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×2"
+      ],
+      "names": [
+        "Header / Daniela",
+        "Daily Goal",
+        "Today Run Card",
+        "Steps",
+        "Earned Points",
+        "Share Promo"
+      ]
+    },
+    {
+      "name": "06_History",
+      "size": "375×860",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×11"
+      ],
+      "names": [
+        "Header / History",
+        "History Summary",
+        "History Row / 1",
+        "History Row / 2",
+        "History Row / 3",
+        "History Row / 4"
+      ]
+    },
+    {
+      "name": "07_Store",
+      "size": "375×812",
+      "nodes": 26,
+      "max_depth": 2,
+      "instances": 22,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×22",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Header / Store",
+        "Category / New",
+        "Category / Men",
+        "Category / Women",
+        "Category / Kids",
+        "Category / Equip"
+      ]
+    },
+    {
+      "name": "08_Address_Empty",
+      "size": "375×812",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×5"
+      ],
+      "names": [
+        "Header / Address",
+        "Empty State / Address",
+        "Add Address",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "09_New_Wallet",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×1"
+      ],
+      "names": [
+        "Header / New Wallet",
+        "Select the withdrawal ty",
+        "Bank Account",
+        "Card",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "10_Account_Updated",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header / Select Account",
+        "Bank Account Row / Harbo",
+        "Bank Account Row / Cresc",
+        "Bank Account Row / Union",
+        "Add New Account",
+        "Rectangle"
+      ]
+    }
+  ]
+}

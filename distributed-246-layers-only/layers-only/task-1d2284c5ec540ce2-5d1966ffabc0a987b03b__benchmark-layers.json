@@ -1,0 +1,183 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×2301",
+      "nodes": 71,
+      "max_depth": 5,
+      "instances": 26,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "instance×26",
+        "text×25",
+        "frame×20"
+      ],
+      "names": [
+        "Comp/Header",
+        "Hero",
+        "HeroText",
+        "POSTED ON STARTUP",
+        "Step-by-step guide to ch",
+        "By Andrew Johnson | May "
+      ]
+    },
+    {
+      "name": "02_Blog",
+      "size": "1440×1405",
+      "nodes": 29,
+      "max_depth": 3,
+      "instances": 15,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "frame×7",
+        "text×7"
+      ],
+      "names": [
+        "Comp/Header",
+        "Featured",
+        "Text",
+        "FEATURED POST",
+        "Step-by-step guide to ch",
+        "By Andrew Johnson | May "
+      ]
+    },
+    {
+      "name": "03_Blog_Post",
+      "size": "1440×1907",
+      "nodes": 42,
+      "max_depth": 5,
+      "instances": 9,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "text×17",
+        "frame×13",
+        "instance×9",
+        "ellipse×3"
+      ],
+      "names": [
+        "Comp/Header",
+        "PostHeader",
+        "TagRow",
+        "Icon_Tag_Startup",
+        "Startup",
+        "Step-by-step guide to ch"
+      ]
+    },
+    {
+      "name": "04_About_Us",
+      "size": "1440×2123",
+      "nodes": 45,
+      "max_depth": 3,
+      "instances": 17,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "text×16",
+        "frame×12"
+      ],
+      "names": [
+        "Comp/Header",
+        "HeroImageWrap",
+        "Photo_Group_Hero",
+        "StatBand",
+        "Comp/StatItem",
+        "Intro"
+      ]
+    },
+    {
+      "name": "05_Category_Business",
+      "size": "1440×849",
+      "nodes": 31,
+      "max_depth": 5,
+      "instances": 16,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "frame×8",
+        "text×7"
+      ],
+      "names": [
+        "Comp/Header",
+        "HeaderBand",
+        "Breadcrumb",
+        "BLOG",
+        "›",
+        "BUSINESS"
+      ]
+    },
+    {
+      "name": "06_Author",
+      "size": "1440×897",
+      "nodes": 16,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×4",
+        "text×3"
+      ],
+      "names": [
+        "Comp/Header",
+        "AuthorIntro",
+        "Avatar_Andrew",
+        "Hey there, I’m Andrew Jo",
+        "Placeholder copy introdu",
+        "SocialRow"
+      ]
+    },
+    {
+      "name": "07_Contact",
+      "size": "1440×809",
+      "nodes": 33,
+      "max_depth": 5,
+      "instances": 7,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "frame×11",
+        "instance×7",
+        "rectangle×1"
+      ],
+      "names": [
+        "Comp/Header",
+        "Intro",
+        "CONTACT US",
+        "Let’s Start a Conversati",
+        "Placeholder copy invitin",
+        "Main"
+      ]
+    },
+    {
+      "name": "08_Privacy_Policy",
+      "size": "1440×873",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 2,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "text×7",
+        "frame×3",
+        "instance×2"
+      ],
+      "names": [
+        "Comp/Header",
+        "HeaderBand",
+        "Privacy Policy",
+        "Last Updated on 27th Jan",
+        "PolicyBody",
+        "Col"
+      ]
+    }
+  ]
+}

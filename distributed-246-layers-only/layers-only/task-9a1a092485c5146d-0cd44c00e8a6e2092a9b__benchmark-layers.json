@@ -1,0 +1,181 @@
+{
+  "board_count": 14,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "375×812",
+      "nodes": 3,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "New Place, New Home!",
+        "Button",
+        "Log in"
+      ]
+    },
+    {
+      "name": "02_Log_In",
+      "size": "375×812",
+      "nodes": 3,
+      "max_depth": 2,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Welcome Back!",
+        "Button",
+        "Log in"
+      ]
+    },
+    {
+      "name": "03_Sign_Up",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "Let’s explore together!"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "Find your place in"
+      ]
+    },
+    {
+      "name": "05_Explore",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "06_Property_Details",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "07_Filter",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "08_Search_Results",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "09_Search_Pin_Selected",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "10_Rent_Booking",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "11_Chat",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "12_Chat_Room",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "13_Saved",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "14_Profile",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    }
+  ]
+}

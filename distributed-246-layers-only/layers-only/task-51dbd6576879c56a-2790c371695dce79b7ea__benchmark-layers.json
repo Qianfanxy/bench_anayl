@@ -1,0 +1,250 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "375×812",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×3",
+        "text×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Stylish Logo",
+        "Fashion & Lifestyle Shop",
+        "Loader"
+      ]
+    },
+    {
+      "name": "02_Onboarding_Choose_Products",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Skip",
+        "Illustration",
+        "Progress · step 1 of 3",
+        "Step 1 of 3"
+      ]
+    },
+    {
+      "name": "03_Onboarding_Make_Payment",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Skip",
+        "Illustration",
+        "Progress · step 2 of 3",
+        "Step 2 of 3"
+      ]
+    },
+    {
+      "name": "04_Onboarding_Get_Your_Order",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Skip",
+        "Illustration",
+        "Progress · step 3 of 3",
+        "Step 3 of 3"
+      ]
+    },
+    {
+      "name": "05_Sign_In",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×6",
+        "frame×3",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Welcome Back!",
+        "Sign in to continue shop",
+        "Field/Username or Email"
+      ]
+    },
+    {
+      "name": "06_Sign_Up",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×5",
+        "frame×3",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Create an account",
+        "Field/Username or Email",
+        "Field/Password"
+      ]
+    },
+    {
+      "name": "07_Forgot_Password",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Forgot password?",
+        "* We will send you a mes",
+        "Field/Email"
+      ]
+    },
+    {
+      "name": "08_Get_Started",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Get_Started_Photo",
+        "Fade",
+        "You want Authentic, here",
+        "Find it here, buy it now"
+      ]
+    },
+    {
+      "name": "09_Home",
+      "size": "375×812",
+      "nodes": 182,
+      "max_depth": 4,
+      "instances": 15,
+      "texts": 78,
+      "images": 8,
+      "types": [
+        "text×78",
+        "frame×73",
+        "instance×15",
+        "rectangle-image×8",
+        "ellipse×4",
+        "rectangle×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Stylish_Logo",
+        "Header",
+        "Ellipse",
+        "Frame"
+      ]
+    },
+    {
+      "name": "10_Product_List",
+      "size": "375×812",
+      "nodes": 101,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 61,
+      "images": 11,
+      "types": [
+        "text×61",
+        "frame×16",
+        "rectangle-image×11",
+        "instance×10",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Stylish_Logo",
+        "Icon_Menu",
+        "Avatar_Illustrated",
+        "SearchBar"
+      ]
+    },
+    {
+      "name": "11_Product_Detail",
+      "size": "375×812",
+      "nodes": 51,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 21,
+      "images": 6,
+      "types": [
+        "text×21",
+        "instance×12",
+        "frame×12",
+        "rectangle-image×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Icon_Cart",
+        "Product Detail",
+        "Rectangle"
+      ]
+    }
+  ]
+}

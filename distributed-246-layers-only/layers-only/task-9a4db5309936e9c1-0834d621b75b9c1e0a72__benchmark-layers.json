@@ -1,0 +1,49 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Work",
+      "size": "1440×1798",
+      "nodes": 10,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "Intro",
+        "Title",
+        "Lead",
+        "Scroll cue (Icon_Arrow_D",
+        "Projects"
+      ]
+    },
+    {
+      "name": "02_About",
+      "size": "1440×1557",
+      "nodes": 15,
+      "max_depth": 4,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×6",
+        "text×3"
+      ],
+      "names": [
+        "Header",
+        "Intro",
+        "Intro row",
+        "Bio",
+        "Title",
+        "Bio 1"
+      ]
+    }
+  ]
+}

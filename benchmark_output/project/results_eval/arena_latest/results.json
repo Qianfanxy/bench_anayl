@@ -1,0 +1,430 @@
+{
+  "sha256": "30326384339cf5f3ad55990a6273b19d9909827605ed3a9a12c2255bc1ec7541",
+  "labels": {
+    "model_claude_fable51_login": "Fable 5.1",
+    "model_claude_opus55_direct": "Opus 5.5（三方A）",
+    "model_de5fc4c9cdb841e8": "gpt-6-astra",
+    "model_gemini_31_pro_cc": "Gemini 3.5 Flash",
+    "model_glm_53_flash_cc": "GLM-5.3 Flash",
+    "model_kimi_k3_cc": "Kimi K3"
+  },
+  "excluded_case": "6case-case-004",
+  "bootstrap_replicates": 4000,
+  "audit": {
+    "duplicates": 2,
+    "conflicting_duplicates": 2,
+    "filtered": 19
+  },
+  "expert_leaderboard": {
+    "tasks": 28,
+    "votes": 499,
+    "reviewers": {
+      "participant-c387d1e86a8b70b0f54324a7": 232,
+      "participant-88da474b00f1bfba176ba284": 267
+    },
+    "valid_bootstrap": 3987,
+    "leaderboard": [
+      {
+        "model": "model_claude_opus55_direct",
+        "elo": 1592.2330211595784,
+        "ci95": [
+          1516.0017008711202,
+          1698.7667919741211
+        ],
+        "wins": 132,
+        "losses": 15,
+        "top_share": 1
+      },
+      {
+        "model": "model_de5fc4c9cdb841e8",
+        "elo": 1314.1470359783596,
+        "ci95": [
+          1249.478529421061,
+          1401.5636123232753
+        ],
+        "wins": 106,
+        "losses": 68,
+        "top_share": 0
+      },
+      {
+        "model": "model_claude_fable51_login",
+        "elo": 1214.3632150409608,
+        "ci95": [
+          1157.7231017778445,
+          1280.4313924093076
+        ],
+        "wins": 92,
+        "losses": 93,
+        "top_share": 0
+      },
+      {
+        "model": "model_glm_53_flash_cc",
+        "elo": 1200.2821297509483,
+        "ci95": [
+          1146.444619124339,
+          1268.0439532619216
+        ],
+        "wins": 89,
+        "losses": 97,
+        "top_share": 0
+      },
+      {
+        "model": "model_kimi_k3_cc",
+        "elo": 1109.4308902251787,
+        "ci95": [
+          1040.7246826969597,
+          1181.284492662945
+        ],
+        "wins": 70,
+        "losses": 106,
+        "top_share": 0
+      },
+      {
+        "model": "model_gemini_31_pro_cc",
+        "elo": 769.5437078449742,
+        "ci95": [
+          525.7781293987155,
+          896.4988747296209
+        ],
+        "wins": 10,
+        "losses": 120,
+        "top_share": 0
+      }
+    ],
+    "adjacent_gaps": [
+      {
+        "higher": "model_claude_opus55_direct",
+        "lower": "model_de5fc4c9cdb841e8",
+        "gap": 278.0859851812188,
+        "ci95": [
+          172.02440750250435,
+          407.86871031072883
+        ]
+      },
+      {
+        "higher": "model_de5fc4c9cdb841e8",
+        "lower": "model_claude_fable51_login",
+        "gap": 99.78382093739879,
+        "ci95": [
+          0.9656047741543716,
+          216.2613784781397
+        ]
+      },
+      {
+        "higher": "model_claude_fable51_login",
+        "lower": "model_glm_53_flash_cc",
+        "gap": 14.081085290012425,
+        "ci95": [
+          -71.19555269706007,
+          97.28443252738339
+        ]
+      },
+      {
+        "higher": "model_glm_53_flash_cc",
+        "lower": "model_kimi_k3_cc",
+        "gap": 90.85123952576964,
+        "ci95": [
+          -0.7431076667576235,
+          199.05171769948697
+        ]
+      },
+      {
+        "higher": "model_kimi_k3_cc",
+        "lower": "model_gemini_31_pro_cc",
+        "gap": 339.88718238020454,
+        "ci95": [
+          188.07597386694192,
+          625.568593081197
+        ]
+      }
+    ]
+  },
+  "all_reviewers_sensitivity": {
+    "tasks": 28,
+    "votes": 503,
+    "reviewers": {
+      "participant-c387d1e86a8b70b0f54324a7": 232,
+      "participant-88da474b00f1bfba176ba284": 267,
+      "participant-2ae3aefa5fa8611dafd244e4": 4
+    },
+    "valid_bootstrap": 3987,
+    "leaderboard": [
+      {
+        "model": "model_claude_opus55_direct",
+        "elo": 1592.4349272748082,
+        "ci95": [
+          1516.4961784795182,
+          1698.7463795835374
+        ],
+        "wins": 132,
+        "losses": 15,
+        "top_share": 1
+      },
+      {
+        "model": "model_de5fc4c9cdb841e8",
+        "elo": 1314.4036817612468,
+        "ci95": [
+          1250.202538657985,
+          1401.5636123232753
+        ],
+        "wins": 106,
+        "losses": 68,
+        "top_share": 0
+      },
+      {
+        "model": "model_claude_fable51_login",
+        "elo": 1216.7343295662881,
+        "ci95": [
+          1158.6738132029664,
+          1283.8349043095654
+        ],
+        "wins": 94,
+        "losses": 93,
+        "top_share": 0
+      },
+      {
+        "model": "model_glm_53_flash_cc",
+        "elo": 1196.3686360930087,
+        "ci95": [
+          1142.67497515608,
+          1263.6327092588153
+        ],
+        "wins": 89,
+        "losses": 99,
+        "top_share": 0
+      },
+      {
+        "model": "model_kimi_k3_cc",
+        "elo": 1112.9887056379778,
+        "ci95": [
+          1043.2150650843087,
+          1186.2936379011794
+        ],
+        "wins": 72,
+        "losses": 106,
+        "top_share": 0
+      },
+      {
+        "model": "model_gemini_31_pro_cc",
+        "elo": 767.0697196666704,
+        "ci95": [
+          522.7871971825115,
+          892.1008198927238
+        ],
+        "wins": 10,
+        "losses": 122,
+        "top_share": 0
+      }
+    ],
+    "adjacent_gaps": [
+      {
+        "higher": "model_claude_opus55_direct",
+        "lower": "model_de5fc4c9cdb841e8",
+        "gap": 278.0312455135613,
+        "ci95": [
+          172.02440750250435,
+          407.8369518125562
+        ]
+      },
+      {
+        "higher": "model_de5fc4c9cdb841e8",
+        "lower": "model_claude_fable51_login",
+        "gap": 97.66935219495872,
+        "ci95": [
+          -1.7569663503975335,
+          215.1458943134328
+        ]
+      },
+      {
+        "higher": "model_claude_fable51_login",
+        "lower": "model_glm_53_flash_cc",
+        "gap": 20.365693473279407,
+        "ci95": [
+          -65.02064135851492,
+          105.68344482744351
+        ]
+      },
+      {
+        "higher": "model_glm_53_flash_cc",
+        "lower": "model_kimi_k3_cc",
+        "gap": 83.37993045503094,
+        "ci95": [
+          -11.322565061143223,
+          194.48964112522935
+        ]
+      },
+      {
+        "higher": "model_kimi_k3_cc",
+        "lower": "model_gemini_31_pro_cc",
+        "gap": 345.9189859713074,
+        "ci95": [
+          193.1401795682002,
+          634.5897320403475
+        ]
+      }
+    ]
+  },
+  "expert_completed_sensitivity": {
+    "tasks": 28,
+    "votes": 480,
+    "reviewers": {
+      "participant-c387d1e86a8b70b0f54324a7": 213,
+      "participant-88da474b00f1bfba176ba284": 267
+    },
+    "valid_bootstrap": 3987,
+    "leaderboard": [
+      {
+        "model": "model_claude_opus55_direct",
+        "elo": 1596.3204334154298,
+        "ci95": [
+          1516.9973479994965,
+          1711.4432235181607
+        ],
+        "wins": 127,
+        "losses": 14,
+        "top_share": 1
+      },
+      {
+        "model": "model_de5fc4c9cdb841e8",
+        "elo": 1305.1534224617628,
+        "ci95": [
+          1241.0858867833676,
+          1392.4121452440402
+        ],
+        "wins": 100,
+        "losses": 67,
+        "top_share": 0
+      },
+      {
+        "model": "model_claude_fable51_login",
+        "elo": 1218.2526910859917,
+        "ci95": [
+          1157.5942192637972,
+          1287.1751919024437
+        ],
+        "wins": 89,
+        "losses": 88,
+        "top_share": 0
+      },
+      {
+        "model": "model_glm_53_flash_cc",
+        "elo": 1202.7222458956246,
+        "ci95": [
+          1146.8977682729899,
+          1272.3835276491327
+        ],
+        "wins": 86,
+        "losses": 91,
+        "top_share": 0
+      },
+      {
+        "model": "model_kimi_k3_cc",
+        "elo": 1106.0773778004886,
+        "ci95": [
+          1036.2018218103642,
+          1178.3656688928143
+        ],
+        "wins": 68,
+        "losses": 103,
+        "top_share": 0
+      },
+      {
+        "model": "model_gemini_31_pro_cc",
+        "elo": 771.4738293407027,
+        "ci95": [
+          524.9106470276231,
+          899.1360073373801
+        ],
+        "wins": 10,
+        "losses": 117,
+        "top_share": 0
+      }
+    ],
+    "adjacent_gaps": [
+      {
+        "higher": "model_claude_opus55_direct",
+        "lower": "model_de5fc4c9cdb841e8",
+        "gap": 291.16701095366693,
+        "ci95": [
+          182.6453505369352,
+          424.3819121808615
+        ]
+      },
+      {
+        "higher": "model_de5fc4c9cdb841e8",
+        "lower": "model_claude_fable51_login",
+        "gap": 86.9007313757711,
+        "ci95": [
+          -13.973254035221089,
+          205.34072701700802
+        ]
+      },
+      {
+        "higher": "model_claude_fable51_login",
+        "lower": "model_glm_53_flash_cc",
+        "gap": 15.530445190367118,
+        "ci95": [
+          -73.76423335736422,
+          103.8522335392679
+        ]
+      },
+      {
+        "higher": "model_glm_53_flash_cc",
+        "lower": "model_kimi_k3_cc",
+        "gap": 96.64486809513596,
+        "ci95": [
+          2.8097305307521765,
+          209.39651618446123
+        ]
+      },
+      {
+        "higher": "model_kimi_k3_cc",
+        "lower": "model_gemini_31_pro_cc",
+        "gap": 334.603548459786,
+        "ci95": [
+          182.76788341008069,
+          619.044808529388
+        ]
+      }
+    ]
+  },
+  "experts": {
+    "R1": {
+      "completed_tasks": 28,
+      "mean_ranks": {
+        "model_claude_fable51_login": 3.2857142857142856,
+        "model_claude_opus55_direct": 1.3928571428571428,
+        "model_de5fc4c9cdb841e8": 2.392857142857143,
+        "model_gemini_31_pro_cc": 5.892857142857143,
+        "model_glm_53_flash_cc": 3.7857142857142856,
+        "model_kimi_k3_cc": 4.25
+      },
+      "rubric_mean_tau": 0.6688309410922161,
+      "rubric_tau_tasks": 28,
+      "rubric_vote_agreement": 207,
+      "rubric_vote_denominator": 256,
+      "rubric_ties": 11
+    },
+    "R2": {
+      "completed_tasks": 21,
+      "mean_ranks": {
+        "model_claude_fable51_login": 3.619047619047619,
+        "model_claude_opus55_direct": 1.2380952380952381,
+        "model_de5fc4c9cdb841e8": 3.3333333333333335,
+        "model_gemini_31_pro_cc": 5.476190476190476,
+        "model_glm_53_flash_cc": 3.142857142857143,
+        "model_kimi_k3_cc": 4.190476190476191
+      },
+      "rubric_mean_tau": 0.6421237895894911,
+      "rubric_tau_tasks": 21,
+      "rubric_vote_agreement": 174,
+      "rubric_vote_denominator": 219,
+      "rubric_ties": 13
+    }
+  },
+  "expert_agreement": {
+    "tasks": 21,
+    "mean_tau": 0.5746031746031746,
+    "same_first": 14
+  }
+}

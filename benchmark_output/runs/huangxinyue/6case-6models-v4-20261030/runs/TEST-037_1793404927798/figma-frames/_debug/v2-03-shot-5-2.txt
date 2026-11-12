@@ -1,0 +1,1 @@
+You've reached the Figma MCP tool call limit for your Full seat on the Enterprise plan. Upgrade your seat or plan for more tool calls. Use the whoami tool for more plan details. Learn more: https://developers.figma.com/docs/figma-mcp-server/rate-limits-access/

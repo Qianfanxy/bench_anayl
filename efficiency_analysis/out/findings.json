@@ -1,0 +1,155 @@
+{
+ "n_total": 420,
+ "n_reliable": 302,
+ "n_wide": 382,
+ "partial_label_total": 70,
+ "partial_label_confirmed_ok": 52,
+ "excluded_vs_kept_token_ratio_within_model": 1.0267975062789567,
+ "reliable_protocol_score": [
+  3.553953887954058,
+  -1.4911088643599002,
+  8.36058057753924
+ ],
+ "reliable_protocol_tokens": [
+  2.4513434870174247,
+  1.91533287366603,
+  3.1008348508906383
+ ],
+ "reliable_protocol_time": [
+  1.9891041334927337,
+  1.5531096926988983,
+  2.5911566620415605
+ ],
+ "reliable_protocol_turns": [
+  1.6911583021576633,
+  1.4373766263428374,
+  2.0125666939441627
+ ],
+ "reliable_protocol_tok_per_turn": [
+  1.4495056340319539,
+  1.2337116530623846,
+  1.6656102688382397
+ ],
+ "reliable_protocol_cost": [
+  2.32231276110979,
+  1.854610083282964,
+  2.9127608995307708
+ ],
+ "wide_protocol_score": [
+  2.8883671391494685,
+  -1.4479107321426643,
+  7.135563200855617
+ ],
+ "wide_protocol_tokens": [
+  2.670957678022515,
+  2.137472056391789,
+  3.3845497129034476
+ ],
+ "wide_protocol_time": [
+  1.9976385787168143,
+  1.6116537717824753,
+  2.47850854669776
+ ],
+ "wide_protocol_turns": [
+  1.6272558721009256,
+  1.3607139054661999,
+  1.9484668981276558
+ ],
+ "wide_protocol_tok_per_turn": [
+  1.6413876414986222,
+  1.452671248363353,
+  1.8560259157081145
+ ],
+ "rank_corr_reliable_vs_wide_tokens": 1.0,
+ "rank_corr_reliable_vs_wide_score": 0.9757575757575758,
+ "max_log2_change_tokens_wide": 0.1893829806052072,
+ "max_score_change_wide": 0.8527006610613483,
+ "token_spread_between_models": 51.07205686014811,
+ "cost_spread_between_models": 134.35499405426052,
+ "rank_change_tokens_to_cost": {
+  "DeepSeek V4 Flash": 7,
+  "Fable 5.1": -2,
+  "GLM-5.3 Flash": 5,
+  "GPT 6.1 Sol": 0,
+  "Gemini 3.5 Flash": -1,
+  "Kimi K3": -1,
+  "Opus 5.5（三方A）": -2,
+  "Qwen 3.8 Max": 0,
+  "Sonnet 5.5": -2,
+  "gpt-6-astra": -4
+ },
+ "output_share_of_cost_median": 0.1873942474028264,
+ "resid_corr_score_tokens": -0.014403862543763024,
+ "between_model_spearman_score_tokens": -0.4545454545454545,
+ "var_share_model_only": 0.7642743416969895,
+ "var_share_problem_only": 0.0892814905739393,
+ "var_share_model_problem_protocol": 0.8401423793179519,
+ "same_problem_max_over_min_median": 18.526487932201206,
+ "same_problem_max_over_min_max": 133.0285322756746,
+ "same_model_max_over_min_median": 5.940238434774711,
+ "model_token_gap_share_from_turns": 0.6204634453641708,
+ "corr_logtokens_logturns_within": 0.9154387488799934,
+ "partial_r_model_errors_vs_score": 0.11889711182928132,
+ "effort_low_vs_notset_tokens": 0.6573889732136775,
+ "effort_low_vs_notset_score": -4.720424309103596,
+ "effort_check_n": 108,
+ "effort_check_models": [
+  "DeepSeek V4 Flash",
+  "Fable 5.1",
+  "GLM-5.3 Flash",
+  "GPT 6.1 Sol",
+  "Gemini 3.5 Flash",
+  "Kimi K3",
+  "Sonnet 5.5"
+ ],
+ "g0_fail_n": 13,
+ "g0_fail_by_model": {
+  "DeepSeek V4 Flash": 3,
+  "Fable 5.1": 1,
+  "GPT 6.1 Sol": 2,
+  "Gemini 3.5 Flash": 7
+ },
+ "g0_fail_token_ratio_vs_pass_within_model_problem": 1.0955990635046917,
+ "behaviour_screenshot_within_r": -0.04250334994649728,
+ "behaviour_screenshot_between_r": 0.028571428571428602,
+ "behaviour_screenshot_share_of_calls_by_model": {
+  "Fable 5.1": 0.395,
+  "GLM-5.3 Flash": 0.269,
+  "Gemini 3.5 Flash": 0.1,
+  "Kimi K3": 0.273,
+  "Opus 5.5（三方A）": 0.352,
+  "gpt-6-astra": 0.326
+ },
+ "behaviour_between_top3": {
+  "Opus 5.5（三方A）": {
+   "read_share": -0.08268719182344969,
+   "revise_share": 0.02598341514194448,
+   "reads_per_write": -0.3185864834671817,
+   "error_rate": -0.08239748594241246
+  },
+  "Sonnet 5.5": {
+   "read_share": -0.039366778560745164,
+   "revise_share": 0.009041903822059806,
+   "reads_per_write": -0.17291065883845347,
+   "error_rate": 0.03815011763156981
+  },
+  "gpt-6-astra": {
+   "read_share": 0.04143887641387223,
+   "revise_share": -0.04436584821415401,
+   "reads_per_write": 0.35050272765528157,
+   "error_rate": 0.00015514721571452394
+  },
+  "DeepSeek V4 Flash": {
+   "read_share": 0.030370392495357224,
+   "revise_share": 0.0024494122751564443,
+   "reads_per_write": 0.2320443570048798,
+   "error_rate": -0.039042491825182574
+  },
+  "Gemini 3.5 Flash": {
+   "read_share": 0.11904459123674588,
+   "revise_share": -0.05028570510052609,
+   "reads_per_write": 0.2624288000140359,
+   "error_rate": -0.0057288480701400135
+  }
+ }
+}

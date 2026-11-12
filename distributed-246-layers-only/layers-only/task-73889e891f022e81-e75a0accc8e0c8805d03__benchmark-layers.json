@@ -1,0 +1,28 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1920×5536",
+      "nodes": 66,
+      "max_depth": 3,
+      "instances": 51,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×51",
+        "frame×11",
+        "rectangle×2",
+        "text×2"
+      ],
+      "names": [
+        "FW/Header",
+        "Section · Hero",
+        "Photo_Hero_Background",
+        "Rectangle",
+        "Are you starving?",
+        "Within a few clicks, fin"
+      ]
+    }
+  ]
+}

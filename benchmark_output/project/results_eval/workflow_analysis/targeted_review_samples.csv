@@ -1,0 +1,254 @@
+﻿case_id,title,model,run_id,source,source_path,message_index,call_index,tool_call_id,tool,mutation,description,labels,primary,subtypes,success,error,review_required,rule_evidence,final_screen_name,result_message_index,code_excerpt,error_excerpt,review_scope
+10case-case-001,Investment Wallet,Opus,run_faaad7f52dc04e96,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-011_1793475081301/task-000001/run.log,7,3,toolu_bdrk_01TpZbwAxXaH4bmNZDE1ERAo,mcp__figma__use_figma,False,"Inspect components, media, workspace",P,P,within_three_calls_after_error,True,False,False,resource/system inspection intent; explicit resource/system/helper preparation intent,,8.0,"const out=[];
+for (const id of ['1:3','1:4','4:2']) {
+ const p = await figma.getNodeByIdAsync(id);
+ await figma.setCurrentPageAsync(p);
+ out.push('=== '+p.name);
+ const walk=(n,d)=>{ let s='  '.repeat(d)+n.type+' '+n.name+' ['+n.id+'] '+Math.round(n.x||0)+','+Math.round(n.y||0)+' '+Math.round(n.width||0)+'x'+Math.round(n.height||0);
+  if(n.type==='TEXT') s+=' :: '+n.characters.slice(0,80)+' font:'+JSON.stringify(n.fontName);
+  if(n.componentPropertyDefinitions) s+=' props:'+JSON.stringify(n.componentPropertyDefinitions);
+  if(n.fills && n.fills.length && n.fills[0].type) s+=' fill:'+n.fills[0].type;
+  out.push(s); if(n.children && d<4 && n.ty",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Opus,run_faaad7f52dc04e96,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-011_1793475081301/task-000001/run.log,61,24,toolu_bdrk_015ZiQsx982pmh55t4Qv8rG5,mcp__figma__use_figma,True,Build 01_Wallet screen,C,C,explicit_page_context,True,False,False,UI construction/modification code,,62.0,"const ws=await figma.getNodeByIdAsync('4:2'); await figma.setCurrentPageAsync(ws);
+for(const s of ['Regular','Medium','SemiBold','Bold','ExtraBold']) await figma.loadFontAsync({family:'Nunito',style:s});
+const V={}; for(const v of await figma.variables.getLocalVariablesAsync()) V[v.name]=v;
+const S={}; for(const s of await figma.getLocalTextStylesAsync()) S[s.name]=s;
+const P=(n,o)=>figma.variables.setBoundVariableForPaint({type:'SOLID',color:{r:0,g:0,b:0},opacity:o??1},'color',V[n]);
+async function T(chars,style,color='text/primary',name){const t=figma.createText(); t.fontName=S[style].fontName; await t.setTextStyleIdAsync(S[style].id); t.ch",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Opus,run_faaad7f52dc04e96,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-011_1793475081301/task-000001/run.log,111,43,toolu_bdrk_01BdAdLeVJQCTVLvxLB4VFog,mcp__figma__use_figma,True,Wire prototype interactions and pressed states,I,I,prototype_write;explicit_page_context,True,False,False,prototype/scroll/state property write,,112.0,"const ws=await figma.getNodeByIdAsync('4:2'); await figma.setCurrentPageAsync(ws);
+const W=await figma.getNodeByIdAsync('13:55'), D=await figma.getNodeByIdAsync('16:143'), St=await figma.getNodeByIdAsync('19:317'), Am=await figma.getNodeByIdAsync('21:580'), Su=await figma.getNodeByIdAsync('22:794');
+const ease={type:'EASE_OUT'};
+const nav=(dest,tr)=>({type:'NODE',destinationId:dest.id,navigation:'NAVIGATE',transition:tr,preserveScrollPosition:false});
+const slide=(dir)=>({type:'SLIDE_IN',direction:dir,matchLayers:false,easing:ease,duration:0.35});
+const moveIn=(dir)=>({type:'MOVE_IN',direction:dir,matchLayers:false,easing:ease,duration:0.35})",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Opus,run_faaad7f52dc04e96,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-011_1793475081301/task-000001/run.log,64,25,toolu_bdrk_01PFmh53vz2pV6i4Vr82gmU2,mcp__figma__get_screenshot,False,,V,V,visual_final_screen,True,False,False,screenshot targets final named screen,01_Wallet,65.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Opus,run_57a6d3be87d74a86,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-011_1793560297003/task-000001/run.log,8,3,toolu_bdrk_01DVwXsC6MiufqT71u7XSGr9,mcp__figma__use_figma,False,"Read Foundations, Components, Workspace",O;P,P,within_three_calls_after_error,True,False,True,brief/constraint inspection intent; resource/system inspection intent; explicit resource/system/helper preparation intent,,9.0,"const out=[]; function walk(n,d){ out.push(' '.repeat(d)+n.type+' '+n.id+' '+n.name+' '+Math.round(n.width)+'x'+Math.round(n.height)+(n.type==='TEXT'?' :: '+n.characters.slice(0,300):'')); if('children' in n && d<5) n.children.forEach(c=>walk(c,d+1)); }
+for (const id of ['1:2','1:3','15:2']) { const p=figma.root.children.find(p=>p.id===id); await figma.setCurrentPageAsync(p); out.push('PAGE '+p.name); p.children.forEach(c=>walk(c,0)); }
+return out.join('\n');",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Opus,run_57a6d3be87d74a86,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-011_1793560297003/task-000001/run.log,43,16,toolu_bdrk_01DwARs7Ac2F7Y7xB95GAz5N,mcp__figma__use_figma,True,Make form fields resizable,C,C,deletion_or_cleanup;explicit_page_context,True,False,False,UI construction/modification code,,44.0,"const N=async id=>await figma.getNodeByIdAsync(id);
+const ws=figma.root.children.find(p=>p.id==='15:2'); await figma.setCurrentPageAsync(ws);
+const set=await N('19:113'); const out=[];
+const inp=await N('1:28'); out.push('input sizing '+inp.layoutSizingHorizontal);
+for(const v of set.children){ v.counterAxisSizingMode='FIXED'; const tf=v.findOne(n=>n.name==='Text Field'); tf.layoutSizingHorizontal='FILL'; const i=tf.findOne(n=>n.name==='Input'); try{ i.layoutSizingHorizontal='FILL'; }catch(e){out.push('err '+e.message);} const ch=v.findOne(n=>n.type==='INSTANCE'&&n.name==='Icon_Chevron_Down'); if(ch) ch.constraints={horizontal:'MAX',vertical:",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Opus,run_57a6d3be87d74a86,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-011_1793560297003/task-000001/run.log,144,53,toolu_bdrk_016nW6eGv8mYk9nxZtyCJpv6,mcp__figma__use_figma,True,Wire prototype interactions,I,I,prototype_write;explicit_page_context;within_three_calls_after_error,True,False,False,prototype/scroll/state property write,,145.0,"const ws=figma.root.children.find(p=>p.id==='15:2'); await figma.setCurrentPageAsync(ws);
+const N=async id=>await figma.getNodeByIdAsync(id);
+const D={home:'23:89',shop:'24:236',product:'25:489',drawer:'26:610',compare:'27:759',cart:'29:1036',checkout:'31:1100',contact:'33:1263',blog:'33:1408'};
+const log=[];
+async function link(node,dest,label){ if(!node){log.push('MISSING '+label);return;} await node.setReactionsAsync([{trigger:{type:'ON_CLICK'},actions:[{type:'NODE',destinationId:D[dest],navigation:'NAVIGATE',transition:{type:'DISSOLVE',duration:0.25,easing:{type:'EASE_OUT'}},preserveScrollPosition:false,resetScrollPosition:true}]}]); log.",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Opus,run_57a6d3be87d74a86,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-011_1793560297003/task-000001/run.log,52,19,toolu_bdrk_0135UCvJ9qbp5SfzUVLNz53n,mcp__figma__get_screenshot,False,,V,V,visual_other_scope,True,False,True,"post-construction screenshot, target scope unresolved",,53.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,GPT,run_da587171cd264fc2,trajectory,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun2-gpt/runs/TEST-011_1793603177004/task-000001/trajectory.jsonl,6,2,call_s2v3523TwlbJd8YiPjTqWmFz,mcp__figma__use_figma,False,"Read task, visual foundations, components, and media without edits",O;P,P,within_three_calls_after_error,True,False,True,brief/constraint inspection intent; resource/system inspection intent; explicit resource/system/helper preparation intent,,7.0,"const out=[]; for(const id of ['0:1','1:2','1:3','1:4','4:2']){const p=await figma.getNodeByIdAsync(id); out.push({id,name:p.name,children:p.children.map(n=>({id:n.id,name:n.name,type:n.type,width:n.width,height:n.height})),texts:p.findAll(n=>n.type==='TEXT').map(n=>({id:n.id,text:n.characters,font:n.fontName,size:n.fontSize})),components:p.findAll(n=>n.type==='COMPONENT').map(n=>({id:n.id,name:n.name,width:n.width,height:n.height}))});}return out;",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,GPT,run_da587171cd264fc2,trajectory,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun2-gpt/runs/TEST-011_1793603177004/task-000001/trajectory.jsonl,8,3,call_q3vVIkkNa8DnufvSmlLymqGu,mcp__figma__use_figma,True,Build five complete wallet screens and reusable workspace components,P;C;I,C,scroll_property_write;explicit_page_context;within_three_calls_after_error,True,False,True,component/token/style preparation code or intent; UI construction/modification code; prototype/scroll/state property write,,9.0,"const page=await figma.getNodeByIdAsync('4:2');await figma.setCurrentPageAsync(page);for(const style of ['Regular','SemiBold','Bold','ExtraBold'])await figma.loadFontAsync({family:'Nunito',style});
+const C={ink:'#2B2D33',muted:'#787D89',bg:'#F6F7F9',line:'#E8EAEE',green:'#248367',red:'#BE5961',mint:'#E8F4ED',purple:'#EDE9FA',white:'#FFFFFF'};const rgb=h=>({r:parseInt(h.slice(1,3),16)/255,g:parseInt(h.slice(3,5),16)/255,b:parseInt(h.slice(5,7),16)/255});const fill=h=>[{type:'SOLID',color:rgb(h)}];
+function box(p,name,x,y,w,h,color=C.white,r=0,comp=false){let n=comp?figma.createComponent():figma.createFrame();n.name=name;n.resize(w,h);n.x=x;n.y",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,GPT,run_da587171cd264fc2,trajectory,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun2-gpt/runs/TEST-011_1793603177004/task-000001/trajectory.jsonl,10,4,call_deFlDUXrKKjQ6Xvxxd6husg2,mcp__figma__use_figma,True,Wire prototype navigation and investment flow,I,I,prototype_write,True,False,False,prototype/scroll/state property write,,11.0,"const ids=['6:3','6:153','6:435','6:626','6:765'];const [w,d,s,a,c]=await Promise.all(ids.map(id=>figma.getNodeByIdAsync(id)));async function link(node,dest,trigger={type:'ON_CLICK'}){await node.setReactionsAsync([{trigger,actions:[{type:'NODE',destinationId:dest.id,navigation:'NAVIGATE',transition:{type:'DISSOLVE',duration:.25,easing:{type:'EASE_OUT'}},preserveScrollPosition:false}]}]);}await link(w.findOne(n=>n.name==='Page indicator'),d);await link(d.findOne(n=>n.name==='Page indicator'),w);await link(d.findOne(n=>n.name==='Open Aggressive Growth'),s);await link(s.findOne(n=>n.name==='Dismiss'),d);await link(s.findOne(n=>n.name==='Invest')",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,GPT,run_da587171cd264fc2,trajectory,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun2-gpt/runs/TEST-011_1793603177004/task-000001/trajectory.jsonl,12,5,call_zTWoPHjCr2AKSdSizSdFvw7c,mcp__figma__get_screenshot,False,,V,V,visual_final_screen,True,False,False,screenshot targets final named screen,01_Wallet,13.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,GPT,run_c4b412d600b649bc,trajectory,/mnt/afs_design/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-011_1793561065637/task-000001/trajectory.jsonl,10,4,call_IBxqanSaTcQqVxPCXBGDDw1N,mcp__figma__use_figma,False,Inspect reusable source components and asset identifiers,P,P,within_three_calls_after_error,True,False,False,resource/system inspection intent; explicit resource/system/helper preparation intent,,11.0,"const out=[];for(const id of ['1:3','1:4','15:2']){const p=await figma.getNodeByIdAsync(id);await figma.setCurrentPageAsync(p);out.push({id,children:p.children.map(n=>({id:n.id,name:n.name,type:n.type,w:n.width,h:n.height})),assets:p.findAll(n=>n.type==='COMPONENT'||(n.name.startsWith('Photo_')||n.name.startsWith('Icon_')||n.name.startsWith('Logo_'))).map(n=>({id:n.id,name:n.name,type:n.type,w:n.width,h:n.height})),texts:id==='1:3'?p.findAll(n=>n.type==='TEXT').map(n=>({id:n.id,text:n.characters,font:n.fontName})):[]});}return out;",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,GPT,run_c4b412d600b649bc,trajectory,/mnt/afs_design/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-011_1793561065637/task-000001/trajectory.jsonl,56,27,call_jWn9CFKaTisRZBNwultGD2lk,mcp__figma__use_figma,True,Create persistent UI library frame,C,C,explicit_page_context;within_three_calls_after_error,True,False,False,UI construction/modification code,,57.0,"const p=await figma.getNodeByIdAsync('1:3');await figma.setCurrentPageAsync(p);const f=figma.createFrame();p.appendChild(f);f.name='Furniro · UI system';f.x=-1800;f.resize(1440,9000);f.clipsContent=false;return p.children.map(n=>({id:n.id,name:n.name,type:n.type}));",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,GPT,run_c4b412d600b649bc,trajectory,/mnt/afs_design/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-011_1793561065637/task-000001/trajectory.jsonl,103,54,call_FUFKN3rT7QbRBNbBGWb1bamv,mcp__figma__use_figma,True,Wire drawer and inspect remaining prototype limitations,I,I,prototype_write;within_three_calls_after_error,True,False,False,prototype/scroll/state property write,,104.0,"const links=[['19:252','21:296'],['21:380','19:35'],['21:381','19:44'],['21:382','19:26'],['21:383','19:17']];const out=[];for(const [a,b]of links){try{await(await figma.getNodeByIdAsync(a)).setReactionsAsync([{trigger:{type:'ON_CLICK'},actions:[{type:'NODE',destinationId:b,navigation:'NAVIGATE',transition:null,resetScrollPosition:true}]}]);out.push(a+' OK');}catch(e){out.push(a+' '+e.message);}}const p=await figma.getNodeByIdAsync('15:2');return {out,screens:p.children.filter(n=>/^\d\d_/.test(n.name)).map(n=>({id:n.id,name:n.name})),reactions:p.findAll(n=>'reactions'in n&&n.reactions.length).length};",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,GPT,run_c4b412d600b649bc,trajectory,/mnt/afs_design/huangxinyue/bench-runs/web10-gpt-v4-20261102/runs/TEST-011_1793561065637/task-000001/trajectory.jsonl,58,28,call_g2HTHWvuDSRN2zcegv7GfKh1,mcp__figma__use_figma,False,Verify page identity and relocate new nodes to workspace,V,V,structural_readback;within_three_calls_after_error,True,False,False,post-build structural/readback inspection,,59.0,"const pages=figma.root.children.map(p=>({id:p.id,name:p.name,children:p.children.map(n=>({id:n.id,name:n.name,type:n.type}))}));return pages;",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Fable,run_11935fb843f1499f,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-021_1793475096552/task-000001/run.log,9,4,toolu_01nEP6omOo0JcFLPjgOmF41n,mcp__figma__get_metadata,False,,P,P,,True,False,False,reference resource structure,,14.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Fable,run_11935fb843f1499f,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-021_1793475096552/task-000001/run.log,81,26,toolu_01EJM9GZTQXNhHHbOPK1TJtY,mcp__figma__use_figma,True,Rebuild 01_Wallet with nav page dots drawn as siblings and coin logos as sibling overlays,C;I,C,scroll_property_write;deletion_or_cleanup;explicit_page_context;declared_revision;within_three_calls_after_error,True,False,True,UI construction/modification code; prototype/scroll/state property write,,82.0,"const page = figma.root.children.find(p => p.id === '4:2');
+await figma.setCurrentPageAsync(page);
+const F = { R:['Nunito','Regular'], M:['Nunito','Medium'], SB:['Nunito','SemiBold'], B:['Nunito','Bold'], XB:['Nunito','ExtraBold'] };
+for (const [f,s] of Object.values(F)) await figma.loadFontAsync({ family:f, style:s });
+const ps = {}; for (const s of await figma.getLocalPaintStylesAsync()) ps[s.name]=s.paints;
+const paint = n => (ps[n]||[]).map(p=>({...p}));
+const es = {}; for (const s of await figma.getLocalEffectStylesAsync()) es[s.name]=s.effects;
+const frame=(name,w,h,fill,r=0)=>{const n=figma.createFrame();n.name=name;n.resize(w,h);n.fil",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Fable,run_11935fb843f1499f,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-021_1793475096552/task-000001/run.log,155,53,toolu_01em3sUWVjhp1jQdMsmqYKkH,mcp__figma__use_figma,True,"Re-apply the 03 projection rate caption fix and wire all prototype click links, returning only a link count to stay under the response size limit",I,I,prototype_write;explicit_page_context;declared_revision;within_three_calls_after_error,True,False,False,prototype/scroll/state property write,,157.0,"const page = figma.root.children.find(p => p.id === '4:2');
+await figma.setCurrentPageAsync(page);
+for (const s of ['Regular','Medium','SemiBold','Bold','ExtraBold']) await figma.loadFontAsync({ family:'Nunito', style:s });
+
+const g = n => page.findOne(x => x.name === n);
+const S = { wallet:g('01_Wallet'), discovery:g('02_Discovery'), strategy:g('03_Strategy'), amount:g('04_Invest_Amount'), success:g('05_Invest_Success') };
+const dest = { wallet:S.wallet.id, discovery:S.discovery.id, strategy:S.strategy.id, amount:S.amount.id, success:S.success.id };
+
+// 03: rate caption inside the projection card, top right
+const proj = S.strategy.findOne(n ",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Fable,run_11935fb843f1499f,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-021_1793475096552/task-000001/run.log,87,28,toolu_014kDRWrTKjCGvxirfFyaSv5,mcp__figma__get_screenshot,False,,V,V,visual_other_scope,True,False,True,"post-construction screenshot, target scope unresolved",,89.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Fable,run_84786a8e7e7c419d,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-021_1793560317918/task-000001/run.log,11,4,toolu_01vIw6p2gOXuc5ptrSFynFjn,mcp__figma__get_metadata,False,,P,P,,True,False,False,reference resource structure,,15.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Fable,run_84786a8e7e7c419d,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-021_1793560317918/task-000001/run.log,70,21,toolu_01MSUUnmhKBIllNsEpu7QEPy,mcp__figma__use_figma,True,Rebuild feature strip rows and fix old price width,C,C,deletion_or_cleanup;explicit_page_context;declared_revision;within_three_calls_after_error,True,False,False,UI construction/modification code,,71.0,"const page = figma.root.children.find(p=>p.id==='15:2');
+await figma.setCurrentPageAsync(page);
+for (const s of ['Regular','Medium','SemiBold']) await figma.loadFontAsync({family:'Poppins',style:s});
+const hex=h=>{h=h.replace('#','');return{r:parseInt(h.slice(0,2),16)/255,g:parseInt(h.slice(2,4),16)/255,b:parseInt(h.slice(4,6),16)/255};};
+const solid=h=>({type:'SOLID',color:hex(h)});
+const lib=page.findOne(n=>n.name==='Furniro · Component Library');
+const ink='#1A1A1F';
+function tint(n,col){ n.fills=[]; const deep=(x)=>{ if('fills' in x && x.fills && ['VECTOR','ELLIPSE','RECTANGLE','POLYGON','BOOLEAN_OPERATION'].includes(x.type)) x.fills=[sol",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Fable,run_84786a8e7e7c419d,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-021_1793560317918/task-000001/run.log,75,23,toolu_01bnuaW8xUnHNZJeMYJSEjH8,mcp__figma__get_screenshot,False,,V,V,visual_other_scope;within_three_calls_after_error,True,False,True,"post-construction screenshot, target scope unresolved",,78.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,GLM,run_1fb39c6dccf24c22,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-031_1793475112912/task-000001/run.log,13,4,call_bffaba977a3545309092b9cf,mcp__figma__get_metadata,False,,P,P,,True,False,False,reference resource structure,,17.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,GLM,run_1fb39c6dccf24c22,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-031_1793475112912/task-000001/run.log,70,21,call_2addd805b4ff4c46a3e0d8f0,mcp__figma__use_figma,True,"Rebuild Header/Search, create Receive/SheetHeader/Hold components; diagnose swapComponent; build 01_Wallet frame with all instances",P;C,C,deletion_or_cleanup;explicit_page_context;declared_revision,True,False,True,component/token/style preparation code or intent; UI construction/modification code,,71.0,"(async () => {
+  try {
+    const page = await figma.getNodeByIdAsync(""4:2"");
+    await figma.setCurrentPageAsync(page);
+    for (const s of [""Regular"",""Medium"",""SemiBold"",""Bold"",""ExtraBold""]) await figma.loadFontAsync({family:""Nunito"",style:s});
+    const solid=(hex,o=1)=>{const h=hex.replace('#','');return{type:'SOLID',color:{r:parseInt(h.slice(0,2),16)/255,g:parseInt(h.slice(2,4),16)/255,b:parseInt(h.slice(4,6),16)/255},opacity:o};};
+    const brand='#2B2D33', ink2='#70767F', ink3='#9AA1AB', gain='#149E53', gainBg='#E2F5EA', white='#FFFFFF', bg='#F2F3F7';
+    const ids={};
+    // diagnostic: swapComponent probe
+    let swapDiag='none';
+    ",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,GLM,run_1fb39c6dccf24c22,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-031_1793475112912/task-000001/run.log,135,38,call_1947a5b56f894afcad6de6d5,mcp__figma__use_figma,True,"Remove orphan hotspots from failed attempt, then wire all prototype reactions with corrected schema (ON_CLICK/ON_DRAG, MOVE_IN/PUSH/SLIDE_IN with easing)",I,I,prototype_write;deletion_or_cleanup;explicit_page_context;declared_revision,True,False,False,prototype/scroll/state property write,,136.0,"const page = await figma.getNodeByIdAsync(""4:2"");
+await figma.setCurrentPageAsync(page);
+const res={removed:[]};
+for(const fid of [""7:52"",""9:137"",""10:267"",""10:299"",""10:331""]){
+  const f=await figma.getNodeByIdAsync(fid);
+  for(const h of f.findAll(n=>n.name && n.name.indexOf('hotspot_')===0)){res.removed.push(fid+':'+h.name);h.remove();}
+}
+const TR_UP={type:'MOVE_IN',direction:'BOTTOM',duration:250,easing:{type:'EASE_OUT'}};
+const TR_BACK={type:'SLIDE_IN',direction:'BOTTOM',duration:250,easing:{type:'EASE_OUT'}};
+const TR_L={type:'PUSH',direction:'LEFT',duration:250,easing:{type:'EASE_OUT'}};
+const TR_R={type:'PUSH',direction:'RIGHT',duration",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,GLM,run_1fb39c6dccf24c22,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-031_1793475112912/task-000001/run.log,86,26,call_fcf4cd4786b3417da7ceae22,mcp__figma__get_metadata,False,,V,V,,True,False,False,read final screen metadata,01_Wallet,87.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,GLM,run_179b2c3274874e3d,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-031_1793560335630/task-000001/run.log,14,4,call_e0d05fab2c144588b2fb510a,mcp__figma__get_metadata,False,,P,P,,True,False,False,reference resource structure,,16.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,GLM,run_179b2c3274874e3d,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-031_1793560335630/task-000001/run.log,51,14,call_11ed503e7f134548bf7333dc,mcp__figma__use_figma,True,"Validate NODE actions with easing included; test NAVIGATE, OVERLAY and BACK",C;I,C,prototype_write;mixed_write_and_inspection;deletion_or_cleanup,True,False,True,UI construction/modification code; prototype/scroll/state property write,,52.0,"const ws = await figma.getNodeByIdAsync(""15:2"");
+const dest = figma.createFrame(); dest.name=""__tmp_dest""; dest.resize(100,100); ws.appendChild(dest); dest.x=5000; dest.y=0; dest.fills=[];
+const src = figma.createFrame(); src.name=""__tmp_src""; src.resize(100,100); ws.appendChild(src); src.x=5000; src.y=200; src.fills=[];
+const out = {};
+const tries = [
+ [""1_nav_easeInOut"", {trigger:{type:""ON_CLICK""}, action:{type:""NODE"", destinationId:dest.id, navigation:""NAVIGATE"", transition:{type:""DISSOLVE"", duration:0.3, easing:{type:""EASE_IN_OUT""}}}}],
+ [""2_nav_linear"", {trigger:{type:""ON_CLICK""}, action:{type:""NODE"", destinationId:dest.id, navigation:""N",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,GLM,run_179b2c3274874e3d,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-031_1793560335630/task-000001/run.log,42,12,call_933dbc89c517407d95330d11,mcp__figma__use_figma,True,"Test corrected reactions shape; build FeatureStrip, PageBanner, ProductCard, Hover card, Pagination, BlogPostCard masters",P;I,I,prototype_write;deletion_or_cleanup;declared_revision;within_three_calls_after_error,True,False,True,component/token/style preparation code or intent; prototype/scroll/state property write,,43.0,"for (const s of [""Regular"",""Medium"",""SemiBold"",""Bold""]) await figma.loadFontAsync({family:""Poppins"",style:s});
+const out = {};
+function hex(h,o){const n=parseInt(h,16);return {type:""SOLID"",color:{r:((n>>16)&255)/255,g:((n>>8)&255)/255,b:(n&255)/255},opacity:o===undefined?1:o};}
+function txt(chars,style,size,colorHex,opts={}){const t=figma.createText();t.fontName={family:""Poppins"",style};t.characters=chars;t.fontSize=size;t.fills=[hex(colorHex)];if(opts.ls!==undefined)t.letterSpacing={unit:""PIXELS"",value:opts.ls};if(opts.lh)t.lineHeight={unit:""PIXELS"",value:opts.lh};if(opts.deco)t.textDecoration=opts.deco;if(opts.w){t.textAutoResize=""HEIGHT"";t",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,GLM,run_179b2c3274874e3d,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-031_1793560335630/task-000001/run.log,79,21,call_e4c61c3c072147808650eed0,mcp__figma__use_figma,False,Dump ProductCard and Hover master subtrees to check Badge presence,V,V,structural_readback;within_three_calls_after_error,True,False,False,post-build structural/readback inspection,,80.0,"const m = await figma.getNodeByIdAsync(""20:39"");
+function dump(n, d){ let s = ""  "".repeat(d) + n.type + "" '"" + n.name + ""' vis="" + n.visible + (n.type===""TEXT"" ? "" = "" + JSON.stringify(n.characters.slice(0,25)) : """") + ""\n"";
+  if (""children"" in n && d < 4) for (const c of n.children) s += dump(c, d+1); return s; }
+let tree = dump(m, 0);
+const mh = await figma.getNodeByIdAsync(""20:50"");
+tree += ""---- Hover master ----\n"" + dump(mh, 0);
+return tree.slice(0, 3500);",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Kimi,run_a2f914efccfb4f67,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun3-kimi/runs/TEST-011_1793689356234/task-000001/run.log,13,4,mcp__figma__get_metadata_1_fabcf704,mcp__figma__get_metadata,False,,P,P,,True,False,False,reference resource structure,,15.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Kimi,run_a2f914efccfb4f67,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun3-kimi/runs/TEST-011_1793689356234/task-000001/run.log,26,9,mcp__figma__use_figma_0_4369148b,mcp__figma__use_figma,True,"Set up workspace helpers and build 01_Wallet screen (in-progress, pockets layout needs fixing)",C,C,deletion_or_cleanup;explicit_page_context,True,False,False,UI construction/modification code,,27.0,"
+// === STEP 1: setup + build 01_Wallet ===
+const page = await figma.getNodeByIdAsync('4:2');
+await figma.setCurrentPageAsync(page);
+
+const fonts = [['Nunito','Regular'],['Nunito','Medium'],['Nunito','SemiBold'],['Nunito','Bold'],['Nunito','ExtraBold']];
+for (const [family, style] of fonts) await figma.loadFontAsync({family, style});
+
+const BRAND = {r:0.1686,g:0.1765,b:0.2};
+const TEXT = {r:0.169,g:0.176,b:0.2};
+const SUB = {r:0.57,g:0.58,b:0.65};
+const FAINT = {r:0.62,g:0.63,b:0.7};
+const GAIN = {r:0.18,g:0.71,b:0.44};
+const LOSS = {r:0.95,g:0.35,b:0.28};
+const CARD = {r:0.96,g:0.965,b:0.975};
+const WHITE = {r:1,g:1,b:1};
+const LINE = {r:0.9",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Kimi,run_a2f914efccfb4f67,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun3-kimi/runs/TEST-011_1793689356234/task-000001/run.log,85,31,mcp__figma__use_figma_0_d511a263,mcp__figma__use_figma,True,Wire prototype reactions (actions array format),I,I,prototype_write;within_three_calls_after_error,True,False,False,prototype/scroll/state property write,,86.0,"
+const page = await figma.getNodeByIdAsync('4:2');
+const frames = {
+  w: page.children.find(n=>n.name==='01_Wallet'),
+  d: page.children.find(n=>n.name==='02_Discovery'),
+  s: page.children.find(n=>n.name==='03_Strategy'),
+  a: page.children.find(n=>n.name==='04_Invest_Amount'),
+  ok: page.children.find(n=>n.name==='05_Invest_Success')
+};
+const report=[];
+function addReaction(node, dest, note){
+  if(!node){report.push('MISSING: '+note); return;}
+  node.reactions=[{actions:[{type:'NODE',destinationId:dest.id,navigation:'NAVIGATE',transition:{type:'SMART_ANIMATE',easing:{type:'EASE_OUT'},duration:0.35},preserveScrollPosition:false}],trigger:{ty",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Kimi,run_a2f914efccfb4f67,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun3-kimi/runs/TEST-011_1793689356234/task-000001/run.log,32,11,mcp__figma__get_screenshot_0_d7c016b1,mcp__figma__get_screenshot,False,,V,V,visual_final_screen,True,False,False,screenshot targets final named screen,01_Wallet,33.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Kimi,run_faf3f3377dcd4a50,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-041_1793560355173/task-000001/run.log,14,4,mcp__figma__get_metadata_4_4f87eeaf,mcp__figma__get_metadata,False,,P,P,,True,False,False,reference resource structure,,16.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Kimi,run_faf3f3377dcd4a50,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-041_1793560355173/task-000001/run.log,50,15,mcp__figma__use_figma_15_e5cc3c0c,mcp__figma__use_figma,True,Build 01_Home with detached card instances so photos/text/badges can be customized per product,C,C,deletion_or_cleanup;explicit_page_context;within_three_calls_after_error,True,False,False,UI construction/modification code,,51.0,"
+const WS = await figma.getNodeByIdAsync('15:2');
+await figma.setCurrentPageAsync(WS);
+for (const n of [...WS.children]) if (n.name==='01_Home') n.remove();
+const hex = h => { const n=parseInt(h,16); return {r:((n>>16)&255)/255, g:((n>>8)&255)/255, b:(n&255)/255}; };
+const sol = h => ({type:'SOLID', color:hex(h)});
+const C = {gold:'B88E2F', ink:'000000', text:'3A3A3A', muted:'9F9F9F', light:'F4F5F7', red:'E97171', green:'2EC1AC', white:'FFFFFF', dark:'3A3A3A', gray:'616161'};
+const F = {reg:{family:'Poppins',style:'Regular'}, med:{family:'Poppins',style:'Medium'}, sb:{family:'Poppins',style:'SemiBold'}, bold:{family:'Poppins',style:'Bold'}};
+",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Kimi,run_faf3f3377dcd4a50,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-041_1793560355173/task-000001/run.log,126,40,mcp__figma__use_figma_40_ee74a5d4,mcp__figma__use_figma,True,Probe whether a top-level COMPONENT or a nested frame can be a reaction source,P;I,I,prototype_write;within_three_calls_after_error,True,False,True,prototype/scroll/state property write; explicit resource/system/helper preparation intent,,127.0,"
+const cardComp=await figma.getNodeByIdAsync('18:85');
+const prods=await figma.getNodeByIdAsync('24:157');
+let r1='skip', r2='skip';
+try { cardComp.reactions=[{trigger:{type:'ON_CLICK'},actions:[{type:'NODE',destinationId:'24:157',navigation:'NAVIGATE',transition:null}]}]; r1='card-ok'; } catch(e){ r1='card-fail:'+String(e).slice(0,80); }
+const grid=prods.findOne(n=>n.name==='RelatedGrid');
+try { grid.reactions=[{trigger:{type:'ON_CLICK'},actions:[{type:'NODE',destinationId:'22:16',navigation:'NAVIGATE',transition:null}]}]; r2='grid-ok'; } catch(e){ r2='grid-fail:'+String(e).slice(0,80); }
+return {r1,r2};
+",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Kimi,run_faf3f3377dcd4a50,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-041_1793560355173/task-000001/run.log,56,17,mcp__figma__get_screenshot_17_c9a7db91,mcp__figma__get_screenshot,False,,V,V,visual_final_screen;within_three_calls_after_error,True,False,False,screenshot targets final named screen,01_Home,57.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Gemini,run_70ef8ee82cfa4041,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun1-gemini/runs/TEST-011_1793528531943/task-000001/run.log,8,4,call_af04e7cfc7f043a88ae89d22a2c22e59,mcp__figma__get_metadata,False,,P,P,,True,False,False,reference resource structure,,9.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Gemini,run_70ef8ee82cfa4041,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun1-gemini/runs/TEST-011_1793528531943/task-000001/run.log,32,16,call_f3d0a0394e604b0aad1b58e7c6fd33a5,mcp__figma__use_figma,True,Initialize Workspace by creating frame '01_Wallet' with Status Bar and Home Indicator.,C,C,deletion_or_cleanup;explicit_page_context,True,False,False,UI construction/modification code,,33.0,"return (async () => {
+  // Let's draft a helper function or check if we can write a script to build 01_Wallet frame
+  const walletPage = figma.root.children.find(p => p.id === '4:2');
+  await figma.setCurrentPageAsync(walletPage);
+
+  // Clear workspace
+  for (const child of walletPage.children) {
+    child.remove();
+  }
+
+  // Create frame 01_Wallet
+  const frame1 = figma.createFrame();
+  frame1.name = ""01_Wallet"";
+  frame1.resize(375, 812);
+  frame1.x = 0;
+  frame1.y = 0;
+  frame1.fills = [{ type: 'SOLID', color: { r: 1, g: 1, b: 1 } }];
+  
+  // Load status bar and home indicator
+  const statusBarComp = figma.getNodeById(""3:26"");
+  const home",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+10case-case-001,Investment Wallet,Gemini,run_70ef8ee82cfa4041,run.log,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun1-gemini/runs/TEST-011_1793528531943/task-000001/run.log,34,17,call_86b1e53f07a249a9b467f49a8edd82ed,mcp__figma__use_figma,False,Prepare script logic to build the screens.,V,V,structural_readback,True,False,False,post-build structural/readback inspection,,35.0,"return (async () => {
+  const codeString = `
+  const workspacePage = figma.root.children.find(p => p.id === '4:2');
+  
+  // Let's create components for custom elements we will reuse across frames
+  // Since we need headers, coin rows, page indicators etc., we can build them as components or local frames.
+  // To keep it simple and clean, we will write a script that constructs all 5 frames with precise coordinates and styling.
+  
+  // Let's first clean up and build everything programmatically.
+  `;
+  return ""Ready to build"";
+})();",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Gemini,run_08db15998eb047a6,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-011_1793560295414/task-000001/run.log,8,4,call_5e2d5ebc098b441ea19e7ebeb206941d,mcp__figma__use_figma,False,"Get the structure of page 1, 2, and 4 to locate where the visual norms, components, and media assets are.",P,P,,True,False,False,resource/system inspection intent; explicit resource/system/helper preparation intent,,9.0,"(async () => {
+  const page1 = figma.root.children.find(p => p.name.includes(""Foundations""));
+  const page2 = figma.root.children.find(p => p.name.includes(""Components""));
+  const page4 = figma.root.children.find(p => p.name.includes(""Media""));
+  
+  function getSubtree(node) {
+    if (!node) return null;
+    return {
+      id: node.id,
+      name: node.name,
+      type: node.type,
+      children: ""children"" in node ? node.children.map(c => ({ id: c.id, name: c.name, type: c.type })) : []
+    };
+  }
+  
+  return JSON.stringify({
+    Foundations: getSubtree(page1),
+    Components: getSubtree(page2),
+    Media: getSubtree(page4)
+  }, null, 2);
+})",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Gemini,run_08db15998eb047a6,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-011_1793560295414/task-000001/run.log,26,13,call_1f4c066f282943ff9f56ee4705c06419,mcp__figma__use_figma,True,Implement Frame 01_Home with all requested sections and elements,C,C,explicit_page_context,True,False,False,UI construction/modification code,,27.0,"(async () => {
+  await figma.loadFontAsync({ family: ""Poppins"", style: ""Regular"" });
+  await figma.loadFontAsync({ family: ""Poppins"", style: ""Medium"" });
+  await figma.loadFontAsync({ family: ""Poppins"", style: ""Semi Bold"" });
+  await figma.loadFontAsync({ family: ""Poppins"", style: ""Bold"" });
+
+  const workspace = figma.root.children.find(p => p.name.includes(""03""));
+  await figma.setCurrentPageAsync(workspace);
+
+  // Asset mapping
+  const mediaMap = {
+    ""Logo_Facebook"": ""13:44"", ""Logo_Furniro"": ""13:3"", ""Logo_LinkedIn"": ""13:35"", ""Logo_Twitter"": ""13:36"",
+    ""Photo_Hero"": ""13:9"", ""Photo_Page_Banner"": ""13:16"", ""Photo_Asgaard_Sofa"": ""13:4"", ""Pho",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Gemini,run_08db15998eb047a6,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-011_1793560295414/task-000001/run.log,52,26,call_99ab3a4d7b0a49d2808434f593273a4e,mcp__figma__use_figma,True,Wire prototype connections excluding self-references,I,I,prototype_write;explicit_page_context;within_three_calls_after_error,True,False,False,prototype/scroll/state property write,,53.0,"(async () => {
+  const workspace = figma.root.children.find(p => p.name.includes(""03""));
+  await figma.setCurrentPageAsync(workspace);
+
+  const home = workspace.children.find(c => c.name === ""01_Home"");
+  const shop = workspace.children.find(c => c.name === ""02_Shop"");
+  const product = workspace.children.find(c => c.name === ""03_Product"");
+  const cartDrawer = workspace.children.find(c => c.name === ""04_Cart_Drawer"");
+  const comparison = workspace.children.find(c => c.name === ""05_Comparison"");
+  const cart = workspace.children.find(c => c.name === ""06_Cart"");
+  const checkout = workspace.children.find(c => c.name === ""07_Checkout"");
+  cons",,Targeted analyst examination of purpose cues; not blinded independent full-code validation
+web10-case-001,Furniro,Gemini,run_08db15998eb047a6,run.log,/mnt/afs_design/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-011_1793560295414/task-000001/run.log,54,27,call_a522f5fdaa25410f992bc3b05a54f3ea,mcp__figma__get_screenshot,False,,V,V,visual_final_screen;within_three_calls_after_error,True,False,False,screenshot targets final named screen,01_Home,55.0,,,Targeted analyst examination of purpose cues; not blinded independent full-code validation

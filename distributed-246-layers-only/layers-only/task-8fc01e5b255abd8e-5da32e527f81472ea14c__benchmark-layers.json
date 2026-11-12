@@ -1,0 +1,163 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4299",
+      "nodes": 68,
+      "max_depth": 5,
+      "instances": 35,
+      "texts": 7,
+      "images": 2,
+      "types": [
+        "instance×35",
+        "frame×23",
+        "text×7",
+        "rectangle-image×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "hero",
+        "glow",
+        "hero-copy",
+        "Pomelo One 14 Pro",
+        "Beyond Pro."
+      ]
+    },
+    {
+      "name": "02_Products",
+      "size": "1440×1893",
+      "nodes": 38,
+      "max_depth": 5,
+      "instances": 20,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "frame×11",
+        "rectangle×5",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "breadcrumb-sec",
+        "Breadcrumb",
+        "content",
+        "sidebar",
+        "Filter Group"
+      ]
+    },
+    {
+      "name": "03_Product_Details",
+      "size": "1440×3219",
+      "nodes": 76,
+      "max_depth": 5,
+      "instances": 36,
+      "texts": 11,
+      "images": 5,
+      "types": [
+        "instance×36",
+        "frame×24",
+        "text×11",
+        "rectangle-image×5"
+      ],
+      "names": [
+        "Header",
+        "breadcrumb-sec",
+        "Breadcrumb",
+        "main",
+        "gallery",
+        "big-image"
+      ]
+    },
+    {
+      "name": "04_Shopping_Cart",
+      "size": "1440×1572",
+      "nodes": 9,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "section-title",
+        "Shopping Cart",
+        "section-body",
+        "Cart Row",
+        "Order Summary"
+      ]
+    },
+    {
+      "name": "05_Checkout_Address",
+      "size": "1440×1124",
+      "nodes": 15,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×5",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "section-stepper",
+        "Checkout Stepper",
+        "section-title",
+        "Select Address",
+        "section-addresses"
+      ]
+    },
+    {
+      "name": "06_Checkout_Shipping",
+      "size": "1440×1168",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×4",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "section-stepper",
+        "Checkout Stepper",
+        "section-title",
+        "Shipment Method",
+        "section-options"
+      ]
+    },
+    {
+      "name": "07_Checkout_Payment",
+      "size": "1440×1440",
+      "nodes": 20,
+      "max_depth": 2,
+      "instances": 15,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "frame×3",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "section-stepper",
+        "Checkout Stepper",
+        "section-body",
+        "Payment",
+        "Tab"
+      ]
+    }
+  ]
+}

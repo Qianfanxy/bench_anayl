@@ -1,0 +1,28 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1920×5973",
+      "nodes": 162,
+      "max_depth": 6,
+      "instances": 57,
+      "texts": 55,
+      "images": 0,
+      "types": [
+        "instance×57",
+        "text×55",
+        "frame×47",
+        "rectangle×3"
+      ],
+      "names": [
+        "Header",
+        "Hero",
+        "Photo_Hero_Background",
+        "Overlay",
+        "Photo_Hero_Noodles",
+        "Title"
+      ]
+    }
+  ]
+}

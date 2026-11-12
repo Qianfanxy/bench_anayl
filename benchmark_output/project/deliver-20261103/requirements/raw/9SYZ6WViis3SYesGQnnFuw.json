@@ -1,0 +1,501 @@
+{
+ "file_key": "9SYZ6WViis3SYesGQnnFuw",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "5:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "5:5",
+     "name": "Travelin — travel booking app",
+     "x": 64,
+     "y": 95,
+     "text": "Travelin — travel booking app"
+    },
+    {
+     "id": "5:6",
+     "name": "Design the Travelin mobile app: open the app, start the journey, sign in, and land on a home screen with the upcoming flight, travel categories, recommended journeys and a recommended hotel. Canvas 430 × 932, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design the Travelin mobile app: open the app, start the journey, sign in, and land on a home screen with the upcoming flight, travel categories, recommended journeys and a recommended hotel. Canvas 430 × 932, iPhone, light mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "5:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "5:9",
+     "name": "1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, overlays on photos, status badge, rating, error / disabled), plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the language selector, the tab bar and every business component as reusable components in your file. 5. Use the logo, photos and icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, overlays on photos, status badge, rating, error / disabled), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the language selector, the tab bar and every business component as reusable components in your file.\n5. Use the logo, photos and icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "5:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 554,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "5:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 605,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "5:15",
+     "name": "01_Splash",
+     "x": 88,
+     "y": 667,
+     "text": "01_Splash"
+    },
+    {
+     "id": "5:22",
+     "name": "02_Get_Started",
+     "x": 756,
+     "y": 667,
+     "text": "02_Get_Started"
+    },
+    {
+     "id": "5:16",
+     "name": "Goal: Brand moment while the app opens.",
+     "x": 88,
+     "y": 703,
+     "text": "Goal: Brand moment while the app opens."
+    },
+    {
+     "id": "5:23",
+     "name": "Goal: Invite the traveller to start.",
+     "x": 756,
+     "y": 703,
+     "text": "Goal: Invite the traveller to start."
+    },
+    {
+     "id": "5:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:18",
+     "name": "• Brand: Logo_Travelin · tagline “Your Passport to Seamless Adventures!”",
+     "x": 88,
+     "y": 759,
+     "text": "• Brand: Logo_Travelin · tagline “Your Passport to Seamless Adventures!”"
+    },
+    {
+     "id": "5:25",
+     "name": "• Action: “Your Journey Starts Here” (Icon_Plane) • Brand: Logo_Travelin • Headline: “Ready to explore beyond boundaries?” • Language: “English” (Icon_Chevron_Down) • Media: Photo_Aerial_Island",
+     "x": 756,
+     "y": 759,
+     "text": "• Action: “Your Journey Starts Here” (Icon_Plane)\n• Brand: Logo_Travelin\n• Headline: “Ready to explore beyond boundaries?”\n• Language: “English” (Icon_Chevron_Down)\n• Media: Photo_Aerial_Island"
+    },
+    {
+     "id": "5:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 789,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:20",
+     "name": "→ after delay → 02_Get_Started",
+     "x": 88,
+     "y": 815,
+     "text": "→ after delay → 02_Get_Started"
+    },
+    {
+     "id": "5:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 869,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:27",
+     "name": "→ Your Journey Starts Here → 03_Sign_In",
+     "x": 756,
+     "y": 895,
+     "text": "→ Your Journey Starts Here → 03_Sign_In"
+    },
+    {
+     "id": "5:29",
+     "name": "03_Sign_In",
+     "x": 88,
+     "y": 987,
+     "text": "03_Sign_In"
+    },
+    {
+     "id": "5:36",
+     "name": "04_Home",
+     "x": 756,
+     "y": 987,
+     "text": "04_Home"
+    },
+    {
+     "id": "5:30",
+     "name": "Goal: Sign in with email / phone or a social account.",
+     "x": 88,
+     "y": 1023,
+     "text": "Goal: Sign in with email / phone or a social account."
+    },
+    {
+     "id": "5:37",
+     "name": "Goal: See the upcoming trip and find the next journey.",
+     "x": 756,
+     "y": 1023,
+     "text": "Goal: See the upcoming trip and find the next journey."
+    },
+    {
+     "id": "5:31",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1053,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:38",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1053,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:32",
+     "name": "• Actions: “Forgot password?” · “Sign In” · “Sign Up” • Copy: “Don’t have an account?” · “Discover the World with Every Sign In” · “Let’s Travel you in.” · “or sign in with” • Fields: “Email or Phone Number” · “Password” — both empty • Language: “English” (Icon_Chevron_Down) • Media: Photo_Hot_Air_Balloons • Social sign-in: Apple (Icon_Apple) · Facebook (Icon_Facebook) · Google (Icon_Google)",
+     "x": 88,
+     "y": 1079,
+     "text": "• Actions: “Forgot password?” · “Sign In” · “Sign Up”\n• Copy: “Don’t have an account?” · “Discover the World with Every Sign In” · “Let’s Travel you in.” · “or sign in with”\n• Fields: “Email or Phone Number” · “Password” — both empty\n• Language: “English” (Icon_Chevron_Down)\n• Media: Photo_Hot_Air_Balloons\n• Social sign-in: Apple (Icon_Apple) · Facebook (Icon_Facebook) · Google (Icon_Google)"
+    },
+    {
+     "id": "5:39",
+     "name": "• Account: “Hi, Paul” · 2,000 points (Icon_Coin) · avatar (Photo_Avatar_Cat) • Categories: Bus · Ferry · Flights · Hotels · Trains, each with its icon • Hotels: “Hotel recommendations for you” · See all · Swiss-Belhotel Rainforest Kuta (see DATA) • Journeys: “Journey together” · See all · Labengki Sombori · Mount Bromo · Sailing Komodo (see DATA) • Main navigation: tab bar Home / Orders / Deals / Account · current: Home • Search: “Where to go?” (Icon_Search) • Upcoming flight: ticket with status, date, route, times, duration, airline, class, stops and booking ID (see DATA)",
+     "x": 756,
+     "y": 1079,
+     "text": "• Account: “Hi, Paul” · 2,000 points (Icon_Coin) · avatar (Photo_Avatar_Cat)\n• Categories: Bus · Ferry · Flights · Hotels · Trains, each with its icon\n• Hotels: “Hotel recommendations for you” · See all · Swiss-Belhotel Rainforest Kuta (see DATA)\n• Journeys: “Journey together” · See all · Labengki Sombori · Mount Bromo · Sailing Komodo (see DATA)\n• Main navigation: tab bar Home / Orders / Deals / Account · current: Home\n• Search: “Where to go?” (Icon_Search)\n• Upcoming flight: ticket with status, date, route, times, duration, airline, class, stops and booking ID (see DATA)"
+    },
+    {
+     "id": "5:33",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1229,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:34",
+     "name": "→ Sign In → 04_Home",
+     "x": 88,
+     "y": 1255,
+     "text": "→ Sign In → 04_Home"
+    },
+    {
+     "id": "5:40",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1289,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:41",
+     "name": "→ Home tab: current (no link)",
+     "x": 756,
+     "y": 1315,
+     "text": "→ Home tab: current (no link)"
+    },
+    {
+     "id": "5:43",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 1407,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "5:44",
+     "name": "• Launch flow: 01_Splash → (after delay) 02_Get_Started → 03_Sign_In → 04_Home. • 04_Home has a bottom tab bar with 4 tabs in this order: Home (Icon_Home), Orders (Icon_Ticket), Deals (Icon_Deals), Account (Icon_Account); current: Home. Only Home is part of this task — how the current tab looks is yours. • Entry only (no frame): language selector, Forgot password?, social sign-in, Sign Up, search, categories, See all, journey and hotel cards, the flight ticket, Orders, Deals, Account.",
+     "x": 64,
+     "y": 1458,
+     "text": "• Launch flow: 01_Splash → (after delay) 02_Get_Started → 03_Sign_In → 04_Home.\n• 04_Home has a bottom tab bar with 4 tabs in this order: Home (Icon_Home), Orders (Icon_Ticket), Deals (Icon_Deals), Account (Icon_Account); current: Home. Only Home is part of this task — how the current tab looks is yours.\n• Entry only (no frame): language selector, Forgot password?, social sign-in, Sign Up, search, categories, See all, journey and hotel cards, the flight ticket, Orders, Deals, Account."
+    },
+    {
+     "id": "5:46",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 1594,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "5:47",
+     "name": "Use these values verbatim. Prices in USD.",
+     "x": 64,
+     "y": 1645,
+     "text": "Use these values verbatim. Prices in USD."
+    },
+    {
+     "id": "5:50",
+     "name": "Account",
+     "x": 84,
+     "y": 1703,
+     "text": "Account"
+    },
+    {
+     "id": "5:53",
+     "name": "Upcoming flight",
+     "x": 528,
+     "y": 1703,
+     "text": "Upcoming flight"
+    },
+    {
+     "id": "5:56",
+     "name": "Journey together (rating · price · duration)",
+     "x": 972,
+     "y": 1703,
+     "text": "Journey together (rating · price · duration)"
+    },
+    {
+     "id": "5:51",
+     "name": "“Hi, Paul” · 2,000 points · Photo_Avatar_Cat",
+     "x": 84,
+     "y": 1731,
+     "text": "“Hi, Paul” · 2,000 points · Photo_Avatar_Cat"
+    },
+    {
+     "id": "5:54",
+     "name": "Status: Upcoming · 24 March 2024 CGK 05:30 → DPS 08:00 · 1h 30m Sentosa Air · Economy · Direct Booking ID: ZEEBAW (local times — Bali is 1 hour ahead of Jakarta)",
+     "x": 528,
+     "y": 1731,
+     "text": "Status: Upcoming · 24 March 2024\nCGK 05:30 → DPS 08:00 · 1h 30m\nSentosa Air · Economy · Direct\nBooking ID: ZEEBAW\n(local times — Bali is 1 hour ahead of Jakarta)"
+    },
+    {
+     "id": "5:57",
+     "name": "Mount Bromo · Volcano in East Java · ★ 4.9 · Start from $150/pax · 3D2N (Photo_Mount_Bromo) Labengki Sombori · Islands in Sulawesi · ★ 4.8 · Start from $250/pax · 3D2N (Photo_Labengki_Sombori) Sailing Komodo · Labuan Bajo · ★ 4.8 · Start from $200/pax · 3D2N (Photo_Sailing_Komodo)",
+     "x": 972,
+     "y": 1731,
+     "text": "Mount Bromo · Volcano in East Java · ★ 4.9 · Start from $150/pax · 3D2N (Photo_Mount_Bromo)\nLabengki Sombori · Islands in Sulawesi · ★ 4.8 · Start from $250/pax · 3D2N (Photo_Labengki_Sombori)\nSailing Komodo · Labuan Bajo · ★ 4.8 · Start from $200/pax · 3D2N (Photo_Sailing_Komodo)"
+    },
+    {
+     "id": "5:59",
+     "name": "Hotel recommendations for you",
+     "x": 84,
+     "y": 1909,
+     "text": "Hotel recommendations for you"
+    },
+    {
+     "id": "5:62",
+     "name": "Categories · tabs",
+     "x": 528,
+     "y": 1909,
+     "text": "Categories · tabs"
+    },
+    {
+     "id": "5:65",
+     "name": "Sign-in copy",
+     "x": 972,
+     "y": 1909,
+     "text": "Sign-in copy"
+    },
+    {
+     "id": "5:60",
+     "name": "Swiss-Belhotel Rainforest Kuta · 4-star hotel Jl. Sunset Road No. 101, Kuta, Bali, Indonesia $50/night (Photo_Hotel_Room)",
+     "x": 84,
+     "y": 1937,
+     "text": "Swiss-Belhotel Rainforest Kuta · 4-star hotel\nJl. Sunset Road No. 101, Kuta, Bali, Indonesia\n$50/night (Photo_Hotel_Room)"
+    },
+    {
+     "id": "5:63",
+     "name": "Categories: Flights (Icon_Flight) · Hotels (Icon_Hotel) · Trains (Icon_Train) · Ferry (Icon_Ferry) · Bus (Icon_Bus) Tabs: Home · Orders · Deals · Account",
+     "x": 528,
+     "y": 1937,
+     "text": "Categories: Flights (Icon_Flight) · Hotels (Icon_Hotel) · Trains (Icon_Train) · Ferry (Icon_Ferry) · Bus (Icon_Bus)\nTabs: Home · Orders · Deals · Account"
+    },
+    {
+     "id": "5:66",
+     "name": "“Let’s Travel you in.” · “Discover the World with Every Sign In” Fields: Email or Phone Number · Password “Forgot password?” · Sign In · “or sign in with” “Don’t have an account?” · Sign Up",
+     "x": 972,
+     "y": 1937,
+     "text": "“Let’s Travel you in.” · “Discover the World with Every Sign In”\nFields: Email or Phone Number · Password\n“Forgot password?” · Sign In · “or sign in with”\n“Don’t have an account?” · Sign Up"
+    },
+    {
+     "id": "5:68",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 2081,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "5:71",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 2156,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "5:74",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 2156,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "5:72",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand colors #007A8C + #336749 and Inter • Media: logo, photos, icons • Default Button, default Text Field, platform shell",
+     "x": 88,
+     "y": 2189,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand colors #007A8C + #336749 and Inter\n• Media: logo, photos, icons\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "5:75",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, surfaces, overlays on photos, status badge, rating, error / disabled • Type scale, spacing, radii, elevation • All states: current tab, pressed, focused / filled fields, disabled • Headers, language selector, tab bar, flight ticket, category items, journey and hotel cards, social sign-in buttons • How photos are cropped and treated",
+     "x": 756,
+     "y": 2189,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, surfaces, overlays on photos, status badge, rating, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: current tab, pressed, focused / filled fields, disabled\n• Headers, language selector, tab bar, flight ticket, category items, journey and hotel cards, social sign-in buttons\n• How photos are cropped and treated"
+    },
+    {
+     "id": "5:77",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 2421,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "5:78",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 2472,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "5:79",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current tab, empty fields, pressed / disabled where shown)",
+     "x": 64,
+     "y": 2510,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current tab, empty fields, pressed / disabled where shown)"
+    },
+    {
+     "id": "5:80",
+     "name": "Deliverable: the link to your own Figma file containing the 4 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 2680,
+     "text": "Deliverable: the link to your own Figma file containing the 4 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · Travelin",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Travelin"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the two brand colors and the typeface below — they carry Travelin’s identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, overlays on photos, semantic colors (status badges, rating, success, error, disabled), type scale, weights per role, spacing, radii and elevation.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the two brand colors and the typeface below — they carry Travelin’s identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, overlays on photos, semantic colors (status badges, rating, success, error, disabled), type scale, weights per role, spacing, radii and elevation."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand colors",
+     "x": 56,
+     "y": 208,
+     "text": "Brand colors"
+    },
+    {
+     "id": "1:12",
+     "name": "Brand primary · teal",
+     "x": 56,
+     "y": 392,
+     "text": "Brand primary · teal"
+    },
+    {
+     "id": "1:17",
+     "name": "Brand secondary · forest green",
+     "x": 300,
+     "y": 392,
+     "text": "Brand secondary · forest green"
+    },
+    {
+     "id": "1:13",
+     "name": "#007A8C",
+     "x": 56,
+     "y": 417,
+     "text": "#007A8C"
+    },
+    {
+     "id": "1:18",
+     "name": "#336749",
+     "x": 300,
+     "y": 417,
+     "text": "#336749"
+    },
+    {
+     "id": "1:14",
+     "name": "Travelin’s main brand color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 441,
+     "text": "Travelin’s main brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:19",
+     "name": "The second brand color (the “in” of the logo). Where and how much to use it is your decision.",
+     "x": 300,
+     "y": 441,
+     "text": "The second brand color (the “in” of the logo). Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:20",
+     "name": "Typeface",
+     "x": 56,
+     "y": 518,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:21",
+     "name": "Aa Bb Cc 0123456789 $150/pax CGK → DPS",
+     "x": 56,
+     "y": 574,
+     "text": "Aa Bb Cc 0123456789  $150/pax  CGK → DPS"
+    },
+    {
+     "id": "1:22",
+     "name": "Use Inter for all UI text (Regular / Medium / Semi Bold / Bold available). Sizes, weights and line heights are yours to define as a consistent type scale. The logo is an image in 04 · Media — do not retype it.",
+     "x": 56,
+     "y": 654,
+     "text": "Use Inter for all UI text (Regular / Medium / Semi Bold / Bold available). Sizes, weights and line heights are yours to define as a consistent type scale. The logo is an image in 04 · Media — do not retype it."
+    },
+    {
+     "id": "1:23",
+     "name": "Canvas: 430 × 932 (iPhone). Light mode only. 04_Home may scroll vertically.",
+     "x": 56,
+     "y": 720,
+     "text": "Canvas: 430 × 932 (iPhone). Light mode only. 04_Home may scroll vertically."
+    }
+   ]
+  }
+ ]
+}

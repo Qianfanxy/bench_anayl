@@ -1,0 +1,367 @@
+{
+  "board_count": 17,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "428×926",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Photo_Welcome",
+        "Logo_Musium_Wordmark",
+        "From the latest to the g",
+        "Frame",
+        "Button → 2",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "02_Sign_In_Options",
+      "size": "428×926",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×3"
+      ],
+      "names": [
+        "Icon_Back → 1",
+        "Logo_Musium_Mark",
+        "Let’s get you in",
+        "Frame → 4",
+        "──────────── or ────────",
+        "Button → 3"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "428×926",
+      "nodes": 22,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×5",
+        "frame×3"
+      ],
+      "names": [
+        "Icon_Back → 2",
+        "Logo_Musium_Mark",
+        "Login to your account",
+        "Text Field",
+        "Icon_Mail",
+        "Icon_Eye_Off"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "428×926",
+      "nodes": 24,
+      "max_depth": 2,
+      "instances": 18,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×5",
+        "frame×1"
+      ],
+      "names": [
+        "Frame",
+        "Icon_Music_Note",
+        "Welcome back !",
+        "chandrama",
+        "Icon_Stats → 17",
+        "Icon_Mic"
+      ]
+    },
+    {
+      "name": "05_Explore",
+      "size": "428×926",
+      "nodes": 18,
+      "max_depth": 1,
+      "instances": 16,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "text×2"
+      ],
+      "names": [
+        "Frame",
+        "Text Field",
+        "Icon_Search",
+        "Your Top Genres",
+        "Browse All",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "06_Library",
+      "size": "428×926",
+      "nodes": 25,
+      "max_depth": 3,
+      "instances": 18,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×5",
+        "frame×2"
+      ],
+      "names": [
+        "Frame",
+        "Icon_Search",
+        "Frame → 7",
+        "110 songs",
+        "Recently played",
+        "Icon_Sort"
+      ]
+    },
+    {
+      "name": "07_Library_Folders",
+      "size": "428×926",
+      "nodes": 19,
+      "max_depth": 1,
+      "instances": 17,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "text×2"
+      ],
+      "names": [
+        "Frame",
+        "Icon_Search",
+        "Frame → 7",
+        "110 songs",
+        "Recently played",
+        "Icon_Sort"
+      ]
+    },
+    {
+      "name": "08_Folder_Moods",
+      "size": "428×926",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×2"
+      ],
+      "names": [
+        "Frame",
+        "Sort By",
+        "Recently played",
+        "Icon_Sort",
+        "Frame → 9",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "09_Playlist",
+      "size": "428×926",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Icon_Back → 8",
+        "FROM “PLAYLISTS”",
+        "Icon_More → 14",
+        "Cover_Lofi_Loft",
+        "Lofi Loft",
+        "soft, chill, dreamy, lo-"
+      ]
+    },
+    {
+      "name": "10_Now_Playing",
+      "size": "428×926",
+      "nodes": 24,
+      "max_depth": 1,
+      "instances": 17,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "text×7"
+      ],
+      "names": [
+        "Icon_Chevron_Down → 9",
+        "PLAYING FROM PLAYLIST:",
+        "Lofi Loft → 9",
+        "Icon_More → 14",
+        "Cover_Grainy_Days",
+        "grainy days"
+      ]
+    },
+    {
+      "name": "11_Queue",
+      "size": "428×926",
+      "nodes": 19,
+      "max_depth": 1,
+      "instances": 13,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×6"
+      ],
+      "names": [
+        "Icon_Chevron_Down → 10",
+        "PLAYING FROM PLAYLIST:",
+        "Lofi Loft → 10",
+        "now playing :",
+        "Frame",
+        "next in queue :"
+      ]
+    },
+    {
+      "name": "12_Equalizer",
+      "size": "428×926",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×1"
+      ],
+      "names": [
+        "Frame",
+        "PRESETS",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "13_Sleep_Timer",
+      "size": "428×926",
+      "nodes": 26,
+      "max_depth": 1,
+      "instances": 18,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×7",
+        "frame×1"
+      ],
+      "names": [
+        "Icon_Chevron_Down → 9",
+        "PLAYING FROM PLAYLIST:",
+        "Lofi Loft → 9",
+        "Icon_More → 14",
+        "Cover_Grainy_Days",
+        "grainy days"
+      ]
+    },
+    {
+      "name": "14_Song_Menu",
+      "size": "428×926",
+      "nodes": 23,
+      "max_depth": 1,
+      "instances": 18,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Song options",
+        "Close → 10",
+        "Cover_Grainy_Days",
+        "grainy days",
+        "driftwood.",
+        "Icon_Heart"
+      ]
+    },
+    {
+      "name": "15_Add_To_Playlist",
+      "size": "428×926",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×11"
+      ],
+      "names": [
+        "Frame",
+        "Text Field",
+        "Icon_Search",
+        "Button → 16",
+        "Frame → 10",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "16_New_Playlist",
+      "size": "428×926",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×1"
+      ],
+      "names": [
+        "Frame",
+        "Text Field",
+        "Icon_Search",
+        "Button → 16",
+        "Frame → 10",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "17_Stats",
+      "size": "428×926",
+      "nodes": 21,
+      "max_depth": 1,
+      "instances": 16,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Frame",
+        "Icon_Grid",
+        "Icon_Plus",
+        "Past 30 Days",
+        "Tracks",
+        "Artists"
+      ]
+    }
+  ]
+}

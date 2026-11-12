@@ -1,0 +1,400 @@
+{
+  "file_key": "Cj3Mqd74nwX2NBBm3kp05M",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "8:2",
+      "name": "03 · Workspace",
+      "child_count": 10
+    }
+  ],
+  "workspace": {
+    "id": "8:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "12:2",
+        "name": "01_Welcome",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 4,
+        "reaction_count": 1
+      },
+      {
+        "id": "12:20",
+        "name": "02_Photo_ID",
+        "type": "FRAME",
+        "x": 430,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 5,
+        "reaction_count": 2
+      },
+      {
+        "id": "12:52",
+        "name": "03_Bank_Home",
+        "type": "FRAME",
+        "x": 860,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 34,
+        "reaction_count": 3
+      },
+      {
+        "id": "12:139",
+        "name": "04_Bank_Transactions",
+        "type": "FRAME",
+        "x": 1290,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 25,
+        "reaction_count": 2
+      },
+      {
+        "id": "12:227",
+        "name": "05_Profile",
+        "type": "FRAME",
+        "x": 1720,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "text_count": 21,
+        "reaction_count": 2
+      },
+      {
+        "id": "12:328",
+        "name": "06_XTrade_Welcome",
+        "type": "FRAME",
+        "x": 0,
+        "y": 900,
+        "width": 390,
+        "height": 844,
+        "text_count": 6,
+        "reaction_count": 1
+      },
+      {
+        "id": "12:348",
+        "name": "07_Trade_Home",
+        "type": "FRAME",
+        "x": 430,
+        "y": 900,
+        "width": 390,
+        "height": 844,
+        "text_count": 41,
+        "reaction_count": 3
+      },
+      {
+        "id": "12:469",
+        "name": "08_Market",
+        "type": "FRAME",
+        "x": 860,
+        "y": 900,
+        "width": 390,
+        "height": 844,
+        "text_count": 49,
+        "reaction_count": 3
+      },
+      {
+        "id": "13:163",
+        "name": "09_Exchange_Stock",
+        "type": "FRAME",
+        "x": 1290,
+        "y": 900,
+        "width": 390,
+        "height": 844,
+        "text_count": 13,
+        "reaction_count": 2
+      },
+      {
+        "id": "14:183",
+        "name": "10_Exchange_Crypto",
+        "type": "FRAME",
+        "x": 1720,
+        "y": 900,
+        "width": 390,
+        "height": 844,
+        "text_count": 47,
+        "reaction_count": 2
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nFinX — mobile banking and trading app\nDesign the complete FinX mobile app for Alex Morgan: a banking area (sign up, verify identity, see cards, exchange rates, transactions, budget and profile) and an XTrade trading area (portfolio, crypto market, stock and crypto exchange).\nCanvas 390 × 844, iPhone. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 10 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typefaces in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, light / dark mode, gain / loss, success / error / warning / disabled, chart colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, both bottom navigations and every business component as reusable components in your file.\n5. Use logos, coin icons, banners, the avatar, the ID card placeholder and icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Welcome\nGoal: Start using FinX or log in.\nMUST INCLUDE\n• Actions: GET STARTED · Log In (“Already have an account?”)\n• Copy: “Manage your finances simply”\n• Media: Illustration_Welcome\nLINKS\n→ GET STARTED → 02_Photo_ID\n02_Photo_ID\nGoal: Verify identity by scanning an ID card.\nMUST INCLUDE\n• Actions: back · TRY AGAIN · CONTINUE\n• Camera: the ID card being scanned (ID_Card_Placeholder)\n• Copy: “Photo ID Card” · “Please point the camera at the ID card”\nLINKS\n→ back → 01_Welcome\n→ CONTINUE → 03_Bank_Home\n03_Bank_Home\nGoal: See payment cards, exchange rates and recent transactions.\nMUST INCLUDE\n• Actions: menu · contacts · notifications (unread)\n• Cards: “Payment card” · 2 cards\n• Exchange rates: “Exchange rates” · AUD / EUR / GBP, each with rate and change · entry to all rates\n• Main navigation: current tab Home\n• Transactions: “Transactions” · 3 transactions, newest first · entry to all transactions\nLINKS\n→ Transactions entry → 04_Bank_Transactions\n→ tabs → 04 / 03 / 05\n04_Bank_Transactions\nGoal: Understand this week’s spending against the monthly budget.\nMUST INCLUDE\n• Actions: history · currency exchange · notifications (unread)\n• Balance: “Total balance” $41,900.10\n• Budget: “Monthly budget” · $1,080.24 spent of $2,500 · Food & restaurants $890.12 · Tickets & Journey $190.12\n• Copy: “Transactions”\n• Main navigation: current tab Trans.\n• Weekly spending: “Transactions” $1,041.90 · period Week (changeable) · spend per day Mon 01 – Sat 06 · selected day: Thu 04, $134.90\nLINKS\n→ tabs → 04 / 03 / 05\n05_Profile\nGoal: Review the account and reach settings.\nMUST INCLUDE\n• Account: Avatar_User · Alex Morgan · alex.morgan@finx.app · +1 234 567 8901 · edit avatar\n• Actions: notifications · history · more menu\n• Main navigation: current tab Profile\n• Settings: Contact us · Edit profile information · Help & Support · Language: English · Notifications: ON · Privacy policy · Security · Theme: Light mode\nLINKS\n→ tabs → 04 / 03 / 05\n06_XTrade_Welcome\nGoal: Introduce XTrade, the FinX trading area.\nMUST INCLUDE\n• Actions: GET STARTED\n• Brand: “FinX”\n• Copy: “Zero fee payment on XTrade” · “No 1 design for E-bank, e-wallet, personal financial mobile application.”\nLINKS\n→ GET STARTED → 07_Trade_Home\n07_Trade_Home\nGoal: See portfolio value and jump into trading.\nMUST INCLUDE\n• Account: Avatar_User · search “Search” · scan · notifications (unread)\n• Banners: Banner_ETH_2_0 · Banner_Upcoming_Events\n• Exchange rates: same as 03 · See all\n• Main navigation: current tab Home\n• Portfolio: “My Portfolios” · See all · BTC / ETH / XRP / BNB, each with logo, name, holding, value, 24h change and 7-day trend\n• Shortcuts: Deposit · Earn · Gift card · More · Orders · Referral · Save coins · Shop\nLINKS\n→ BTC → 10_Exchange_Crypto\n→ tabs → 07 / 08 / 09\n08_Market\nGoal: Scan coin prices and pick one to trade.\nMUST INCLUDE\n• Actions: filter\n• Coins: 9 coins, each with ticker, name, 24h volume, price and 24h change\n• Copy: “Market”\n• Main navigation: current tab Markets\n• Search: “Search coin”\n• Tabs: Favorites / Spot / Futures / Zones / Others · current: Favorites\nLINKS\n→ BTC → 10_Exchange_Crypto\n→ tabs → 07 / 08 / 09\n09_Exchange_Stock\nGoal: Swap one stock for another.\nMUST INCLUDE\n• Actions: filter · swap direction · calculator\n• Copy: “Exchange”\n• From: AAPL (Apple Inc.) · Logo_Apple · amount $156.50 being entered · stock changeable\n• Keypad: 1 · 2 ABC · 3 DEF · 4 GHI · 5 JKL · 6 MNO · 7 PQRS · 8 TUV · 9 WXYZ · 0 · backspace\n• Main navigation: current tab Exchange\n• Side: Buy / Sell · current: Buy\n• To: SPOT (Spotify) · Logo_Spotify · ≈ 0.69 shares at $226.90 · stock changeable\nLINKS\n→ tabs → 07 / 08 / 09\n10_Exchange_Crypto\nGoal: Place a limit order for BTC.\nMUST INCLUDE\n• Copy: “Exchange”\n• Main navigation: current tab Exchange\n• Order book: 5 asks and 5 bids, each with price and amount (BTC)\n• Order form: side Buy / Sell · current Buy · type Limit (changeable) · price 29,198.00 USDT (− / +) · amount 0.0500 BTC (− / +) · 25% / 50% / 75% / 100% · Total 1,459.90 USDT · Available 2,500.00 USDT · Buy BTC\n• Pair: BTC / USDT · Logo_BTC · Vol 2.8B · last price 29,198.24 · +3.73% · pair changeable\n• View: Orderbook / Chart · current: Orderbook\nLINKS\n→ tabs → 07 / 08 / 09\nNavigation structure\n• Banking: 01_Welcome → 02_Photo_ID → 03_Bank_Home. Trading: 06_XTrade_Welcome → 07_Trade_Home. Two entry points, two areas.\n• Banking navigation on 03, 04, 05 — five tabs in this order: Trans. (Icon_Tab_Transactions) → 04 · Feeds (Icon_Tab_Feeds, entry only) · Home (Icon_Tab_Home, centre) → 03 · Wallet (Icon_Tab_Wallet, entry only) · Profile (Icon_Tab_Profile) → 05.\n• Trading navigation on 07, 08, 09, 10 — five tabs in this order: Home (Icon_Tab_Home) → 07 · Markets (Icon_Tab_Markets) → 08 · Exchange (Icon_Tab_Exchange, centr",
+  "layer_summary": {
+    "board_count": 10,
+    "boards": [
+      {
+        "name": "01_Welcome",
+        "size": "390×844",
+        "nodes": 17,
+        "max_depth": 3,
+        "instances": 3,
+        "texts": 4,
+        "images": 0,
+        "types": [
+          "rectangle×6",
+          "text×4",
+          "instance×3",
+          "frame×3",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "02_Photo_ID",
+        "size": "390×844",
+        "nodes": 31,
+        "max_depth": 3,
+        "instances": 4,
+        "texts": 5,
+        "images": 0,
+        "types": [
+          "rectangle×14",
+          "text×5",
+          "instance×4",
+          "frame×4",
+          "ellipse×3",
+          "vector×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "03_Bank_Home",
+        "size": "390×844",
+        "nodes": 86,
+        "max_depth": 4,
+        "instances": 14,
+        "texts": 34,
+        "images": 0,
+        "types": [
+          "text×34",
+          "frame×19",
+          "instance×14",
+          "vector×11",
+          "rectangle×6",
+          "ellipse×2"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "04_Bank_Transactions",
+        "size": "390×844",
+        "nodes": 87,
+        "max_depth": 4,
+        "instances": 13,
+        "texts": 25,
+        "images": 0,
+        "types": [
+          "text×25",
+          "frame×22",
+          "rectangle×14",
+          "instance×13",
+          "vector×11",
+          "ellipse×2"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "05_Profile",
+        "size": "390×844",
+        "nodes": 100,
+        "max_depth": 4,
+        "instances": 28,
+        "texts": 21,
+        "images": 0,
+        "types": [
+          "instance×28",
+          "vector×25",
+          "text×21",
+          "frame×19",
+          "rectangle×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "06_XTrade_Welcome",
+        "size": "390×844",
+        "nodes": 19,
+        "max_depth": 3,
+        "instances": 3,
+        "texts": 6,
+        "images": 0,
+        "types": [
+          "text×6",
+          "rectangle×6",
+          "instance×3",
+          "frame×3",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "07_Trade_Home",
+        "size": "390×844",
+        "nodes": 120,
+        "max_depth": 4,
+        "instances": 25,
+        "texts": 41,
+        "images": 0,
+        "types": [
+          "text×41",
+          "frame×30",
+          "instance×25",
+          "vector×16",
+          "rectangle×6",
+          "ellipse×2"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "08_Market",
+        "size": "390×844",
+        "nodes": 101,
+        "max_depth": 4,
+        "instances": 9,
+        "texts": 49,
+        "images": 0,
+        "types": [
+          "text×49",
+          "frame×29",
+          "instance×9",
+          "vector×7",
+          "rectangle×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "09_Exchange_Stock",
+        "size": "390×844",
+        "nodes": 52,
+        "max_depth": 4,
+        "instances": 11,
+        "texts": 13,
+        "images": 0,
+        "types": [
+          "text×13",
+          "instance×11",
+          "frame×11",
+          "vector×10",
+          "rectangle×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "10_Exchange_Crypto",
+        "size": "390×844",
+        "nodes": 110,
+        "max_depth": 4,
+        "instances": 13,
+        "texts": 47,
+        "images": 0,
+        "types": [
+          "text×47",
+          "frame×33",
+          "instance×13",
+          "vector×10",
+          "rectangle×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      }
+    ]
+  }
+}

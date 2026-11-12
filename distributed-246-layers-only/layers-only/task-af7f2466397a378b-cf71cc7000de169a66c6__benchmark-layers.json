@@ -1,0 +1,229 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Sign_In",
+      "size": "375×812",
+      "nodes": 17,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×5",
+        "rectangle×3"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Overlay",
+        "Status Bar",
+        "Logo_Mark",
+        "Wordmark",
+        "Tagline"
+      ]
+    },
+    {
+      "name": "02_Sign_Up",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×5",
+        "rectangle×3"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Overlay",
+        "Status Bar",
+        "Logo_Mark",
+        "Wordmark",
+        "Tagline"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "375×812",
+      "nodes": 28,
+      "max_depth": 1,
+      "instances": 15,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "rectangle×8",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Menu",
+        "Logo_Mark",
+        "Link_Avatar",
+        "Wordmark"
+      ]
+    },
+    {
+      "name": "04_Search",
+      "size": "375×812",
+      "nodes": 22,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "rectangle×10",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Bar",
+        "Field_Search",
+        "Icon_Search",
+        "Latest search"
+      ]
+    },
+    {
+      "name": "05_Explore_Products",
+      "size": "375×812",
+      "nodes": 33,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "rectangle×16",
+        "instance×13",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Title",
+        "MOD Wireless",
+        "Link_Filter"
+      ]
+    },
+    {
+      "name": "06_Filter",
+      "size": "375×812",
+      "nodes": 41,
+      "max_depth": 2,
+      "instances": 27,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×27",
+        "text×7",
+        "rectangle×5",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Title",
+        "MOD Wireless",
+        "Link_Filter"
+      ]
+    },
+    {
+      "name": "07_Product_Overview",
+      "size": "375×1580",
+      "nodes": 32,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×10",
+        "rectangle×7",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Gallery",
+        "Photo_Headphone_Detail",
+        "Photo_Detail_Closeup"
+      ]
+    },
+    {
+      "name": "08_Product_Features",
+      "size": "375×760",
+      "nodes": 20,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "text×7",
+        "rectangle×7",
+        "instance×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Product_Name",
+        "Price",
+        "Tab_Overview"
+      ]
+    },
+    {
+      "name": "09_Shopping_Cart",
+      "size": "375×560",
+      "nodes": 12,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×2",
+        "rectangle×2",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Cart_Row_1",
+        "Cart_Row_2",
+        "Summary"
+      ]
+    },
+    {
+      "name": "10_Profile",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×5",
+        "rectangle×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Avatar_User",
+        "Andrea Halim",
+        "andrea.halim@example.com"
+      ]
+    }
+  ]
+}

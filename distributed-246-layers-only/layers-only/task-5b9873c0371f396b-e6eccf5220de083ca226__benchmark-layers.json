@@ -1,0 +1,159 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4492",
+      "nodes": 55,
+      "max_depth": 5,
+      "instances": 35,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×35",
+        "frame×18",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "Hero",
+        "Promo Tiles",
+        "Mosaic",
+        "Left",
+        "Promo/PlayCube 5"
+      ]
+    },
+    {
+      "name": "02_Products",
+      "size": "1440×1912",
+      "nodes": 25,
+      "max_depth": 6,
+      "instances": 15,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "frame×9",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Catalog",
+        "Breadcrumb",
+        "Catalog Layout",
+        "Filters",
+        "Results"
+      ]
+    },
+    {
+      "name": "03_Product_Details",
+      "size": "1440×3910",
+      "nodes": 86,
+      "max_depth": 6,
+      "instances": 47,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×47",
+        "frame×28",
+        "text×11"
+      ],
+      "names": [
+        "Header",
+        "Product",
+        "Breadcrumb",
+        "Product Layout",
+        "Gallery",
+        "Thumbnails"
+      ]
+    },
+    {
+      "name": "04_Shopping_Cart",
+      "size": "1440×1227",
+      "nodes": 10,
+      "max_depth": 4,
+      "instances": 6,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Cart",
+        "Shopping Cart",
+        "Cart Layout",
+        "Cart Rows",
+        "Row/Pomelo One 14 Pro Ma"
+      ]
+    },
+    {
+      "name": "05_Checkout_Address",
+      "size": "1440×1190",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Checkout",
+        "Checkout Stepper",
+        "Select Address",
+        "Address/2118 Thornridge",
+        "Address/Headoffice"
+      ]
+    },
+    {
+      "name": "06_Checkout_Shipping",
+      "size": "1440×1162",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Checkout",
+        "Checkout Stepper",
+        "Shipment Method",
+        "Option/Free",
+        "Option/$8.50"
+      ]
+    },
+    {
+      "name": "07_Checkout_Payment",
+      "size": "1440×1360",
+      "nodes": 42,
+      "max_depth": 5,
+      "instances": 21,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "frame×14",
+        "text×7"
+      ],
+      "names": [
+        "Header",
+        "Checkout",
+        "Checkout Stepper",
+        "Payment Layout",
+        "Summary",
+        "Items"
+      ]
+    }
+  ]
+}

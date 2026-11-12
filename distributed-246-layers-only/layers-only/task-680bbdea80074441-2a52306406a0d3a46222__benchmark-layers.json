@@ -1,0 +1,257 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Check_In",
+      "size": "390×844",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Check In",
+        "Let a student say how th",
+        "01_Check_In / 4 mood car"
+      ]
+    },
+    {
+      "name": "02_Stress_Sources",
+      "size": "390×844",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Stress Sources",
+        "Learn what causes stress",
+        "02_Stress_Sources / 3 mu"
+      ]
+    },
+    {
+      "name": "03_Today",
+      "size": "390×953",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Today",
+        "Start the day: check moo",
+        "03_Today / Header: “TODA"
+      ]
+    },
+    {
+      "name": "04_Focus_Session",
+      "size": "390×884",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Focus Session",
+        "Follow a guided breathin",
+        "04_Focus_Session / Ambie"
+      ]
+    },
+    {
+      "name": "05_Reflect",
+      "size": "390×1020",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Reflect",
+        "Capture how the session ",
+        "05_Reflect / 3 answers: "
+      ]
+    },
+    {
+      "name": "06_Growth_Insights",
+      "size": "390×1188",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Growth Insights",
+        "See how stress changed t",
+        "06_Growth_Insights / Hea"
+      ]
+    },
+    {
+      "name": "07_Your_Routine",
+      "size": "390×1305",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Your Routine",
+        "Tune routine, frequency ",
+        "07_Your_Routine / Curren"
+      ]
+    },
+    {
+      "name": "08_Campus_Support",
+      "size": "390×1333",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Campus Support",
+        "Reach a campus counselor",
+        "08_Campus_Support / Coun"
+      ]
+    },
+    {
+      "name": "09_Exam_Mode",
+      "size": "390×1038",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Exam Mode",
+        "Stay calm in the run-up ",
+        "09_Exam_Mode / Countdown"
+      ]
+    },
+    {
+      "name": "10_Immediate_Support",
+      "size": "390×982",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Immediate Support",
+        "Calm down fast and find ",
+        "10_Immediate_Support / I"
+      ]
+    },
+    {
+      "name": "11_Your_Journey",
+      "size": "390×844",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Your Journey",
+        "Look back at mood entrie",
+        "11_Your_Journey / Filter"
+      ]
+    },
+    {
+      "name": "12_Micro_Exercises",
+      "size": "390×1080",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Micro Exercises",
+        "Find a quick exercise fo",
+        "12_Micro_Exercises / Fil"
+      ]
+    }
+  ]
+}

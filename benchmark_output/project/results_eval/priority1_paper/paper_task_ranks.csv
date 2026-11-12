@@ -1,0 +1,29 @@
+﻿case_id,title,Opus,GPT,Fable,GLM,Kimi,Gemini
+3case-case-001,Balance,2.5,3.0,2.0,6.0,4.5,3.0
+3case-case-002,Paradise Invest,1.0,4.0,2.0,4.0,4.0,6.0
+3case-case-003,Foodgo,1.0,4.0,2.5,3.0,4.5,6.0
+6case-case-001,StockWave,1.0,3.5,3.0,3.0,5.5,5.0
+6case-case-002,Nectar,1.0,2.5,4.0,2.5,5.0,6.0
+6case-case-003,Stylish,1.0,4.5,3.0,3.0,3.5,6.0
+6case-case-005,FinX,3.0,1.0,2.0,4.0,5.0,6.0
+6case-case-006,Fruit Hub,1.0,2.0,3.0,4.0,5.0,6.0
+10case-case-001,Investment Wallet,1.0,5.0,2.0,3.0,6.0,4.0
+10case-case-002,Travelin,1.5,2.5,3.0,3.5,4.5,6.0
+10case-case-003,Stock Trading,1.5,2.0,4.0,4.5,3.0,6.0
+10case-case-004,Meet,1.0,2.0,5.0,3.5,3.5,6.0
+10case-case-005,Expenio,1.0,3.5,3.0,3.5,4.0,6.0
+10case-case-006,Payment Wallet,1.5,2.5,4.0,2.0,5.0,6.0
+10case-case-007,Vulcan Invest,1.0,3.0,3.5,3.5,4.0,6.0
+10case-case-008,Fitness App,1.0,2.0,4.0,3.0,5.0,6.0
+10case-case-009,Workout Class,1.0,2.0,4.0,5.0,3.0,6.0
+10case-case-010,Budget,1.0,2.5,4.5,2.5,4.5,6.0
+web10-case-001,Furniro,1.5,3.0,3.5,2.0,5.5,5.5
+web10-case-002,Foodieland,1.0,2.0,5.0,4.0,3.0,6.0
+web10-case-003,Fasco,1.0,2.0,4.0,3.0,5.0,6.0
+web10-case-004,Shop.co,1.0,2.0,5.0,3.0,4.0,6.0
+web10-case-005,Northgate Homes,1.0,4.0,3.0,5.0,2.0,6.0
+web10-case-006,Octom,3.0,2.0,1.0,4.0,5.0,6.0
+web10-case-007,Foodwagon,1.0,4.0,5.0,3.0,2.0,6.0
+web10-case-008,MAC Agency,2.0,1.0,5.0,3.0,4.0,6.0
+web10-case-009,Deniz Arslan 3D Portfolio,2.0,1.0,4.0,5.0,3.0,6.0
+web10-case-010,ABM Developer Portfolio,2.0,5.0,1.0,4.0,3.0,6.0

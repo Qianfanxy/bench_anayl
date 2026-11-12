@@ -1,0 +1,388 @@
+{
+  "board_count": 18,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "402×874",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×3",
+        "text×2"
+      ],
+      "names": [
+        "Logo_Hawkeye_Owl",
+        "Hawkeye",
+        "YOUR WORLD. YOUR WAY.",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "02_Onboarding_1",
+      "size": "402×874",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×4",
+        "text×4"
+      ],
+      "names": [
+        "Illustration backdrop",
+        "Illustration_Onboarding_",
+        "01 / EXPLORE WITH HAWKEY",
+        "Make your own private tr",
+        "Formulate your strategy ",
+        "Progress"
+      ]
+    },
+    {
+      "name": "03_Onboarding_2",
+      "size": "402×874",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×4",
+        "text×4"
+      ],
+      "names": [
+        "Illustration backdrop",
+        "Illustration_Onboarding_",
+        "02 / EXPLORE WITH HAWKEY",
+        "Customize your high-end ",
+        "Countless high-end enter",
+        "Progress"
+      ]
+    },
+    {
+      "name": "04_Onboarding_3",
+      "size": "402×874",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×4",
+        "text×4"
+      ],
+      "names": [
+        "Illustration backdrop",
+        "Illustration_Onboarding_",
+        "03 / EXPLORE WITH HAWKEY",
+        "High-end leisure project",
+        "The world’s first-class ",
+        "Progress"
+      ]
+    },
+    {
+      "name": "05_Sign_In",
+      "size": "402×874",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×5"
+      ],
+      "names": [
+        "UI / Header",
+        "WELCOME BACK",
+        "Sign in",
+        "Your next adventure star",
+        "E-mail",
+        "UI / Field / E-mail"
+      ]
+    },
+    {
+      "name": "06_Sign_Up",
+      "size": "402×874",
+      "nodes": 15,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×7"
+      ],
+      "names": [
+        "UI / Header",
+        "START YOUR JOURNEY",
+        "Sign up free",
+        "E-mail",
+        "UI / Field / E-mail",
+        "Password"
+      ]
+    },
+    {
+      "name": "07_Home",
+      "size": "402×874",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×4"
+      ],
+      "names": [
+        "Nordic scenery",
+        "Find your next trip",
+        "UI / Search → 9",
+        "UI / Filter",
+        "Popular categories",
+        "UI / Category / Western "
+      ]
+    },
+    {
+      "name": "08_Nordic_Cottage",
+      "size": "402×874",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Photo_Nordic_Cottage",
+        "Photo gradient",
+        "UI / Back",
+        "ICELAND / PRIVATE ESCAPE",
+        "Nordic Cottage",
+        "UI / Rating"
+      ]
+    },
+    {
+      "name": "09_Map",
+      "size": "402×874",
+      "nodes": 21,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "frame×10",
+        "instance×9",
+        "text×2"
+      ],
+      "names": [
+        "Map placeholder",
+        "Map street",
+        "Map water",
+        "REYKJAVÍK",
+        "Icon_Map_Pin",
+        "UI / Map search"
+      ]
+    },
+    {
+      "name": "10_Cottage_Info",
+      "size": "402×874",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Photo_Nordic_Cottage",
+        "UI / Back",
+        "Detail surface",
+        "Nordic Cottage",
+        "UI / Rating",
+        "About"
+      ]
+    },
+    {
+      "name": "11_New_Plan",
+      "size": "402×874",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×6",
+        "frame×1"
+      ],
+      "names": [
+        "UI / Header",
+        "Photo_New_Plan_Banner",
+        "Banner label",
+        "Nordic Cottage",
+        "Select dates",
+        "March"
+      ]
+    },
+    {
+      "name": "12_Add_Itinerary",
+      "size": "402×874",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×1"
+      ],
+      "names": [
+        "UI / Header",
+        "A little planning. A lot",
+        "UI / Day tabs",
+        "UI / Activity / Wake up",
+        "UI / Activity / City tou",
+        "UI / Activity / Sailing "
+      ]
+    },
+    {
+      "name": "13_Travel_Plan",
+      "size": "402×874",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×3"
+      ],
+      "names": [
+        "UI / Header",
+        "Hotel",
+        "UI / Hotel",
+        "Flights",
+        "UI / Flight",
+        "Cost"
+      ]
+    },
+    {
+      "name": "14_Trip_Home",
+      "size": "402×874",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4"
+      ],
+      "names": [
+        "Good morning",
+        "Hello, Alan Love",
+        "Avatar_Alan_Love",
+        "Maldives Island",
+        "UI / Trip card",
+        "Schedule"
+      ]
+    },
+    {
+      "name": "15_Itinerary_Form",
+      "size": "402×874",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×9"
+      ],
+      "names": [
+        "UI / Header",
+        "Icon_Scan",
+        "UI / Chips / Island",
+        "UI / Day tabs",
+        "UI / Schedule timeline",
+        "Action / View specific i"
+      ]
+    },
+    {
+      "name": "16_Partners",
+      "size": "402×874",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3"
+      ],
+      "names": [
+        "YOUR TRAVEL CIRCLE",
+        "Your partner",
+        "UI / Partner / Alan Love",
+        "UI / Partner / Charlotte",
+        "UI / Partner / Evangelin",
+        "UI / Partner / Geraldine"
+      ]
+    },
+    {
+      "name": "17_Social_Links",
+      "size": "402×874",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×3"
+      ],
+      "names": [
+        "UI / Header",
+        "Icon_People",
+        "Your social links",
+        "Here you can post your t",
+        "UI / Social / Facebook",
+        "UI / Social / Twitter"
+      ]
+    },
+    {
+      "name": "18_Profile",
+      "size": "402×874",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×5"
+      ],
+      "names": [
+        "UI / Header",
+        "Avatar_Alan_Love",
+        "Alan Love",
+        "Make every journey your ",
+        "E-mail address",
+        "UI / Field / E-mail addr"
+      ]
+    }
+  ]
+}

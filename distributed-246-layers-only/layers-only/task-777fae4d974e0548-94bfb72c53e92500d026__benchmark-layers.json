@@ -1,0 +1,236 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Sign_In",
+      "size": "375×812",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×7",
+        "frame×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Overlay",
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Mark",
+        "T·Audio"
+      ]
+    },
+    {
+      "name": "02_Sign_Up",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×7",
+        "frame×5",
+        "rectangle×3"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Overlay",
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Mark",
+        "T·Audio"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×6",
+        "text×4",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header · Home",
+        "Body",
+        "Greeting",
+        "Hi, Andrea",
+        "What are you looking for"
+      ]
+    },
+    {
+      "name": "04_Search",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×3",
+        "text×2",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header · Title",
+        "Body",
+        "Search Field",
+        "Latest Search",
+        "Latest search"
+      ]
+    },
+    {
+      "name": "05_Explore_Products",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×7",
+        "text×3",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header · Back Cart",
+        "Body",
+        "Title Row",
+        "Headphone",
+        "Subtitle"
+      ]
+    },
+    {
+      "name": "06_Filter",
+      "size": "375×812",
+      "nodes": 57,
+      "max_depth": 5,
+      "instances": 29,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×29",
+        "frame×18",
+        "text×7",
+        "rectangle×3"
+      ],
+      "names": [
+        "05_Explore_Products (dim",
+        "Status Bar",
+        "Header · Back Cart",
+        "Body",
+        "Title Row",
+        "Headphone"
+      ]
+    },
+    {
+      "name": "07_Product_Overview",
+      "size": "375×1560",
+      "nodes": 54,
+      "max_depth": 4,
+      "instances": 17,
+      "texts": 10,
+      "images": 5,
+      "types": [
+        "instance×17",
+        "frame×17",
+        "text×10",
+        "rectangle-image×5",
+        "rectangle×5"
+      ],
+      "names": [
+        "Header · Title",
+        "Gallery",
+        "GalleryPhoto",
+        "Rectangle",
+        "Dots",
+        "TitleBlock"
+      ]
+    },
+    {
+      "name": "08_Product_Features",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×6",
+        "text×4",
+        "rectangle×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Header · Back Cart",
+        "TitleBlock",
+        "MOD-2 / HD WIRELESS",
+        "USD 350",
+        "Tabs"
+      ]
+    },
+    {
+      "name": "09_Shopping_Cart",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×4",
+        "text×3",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Icon_Back",
+        "Shopping Cart",
+        "Icon_Trash",
+        "CartList"
+      ]
+    },
+    {
+      "name": "10_Profile",
+      "size": "375×812",
+      "nodes": 31,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×10",
+        "text×5",
+        "rectangle×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Header · Title",
+        "CardWrap",
+        "ProfileCard",
+        "Avatar_User",
+        "Info"
+      ]
+    }
+  ]
+}

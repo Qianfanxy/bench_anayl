@@ -1,0 +1,92 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×3",
+        "text×1",
+        "frame×1"
+      ],
+      "names": [
+        "Logo_Travelin",
+        "Your Passport to Seamles",
+        "Accent",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "02_Get_Started",
+      "size": "430×932",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Photo_Aerial_Island",
+        "Overlay",
+        "Logo_Travelin",
+        "Language selector",
+        "Ready to explore beyond ",
+        "Accent"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "430×932",
+      "nodes": 22,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×8",
+        "frame×4"
+      ],
+      "names": [
+        "Photo_Hot_Air_Balloons",
+        "Overlay",
+        "Language selector",
+        "Discover the World with ",
+        "Surface",
+        "Let’s Travel you in."
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "430×932",
+      "nodes": 21,
+      "max_depth": 3,
+      "instances": 15,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Scrollable home content",
+        "Account header",
+        "Search entry",
+        "Upcoming flight ticket",
+        "Category / Flights",
+        "Category / Hotels"
+      ]
+    }
+  ]
+}

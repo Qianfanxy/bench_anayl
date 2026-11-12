@@ -1,0 +1,228 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Sign_In",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×5",
+        "frame×3",
+        "rectangle×1"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Photo Overlay",
+        "Brand",
+        "Wordmark",
+        "Logo_Mark",
+        "Audio"
+      ]
+    },
+    {
+      "name": "02_Sign_Up",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×5",
+        "text×5",
+        "rectangle×3"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Photo Overlay",
+        "Brand",
+        "Wordmark",
+        "Logo_Mark",
+        "Audio"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 13,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×4",
+        "text×2"
+      ],
+      "names": [
+        "Header / Home",
+        "Hi, Andrea",
+        "What are you looking for",
+        "Search Field",
+        "Categories",
+        "Category Chips"
+      ]
+    },
+    {
+      "name": "04_Search",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×2",
+        "rectangle×2"
+      ],
+      "names": [
+        "Header",
+        "Search Field",
+        "Latest search",
+        "Recent · MOD-2 Wireless",
+        "Recent · Cable",
+        "Popular product"
+      ]
+    },
+    {
+      "name": "05_Explore_Products",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×4",
+        "text×3"
+      ],
+      "names": [
+        "Header",
+        "Headphone",
+        "MOD Wireless",
+        "Controls",
+        "Controls Row",
+        "Filter Button"
+      ]
+    },
+    {
+      "name": "06_Filter",
+      "size": "375×812",
+      "nodes": 47,
+      "max_depth": 5,
+      "instances": 27,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×27",
+        "frame×13",
+        "text×6",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "Headphone",
+        "MOD Wireless",
+        "Controls",
+        "Controls Row",
+        "Filter Button"
+      ]
+    },
+    {
+      "name": "07_Product_Overview",
+      "size": "375×1593",
+      "nodes": 31,
+      "max_depth": 5,
+      "instances": 15,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "frame×12",
+        "text×4"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Title Block",
+        "Price",
+        "Product Name",
+        "Tabs"
+      ]
+    },
+    {
+      "name": "08_Product_Features",
+      "size": "375×950",
+      "nodes": 20,
+      "max_depth": 4,
+      "instances": 9,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×7",
+        "text×4"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Title Block",
+        "Price",
+        "Product Name",
+        "Tabs"
+      ]
+    },
+    {
+      "name": "09_Shopping_Cart",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "Cart Row · MOD-2 Comfort",
+        "Cart Row · C02 - Cable",
+        "Checkout Summary",
+        "Total",
+        "Total 2 Items"
+      ]
+    },
+    {
+      "name": "10_Profile",
+      "size": "375×812",
+      "nodes": 26,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×10",
+        "text×5"
+      ],
+      "names": [
+        "Header",
+        "Identity",
+        "Avatar",
+        "Avatar_User",
+        "Frame",
+        "Andrea Halim"
+      ]
+    }
+  ]
+}

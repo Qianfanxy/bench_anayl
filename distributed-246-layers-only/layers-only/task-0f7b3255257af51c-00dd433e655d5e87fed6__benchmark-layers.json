@@ -1,0 +1,221 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "frame×2",
+        "text×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Illustration_Runners",
+        "Gradient",
+        "Content",
+        "Running App",
+        "Run and earn with our ap",
+        "Frame"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "frame×7",
+        "instance×5",
+        "text×4"
+      ],
+      "names": [
+        "TopRow",
+        "BackBtn",
+        "Icon_Arrow_Left",
+        "Skip",
+        "Illustration_Onboarding_",
+        "Run"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "375×812",
+      "nodes": 27,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×10",
+        "text×6"
+      ],
+      "names": [
+        "BackBtn",
+        "Icon_Arrow_Left",
+        "Logo_App",
+        "Log In",
+        "Welcome back, Daniela",
+        "TextField/Filled"
+      ]
+    },
+    {
+      "name": "04_Verify_Email",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "BackBtn",
+        "Icon_Arrow_Left",
+        "Illustration_Verify_Emai",
+        "Verify your email",
+        "We’ve sent a 4-digit cod",
+        "CodeRow"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "375×1394",
+      "nodes": 23,
+      "max_depth": 5,
+      "instances": 13,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×6",
+        "text×4"
+      ],
+      "names": [
+        "ScrollContent",
+        "Header/Home",
+        "DailyGoalCard",
+        "TodayCard",
+        "StatsRow",
+        "StatCard"
+      ]
+    },
+    {
+      "name": "06_History",
+      "size": "375×818",
+      "nodes": 13,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×2"
+      ],
+      "names": [
+        "ScrollContent",
+        "Header/Back",
+        "SummaryBar",
+        "RowList",
+        "HistoryRow",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "07_Store",
+      "size": "375×1029",
+      "nodes": 41,
+      "max_depth": 5,
+      "instances": 21,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "frame×13",
+        "text×7"
+      ],
+      "names": [
+        "ScrollContent",
+        "Header/Back",
+        "SpecialSection",
+        "Today’s Special",
+        "OfferRow",
+        "OfferCard"
+      ]
+    },
+    {
+      "name": "08_Address_Empty",
+      "size": "375×812",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×5"
+      ],
+      "names": [
+        "Header/Back",
+        "EmptyState/Address",
+        "Button/Primary",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "09_New_Wallet",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×1"
+      ],
+      "names": [
+        "Header/Back",
+        "Select the withdrawal ty",
+        "OptionRow",
+        "CardOption",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "10_Account_Updated",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×1",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header/Back",
+        "AccountRow",
+        "+ Add New Account",
+        "Dim",
+        "Modal/AccountUpdated",
+        "Status Bar"
+      ]
+    }
+  ]
+}

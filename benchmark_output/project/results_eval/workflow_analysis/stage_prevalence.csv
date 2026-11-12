@@ -1,0 +1,8 @@
+﻿stage,label,label_zh,runs_with_successful_evidence,runs,share
+O,Orient / inspect constraints,任务与环境理解,173,173,1.0
+P,Prepare resources / system,资源与设计系统准备,173,173,1.0
+C,Construct / modify UI,界面构建与修改,173,173,1.0
+I,Implement interactions,交互与状态实现,159,173,0.9190751445086706
+V,Verify artifact,产物验证,172,173,0.9942196531791907
+D,Declare handoff,交付声明,168,173,0.9710982658959537
+U,Unresolved,待判定,0,173,0.0

@@ -1,0 +1,10 @@
+feature,partial_r
+turns,0.8984470491668647
+construct calls,0.7632942102157235
+inspect calls,0.6892251060929285
+modify calls,0.6140363106738167
+model-caused errors,0.5232354460281565
+calls that delete,0.4477046437344885
+duplicate calls,0.3595831960041399
+same error repeated,0.1529648619523016
+largest tool result,-0.03239153644083248

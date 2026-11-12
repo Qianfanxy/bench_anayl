@@ -1,0 +1,380 @@
+{
+  "board_count": 17,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "428×926",
+      "nodes": 8,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Photo_Welcome",
+        "Photo Fade",
+        "Status Bar",
+        "Intro",
+        "Message",
+        "Page Indicator"
+      ]
+    },
+    {
+      "name": "02_Sign_In_Options",
+      "size": "428×926",
+      "nodes": 18,
+      "max_depth": 4,
+      "instances": 10,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×6",
+        "ellipse×1",
+        "text×1"
+      ],
+      "names": [
+        "Ambient Glow",
+        "Status Bar",
+        "Top Bar",
+        "Back",
+        "Icon_Back",
+        "Content"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "428×926",
+      "nodes": 24,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×8",
+        "text×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Ambient Glow",
+        "Status Bar",
+        "Top Bar",
+        "Back",
+        "Icon_Back",
+        "Content"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "428×926",
+      "nodes": 29,
+      "max_depth": 5,
+      "instances": 15,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "frame×10",
+        "text×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Ambient Glow",
+        "Status Bar",
+        "Header",
+        "Content",
+        "Section · Continue Liste",
+        "Tiles"
+      ]
+    },
+    {
+      "name": "05_Explore",
+      "size": "428×926",
+      "nodes": 27,
+      "max_depth": 5,
+      "instances": 15,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "frame×10",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Content",
+        "Field · Songs, Artists, ",
+        "Section · Your Top Genre",
+        "Genres"
+      ]
+    },
+    {
+      "name": "06_Library",
+      "size": "428×926",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 16,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Content",
+        "Filter Chips",
+        "Chip · Folders",
+        "Chip · Playlists"
+      ]
+    },
+    {
+      "name": "07_Library_Folders",
+      "size": "428×926",
+      "nodes": 20,
+      "max_depth": 3,
+      "instances": 16,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Content",
+        "Filter Chips",
+        "Chip · Folders",
+        "Chip · Playlists"
+      ]
+    },
+    {
+      "name": "08_Folder_Moods",
+      "size": "428×926",
+      "nodes": 13,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Content",
+        "Sort",
+        "Add New Playlist",
+        "Playlists"
+      ]
+    },
+    {
+      "name": "09_Playlist",
+      "size": "428×926",
+      "nodes": 19,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×5",
+        "text×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Ambient Glow",
+        "Status Bar",
+        "Header",
+        "Content",
+        "Hero",
+        "Artwork"
+      ]
+    },
+    {
+      "name": "10_Now_Playing",
+      "size": "428×926",
+      "nodes": 24,
+      "max_depth": 5,
+      "instances": 11,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×10",
+        "text×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Ambient Glow",
+        "Status Bar",
+        "Header",
+        "Content",
+        "Artwork",
+        "Cover_Grainy_Days"
+      ]
+    },
+    {
+      "name": "11_Queue",
+      "size": "428×926",
+      "nodes": 25,
+      "max_depth": 3,
+      "instances": 13,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×8",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Content",
+        "Now",
+        "Label · now playing :",
+        "Now Playing"
+      ]
+    },
+    {
+      "name": "12_Equalizer",
+      "size": "428×926",
+      "nodes": 27,
+      "max_depth": 4,
+      "instances": 18,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "frame×7",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Content",
+        "Output",
+        "EQ Panel",
+        "Zero Line"
+      ]
+    },
+    {
+      "name": "13_Sleep_Timer",
+      "size": "428×926",
+      "nodes": 40,
+      "max_depth": 6,
+      "instances": 21,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "frame×15",
+        "text×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Backdrop · Now Playing (",
+        "Ambient Glow",
+        "Status Bar",
+        "Header",
+        "Content",
+        "Artwork"
+      ]
+    },
+    {
+      "name": "14_Song_Menu",
+      "size": "428×926",
+      "nodes": 47,
+      "max_depth": 6,
+      "instances": 29,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×29",
+        "frame×15",
+        "text×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Backdrop · Now Playing (",
+        "Ambient Glow",
+        "Status Bar",
+        "Header",
+        "Content",
+        "Artwork"
+      ]
+    },
+    {
+      "name": "15_Add_To_Playlist",
+      "size": "428×926",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Content",
+        "Field · Find Playlist",
+        "Button · New Playlist",
+        "Playlists"
+      ]
+    },
+    {
+      "name": "16_New_Playlist",
+      "size": "428×926",
+      "nodes": 17,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×4"
+      ],
+      "names": [
+        "Backdrop · Add to Playli",
+        "Status Bar",
+        "Header",
+        "Content",
+        "Field · Find Playlist",
+        "Button · New Playlist"
+      ]
+    },
+    {
+      "name": "17_Stats",
+      "size": "428×926",
+      "nodes": 21,
+      "max_depth": 3,
+      "instances": 17,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Content",
+        "Tabs",
+        "Tab · Tracks",
+        "Tab · Artists"
+      ]
+    }
+  ]
+}

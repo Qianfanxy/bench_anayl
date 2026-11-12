@@ -1,0 +1,494 @@
+{
+ "file_key": "JxDq23kL46ZvP1olTycfUS",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "5:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "5:5",
+     "name": "Payment Wallet — pay, manage, grow",
+     "x": 64,
+     "y": 95,
+     "text": "Payment Wallet — pay, manage, grow"
+    },
+    {
+     "id": "5:6",
+     "name": "Design a mobile payment wallet: onboard, start with a phone number, see your bank balances and recent transactions, and reach the main areas from the side menu. Canvas 390 × 844, iPhone. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design a mobile payment wallet: onboard, start with a phone number, see your bank balances and recent transactions, and reach the main areas from the side menu. Canvas 390 × 844, iPhone. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "5:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "5:9",
+     "name": "1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator, system numeric keypad). Design all other states, the headers, the navigation and every business component as reusable components in your file. 5. Use the illustration, avatars, bank and merchant marks and icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator, system numeric keypad). Design all other states, the headers, the navigation and every business component as reusable components in your file.\n5. Use the illustration, avatars, bank and merchant marks and icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "5:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 532,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "5:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 583,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "5:15",
+     "name": "01_Onboarding",
+     "x": 88,
+     "y": 645,
+     "text": "01_Onboarding"
+    },
+    {
+     "id": "5:22",
+     "name": "02_Phone_Number",
+     "x": 756,
+     "y": 645,
+     "text": "02_Phone_Number"
+    },
+    {
+     "id": "5:16",
+     "name": "Goal: Understand the app and choose to start.",
+     "x": 88,
+     "y": 681,
+     "text": "Goal: Understand the app and choose to start."
+    },
+    {
+     "id": "5:23",
+     "name": "Goal: Enter a phone number to get started.",
+     "x": 756,
+     "y": 681,
+     "text": "Goal: Enter a phone number to get started."
+    },
+    {
+     "id": "5:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:18",
+     "name": "• Actions: “Get Started” · “Sign in” • Copy: “Pay / Manage / Grow…” (one word per line) · “An easy app to manage all your payment and finance-related needs” · “Already have an account?” • Media: Illustration_Onboarding",
+     "x": 88,
+     "y": 737,
+     "text": "• Actions: “Get Started” · “Sign in”\n• Copy: “Pay / Manage / Grow…” (one word per line) · “An easy app to manage all your payment and finance-related needs” · “Already have an account?”\n• Media: Illustration_Onboarding"
+    },
+    {
+     "id": "5:25",
+     "name": "• Actions: “Cancel” · “Get Started” • Form: “Phone Number” · country code +91 · empty (placeholder 9812345678) · focused • Header: “Get Started” · “Please enter the mobile phone number” • Keyboard: system numeric keypad open (Numeric Keypad) • Presentation: sheet over 01_Onboarding",
+     "x": 756,
+     "y": 737,
+     "text": "• Actions: “Cancel” · “Get Started”\n• Form: “Phone Number” · country code +91 · empty (placeholder 9812345678) · focused\n• Header: “Get Started” · “Please enter the mobile phone number”\n• Keyboard: system numeric keypad open (Numeric Keypad)\n• Presentation: sheet over 01_Onboarding"
+    },
+    {
+     "id": "5:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 827,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 847,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:20",
+     "name": "→ Get Started → 02_Phone_Number",
+     "x": 88,
+     "y": 853,
+     "text": "→ Get Started → 02_Phone_Number"
+    },
+    {
+     "id": "5:27",
+     "name": "→ Get Started → 03_Home → Cancel → 01_Onboarding",
+     "x": 756,
+     "y": 873,
+     "text": "→ Get Started → 03_Home\n→ Cancel → 01_Onboarding"
+    },
+    {
+     "id": "5:29",
+     "name": "03_Home",
+     "x": 88,
+     "y": 985,
+     "text": "03_Home"
+    },
+    {
+     "id": "5:36",
+     "name": "04_Menu",
+     "x": 756,
+     "y": 985,
+     "text": "04_Menu"
+    },
+    {
+     "id": "5:30",
+     "name": "Goal: Check my balances, move money and see recent transactions.",
+     "x": 88,
+     "y": 1021,
+     "text": "Goal: Check my balances, move money and see recent transactions."
+    },
+    {
+     "id": "5:37",
+     "name": "Goal: Reach the main areas of the app.",
+     "x": 756,
+     "y": 1021,
+     "text": "Goal: Reach the main areas of the app."
+    },
+    {
+     "id": "5:31",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1051,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:38",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1051,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:32",
+     "name": "• Accounts: Axis Bank · HDFC Bank · Deutsche Bank · Union Bank, each with its mark and balance (see DATA) • Actions: “Send” (Icon_Send) · “Receive” (Icon_Receive) · refresh balance (Icon_Refresh) · “Transaction History” · “Scan any QR” (Icon_Scan) • Balance: Bank_HSBC · “Last Updated Balance” · ₹85,625 · “Primary” (Icon_Check_Badge) • Header: Avatar_Hallie_Goebel (opens the menu) · search “Pay by name or phone” (Icon_Search) · history (Icon_History) • Offer: “Invite friends and get ₹1,000 reward” (Icon_Offer) • Transactions: “RECENT TRANSACTIONS” · 3 rows (see DATA)",
+     "x": 88,
+     "y": 1077,
+     "text": "• Accounts: Axis Bank · HDFC Bank · Deutsche Bank · Union Bank, each with its mark and balance (see DATA)\n• Actions: “Send” (Icon_Send) · “Receive” (Icon_Receive) · refresh balance (Icon_Refresh) · “Transaction History” · “Scan any QR” (Icon_Scan)\n• Balance: Bank_HSBC · “Last Updated Balance” · ₹85,625 · “Primary” (Icon_Check_Badge)\n• Header: Avatar_Hallie_Goebel (opens the menu) · search “Pay by name or phone” (Icon_Search) · history (Icon_History)\n• Offer: “Invite friends and get ₹1,000 reward” (Icon_Offer)\n• Transactions: “RECENT TRANSACTIONS” · 3 rows (see DATA)"
+    },
+    {
+     "id": "5:39",
+     "name": "• Account: Avatar_Hallie_Goebel · “Hallie Goebel” · hallie.goebel@example.com • Actions: “Logout” (Icon_Logout) • Menu: New Payment (Icon_New_Payment) · Bank Accounts (Icon_Bank) · All Transactions (Icon_History) · Rewards & Offers (Icon_Offer) · Settings (Icon_Settings) — source order • Presentation: side menu over 03_Home, with 03_Home still partly visible",
+     "x": 756,
+     "y": 1077,
+     "text": "• Account: Avatar_Hallie_Goebel · “Hallie Goebel” · hallie.goebel@example.com\n• Actions: “Logout” (Icon_Logout)\n• Menu: New Payment (Icon_New_Payment) · Bank Accounts (Icon_Bank) · All Transactions (Icon_History) · Rewards & Offers (Icon_Offer) · Settings (Icon_Settings) — source order\n• Presentation: side menu over 03_Home, with 03_Home still partly visible"
+    },
+    {
+     "id": "5:40",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1207,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:41",
+     "name": "→ tap the visible part of 03_Home → 03_Home",
+     "x": 756,
+     "y": 1233,
+     "text": "→ tap the visible part of 03_Home → 03_Home"
+    },
+    {
+     "id": "5:33",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1267,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:34",
+     "name": "→ avatar → 04_Menu",
+     "x": 88,
+     "y": 1293,
+     "text": "→ avatar → 04_Menu"
+    },
+    {
+     "id": "5:43",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 1385,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "5:44",
+     "name": "• Onboarding: 01_Onboarding → Get Started → 02_Phone_Number (sheet over 01) → Get Started → 03_Home; Cancel → 01. • 04_Menu is a side menu opened from the avatar on 03_Home. There is no tab bar in this task. • Entry only (no frame): Sign in, search, history, refresh, account tiles, Send, Receive, reward banner, transaction rows, Transaction History, Scan any QR, menu rows, Logout.",
+     "x": 64,
+     "y": 1436,
+     "text": "• Onboarding: 01_Onboarding → Get Started → 02_Phone_Number (sheet over 01) → Get Started → 03_Home; Cancel → 01.\n• 04_Menu is a side menu opened from the avatar on 03_Home. There is no tab bar in this task.\n• Entry only (no frame): Sign in, search, history, refresh, account tiles, Send, Receive, reward banner, transaction rows, Transaction History, Scan any QR, menu rows, Logout."
+    },
+    {
+     "id": "5:46",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 1550,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "5:47",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 1601,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "5:50",
+     "name": "User",
+     "x": 84,
+     "y": 1659,
+     "text": "User"
+    },
+    {
+     "id": "5:53",
+     "name": "Primary account",
+     "x": 528,
+     "y": 1659,
+     "text": "Primary account"
+    },
+    {
+     "id": "5:56",
+     "name": "Other accounts (source order)",
+     "x": 972,
+     "y": 1659,
+     "text": "Other accounts (source order)"
+    },
+    {
+     "id": "5:51",
+     "name": "Hallie Goebel · hallie.goebel@example.com · Avatar_Hallie_Goebel",
+     "x": 84,
+     "y": 1687,
+     "text": "Hallie Goebel · hallie.goebel@example.com · Avatar_Hallie_Goebel"
+    },
+    {
+     "id": "5:54",
+     "name": "HSBC (Bank_HSBC) · Last Updated Balance ₹85,625 · Primary",
+     "x": 528,
+     "y": 1687,
+     "text": "HSBC (Bank_HSBC) · Last Updated Balance ₹85,625 · Primary"
+    },
+    {
+     "id": "5:57",
+     "name": "Axis Bank ₹3,500 (Bank_Axis) HDFC Bank ₹63,520 (Bank_HDFC) Deutsche Bank ₹36,258 (Bank_Deutsche) Union Bank ₹67,820 (Bank_Union)",
+     "x": 972,
+     "y": 1687,
+     "text": "Axis Bank ₹3,500 (Bank_Axis)\nHDFC Bank ₹63,520 (Bank_HDFC)\nDeutsche Bank ₹36,258 (Bank_Deutsche)\nUnion Bank ₹67,820 (Bank_Union)"
+    },
+    {
+     "id": "5:59",
+     "name": "Recent transactions (newest first)",
+     "x": 84,
+     "y": 1827,
+     "text": "Recent transactions (newest first)"
+    },
+    {
+     "id": "5:62",
+     "name": "Reward",
+     "x": 528,
+     "y": 1827,
+     "text": "Reward"
+    },
+    {
+     "id": "5:65",
+     "name": "Phone sign-up",
+     "x": 972,
+     "y": 1827,
+     "text": "Phone sign-up"
+    },
+    {
+     "id": "5:60",
+     "name": "Paytm Auto Pay · 22 Jan · Weekly transaction · −₹3,500 (Merchant_Paytm) Risa Midyett · 05 Jan · Gift for Christmas · +₹6,950 (Avatar_Risa_Midyett) Amazon Pantry · 01 Jan · Subscription payment · −₹1,200 (Merchant_Amazon)",
+     "x": 84,
+     "y": 1855,
+     "text": "Paytm Auto Pay · 22 Jan · Weekly transaction · −₹3,500 (Merchant_Paytm)\nRisa Midyett · 05 Jan · Gift for Christmas · +₹6,950 (Avatar_Risa_Midyett)\nAmazon Pantry · 01 Jan · Subscription payment · −₹1,200 (Merchant_Amazon)"
+    },
+    {
+     "id": "5:63",
+     "name": "Invite friends and get ₹1,000 reward",
+     "x": 528,
+     "y": 1855,
+     "text": "Invite friends and get ₹1,000 reward"
+    },
+    {
+     "id": "5:66",
+     "name": "Country code +91 · field empty, placeholder 9812345678",
+     "x": 972,
+     "y": 1855,
+     "text": "Country code +91 · field empty, placeholder 9812345678"
+    },
+    {
+     "id": "5:68",
+     "name": "Menu (source order)",
+     "x": 84,
+     "y": 2033,
+     "text": "Menu (source order)"
+    },
+    {
+     "id": "5:69",
+     "name": "New Payment · Bank Accounts · All Transactions · Rewards & Offers · Settings · Logout",
+     "x": 84,
+     "y": 2061,
+     "text": "New Payment · Bank Accounts · All Transactions · Rewards & Offers · Settings · Logout"
+    },
+    {
+     "id": "5:71",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 2167,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "5:74",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 2242,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "5:77",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 2242,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "5:75",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand color #1E32FA and Inter • Media: illustration, avatars, bank and merchant marks, icons • Default Button, default Text Field, platform shell incl. numeric keypad",
+     "x": 88,
+     "y": 2275,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand color #1E32FA and Inter\n• Media: illustration, avatars, bank and merchant marks, icons\n• Default Button, default Text Field, platform shell incl. numeric keypad"
+    },
+    {
+     "id": "5:78",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, backgrounds / surfaces, Send / Receive, positive / negative amounts, reward banner, error / disabled • Type scale, spacing, radii, elevation • All states: focused field, primary account, pressed, disabled • Headers, sheet, balance block, account tiles, actions, banner, transaction rows, scan button, side menu • How the illustration and photos are cropped and treated",
+     "x": 756,
+     "y": 2275,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, backgrounds / surfaces, Send / Receive, positive / negative amounts, reward banner, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: focused field, primary account, pressed, disabled\n• Headers, sheet, balance block, account tiles, actions, banner, transaction rows, scan button, side menu\n• How the illustration and photos are cropped and treated"
+    },
+    {
+     "id": "5:80",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 2507,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "5:81",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 2558,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "5:82",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (focused phone field with keypad, primary account, sheet and side-menu presentation)",
+     "x": 64,
+     "y": 2596,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (focused phone field with keypad, primary account, sheet and side-menu presentation)"
+    },
+    {
+     "id": "5:83",
+     "name": "Deliverable: the link to your own Figma file containing the 4 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 2766,
+     "text": "Deliverable: the link to your own Figma file containing the 4 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · Payment Wallet",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Payment Wallet"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces (including any tint or gradient), positive / negative amounts, the action colors for Send and Receive, the reward banner, error and disabled, type scale, spacing, radii and elevation.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces (including any tint or gradient), positive / negative amounts, the action colors for Send and Receive, the reward banner, error and disabled, type scale, spacing, radii and elevation."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand color",
+     "x": 56,
+     "y": 208,
+     "text": "Brand color"
+    },
+    {
+     "id": "1:12",
+     "name": "Brand primary · ultramarine",
+     "x": 56,
+     "y": 392,
+     "text": "Brand primary · ultramarine"
+    },
+    {
+     "id": "1:13",
+     "name": "#1E32FA",
+     "x": 56,
+     "y": 417,
+     "text": "#1E32FA"
+    },
+    {
+     "id": "1:14",
+     "name": "The app’s main brand color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 441,
+     "text": "The app’s main brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:15",
+     "name": "Typeface",
+     "x": 56,
+     "y": 518,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:16",
+     "name": "Aa Bb Cc 0123456789 ₹85,625",
+     "x": 56,
+     "y": 574,
+     "text": "Aa Bb Cc 0123456789  ₹85,625"
+    },
+    {
+     "id": "1:17",
+     "name": "Use Inter for all UI text (it replaces the source’s SF Pro, which is not available). Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 654,
+     "text": "Use Inter for all UI text (it replaces the source’s SF Pro, which is not available). Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:18",
+     "name": "Canvas: 390 × 844 (iPhone 13 / 14). 03_Home may scroll vertically. Light or dark surfaces per screen are your decision.",
+     "x": 56,
+     "y": 703,
+     "text": "Canvas: 390 × 844 (iPhone 13 / 14). 03_Home may scroll vertically. Light or dark surfaces per screen are your decision."
+    }
+   ]
+  }
+ ]
+}

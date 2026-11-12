@@ -1,0 +1,1231 @@
+[
+ {
+  "round": "10case",
+  "case": "Budget",
+  "model": "Gemini 3.5 Flash",
+  "kind": "G0 未通过 / 0 分",
+  "sev": "high",
+  "detail": "第1屏几乎全空，仅左上角一行测试文字，主流程页面全部缺失"
+ },
+ {
+  "round": "3case",
+  "case": "Balance",
+  "model": "Gemini 3.5 Flash",
+  "kind": "G0 未通过 / 0 分",
+  "sev": "high",
+  "detail": "第2至11屏仅有页面标题，OTP、首页等主流程内容整体缺失"
+ },
+ {
+  "round": "web10",
+  "case": "ABM Developer Portfolio",
+  "model": "Gemini 3.5 Flash",
+  "kind": "G0 未通过 / 0 分",
+  "sev": "high",
+  "detail": "第1屏主视觉文字、项目卡与经历卡被大面积裁切，主要内容无法辨认"
+ },
+ {
+  "round": "web10",
+  "case": "Foodieland",
+  "model": "Gemini 3.5 Flash",
+  "kind": "G0 未通过 / 0 分",
+  "sev": "high",
+  "detail": "五屏主体几乎全为空白或空色块，首页主视觉、菜谱列表、博客正文与联系表单均缺失"
+ },
+ {
+  "round": "10case",
+  "case": "Budget",
+  "model": "Gemini 3.5 Flash",
+  "kind": "截图几乎空白",
+  "sev": "high",
+  "detail": [
+   "01_Expenses(std 5.8)"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Fitness App",
+  "model": "Gemini 3.5 Flash",
+  "kind": "截图几乎空白",
+  "sev": "high",
+  "detail": [
+   "01_Onboarding(std 0.0)",
+   "02_Home(std 0.0)",
+   "03_Explore(std 0.0)",
+   "04_Workout(std 0.0)",
+   "05_Analytics(std 0.0)",
+   "02_Home(std 0.0)",
+   "03_Explore(std 0.0)",
+   "04_Workout(std 0.0)",
+   "05_Analytics(std 0.0)"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Balance",
+  "model": "Gemini 3.5 Flash",
+  "kind": "截图几乎空白",
+  "sev": "high",
+  "detail": [
+   "02_OTP(std 3.4)",
+   "05_Home_Transactions(std 5.9)",
+   "07_Cards(std 4.2)",
+   "08_Profile(std 4.5)",
+   "09_Analytics(std 5.1)",
+   "10_Markets(std 5.1)",
+   "11_Send(std 4.0)"
+  ]
+ },
+ {
+  "round": "6case",
+  "case": "Fruit Hub",
+  "model": "GLM-5.3 Flash",
+  "kind": "截图几乎空白",
+  "sev": "high",
+  "detail": [
+   "01_Splash(std 3.1)"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Furniro",
+  "model": "gpt-6-astra",
+  "kind": "截图几乎空白",
+  "sev": "high",
+  "detail": [
+   "Furniro · UI system(std 0.0)"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Budget",
+  "model": "Gemini 3.5 Flash",
+  "kind": "缺少规定画板",
+  "sev": "high",
+  "detail": [
+   "02_Bill",
+   "03_Credit_Score"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Balance",
+  "model": "Qwen3.8-27B Figma Edit · ckpt-270",
+  "kind": "缺少规定画板",
+  "sev": "high",
+  "detail": [
+   "03_Home_My_Balance",
+   "04_Home_Upcoming_Bills",
+   "05_Home_Transactions",
+   "06_Discussion_Forum",
+   "07_Cards",
+   "08_Profile",
+   "09_Analytics",
+   "10_Markets",
+   "11_Send"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Paradise Invest",
+  "model": "Qwen3.8-27B Figma Edit · ckpt-270",
+  "kind": "缺少规定画板",
+  "sev": "high",
+  "detail": [
+   "07_Profile",
+   "08_Contact_Info",
+   "09_Bank_Account_Info"
+  ]
+ },
+ {
+  "round": "6case",
+  "case": "Chat Bot AI",
+  "model": "gpt-6-astra",
+  "kind": "缺少规定画板",
+  "sev": "high",
+  "detail": [
+   "05_Chat_New",
+   "06_Chat_Conversation",
+   "07_Export_PDF_Sheet",
+   "08_Profile_Settings",
+   "09_Account_Actions_Sheet",
+   "10_Theme_Sheet",
+   "11_Cloud_Space",
+   "12_Clear_Cache_Dialog"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Fitness App",
+  "model": "Gemini 3.5 Flash",
+  "kind": "多张截图完全相同",
+  "sev": "mid",
+  "detail": [
+   "01_Onboarding",
+   "02_Home",
+   "03_Explore",
+   "04_Workout",
+   "05_Analytics",
+   "01_Onboarding",
+   "02_Home",
+   "03_Explore",
+   "04_Workout",
+   "05_Analytics",
+   "01_Onboarding"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Fitness App",
+  "model": "Kimi K3",
+  "kind": "明显低于该模型平时水平",
+  "sev": "mid",
+  "detail": "27 vs 均值 40.8±5.7"
+ },
+ {
+  "round": "3case",
+  "case": "Balance",
+  "model": "GLM-5.3 Flash",
+  "kind": "明显低于该模型平时水平",
+  "sev": "mid",
+  "detail": "32 vs 均值 43.0±5.0"
+ },
+ {
+  "round": "6case",
+  "case": "FinX",
+  "model": "GLM-5.3 Flash",
+  "kind": "明显低于该模型平时水平",
+  "sev": "mid",
+  "detail": "33 vs 均值 43.0±5.0"
+ },
+ {
+  "round": "6case",
+  "case": "Stylish",
+  "model": "Opus 5.5（三方A）",
+  "kind": "明显低于该模型平时水平",
+  "sev": "mid",
+  "detail": "42 vs 均值 48.7±2.6"
+ },
+ {
+  "round": "web10",
+  "case": "Furniro",
+  "model": "gpt-6-astra",
+  "kind": "明显低于该模型平时水平",
+  "sev": "mid",
+  "detail": "34 vs 均值 44.9±4.5"
+ },
+ {
+  "round": "10case",
+  "case": "Fitness App",
+  "model": "Gemini 3.5 Flash",
+  "kind": "比同题其他模型中位数低 10 分以上",
+  "sev": "mid",
+  "detail": "33 vs 中位 44.5"
+ },
+ {
+  "round": "10case",
+  "case": "Fitness App",
+  "model": "Kimi K3",
+  "kind": "比同题其他模型中位数低 10 分以上",
+  "sev": "mid",
+  "detail": "27 vs 中位 44.5"
+ },
+ {
+  "round": "10case",
+  "case": "Stock Trading",
+  "model": "Gemini 3.5 Flash",
+  "kind": "比同题其他模型中位数低 10 分以上",
+  "sev": "mid",
+  "detail": "33 vs 中位 44.0"
+ },
+ {
+  "round": "10case",
+  "case": "Travelin",
+  "model": "Gemini 3.5 Flash",
+  "kind": "比同题其他模型中位数低 10 分以上",
+  "sev": "mid",
+  "detail": "37 vs 中位 50.5"
+ },
+ {
+  "round": "web10",
+  "case": "Deniz Arslan 3D Portfolio",
+  "model": "Gemini 3.5 Flash",
+  "kind": "比同题其他模型中位数低 10 分以上",
+  "sev": "mid",
+  "detail": "37 vs 中位 47.5"
+ },
+ {
+  "round": "web10",
+  "case": "Fasco",
+  "model": "Gemini 3.5 Flash",
+  "kind": "比同题其他模型中位数低 10 分以上",
+  "sev": "mid",
+  "detail": "27 vs 中位 38.5"
+ },
+ {
+  "round": "web10",
+  "case": "Foodwagon",
+  "model": "Gemini 3.5 Flash",
+  "kind": "比同题其他模型中位数低 10 分以上",
+  "sev": "mid",
+  "detail": "30 vs 中位 47.0"
+ },
+ {
+  "round": "web10",
+  "case": "MAC Agency",
+  "model": "Gemini 3.5 Flash",
+  "kind": "比同题其他模型中位数低 10 分以上",
+  "sev": "mid",
+  "detail": "32 vs 中位 44.5"
+ },
+ {
+  "round": "web10",
+  "case": "Northgate Homes",
+  "model": "Gemini 3.5 Flash",
+  "kind": "比同题其他模型中位数低 10 分以上",
+  "sev": "mid",
+  "detail": "33 vs 中位 43.0"
+ },
+ {
+  "round": "web10",
+  "case": "Octom",
+  "model": "Gemini 3.5 Flash",
+  "kind": "比同题其他模型中位数低 10 分以上",
+  "sev": "mid",
+  "detail": "29 vs 中位 45.5"
+ },
+ {
+  "round": "web10",
+  "case": "Shop.co",
+  "model": "Gemini 3.5 Flash",
+  "kind": "比同题其他模型中位数低 10 分以上",
+  "sev": "mid",
+  "detail": "28 vs 中位 46.5"
+ },
+ {
+  "round": "10case",
+  "case": "Fitness App",
+  "model": "Gemini 3.5 Flash",
+  "kind": "画板重复（同名多份）",
+  "sev": "mid",
+  "detail": [
+   "01_Onboarding",
+   "02_Home",
+   "03_Explore",
+   "04_Workout",
+   "05_Analytics"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Investment Wallet",
+  "model": "Gemini 3.5 Flash",
+  "kind": "画板重复（同名多份）",
+  "sev": "mid",
+  "detail": [
+   "01_Wallet",
+   "02_Discovery"
+  ]
+ },
+ {
+  "round": "6case",
+  "case": "Fruit Hub",
+  "model": "GLM-5.3 Flash",
+  "kind": "画板重复（同名多份）",
+  "sev": "mid",
+  "detail": [
+   "01_Splash",
+   "02_Welcome",
+   "03_Name",
+   "04_Home",
+   "05_Product_Quinoa",
+   "06_Basket",
+   "07_Checkout_Delivery",
+   "08_Checkout_Card",
+   "09_Order_Complete",
+   "10_Track_Order"
+  ]
+ },
+ {
+  "round": "6case",
+  "case": "Nectar",
+  "model": "Gemini 3.5 Flash",
+  "kind": "缺少规定画板",
+  "sev": "mid",
+  "detail": [
+   "09_My_Cart"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Budget",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "2.0 分钟"
+ },
+ {
+  "round": "10case",
+  "case": "Expenio",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "4.6 分钟"
+ },
+ {
+  "round": "10case",
+  "case": "Expenio",
+  "model": "Gemini 3.5 Flash",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "4.2 分钟"
+ },
+ {
+  "round": "10case",
+  "case": "Investment Wallet",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "4.3 分钟"
+ },
+ {
+  "round": "10case",
+  "case": "Payment Wallet",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "4.1 分钟"
+ },
+ {
+  "round": "10case",
+  "case": "Stock Trading",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "4.1 分钟"
+ },
+ {
+  "round": "10case",
+  "case": "Travelin",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "6.3 分钟"
+ },
+ {
+  "round": "10case",
+  "case": "Vulcan Invest",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "7.0 分钟"
+ },
+ {
+  "round": "10case",
+  "case": "Workout Class",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "5.7 分钟"
+ },
+ {
+  "round": "10case",
+  "case": "Workout Class",
+  "model": "Gemini 3.5 Flash",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "7.7 分钟"
+ },
+ {
+  "round": "3case",
+  "case": "Paradise Invest",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "7.9 分钟"
+ },
+ {
+  "round": "6case",
+  "case": "Chat Bot AI",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "2.5 分钟"
+ },
+ {
+  "round": "6case",
+  "case": "Chat Bot AI",
+  "model": "Gemini 3.5 Flash",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "6.4 分钟"
+ },
+ {
+  "round": "6case",
+  "case": "Fruit Hub",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "5.4 分钟"
+ },
+ {
+  "round": "6case",
+  "case": "StockWave",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "6.5 分钟"
+ },
+ {
+  "round": "6case",
+  "case": "Stylish",
+  "model": "Gemini 3.5 Flash",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "7.3 分钟"
+ },
+ {
+  "round": "web10",
+  "case": "ABM Developer Portfolio",
+  "model": "Opus 5.5（三方A）",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "6.6 分钟"
+ },
+ {
+  "round": "web10",
+  "case": "ABM Developer Portfolio",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "4.2 分钟"
+ },
+ {
+  "round": "web10",
+  "case": "ABM Developer Portfolio",
+  "model": "Gemini 3.5 Flash",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "5.2 分钟"
+ },
+ {
+  "round": "web10",
+  "case": "Deniz Arslan 3D Portfolio",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "4.3 分钟"
+ },
+ {
+  "round": "web10",
+  "case": "Deniz Arslan 3D Portfolio",
+  "model": "Gemini 3.5 Flash",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "5.8 分钟"
+ },
+ {
+  "round": "web10",
+  "case": "Foodieland",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "6.2 分钟"
+ },
+ {
+  "round": "web10",
+  "case": "Foodwagon",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "6.0 分钟"
+ },
+ {
+  "round": "web10",
+  "case": "Foodwagon",
+  "model": "Gemini 3.5 Flash",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "5.5 分钟"
+ },
+ {
+  "round": "web10",
+  "case": "MAC Agency",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "4.0 分钟"
+ },
+ {
+  "round": "web10",
+  "case": "MAC Agency",
+  "model": "Gemini 3.5 Flash",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "5.2 分钟"
+ },
+ {
+  "round": "web10",
+  "case": "Northgate Homes",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "5.6 分钟"
+ },
+ {
+  "round": "web10",
+  "case": "Shop.co",
+  "model": "gpt-6-astra",
+  "kind": "推理用时很短",
+  "sev": "low",
+  "detail": "7.7 分钟"
+ },
+ {
+  "round": "10case",
+  "case": "Budget",
+  "model": "Kimi K3",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "🧩 Budget · UI Kit"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Investment Wallet",
+  "model": "Fable 5.1",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "Media · copied"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Investment Wallet",
+  "model": "gpt-6-astra",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "Reusable UI · Nunito / Graphite"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Meet",
+  "model": "gpt-6-astra",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "Meet · Reusable UI"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Stock Trading",
+  "model": "gpt-6-astra",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "Workspace · reusable UI"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Balance",
+  "model": "Opus 5.5（三方A）",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "Foundations · Balance (tokens)"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Foodgo",
+  "model": "Fable 5.1",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "Assets · Platform & Icons",
+   "Assets · Media",
+   "03_Product_Cheeseburger",
+   "04_Product_Veggie",
+   "05_Product_Chicken",
+   "06_Product_Fried_Chicken"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Foodgo",
+  "model": "Opus 5.5（三方A）",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Product_Cheeseburger",
+   "04_Product_Veggie",
+   "05_Product_Chicken",
+   "06_Product_Fried_Chicken"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Foodgo",
+  "model": "gpt-6-astra",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Product_Cheeseburger",
+   "04_Product_Veggie",
+   "05_Product_Chicken",
+   "06_Product_Fried_Chicken"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Foodgo",
+  "model": "Gemini 3.5 Flash",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Product_Cheeseburger",
+   "04_Product_Veggie",
+   "05_Product_Chicken",
+   "06_Product_Fried_Chicken"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Foodgo",
+  "model": "GLM-5.3 Flash",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Product_Cheeseburger",
+   "04_Product_Veggie",
+   "05_Product_Chicken",
+   "06_Product_Fried_Chicken"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Foodgo",
+  "model": "Kimi K3",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Product_Cheeseburger",
+   "04_Product_Veggie",
+   "05_Product_Chicken",
+   "06_Product_Fried_Chicken"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Foodgo",
+  "model": "Qwen3.8-27B Figma Edit · ckpt-270",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "_Library Assets",
+   "03_Product_Cheeseburger",
+   "04_Product_Veggie",
+   "05_Product_Chicken",
+   "06_Product_Fried_Chicken"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Paradise Invest",
+  "model": "Fable 5.1",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Create_Account_Empty",
+   "03_Create_Account_Filled",
+   "03_Create_Account_Error"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Paradise Invest",
+  "model": "Opus 5.5（三方A）",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Create_Account_Empty",
+   "03_Create_Account_Filled",
+   "03_Create_Account_Error"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Paradise Invest",
+  "model": "gpt-6-astra",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Create_Account_Empty",
+   "03_Create_Account_Filled",
+   "03_Create_Account_Error"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Paradise Invest",
+  "model": "Gemini 3.5 Flash",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Create_Account_Empty",
+   "03_Create_Account_Filled",
+   "03_Create_Account_Error"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Paradise Invest",
+  "model": "GLM-5.3 Flash",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Create_Account_Empty",
+   "03_Create_Account_Filled",
+   "03_Create_Account_Error"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Paradise Invest",
+  "model": "Kimi K3",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Create_Account_Empty",
+   "03_Create_Account_Filled",
+   "03_Create_Account_Error"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Paradise Invest",
+  "model": "Qwen3.8-27B Figma Edit · ckpt-270",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Create_Account_Empty",
+   "03_Create_Account_Filled",
+   "03_Create_Account_Error"
+  ]
+ },
+ {
+  "round": "6case",
+  "case": "StockWave",
+  "model": "Fable 5.1",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Sign_Up_Empty",
+   "03_Sign_Up_Filled"
+  ]
+ },
+ {
+  "round": "6case",
+  "case": "StockWave",
+  "model": "Opus 5.5（三方A）",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Sign_Up_Empty",
+   "03_Sign_Up_Filled"
+  ]
+ },
+ {
+  "round": "6case",
+  "case": "StockWave",
+  "model": "gpt-6-astra",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Sign_Up_Empty",
+   "03_Sign_Up_Filled"
+  ]
+ },
+ {
+  "round": "6case",
+  "case": "StockWave",
+  "model": "Gemini 3.5 Flash",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Sign_Up_Empty",
+   "03_Sign_Up_Filled"
+  ]
+ },
+ {
+  "round": "6case",
+  "case": "StockWave",
+  "model": "GLM-5.3 Flash",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Sign_Up_Empty",
+   "03_Sign_Up_Filled"
+  ]
+ },
+ {
+  "round": "6case",
+  "case": "StockWave",
+  "model": "Kimi K3",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "03_Sign_Up_Empty",
+   "03_Sign_Up_Filled"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "ABM Developer Portfolio",
+  "model": "Kimi K3",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "Library · Buttons & Nav",
+   "Library · Sections & Cards"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Deniz Arslan 3D Portfolio",
+  "model": "GLM-5.3 Flash",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "System · colors & type scale"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Foodieland",
+  "model": "Fable 5.1",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "Design Library · Foodieland"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Foodieland",
+  "model": "Kimi K3",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "■ Assets"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Furniro",
+  "model": "gpt-6-astra",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "Furniro · UI system"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "MAC Agency",
+  "model": "Kimi K3",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "· Patterns"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Shop.co",
+  "model": "gpt-6-astra",
+  "kind": "画板名不在需求清单",
+  "sev": "low",
+  "detail": [
+   "SHOP.CO · System"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Investment Wallet",
+  "model": "Fable 5.1",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "Media · copied 底部 1/4 空白"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Investment Wallet",
+  "model": "gpt-6-astra",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "Reusable UI · Nunito / Graphite 2140×2550"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Meet",
+  "model": "gpt-6-astra",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "Meet · Reusable UI 1254×7994"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Stock Trading",
+  "model": "gpt-6-astra",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "Workspace · reusable UI 1150×4800"
+  ]
+ },
+ {
+  "round": "10case",
+  "case": "Workout Class",
+  "model": "Gemini 3.5 Flash",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "04_Activity 底部 1/4 空白"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Balance",
+  "model": "Opus 5.5（三方A）",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "Foundations · Balance (tokens) 1213×1718"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Balance",
+  "model": "Gemini 3.5 Flash",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "01_Sign_Up 底部 1/4 空白"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Foodgo",
+  "model": "Fable 5.1",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "Assets · Platform & Icons 1240×1400",
+   "Assets · Media 1240×1100"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Foodgo",
+  "model": "gpt-6-astra",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "09_Payment_Success_Overlay 底部 1/4 空白"
+  ]
+ },
+ {
+  "round": "3case",
+  "case": "Foodgo",
+  "model": "Qwen3.8-27B Figma Edit · ckpt-270",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "_Library Assets 1002×605"
+  ]
+ },
+ {
+  "round": "6case",
+  "case": "Fruit Hub",
+  "model": "GLM-5.3 Flash",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "01_Splash 底部 1/4 空白"
+  ]
+ },
+ {
+  "round": "6case",
+  "case": "Stylish",
+  "model": "Gemini 3.5 Flash",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "01_Splash 底部 1/4 空白",
+   "05_Sign_In 底部 1/4 空白",
+   "07_Forgot_Password 底部 1/4 空白"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "ABM Developer Portfolio",
+  "model": "Kimi K3",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "Library · Buttons & Nav 867×638"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Fasco",
+  "model": "Gemini 3.5 Flash",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "04_Mini_Cart 底部 1/4 空白"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Fasco",
+  "model": "GLM-5.3 Flash",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "06_Checkout 1921×1800"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Fasco",
+  "model": "Kimi K3",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "04_Mini_Cart 底部 1/4 空白"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Foodieland",
+  "model": "Fable 5.1",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "Design Library · Foodieland 2600×2400",
+   "01_Home 1116×4023"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Foodieland",
+  "model": "Opus 5.5（三方A）",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "01_Home 990×4543"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Foodieland",
+  "model": "gpt-6-astra",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "01_Home 1063×4528"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Foodieland",
+  "model": "GLM-5.3 Flash",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "01_Home 1060×3474"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Foodieland",
+  "model": "Kimi K3",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "■ Assets 4302×682"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Foodwagon",
+  "model": "Opus 5.5（三方A）",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "01_Home 1036×4940"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Foodwagon",
+  "model": "gpt-6-astra",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "01_Home 1125×4321"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "MAC Agency",
+  "model": "Kimi K3",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "· Patterns 3658×536"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Octom",
+  "model": "Kimi K3",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "05_Settings 底部 1/4 空白"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Shop.co",
+  "model": "gpt-6-astra",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "SHOP.CO · System 底部 1/4 空白"
+  ]
+ },
+ {
+  "round": "web10",
+  "case": "Shop.co",
+  "model": "Gemini 3.5 Flash",
+  "kind": "画板尺寸/版式异常",
+  "sev": "low",
+  "detail": [
+   "01_Home 底部 1/4 空白"
+  ]
+ }
+]

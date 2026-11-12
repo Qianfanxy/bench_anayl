@@ -1,0 +1,375 @@
+{
+ "file_key": "c3zaMtiBbbSxN3JfJtE2Hu",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "3:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "3:5",
+     "name": "Deniz Arslan — 3D artist portfolio",
+     "x": 64,
+     "y": 95,
+     "text": "Deniz Arslan — 3D artist portfolio"
+    },
+    {
+     "id": "3:6",
+     "name": "Design a two-page personal portfolio for a 3D artist and sculptor: a work page with three projects and an about page with skills and contact. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design a two-page personal portfolio for a 3D artist and sculptor: a work page with three projects and an about page with skills and contact. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "3:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "3:9",
+     "name": "1. Build exactly the 2 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently. 4. 02 · Components gives no Button or Text Field: the source has neither (every action is a text link). Design the header, footer, link style, current-page state and every content block as reusable components in your file. 5. Use the portrait photo and the icons from 04 · Media. The three project images are not supplied in the source — use image placeholders. The logo “da.” is plain text. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 2 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives no Button or Text Field: the source has neither (every action is a text link). Design the header, footer, link style, current-page state and every content block as reusable components in your file.\n5. Use the portrait photo and the icons from 04 · Media. The three project images are not supplied in the source — use image placeholders. The logo “da.” is plain text.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "3:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 554,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "3:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 605,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "3:15",
+     "name": "01_Work",
+     "x": 88,
+     "y": 667,
+     "text": "01_Work"
+    },
+    {
+     "id": "3:22",
+     "name": "02_About",
+     "x": 756,
+     "y": 667,
+     "text": "02_About"
+    },
+    {
+     "id": "3:16",
+     "name": "Goal: See who the artist is and browse three projects.",
+     "x": 88,
+     "y": 703,
+     "text": "Goal: See who the artist is and browse three projects."
+    },
+    {
+     "id": "3:23",
+     "name": "Goal: Learn about the artist’s background and skills, and get in touch.",
+     "x": 756,
+     "y": 703,
+     "text": "Goal: Learn about the artist’s background and skills, and get in touch."
+    },
+    {
+     "id": "3:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "3:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "3:18",
+     "name": "• Footer: “Deniz Arslan ⏤ 2020” · Artstation · LinkedIn · Twitter • Header: logo “da.” · navigation Work / About / Playground / Contact · current: Work • Intro: “Hello, I’m Deniz.” · “A senior-year design student who is trying to specialize in 3D modeling & texturing.” · scroll cue (Icon_Arrow_Down) • Projects: 3 project blocks, each with number and name, description, tools line where given, link or status, and an image placeholder (see DATA)",
+     "x": 88,
+     "y": 759,
+     "text": "• Footer: “Deniz Arslan ⏤ 2020” · Artstation · LinkedIn · Twitter\n• Header: logo “da.” · navigation Work / About / Playground / Contact · current: Work\n• Intro: “Hello, I’m Deniz.” · “A senior-year design student who is trying to specialize in 3D modeling & texturing.” · scroll cue (Icon_Arrow_Down)\n• Projects: 3 project blocks, each with number and name, description, tools line where given, link or status, and an image placeholder (see DATA)"
+    },
+    {
+     "id": "3:25",
+     "name": "• Contact: “I’d be thrilled to hear about your next project” (Icon_Arrow_Right) · “deniz.arslan@example.com” · “View Resume” • Footer: “Deniz Arslan ⏤ 2020” · Artstation · LinkedIn · Twitter • Header: logo “da.” · navigation Work / About / Playground / Contact · current: About • Intro: “Hi, I’m Deniz Arslan, 3D artist & sculptor.” · biography (2 paragraphs, see DATA) · Photo_Profile • Skills: “Main Software” and “Main Skills”, each with its list (see DATA)",
+     "x": 756,
+     "y": 759,
+     "text": "• Contact: “I’d be thrilled to hear about your next project” (Icon_Arrow_Right) · “deniz.arslan@example.com” · “View Resume”\n• Footer: “Deniz Arslan ⏤ 2020” · Artstation · LinkedIn · Twitter\n• Header: logo “da.” · navigation Work / About / Playground / Contact · current: About\n• Intro: “Hi, I’m Deniz Arslan, 3D artist & sculptor.” · biography (2 paragraphs, see DATA) · Photo_Profile\n• Skills: “Main Software” and “Main Skills”, each with its list (see DATA)"
+    },
+    {
+     "id": "3:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 889,
+     "text": "LINKS"
+    },
+    {
+     "id": "3:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 909,
+     "text": "LINKS"
+    },
+    {
+     "id": "3:20",
+     "name": "→ About (nav) → 02_About → logo “da.”, Work (nav) → 01_Work (self)",
+     "x": 88,
+     "y": 915,
+     "text": "→ About (nav) → 02_About\n→ logo “da.”, Work (nav) → 01_Work (self)"
+    },
+    {
+     "id": "3:27",
+     "name": "→ logo “da.”, Work (nav) → 01_Work",
+     "x": 756,
+     "y": 935,
+     "text": "→ logo “da.”, Work (nav) → 01_Work"
+    },
+    {
+     "id": "3:29",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 1027,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "3:30",
+     "name": "• Two pages share the header and footer. The current page is shown in the navigation. • Work → 01_Work · About → 02_About · logo “da.” → 01_Work. • Entry only (no frame): Playground, Contact, project links, Artstation / LinkedIn / Twitter, the email address, View Resume.",
+     "x": 64,
+     "y": 1078,
+     "text": "• Two pages share the header and footer. The current page is shown in the navigation.\n• Work → 01_Work · About → 02_About · logo “da.” → 01_Work.\n• Entry only (no frame): Playground, Contact, project links, Artstation / LinkedIn / Twitter, the email address, View Resume."
+    },
+    {
+     "id": "3:32",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 1192,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "3:33",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 1243,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "3:36",
+     "name": "Projects (in order)",
+     "x": 84,
+     "y": 1301,
+     "text": "Projects (in order)"
+    },
+    {
+     "id": "3:39",
+     "name": "Biography (02_About)",
+     "x": 528,
+     "y": 1301,
+     "text": "Biography (02_About)"
+    },
+    {
+     "id": "3:42",
+     "name": "Skills (02_About)",
+     "x": 972,
+     "y": 1301,
+     "text": "Skills (02_About)"
+    },
+    {
+     "id": "3:37",
+     "name": "01 / Goblin Bust — “Goblin concept digital sculpture with human-like skin. Learned a lot of quick tips and look development.” · tools: “Sculpted in ZBrush, retopologized and UV-mapped in Maya, textured in Mari, rendered with Arnold.” · link “More shots from this project ↗” 02 / Skin Shader Study — “Subsurface weight, specular roughness and diffuse maps generated with procedural and manual techniques.” · link “See case study →” 03 / Creature Concept — “Experimental creature modeling for a school project.” · status “Project WIP” (not a link)",
+     "x": 84,
+     "y": 1329,
+     "text": "01 / Goblin Bust — “Goblin concept digital sculpture with human-like skin. Learned a lot of quick tips and look development.” · tools: “Sculpted in ZBrush, retopologized and UV-mapped in Maya, textured in Mari, rendered with Arnold.” · link “More shots from this project ↗”\n02 / Skin Shader Study — “Subsurface weight, specular roughness and diffuse maps generated with procedural and manual techniques.” · link “See case study →”\n03 / Creature Concept — “Experimental creature modeling for a school project.” · status “Project WIP” (not a link)"
+    },
+    {
+     "id": "3:40",
+     "name": "“My work is mainly focused on 3D modeling, texturing and rendering. I like exploring creatures with a touch of dark surrealism for characters and production.” “Now I’m an interactive media design student in Istanbul ⏤ currently freelancing and seeking internship opportunities.”",
+     "x": 528,
+     "y": 1329,
+     "text": "“My work is mainly focused on 3D modeling, texturing and rendering. I like exploring creatures with a touch of dark surrealism for characters and production.”\n“Now I’m an interactive media design student in Istanbul ⏤ currently freelancing and seeking internship opportunities.”"
+    },
+    {
+     "id": "3:43",
+     "name": "Main Software: Pixologic ZBrush, Autodesk Maya, The Foundry Mari, Arnold Renderer, Blender, Forger · Adobe CC, Figma, Ableton Main Skills: Organic and Polygonal Modeling, UV Layout, Texturing, Retopology, Illustration, Sound Design",
+     "x": 972,
+     "y": 1329,
+     "text": "Main Software: Pixologic ZBrush, Autodesk Maya, The Foundry Mari, Arnold Renderer, Blender, Forger · Adobe CC, Figma, Ableton\nMain Skills: Organic and Polygonal Modeling, UV Layout, Texturing, Retopology, Illustration, Sound Design"
+    },
+    {
+     "id": "3:45",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 1587,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "3:48",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 1662,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "3:51",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 1662,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "3:49",
+     "name": "• Frame names and links • Must-include content (what, not how) • All data and copy • Brand colors #181717 and #2429AF, and DM Sans • Media: portrait photo, icons",
+     "x": 88,
+     "y": 1695,
+     "text": "• Frame names and links\n• Must-include content (what, not how)\n• All data and copy\n• Brand colors #181717 and #2429AF, and DM Sans\n• Media: portrait photo, icons"
+    },
+    {
+     "id": "3:52",
+     "name": "• Layout, grid, grouping, order and emphasis on both pages • All other colors: page background, secondary text, dividers, image placeholders • Type scale, spacing • All states: current page, link hover • Header, footer, link style, project block, skill list, contact block • How the portrait is cropped and placed",
+     "x": 756,
+     "y": 1695,
+     "text": "• Layout, grid, grouping, order and emphasis on both pages\n• All other colors: page background, secondary text, dividers, image placeholders\n• Type scale, spacing\n• All states: current page, link hover\n• Header, footer, link style, project block, skill list, contact block\n• How the portrait is cropped and placed"
+    },
+    {
+     "id": "3:54",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 1887,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "3:55",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 1938,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "3:56",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse (shared header / footer)",
+     "x": 64,
+     "y": 1976,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse (shared header / footer)"
+    },
+    {
+     "id": "3:57",
+     "name": "Deliverable: the link to your own Figma file containing the 2 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 2124,
+     "text": "Deliverable: the link to your own Figma file containing the 2 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · Deniz Arslan",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Deniz Arslan"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the two brand colors and the typeface below. Everything else is yours to define and apply consistently: page background, grays for secondary text, dividers, image placeholders, link and current-page states, type scale, spacing, and the page grid.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the two brand colors and the typeface below. Everything else is yours to define and apply consistently: page background, grays for secondary text, dividers, image placeholders, link and current-page states, type scale, spacing, and the page grid."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand colors",
+     "x": 56,
+     "y": 189,
+     "text": "Brand colors"
+    },
+    {
+     "id": "1:12",
+     "name": "Brand ink",
+     "x": 56,
+     "y": 373,
+     "text": "Brand ink"
+    },
+    {
+     "id": "1:17",
+     "name": "Brand accent · blue",
+     "x": 300,
+     "y": 373,
+     "text": "Brand accent · blue"
+    },
+    {
+     "id": "1:13",
+     "name": "#181717",
+     "x": 56,
+     "y": 398,
+     "text": "#181717"
+    },
+    {
+     "id": "1:18",
+     "name": "#2429AF",
+     "x": 300,
+     "y": 398,
+     "text": "#2429AF"
+    },
+    {
+     "id": "1:14",
+     "name": "The portfolio’s main text and line color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 422,
+     "text": "The portfolio’s main text and line color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:19",
+     "name": "The portfolio’s only accent. Where and how much to use it is your decision.",
+     "x": 300,
+     "y": 422,
+     "text": "The portfolio’s only accent. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:20",
+     "name": "Typeface",
+     "x": 56,
+     "y": 499,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:21",
+     "name": "Aa Bb Cc 0123456789 da.",
+     "x": 56,
+     "y": 555,
+     "text": "Aa Bb Cc 0123456789  da."
+    },
+    {
+     "id": "1:22",
+     "name": "Use DM Sans for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 639,
+     "text": "Use DM Sans for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:23",
+     "name": "Canvas: desktop web, 1440 wide. Light mode. Frame heights are free — both pages scroll vertically.",
+     "x": 56,
+     "y": 688,
+     "text": "Canvas: desktop web, 1440 wide. Light mode. Frame heights are free — both pages scroll vertically."
+    }
+   ]
+  }
+ ]
+}

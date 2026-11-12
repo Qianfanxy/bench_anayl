@@ -1,0 +1,263 @@
+
+messages[24] / m24-call0.js
+0018:   const frameWidth = 390;
+0019:   const frameHeight = 844;
+0020:   const createdFrames = {};
+0021: 
+0022:   const workspace = figma.getNodeById('7:2');
+0023:   
+0024:   // Clean up any existing frame on workspace
+0025:   for (const child of workspace.children) {
+0026:     child.remove();
+0027:   }
+0028: 
+0029:   for (let i = 0; i < frameNames.length; i++) {
+0030:     const name = frameNames[i];
+0031:     const f = figma.createFrame();
+0032:     f.name = name;
+0033:     f.resize(frameWidth, frameHeight);
+0034:     f.x = i * 440;
+0035:     f.y = 0;
+0036:     f.backgrounds = [{ type: 'SOLID', color: { r: 1, g: 1, b: 1 } }]; // white by default
+0037:     workspace.appendChild(f);
+0038:     createdFrames[name] = f.id;
+
+messages[25] / m25-result.txt
+0001: {"01_Onboarding":"8:2","02_Home":"8:3","03_Explore":"8:4","04_Workout":"8:5","05_Analytics":"8:6"}
+0002: 
+0003: <system-reminder>
+0004: <total_tokens>14944667 tokens left</total_tokens>
+0005: </system-reminder>
+
+messages[30] / m30-call0.js
+0001: (async () => {
+0002:   const workspace = figma.getNodeById('7:2');
+0003:   const frames = {};
+0004:   for (const child of workspace.children) {
+0005:     if (child.type === 'FRAME') {
+0006:       frames[child.name] = child.id;
+0007:     }
+0008:   }
+0009:   return JSON.stringify(frames);
+0010: })();
+
+messages[31] / m31-result.txt
+0001: {}
+0002: 
+0003: <system-reminder>
+0004: <total_tokens>14940064 tokens left</total_tokens>
+0005: </system-reminder>
+
+messages[34] / m34-call0.js
+0001: (async () => {
+0002:   const workspace = figma.getNodeById('7:2');
+0003:   await figma.setCurrentPageAsync(workspace);
+0004: 
+0005:   await figma.loadFontAsync({ family: "Lato", style: "Regular" });
+0006:   await figma.loadFontAsync({ family: "Lato", style: "Bold" });
+0007:   await figma.loadFontAsync({ family: "Lato", style: "SemiBold" });
+0008:   await figma.loadFontAsync({ family: "Lato", style: "Medium" });
+0009: 
+0010:   const frameNames = ['01_Onboarding', '02_Home', '03_Explore', '04_Workout', '05_Analytics'];
+0011:   const frames = {};
+0012: 
+0013:   for (let i = 0; i < frameNames.length; i++) {
+0014:     const f = figma.createFrame();
+0015:     f.name = frameNames[i];
+0016:     f.resize(390, 844);
+0017:     f.x = i * 440;
+0018:     f.y = 0;
+0019:     f.fills = [{ type: 'SOLID', color: { r: 1, g: 1, b: 1 } }];
+0020:     workspace.appendChild(f);
+0021:     frames[f.name] = f;
+0031: 
+0032:   const photoInst = photoOnboarding.createInstance();
+0033:   const photoWrapper = figma.createFrame();
+0034:   photoWrapper.name = "Photo_Container";
+0035:   photoWrapper.resize(390, 480);
+0036:   photoWrapper.x = 0;
+0037:   photoWrapper.y = 0;
+0038:   photoWrapper.clipsContent = true;
+0039:   photoWrapper.appendChild(photoInst);
+0040:   photoInst.x = (390 - photoInst.width) / 2;
+0062:   f1.appendChild(sb1);
+0063: 
+0064:   const content1 = figma.createFrame();
+0065:   content1.name = "Content";
+0066:   content1.layoutMode = "VERTICAL";
+0067:   content1.primaryAxisSizingMode = "AUTO";
+0068:   content1.counterAxisSizingMode = "FIXED";
+0069:   content1.resize(342, 100);
+0070:   content1.x = 24;
+0071:   content1.y = 470;
+0072:   content1.itemSpacing = 16;
+0073:   content1.fills = [];
+0074: 
+0075:   const title1 = figma.createText();
+0076:   title1.fontName = { family: "Lato", style: "Bold" };
+0077:   title1.fontSize = 28;
+0078:   title1.lineHeight = { value: 36, unit: "PIXELS" };
+0079:   title1.characters = "Wherever you are,\nhealth is number one";
+0080:   title1.fills = [{ type: 'SOLID', color: { r: 1, g: 1, b: 1 } }];
+0093:   f1.appendChild(content1);
+0094: 
+0095:   const btn1 = figma.createFrame();
+0096:   btn1.name = "Get Started Button";
+0097:   btn1.resize(342, 56);
+0098:   btn1.x = 24;
+0099:   btn1.y = 720;
+0100:   btn1.cornerRadius = 28;
+0101:   btn1.fills = [{ type: 'SOLID', color: { r: 0.733, g: 0.949, b: 0.275 } }];
+0102:   btn1.layoutMode = "HORIZONTAL";
+0121:     onboardingId: f1.id,
+0122:     btnId: btn1.id,
+0123:     workspaceCount: workspace.children.length
+0124:   });
+0125: })();
+
+messages[35] / m35-result.txt
+0001: {"onboardingId":"9:13","btnId":"9:35","workspaceCount":10}
+0002: 
+0003: <system-reminder>
+0004: <total_tokens>14929507 tokens left</total_tokens>
+0005: </system-reminder>
+
+messages[36] / m36-call0.js
+0001: (async () => {
+0002:   const workspace = figma.getNodeById('7:2');
+0003:   const details = workspace.children.map(c => ({ id: c.id, name: c.name, type: c.type }));
+0004:   return JSON.stringify(details, null, 2);
+0005: })();
+
+messages[37] / m37-result.txt
+0001: [
+0002:   {
+0003:     "id": "8:2",
+0004:     "name": "01_Onboarding",
+0005:     "type": "FRAME"
+0006:   },
+0007:   {
+0008:     "id": "8:3",
+0009:     "name": "02_Home",
+0010:     "type": "FRAME"
+0026:   },
+0027:   {
+0028:     "id": "9:13",
+0029:     "name": "01_Onboarding",
+0030:     "type": "FRAME"
+0031:   },
+0032:   {
+0033:     "id": "9:14",
+0034:     "name": "02_Home",
+0035:     "type": "FRAME"
+
+messages[68] / m68-call0.js
+0006: 
+0007:   const workspace = figma.getNodeById('7:2');
+0008:   await figma.setCurrentPageAsync(workspace);
+0009: 
+0010:   // Clear workspace
+0011:   for (const child of Array.from(workspace.children)) {
+0012:     child.remove();
+0013:   }
+0014: 
+0015:   // Create 5 main frames
+0016:   const f1 = figma.createFrame(); f1.name = '01_Onboarding'; f1.resize(390, 844); f1.x = 0; f1.y = 0;
+0017:   const f2 = figma.createFrame(); f2.name = '02_Home'; f2.resize(390, 844); f2.x = 440; f2.y = 0;
+0018:   const f3 = figma.createFrame(); f3.name = '03_Explore'; f3.resize(390, 844); f3.x = 880; f3.y = 0;
+0019:   const f4 = figma.createFrame(); f4.name = '04_Workout'; f4.resize(390, 844); f4.x = 1320; f4.y = 0;
+0020:   const f5 = figma.createFrame(); f5.name = '05_Analytics'; f5.resize(390, 844); f5.x = 1760; f5.y = 0;
+0021: 
+0022:   workspace.appendChild(f1);
+0023:   workspace.appendChild(f2);
+0024:   workspace.appendChild(f3);
+0025:   workspace.appendChild(f4);
+0026:   workspace.appendChild(f5);
+0027: 
+
+messages[69] / m69-result.txt
+0001: {"f1":"15:92","f2":"15:93","f3":"15:94","f4":"15:95","f5":"15:96"}
+0002: 
+0003: <system-reminder>
+0004: <total_tokens>14823549 tokens left</total_tokens>
+0005: </system-reminder>
+
+messages[74] / m74-call0.js
+0001: (async () => {
+0002:   const workspace = figma.getNodeById('7:2');
+0003:   return JSON.stringify(workspace.children.map(c => ({ id: c.id, name: c.name })));
+0004: })();
+
+messages[75] / m75-result.txt
+0001: []
+0002: 
+0003: <system-reminder>
+0004: <total_tokens>14766112 tokens left</total_tokens>
+0005: </system-reminder>
+
+messages[76] / m76-call0.js
+0001: (async () => {
+0002:   const workspace = figma.getNodeById('7:2');
+0003:   const f1 = figma.createFrame(); f1.name = '01_Onboarding'; f1.resize(390, 844); f1.x = 0; f1.y = 0; workspace.appendChild(f1);
+0004:   const f2 = figma.createFrame(); f2.name = '02_Home'; f2.resize(390, 844); f2.x = 440; f2.y = 0; workspace.appendChild(f2);
+0005:   const f3 = figma.createFrame(); f3.name = '03_Explore'; f3.resize(390, 844); f3.x = 880; f3.y = 0; workspace.appendChild(f3);
+0006:   const f4 = figma.createFrame(); f4.name = '04_Workout'; f4.resize(390, 844); f4.x = 1320; f4.y = 0; workspace.appendChild(f4);
+0007:   const f5 = figma.createFrame(); f5.name = '05_Analytics'; f5.resize(390, 844); f5.x = 1760; f5.y = 0; workspace.appendChild(f5);
+0008: 
+0009:   return JSON.stringify(workspace.children.map(c => ({ id: c.id, name: c.name })));
+0010: })();
+
+messages[77] / m77-result.txt
+0001: [{"id":"16:2","name":"01_Onboarding"},{"id":"16:3","name":"02_Home"},{"id":"16:4","name":"03_Explore"},{"id":"16:5","name":"04_Workout"},{"id":"16:6","name":"05_Analytics"}]
+0002: 
+0003: <system-reminder>
+0004: <total_tokens>14763393 tokens left</total_tokens>
+0005: </system-reminder>
+
+messages[80] / m80-call0.js
+0003:   const workspace = figma.getNodeById('7:2');
+0004:   return JSON.stringify({
+0005:     currentPageName: page.name,
+0006:     currentPageId: page.id,
+0007:     workspaceChildren: workspace ? workspace.children.map(c => ({ id: c.id, name: c.name })) : null
+0008:   });
+0009: })();
+
+messages[81] / m81-result.txt
+0001: {"currentPageName":"00 · Start Here 设计任务","currentPageId":"0:1","workspaceChildren":[]}
+0002: 
+0003: <system-reminder>
+0004: <total_tokens>14757309 tokens left</total_tokens>
+0005: </system-reminder>
+
+messages[82] / m82-call0.js
+0002:   // Switch currentPage to 03 · Workspace
+0003:   const workspace = figma.getNodeById('7:2');
+0004:   await figma.setCurrentPageAsync(workspace);
+0005: 
+0006:   // Load fonts
+0007:   await figma.loadFontAsync({ family: "Lato", style: "Regular" });
+0008:   await figma.loadFontAsync({ family: "Lato", style: "Bold" });
+0009:   await figma.loadFontAsync({ family: "Lato", style: "SemiBold" });
+0010:   await figma.loadFontAsync({ family: "Lato", style: "Medium" });
+0011: 
+0012:   // Create 5 main frames
+0013:   const f1 = figma.createFrame(); f1.name = '01_Onboarding'; f1.resize(390, 844); f1.x = 0; f1.y = 0;
+0014:   const f2 = figma.createFrame(); f2.name = '02_Home'; f2.resize(390, 844); f2.x = 440; f2.y = 0;
+0015:   const f3 = figma.createFrame(); f3.name = '03_Explore'; f3.resize(390, 844); f3.x = 880; f3.y = 0;
+0016:   const f4 = figma.createFrame(); f4.name = '04_Workout'; f4.resize(390, 844); f4.x = 1320; f4.y = 0;
+0017:   const f5 = figma.createFrame(); f5.name = '05_Analytics'; f5.resize(390, 844); f5.x = 1760; f5.y = 0;
+0018: 
+0019:   figma.currentPage.appendChild(f1);
+0020:   figma.currentPage.appendChild(f2);
+0021:   figma.currentPage.appendChild(f3);
+0022:   figma.currentPage.appendChild(f4);
+0023:   figma.currentPage.appendChild(f5);
+0024: 
+
+messages[83] / m83-result.txt
+0001: {"pageName":"03 · Workspace","f1":"18:13","f2":"18:14","f3":"18:15","f4":"18:16","f5":"18:17"}
+0002: 
+0003: <system-reminder>
+0004: <total_tokens>14757309 tokens left</total_tokens>
+0005: </system-reminder>

@@ -1,0 +1,159 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Frontpage",
+      "size": "1680×5531",
+      "nodes": 49,
+      "max_depth": 5,
+      "instances": 28,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×28",
+        "frame×17",
+        "text×4"
+      ],
+      "names": [
+        "Header",
+        "News Ticker",
+        "Page Title Section",
+        "Page Title",
+        "Lead Story",
+        "Lead Grid"
+      ]
+    },
+    {
+      "name": "02_Magazine",
+      "size": "1680×7476",
+      "nodes": 39,
+      "max_depth": 4,
+      "instances": 25,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×25",
+        "frame×12",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "Page Title Section",
+        "Page Title",
+        "Category Filter",
+        "Filter Bar",
+        "Categories Label"
+      ]
+    },
+    {
+      "name": "03_Magazine_Post",
+      "size": "1680×5877",
+      "nodes": 33,
+      "max_depth": 5,
+      "instances": 14,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "frame×11",
+        "text×8"
+      ],
+      "names": [
+        "Header",
+        "Back Section",
+        "Back Bar",
+        "Title Section",
+        "Post Title",
+        "Intro Section"
+      ]
+    },
+    {
+      "name": "04_Podcast",
+      "size": "1680×2881",
+      "nodes": 11,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Page Title Section",
+        "Page Title",
+        "Episode List",
+        "Rows",
+        "Episode · Ep 05"
+      ]
+    },
+    {
+      "name": "05_Podcast_Post",
+      "size": "1680×4643",
+      "nodes": 31,
+      "max_depth": 5,
+      "instances": 13,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×11",
+        "text×7"
+      ],
+      "names": [
+        "Header",
+        "Back Section",
+        "Back Bar",
+        "Episode Hero",
+        "Cover",
+        "Episode Copy"
+      ]
+    },
+    {
+      "name": "06_Authors",
+      "size": "1680×2706",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Page Title Section",
+        "Page Title",
+        "Author List",
+        "Rows",
+        "Author · Jakob Grønberg"
+      ]
+    },
+    {
+      "name": "07_Author_Profile",
+      "size": "1680×2867",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×9",
+        "text×5"
+      ],
+      "names": [
+        "Header",
+        "Back Section",
+        "Back Bar",
+        "Title Section",
+        "Author Name",
+        "Profile Section"
+      ]
+    }
+  ]
+}

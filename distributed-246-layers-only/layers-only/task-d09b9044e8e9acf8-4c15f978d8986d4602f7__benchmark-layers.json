@@ -1,0 +1,394 @@
+{
+  "board_count": 18,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×2",
+        "text×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Photo_Welcome",
+        "Overlay",
+        "Logo_Swoosh_White",
+        "Content",
+        "Nike App",
+        "Bringing Nike Members th"
+      ]
+    },
+    {
+      "name": "02_Email_Sign_In",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Sign-in Sheet Header",
+        "Logo_Swoosh_Black",
+        "Content",
+        "Enter your email to join",
+        "Country Row",
+        "United States"
+      ]
+    },
+    {
+      "name": "03_Create_Member",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×4",
+        "text×3"
+      ],
+      "names": [
+        "Sign-in Sheet Header",
+        "Logo_Swoosh_Black",
+        "Content",
+        "Now let’s make you a Nik",
+        "Code Sent Row",
+        "We’ve sent a code to joh"
+      ]
+    },
+    {
+      "name": "04_Personalize_Intro",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×1",
+        "text×1"
+      ],
+      "names": [
+        "Onboarding Progress",
+        "Photo Collage",
+        "Content",
+        "To personalize your expe",
+        "Button · Get Started",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "05_Products_You_Use",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×3",
+        "text×2"
+      ],
+      "names": [
+        "Onboarding Progress",
+        "Content",
+        "First up, which products",
+        "Spacer",
+        "Option · Mens",
+        "Option · Womens"
+      ]
+    },
+    {
+      "name": "06_Shoe_Size",
+      "size": "375×812",
+      "nodes": 33,
+      "max_depth": 3,
+      "instances": 30,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×30",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Onboarding Progress",
+        "Content",
+        "What’s your shoe size?",
+        "Size Grid",
+        "Size 4",
+        "Size 4.5"
+      ]
+    },
+    {
+      "name": "07_Interests",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Onboarding Progress",
+        "Content",
+        "What are you into?",
+        "Spacer",
+        "Option · Air Max",
+        "Option · Baseball"
+      ]
+    },
+    {
+      "name": "08_Notifications",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 4,
+      "instances": 6,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "frame×8",
+        "instance×6",
+        "rectangle×4",
+        "text×1"
+      ],
+      "names": [
+        "Onboarding Progress",
+        "Content",
+        "Stay in the know with no",
+        "Notification Preview",
+        "Preview 1",
+        "App Icon"
+      ]
+    },
+    {
+      "name": "09_Welcome_To_App",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×1",
+        "text×1"
+      ],
+      "names": [
+        "Back",
+        "Content",
+        "Welcome to the Nike App",
+        "Photo Collage",
+        "Tab Bar",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "10_Home",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×1"
+      ],
+      "names": [
+        "Section Heading",
+        "Product Carousel",
+        "Carousel · Air Jordan XX",
+        "Carousel · Nike Revoluti",
+        "Photo_Home_Story",
+        "Tab Bar"
+      ]
+    },
+    {
+      "name": "11_Discover",
+      "size": "375×812",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×5"
+      ],
+      "names": [
+        "Section Heading",
+        "Photo_Discover_Jordan_Fl",
+        "Tab Bar",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "12_Shop",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×3"
+      ],
+      "names": [
+        "Header",
+        "Category Tabs",
+        "Tab · Men",
+        "Tab · Women",
+        "Tab · Kids",
+        "Banners"
+      ]
+    },
+    {
+      "name": "13_Best_Sellers",
+      "size": "375×843",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×2"
+      ],
+      "names": [
+        "Header",
+        "Category Tabs",
+        "Tab · Base Layer",
+        "Tab · Socks",
+        "Tab · Accessories & Equi",
+        "Product Grid"
+      ]
+    },
+    {
+      "name": "14_Jordan_Flight_Essentials",
+      "size": "375×829",
+      "nodes": 12,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×2"
+      ],
+      "names": [
+        "Header",
+        "Category Tabs",
+        "Tab · All",
+        "Tab · Tops & T-Shirts",
+        "Tab · Hoodies & Pullover",
+        "Product Grid"
+      ]
+    },
+    {
+      "name": "16_Style_Matching",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×1"
+      ],
+      "names": [
+        "Header",
+        "Product Grid",
+        "Product · Nike Flex Expe",
+        "Product · Nike Downshift",
+        "Product · Nike Legend Es",
+        "Product · Nike Air Max B"
+      ]
+    },
+    {
+      "name": "15_Product_Detail",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×3",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Gallery Image",
+        "Product_AF1_Black",
+        "Gallery Progress",
+        "Content",
+        "Nike Air Force 1 ’07"
+      ]
+    },
+    {
+      "name": "17_Stores",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×1"
+      ],
+      "names": [
+        "Header",
+        "Content",
+        "Store Locator",
+        "Section Heading",
+        "Store Card",
+        "Tab Bar"
+      ]
+    },
+    {
+      "name": "18_Playlist_Story",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Photo_Playlist_Story",
+        "Back",
+        "Explore",
+        "Content",
+        "Soyeon’s Dance Challenge",
+        "“Hip hop dancer Soyeon J"
+      ]
+    }
+  ]
+}

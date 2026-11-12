@@ -1,0 +1,28 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×3480",
+      "nodes": 105,
+      "max_depth": 7,
+      "instances": 26,
+      "texts": 27,
+      "images": 0,
+      "types": [
+        "frame×48",
+        "text×27",
+        "instance×26",
+        "rectangle×4"
+      ],
+      "names": [
+        "Header",
+        "Hero",
+        "Hero row",
+        "Hero copy",
+        "Stay ahead of the curve ",
+        "An award-winning SEO age"
+      ]
+    }
+  ]
+}

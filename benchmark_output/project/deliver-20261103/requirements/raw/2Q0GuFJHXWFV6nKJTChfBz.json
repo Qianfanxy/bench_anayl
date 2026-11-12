@@ -1,0 +1,788 @@
+{
+ "file_key": "2Q0GuFJHXWFV6nKJTChfBz",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "14:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "14:5",
+     "name": "Furniro — furniture store website",
+     "x": 64,
+     "y": 95,
+     "text": "Furniro — furniture store website"
+    },
+    {
+     "id": "14:6",
+     "name": "Design a furniture e-commerce website: browse the range, open a product, add it to the cart, compare two sofas, check out, contact the store and read the blog. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design a furniture e-commerce website: browse the range, open a product, add it to the cart, compare two sofas, check out, contact the store and read the blog. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "14:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "14:9",
+     "name": "1. Build exactly the 9 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently. 4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file. 5. Use the logo, the photos, the social logos and the icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 9 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the logo, the photos, the social logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "14:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 554,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "14:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 605,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "14:15",
+     "name": "01_Home",
+     "x": 88,
+     "y": 667,
+     "text": "01_Home"
+    },
+    {
+     "id": "14:22",
+     "name": "02_Shop",
+     "x": 756,
+     "y": 667,
+     "text": "02_Shop"
+    },
+    {
+     "id": "14:16",
+     "name": "Goal: Get a feel for the store and find products.",
+     "x": 88,
+     "y": 703,
+     "text": "Goal: Get a feel for the store and find products."
+    },
+    {
+     "id": "14:23",
+     "name": "Goal: Browse the full catalog.",
+     "x": 756,
+     "y": 703,
+     "text": "Goal: Browse the full catalog."
+    },
+    {
+     "id": "14:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "14:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "14:18",
+     "name": "• Browse The Range: “Browse The Range” · “Find the right pieces for every room in your home.” · Dining · Living · Bedroom, each with its photo (Photo_Range_Dining, Photo_Range_Living, Photo_Range_Bedroom) • Footer: see DATA (Footer) • Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · current: Home · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart) • Hero: Photo_Hero · “New Arrival” · “Discover Our New Collection” · “Handcrafted sofas, chairs and tables for every room — explore our latest arrivals.” · “BUY NOW” • Inspiration: “50+ Beautiful rooms inspiration” · “Our designers have already made many beautiful room prototypes to inspire you.” · “Explore More” · room slides Photo_Inspiration_Inner_Peace, Photo_Inspiration_2, Photo_Inspiration_3 · current slide: “01 — Bed Room” · “Inner Peace” · open (Icon_Arrow_Right) · next (Icon_Chevron_Right) · slide indicator: 4 slides, current 1 • Our Products: “Our Products” · 8 product cards, each with photo, name, description, price, old price and badge where given (see DATA) · “Show More” • Product card hover: the Leviosa card is shown in its hover state with “Add to cart” · Share (Icon_Share) · Compare (Icon_Compare) · Like (Icon_Heart) • Share your setup: “Share your setup with” · “#FurniroFurniture” · Photo_Setup_1 – Photo_Setup_9",
+     "x": 88,
+     "y": 759,
+     "text": "• Browse The Range: “Browse The Range” · “Find the right pieces for every room in your home.” · Dining · Living · Bedroom, each with its photo (Photo_Range_Dining, Photo_Range_Living, Photo_Range_Bedroom)\n• Footer: see DATA (Footer)\n• Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · current: Home · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart)\n• Hero: Photo_Hero · “New Arrival” · “Discover Our New Collection” · “Handcrafted sofas, chairs and tables for every room — explore our latest arrivals.” · “BUY NOW”\n• Inspiration: “50+ Beautiful rooms inspiration” · “Our designers have already made many beautiful room prototypes to inspire you.” · “Explore More” · room slides Photo_Inspiration_Inner_Peace, Photo_Inspiration_2, Photo_Inspiration_3 · current slide: “01 — Bed Room” · “Inner Peace” · open (Icon_Arrow_Right) · next (Icon_Chevron_Right) · slide indicator: 4 slides, current 1\n• Our Products: “Our Products” · 8 product cards, each with photo, name, description, price, old price and badge where given (see DATA) · “Show More”\n• Product card hover: the Leviosa card is shown in its hover state with “Add to cart” · Share (Icon_Share) · Compare (Icon_Compare) · Like (Icon_Heart)\n• Share your setup: “Share your setup with” · “#FurniroFurniture” · Photo_Setup_1 – Photo_Setup_9"
+    },
+    {
+     "id": "14:25",
+     "name": "• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA) • Footer: see DATA (Footer) • Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · current: Shop · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart) • Page title: Photo_Page_Banner · “Shop” · breadcrumb Home › Shop (Icon_Chevron_Right) • Pagination: 1 · 2 · 3 · “Next” · current: 1 • Products: 16 product cards — the 8 products of DATA, then the same 8 again; the first Leviosa card is in its hover state (“Add to cart” · Share · Compare · Like) • Toolbar: Filter (Icon_Filter) · grid view (Icon_Grid) · list view (Icon_View_List) · current view: grid · “Showing 1–16 of 32 results” · “Show” 16 · “Sort by” Default (Icon_Chevron_Down)",
+     "x": 756,
+     "y": 759,
+     "text": "• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA)\n• Footer: see DATA (Footer)\n• Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · current: Shop · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart)\n• Page title: Photo_Page_Banner · “Shop” · breadcrumb Home › Shop (Icon_Chevron_Right)\n• Pagination: 1 · 2 · 3 · “Next” · current: 1\n• Products: 16 product cards — the 8 products of DATA, then the same 8 again; the first Leviosa card is in its hover state (“Add to cart” · Share · Compare · Like)\n• Toolbar: Filter (Icon_Filter) · grid view (Icon_Grid) · list view (Icon_View_List) · current view: grid · “Showing 1–16 of 32 results” · “Show” 16 · “Sort by” Default (Icon_Chevron_Down)"
+    },
+    {
+     "id": "14:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1049,
+     "text": "LINKS"
+    },
+    {
+     "id": "14:27",
+     "name": "→ any product card → 03_Product → Compare (hover card) → 05_Comparison → Home (nav or breadcrumb) → 01_Home → cart (header) → 06_Cart",
+     "x": 756,
+     "y": 1075,
+     "text": "→ any product card → 03_Product\n→ Compare (hover card) → 05_Comparison\n→ Home (nav or breadcrumb) → 01_Home\n→ cart (header) → 06_Cart"
+    },
+    {
+     "id": "14:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1169,
+     "text": "LINKS"
+    },
+    {
+     "id": "14:20",
+     "name": "→ Shop (nav), BUY NOW, Show More → 02_Shop → any product card → 03_Product → Compare (hover card) → 05_Comparison → cart (header) → 06_Cart → Contact (nav) → 08_Contact",
+     "x": 88,
+     "y": 1195,
+     "text": "→ Shop (nav), BUY NOW, Show More → 02_Shop\n→ any product card → 03_Product\n→ Compare (hover card) → 05_Comparison\n→ cart (header) → 06_Cart\n→ Contact (nav) → 08_Contact"
+    },
+    {
+     "id": "14:29",
+     "name": "03_Product",
+     "x": 88,
+     "y": 1367,
+     "text": "03_Product"
+    },
+    {
+     "id": "14:36",
+     "name": "04_Cart_Drawer",
+     "x": 756,
+     "y": 1367,
+     "text": "04_Cart_Drawer"
+    },
+    {
+     "id": "14:30",
+     "name": "Goal: Decide on the Asgaard sofa and add it to the cart.",
+     "x": 88,
+     "y": 1403,
+     "text": "Goal: Decide on the Asgaard sofa and add it to the cart."
+    },
+    {
+     "id": "14:37",
+     "name": "Goal: Confirm what was just added and move on.",
+     "x": 756,
+     "y": 1403,
+     "text": "Goal: Confirm what was just added and move on."
+    },
+    {
+     "id": "14:31",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1433,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "14:38",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1433,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "14:32",
+     "name": "• Breadcrumb: Home › Shop › Asgaard sofa (Icon_Chevron_Right) • Description tabs: Description · Additional Information · Reviews [204] · current: Description · description text (see DATA) · Photo_Cloud_Sofa_1 · Photo_Cloud_Sofa_2 • Footer: see DATA (Footer) • Gallery: Photo_Asgaard_Sofa (main) · thumbnails Photo_Outdoor_Sofa_Set, Photo_Outdoor_Sofa_Set_Alt, Photo_Stuart_Sofa, Photo_Maya_Sofa • Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · current: Shop · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart) • Meta: SKU SS001 · Category Sofas · Tags Sofa, Chair, Home, Shop · Share Logo_Facebook, Logo_LinkedIn, Logo_Twitter • Options: Size L · XL · XS · selected: L · Color purple · black · gold (see DATA) • Purchase: quantity − 1 + · “Add To Cart” · “+ Compare” • Rating: 4.7 (Icon_Star, Icon_Star_Half) · “204 Customer Reviews” • Related Products: “Related Products” · Syltherine · Leviosa · Lolito · Respira cards · “Show More” • Summary: “Asgaard sofa” · Rs. 250,000.00 · short description (see DATA)",
+     "x": 88,
+     "y": 1459,
+     "text": "• Breadcrumb: Home › Shop › Asgaard sofa (Icon_Chevron_Right)\n• Description tabs: Description · Additional Information · Reviews [204] · current: Description · description text (see DATA) · Photo_Cloud_Sofa_1 · Photo_Cloud_Sofa_2\n• Footer: see DATA (Footer)\n• Gallery: Photo_Asgaard_Sofa (main) · thumbnails Photo_Outdoor_Sofa_Set, Photo_Outdoor_Sofa_Set_Alt, Photo_Stuart_Sofa, Photo_Maya_Sofa\n• Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · current: Shop · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart)\n• Meta: SKU SS001 · Category Sofas · Tags Sofa, Chair, Home, Shop · Share Logo_Facebook, Logo_LinkedIn, Logo_Twitter\n• Options: Size L · XL · XS · selected: L · Color purple · black · gold (see DATA)\n• Purchase: quantity − 1 + · “Add To Cart” · “+ Compare”\n• Rating: 4.7 (Icon_Star, Icon_Star_Half) · “204 Customer Reviews”\n• Related Products: “Related Products” · Syltherine · Leviosa · Lolito · Respira cards · “Show More”\n• Summary: “Asgaard sofa” · Rs. 250,000.00 · short description (see DATA)"
+    },
+    {
+     "id": "14:39",
+     "name": "• Behind the drawer: the 03_Product page, inactive • Cart drawer: “Shopping Cart” · close (Icon_Cart_Close) · item Photo_Asgaard_Sofa · “Asgaard sofa” · 1 × Rs. 250,000.00 · remove (Icon_Remove) · “Subtotal” Rs. 250,000.00 • Drawer actions: “Cart” · “Checkout” · “Comparison”",
+     "x": 756,
+     "y": 1459,
+     "text": "• Behind the drawer: the 03_Product page, inactive\n• Cart drawer: “Shopping Cart” · close (Icon_Cart_Close) · item Photo_Asgaard_Sofa · “Asgaard sofa” · 1 × Rs. 250,000.00 · remove (Icon_Remove) · “Subtotal” Rs. 250,000.00\n• Drawer actions: “Cart” · “Checkout” · “Comparison”"
+    },
+    {
+     "id": "14:40",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1549,
+     "text": "LINKS"
+    },
+    {
+     "id": "14:41",
+     "name": "→ Cart → 06_Cart → Checkout → 07_Checkout → Comparison → 05_Comparison → close → 03_Product",
+     "x": 756,
+     "y": 1575,
+     "text": "→ Cart → 06_Cart\n→ Checkout → 07_Checkout\n→ Comparison → 05_Comparison\n→ close → 03_Product"
+    },
+    {
+     "id": "14:33",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1809,
+     "text": "LINKS"
+    },
+    {
+     "id": "14:34",
+     "name": "→ Add To Cart → 04_Cart_Drawer → + Compare → 05_Comparison → Shop (breadcrumb) → 02_Shop → related product cards → 03_Product",
+     "x": 88,
+     "y": 1835,
+     "text": "→ Add To Cart → 04_Cart_Drawer\n→ + Compare → 05_Comparison\n→ Shop (breadcrumb) → 02_Shop\n→ related product cards → 03_Product"
+    },
+    {
+     "id": "14:43",
+     "name": "05_Comparison",
+     "x": 88,
+     "y": 1987,
+     "text": "05_Comparison"
+    },
+    {
+     "id": "14:50",
+     "name": "06_Cart",
+     "x": 756,
+     "y": 1987,
+     "text": "06_Cart"
+    },
+    {
+     "id": "14:44",
+     "name": "Goal: Compare two sofas side by side.",
+     "x": 88,
+     "y": 2023,
+     "text": "Goal: Compare two sofas side by side."
+    },
+    {
+     "id": "14:51",
+     "name": "Goal: Review the cart before checking out.",
+     "x": 756,
+     "y": 2023,
+     "text": "Goal: Review the cart before checking out."
+    },
+    {
+     "id": "14:45",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 2053,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "14:52",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 2053,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "14:46",
+     "name": "• Add a product: “Add A Product” · “Choose a Product” (Icon_Chevron_Down) • Compared products: Asgaard Sofa · Outdoor Sofa Set, each with photo, price, rating (Icon_Star) and review count (see DATA) • Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA) • Footer: see DATA (Footer) • Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · no item current · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart) • Intro: “Go to Product page for more Products” · “View More” • Page title: Photo_Page_Banner · “Product Comparison” · breadcrumb Home › Comparison (Icon_Chevron_Right) • Specifications: groups General · Product · Dimensions · Warranty, one value per product on every row (see DATA) · “Add To Cart” under each product",
+     "x": 88,
+     "y": 2079,
+     "text": "• Add a product: “Add A Product” · “Choose a Product” (Icon_Chevron_Down)\n• Compared products: Asgaard Sofa · Outdoor Sofa Set, each with photo, price, rating (Icon_Star) and review count (see DATA)\n• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA)\n• Footer: see DATA (Footer)\n• Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · no item current · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart)\n• Intro: “Go to Product page for more Products” · “View More”\n• Page title: Photo_Page_Banner · “Product Comparison” · breadcrumb Home › Comparison (Icon_Chevron_Right)\n• Specifications: groups General · Product · Dimensions · Warranty, one value per product on every row (see DATA) · “Add To Cart” under each product"
+    },
+    {
+     "id": "14:53",
+     "name": "• Cart table: columns Product · Price · Quantity · Subtotal · row Photo_Asgaard_Sofa · Asgaard sofa · Rs. 250,000.00 · 1 · Rs. 250,000.00 · remove (Icon_Delete) • Cart Totals: “Cart Totals” · Subtotal Rs. 250,000.00 · Total Rs. 250,000.00 · “Check Out” • Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA) • Footer: see DATA (Footer) • Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · no item current · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart) • Page title: Photo_Page_Banner · “Cart” · breadcrumb Home › Cart (Icon_Chevron_Right)",
+     "x": 756,
+     "y": 2079,
+     "text": "• Cart table: columns Product · Price · Quantity · Subtotal · row Photo_Asgaard_Sofa · Asgaard sofa · Rs. 250,000.00 · 1 · Rs. 250,000.00 · remove (Icon_Delete)\n• Cart Totals: “Cart Totals” · Subtotal Rs. 250,000.00 · Total Rs. 250,000.00 · “Check Out”\n• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA)\n• Footer: see DATA (Footer)\n• Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · no item current · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart)\n• Page title: Photo_Page_Banner · “Cart” · breadcrumb Home › Cart (Icon_Chevron_Right)"
+    },
+    {
+     "id": "14:54",
+     "name": "LINKS",
+     "x": 756,
+     "y": 2289,
+     "text": "LINKS"
+    },
+    {
+     "id": "14:55",
+     "name": "→ Check Out → 07_Checkout → Asgaard sofa → 03_Product",
+     "x": 756,
+     "y": 2315,
+     "text": "→ Check Out → 07_Checkout\n→ Asgaard sofa → 03_Product"
+    },
+    {
+     "id": "14:47",
+     "name": "LINKS",
+     "x": 88,
+     "y": 2369,
+     "text": "LINKS"
+    },
+    {
+     "id": "14:48",
+     "name": "→ View More → 02_Shop → Add To Cart → 06_Cart",
+     "x": 88,
+     "y": 2395,
+     "text": "→ View More → 02_Shop\n→ Add To Cart → 06_Cart"
+    },
+    {
+     "id": "14:57",
+     "name": "07_Checkout",
+     "x": 88,
+     "y": 2507,
+     "text": "07_Checkout"
+    },
+    {
+     "id": "14:64",
+     "name": "08_Contact",
+     "x": 756,
+     "y": 2507,
+     "text": "08_Contact"
+    },
+    {
+     "id": "14:58",
+     "name": "Goal: Enter billing details and place the order.",
+     "x": 88,
+     "y": 2543,
+     "text": "Goal: Enter billing details and place the order."
+    },
+    {
+     "id": "14:65",
+     "name": "Goal: Find the store’s details and send a message.",
+     "x": 756,
+     "y": 2543,
+     "text": "Goal: Find the store’s details and send a message."
+    },
+    {
+     "id": "14:59",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 2573,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "14:66",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 2573,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "14:60",
+     "name": "• Billing details: “Billing details” · First Name · Last Name · Company Name (Optional) · Country / Region: Sri Lanka (Icon_Chevron_Down) · Street address · Town / City · Province: Western Province (Icon_Chevron_Down) · ZIP code · Phone · Email address · Additional information • Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA) • Footer: see DATA (Footer) • Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · no item current · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart) • Order summary: Product · Subtotal · Asgaard sofa × 1 · Rs. 250,000.00 · Subtotal Rs. 250,000.00 · Total Rs. 250,000.00 • Page title: Photo_Page_Banner · “Checkout” · breadcrumb Home › Checkout (Icon_Chevron_Right) • Payment: Direct Bank Transfer · Cash On Delivery · selected: Direct Bank Transfer, with its note (see DATA) • Place order: privacy note with link “privacy policy” (see DATA) · “Place order”",
+     "x": 88,
+     "y": 2599,
+     "text": "• Billing details: “Billing details” · First Name · Last Name · Company Name (Optional) · Country / Region: Sri Lanka (Icon_Chevron_Down) · Street address · Town / City · Province: Western Province (Icon_Chevron_Down) · ZIP code · Phone · Email address · Additional information\n• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA)\n• Footer: see DATA (Footer)\n• Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · no item current · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart)\n• Order summary: Product · Subtotal · Asgaard sofa × 1 · Rs. 250,000.00 · Subtotal Rs. 250,000.00 · Total Rs. 250,000.00\n• Page title: Photo_Page_Banner · “Checkout” · breadcrumb Home › Checkout (Icon_Chevron_Right)\n• Payment: Direct Bank Transfer · Cash On Delivery · selected: Direct Bank Transfer, with its note (see DATA)\n• Place order: privacy note with link “privacy policy” (see DATA) · “Place order”"
+    },
+    {
+     "id": "14:67",
+     "name": "• Contact details: Address (Icon_Location) · Phone (Icon_Phone) · Working Time (Icon_Clock), each with its value (see DATA) • Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA) • Footer: see DATA (Footer) • Form: Your name (placeholder “Abc”) · Email address (“Abc@def.com”) · Subject (“This is optional”) · Message (“Hi! I’d like to ask about”) · “Submit” • Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · current: Contact · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart) • Intro: “Get In Touch With Us” · intro copy (see DATA) • Page title: Photo_Page_Banner · “Contact” · breadcrumb Home › Contact (Icon_Chevron_Right)",
+     "x": 756,
+     "y": 2599,
+     "text": "• Contact details: Address (Icon_Location) · Phone (Icon_Phone) · Working Time (Icon_Clock), each with its value (see DATA)\n• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA)\n• Footer: see DATA (Footer)\n• Form: Your name (placeholder “Abc”) · Email address (“Abc@def.com”) · Subject (“This is optional”) · Message (“Hi! I’d like to ask about”) · “Submit”\n• Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · current: Contact · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart)\n• Intro: “Get In Touch With Us” · intro copy (see DATA)\n• Page title: Photo_Page_Banner · “Contact” · breadcrumb Home › Contact (Icon_Chevron_Right)"
+    },
+    {
+     "id": "14:68",
+     "name": "LINKS",
+     "x": 756,
+     "y": 2869,
+     "text": "LINKS"
+    },
+    {
+     "id": "14:69",
+     "name": "→ Home (nav or breadcrumb) → 01_Home",
+     "x": 756,
+     "y": 2895,
+     "text": "→ Home (nav or breadcrumb) → 01_Home"
+    },
+    {
+     "id": "14:61",
+     "name": "LINKS",
+     "x": 88,
+     "y": 2949,
+     "text": "LINKS"
+    },
+    {
+     "id": "14:62",
+     "name": "→ Place order → entry only (no frame)",
+     "x": 88,
+     "y": 2975,
+     "text": "→ Place order → entry only (no frame)"
+    },
+    {
+     "id": "14:71",
+     "name": "09_Blog",
+     "x": 88,
+     "y": 3067,
+     "text": "09_Blog"
+    },
+    {
+     "id": "14:72",
+     "name": "Goal: Browse the store’s blog posts.",
+     "x": 88,
+     "y": 3103,
+     "text": "Goal: Browse the store’s blog posts."
+    },
+    {
+     "id": "14:73",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 3133,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "14:74",
+     "name": "• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA) • Footer: see DATA (Footer) • Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · no item current · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart) • Page title: Photo_Page_Banner · “Blog” · breadcrumb Home › Blog (Icon_Chevron_Right) • Pagination: 1 · 2 · 3 · “Next” · current: 1 • Posts: 3 posts, each with photo, author Admin (Icon_User), date (Icon_Calendar), category (Icon_Tag), title, excerpt and “Read more” (see DATA) • Sidebar: search (Icon_Search) · “Categories” with post counts · “Recent Posts” with thumbnail, title and date (see DATA)",
+     "x": 88,
+     "y": 3159,
+     "text": "• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA)\n• Footer: see DATA (Footer)\n• Header: Logo_Furniro · “Furniro” · navigation Home / Shop / About / Contact · no item current · account (Icon_Account) · search (Icon_Search) · wishlist (Icon_Heart) · cart (Icon_Cart)\n• Page title: Photo_Page_Banner · “Blog” · breadcrumb Home › Blog (Icon_Chevron_Right)\n• Pagination: 1 · 2 · 3 · “Next” · current: 1\n• Posts: 3 posts, each with photo, author Admin (Icon_User), date (Icon_Calendar), category (Icon_Tag), title, excerpt and “Read more” (see DATA)\n• Sidebar: search (Icon_Search) · “Categories” with post counts · “Recent Posts” with thumbnail, title and date (see DATA)"
+    },
+    {
+     "id": "14:75",
+     "name": "LINKS",
+     "x": 88,
+     "y": 3409,
+     "text": "LINKS"
+    },
+    {
+     "id": "14:76",
+     "name": "→ Home (nav or breadcrumb) → 01_Home",
+     "x": 88,
+     "y": 3435,
+     "text": "→ Home (nav or breadcrumb) → 01_Home"
+    },
+    {
+     "id": "14:78",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 3527,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "14:79",
+     "name": "• Site header on all 9 frames: Logo_Furniro + “Furniro”, then Home / Shop / About / Contact, then account, search, wishlist and cart. Current: Home on 01, Shop on 02–04, Contact on 08, none on 05, 06, 07 and 09. How the current item looks is yours. • Footer on all 9 frames. Feature strip (High Quality, Warranty Protection, Free Shipping, 24 / 7 Support) on 02 and 05–09. Page title with breadcrumb on 02 and 05–09; 03 and 04 show the breadcrumb Home › Shop › Asgaard sofa. • Main flow: 01_Home → 02_Shop → 03_Product → Add To Cart opens 04_Cart_Drawer over the product page → Cart → 06_Cart → Check Out → 07_Checkout. Compare (hover card, + Compare, drawer Comparison) → 05_Comparison. Header cart → 06_Cart. Contact → 08_Contact. • 09_Blog: the source has no entry point to the blog — link it from wherever you see fit (e.g. the footer). • Entry only (no frame): About, account, search, wishlist, Explore More, slide arrows, range tiles, Add to cart / Share / Like on cards, Filter, view toggles, Show, Sort by, pagination, size, color, quantity, social share, description tabs, Choose a Product, all form fields, Place order, Submit, Subscribe, Read more, categories, recent posts.",
+     "x": 64,
+     "y": 3578,
+     "text": "• Site header on all 9 frames: Logo_Furniro + “Furniro”, then Home / Shop / About / Contact, then account, search, wishlist and cart. Current: Home on 01, Shop on 02–04, Contact on 08, none on 05, 06, 07 and 09. How the current item looks is yours.\n• Footer on all 9 frames. Feature strip (High Quality, Warranty Protection, Free Shipping, 24 / 7 Support) on 02 and 05–09. Page title with breadcrumb on 02 and 05–09; 03 and 04 show the breadcrumb Home › Shop › Asgaard sofa.\n• Main flow: 01_Home → 02_Shop → 03_Product → Add To Cart opens 04_Cart_Drawer over the product page → Cart → 06_Cart → Check Out → 07_Checkout. Compare (hover card, + Compare, drawer Comparison) → 05_Comparison. Header cart → 06_Cart. Contact → 08_Contact.\n• 09_Blog: the source has no entry point to the blog — link it from wherever you see fit (e.g. the footer).\n• Entry only (no frame): About, account, search, wishlist, Explore More, slide arrows, range tiles, Add to cart / Share / Like on cards, Filter, view toggles, Show, Sort by, pagination, size, color, quantity, social share, description tabs, Choose a Product, all form fields, Place order, Submit, Subscribe, Read more, categories, recent posts."
+    },
+    {
+     "id": "14:81",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 3824,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "14:82",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 3875,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "14:85",
+     "name": "Products (cards, in this order)",
+     "x": 84,
+     "y": 3933,
+     "text": "Products (cards, in this order)"
+    },
+    {
+     "id": "14:88",
+     "name": "Asgaard sofa (03)",
+     "x": 528,
+     "y": 3933,
+     "text": "Asgaard sofa (03)"
+    },
+    {
+     "id": "14:91",
+     "name": "Asgaard copy (03)",
+     "x": 972,
+     "y": 3933,
+     "text": "Asgaard copy (03)"
+    },
+    {
+     "id": "14:86",
+     "name": "Syltherine · Stylish cafe chair · Rs. 2,500,000.00 · old Rs. 3,500,000.00 · badge -30% (Photo_Product_Syltherine) Leviosa · Stylish cafe chair · Rs. 2,500,000.00 (Photo_Product_Leviosa) Lolito · Luxury big sofa · Rs. 7,000,000.00 · old Rs. 14,000,000.00 · badge -50% (Photo_Product_Lolito) Respira · Outdoor bar table and stool · Rs. 500,000.00 · badge New (Photo_Product_Respira) Grifo · Night lamp · Rs. 1,500,000.00 (Photo_Product_Grifo) Muggo · Small mug · Rs. 150,000.00 · badge New (Photo_Product_Muggo) Pingky · Cute bed set · Rs. 7,000,000.00 · old Rs. 14,000,000.00 · badge -50% (Photo_Product_Pingky) Potty · Minimalist flower pot · Rs. 500,000.00 · badge New (Photo_Product_Potty)",
+     "x": 84,
+     "y": 3961,
+     "text": "Syltherine · Stylish cafe chair · Rs. 2,500,000.00 · old Rs. 3,500,000.00 · badge -30% (Photo_Product_Syltherine)\nLeviosa · Stylish cafe chair · Rs. 2,500,000.00 (Photo_Product_Leviosa)\nLolito · Luxury big sofa · Rs. 7,000,000.00 · old Rs. 14,000,000.00 · badge -50% (Photo_Product_Lolito)\nRespira · Outdoor bar table and stool · Rs. 500,000.00 · badge New (Photo_Product_Respira)\nGrifo · Night lamp · Rs. 1,500,000.00 (Photo_Product_Grifo)\nMuggo · Small mug · Rs. 150,000.00 · badge New (Photo_Product_Muggo)\nPingky · Cute bed set · Rs. 7,000,000.00 · old Rs. 14,000,000.00 · badge -50% (Photo_Product_Pingky)\nPotty · Minimalist flower pot · Rs. 500,000.00 · badge New (Photo_Product_Potty)"
+    },
+    {
+     "id": "14:89",
+     "name": "Rs. 250,000.00 · rating 4.7 · 204 Customer Reviews · Reviews [204] Size: L · XL · XS (selected L) Color: purple #816DFA · black #000000 · gold #B88E2F SKU SS001 · Category Sofas · Tags Sofa, Chair, Home, Shop",
+     "x": 528,
+     "y": 3961,
+     "text": "Rs. 250,000.00 · rating 4.7 · 204 Customer Reviews · Reviews [204]\nSize: L · XL · XS (selected L)\nColor: purple #816DFA · black #000000 · gold #B88E2F\nSKU SS001 · Category Sofas · Tags Sofa, Chair, Home, Shop"
+    },
+    {
+     "id": "14:92",
+     "name": "Short: Setting the bar as one of the most comfortable sofas in its class, the Asgaard is a compact, sturdy three-seater with a solid-wood frame and deep, soft cushions. Description ¶1: Embodying the relaxed, honest spirit of Scandinavian design, the Asgaard pairs a solid-wood frame with soft, hard-wearing upholstery, built to be lived on every day. Description ¶2: Weighing in at 45 kg, the Asgaard is sturdy without being bulky. Its high-density foam cushions keep their shape, the removable covers are easy to care for, and the low, clean silhouette fits a small apartment as comfortably as a large living room.",
+     "x": 972,
+     "y": 3961,
+     "text": "Short: Setting the bar as one of the most comfortable sofas in its class, the Asgaard is a compact, sturdy three-seater with a solid-wood frame and deep, soft cushions.\nDescription ¶1: Embodying the relaxed, honest spirit of Scandinavian design, the Asgaard pairs a solid-wood frame with soft, hard-wearing upholstery, built to be lived on every day.\nDescription ¶2: Weighing in at 45 kg, the Asgaard is sturdy without being bulky. Its high-density foam cushions keep their shape, the removable covers are easy to care for, and the low, clean silhouette fits a small apartment as comfortably as a large living room."
+    },
+    {
+     "id": "14:94",
+     "name": "Cart (04, 06, 07)",
+     "x": 84,
+     "y": 4310,
+     "text": "Cart (04, 06, 07)"
+    },
+    {
+     "id": "14:97",
+     "name": "Comparison (05) · products",
+     "x": 528,
+     "y": 4310,
+     "text": "Comparison (05) · products"
+    },
+    {
+     "id": "14:100",
+     "name": "Comparison (05) · General / Product",
+     "x": 972,
+     "y": 4310,
+     "text": "Comparison (05) · General / Product"
+    },
+    {
+     "id": "14:95",
+     "name": "Asgaard sofa · 1 × Rs. 250,000.00 (Photo_Asgaard_Sofa) Subtotal Rs. 250,000.00 · Total Rs. 250,000.00",
+     "x": 84,
+     "y": 4338,
+     "text": "Asgaard sofa · 1 × Rs. 250,000.00 (Photo_Asgaard_Sofa)\nSubtotal Rs. 250,000.00 · Total Rs. 250,000.00"
+    },
+    {
+     "id": "14:98",
+     "name": "Asgaard Sofa · Rs. 250,000.00 · 4.7 · 204 Review (Photo_Asgaard_Sofa) Outdoor Sofa Set · Rs. 224,000.00 · 4.2 · 145 Review (Photo_Outdoor_Sofa_Set)",
+     "x": 528,
+     "y": 4338,
+     "text": "Asgaard Sofa · Rs. 250,000.00 · 4.7 · 204 Review (Photo_Asgaard_Sofa)\nOutdoor Sofa Set · Rs. 224,000.00 · 4.2 · 145 Review (Photo_Outdoor_Sofa_Set)"
+    },
+    {
+     "id": "14:101",
+     "name": "Values: Asgaard Sofa | Outdoor Sofa Set General Sales Package: 1 sectional sofa | 1 Three Seater, 2 Single Seater Model Number: TFCBLIGRBL6SRHS | DTUBLIGRBL568 Secondary Material: Solid Wood | Solid Wood Configuration: L-shaped | L-shaped Upholstery Material: Fabric + Cotton | Fabric + Cotton Upholstery Color: Bright Grey & Lion | Bright Grey & Lion Product Filling Material: Foam | Foam Finish Type: Matte | Matte Adjustable Headrest: No | Yes Maximum Load Capacity: 280 KG | 300 KG Origin of Manufacture: India | India",
+     "x": 972,
+     "y": 4338,
+     "text": "Values: Asgaard Sofa | Outdoor Sofa Set\nGeneral\nSales Package: 1 sectional sofa | 1 Three Seater, 2 Single Seater\nModel Number: TFCBLIGRBL6SRHS | DTUBLIGRBL568\nSecondary Material: Solid Wood | Solid Wood\nConfiguration: L-shaped | L-shaped\nUpholstery Material: Fabric + Cotton | Fabric + Cotton\nUpholstery Color: Bright Grey & Lion | Bright Grey & Lion\nProduct\nFilling Material: Foam | Foam\nFinish Type: Matte | Matte\nAdjustable Headrest: No | Yes\nMaximum Load Capacity: 280 KG | 300 KG\nOrigin of Manufacture: India | India"
+    },
+    {
+     "id": "14:103",
+     "name": "Comparison (05) · Dimensions / Warranty",
+     "x": 84,
+     "y": 4687,
+     "text": "Comparison (05) · Dimensions / Warranty"
+    },
+    {
+     "id": "14:106",
+     "name": "Checkout (07)",
+     "x": 528,
+     "y": 4687,
+     "text": "Checkout (07)"
+    },
+    {
+     "id": "14:109",
+     "name": "Contact (08)",
+     "x": 972,
+     "y": 4687,
+     "text": "Contact (08)"
+    },
+    {
+     "id": "14:104",
+     "name": "Dimensions Width: 265.32 cm | 265.32 cm Height: 76 cm | 76 cm Depth: 167.76 cm | 167.76 cm Weight: 45 KG | 65 KG Seat Height: 41.52 cm | 41.52 cm Leg Height: 5.46 cm | 5.46 cm Warranty Warranty Summary: 1 Year Manufacturing Warranty | 1.2 Year Manufacturing Warranty Warranty Service Type: For Warranty Claims or Any Product Related Issues Please Email at operations@furniro.example | … at support@furniro.example Covered in Warranty: Warranty Against Manufacturing Defect | Warranty of the product is limited to manufacturing defects only. Not Covered in Warranty (both): The Warranty Does Not Cover Damages Due To Usage Of The Product Beyond Its Intended Use And Wear & Tear In The Natural Course Of Product Usage. Domestic Warranty: 1 Year | 3 Months",
+     "x": 84,
+     "y": 4715,
+     "text": "Dimensions\nWidth: 265.32 cm | 265.32 cm\nHeight: 76 cm | 76 cm\nDepth: 167.76 cm | 167.76 cm\nWeight: 45 KG | 65 KG\nSeat Height: 41.52 cm | 41.52 cm\nLeg Height: 5.46 cm | 5.46 cm\nWarranty\nWarranty Summary: 1 Year Manufacturing Warranty | 1.2 Year Manufacturing Warranty\nWarranty Service Type: For Warranty Claims or Any Product Related Issues Please Email at operations@furniro.example | … at support@furniro.example\nCovered in Warranty: Warranty Against Manufacturing Defect | Warranty of the product is limited to manufacturing defects only.\nNot Covered in Warranty (both): The Warranty Does Not Cover Damages Due To Usage Of The Product Beyond Its Intended Use And Wear & Tear In The Natural Course Of Product Usage.\nDomestic Warranty: 1 Year | 3 Months"
+    },
+    {
+     "id": "14:107",
+     "name": "Country / Region: Sri Lanka · Province: Western Province Direct Bank Transfer note: Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order will not be shipped until the funds have cleared in our account. Privacy note: Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our privacy policy.",
+     "x": 528,
+     "y": 4715,
+     "text": "Country / Region: Sri Lanka · Province: Western Province\nDirect Bank Transfer note: Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order will not be shipped until the funds have cleared in our account.\nPrivacy note: Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our privacy policy."
+    },
+    {
+     "id": "14:110",
+     "name": "Intro: For more information about our products & services, please feel free to drop us an email. Our staff will always be there to help you out. Do not hesitate! Address: 236 5th SE Avenue, New York NY10000, United States Phone: Mobile: +(84) 546-6789 · Hotline: +(84) 456-6789 Working Time: Monday–Friday: 9:00 – 22:00 · Saturday–Sunday: 9:00 – 21:00",
+     "x": 972,
+     "y": 4715,
+     "text": "Intro: For more information about our products & services, please feel free to drop us an email. Our staff will always be there to help you out. Do not hesitate!\nAddress: 236 5th SE Avenue, New York NY10000, United States\nPhone: Mobile: +(84) 546-6789 · Hotline: +(84) 456-6789\nWorking Time: Monday–Friday: 9:00 – 22:00 · Saturday–Sunday: 9:00 – 21:00"
+    },
+    {
+     "id": "14:112",
+     "name": "Blog posts (09, in this order)",
+     "x": 84,
+     "y": 5178,
+     "text": "Blog posts (09, in this order)"
+    },
+    {
+     "id": "14:115",
+     "name": "Blog sidebar (09)",
+     "x": 528,
+     "y": 5178,
+     "text": "Blog sidebar (09)"
+    },
+    {
+     "id": "14:118",
+     "name": "Features strip",
+     "x": 972,
+     "y": 5178,
+     "text": "Features strip"
+    },
+    {
+     "id": "14:113",
+     "name": "All by Admin · 14 Oct 2022 1. Going all-in with millennial design · Wood (Photo_Blog_1) — Soft pastels, rounded silhouettes and natural wood: how millennial design took over the living room, and how to make it feel personal rather than borrowed from a feed. 2. Exploring new ways of decorating · Handmade (Photo_Blog_2) — Moving one lamp can change a whole room. Simple ways to refresh your space with what you already own, plus a few handmade pieces that add character. 3. Handmade pieces that took time to make · Wood (Photo_Blog_3) — From hand-turned legs to woven seats: meet the makers behind some of our favourite pieces and learn why slow craftsmanship lasts longer.",
+     "x": 84,
+     "y": 5206,
+     "text": "All by Admin · 14 Oct 2022\n1. Going all-in with millennial design · Wood (Photo_Blog_1) — Soft pastels, rounded silhouettes and natural wood: how millennial design took over the living room, and how to make it feel personal rather than borrowed from a feed.\n2. Exploring new ways of decorating · Handmade (Photo_Blog_2) — Moving one lamp can change a whole room. Simple ways to refresh your space with what you already own, plus a few handmade pieces that add character.\n3. Handmade pieces that took time to make · Wood (Photo_Blog_3) — From hand-turned legs to woven seats: meet the makers behind some of our favourite pieces and learn why slow craftsmanship lasts longer."
+    },
+    {
+     "id": "14:116",
+     "name": "Categories: Crafts 2 · Design 8 · Handmade 7 · Interior 1 · Wood 6 Recent Posts (all 03 Aug 2022): Going all-in with millennial design (Photo_Recent_1) · Exploring new ways of decorating (Photo_Recent_2) · Handmade pieces that took time to make (Photo_Recent_3) · Modern home in Milan (Photo_Recent_4) · Colorful office redesign (Photo_Recent_5)",
+     "x": 528,
+     "y": 5206,
+     "text": "Categories: Crafts 2 · Design 8 · Handmade 7 · Interior 1 · Wood 6\nRecent Posts (all 03 Aug 2022): Going all-in with millennial design (Photo_Recent_1) · Exploring new ways of decorating (Photo_Recent_2) · Handmade pieces that took time to make (Photo_Recent_3) · Modern home in Milan (Photo_Recent_4) · Colorful office redesign (Photo_Recent_5)"
+    },
+    {
+     "id": "14:119",
+     "name": "High Quality · crafted from top materials (Icon_Trophy) Warranty Protection · Over 2 years (Icon_Guarantee) Free Shipping · Order over Rs. 150,000 (Icon_Shipping) 24 / 7 Support · Dedicated support (Icon_Support)",
+     "x": 972,
+     "y": 5206,
+     "text": "High Quality · crafted from top materials (Icon_Trophy)\nWarranty Protection · Over 2 years (Icon_Guarantee)\nFree Shipping · Order over Rs. 150,000 (Icon_Shipping)\n24 / 7 Support · Dedicated support (Icon_Support)"
+    },
+    {
+     "id": "14:121",
+     "name": "Footer (all frames)",
+     "x": 84,
+     "y": 5517,
+     "text": "Footer (all frames)"
+    },
+    {
+     "id": "14:122",
+     "name": "“Furniro.” · 400 University Drive Suite 200, Coral Gables, FL 33134 USA Links: Home · Shop · About · Contact Help: Payment Options · Returns · Privacy Policies Newsletter: “Enter Your Email Address” · “SUBSCRIBE” “2023 Furniro. All rights reserved”",
+     "x": 84,
+     "y": 5545,
+     "text": "“Furniro.” · 400 University Drive Suite 200, Coral Gables, FL 33134 USA\nLinks: Home · Shop · About · Contact\nHelp: Payment Options · Returns · Privacy Policies\nNewsletter: “Enter Your Email Address” · “SUBSCRIBE”\n“2023 Furniro. All rights reserved”"
+    },
+    {
+     "id": "14:124",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 5727,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "14:127",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 5802,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "14:130",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 5802,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "14:128",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand color #B88E2F and Poppins • Media: logo, photos, social logos, icons • Default Button, default Text Field",
+     "x": 88,
+     "y": 5835,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand color #B88E2F and Poppins\n• Media: logo, photos, social logos, icons\n• Default Button, default Text Field"
+    },
+    {
+     "id": "14:131",
+     "name": "• Layout, grid, grouping, order and emphasis on every page • All other colors: neutrals, text, backgrounds / section tints, badges (sale, new), rating, links, error / disabled • Type scale, spacing, radii, elevation • All states: current nav item, card hover, selected size, current tab, current page, selected payment, current slide, focused field • Header, footer, page title & breadcrumb, product card, toolbar, pagination, gallery, option pickers, stepper, tabs, comparison table, cart table, drawer, order summary, forms, blog card, sidebar widgets, feature strip • How photos are cropped and placed",
+     "x": 756,
+     "y": 5835,
+     "text": "• Layout, grid, grouping, order and emphasis on every page\n• All other colors: neutrals, text, backgrounds / section tints, badges (sale, new), rating, links, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: current nav item, card hover, selected size, current tab, current page, selected payment, current slide, focused field\n• Header, footer, page title & breadcrumb, product card, toolbar, pagination, gallery, option pickers, stepper, tabs, comparison table, cart table, drawer, order summary, forms, blog card, sidebar widgets, feature strip\n• How photos are cropped and placed"
+    },
+    {
+     "id": "14:133",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 6107,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "14:134",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 6158,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "14:135",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current nav, card hover, selected options, current tab and page)",
+     "x": 64,
+     "y": 6196,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current nav, card hover, selected options, current tab and page)"
+    },
+    {
+     "id": "14:136",
+     "name": "Deliverable: the link to your own Figma file containing the 9 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 6366,
+     "text": "Deliverable: the link to your own Figma file containing the 9 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · Furniro",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Furniro"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces (including any tinted section backgrounds), sale / new badge colors, rating color, link and selected states, error / disabled, type scale, spacing, radii, elevation and the page grid.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces (including any tinted section backgrounds), sale / new badge colors, rating color, link and selected states, error / disabled, type scale, spacing, radii, elevation and the page grid."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand color",
+     "x": 56,
+     "y": 208,
+     "text": "Brand color"
+    },
+    {
+     "id": "1:12",
+     "name": "Brand primary · gold",
+     "x": 56,
+     "y": 392,
+     "text": "Brand primary · gold"
+    },
+    {
+     "id": "1:13",
+     "name": "#B88E2F",
+     "x": 56,
+     "y": 417,
+     "text": "#B88E2F"
+    },
+    {
+     "id": "1:14",
+     "name": "The store’s signature accent. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 441,
+     "text": "The store’s signature accent. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:15",
+     "name": "Typeface",
+     "x": 56,
+     "y": 518,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:16",
+     "name": "Aa Bb Cc 0123456789 Rs. 250,000.00",
+     "x": 56,
+     "y": 574,
+     "text": "Aa Bb Cc 0123456789  Rs. 250,000.00"
+    },
+    {
+     "id": "1:17",
+     "name": "Use Poppins for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 666,
+     "text": "Use Poppins for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:18",
+     "name": "Canvas: desktop web, 1440 wide. Light mode. Frame heights are free — every page scrolls vertically.",
+     "x": 56,
+     "y": 715,
+     "text": "Canvas: desktop web, 1440 wide. Light mode. Frame heights are free — every page scrolls vertically."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+  "updated_at": "2026-11-03T07:55:50.766Z",
+  "run_set_id": "design10-rerun3-opus3",
+  "started_at": null,
+  "finished": true,
+  "finished_at": "2026-11-03T07:53:00.078Z",
+  "wall_elapsed_ms": null,
+  "generation_concurrency": 1,
+  "model_concurrency": 1,
+  "account_concurrency": 1,
+  "judge_concurrency": 3,
+  "revision": 1,
+  "policy_hash": "9e407edd0f5bdcc5375573a5e00574b1475955b0051a50df18032171bf6538c4",
+  "duration_note": "Wall elapsed includes preparation and waiting. Task-duration sums overlap under concurrency and are not wall elapsed.",
+  "models": [
+    {
+      "model_id": "model_claude_opus55_direct",
+      "model_name": "Opus 5.5（三方A）",
+      "total": 1,
+      "copies_ready": 0,
+      "copy_task_duration_ms_sum": 0,
+      "fresh_retry_copies": 0,
+      "retry_copy_task_duration_ms_sum": 0,
+      "inference_attempts_started": 1,
+      "inference_attempts_finished": 1,
+      "inference_task_duration_ms_sum": 916315,
+      "inference_task_duration_ms_mean": 916315,
+      "inference_wall_elapsed_ms": 916315,
+      "inference_first_started_at": "2026-11-03T07:37:05.448Z",
+      "judge_task_duration_ms_sum": 53404,
+      "formal_scores": 1
+    }
+  ]
+}

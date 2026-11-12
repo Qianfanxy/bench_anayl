@@ -1,0 +1,165 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Frontpage",
+      "size": "1680×4824",
+      "nodes": 140,
+      "max_depth": 2,
+      "instances": 33,
+      "texts": 82,
+      "images": 0,
+      "types": [
+        "text×82",
+        "instance×33",
+        "rectangle×13",
+        "frame×12"
+      ],
+      "names": [
+        "Header",
+        "NewsTicker",
+        "NEWS TICKER+++",
+        "TickerItems",
+        "PageTitle",
+        "Tag"
+      ]
+    },
+    {
+      "name": "02_Magazine",
+      "size": "1680×4660",
+      "nodes": 123,
+      "max_depth": 2,
+      "instances": 39,
+      "texts": 61,
+      "images": 0,
+      "types": [
+        "text×61",
+        "instance×39",
+        "frame×18",
+        "rectangle×5"
+      ],
+      "names": [
+        "Header",
+        "PageTitle",
+        "CATEGORIES",
+        "Rectangle",
+        "Filter_All",
+        "Filter_Art"
+      ]
+    },
+    {
+      "name": "03_Magazine_Post",
+      "size": "1680×2880",
+      "nodes": 57,
+      "max_depth": 2,
+      "instances": 21,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "text×29",
+        "instance×21",
+        "frame×6",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "Icon_Arrow_Left",
+        "GoBack",
+        "MAGAZINE",
+        "Tag",
+        "Title"
+      ]
+    },
+    {
+      "name": "04_Podcast",
+      "size": "1680×1950",
+      "nodes": 44,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "text×21",
+        "instance×12",
+        "rectangle×6",
+        "frame×5"
+      ],
+      "names": [
+        "Header",
+        "PageTitle",
+        "Rectangle",
+        "Ep 05",
+        "Frame",
+        "Photo_Podcast_Ep05"
+      ]
+    },
+    {
+      "name": "05_Podcast_Post",
+      "size": "1680×2228",
+      "nodes": 60,
+      "max_depth": 2,
+      "instances": 16,
+      "texts": 37,
+      "images": 0,
+      "types": [
+        "text×37",
+        "instance×16",
+        "frame×5",
+        "rectangle×2"
+      ],
+      "names": [
+        "Header",
+        "Icon_Arrow_Left",
+        "GoBack",
+        "PODCAST",
+        "EPISODE 05",
+        "Title"
+      ]
+    },
+    {
+      "name": "06_Authors",
+      "size": "1680×1790",
+      "nodes": 58,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 37,
+      "images": 0,
+      "types": [
+        "text×37",
+        "instance×14",
+        "rectangle×7"
+      ],
+      "names": [
+        "Header",
+        "PageTitle",
+        "Rectangle",
+        "Avatar_Jakob",
+        "AuthorRow_Jakob Grønberg",
+        "Job"
+      ]
+    },
+    {
+      "name": "07_Author_Profile",
+      "size": "1680×1510",
+      "nodes": 34,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "text×17",
+        "instance×12",
+        "frame×4",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "Icon_Arrow_Left",
+        "GoBack",
+        "AUTHOR",
+        "Avatar_Louise",
+        "ProfileName"
+      ]
+    }
+  ]
+}

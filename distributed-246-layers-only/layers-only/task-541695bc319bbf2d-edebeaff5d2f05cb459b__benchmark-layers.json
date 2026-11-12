@@ -1,0 +1,273 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "375×812",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "StockWave_Symbol",
+        "StockWave_Wordmark",
+        "Tagline"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×3",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Skip",
+        "Blank_Phone_Frame",
+        "Title",
+        "Subtitle"
+      ]
+    },
+    {
+      "name": "03_Sign_Up_Empty",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×8",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "StockWave_Wordmark",
+        "Title",
+        "Subtitle",
+        "Label_Username"
+      ]
+    },
+    {
+      "name": "03_Sign_Up_Filled",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×8",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "StockWave_Wordmark",
+        "Title",
+        "Subtitle",
+        "Label_Username"
+      ]
+    },
+    {
+      "name": "04_Verify_Phone",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×4",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Nav_Back",
+        "Title",
+        "Subtitle",
+        "CountryCode"
+      ]
+    },
+    {
+      "name": "05_Verify_Code",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "rectangle×5",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Nav_Back",
+        "Title",
+        "Subtitle",
+        "OTP_1"
+      ]
+    },
+    {
+      "name": "06_Welcome",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Welcome_Hand",
+        "Hello",
+        "Welcome",
+        "Subtext"
+      ]
+    },
+    {
+      "name": "07_Home",
+      "size": "375×1066",
+      "nodes": 44,
+      "max_depth": 1,
+      "instances": 25,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×25",
+        "vector×9",
+        "rectangle×7",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "StockWave_Wordmark",
+        "Notifications",
+        "Badge",
+        "PortfolioCard"
+      ]
+    },
+    {
+      "name": "08_Portfolio",
+      "size": "375×900",
+      "nodes": 37,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "instance×9",
+        "rectangle×8",
+        "vector×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "NavBar",
+        "PVLabel",
+        "PortfolioValue",
+        "TodayChange"
+      ]
+    },
+    {
+      "name": "09_Stock_Detail",
+      "size": "375×1000",
+      "nodes": 55,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 23,
+      "images": 0,
+      "types": [
+        "rectangle×24",
+        "text×23",
+        "instance×6",
+        "vector×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "NavBar",
+        "PriceAlert",
+        "LogoSlot",
+        "Logo_Netflix"
+      ]
+    },
+    {
+      "name": "10_Confirm_Order",
+      "size": "375×812",
+      "nodes": 32,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "instance×7",
+        "rectangle×5",
+        "ellipse×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "NavBar",
+        "OrderCard",
+        "LogoSlot",
+        "Logo_Netflix"
+      ]
+    },
+    {
+      "name": "11_Profile",
+      "size": "375×812",
+      "nodes": 40,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "rectangle×17",
+        "text×11",
+        "vector×7",
+        "instance×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "NavBar",
+        "Avatar",
+        "UserName",
+        "UserEmail"
+      ]
+    }
+  ]
+}

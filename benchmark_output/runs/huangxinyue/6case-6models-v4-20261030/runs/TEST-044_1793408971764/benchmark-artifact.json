@@ -1,0 +1,483 @@
+{
+  "file_key": "xTJFR3UiUaVrxMlnYbpLsk",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "5:2",
+      "name": "03 · Workspace",
+      "child_count": 31
+    }
+  ],
+  "workspace": {
+    "id": "5:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "11:2",
+        "name": "01_Login",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 428,
+        "height": 928,
+        "text_count": 8,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:39",
+        "name": "Sign in / Google",
+        "type": "COMPONENT",
+        "x": 2000,
+        "y": 0,
+        "width": 184,
+        "height": 52,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:52",
+        "name": "Sign in / Facebook",
+        "type": "COMPONENT",
+        "x": 2430,
+        "y": 0,
+        "width": 184,
+        "height": 52,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:60",
+        "name": "02_Home_Chats",
+        "type": "FRAME",
+        "x": 488,
+        "y": 0,
+        "width": 428,
+        "height": 928,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:99",
+        "name": "Home header / Chats",
+        "type": "COMPONENT",
+        "x": 2860,
+        "y": 0,
+        "width": 428,
+        "height": 349,
+        "text_count": 8,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:130",
+        "name": "History / 1",
+        "type": "COMPONENT",
+        "x": 2000,
+        "y": 400,
+        "width": 380,
+        "height": 143,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:141",
+        "name": "History / 2",
+        "type": "COMPONENT",
+        "x": 2430,
+        "y": 400,
+        "width": 380,
+        "height": 258,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:152",
+        "name": "History / 3",
+        "type": "COMPONENT",
+        "x": 2860,
+        "y": 400,
+        "width": 380,
+        "height": 143,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:161",
+        "name": "History / 4",
+        "type": "COMPONENT",
+        "x": 2000,
+        "y": 800,
+        "width": 380,
+        "height": 143,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:170",
+        "name": "History / 5",
+        "type": "COMPONENT",
+        "x": 2430,
+        "y": 800,
+        "width": 380,
+        "height": 143,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:179",
+        "name": "History / 6",
+        "type": "COMPONENT",
+        "x": 2860,
+        "y": 800,
+        "width": 380,
+        "height": 143,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:188",
+        "name": "History / 7",
+        "type": "COMPONENT",
+        "x": 2000,
+        "y": 1200,
+        "width": 380,
+        "height": 143,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:193",
+        "name": "03_Home_Images",
+        "type": "FRAME",
+        "x": 976,
+        "y": 0,
+        "width": 428,
+        "height": 928,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:232",
+        "name": "Home header / Images",
+        "type": "COMPONENT",
+        "x": 2430,
+        "y": 1200,
+        "width": 428,
+        "height": 349,
+        "text_count": 8,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:262",
+        "name": "Gallery / 1",
+        "type": "COMPONENT",
+        "x": 2860,
+        "y": 1200,
+        "width": 184,
+        "height": 190,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:269",
+        "name": "Gallery / 2",
+        "type": "COMPONENT",
+        "x": 2000,
+        "y": 1600,
+        "width": 184,
+        "height": 190,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:276",
+        "name": "Gallery / 3",
+        "type": "COMPONENT",
+        "x": 2430,
+        "y": 1600,
+        "width": 184,
+        "height": 190,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:283",
+        "name": "Gallery / 4",
+        "type": "COMPONENT",
+        "x": 2860,
+        "y": 1600,
+        "width": 184,
+        "height": 190,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:290",
+        "name": "Gallery / 5",
+        "type": "COMPONENT",
+        "x": 2000,
+        "y": 2000,
+        "width": 184,
+        "height": 190,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:297",
+        "name": "Gallery / 6",
+        "type": "COMPONENT",
+        "x": 2430,
+        "y": 2000,
+        "width": 184,
+        "height": 190,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:304",
+        "name": "Gallery / 7",
+        "type": "COMPONENT",
+        "x": 2860,
+        "y": 2000,
+        "width": 184,
+        "height": 190,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:311",
+        "name": "Gallery / 8",
+        "type": "COMPONENT",
+        "x": 2000,
+        "y": 2400,
+        "width": 184,
+        "height": 190,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:315",
+        "name": "04_Home_Exports",
+        "type": "FRAME",
+        "x": 1464,
+        "y": 0,
+        "width": 428,
+        "height": 928,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:354",
+        "name": "Home header / Exports",
+        "type": "COMPONENT",
+        "x": 2430,
+        "y": 2400,
+        "width": 428,
+        "height": 349,
+        "text_count": 8,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:385",
+        "name": "PDF / 1",
+        "type": "COMPONENT",
+        "x": 2860,
+        "y": 2400,
+        "width": 380,
+        "height": 98,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:394",
+        "name": "PDF / 2",
+        "type": "COMPONENT",
+        "x": 2000,
+        "y": 2800,
+        "width": 380,
+        "height": 98,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:403",
+        "name": "PDF / 3",
+        "type": "COMPONENT",
+        "x": 2430,
+        "y": 2800,
+        "width": 380,
+        "height": 98,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:412",
+        "name": "PDF / 4",
+        "type": "COMPONENT",
+        "x": 2860,
+        "y": 2800,
+        "width": 380,
+        "height": 98,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:421",
+        "name": "PDF / 5",
+        "type": "COMPONENT",
+        "x": 2000,
+        "y": 3200,
+        "width": 380,
+        "height": 98,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:430",
+        "name": "PDF / 6",
+        "type": "COMPONENT",
+        "x": 2430,
+        "y": 3200,
+        "width": 380,
+        "height": 98,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:439",
+        "name": "PDF / 7",
+        "type": "COMPONENT",
+        "x": 2860,
+        "y": 3200,
+        "width": 380,
+        "height": 98,
+        "text_count": 2,
+        "reaction_count": 0
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nChat Bot AI — AI assistant app\nDesign the complete Chat Bot AI mobile app: Sam Rivera logs in, browses past chats, generated images and PDF exports, starts a new chat, continues a conversation that ends with a generated image, exports it as PDF, and manages profile, theme and cloud storage.\nCanvas 428 × 928, light mode only. Home, the conversation and Cloud Space may scroll vertically. Today is Dec 30, 2023. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 12 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typefaces in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / warning / error / disabled, storage-breakdown colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, sheets, dialogs, message bubbles and every business component as reusable components in your file.\n5. Use the logo, generated images, PDF icon and icons from 04 · Media. People have no photos: use Avatar_Neutral or initials.\n6. Copy and data must match “Fixed data” exactly. Long answers may be cut off where the frame ends; everything listed must still be visible. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Login\nGoal: Sign in to the account.\nMUST INCLUDE\n• Actions: Forgot Password? · Login · “Don’t have an account?” Sign Up\n• Brand: logo\n• Copy: “Login to your account”\n• Form: Email “sam.rivera@example.com” · Password entered (masked, can be shown or hidden)\n• Legal: Terms of use · Privacy policy\n• Social sign-in: “Or login with” · Facebook · Google\nLINKS\n→ Login → 02_Home_Chats\n02_Home_Chats\nGoal: Find a past conversation or start a new one.\nMUST INCLUDE\n• Account: avatar (profile entry) · back\n• Actions: New Topic\n• Chats: 7 chats, newest first, each with question, answer preview and time · the 3-days-ago chat shows its generated image (DATA)\n• Copy: “Start a new chat with Chat Bot AI” · logo\n• History: “History” · search “Search ...”\n• View: Chats / Archived / Images / Exports · current: Chats\nLINKS\n→ New Topic → 05_Chat_New\n→ chat “Tell me the story…” → 06_Chat_Conversation\n→ Images → 03 · Exports → 04\n→ avatar → 08_Profile_Settings\n03_Home_Images\nGoal: Browse every image the assistant generated.\nMUST INCLUDE\n• Account: same as 02\n• Actions: New Topic\n• Copy: same as 02\n• History: same as 02\n• Images: 8 generated images (DATA)\n• View: same switch as 02 · current: Images\nLINKS\n→ Chats → 02 · Exports → 04\n→ New Topic → 05_Chat_New\n04_Home_Exports\nGoal: Find a PDF export.\nMUST INCLUDE\n• Account: same as 02\n• Actions: New Topic\n• Copy: same as 02\n• Exports: 7 PDF files, newest first, each with PDF icon, title, date and size (DATA)\n• History: same as 02\n• View: same switch as 02 · current: Exports\nLINKS\n→ Chats → 02 · Images → 03\n→ New Topic → 05_Chat_New\n05_Chat_New\nGoal: Start a conversation from a blank chat.\nMUST INCLUDE\n• Actions: menu · export · send\n• Assistant: logo · “Chat Bot AI 4.5” · “Premium account”\n• Copy: “How can I help you my friend? 😊”\n• Input: “Ask me anything...” (empty)\n• Suggestions: 4 prompts, each with title and detail (DATA)\nLINKS\n→ menu → 02_Home_Chats\n06_Chat_Conversation\nGoal: Read the conversation and act on messages.\nMUST INCLUDE\n• Actions: menu · export · send\n• Assistant: logo · “Chat Bot AI 4.5” · “Premium account”\n• Input: “Ask me anything...” (empty)\n• Messages: 4 messages in this order — You · Chat Bot AI · You · Chat Bot AI (DATA) · each sender identified\n• Message actions: on your messages Edit · Copy; on the story Copy · Share · Regenerate; on the image Download · Share · Regenerate\nLINKS\n→ menu → 02_Home_Chats\n→ export → 07_Export_PDF_Sheet\n07_Export_PDF_Sheet\nGoal: Name and export the conversation as PDF.\nMUST INCLUDE\n• Actions: close · Export\n• Copy: “Export as PDF” · “All your conversations with Chat Bot AI will be exported as PDF. Please choose a title for this file”\n• Form: Title “The story of a student”\n• Media: PDF_File_Icon\n• Presentation: sheet over 06_Chat_Conversation; the conversation stays behind it\nLINKS\n→ close → 06 · Export → 06\n08_Profile_Settings\nGoal: Check the account and reach settings.\nMUST INCLUDE\n• Account: avatar · Sam Rivera · “premium account” · “278 days until the end of the premium account”\n• Actions: back · more\n• Copy: “Profile & Settings”\n• Footer: “Chat Bot AI - Version 2.0.5” · Terms of use · Privacy policy\n• Settings: Change password · Data & storage “83% Used” · Email sam.rivera@example.com · Send feedback (“Chat Bot AI can make mistakes. Consider checking important information and send us your feedback”) · Theme “System default”\nLINKS\n→ back → 02_Home_Chats\n→ more → 09_Account_Actions_Sheet\n→ Theme → 10_Theme_Sheet\n→ Data & storage → 11_Cloud_Space\n09_Account_Actions_Sheet\nGoal: Leave or remove the account.\nMUST INCLUDE\n• Actions: Delete Account · Sign out\n• Presentation: sheet over 08_Profile_Settings; Profile stays behind it\nLINKS\n→ Sign out → 01_Login\n→ tap outside → 08\n10_Theme_Sheet\nGoal: Choose the app theme.\nMUST INCLUDE\n• Options: Dark mode · Light mode · System default · only one can be chosen · current: System default\n• Presentation: sheet over 08_Profile_Settings; Profile stays behind it\nLINKS\n→ tap outside → 08\n11_Cloud_Space\nGoal: See what uses storage and free some up.\nMUST INCLUDE\n• Actions: back · more\n• Clear cache: “Clear cache” · 238.05 MB\n• Copy: “Cloud Space”\n• Delete all chats: “Delete all chats” · 12.48 GB · “Warning! By deleting all chats, all photos, conversations and documents will be lost and cannot be recovered!”\n• Exports: “Exports” · 37 items · 506 MB · note (DATA) · latest 3 exports, each with title, date, size and delete\n• Footer: same as 08\n• Images: “Images” · 169 items · 8,225 MB · note (DATA) · 7 thumbnails\n• Usage: “12.48 GB of 15 GB used” ·",
+  "layer_summary": {
+    "board_count": 4,
+    "boards": [
+      {
+        "name": "01_Login",
+        "size": "428×928",
+        "nodes": 43,
+        "max_depth": 3,
+        "instances": 11,
+        "texts": 14,
+        "images": 0,
+        "types": [
+          "text×14",
+          "instance×11",
+          "vector×8",
+          "rectangle×7",
+          "frame×2",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "02_Home_Chats",
+        "size": "428×928",
+        "nodes": 69,
+        "max_depth": 3,
+        "instances": 17,
+        "texts": 31,
+        "images": 0,
+        "types": [
+          "text×31",
+          "instance×17",
+          "frame×7",
+          "rectangle×7",
+          "vector×4",
+          "ellipse×3"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "03_Home_Images",
+        "size": "428×928",
+        "nodes": 63,
+        "max_depth": 3,
+        "instances": 25,
+        "texts": 17,
+        "images": 0,
+        "types": [
+          "instance×25",
+          "text×17",
+          "frame×7",
+          "rectangle×7",
+          "vector×4",
+          "ellipse×3"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "04_Home_Exports",
+        "size": "428×928",
+        "nodes": 67,
+        "max_depth": 3,
+        "instances": 23,
+        "texts": 23,
+        "images": 0,
+        "types": [
+          "instance×23",
+          "text×23",
+          "frame×7",
+          "rectangle×7",
+          "vector×4",
+          "ellipse×3"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      }
+    ]
+  }
+}

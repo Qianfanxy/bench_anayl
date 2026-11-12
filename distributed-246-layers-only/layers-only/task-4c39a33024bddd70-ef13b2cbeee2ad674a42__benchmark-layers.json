@@ -1,0 +1,49 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4307",
+      "nodes": 46,
+      "max_depth": 3,
+      "instances": 22,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×22",
+        "frame×14",
+        "text×10"
+      ],
+      "names": [
+        "Header",
+        "Hero",
+        "Hero Text",
+        "Beautiful homes made for",
+        "Hand-picked homes, hones",
+        "Button/Primary"
+      ]
+    },
+    {
+      "name": "02_Property",
+      "size": "1440×3361",
+      "nodes": 127,
+      "max_depth": 6,
+      "instances": 43,
+      "texts": 38,
+      "images": 0,
+      "types": [
+        "frame×46",
+        "instance×43",
+        "text×38"
+      ],
+      "names": [
+        "Header",
+        "Title Bar",
+        "Title",
+        "Modern House",
+        "3002 Foster Ave, Brookly",
+        "Price"
+      ]
+    }
+  ]
+}

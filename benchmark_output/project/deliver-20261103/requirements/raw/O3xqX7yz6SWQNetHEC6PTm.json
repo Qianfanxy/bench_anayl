@@ -1,0 +1,543 @@
+{
+ "file_key": "O3xqX7yz6SWQNetHEC6PTm",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "5:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "5:5",
+     "name": "SHOP.CO — fashion store website",
+     "x": 64,
+     "y": 95,
+     "text": "SHOP.CO — fashion store website"
+    },
+    {
+     "id": "5:6",
+     "name": "Design a fashion e-commerce website: discover new arrivals and best sellers, filter a category, review a product and its customer reviews, and check the cart. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design a fashion e-commerce website: discover new arrivals and best sellers, filter a category, review a product and its customer reviews, and check the cart. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "5:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "5:9",
+     "name": "1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand color and the two typefaces in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently. 4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file. 5. Use the photos, the social and payment logos and the icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the two typefaces in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the photos, the social and payment logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "5:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 554,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "5:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 605,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "5:15",
+     "name": "01_Home",
+     "x": 88,
+     "y": 667,
+     "text": "01_Home"
+    },
+    {
+     "id": "5:22",
+     "name": "02_Category",
+     "x": 756,
+     "y": 667,
+     "text": "02_Category"
+    },
+    {
+     "id": "5:16",
+     "name": "Goal: Get inspired and find something to buy.",
+     "x": 88,
+     "y": 703,
+     "text": "Goal: Get inspired and find something to buy."
+    },
+    {
+     "id": "5:23",
+     "name": "Goal: Filter the Casual category and pick a product.",
+     "x": 756,
+     "y": 703,
+     "text": "Goal: Filter the Casual category and pick a product."
+    },
+    {
+     "id": "5:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:18",
+     "name": "• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close) • Brands: NORDE · ATELIER K · MONVALE · RIVA · CASSEL (as wordmarks) • Browse by dress style: “BROWSE BY DRESS STYLE” · Casual · Formal · Party · Gym, each with its photo (Photo_Style_Casual, Photo_Style_Formal, Photo_Style_Party, Photo_Style_Gym) • Customer reviews: “OUR HAPPY CUSTOMERS” · previous / next (Icon_Arrow_Left, Icon_Arrow_Right) · 3 review cards with 5-star rating, name, verified mark (Icon_Verified) and quote (see DATA) • Footer: see DATA (Footer) • Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · no item current · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account) • Hero: “FIND CLOTHES THAT MATCH YOUR STYLE” · copy (see DATA) · “Shop Now” · stats 200+ International Brands · 2,000+ High-Quality Products · 30,000+ Happy Customers · Photo_Hero · two Icon_Sparkle • New Arrivals: “NEW ARRIVALS” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA) · “View All” • Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter” • Top Selling: “TOP SELLING” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA) · “View All”",
+     "x": 88,
+     "y": 759,
+     "text": "• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Brands: NORDE · ATELIER K · MONVALE · RIVA · CASSEL (as wordmarks)\n• Browse by dress style: “BROWSE BY DRESS STYLE” · Casual · Formal · Party · Gym, each with its photo (Photo_Style_Casual, Photo_Style_Formal, Photo_Style_Party, Photo_Style_Gym)\n• Customer reviews: “OUR HAPPY CUSTOMERS” · previous / next (Icon_Arrow_Left, Icon_Arrow_Right) · 3 review cards with 5-star rating, name, verified mark (Icon_Verified) and quote (see DATA)\n• Footer: see DATA (Footer)\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · no item current · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Hero: “FIND CLOTHES THAT MATCH YOUR STYLE” · copy (see DATA) · “Shop Now” · stats 200+ International Brands · 2,000+ High-Quality Products · 30,000+ Happy Customers · Photo_Hero · two Icon_Sparkle\n• New Arrivals: “NEW ARRIVALS” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA) · “View All”\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Top Selling: “TOP SELLING” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA) · “View All”"
+    },
+    {
+     "id": "5:25",
+     "name": "• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close) • Breadcrumb: Home › Casual (Icon_Chevron_Right) • Filters: “Filters” (Icon_Filter) · T-shirts · Shorts · Shirts · Hoodie · Jeans (Icon_Chevron_Right) · “Price” range $50 – $200 · “Colors” 10 swatches (see DATA) · selected: blue (Icon_Check) · “Size” XX-Small · X-Small · Small · Medium · Large · X-Large · XX-Large · 3X-Large · 4X-Large · selected: Large · “Dress Style” Casual · Formal · Party · Gym (Icon_Chevron_Right) · “Apply Filter” • Footer: see DATA (Footer) • Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · current: Shop · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account) • Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter” • Pagination: “Previous” (Icon_Arrow_Left) · 1 · 2 · 3 · … · 8 · 9 · 10 · “Next” (Icon_Arrow_Right) · current: 1 • Products: 9 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA) • Results header: “Casual” · “Showing 1-9 of 100 Products” · “Sort by: Most Popular” (Icon_Chevron_Down)",
+     "x": 756,
+     "y": 759,
+     "text": "• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Breadcrumb: Home › Casual (Icon_Chevron_Right)\n• Filters: “Filters” (Icon_Filter) · T-shirts · Shorts · Shirts · Hoodie · Jeans (Icon_Chevron_Right) · “Price” range $50 – $200 · “Colors” 10 swatches (see DATA) · selected: blue (Icon_Check) · “Size” XX-Small · X-Small · Small · Medium · Large · X-Large · XX-Large · 3X-Large · 4X-Large · selected: Large · “Dress Style” Casual · Formal · Party · Gym (Icon_Chevron_Right) · “Apply Filter”\n• Footer: see DATA (Footer)\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · current: Shop · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Pagination: “Previous” (Icon_Arrow_Left) · 1 · 2 · 3 · … · 8 · 9 · 10 · “Next” (Icon_Arrow_Right) · current: 1\n• Products: 9 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA)\n• Results header: “Casual” · “Showing 1-9 of 100 Products” · “Sort by: Most Popular” (Icon_Chevron_Down)"
+    },
+    {
+     "id": "5:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1169,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:27",
+     "name": "→ any product card → 03_Product → Home (breadcrumb) → 01_Home → cart (header) → 04_Cart",
+     "x": 756,
+     "y": 1195,
+     "text": "→ any product card → 03_Product\n→ Home (breadcrumb) → 01_Home\n→ cart (header) → 04_Cart"
+    },
+    {
+     "id": "5:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1249,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:20",
+     "name": "→ Shop Now, View All, Casual tile → 02_Category → any product card → 03_Product → cart (header) → 04_Cart",
+     "x": 88,
+     "y": 1275,
+     "text": "→ Shop Now, View All, Casual tile → 02_Category\n→ any product card → 03_Product\n→ cart (header) → 04_Cart"
+    },
+    {
+     "id": "5:29",
+     "name": "03_Product",
+     "x": 88,
+     "y": 1407,
+     "text": "03_Product"
+    },
+    {
+     "id": "5:36",
+     "name": "04_Cart",
+     "x": 756,
+     "y": 1407,
+     "text": "04_Cart"
+    },
+    {
+     "id": "5:30",
+     "name": "Goal: Choose color and size, read reviews and add the T-shirt to the cart.",
+     "x": 88,
+     "y": 1443,
+     "text": "Goal: Choose color and size, read reviews and add the T-shirt to the cart."
+    },
+    {
+     "id": "5:37",
+     "name": "Goal: Review the cart and its order summary.",
+     "x": 756,
+     "y": 1443,
+     "text": "Goal: Review the cart and its order summary."
+    },
+    {
+     "id": "5:31",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1473,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:38",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1473,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "5:32",
+     "name": "• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close) • Breadcrumb: Home › Shop › Men › T-shirts (Icon_Chevron_Right) • Footer: see DATA (Footer) • Gallery: Photo_One_Life_TShirt_1 (main) · thumbnails Photo_One_Life_TShirt_1, Photo_One_Life_TShirt_2, Photo_One_Life_TShirt_3 · selected: the first • Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · current: Shop · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account) • Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter” • Options: “Select Colors” olive · teal · navy (see DATA) · selected: olive (Icon_Check) · “Choose Size” Small · Medium · Large · X-Large · selected: Large • Purchase: quantity − 1 + (Icon_Minus, Icon_Plus) · “Add to Cart” • Reviews: “All Reviews” (451) · filter (Icon_Filter) · sort “Latest” (Icon_Chevron_Down) · “Write a Review” · 6 review cards with rating, name, verified mark (Icon_Verified), more (Icon_More), quote and post date (see DATA) · “Load More Reviews” • Summary: “ONE LIFE GRAPHIC T-SHIRT” · rating 4.5/5 (Icon_Star, Icon_Star_Half) · $260 · old $300 · -13% · description (see DATA) • Tabs: Product Details · Rating & Reviews · FAQs · current: Rating & Reviews • You might also like: “YOU MIGHT ALSO LIKE” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA)",
+     "x": 88,
+     "y": 1499,
+     "text": "• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Breadcrumb: Home › Shop › Men › T-shirts (Icon_Chevron_Right)\n• Footer: see DATA (Footer)\n• Gallery: Photo_One_Life_TShirt_1 (main) · thumbnails Photo_One_Life_TShirt_1, Photo_One_Life_TShirt_2, Photo_One_Life_TShirt_3 · selected: the first\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · current: Shop · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Options: “Select Colors” olive · teal · navy (see DATA) · selected: olive (Icon_Check) · “Choose Size” Small · Medium · Large · X-Large · selected: Large\n• Purchase: quantity − 1 + (Icon_Minus, Icon_Plus) · “Add to Cart”\n• Reviews: “All Reviews” (451) · filter (Icon_Filter) · sort “Latest” (Icon_Chevron_Down) · “Write a Review” · 6 review cards with rating, name, verified mark (Icon_Verified), more (Icon_More), quote and post date (see DATA) · “Load More Reviews”\n• Summary: “ONE LIFE GRAPHIC T-SHIRT” · rating 4.5/5 (Icon_Star, Icon_Star_Half) · $260 · old $300 · -13% · description (see DATA)\n• Tabs: Product Details · Rating & Reviews · FAQs · current: Rating & Reviews\n• You might also like: “YOU MIGHT ALSO LIKE” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA)"
+    },
+    {
+     "id": "5:39",
+     "name": "• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close) • Breadcrumb: Home › Cart (Icon_Chevron_Right) • Cart items: 3 line items, each with photo, name, size, color, price, quantity − 1 + (Icon_Minus, Icon_Plus) and remove (Icon_Trash) (see DATA) • Footer: see DATA (Footer) • Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · no item current · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account) • Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter” • Order Summary: “Order Summary” · Subtotal $565 · Discount (-20%) -$113 · Delivery Fee $15 · Total $467 · promo field “Add promo code” (Icon_Tag) · “Apply” · “Go to Checkout” (Icon_Arrow_Right) • Title: “YOUR CART”",
+     "x": 756,
+     "y": 1499,
+     "text": "• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Breadcrumb: Home › Cart (Icon_Chevron_Right)\n• Cart items: 3 line items, each with photo, name, size, color, price, quantity − 1 + (Icon_Minus, Icon_Plus) and remove (Icon_Trash) (see DATA)\n• Footer: see DATA (Footer)\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · no item current · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Order Summary: “Order Summary” · Subtotal $565 · Discount (-20%) -$113 · Delivery Fee $15 · Total $467 · promo field “Add promo code” (Icon_Tag) · “Apply” · “Go to Checkout” (Icon_Arrow_Right)\n• Title: “YOUR CART”"
+    },
+    {
+     "id": "5:40",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1809,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:41",
+     "name": "→ Go to Checkout → entry only (no frame) → Home (breadcrumb) → 01_Home → item → 03_Product",
+     "x": 756,
+     "y": 1835,
+     "text": "→ Go to Checkout → entry only (no frame)\n→ Home (breadcrumb) → 01_Home\n→ item → 03_Product"
+    },
+    {
+     "id": "5:33",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1969,
+     "text": "LINKS"
+    },
+    {
+     "id": "5:34",
+     "name": "→ Add to Cart → 04_Cart → Shop (breadcrumb) → 02_Category → product cards → 03_Product",
+     "x": 88,
+     "y": 1995,
+     "text": "→ Add to Cart → 04_Cart\n→ Shop (breadcrumb) → 02_Category\n→ product cards → 03_Product"
+    },
+    {
+     "id": "5:43",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 2127,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "5:44",
+     "name": "• Announcement bar, header, newsletter block and footer on all 4 frames. Header current: Shop on 02 and 03, none on 01 and 04. How the current item looks is yours. • Flow: 01_Home → Shop Now / View All / Casual tile → 02_Category → product card → 03_Product → Add to Cart → 04_Cart. Header cart → 04_Cart from any frame. Product cards on any frame open 03_Product (the product page template, shown for One Life Graphic T-shirt). • Entry only (no frame): Sign Up Now, close bar, On Sale, New Arrivals, Brands, search, account, review arrows, Formal / Party / Gym tiles, filter options, Apply Filter, sort, pagination, gallery thumbnails, color / size / quantity, tabs, Write a Review, Load More Reviews, remove, promo code, Go to Checkout, Subscribe, footer links.",
+     "x": 64,
+     "y": 2178,
+     "text": "• Announcement bar, header, newsletter block and footer on all 4 frames. Header current: Shop on 02 and 03, none on 01 and 04. How the current item looks is yours.\n• Flow: 01_Home → Shop Now / View All / Casual tile → 02_Category → product card → 03_Product → Add to Cart → 04_Cart. Header cart → 04_Cart from any frame. Product cards on any frame open 03_Product (the product page template, shown for One Life Graphic T-shirt).\n• Entry only (no frame): Sign Up Now, close bar, On Sale, New Arrivals, Brands, search, account, review arrows, Formal / Party / Gym tiles, filter options, Apply Filter, sort, pagination, gallery thumbnails, color / size / quantity, tabs, Write a Review, Load More Reviews, remove, promo code, Go to Checkout, Subscribe, footer links."
+    },
+    {
+     "id": "5:46",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 2336,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "5:47",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 2387,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "5:50",
+     "name": "Hero (01)",
+     "x": 84,
+     "y": 2445,
+     "text": "Hero (01)"
+    },
+    {
+     "id": "5:53",
+     "name": "New Arrivals (01, in order)",
+     "x": 528,
+     "y": 2445,
+     "text": "New Arrivals (01, in order)"
+    },
+    {
+     "id": "5:56",
+     "name": "Top Selling (01, in order)",
+     "x": 972,
+     "y": 2445,
+     "text": "Top Selling (01, in order)"
+    },
+    {
+     "id": "5:51",
+     "name": "FIND CLOTHES THAT MATCH YOUR STYLE Browse through our diverse range of meticulously crafted garments, designed to bring out your individuality and cater to your sense of style. Shop Now · 200+ International Brands · 2,000+ High-Quality Products · 30,000+ Happy Customers",
+     "x": 84,
+     "y": 2473,
+     "text": "FIND CLOTHES THAT MATCH YOUR STYLE\nBrowse through our diverse range of meticulously crafted garments, designed to bring out your individuality and cater to your sense of style.\nShop Now · 200+ International Brands · 2,000+ High-Quality Products · 30,000+ Happy Customers"
+    },
+    {
+     "id": "5:54",
+     "name": "T-shirt with Tape Details · 4.5/5 · $120 (Photo_TShirt_Tape_Details) Skinny Fit Jeans · 3.5/5 · $240 · old $260 · -20% (Photo_Skinny_Fit_Jeans) Checkered Shirt · 4.5/5 · $180 (Photo_Checkered_Shirt) Sleeve Striped T-shirt · 4.5/5 · $130 · old $160 · -30% (Photo_Sleeve_Striped_TShirt)",
+     "x": 528,
+     "y": 2473,
+     "text": "T-shirt with Tape Details · 4.5/5 · $120 (Photo_TShirt_Tape_Details)\nSkinny Fit Jeans · 3.5/5 · $240 · old $260 · -20% (Photo_Skinny_Fit_Jeans)\nCheckered Shirt · 4.5/5 · $180 (Photo_Checkered_Shirt)\nSleeve Striped T-shirt · 4.5/5 · $130 · old $160 · -30% (Photo_Sleeve_Striped_TShirt)"
+    },
+    {
+     "id": "5:57",
+     "name": "Vertical Striped Shirt · 5.0/5 · $212 · old $232 · -20% (Photo_Vertical_Striped_Shirt) Courage Graphic T-shirt · 4.0/5 · $145 (Photo_Courage_Graphic_TShirt) Loose Fit Bermuda Shorts · 3.0/5 · $80 (Photo_Loose_Fit_Bermuda_Shorts) Faded Skinny Jeans · 4.5/5 · $210 (Photo_Faded_Skinny_Jeans)",
+     "x": 972,
+     "y": 2473,
+     "text": "Vertical Striped Shirt · 5.0/5 · $212 · old $232 · -20% (Photo_Vertical_Striped_Shirt)\nCourage Graphic T-shirt · 4.0/5 · $145 (Photo_Courage_Graphic_TShirt)\nLoose Fit Bermuda Shorts · 3.0/5 · $80 (Photo_Loose_Fit_Bermuda_Shorts)\nFaded Skinny Jeans · 4.5/5 · $210 (Photo_Faded_Skinny_Jeans)"
+    },
+    {
+     "id": "5:59",
+     "name": "Happy customers (01, in order; all 5 stars, verified)",
+     "x": 84,
+     "y": 2689,
+     "text": "Happy customers (01, in order; all 5 stars, verified)"
+    },
+    {
+     "id": "5:62",
+     "name": "Casual products (02, in order)",
+     "x": 528,
+     "y": 2689,
+     "text": "Casual products (02, in order)"
+    },
+    {
+     "id": "5:65",
+     "name": "One Life Graphic T-shirt (03)",
+     "x": 972,
+     "y": 2689,
+     "text": "One Life Graphic T-shirt (03)"
+    },
+    {
+     "id": "5:60",
+     "name": "Sarah M. — “I’m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I’ve bought has exceeded my expectations.” Alex K. — “Finding clothes that align with my personal style used to be a challenge until I discovered Shop.co. The range of options they offer is truly remarkable, catering to a variety of tastes and occasions.” James L. — “As someone who’s always on the lookout for unique fashion pieces, I’m thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.”",
+     "x": 84,
+     "y": 2717,
+     "text": "Sarah M. — “I’m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I’ve bought has exceeded my expectations.”\nAlex K. — “Finding clothes that align with my personal style used to be a challenge until I discovered Shop.co. The range of options they offer is truly remarkable, catering to a variety of tastes and occasions.”\nJames L. — “As someone who’s always on the lookout for unique fashion pieces, I’m thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.”"
+    },
+    {
+     "id": "5:63",
+     "name": "Gradient Graphic T-shirt · 3.5/5 · $145 (Photo_Gradient_Graphic_TShirt) Polo with Tipping Details · 4.5/5 · $180 (Photo_Polo_Tipping_Details) Black Striped T-shirt · 5.0/5 · $120 · old $150 · -30% (Photo_Black_Striped_TShirt) Skinny Fit Jeans · 3.5/5 · $240 · old $260 · -20% Checkered Shirt · 4.5/5 · $180 Sleeve Striped T-shirt · 4.5/5 · $130 · old $160 · -30% Vertical Striped Shirt · 5.0/5 · $212 · old $232 · -20% Courage Graphic T-shirt · 4.0/5 · $145 Loose Fit Bermuda Shorts · 3.0/5 · $80 Color swatches: green #00C12B · red #F50606 · yellow #F5DD06 · orange #F57906 · cyan #06CAF5 · blue #063AF5 (selected) · purple #7D06F5 · pink #F506A4 · white #FFFFFF · black #000000",
+     "x": 528,
+     "y": 2717,
+     "text": "Gradient Graphic T-shirt · 3.5/5 · $145 (Photo_Gradient_Graphic_TShirt)\nPolo with Tipping Details · 4.5/5 · $180 (Photo_Polo_Tipping_Details)\nBlack Striped T-shirt · 5.0/5 · $120 · old $150 · -30% (Photo_Black_Striped_TShirt)\nSkinny Fit Jeans · 3.5/5 · $240 · old $260 · -20%\nCheckered Shirt · 4.5/5 · $180\nSleeve Striped T-shirt · 4.5/5 · $130 · old $160 · -30%\nVertical Striped Shirt · 5.0/5 · $212 · old $232 · -20%\nCourage Graphic T-shirt · 4.0/5 · $145\nLoose Fit Bermuda Shorts · 3.0/5 · $80\nColor swatches: green #00C12B · red #F50606 · yellow #F5DD06 · orange #F57906 · cyan #06CAF5 · blue #063AF5 (selected) · purple #7D06F5 · pink #F506A4 · white #FFFFFF · black #000000"
+    },
+    {
+     "id": "5:66",
+     "name": "Rating 4.5/5 · $260 · old $300 · -13% Description: This graphic t-shirt is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style. Colors: olive #4F4631 (selected) · teal #314F4A · navy #31344F Sizes: Small · Medium · Large (selected) · X-Large · Quantity 1",
+     "x": 972,
+     "y": 2717,
+     "text": "Rating 4.5/5 · $260 · old $300 · -13%\nDescription: This graphic t-shirt is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.\nColors: olive #4F4631 (selected) · teal #314F4A · navy #31344F\nSizes: Small · Medium · Large (selected) · X-Large · Quantity 1"
+    },
+    {
+     "id": "5:68",
+     "name": "Reviews (03, in order; all verified)",
+     "x": 84,
+     "y": 3085,
+     "text": "Reviews (03, in order; all verified)"
+    },
+    {
+     "id": "5:71",
+     "name": "You might also like (03, in order)",
+     "x": 528,
+     "y": 3085,
+     "text": "You might also like (03, in order)"
+    },
+    {
+     "id": "5:74",
+     "name": "Cart (04, in order)",
+     "x": 972,
+     "y": 3085,
+     "text": "Cart (04, in order)"
+    },
+    {
+     "id": "5:69",
+     "name": "Samantha D. · 4.5 — “I absolutely love this t-shirt! The design is unique and the fabric feels so comfortable. As a fellow designer, I appreciate the attention to detail. It’s become my favorite go-to shirt.” · Posted on August 14, 2023 Alex M. · 4 — “The t-shirt exceeded my expectations! The colors are vibrant and the print quality is top-notch. Being a UI/UX designer myself, I’m quite picky about aesthetics, and this t-shirt definitely gets a thumbs up from me.” · Posted on August 15, 2023 Ethan R. · 3.5 — “This t-shirt is a must-have for anyone who appreciates good design. The minimalistic yet stylish pattern caught my eye, and the fit is perfect. I can see the designer’s touch in every aspect of this shirt.” · Posted on August 16, 2023 Olivia P. · 4 — “As a UI/UX enthusiast, I value simplicity and functionality. This t-shirt not only represents those principles but also feels great to wear. It’s evident that the designer poured their creativity into making this t-shirt stand out.” · Posted on August 17, 2023 Liam K. · 4 — “This t-shirt is a fusion of comfort and creativity. The fabric is soft, and the design speaks volumes about the designer’s skill. It’s like wearing a piece of art that reflects my passion for both design and fashion.” · Posted on August 18, 2023 Ava H. · 4.5 — “I’m not just wearing a t-shirt; I’m wearing a piece of design philosophy. The intricate details and thoughtful layout of the design make this shirt a conversation starter.” · Posted on August 19, 2023",
+     "x": 84,
+     "y": 3113,
+     "text": "Samantha D. · 4.5 — “I absolutely love this t-shirt! The design is unique and the fabric feels so comfortable. As a fellow designer, I appreciate the attention to detail. It’s become my favorite go-to shirt.” · Posted on August 14, 2023\nAlex M. · 4 — “The t-shirt exceeded my expectations! The colors are vibrant and the print quality is top-notch. Being a UI/UX designer myself, I’m quite picky about aesthetics, and this t-shirt definitely gets a thumbs up from me.” · Posted on August 15, 2023\nEthan R. · 3.5 — “This t-shirt is a must-have for anyone who appreciates good design. The minimalistic yet stylish pattern caught my eye, and the fit is perfect. I can see the designer’s touch in every aspect of this shirt.” · Posted on August 16, 2023\nOlivia P. · 4 — “As a UI/UX enthusiast, I value simplicity and functionality. This t-shirt not only represents those principles but also feels great to wear. It’s evident that the designer poured their creativity into making this t-shirt stand out.” · Posted on August 17, 2023\nLiam K. · 4 — “This t-shirt is a fusion of comfort and creativity. The fabric is soft, and the design speaks volumes about the designer’s skill. It’s like wearing a piece of art that reflects my passion for both design and fashion.” · Posted on August 18, 2023\nAva H. · 4.5 — “I’m not just wearing a t-shirt; I’m wearing a piece of design philosophy. The intricate details and thoughtful layout of the design make this shirt a conversation starter.” · Posted on August 19, 2023"
+    },
+    {
+     "id": "5:72",
+     "name": "Polo with Contrast Trims · 4.0/5 · $212 · old $242 · -20% (Photo_Polo_Contrast_Trims) Gradient Graphic T-shirt · 3.5/5 · $145 Polo with Tipping Details · 4.5/5 · $180 Black Striped T-shirt · 5.0/5 · $120 · old $150 · -30%",
+     "x": 528,
+     "y": 3113,
+     "text": "Polo with Contrast Trims · 4.0/5 · $212 · old $242 · -20% (Photo_Polo_Contrast_Trims)\nGradient Graphic T-shirt · 3.5/5 · $145\nPolo with Tipping Details · 4.5/5 · $180\nBlack Striped T-shirt · 5.0/5 · $120 · old $150 · -30%"
+    },
+    {
+     "id": "5:75",
+     "name": "Gradient Graphic T-shirt · Size: Large · Color: White · $145 · qty 1 (Photo_Gradient_Graphic_TShirt) Checkered Shirt · Size: Medium · Color: Red · $180 · qty 1 (Photo_Checkered_Shirt) Skinny Fit Jeans · Size: Large · Color: Blue · $240 · qty 1 (Photo_Skinny_Fit_Jeans) Subtotal $565 · Discount (-20%) -$113 · Delivery Fee $15 · Total $467",
+     "x": 972,
+     "y": 3113,
+     "text": "Gradient Graphic T-shirt · Size: Large · Color: White · $145 · qty 1 (Photo_Gradient_Graphic_TShirt)\nCheckered Shirt · Size: Medium · Color: Red · $180 · qty 1 (Photo_Checkered_Shirt)\nSkinny Fit Jeans · Size: Large · Color: Blue · $240 · qty 1 (Photo_Skinny_Fit_Jeans)\nSubtotal $565 · Discount (-20%) -$113 · Delivery Fee $15 · Total $467"
+    },
+    {
+     "id": "5:77",
+     "name": "Footer (all frames)",
+     "x": 84,
+     "y": 3709,
+     "text": "Footer (all frames)"
+    },
+    {
+     "id": "5:78",
+     "name": "SHOP.CO · We have clothes that suit your style and which you’re proud to wear. From women to men. Logo_Twitter · Logo_Facebook · Logo_Instagram · Logo_GitHub COMPANY: About · Features · Works · Career HELP: Customer Support · Delivery Details · Terms & Conditions · Privacy Policy FAQ: Account · Manage Deliveries · Orders · Payments RESOURCES: Free eBooks · Development Tutorial · How to - Blog · Youtube Playlist Shop.co © 2000-2023, All Rights Reserved · Logo_Visa · Logo_Mastercard · Logo_PayPal · Logo_Apple_Pay · Logo_Google_Pay",
+     "x": 84,
+     "y": 3737,
+     "text": "SHOP.CO · We have clothes that suit your style and which you’re proud to wear. From women to men.\nLogo_Twitter · Logo_Facebook · Logo_Instagram · Logo_GitHub\nCOMPANY: About · Features · Works · Career\nHELP: Customer Support · Delivery Details · Terms & Conditions · Privacy Policy\nFAQ: Account · Manage Deliveries · Orders · Payments\nRESOURCES: Free eBooks · Development Tutorial · How to - Blog · Youtube Playlist\nShop.co © 2000-2023, All Rights Reserved · Logo_Visa · Logo_Mastercard · Logo_PayPal · Logo_Apple_Pay · Logo_Google_Pay"
+    },
+    {
+     "id": "5:80",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 4052,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "5:83",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 4127,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "5:86",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 4127,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "5:84",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand color #000000, Archivo Black and Plus Jakarta Sans • Media: photos, social and payment logos, icons • Default Button, default Text Field",
+     "x": 88,
+     "y": 4160,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand color #000000, Archivo Black and Plus Jakarta Sans\n• Media: photos, social and payment logos, icons\n• Default Button, default Text Field"
+    },
+    {
+     "id": "5:87",
+     "name": "• Layout, grid, grouping, order and emphasis on every page • All other colors: neutrals, text, backgrounds / surfaces (hero, cards, newsletter), discount, rating, verified mark, error / disabled • Type scale (letter case, which levels use Archivo Black), spacing, radii, elevation • All states: current nav item, selected color / size / thumbnail, current tab, current page, checked filter, focused field, hover • Announcement bar, header, footer, hero, stats, brand strip, product card, style tiles, review card, newsletter, filter panel, price range, chips, pagination, gallery, pickers, stepper, tabs, review list, cart line item, order summary • How photos are cropped and placed",
+     "x": 756,
+     "y": 4160,
+     "text": "• Layout, grid, grouping, order and emphasis on every page\n• All other colors: neutrals, text, backgrounds / surfaces (hero, cards, newsletter), discount, rating, verified mark, error / disabled\n• Type scale (letter case, which levels use Archivo Black), spacing, radii, elevation\n• All states: current nav item, selected color / size / thumbnail, current tab, current page, checked filter, focused field, hover\n• Announcement bar, header, footer, hero, stats, brand strip, product card, style tiles, review card, newsletter, filter panel, price range, chips, pagination, gallery, pickers, stepper, tabs, review list, cart line item, order summary\n• How photos are cropped and placed"
+    },
+    {
+     "id": "5:89",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 4432,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "5:90",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 4483,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "5:91",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current nav, selected options, current tab and page)",
+     "x": 64,
+     "y": 4521,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current nav, selected options, current tab and page)"
+    },
+    {
+     "id": "5:92",
+     "name": "Deliverable: the link to your own Figma file containing the 4 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 4691,
+     "text": "Deliverable: the link to your own Figma file containing the 4 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · SHOP.CO",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · SHOP.CO"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the brand color and the two typefaces below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces (including the hero and card backgrounds), discount color, rating color, verified mark, link and selected states, error / disabled, type scale, spacing, radii, elevation and the page grid.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the brand color and the two typefaces below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces (including the hero and card backgrounds), discount color, rating color, verified mark, link and selected states, error / disabled, type scale, spacing, radii, elevation and the page grid."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand color",
+     "x": 56,
+     "y": 208,
+     "text": "Brand color"
+    },
+    {
+     "id": "1:11",
+     "name": "Brand primary · black",
+     "x": 56,
+     "y": 392,
+     "text": "Brand primary · black"
+    },
+    {
+     "id": "1:12",
+     "name": "#000000",
+     "x": 56,
+     "y": 417,
+     "text": "#000000"
+    },
+    {
+     "id": "1:13",
+     "name": "The store’s main ink and action color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 441,
+     "text": "The store’s main ink and action color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:14",
+     "name": "Typefaces",
+     "x": 56,
+     "y": 518,
+     "text": "Typefaces"
+    },
+    {
+     "id": "1:15",
+     "name": "ARCHIVO BLACK — NEW ARRIVALS",
+     "x": 56,
+     "y": 574,
+     "text": "ARCHIVO BLACK — NEW ARRIVALS"
+    },
+    {
+     "id": "1:16",
+     "name": "Plus Jakarta Sans — Aa Bb Cc 0123456789 $260",
+     "x": 56,
+     "y": 650,
+     "text": "Plus Jakarta Sans — Aa Bb Cc 0123456789  $260"
+    },
+    {
+     "id": "1:17",
+     "name": "Use Archivo Black for the SHOP.CO wordmark and display headings, Plus Jakarta Sans for all other UI text. Which levels use which typeface, sizes, weights, letter case and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 722,
+     "text": "Use Archivo Black for the SHOP.CO wordmark and display headings, Plus Jakarta Sans for all other UI text. Which levels use which typeface, sizes, weights, letter case and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:18",
+     "name": "Canvas: desktop web, 1440 wide. Light mode. Frame heights are free — every page scrolls vertically.",
+     "x": 56,
+     "y": 788,
+     "text": "Canvas: desktop web, 1440 wide. Light mode. Frame heights are free — every page scrolls vertically."
+    }
+   ]
+  }
+ ]
+}

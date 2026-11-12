@@ -1,0 +1,375 @@
+{
+ "file_key": "mzZY1AgFUnNSEMjiDb01rC",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "10:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "10:5",
+     "name": "FoodWagon — food delivery landing page",
+     "x": 64,
+     "y": 95,
+     "text": "FoodWagon — food delivery landing page"
+    },
+    {
+     "id": "10:6",
+     "name": "Design the landing page of a food delivery service: search by address, browse deals, popular dishes and featured restaurants, learn how it works and get the app. Desktop web, 1920 wide, light mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design the landing page of a food delivery service: search by address, browse deals, popular dishes and featured restaurants, learn how it works and get the app. Desktop web, 1920 wide, light mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "10:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "10:9",
+     "name": "1. Build exactly the 1 frame below, named exactly as listed. It is a single landing page, so there is no prototype to wire. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently. 4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file. 5. Use the logo, the photos, the app mockup, the store badges, the social logos and the icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 1 frame below, named exactly as listed. It is a single landing page, so there is no prototype to wire.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the logo, the photos, the app mockup, the store badges, the social logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "10:11",
+     "name": "Frame · goal · must include",
+     "x": 64,
+     "y": 554,
+     "text": "Frame · goal · must include"
+    },
+    {
+     "id": "10:12",
+     "name": "The frame name is fixed. The must-include list is grouped by subject and sorted A–Z: it states what is on the page, never where it goes or how it looks.",
+     "x": 64,
+     "y": 605,
+     "text": "The frame name is fixed. The must-include list is grouped by subject and sorted A–Z: it states what is on the page, never where it goes or how it looks."
+    },
+    {
+     "id": "10:15",
+     "name": "01_Home",
+     "x": 88,
+     "y": 667,
+     "text": "01_Home"
+    },
+    {
+     "id": "10:16",
+     "name": "Goal: Find food near you and decide where to order from.",
+     "x": 88,
+     "y": 703,
+     "text": "Goal: Find food near you and decide where to order from."
+    },
+    {
+     "id": "10:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 733,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "10:18",
+     "name": "• App promo: “Install the app” · “It’s never been easier to order food. Look for the finest discounts and you’ll be lost in a world of delectable food.” · Image_App_Mockup · Badge_App_Store · Badge_Google_Play • Call to action: Photo_CTA_Background · “Are you ready to order with the best deals?” · “Proceed to order” (Icon_Chevron_Right) • Deals: 3 promo blocks, each with title, copy, “Proceed to order” (Icon_Chevron_Right) and photo (see DATA) • Discounts: 4 discount cards, each with photo, percent “Off”, dish name and days remaining (see DATA) • Featured Restaurants: “Featured Restaurants” · 8 restaurant cards, each with photo, discount badge (Icon_Tag), “Fast” badge (Icon_Clock), logo mark with the restaurant’s initials, name, rating (Icon_Star) and open status (see DATA) · “View All” (Icon_Chevron_Right) • Features: Daily Discounts (Icon_Discount) · Live Tracking (Icon_Tracking) · Quick Delivery (Icon_Quick_Delivery) • Footer: see DATA (Footer) • Header: Logo_FoodWagon · “Deliver to:” (Icon_Map_Marker) · “Current Location” · “Mohammadpur Bus Stand, Dhaka” · “Search Food” (Icon_Search) · “Login” (Icon_User) • Hero: Photo_Hero_Background · Photo_Hero_Noodles · “Are you starving?” · “Within a few clicks, find meals that are accessible near you” · tabs Delivery (Icon_Motorcycle) · Pickup (Icon_Shopping_Bag) · current: Delivery · address field “Enter Your Address” (Icon_Map_Marker) · “Find Food” (Icon_Search) • How it works: “How does it work” · 4 steps, each with icon, title and text (see DATA) • Popular items: “Popular items” · previous / next (Icon_Chevron_Left, Icon_Chevron_Right) · 5 item cards, each with photo, name, restaurant (Icon_Map_Marker), price and “Order Now” (see DATA) • Search by Food: “Search by Food” · “View All” (Icon_Chevron_Right) · previous / next (Icon_Chevron_Left, Icon_Chevron_Right) · Pizza · Burger · Noodles · Sub-sandwich · Chowmein · Steak, each with its photo (Photo_Food_Pizza … Photo_Food_Steak)",
+     "x": 88,
+     "y": 759,
+     "text": "• App promo: “Install the app” · “It’s never been easier to order food. Look for the finest discounts and you’ll be lost in a world of delectable food.” · Image_App_Mockup · Badge_App_Store · Badge_Google_Play\n• Call to action: Photo_CTA_Background · “Are you ready to order with the best deals?” · “Proceed to order” (Icon_Chevron_Right)\n• Deals: 3 promo blocks, each with title, copy, “Proceed to order” (Icon_Chevron_Right) and photo (see DATA)\n• Discounts: 4 discount cards, each with photo, percent “Off”, dish name and days remaining (see DATA)\n• Featured Restaurants: “Featured Restaurants” · 8 restaurant cards, each with photo, discount badge (Icon_Tag), “Fast” badge (Icon_Clock), logo mark with the restaurant’s initials, name, rating (Icon_Star) and open status (see DATA) · “View All” (Icon_Chevron_Right)\n• Features: Daily Discounts (Icon_Discount) · Live Tracking (Icon_Tracking) · Quick Delivery (Icon_Quick_Delivery)\n• Footer: see DATA (Footer)\n• Header: Logo_FoodWagon · “Deliver to:” (Icon_Map_Marker) · “Current Location” · “Mohammadpur Bus Stand, Dhaka” · “Search Food” (Icon_Search) · “Login” (Icon_User)\n• Hero: Photo_Hero_Background · Photo_Hero_Noodles · “Are you starving?” · “Within a few clicks, find meals that are accessible near you” · tabs Delivery (Icon_Motorcycle) · Pickup (Icon_Shopping_Bag) · current: Delivery · address field “Enter Your Address” (Icon_Map_Marker) · “Find Food” (Icon_Search)\n• How it works: “How does it work” · 4 steps, each with icon, title and text (see DATA)\n• Popular items: “Popular items” · previous / next (Icon_Chevron_Left, Icon_Chevron_Right) · 5 item cards, each with photo, name, restaurant (Icon_Map_Marker), price and “Order Now” (see DATA)\n• Search by Food: “Search by Food” · “View All” (Icon_Chevron_Right) · previous / next (Icon_Chevron_Left, Icon_Chevron_Right) · Pizza · Burger · Noodles · Sub-sandwich · Chowmein · Steak, each with its photo (Photo_Food_Pizza … Photo_Food_Steak)"
+    },
+    {
+     "id": "10:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1109,
+     "text": "LINKS"
+    },
+    {
+     "id": "10:20",
+     "name": "Single-page task: no links between frames. Every button and link is entry only.",
+     "x": 88,
+     "y": 1135,
+     "text": "Single-page task: no links between frames. Every button and link is entry only."
+    },
+    {
+     "id": "10:22",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 1227,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "10:23",
+     "name": "• One frame. The header and footer are part of it. • Entry only (no frame): location, Search Food, Login, Delivery / Pickup, Find Food, discount cards, Order Now, carousel arrows, restaurant cards, View All, food categories, store badges, Proceed to order, city links, footer links, Subscribe, social logos.",
+     "x": 64,
+     "y": 1278,
+     "text": "• One frame. The header and footer are part of it.\n• Entry only (no frame): location, Search Food, Login, Delivery / Pickup, Find Food, discount cards, Order Now, carousel arrows, restaurant cards, View All, food categories, store badges, Proceed to order, city links, footer links, Subscribe, social logos."
+    },
+    {
+     "id": "10:25",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 1392,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "10:26",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 1443,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "10:29",
+     "name": "Discounts (in order)",
+     "x": 84,
+     "y": 1501,
+     "text": "Discounts (in order)"
+    },
+    {
+     "id": "10:32",
+     "name": "How does it work (in order)",
+     "x": 528,
+     "y": 1501,
+     "text": "How does it work (in order)"
+    },
+    {
+     "id": "10:35",
+     "name": "Popular items (in order)",
+     "x": 972,
+     "y": 1501,
+     "text": "Popular items (in order)"
+    },
+    {
+     "id": "10:30",
+     "name": "15% Off · Spring Salad · 6 Days Remaining (Photo_Discount_1) 10% Off · Farfalle Salad · 6 Days Remaining (Photo_Discount_2) 25% Off · Buddha Bowl · 7 Days Remaining (Photo_Discount_3) 20% Off · Red Curry Soup · 8 Days Remaining (Photo_Discount_4)",
+     "x": 84,
+     "y": 1529,
+     "text": "15% Off · Spring Salad · 6 Days Remaining (Photo_Discount_1)\n10% Off · Farfalle Salad · 6 Days Remaining (Photo_Discount_2)\n25% Off · Buddha Bowl · 7 Days Remaining (Photo_Discount_3)\n20% Off · Red Curry Soup · 8 Days Remaining (Photo_Discount_4)"
+    },
+    {
+     "id": "10:33",
+     "name": "Select location (Icon_Step_Location) — Choose the location where your food will be delivered. Choose order (Icon_Step_Order) — Check over hundreds of menus to pick your favorite food. Pay advanced (Icon_Step_Payment) — It’s quick, safe, and simple. Select several methods of payment. Enjoy meals (Icon_Step_Enjoy) — Food is made and delivered directly to your home.",
+     "x": 528,
+     "y": 1529,
+     "text": "Select location (Icon_Step_Location) — Choose the location where your food will be delivered.\nChoose order (Icon_Step_Order) — Check over hundreds of menus to pick your favorite food.\nPay advanced (Icon_Step_Payment) — It’s quick, safe, and simple. Select several methods of payment.\nEnjoy meals (Icon_Step_Enjoy) — Food is made and delivered directly to your home."
+    },
+    {
+     "id": "10:36",
+     "name": "Cheese Burger · Burger Arena · $3.88 (Photo_Cheese_Burger) Toffee’s Cake · Top Sticks · $4.00 (Photo_Toffee_Cake) Pancake · Cake World · $1.99 (Photo_Pancake) Crispy Sandwich · Fastfood Dine · $3.00 (Photo_Crispy_Sandwich) Thai Soup · Foody man · $2.79 (Photo_Thai_Soup)",
+     "x": 972,
+     "y": 1529,
+     "text": "Cheese Burger · Burger Arena · $3.88 (Photo_Cheese_Burger)\nToffee’s Cake · Top Sticks · $4.00 (Photo_Toffee_Cake)\nPancake · Cake World · $1.99 (Photo_Pancake)\nCrispy Sandwich · Fastfood Dine · $3.00 (Photo_Crispy_Sandwich)\nThai Soup · Foody man · $2.79 (Photo_Thai_Soup)"
+    },
+    {
+     "id": "10:38",
+     "name": "Featured Restaurants (in order; all “Fast”)",
+     "x": 84,
+     "y": 1745,
+     "text": "Featured Restaurants (in order; all “Fast”)"
+    },
+    {
+     "id": "10:41",
+     "name": "Deals (in order)",
+     "x": 528,
+     "y": 1745,
+     "text": "Deals (in order)"
+    },
+    {
+     "id": "10:44",
+     "name": "Footer",
+     "x": 972,
+     "y": 1745,
+     "text": "Footer"
+    },
+    {
+     "id": "10:39",
+     "name": "Foodworld · 20% off · ★ 46 · Opens tomorrow (Photo_Foodworld) Pizzahub · 15% off · ★ 40 · Opens tomorrow (Photo_Pizzahub) Donuts Hut · 10% off · ★ 20 · Open Now (Photo_Donuts_Hut) Cupcake Corner · 15% off · ★ 50 · Open Now (Photo_Cupcake_Corner) Ruby Grill · 10% off · ★ 26 · Open Now (Photo_Ruby_Grill) Kuakata Fried Chicken · 25% off · ★ 53 · Open Now (Photo_Kuakata_Fried_Chicken) Red Square · 10% off · ★ 45 · Open Now (Photo_Red_Square) Taco Bay · 10% off · ★ 35 · Open Now (Photo_Taco_Bay)",
+     "x": 84,
+     "y": 1773,
+     "text": "Foodworld · 20% off · ★ 46 · Opens tomorrow (Photo_Foodworld)\nPizzahub · 15% off · ★ 40 · Opens tomorrow (Photo_Pizzahub)\nDonuts Hut · 10% off · ★ 20 · Open Now (Photo_Donuts_Hut)\nCupcake Corner · 15% off · ★ 50 · Open Now (Photo_Cupcake_Corner)\nRuby Grill · 10% off · ★ 26 · Open Now (Photo_Ruby_Grill)\nKuakata Fried Chicken · 25% off · ★ 53 · Open Now (Photo_Kuakata_Fried_Chicken)\nRed Square · 10% off · ★ 45 · Open Now (Photo_Red_Square)\nTaco Bay · 10% off · ★ 35 · Open Now (Photo_Taco_Bay)"
+    },
+    {
+     "id": "10:42",
+     "name": "Best deals Crispy Sandwiches — Enjoy the large size of sandwiches. Complete perfect slice of sandwiches. (Photo_Promo_Sandwiches) Celebrate parties with Fried Chicken — Get the best fried chicken smeared with a lip smacking lemon chili flavor. Check out best deals for fried chicken. (Photo_Promo_Fried_Chicken) Wanna eat hot & spicy Pizza? — Pair up with a friend and enjoy the hot and crispy pizza pops. Try it with the best deals. (Photo_Promo_Pizza)",
+     "x": 528,
+     "y": 1773,
+     "text": "Best deals Crispy Sandwiches — Enjoy the large size of sandwiches. Complete perfect slice of sandwiches. (Photo_Promo_Sandwiches)\nCelebrate parties with Fried Chicken — Get the best fried chicken smeared with a lip smacking lemon chili flavor. Check out best deals for fried chicken. (Photo_Promo_Fried_Chicken)\nWanna eat hot & spicy Pizza? — Pair up with a friend and enjoy the hot and crispy pizza pops. Try it with the best deals. (Photo_Promo_Pizza)"
+    },
+    {
+     "id": "10:45",
+     "name": "Our top cities: San Francisco · Los Angeles · New York City · Chicago · Columbus · Miami · Washington DC · Orange County · Phoenix · New Mexico · San Diego · Seattle · Atlanta · Las Vegas · Albuquerque · East Bay · Portland · Charlotte · Sacramento · Long Beach · Nashville · Denver · Oklahoma City · New Orleans Company: About us · Team · Careers · Blog Contact: Help & Support · Partner with us · Ride with us Legal: Terms & Conditions · Refund & Cancellation · Privacy Policy · Cookie Policy Follow Us: Logo_Instagram · Logo_Facebook · Logo_Twitter “Receive exclusive offers in your mailbox” · field “Enter Your email” (Icon_Envelope) · “Subscribe” “All rights Reserved © FoodWagon, 2021”",
+     "x": 972,
+     "y": 1773,
+     "text": "Our top cities: San Francisco · Los Angeles · New York City · Chicago · Columbus · Miami · Washington DC · Orange County · Phoenix · New Mexico · San Diego · Seattle · Atlanta · Las Vegas · Albuquerque · East Bay · Portland · Charlotte · Sacramento · Long Beach · Nashville · Denver · Oklahoma City · New Orleans\nCompany: About us · Team · Careers · Blog\nContact: Help & Support · Partner with us · Ride with us\nLegal: Terms & Conditions · Refund & Cancellation · Privacy Policy · Cookie Policy\nFollow Us: Logo_Instagram · Logo_Facebook · Logo_Twitter\n“Receive exclusive offers in your mailbox” · field “Enter Your email” (Icon_Envelope) · “Subscribe”\n“All rights Reserved © FoodWagon, 2021”"
+    },
+    {
+     "id": "10:47",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 2107,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "10:50",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 2182,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "10:53",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 2182,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "10:51",
+     "name": "• Frame name • Must-include content (what, not how) • All data and copy • Brand colors #F17228 and #FFB30E, and Source Sans Pro • Media: logo, photos, app mockup, store badges, social logos, icons • Default Button, default Text Field",
+     "x": 88,
+     "y": 2215,
+     "text": "• Frame name\n• Must-include content (what, not how)\n• All data and copy\n• Brand colors #F17228 and #FFB30E, and Source Sans Pro\n• Media: logo, photos, app mockup, store badges, social logos, icons\n• Default Button, default Text Field"
+    },
+    {
+     "id": "10:54",
+     "name": "• Layout, grid, grouping, order and emphasis of every section • All other colors: neutrals, text, section backgrounds and gradients, badges, rating, open / closed status, error / disabled • Type scale, spacing, radii, elevation • All states: current tab, hover, focused field • Header, hero search, discount card, step card, item card, restaurant card and badges, initials logo marks, category tile, feature item, app promo, deal banner, CTA, footer • How photos are cropped and placed",
+     "x": 756,
+     "y": 2215,
+     "text": "• Layout, grid, grouping, order and emphasis of every section\n• All other colors: neutrals, text, section backgrounds and gradients, badges, rating, open / closed status, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: current tab, hover, focused field\n• Header, hero search, discount card, step card, item card, restaurant card and badges, initials logo marks, category tile, feature item, app promo, deal banner, CTA, footer\n• How photos are cropped and placed"
+    },
+    {
+     "id": "10:56",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 2447,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "10:57",
+     "name": "Your file is compared with this brief on coverage and data — not on visual similarity to any original.",
+     "x": 64,
+     "y": 2498,
+     "text": "Your file is compared with this brief on coverage and data — not on visual similarity to any original."
+    },
+    {
+     "id": "10:58",
+     "name": "1. Checklist coverage 2. Data & copy accuracy 3. Information hierarchy across sections 4. Visual quality & consistency of your own system 5. Component reuse 6. State design (current tab, open / closed status)",
+     "x": 64,
+     "y": 2536,
+     "text": "1. Checklist coverage\n2. Data & copy accuracy\n3. Information hierarchy across sections\n4. Visual quality & consistency of your own system\n5. Component reuse\n6. State design (current tab, open / closed status)"
+    },
+    {
+     "id": "10:59",
+     "name": "Deliverable: the link to your own Figma file containing the named frame 01_Home and your components.",
+     "x": 64,
+     "y": 2684,
+     "text": "Deliverable: the link to your own Figma file containing the named frame 01_Home and your components."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · FoodWagon",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · FoodWagon"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the two brand colors and the typeface below (the FoodWagon logo is an image in 04 · Media). Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and section tints, gradients, discount badge, rating color, open / closed status colors, error / disabled, type scale, spacing, radii, elevation and the page grid.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the two brand colors and the typeface below (the FoodWagon logo is an image in 04 · Media). Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and section tints, gradients, discount badge, rating color, open / closed status colors, error / disabled, type scale, spacing, radii, elevation and the page grid."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand colors",
+     "x": 56,
+     "y": 208,
+     "text": "Brand colors"
+    },
+    {
+     "id": "1:12",
+     "name": "Brand primary · orange",
+     "x": 56,
+     "y": 392,
+     "text": "Brand primary · orange"
+    },
+    {
+     "id": "1:17",
+     "name": "Brand secondary · yellow",
+     "x": 300,
+     "y": 392,
+     "text": "Brand secondary · yellow"
+    },
+    {
+     "id": "1:13",
+     "name": "#F17228",
+     "x": 56,
+     "y": 417,
+     "text": "#F17228"
+    },
+    {
+     "id": "1:18",
+     "name": "#FFB30E",
+     "x": 300,
+     "y": 417,
+     "text": "#FFB30E"
+    },
+    {
+     "id": "1:14",
+     "name": "The brand’s action color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 441,
+     "text": "The brand’s action color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:19",
+     "name": "The brand’s warm signature color. Where and how much to use it is your decision.",
+     "x": 300,
+     "y": 441,
+     "text": "The brand’s warm signature color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:20",
+     "name": "Typeface",
+     "x": 56,
+     "y": 518,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:21",
+     "name": "Aa Bb Cc 0123456789 $3.88",
+     "x": 56,
+     "y": 574,
+     "text": "Aa Bb Cc 0123456789  $3.88"
+    },
+    {
+     "id": "1:22",
+     "name": "Use Source Sans Pro for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 656,
+     "text": "Use Source Sans Pro for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:23",
+     "name": "Canvas: desktop web, 1920 wide. Light mode. Frame height is free — the landing page scrolls vertically.",
+     "x": 56,
+     "y": 705,
+     "text": "Canvas: desktop web, 1920 wide. Light mode. Frame height is free — the landing page scrolls vertically."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+﻿case_id,title,tau_b,top1_same,rank_implied_pair_agree,rank_implied_pairs,R1_top,R2_top
+10case-case-002,Travelin,0.3333333333333333,0,10,15,GPT,Opus
+10case-case-003,Stock Trading,0.4666666666666666,0,11,15,GPT,Opus
+10case-case-004,Meet,0.8666666666666666,1,14,15,Opus,Opus
+10case-case-005,Expenio,0.3333333333333333,1,10,15,Opus,Opus
+10case-case-006,Payment Wallet,0.7333333333333333,0,13,15,Opus,GLM
+10case-case-007,Vulcan Invest,0.3333333333333333,1,10,15,Opus,Opus
+10case-case-010,Budget,0.7333333333333333,1,13,15,Opus,Opus
+3case-case-001,Balance,0.2,0,9,15,Fable,Gemini
+3case-case-002,Paradise Invest,0.6,1,12,15,Opus,Opus
+3case-case-003,Foodgo,0.6,1,12,15,Opus,Opus
+6case-case-001,StockWave,0.3333333333333333,1,10,15,Opus,Opus
+6case-case-002,Nectar,0.8666666666666666,1,14,15,Opus,Opus
+6case-case-003,Stylish,0.4666666666666666,1,11,15,Opus,Opus
+web10-case-001,Furniro,0.4666666666666666,0,11,15,Opus,GLM

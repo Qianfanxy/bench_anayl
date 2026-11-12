@@ -1,0 +1,230 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Sign_In",
+      "size": "375×812",
+      "nodes": 17,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×6",
+        "rectangle×2"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Rectangle",
+        "Status Bar",
+        "Logo_Mark",
+        "Audio",
+        "It's modular and designe"
+      ]
+    },
+    {
+      "name": "02_Sign_Up",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×6",
+        "ellipse×3",
+        "rectangle×2"
+      ],
+      "names": [
+        "Photo_Auth_Background",
+        "Rectangle",
+        "Status Bar",
+        "Logo_Mark",
+        "Audio",
+        "It's modular and designe"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "375×844",
+      "nodes": 39,
+      "max_depth": 1,
+      "instances": 13,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "instance×13",
+        "rectangle×6",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Menu",
+        "Logo_Mark",
+        "Audio",
+        "Avatar",
+        "Hi, Andrea"
+      ]
+    },
+    {
+      "name": "04_Search",
+      "size": "375×812",
+      "nodes": 37,
+      "max_depth": 1,
+      "instances": 19,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×15",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Back",
+        "Search",
+        "Cart",
+        "Search field",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "05_Explore_Products",
+      "size": "375×992",
+      "nodes": 57,
+      "max_depth": 1,
+      "instances": 23,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "instance×23",
+        "frame×7",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Back",
+        "Cart",
+        "Headphone",
+        "MOD Wireless",
+        "Filter"
+      ]
+    },
+    {
+      "name": "06_Filter",
+      "size": "375×812",
+      "nodes": 37,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "text×17",
+        "rectangle×13",
+        "instance×6",
+        "frame×1"
+      ],
+      "names": [
+        "Rectangle",
+        "Status Bar",
+        "Icon_Back",
+        "Headphone",
+        "Dim overlay",
+        "Filter Sheet"
+      ]
+    },
+    {
+      "name": "07_Product_Overview",
+      "size": "375×1481",
+      "nodes": 56,
+      "max_depth": 1,
+      "instances": 30,
+      "texts": 23,
+      "images": 0,
+      "types": [
+        "instance×30",
+        "text×23",
+        "frame×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Back",
+        "Cart",
+        "Photo_Headphone_Detail",
+        "Photo_Detail_Closeup",
+        "USD 350"
+      ]
+    },
+    {
+      "name": "08_Product_Features",
+      "size": "375×761",
+      "nodes": 19,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "instance×7",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Back",
+        "Cart",
+        "USD 350",
+        "MOD-2 / HD WIRELESS",
+        "Overview Tab"
+      ]
+    },
+    {
+      "name": "09_Shopping_Cart",
+      "size": "375×812",
+      "nodes": 26,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×9",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Back",
+        "Shopping Cart",
+        "Delete All",
+        "Cart row",
+        "Photo_Headphone_Comfort"
+      ]
+    },
+    {
+      "name": "10_Profile",
+      "size": "375×851.7894897460938",
+      "nodes": 24,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "frame×7",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Back",
+        "Profile",
+        "Avatar_User",
+        "Andrea Halim",
+        "andrea.halim@example.com"
+      ]
+    }
+  ]
+}

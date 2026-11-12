@@ -1,0 +1,272 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "375×812",
+      "nodes": 22,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×9",
+        "text×3"
+      ],
+      "names": [
+        "Frame",
+        "Photo_Onboarding_1",
+        "Photo_Onboarding_2",
+        "Photo_Onboarding_3",
+        "Photo_Onboarding_4",
+        "Photo_Onboarding_5"
+      ]
+    },
+    {
+      "name": "02_Log_In",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×4",
+        "rectangle×2",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Welcome Back!",
+        "Log in to your Placoo ac",
+        "Username Field"
+      ]
+    },
+    {
+      "name": "03_Sign_Up",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3",
+        "rectangle×2",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Let’s explore together!",
+        "Create your Placoo accou",
+        "Username Field"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "375×1867",
+      "nodes": 38,
+      "max_depth": 5,
+      "instances": 20,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "frame×13",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Frame",
+        "Icon_Location",
+        "Find your place in",
+        "Surabaya, Indonesia"
+      ]
+    },
+    {
+      "name": "05_Explore",
+      "size": "375×792",
+      "nodes": 20,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Frame",
+        "Search Bar",
+        "Section Header",
+        "Card Bali"
+      ]
+    },
+    {
+      "name": "06_Property_Details",
+      "size": "375×1954",
+      "nodes": 83,
+      "max_depth": 4,
+      "instances": 33,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "instance×33",
+        "frame×29",
+        "text×21"
+      ],
+      "names": [
+        "Gallery",
+        "Photo_Bromo_Cabin",
+        "Status Bar",
+        "Back",
+        "Share",
+        "Icon_Play"
+      ]
+    },
+    {
+      "name": "07_Filter",
+      "size": "375×821",
+      "nodes": 63,
+      "max_depth": 3,
+      "instances": 23,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×23",
+        "frame×17",
+        "rectangle×14",
+        "text×7",
+        "ellipse×2"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Reset All",
+        "Icon_Reset",
+        "Reset all",
+        "SearchWrap"
+      ]
+    },
+    {
+      "name": "08_Search_Results",
+      "size": "375×812",
+      "nodes": 29,
+      "max_depth": 4,
+      "instances": 19,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "frame×7",
+        "text×3"
+      ],
+      "names": [
+        "Map",
+        "Image_Map",
+        "Map Pin",
+        "Header",
+        "Status Bar",
+        "Back Button"
+      ]
+    },
+    {
+      "name": "09_Search_Pin_Selected",
+      "size": "375×812",
+      "nodes": 31,
+      "max_depth": 4,
+      "instances": 19,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "frame×8",
+        "text×4"
+      ],
+      "names": [
+        "Map",
+        "Image_Map",
+        "Map Pin",
+        "Header",
+        "Status Bar",
+        "Back Button"
+      ]
+    },
+    {
+      "name": "10_Rent_Booking",
+      "size": "375×1022",
+      "nodes": 59,
+      "max_depth": 5,
+      "instances": 16,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "frame×24",
+        "text×19",
+        "instance×16"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Icon_Arrow_Left",
+        "Rent booking",
+        "Icon_Help",
+        "Input Details"
+      ]
+    },
+    {
+      "name": "11_Chat",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Chat",
+        "Search Bar",
+        "Row_Kari",
+        "Row_Anita"
+      ]
+    },
+    {
+      "name": "12_Chat_Room",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Back Button",
+        "Avatar_Kari",
+        "Name",
+        "Icon_Menu"
+      ]
+    }
+  ]
+}

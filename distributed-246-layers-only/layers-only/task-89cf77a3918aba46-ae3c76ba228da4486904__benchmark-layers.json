@@ -1,0 +1,69 @@
+{
+  "board_count": 3,
+  "boards": [
+    {
+      "name": "01_Expenses",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×1",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header / Expenses",
+        "Navigation / This Month ",
+        "Home Indicator",
+        "Expenses / scroll conten",
+        "Period picker / Septembe"
+      ]
+    },
+    {
+      "name": "02_Bill",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header / Bill",
+        "Navigation / This Month ",
+        "Home Indicator",
+        "Segments / Subscription ",
+        "Subscriptions / summary"
+      ]
+    },
+    {
+      "name": "03_Credit_Score",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header / Credit Score",
+        "Navigation / This Month ",
+        "Home Indicator",
+        "Credit score / gauge",
+        "What affects your score"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+
+messages[36] / m36-call0.js
+0014: async function icon(parent, compId, x, y, size, color){ const comp = await figma.getNodeByIdAsync(compId); const ic = comp.createInstance(); parent.appendChild(ic); if(size!==24){ const k=size/24; ic.rescale?ic.rescale(k):ic.resize(size,size); } ic.x=x; ic.y=y; if(color) paint(ic,color); return ic; }
+0015: async function cmpInst(parent, compId, x, y){ const c = await figma.getNodeByIdAsync(compId); const i = c.createInstance(); parent.appendChild(i); i.x=x; i.y=y; return i; }
+0016: async function scr(name,x,y){ const f=figma.createFrame(); f.name=name; f.resize(375,812); f.x=x; f.y=y; f.fills=S(C.bg); ws.appendChild(f); await cmpInst(f,A.statusBar,0,0); await cmpInst(f,A.homeInd,0,778); return f; }
+0017: async function backBtn(parent,x,y){ const b=figma.createFrame(); b.name='Btn / Back'; parent.appendChild(b); b.resize(44,44); b.x=x; b.y=y; b.fills=S(C.white); b.cornerRadius=22; b.strokes=S(C.line); b.strokeWeight=1; b.strokeAlign='INSIDE'; await icon(b,A.iconBack,12,12,20,C.ink); return b; }
+0018: function styleLegal(t){ t.setRangeFills(30,46,S(C.deep)); t.setRangeFontName(30,46,{family:'Plus Jakarta Sans',style:'Medium'}); t.setRangeTextDecoration(30,46,'UNDERLINE'); t.setRangeFills(51,65,S(C.deep)); t.setRangeFontName(51,65,{family:'Plus Jakarta Sans',style:'Medium'}); t.setRangeTextDecoration(51,65,'UNDERLINE'); }
+0019: async function legal(parent,y){ const t=figma.createText(); await fnt(t,400); t.characters='By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use.'; t.fontSize=11; t.fills=S(C.gray); t.textAutoResize='HEIGHT'; t.resize(327,100); parent.appendChild(t); t.x=24; t.y=y; styleLegal(t); return t; }
+0020: 
+0021: // ---------- 01_Sign_Up ----------
+0022: const f01 = await scr('01_Sign_Up', 0, 0);
+0023: const t1 = await T(f01,'Sign up',30,700,C.ink,0,0); t1.textAutoResize='NONE'; t1.resize(327,40); t1.textAlignHorizontal='CENTER'; t1.x=24; t1.y=120;
+0027: inp.resize(327,52); inp.x=24; inp.y=240; inp.fills=S(C.white); inp.cornerRadius=12; inp.strokes=S(C.line); inp.strokeWeight=1; inp.strokeAlign='INSIDE';
+0028: const ccf = figma.createFrame(); ccf.name='Country Code'; inp.appendChild(ccf);
+0029: ccf.resize(96,40); ccf.x=6; ccf.y=6; ccf.fills=S(C.soft); ccf.cornerRadius=8;
+0030: const fl = await cmpInst(ccf, A.flagIDN, 12, 12); fl.resize(16,16); fl.x=12; fl.y=12;
+0031: await T(ccf,'+62',14,600,C.ink,38,11);
+0032: await icon(ccf, A.iconChevron, 72, 12, 16, C.gray);
+0033: const numT = await T(inp,'858 2409 3560',15,500,C.ink,114,0); numT.y=(52-numT.height)/2;
+0034: await T(f01,'A code will be sent to your number',12,400,C.gray,24,304);
+0035: const btn = await cmpInst(f01, A.button, 20, 500);
+0036: await legal(f01, 580);
+0037: 
+0038: // ---------- 02_OTP ----------
+0039: const f02 = await scr('02_OTP', 450, 0);
+0040: await backBtn(f02, 24, 56);
+0041: const ot1 = await T(f02,'OTP',30,700,C.ink,0,0); ot1.textAutoResize='NONE'; ot1.resize(327,40); ot1.textAlignHorizontal='CENTER'; ot1.x=24; ot1.y=120;
+0042: const ot2 = await T(f02,'Enter code',14,500,C.gray,0,0); ot2.textAutoResize='NONE'; ot2.resize(327,22); ot2.textAlignHorizontal='CENTER'; ot2.x=24; ot2.y=164;
+0043: for(let i=0;i<4;i++){
+0044:   const b=figma.createRectangle(); b.name='Digit '+(i+1); f02.appendChild(b);
+0045:   b.resize(60,60); b.x=31.5+i*78; b.y=230; b.fills=S(C.white); b.cornerRadius=14; b.strokes=S(C.line); b.strokeWeight=1;
+0046: }
+0047: const rs = await T(f02,'Resend code',13,600,C.deep,0,0); rs.textAutoResize='NONE'; rs.resize(327,20); rs.textAlignHorizontal='CENTER'; rs.x=24; rs.y=330;
+0048: await cmpInst(f02, A.button, 20, 500);
+0049: await legal(f02, 580);
+0050: return JSON.stringify({f01:f01.id, f02:f02.id});
+
+messages[60] / m60-call0.js
+0014: async function icon(parent, compId, x, y, size, color){ const comp = await figma.getNodeByIdAsync(compId); const ic = comp.createInstance(); parent.appendChild(ic); if(size!==24){ const k=size/24; ic.rescale?ic.rescale(k):ic.resize(size,size); } ic.x=x; ic.y=y; if(color) paint(ic,color); return ic; }
+0015: async function cmpInst(parent, compId, x, y){ const c = await figma.getNodeByIdAsync(compId); const i = c.createInstance(); parent.appendChild(i); i.x=x; i.y=y; return i; }
+0016: async function scr(name,x,y){ const f=figma.createFrame(); f.name=name; f.resize(375,812); f.x=x; f.y=y; f.fills=S(C.bg); ws.appendChild(f); await cmpInst(f,A.statusBar,0,0); await cmpInst(f,A.homeInd,0,778); return f; }
+0017: async function backBtn(parent,x,y){ const b=figma.createFrame(); b.name='Btn / Back'; parent.appendChild(b); b.resize(44,44); b.x=x; b.y=y; b.fills=S(C.white); b.cornerRadius=22; b.strokes=S(C.line); b.strokeWeight=1; b.strokeAlign='INSIDE'; await icon(b,A.iconBack,12,12,20,C.ink); return b; }
+0018: 
+0019: // ================= 11_Send =================
+0020: const f11 = await scr('11_Send', 450, 900);
+0021: await backBtn(f11, 24, 56);
+0022: const t11 = await T(f11,'Send',17,700,C.ink,0,0); t11.textAutoResize='NONE'; t11.resize(160,24); t11.textAlignHorizontal='CENTER'; t11.x=80; t11.y=66;
+0023: const av11 = (await figma.getNodeByIdAsync(A.avatar)).createInstance(); f11.appendChild(av11); av11.resize(44,44); av11.x=307; av11.y=56;
+0082: async function post(y, name, body, liked){
+0083:   const p = figma.createFrame(); p.name='Post / '+name; f06.appendChild(p);
+0084:   p.resize(327,190); p.x=24; p.y=y; p.fills=S(C.white); p.cornerRadius=20;
+0085:   const av = (await figma.getNodeByIdAsync(A.avatar)).createInstance(); p.appendChild(av); av.resize(36,36); av.x=14; av.y=14;
+0086:   const nm = await T(p,name,13,700,C.ink,58,16);
+0087:   const vf = await icon(p, A2.iconVerified, 58+nm.width+4, 17, 14, C.deep);
+0088:   await T(p,'Personal finance · Jan 18, 2023 · 11:00 AM',9.5,400,C.gray,58,34);
+0089:   await icon(p, A2.iconMoreH, 289, 16, 20, C.gray);
+0090:   const bd = await T(p,body,11.5,400,C.ink,14,58); bd.textAutoResize='HEIGHT'; bd.resize(299,100);
+0091:   const cy = 58 + bd.height + 12;
+0092:   await icon(p, A2.iconComment, 14, cy, 16, C.gray);
+0093:   await T(p,'12 Comments',10,500,C.gray,34,cy+2);
+0094:   const lk = await icon(p, A2.iconLike, 118, cy, 16, liked?C.deep:C.gray);
+0095:   const lkT = await T(p,'160 Likes',10,liked?600:500,liked?C.deep:C.gray,138,cy+2);
+0096:   await icon(p, A2.iconDislike, 196, cy, 16, C.gray);
+0097:   await T(p,'0 Dislikes',10,500,C.gray,216,cy+2);
+0098:   return p;
+0099: }
+0100: await post(212,'Devon Lane','FindBuddy is a comprehensive personal finance app that allows you to track and manage your spending, create budgets, and set financial goals. It also provides a visual representation of your financial health.', true);
+0101: await post(414,'Eleanor Pena','Personal Capital is not only a budgeting tool but also an investment tracker. It provides a holistic view of your financial situation by combining budgeting and investment tracking features.', false);
+0102: return JSON.stringify({f11:f11.id, f06:f06.id});
+
+messages[89] / m89-call0.js
+0002: const f06 = await figma.getNodeByIdAsync('2024:873');
+0003: const posts = f06.children.filter(c=>c.name && c.name.startsWith('Post /'));
+0004: return JSON.stringify(posts.map(p=>({name:p.name, y:p.y, h:p.height, bottom:p.y+p.height})));
+
+messages[90] / m90-result.txt
+0001: [{"name":"Post / Devon Lane","y":212,"h":190,"bottom":402},{"name":"Post / Eleanor Pena","y":414,"h":190,"bottom":604}]
+0002: 
+0003: <system-reminder>
+0004: <total_tokens>14391925 tokens left</total_tokens>
+0005: </system-reminder>

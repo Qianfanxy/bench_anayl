@@ -1,0 +1,13 @@
+manifestation,measure,expected,n,prevalence,partial_spearman,raw_spearman
+text_only_controls,instance_node_share,-,287,0.11,-0.038,0.025
+text_only_controls,text_node_share,+,287,0.11,0.043,0.108
+placeholder_icons,instance_node_share,-,287,0.31,-0.113,0.047
+placeholder_icons,reuse_ratio,-,289,0.31,-0.007,-0.17
+overlap,autolayout_ratio,-,289,0.55,-0.119,-0.139
+misalignment_spacing,autolayout_ratio,-,289,0.66,0.007,-0.09
+flat_layers_default_names,max_depth,-,287,0.55,-0.279,-0.503
+flat_layers_default_names,autolayout_ratio,-,289,0.55,-0.069,-0.433
+screen_clipped_or_empty,hit_time_limit,+,289,0.13,0.097,0.107
+content_missing,hit_time_limit,+,289,0.08,0.217,0.173
+empty_space,nodes_per_screen,-,287,0.69,0.028,-0.123
+logic_data_error,assistant_turns,+,289,0.67,0.01,-0.021

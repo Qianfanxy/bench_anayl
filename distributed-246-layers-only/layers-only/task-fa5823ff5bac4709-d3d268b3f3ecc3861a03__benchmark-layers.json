@@ -1,0 +1,91 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×3",
+        "text×1"
+      ],
+      "names": [
+        "Logo_Travelin",
+        "Your Passport to Seamles",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "02_Get_Started",
+      "size": "430×932",
+      "nodes": 9,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1",
+        "rectangle×1",
+        "text×1"
+      ],
+      "names": [
+        "Photo",
+        "Photo_Aerial_Island",
+        "Rectangle",
+        "Logo_Travelin",
+        "Language Selector",
+        "Ready to explore beyond "
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "430×932",
+      "nodes": 19,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×6",
+        "frame×2"
+      ],
+      "names": [
+        "Photo",
+        "Photo_Hot_Air_Balloons",
+        "Logo_Travelin",
+        "Language Selector",
+        "Sheet",
+        "Let’s Travel you in."
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "430×932",
+      "nodes": 21,
+      "max_depth": 2,
+      "instances": 18,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Photo",
+        "Photo_Avatar_Cat",
+        "Hi, Paul",
+        "Points Chip",
+        "Search Bar"
+      ]
+    }
+  ]
+}

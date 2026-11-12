@@ -1,0 +1,213 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "id": "18:24",
+      "name": "01_Welcome",
+      "size": "393×852",
+      "nodes": 40,
+      "max_depth": 3,
+      "instances": 13,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×8",
+        "rectangle×7",
+        "vector×7",
+        "ellipse×3",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "id": "19:47",
+      "name": "02_Apple_ID_Sheet",
+      "size": "393×852",
+      "nodes": 57,
+      "max_depth": 4,
+      "instances": 17,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "text×13",
+        "rectangle×10",
+        "vector×10",
+        "frame×4",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "id": "23:74",
+      "name": "03_Explore",
+      "size": "393×852",
+      "nodes": 156,
+      "max_depth": 4,
+      "instances": 64,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "instance×64",
+        "vector×32",
+        "ellipse×23",
+        "text×21",
+        "rectangle×8",
+        "frame×8"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "id": "24:197",
+      "name": "04_Find_Partner",
+      "size": "393×852",
+      "nodes": 118,
+      "max_depth": 4,
+      "instances": 35,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "instance×35",
+        "text×25",
+        "vector×22",
+        "rectangle×20",
+        "ellipse×9",
+        "frame×7"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "id": "31:301",
+      "name": "05_Friend_Profile",
+      "size": "393×852",
+      "nodes": 107,
+      "max_depth": 4,
+      "instances": 44,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "instance×44",
+        "rectangle×21",
+        "vector×17",
+        "text×14",
+        "frame×7",
+        "ellipse×4"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "id": "31:401",
+      "name": "06_Short_Video",
+      "size": "393×852",
+      "nodes": 74,
+      "max_depth": 4,
+      "instances": 19,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "vector×16",
+        "text×15",
+        "rectangle×10",
+        "frame×7",
+        "ellipse×7"
+      ],
+      "names": [
+        "Short_Yu_Jian_Shore",
+        "Rectangle",
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal"
+      ]
+    },
+    {
+      "id": "32:421",
+      "name": "07_Profile",
+      "size": "393×852",
+      "nodes": 105,
+      "max_depth": 4,
+      "instances": 43,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "instance×43",
+        "rectangle×20",
+        "vector×17",
+        "text×14",
+        "frame×7",
+        "ellipse×4"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    },
+    {
+      "id": "32:519",
+      "name": "08_Menu",
+      "size": "393×852",
+      "nodes": 184,
+      "max_depth": 4,
+      "instances": 72,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "instance×72",
+        "vector×42",
+        "rectangle×29",
+        "text×26",
+        "frame×10",
+        "ellipse×5"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Dynamic Island",
+        "Signal",
+        "Rectangle",
+        "Wifi"
+      ]
+    }
+  ]
+}

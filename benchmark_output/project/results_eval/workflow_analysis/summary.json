@@ -1,0 +1,331 @@
+{
+  "status": "First-pass rule-assisted multi-label workflow coding; not a fully human-validated taxonomy or saturation claim. Outcomes are not used to assign workflow labels.",
+  "target_cells": 174,
+  "found_nonempty_trajectories": 174,
+  "coded_runs": 173,
+  "excluded_cells": [
+    {
+      "case_id": "6case-case-004",
+      "title": "Chat Bot AI",
+      "model": "GPT",
+      "run_id": "run_debad9d401bc448c",
+      "trajectory_path": "/mnt/afs_design/huangxinyue/bench-runs/6case-rerun3-gpt/runs/TEST-011_1793786289920/task-000001/trajectory.jsonl",
+      "trajectory_exists": true,
+      "trace_format": "task",
+      "run_log": "",
+      "included": false,
+      "exclusion": "Chat Bot AI GPT: quarantined per user; no replacement human/trajectory alignment asserted",
+      "arena_version_match": "False",
+      "strict_quality_eligible": false
+    }
+  ],
+  "coded_units": 9474,
+  "ambiguous_units": 1396,
+  "stage_prevalence": [
+    {
+      "stage": "O",
+      "label": "Orient / inspect constraints",
+      "label_zh": "任务与环境理解",
+      "runs_with_successful_evidence": 173,
+      "runs": 173,
+      "share": 1.0
+    },
+    {
+      "stage": "P",
+      "label": "Prepare resources / system",
+      "label_zh": "资源与设计系统准备",
+      "runs_with_successful_evidence": 173,
+      "runs": 173,
+      "share": 1.0
+    },
+    {
+      "stage": "C",
+      "label": "Construct / modify UI",
+      "label_zh": "界面构建与修改",
+      "runs_with_successful_evidence": 173,
+      "runs": 173,
+      "share": 1.0
+    },
+    {
+      "stage": "I",
+      "label": "Implement interactions",
+      "label_zh": "交互与状态实现",
+      "runs_with_successful_evidence": 159,
+      "runs": 173,
+      "share": 0.9190751445086706
+    },
+    {
+      "stage": "V",
+      "label": "Verify artifact",
+      "label_zh": "产物验证",
+      "runs_with_successful_evidence": 172,
+      "runs": 173,
+      "share": 0.9942196531791907
+    },
+    {
+      "stage": "D",
+      "label": "Declare handoff",
+      "label_zh": "交付声明",
+      "runs_with_successful_evidence": 168,
+      "runs": 173,
+      "share": 0.9710982658959537
+    },
+    {
+      "stage": "U",
+      "label": "Unresolved",
+      "label_zh": "待判定",
+      "runs_with_successful_evidence": 0,
+      "runs": 173,
+      "share": 0.0
+    }
+  ],
+  "patterns": {
+    "interleaved_build_verify": 139,
+    "no_postconstruction_verification": 1,
+    "build_then_verify": 33
+  },
+  "sources": {
+    "run.log": 145,
+    "trajectory": 28
+  },
+  "strict_quality_runs": 144,
+  "model_profiles": [
+    {
+      "model": "Opus",
+      "runs": 29,
+      "O_coverage": 1.0,
+      "O_mean_units": 4.241379310344827,
+      "P_coverage": 1.0,
+      "P_mean_units": 12.655172413793103,
+      "C_coverage": 1.0,
+      "C_mean_units": 7.068965517241379,
+      "I_coverage": 0.9655172413793104,
+      "I_mean_units": 1.896551724137931,
+      "V_coverage": 1.0,
+      "V_mean_units": 13.03448275862069,
+      "D_coverage": 1.0,
+      "D_mean_units": 1.0,
+      "U_coverage": 0.0,
+      "U_mean_units": 0.0,
+      "interleaved_build_verify": 25,
+      "build_then_verify": 4,
+      "no_postconstruction_verification": 0
+    },
+    {
+      "model": "GPT",
+      "runs": 28,
+      "O_coverage": 1.0,
+      "O_mean_units": 4.357142857142857,
+      "P_coverage": 1.0,
+      "P_mean_units": 4.535714285714286,
+      "C_coverage": 1.0,
+      "C_mean_units": 2.6785714285714284,
+      "I_coverage": 0.9642857142857143,
+      "I_mean_units": 2.1785714285714284,
+      "V_coverage": 1.0,
+      "V_mean_units": 11.142857142857142,
+      "D_coverage": 1.0,
+      "D_mean_units": 1.0,
+      "U_coverage": 0.0,
+      "U_mean_units": 0.0,
+      "interleaved_build_verify": 17,
+      "build_then_verify": 11,
+      "no_postconstruction_verification": 0
+    },
+    {
+      "model": "Fable",
+      "runs": 29,
+      "O_coverage": 1.0,
+      "O_mean_units": 6.137931034482759,
+      "P_coverage": 1.0,
+      "P_mean_units": 14.448275862068966,
+      "C_coverage": 1.0,
+      "C_mean_units": 13.310344827586206,
+      "I_coverage": 0.9310344827586207,
+      "I_mean_units": 3.689655172413793,
+      "V_coverage": 1.0,
+      "V_mean_units": 33.86206896551724,
+      "D_coverage": 0.9310344827586207,
+      "D_mean_units": 0.9310344827586207,
+      "U_coverage": 0.0,
+      "U_mean_units": 0.0,
+      "interleaved_build_verify": 29,
+      "build_then_verify": 0,
+      "no_postconstruction_verification": 0
+    },
+    {
+      "model": "GLM",
+      "runs": 29,
+      "O_coverage": 1.0,
+      "O_mean_units": 7.379310344827586,
+      "P_coverage": 1.0,
+      "P_mean_units": 9.862068965517242,
+      "C_coverage": 1.0,
+      "C_mean_units": 9.482758620689655,
+      "I_coverage": 0.9310344827586207,
+      "I_mean_units": 4.241379310344827,
+      "V_coverage": 1.0,
+      "V_mean_units": 18.724137931034484,
+      "D_coverage": 1.0,
+      "D_mean_units": 1.0,
+      "U_coverage": 0.0,
+      "U_mean_units": 0.0,
+      "interleaved_build_verify": 25,
+      "build_then_verify": 4,
+      "no_postconstruction_verification": 0
+    },
+    {
+      "model": "Kimi",
+      "runs": 29,
+      "O_coverage": 1.0,
+      "O_mean_units": 5.758620689655173,
+      "P_coverage": 1.0,
+      "P_mean_units": 10.862068965517242,
+      "C_coverage": 1.0,
+      "C_mean_units": 17.96551724137931,
+      "I_coverage": 0.9310344827586207,
+      "I_mean_units": 2.6551724137931036,
+      "V_coverage": 1.0,
+      "V_mean_units": 27.82758620689655,
+      "D_coverage": 1.0,
+      "D_mean_units": 1.0,
+      "U_coverage": 0.0,
+      "U_mean_units": 0.0,
+      "interleaved_build_verify": 29,
+      "build_then_verify": 0,
+      "no_postconstruction_verification": 0
+    },
+    {
+      "model": "Gemini",
+      "runs": 29,
+      "O_coverage": 1.0,
+      "O_mean_units": 6.172413793103448,
+      "P_coverage": 1.0,
+      "P_mean_units": 5.379310344827586,
+      "C_coverage": 1.0,
+      "C_mean_units": 6.655172413793103,
+      "I_coverage": 0.7931034482758621,
+      "I_mean_units": 1.4137931034482758,
+      "V_coverage": 0.9655172413793104,
+      "V_mean_units": 5.275862068965517,
+      "D_coverage": 0.896551724137931,
+      "D_mean_units": 0.896551724137931,
+      "U_coverage": 0.0,
+      "U_mean_units": 0.0,
+      "interleaved_build_verify": 14,
+      "build_then_verify": 14,
+      "no_postconstruction_verification": 1
+    }
+  ],
+  "top_transitions": [
+    {
+      "source": "O",
+      "target": "P",
+      "runs": 172
+    },
+    {
+      "source": "C",
+      "target": "V",
+      "runs": 154
+    },
+    {
+      "source": "P",
+      "target": "O",
+      "runs": 143
+    },
+    {
+      "source": "P",
+      "target": "C",
+      "runs": 138
+    },
+    {
+      "source": "V",
+      "target": "D",
+      "runs": 137
+    },
+    {
+      "source": "V",
+      "target": "C",
+      "runs": 134
+    },
+    {
+      "source": "I",
+      "target": "V",
+      "runs": 124
+    },
+    {
+      "source": "V",
+      "target": "P",
+      "runs": 91
+    },
+    {
+      "source": "V",
+      "target": "I",
+      "runs": 80
+    },
+    {
+      "source": "P",
+      "target": "V",
+      "runs": 78
+    },
+    {
+      "source": "C",
+      "target": "I",
+      "runs": 66
+    },
+    {
+      "source": "O",
+      "target": "C",
+      "runs": 57
+    },
+    {
+      "source": "C",
+      "target": "P",
+      "runs": 57
+    },
+    {
+      "source": "V",
+      "target": "O",
+      "runs": 30
+    },
+    {
+      "source": "O",
+      "target": "V",
+      "runs": 27
+    },
+    {
+      "source": "C",
+      "target": "O",
+      "runs": 25
+    },
+    {
+      "source": "P",
+      "target": "I",
+      "runs": 22
+    },
+    {
+      "source": "I",
+      "target": "C",
+      "runs": 19
+    },
+    {
+      "source": "I",
+      "target": "O",
+      "runs": 16
+    },
+    {
+      "source": "C",
+      "target": "D",
+      "runs": 14
+    }
+  ],
+  "limitations": [
+    "A unit is a tool call or final handoff statement; one unit can implement multiple stages.",
+    "Descriptions indicate declared purpose; code patterns do not prove all branches executed or goals were met.",
+    "Primary-stage sequences are visualization reductions; multi-label evidence is authoritative.",
+    "Call order is not wall time or token effort; batched calls may be concurrent.",
+    "Post-error operations and declared repairs are orthogonal tags, not evidence of successful defect repair.",
+    "Full logs and current trajectory call sets are checked; screenshots captured at reference pages do not automatically count as final artifact verification.",
+    "Excluded Chat Bot AI GPT is quarantined; no inference that the indexed updated trace aligns with replacement human judgments."
+  ]
+}

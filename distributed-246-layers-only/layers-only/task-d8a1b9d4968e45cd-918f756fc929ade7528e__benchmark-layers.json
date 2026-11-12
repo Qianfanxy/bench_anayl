@@ -1,0 +1,310 @@
+{
+  "board_count": 14,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Photo_Onboarding_1",
+        "Photo_Onboarding_2",
+        "Photo_Onboarding_3",
+        "Photo_Onboarding_4"
+      ]
+    },
+    {
+      "name": "02_Log_In",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×7",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Arrow_Left",
+        "Text",
+        "Welcome Back!",
+        "Log in to your Placoo ac"
+      ]
+    },
+    {
+      "name": "03_Sign_Up",
+      "size": "375×812",
+      "nodes": 21,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×6",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Arrow_Left",
+        "Text",
+        "Let’s explore together!",
+        "Create your Placoo accou"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "375×1970",
+      "nodes": 50,
+      "max_depth": 3,
+      "instances": 17,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "instance×17",
+        "frame×8"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Find your place in",
+        "Icon_Location",
+        "Surabaya, Indonesia",
+        "Icon_Chevron_Down"
+      ]
+    },
+    {
+      "name": "05_Explore",
+      "size": "375×1055",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Go Filter",
+        "Find out your next trip!",
+        "See all",
+        "Destination card"
+      ]
+    },
+    {
+      "name": "06_Property_Details",
+      "size": "375×2750",
+      "nodes": 78,
+      "max_depth": 1,
+      "instances": 32,
+      "texts": 46,
+      "images": 0,
+      "types": [
+        "text×46",
+        "instance×32"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Photo_Bromo_Cabin",
+        "Icon_Arrow_Left",
+        "Text",
+        "Icon_Share"
+      ]
+    },
+    {
+      "name": "07_Filter",
+      "size": "375×1430",
+      "nodes": 109,
+      "max_depth": 2,
+      "instances": 21,
+      "texts": 42,
+      "images": 0,
+      "types": [
+        "frame×46",
+        "text×42",
+        "instance×21"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Arrow_Left",
+        "Filter",
+        "Go Filter",
+        "Choice · I need to rent"
+      ]
+    },
+    {
+      "name": "08_Search_Results",
+      "size": "375×1220",
+      "nodes": 52,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "text×26",
+        "frame×14",
+        "instance×12"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Image_Map",
+        "Icon_Arrow_Left",
+        "Text",
+        "Go Filter"
+      ]
+    },
+    {
+      "name": "09_Search_Pin_Selected",
+      "size": "375×812",
+      "nodes": 36,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "text×17",
+        "frame×12",
+        "instance×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Image_Map",
+        "Icon_Arrow_Left",
+        "Text",
+        "Go Filter"
+      ]
+    },
+    {
+      "name": "10_Rent_Booking",
+      "size": "375×1130",
+      "nodes": 47,
+      "max_depth": 2,
+      "instances": 17,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "text×29",
+        "instance×17",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Arrow_Left",
+        "Rent booking",
+        "Icon_Help",
+        "Entire Bromo mountain vi"
+      ]
+    },
+    {
+      "name": "11_Chat",
+      "size": "375×812",
+      "nodes": 32,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "instance×8",
+        "frame×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Messages",
+        "Go Filter",
+        "Kari Rasmussen",
+        "Avatar_Kari"
+      ]
+    },
+    {
+      "name": "12_Chat_Room",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "instance×7",
+        "frame×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Arrow_Left",
+        "Text",
+        "Avatar_Kari",
+        "Kari Rasmussen"
+      ]
+    },
+    {
+      "name": "13_Saved",
+      "size": "375×950",
+      "nodes": 33,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "text×17",
+        "instance×12",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Saved places",
+        "Go Filter",
+        "Entire Bromo mountain vi",
+        "Photo_Bromo_Cabin"
+      ]
+    },
+    {
+      "name": "14_Profile",
+      "size": "375×812",
+      "nodes": 22,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×8",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "My profile",
+        "Avatar_Lucy",
+        "Lucy Bond",
+        "lucy.bond@example.com"
+      ]
+    }
+  ]
+}

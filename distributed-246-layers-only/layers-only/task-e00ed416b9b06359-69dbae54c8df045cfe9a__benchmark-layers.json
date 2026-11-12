@@ -1,0 +1,268 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "375×812",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "StockWave_Symbol",
+        "StockWave_Wordmark"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×3",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Skip",
+        "Rectangle",
+        "Blank_Phone_Frame",
+        "Stock trading suite"
+      ]
+    },
+    {
+      "name": "03_Sign_Up_Empty",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Join StockWave",
+        "Embark on your investmen",
+        "Field Username",
+        "Field Email"
+      ]
+    },
+    {
+      "name": "03_Sign_Up_Filled",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Join StockWave",
+        "Embark on your investmen",
+        "Field Agatha Bella",
+        "Field agbella@email.com"
+      ]
+    },
+    {
+      "name": "04_Verify_Phone",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Enter your phone number",
+        "You’ll receive a 4 digit",
+        "Field +1 202 555 0147"
+      ]
+    },
+    {
+      "name": "05_Verify_Code",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×4",
+        "rectangle×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Enter verification code",
+        "We have sent a verificat",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "06_Welcome",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Welcome_Hand",
+        "Hello Agatha Bella!",
+        "Welcome to StockWave",
+        "It’s great to have you h"
+      ]
+    },
+    {
+      "name": "07_Home",
+      "size": "375×1330",
+      "nodes": 35,
+      "max_depth": 2,
+      "instances": 27,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×27",
+        "frame×5",
+        "text×2",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "StockWave_Wordmark",
+        "Notifications",
+        "Portfolio Card",
+        "Portfolio value"
+      ]
+    },
+    {
+      "name": "08_Portfolio",
+      "size": "375×812",
+      "nodes": 34,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "instance×9",
+        "frame×4",
+        "rectangle×3",
+        "vector×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Portfolio value",
+        "$13,240.11",
+        "+1.53% today"
+      ]
+    },
+    {
+      "name": "09_Stock_Detail",
+      "size": "375×812",
+      "nodes": 38,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "instance×12",
+        "rectangle×9",
+        "vector×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Price alert",
+        "Rectangle",
+        "Logo_Netflix"
+      ]
+    },
+    {
+      "name": "10_Confirm_Order",
+      "size": "375×812",
+      "nodes": 22,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×7",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Logo_Netflix",
+        "Buy NFLX",
+        "Netflix, Inc · $88.91"
+      ]
+    },
+    {
+      "name": "11_Profile",
+      "size": "375×812",
+      "nodes": 33,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "rectangle×7",
+        "instance×4",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Profile",
+        "Avatar_Neutral",
+        "Agatha Bella",
+        "agbella@email.com"
+      ]
+    }
+  ]
+}

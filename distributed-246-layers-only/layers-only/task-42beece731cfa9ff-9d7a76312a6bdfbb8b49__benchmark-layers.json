@@ -1,0 +1,25 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1920×6970",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 13,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×13"
+      ],
+      "names": [
+        "Header",
+        "Hero search / Delivery s",
+        "Discount cards",
+        "How does it work",
+        "Popular items",
+        "Featured Restaurants"
+      ]
+    }
+  ]
+}

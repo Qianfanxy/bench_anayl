@@ -1,0 +1,865 @@
+{
+ "file_key": "fnULASWChHEL3I3D7Sc3I7",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "4:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "4:5",
+     "name": "Balance — personal finance app",
+     "x": 64,
+     "y": 93,
+     "text": "Balance — personal finance app"
+    },
+    {
+     "id": "4:6",
+     "name": "Design the complete Balance mobile app: a personal finance app where Esaaa Warden signs up with a phone number, checks the balance, upcoming bills and transactions, manages cards and crypto assets, reads income analytics, follows a coin price, sends money to a contact and browses a community forum. Canvas 375 × 812, light mode only. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 163,
+     "text": "Design the complete Balance mobile app: a personal finance app where Esaaa Warden signs up with a phone number, checks the balance, upcoming bills and transactions, manages cards and crypto assets, reads income analytics, follows a coin price, sends money to a contact and browses a community forum.\nCanvas 375 × 812, light mode only. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "4:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 288,
+     "text": "How to work"
+    },
+    {
+     "id": "4:9",
+     "name": "1. Build exactly the 11 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / error / warning / disabled, chart colors), plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the main navigation and every business component as reusable components in your file. 5. Use logos, card artwork, flags and icons from 04 · Media. People have no photos: use Avatar_Neutral or initials. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 336,
+     "text": "1. Build exactly the 11 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / error / warning / disabled, chart colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the main navigation and every business component as reusable components in your file.\n5. Use logos, card artwork, flags and icons from 04 · Media. People have no photos: use Avatar_Neutral or initials.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "4:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 572,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "4:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 620,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "4:15",
+     "name": "01_Sign_Up",
+     "x": 88,
+     "y": 680,
+     "text": "01_Sign_Up"
+    },
+    {
+     "id": "4:22",
+     "name": "02_OTP",
+     "x": 520,
+     "y": 680,
+     "text": "02_OTP"
+    },
+    {
+     "id": "4:29",
+     "name": "03_Home_My_Balance",
+     "x": 952,
+     "y": 680,
+     "text": "03_Home_My_Balance"
+    },
+    {
+     "id": "4:16",
+     "name": "Goal: Start registration with a phone number.",
+     "x": 88,
+     "y": 716,
+     "text": "Goal: Start registration with a phone number."
+    },
+    {
+     "id": "4:23",
+     "name": "Goal: Verify the phone number with a 4-digit code.",
+     "x": 520,
+     "y": 716,
+     "text": "Goal: Verify the phone number with a 4-digit code."
+    },
+    {
+     "id": "4:30",
+     "name": "Goal: See the total balance at a glance and start money actions.",
+     "x": 952,
+     "y": 716,
+     "text": "Goal: See the total balance at a glance and start money actions."
+    },
+    {
+     "id": "4:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 745,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:24",
+     "name": "MUST INCLUDE",
+     "x": 520,
+     "y": 745,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:31",
+     "name": "MUST INCLUDE",
+     "x": 952,
+     "y": 764,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:18",
+     "name": "• Actions: Continue • Copy: “Sign up” · “Sign up with phone number” · “A code will be sent to your number” • Legal: “By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use.” (Terms of Service and Privacy Policy are links) • Phone: country code +62 (Flag_Indonesia, changeable) · number 858 2409 3560",
+     "x": 88,
+     "y": 771,
+     "text": "• Actions: Continue\n• Copy: “Sign up” · “Sign up with phone number” · “A code will be sent to your number”\n• Legal: “By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use.” (Terms of Service and Privacy Policy are links)\n• Phone: country code +62 (Flag_Indonesia, changeable) · number 858 2409 3560"
+    },
+    {
+     "id": "4:25",
+     "name": "• Actions: back · Resend code · Continue • Code: 4 digits, none entered yet • Copy: “OTP” · “Enter code” • Legal: same text as 01_Sign_Up",
+     "x": 520,
+     "y": 771,
+     "text": "• Actions: back · Resend code · Continue\n• Code: 4 digits, none entered yet\n• Copy: “OTP” · “Enter code”\n• Legal: same text as 01_Sign_Up"
+    },
+    {
+     "id": "4:32",
+     "name": "• Account: avatar · “Hi, Esaaa!” · messages entry · notifications entry • Actions: Send · Receive · Add • Balance: “Your Balance” $190,008.03 · +8% · currency USD (Flag_USA, changeable) • Main navigation: current tab Home • Spending: “Financial health” · “Latest 7 days” · daily spend Mon–Sun with values on a 10K–50K scale · entry to details • Transfer list: “Transfer list” · add contact · 5 contacts • View: switch between My Balance / Upcoming Bills / Transactions · current: My Balance",
+     "x": 952,
+     "y": 790,
+     "text": "• Account: avatar · “Hi, Esaaa!” · messages entry · notifications entry\n• Actions: Send · Receive · Add\n• Balance: “Your Balance” $190,008.03 · +8% · currency USD (Flag_USA, changeable)\n• Main navigation: current tab Home\n• Spending: “Financial health” · “Latest 7 days” · daily spend Mon–Sun with values on a 10K–50K scale · entry to details\n• Transfer list: “Transfer list” · add contact · 5 contacts\n• View: switch between My Balance / Upcoming Bills / Transactions · current: My Balance"
+    },
+    {
+     "id": "4:26",
+     "name": "LINKS",
+     "x": 520,
+     "y": 857,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:27",
+     "name": "→ back → 01_Sign_Up → Continue → 03_Home_My_Balance",
+     "x": 520,
+     "y": 883,
+     "text": "→ back → 01_Sign_Up\n→ Continue → 03_Home_My_Balance"
+    },
+    {
+     "id": "4:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 933,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:20",
+     "name": "→ Continue → 02_OTP",
+     "x": 88,
+     "y": 959,
+     "text": "→ Continue → 02_OTP"
+    },
+    {
+     "id": "4:33",
+     "name": "LINKS",
+     "x": 952,
+     "y": 1028,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:34",
+     "name": "→ Upcoming Bills → 04_Home_Upcoming_Bills → Transactions → 05_Home_Transactions → Send → 11_Send → contact Bessie Cooper → 11_Send → Financial health details → 09_Analytics → messages entry → 06_Discussion_Forum → tabs → 03 / 09 / 07 / 08",
+     "x": 952,
+     "y": 1054,
+     "text": "→ Upcoming Bills → 04_Home_Upcoming_Bills\n→ Transactions → 05_Home_Transactions\n→ Send → 11_Send\n→ contact Bessie Cooper → 11_Send\n→ Financial health details → 09_Analytics\n→ messages entry → 06_Discussion_Forum\n→ tabs → 03 / 09 / 07 / 08"
+    },
+    {
+     "id": "4:36",
+     "name": "04_Home_Upcoming_Bills",
+     "x": 88,
+     "y": 1259,
+     "text": "04_Home_Upcoming_Bills"
+    },
+    {
+     "id": "4:43",
+     "name": "05_Home_Transactions",
+     "x": 520,
+     "y": 1259,
+     "text": "05_Home_Transactions"
+    },
+    {
+     "id": "4:50",
+     "name": "06_Discussion_Forum",
+     "x": 952,
+     "y": 1259,
+     "text": "06_Discussion_Forum"
+    },
+    {
+     "id": "4:37",
+     "name": "Goal: Review upcoming subscription bills and pay one.",
+     "x": 88,
+     "y": 1295,
+     "text": "Goal: Review upcoming subscription bills and pay one."
+    },
+    {
+     "id": "4:44",
+     "name": "Goal: Scan recent money movement.",
+     "x": 520,
+     "y": 1295,
+     "text": "Goal: Scan recent money movement."
+    },
+    {
+     "id": "4:51",
+     "name": "Goal: Browse community finance discussions.",
+     "x": 952,
+     "y": 1295,
+     "text": "Goal: Browse community finance discussions."
+    },
+    {
+     "id": "4:38",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1324,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:45",
+     "name": "MUST INCLUDE",
+     "x": 520,
+     "y": 1324,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:52",
+     "name": "MUST INCLUDE",
+     "x": 952,
+     "y": 1324,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:39",
+     "name": "• Account: same as 03 • Bill actions: Add · Edit · Delete • Bills: “Upcoming Bills” · 3 bills, soonest due first, each with logo, name, amount, due date, cycle, category and Pay now • Main navigation: current tab Home • View: same switch as 03 · current: Upcoming Bills",
+     "x": 88,
+     "y": 1350,
+     "text": "• Account: same as 03\n• Bill actions: Add · Edit · Delete\n• Bills: “Upcoming Bills” · 3 bills, soonest due first, each with logo, name, amount, due date, cycle, category and Pay now\n• Main navigation: current tab Home\n• View: same switch as 03 · current: Upcoming Bills"
+    },
+    {
+     "id": "4:46",
+     "name": "• Account: same as 03 • Main navigation: current tab Home • Transactions: “Transactions” · 6 transactions, newest first, each with logo, type, date and signed amount (+ money in, − money out) • View: same switch as 03 · current: Transactions",
+     "x": 520,
+     "y": 1350,
+     "text": "• Account: same as 03\n• Main navigation: current tab Home\n• Transactions: “Transactions” · 6 transactions, newest first, each with logo, type, date and signed amount (+ money in, − money out)\n• View: same switch as 03 · current: Transactions"
+    },
+    {
+     "id": "4:53",
+     "name": "• Actions: back · messages entry · notifications entry • Copy: “Discussion Forum” • Posts: 2 posts, each with avatar, name, verified badge, topic, date and time, body, comment / like / dislike counts and a more menu · the user has liked Devon Lane’s post • Search & filter: search “Search...” · Filter • Topics: Personal Finance / Investments / Cryptocurrencies · current: Personal Finance",
+     "x": 952,
+     "y": 1350,
+     "text": "• Actions: back · messages entry · notifications entry\n• Copy: “Discussion Forum”\n• Posts: 2 posts, each with avatar, name, verified badge, topic, date and time, body, comment / like / dislike counts and a more menu · the user has liked Devon Lane’s post\n• Search & filter: search “Search...” · Filter\n• Topics: Personal Finance / Investments / Cryptocurrencies · current: Personal Finance"
+    },
+    {
+     "id": "4:47",
+     "name": "LINKS",
+     "x": 520,
+     "y": 1474,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:40",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1493,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:48",
+     "name": "→ My Balance → 03 → Upcoming Bills → 04 → tabs",
+     "x": 520,
+     "y": 1500,
+     "text": "→ My Balance → 03\n→ Upcoming Bills → 04\n→ tabs"
+    },
+    {
+     "id": "4:54",
+     "name": "LINKS",
+     "x": 952,
+     "y": 1512,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:41",
+     "name": "→ My Balance → 03 → Transactions → 05 → tabs",
+     "x": 88,
+     "y": 1519,
+     "text": "→ My Balance → 03\n→ Transactions → 05\n→ tabs"
+    },
+    {
+     "id": "4:55",
+     "name": "→ back → 03_Home_My_Balance",
+     "x": 952,
+     "y": 1538,
+     "text": "→ back → 03_Home_My_Balance"
+    },
+    {
+     "id": "4:57",
+     "name": "07_Cards",
+     "x": 88,
+     "y": 1648,
+     "text": "07_Cards"
+    },
+    {
+     "id": "4:64",
+     "name": "08_Profile",
+     "x": 520,
+     "y": 1648,
+     "text": "08_Profile"
+    },
+    {
+     "id": "4:71",
+     "name": "09_Analytics",
+     "x": 952,
+     "y": 1648,
+     "text": "09_Analytics"
+    },
+    {
+     "id": "4:58",
+     "name": "Goal: See the primary card and crypto assets.",
+     "x": 88,
+     "y": 1684,
+     "text": "Goal: See the primary card and crypto assets."
+    },
+    {
+     "id": "4:65",
+     "name": "Goal: See account identity, all cards and recent activity.",
+     "x": 520,
+     "y": 1684,
+     "text": "Goal: See account identity, all cards and recent activity."
+    },
+    {
+     "id": "4:72",
+     "name": "Goal: Understand income vs expenses and where income comes from.",
+     "x": 952,
+     "y": 1684,
+     "text": "Goal: Understand income vs expenses and where income comes from."
+    },
+    {
+     "id": "4:59",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1713,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:66",
+     "name": "MUST INCLUDE",
+     "x": 520,
+     "y": 1713,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:73",
+     "name": "MUST INCLUDE",
+     "x": 952,
+     "y": 1732,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:60",
+     "name": "• Actions: back · avatar · more menu · Add Card • Assets: “Assets” · Solana / Bitcoin / Ethereum with ticker and value • Card: primary card (Card_Art_Green, Esaaa Warden, **** **** **** 3447, Exp 09/24) • Copy: “Cards” • Main navigation: current tab Cards • Transactions: latest 3",
+     "x": 88,
+     "y": 1739,
+     "text": "• Actions: back · avatar · more menu · Add Card\n• Assets: “Assets” · Solana / Bitcoin / Ethereum with ticker and value\n• Card: primary card (Card_Art_Green, Esaaa Warden, **** **** **** 3447, Exp 09/24)\n• Copy: “Cards”\n• Main navigation: current tab Cards\n• Transactions: latest 3"
+    },
+    {
+     "id": "4:67",
+     "name": "• Account: Esaaa Warden · avatar · primary card number · edit profile entry • Actions: back · messages entry · notifications entry · more menu • Cards: “Your Cards” · all 3 cards • Copy: “Profile” • Main navigation: current tab Profile • Transactions: “Transactions” · See all · latest 3",
+     "x": 520,
+     "y": 1739,
+     "text": "• Account: Esaaa Warden · avatar · primary card number · edit profile entry\n• Actions: back · messages entry · notifications entry · more menu\n• Cards: “Your Cards” · all 3 cards\n• Copy: “Profile”\n• Main navigation: current tab Profile\n• Transactions: “Transactions” · See all · latest 3"
+    },
+    {
+     "id": "4:74",
+     "name": "• Actions: back · avatar · more menu • Copy: “Analytics” • Income breakdown chart: Sales $15,190.00 · 52% / Investment $11,451.03 · 39% / Other $2,590.00 · 9% · headline share “52%” • Main navigation: current tab Analytics • Period: “Monthly” (changeable) • Totals: Total income $29,231.03 · Total expenses $1,999.00 • View: Income / Expenses · current: Income",
+     "x": 952,
+     "y": 1758,
+     "text": "• Actions: back · avatar · more menu\n• Copy: “Analytics”\n• Income breakdown chart: Sales $15,190.00 · 52% / Investment $11,451.03 · 39% / Other $2,590.00 · 9% · headline share “52%”\n• Main navigation: current tab Analytics\n• Period: “Monthly” (changeable)\n• Totals: Total income $29,231.03 · Total expenses $1,999.00\n• View: Income / Expenses · current: Income"
+    },
+    {
+     "id": "4:61",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1901,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:68",
+     "name": "LINKS",
+     "x": 520,
+     "y": 1901,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:62",
+     "name": "→ back → 03 → Bitcoin → 10_Markets → tabs",
+     "x": 88,
+     "y": 1927,
+     "text": "→ back → 03\n→ Bitcoin → 10_Markets\n→ tabs"
+    },
+    {
+     "id": "4:69",
+     "name": "→ See all → 05_Home_Transactions → tabs",
+     "x": 520,
+     "y": 1927,
+     "text": "→ See all → 05_Home_Transactions\n→ tabs"
+    },
+    {
+     "id": "4:75",
+     "name": "LINKS",
+     "x": 952,
+     "y": 1958,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:76",
+     "name": "→ back → 03 → tabs",
+     "x": 952,
+     "y": 1984,
+     "text": "→ back → 03\n→ tabs"
+    },
+    {
+     "id": "4:78",
+     "name": "10_Markets",
+     "x": 88,
+     "y": 2094,
+     "text": "10_Markets"
+    },
+    {
+     "id": "4:85",
+     "name": "11_Send",
+     "x": 520,
+     "y": 2094,
+     "text": "11_Send"
+    },
+    {
+     "id": "4:79",
+     "name": "Goal: Check a coin's price and trade it.",
+     "x": 88,
+     "y": 2130,
+     "text": "Goal: Check a coin's price and trade it."
+    },
+    {
+     "id": "4:86",
+     "name": "Goal: Send money to a contact.",
+     "x": 520,
+     "y": 2130,
+     "text": "Goal: Send money to a contact."
+    },
+    {
+     "id": "4:80",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 2159,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:87",
+     "name": "MUST INCLUDE",
+     "x": 520,
+     "y": 2159,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:81",
+     "name": "• Actions: back · avatar · Sell · Buy • Coin: “Bitcoin” with logo (changeable) • Copy: “Markets” • History: “History” · See all · Solana / Bitcoin / Ethereum • Price: “Current price” $1,954.00 (+3.85%) • Price chart: candlesticks · price scale $1,000–$5,000 · times 08:00–24:00 • Range: 1H 2H 8H 1D 1W 1M 1Y · current: 1D",
+     "x": 88,
+     "y": 2185,
+     "text": "• Actions: back · avatar · Sell · Buy\n• Coin: “Bitcoin” with logo (changeable)\n• Copy: “Markets”\n• History: “History” · See all · Solana / Bitcoin / Ethereum\n• Price: “Current price” $1,954.00 (+3.85%)\n• Price chart: candlesticks · price scale $1,000–$5,000 · times 08:00–24:00\n• Range: 1H 2H 8H 1D 1W 1M 1Y · current: 1D"
+    },
+    {
+     "id": "4:88",
+     "name": "• Actions: back · avatar · Send • Amount: $500.00 • Copy: “Send” • Number pad: 1–9, “.”, 0, backspace • Recipient: Bessie Cooper · avatar · card **** **** **** 8820 · option to change recipient",
+     "x": 520,
+     "y": 2185,
+     "text": "• Actions: back · avatar · Send\n• Amount: $500.00\n• Copy: “Send”\n• Number pad: 1–9, “.”, 0, backspace\n• Recipient: Bessie Cooper · avatar · card **** **** **** 8820 · option to change recipient"
+    },
+    {
+     "id": "4:89",
+     "name": "LINKS",
+     "x": 520,
+     "y": 2309,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:90",
+     "name": "→ back → 03 → Send → 03_Home_My_Balance",
+     "x": 520,
+     "y": 2335,
+     "text": "→ back → 03\n→ Send → 03_Home_My_Balance"
+    },
+    {
+     "id": "4:82",
+     "name": "LINKS",
+     "x": 88,
+     "y": 2347,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:83",
+     "name": "→ back → 07_Cards",
+     "x": 88,
+     "y": 2373,
+     "text": "→ back → 07_Cards"
+    },
+    {
+     "id": "4:92",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 2472,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "4:93",
+     "name": "• Onboarding: 01_Sign_Up → 02_OTP → 03_Home_My_Balance. • Home has three views of one screen, switched in place: My Balance (03), Upcoming Bills (04), Transactions (05). All three share the same account area (avatar, greeting, messages, notifications). • Main navigation on 03, 04, 05, 07, 08, 09 — four tabs in this order: Home (Icon_Home) → 03 · Analytics (Icon_Analytics) → 09 · Cards (Icon_Cards) → 07 · Profile (Icon_Profile) → 08. The current tab must match the frame. How it looks is yours. • Pushed screens with back: 02, 06, 07, 08, 09, 10, 11. 06, 10 and 11 have no main navigation. • There is no Receive, notifications or payment-success screen — do not add frames beyond the 11.",
+     "x": 64,
+     "y": 2520,
+     "text": "• Onboarding: 01_Sign_Up → 02_OTP → 03_Home_My_Balance.\n• Home has three views of one screen, switched in place: My Balance (03), Upcoming Bills (04), Transactions (05). All three share the same account area (avatar, greeting, messages, notifications).\n• Main navigation on 03, 04, 05, 07, 08, 09 — four tabs in this order: Home (Icon_Home) → 03 · Analytics (Icon_Analytics) → 09 · Cards (Icon_Cards) → 07 · Profile (Icon_Profile) → 08. The current tab must match the frame. How it looks is yours.\n• Pushed screens with back: 02, 06, 07, 08, 09, 10, 11. 06, 10 and 11 have no main navigation.\n• There is no Receive, notifications or payment-success screen — do not add frames beyond the 11."
+    },
+    {
+     "id": "4:95",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 2716,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "4:96",
+     "name": "Use these values verbatim. Amounts: “+” = money in, “-” = money out.",
+     "x": 64,
+     "y": 2764,
+     "text": "Use these values verbatim. Amounts: “+” = money in, “-” = money out."
+    },
+    {
+     "id": "4:99",
+     "name": "User & balance",
+     "x": 89,
+     "y": 2821,
+     "text": "User & balance"
+    },
+    {
+     "id": "4:102",
+     "name": "Transfer list",
+     "x": 737,
+     "y": 2821,
+     "text": "Transfer list"
+    },
+    {
+     "id": "4:100",
+     "name": "Esaaa Warden · greeting “Hi, Esaaa!” · avatar = Avatar_Neutral Phone: +62 (Indonesia) 858 2409 3560 Today: Aug 20, 2023 · currency USD “Your Balance” $190,008.03 · +8% · currency selector USD (Flag_USA)",
+     "x": 89,
+     "y": 2853,
+     "text": "Esaaa Warden · greeting “Hi, Esaaa!” · avatar = Avatar_Neutral\nPhone: +62 (Indonesia) 858 2409 3560\nToday: Aug 20, 2023 · currency USD\n“Your Balance” $190,008.03 · +8% · currency selector USD (Flag_USA)"
+    },
+    {
+     "id": "4:103",
+     "name": "Add contact, then: Bessie Cooper, Devon Lane, Eleanor Pena, Jenny Wilson, Cody Fisher",
+     "x": 737,
+     "y": 2853,
+     "text": "Add contact, then: Bessie Cooper, Devon Lane, Eleanor Pena, Jenny Wilson, Cody Fisher"
+    },
+    {
+     "id": "4:105",
+     "name": "Financial health",
+     "x": 89,
+     "y": 2995,
+     "text": "Financial health"
+    },
+    {
+     "id": "4:108",
+     "name": "Upcoming bills (soonest first)",
+     "x": 737,
+     "y": 2995,
+     "text": "Upcoming bills (soonest first)"
+    },
+    {
+     "id": "4:106",
+     "name": "“Latest 7 days” · spend per day · axis 10K–50K Mon 24K · Tue 35K · Wed 45K · Thu 22K · Fri 34K · Sat 18K · Sun 30K",
+     "x": 89,
+     "y": 3027,
+     "text": "“Latest 7 days” · spend per day · axis 10K–50K\nMon 24K · Tue 35K · Wed 45K · Thu 22K · Fri 34K · Sat 18K · Sun 30K"
+    },
+    {
+     "id": "4:109",
+     "name": "Line Messenger (Logo_Line) · $21.00 · due Sep 05, 2023 · 1 month · Subscriptions · Pay now Adobe XD (Logo_Adobe_XD) · $126.02 · due Sep 19, 2023 · 1 month · Subscriptions · Pay now Netflix (Logo_Netflix) · $932.53 · due Jul 08, 2024 · 1 year · Subscriptions · Pay now Bill actions: Add · Edit · Delete",
+     "x": 737,
+     "y": 3027,
+     "text": "Line Messenger (Logo_Line) · $21.00 · due Sep 05, 2023 · 1 month · Subscriptions · Pay now\nAdobe XD (Logo_Adobe_XD) · $126.02 · due Sep 19, 2023 · 1 month · Subscriptions · Pay now\nNetflix (Logo_Netflix) · $932.53 · due Jul 08, 2024 · 1 year · Subscriptions · Pay now\nBill actions: Add · Edit · Delete"
+    },
+    {
+     "id": "4:111",
+     "name": "Transactions (newest first)",
+     "x": 89,
+     "y": 3169,
+     "text": "Transactions (newest first)"
+    },
+    {
+     "id": "4:114",
+     "name": "Cards",
+     "x": 737,
+     "y": 3169,
+     "text": "Cards"
+    },
+    {
+     "id": "4:112",
+     "name": "Aug 19, 2023 · PayPal (Logo_PayPal) · Transferred · -$123.00 Jul 20, 2023 · DANA (Logo_DANA) · Transferred · -$12.00 May 08, 2023 · Google Play (Logo_Google_Play) · Refund · +$234.00 Feb 28, 2023 · Shopee (Logo_Shopee) · Refund · +$15.00 Jan 25, 2023 · Apple (Logo_Apple) · Payment · -$92.00 Jan 16, 2023 · Spotify (Logo_Spotify) · Payment · -$20.00 Show latest 3 where a screen asks for “latest 3”.",
+     "x": 89,
+     "y": 3201,
+     "text": "Aug 19, 2023 · PayPal (Logo_PayPal) · Transferred · -$123.00\nJul 20, 2023 · DANA (Logo_DANA) · Transferred · -$12.00\nMay 08, 2023 · Google Play (Logo_Google_Play) · Refund · +$234.00\nFeb 28, 2023 · Shopee (Logo_Shopee) · Refund · +$15.00\nJan 25, 2023 · Apple (Logo_Apple) · Payment · -$92.00\nJan 16, 2023 · Spotify (Logo_Spotify) · Payment · -$20.00\nShow latest 3 where a screen asks for “latest 3”."
+    },
+    {
+     "id": "4:115",
+     "name": "Card_Art_Green · Esaaa Warden · **** **** **** 3447 · Exp 09/24 · primary Card_Art_Pink · Esaaa Warden · **** **** **** 8821 · Exp 03/26 Card_Art_Purple · Esaaa Warden · **** **** **** 5104 · Exp 11/25",
+     "x": 737,
+     "y": 3201,
+     "text": "Card_Art_Green · Esaaa Warden · **** **** **** 3447 · Exp 09/24 · primary\nCard_Art_Pink · Esaaa Warden · **** **** **** 8821 · Exp 03/26\nCard_Art_Purple · Esaaa Warden · **** **** **** 5104 · Exp 11/25"
+    },
+    {
+     "id": "4:117",
+     "name": "Assets",
+     "x": 89,
+     "y": 3400,
+     "text": "Assets"
+    },
+    {
+     "id": "4:120",
+     "name": "Analytics",
+     "x": 737,
+     "y": 3400,
+     "text": "Analytics"
+    },
+    {
+     "id": "4:118",
+     "name": "Solana · SOL · $12,094.08 (Crypto_Solana) Bitcoin · BTC · $17,238.11 (Crypto_Bitcoin) Ethereum · ETH · $8,200.00 (Crypto_Ethereum)",
+     "x": 89,
+     "y": 3432,
+     "text": "Solana · SOL · $12,094.08 (Crypto_Solana)\nBitcoin · BTC · $17,238.11 (Crypto_Bitcoin)\nEthereum · ETH · $8,200.00 (Crypto_Ethereum)"
+    },
+    {
+     "id": "4:121",
+     "name": "Total income $29,231.03 · Total expenses $1,999.00 Switch: Income (selected) / Expenses · Period: Monthly Sales $15,190.00 · 52% Investment $11,451.03 · 39% Other $2,590.00 · 9% Headline share: 52% (Sales)",
+     "x": 737,
+     "y": 3432,
+     "text": "Total income $29,231.03 · Total expenses $1,999.00\nSwitch: Income (selected) / Expenses · Period: Monthly\nSales $15,190.00 · 52%\nInvestment $11,451.03 · 39%\nOther $2,590.00 · 9%\nHeadline share: 52% (Sales)"
+    },
+    {
+     "id": "4:123",
+     "name": "Markets",
+     "x": 89,
+     "y": 3612,
+     "text": "Markets"
+    },
+    {
+     "id": "4:126",
+     "name": "Send",
+     "x": 737,
+     "y": 3612,
+     "text": "Send"
+    },
+    {
+     "id": "4:124",
+     "name": "Bitcoin · “Current price” $1,954.00 (+3.85%) Ranges 1H 2H 8H 1D 1W 1M 1Y · selected 1D Candlestick · y $1,000–$5,000 · x 08:00 10:00 12:00 15:00 18:00 21:00 24:00 “History” + See all: Solana, Bitcoin, Ethereum · actions Sell / Buy",
+     "x": 89,
+     "y": 3644,
+     "text": "Bitcoin · “Current price” $1,954.00 (+3.85%)\nRanges 1H 2H 8H 1D 1W 1M 1Y · selected 1D\nCandlestick · y $1,000–$5,000 · x 08:00 10:00 12:00 15:00 18:00 21:00 24:00\n“History” + See all: Solana, Bitcoin, Ethereum · actions Sell / Buy"
+    },
+    {
+     "id": "4:127",
+     "name": "Recipient Bessie Cooper · **** **** **** 8820 · amount $500.00 Keypad 1–9, “.”, 0, backspace · button “Send”",
+     "x": 737,
+     "y": 3644,
+     "text": "Recipient Bessie Cooper · **** **** **** 8820 · amount $500.00\nKeypad 1–9, “.”, 0, backspace · button “Send”"
+    },
+    {
+     "id": "4:129",
+     "name": "Discussion forum",
+     "x": 89,
+     "y": 3786,
+     "text": "Discussion forum"
+    },
+    {
+     "id": "4:132",
+     "name": "Sign up & OTP",
+     "x": 737,
+     "y": 3786,
+     "text": "Sign up & OTP"
+    },
+    {
+     "id": "4:130",
+     "name": "Search placeholder “Search...” · Filter Topics: Personal Finance (selected) / Investments / Cryptocurrencies Devon Lane (verified) · Personal finance · Jan 18, 2023 · 11:00 AM · liked “FindBuddy is a comprehensive personal finance app that allows you to track and manage your spending, create budgets, and set financial goals. It also provides a visual representation of your financial health.” 12 Comments · 160 Likes · 0 Dislikes Eleanor Pena (verified) · Personal finance · Jan 18, 2023 · 11:00 AM “Personal Capital is not only a budgeting tool but also an investment tracker. It provides a holistic view of your financial situation by combining budgeting and investment tracking features.” 12 Comments · 160 Likes · 0 Dislikes",
+     "x": 89,
+     "y": 3818,
+     "text": "Search placeholder “Search...” · Filter\nTopics: Personal Finance (selected) / Investments / Cryptocurrencies\n\nDevon Lane (verified) · Personal finance · Jan 18, 2023 · 11:00 AM · liked\n“FindBuddy is a comprehensive personal finance app that allows you to track and manage your spending, create budgets, and set financial goals. It also provides a visual representation of your financial health.”\n12 Comments · 160 Likes · 0 Dislikes\n\nEleanor Pena (verified) · Personal finance · Jan 18, 2023 · 11:00 AM\n“Personal Capital is not only a budgeting tool but also an investment tracker. It provides a holistic view of your financial situation by combining budgeting and investment tracking features.”\n12 Comments · 160 Likes · 0 Dislikes"
+    },
+    {
+     "id": "4:133",
+     "name": "Sign up: “Sign up with phone number” · helper “A code will be sent to your number” · Continue Legal: “By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use.” (Terms of Service, Privacy Policy as links) OTP: “Enter code” · 4 digits · “Resend code” · Continue",
+     "x": 737,
+     "y": 3818,
+     "text": "Sign up: “Sign up with phone number” · helper “A code will be sent to your number” · Continue\nLegal: “By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use.” (Terms of Service, Privacy Policy as links)\nOTP: “Enter code” · 4 digits · “Resend code” · Continue"
+    },
+    {
+     "id": "4:135",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 4161,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "4:138",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 4229,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "4:141",
+     "name": "Yours (designer decides)",
+     "x": 736,
+     "y": 4229,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "4:139",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand primary color + Plus Jakarta Sans • Media: logos, card artwork, flags, icons, neutral avatar • Default Button, default Text Field, platform shell",
+     "x": 88,
+     "y": 4261,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand primary color + Plus Jakarta Sans\n• Media: logos, card artwork, flags, icons, neutral avatar\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "4:142",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, surfaces, semantic and chart colors • Type scale, spacing, radii, elevation • All states: selected, pressed, disabled, error, liked, destructive • Headers, main navigation and all business components • Chart styling (bars, breakdown, candlesticks)",
+     "x": 736,
+     "y": 4261,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, surfaces, semantic and chart colors\n• Type scale, spacing, radii, elevation\n• All states: selected, pressed, disabled, error, liked, destructive\n• Headers, main navigation and all business components\n• Chart styling (bars, breakdown, candlesticks)"
+    },
+    {
+     "id": "4:144",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 4470,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "4:145",
+     "name": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference.",
+     "x": 64,
+     "y": 4518,
+     "text": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference."
+    },
+    {
+     "id": "4:146",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (selected tabs and switches, liked post, empty code inputs, signed amounts)",
+     "x": 64,
+     "y": 4554,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (selected tabs and switches, liked post, empty code inputs, signed amounts)"
+    },
+    {
+     "id": "4:147",
+     "name": "Deliverable: the link to your own Figma file containing the 11 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 4710,
+     "text": "Deliverable: the link to your own Figma file containing the 11 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "3:4",
+     "name": "Foundations · Balance",
+     "x": 64,
+     "y": 64,
+     "text": "Foundations · Balance"
+    },
+    {
+     "id": "3:5",
+     "name": "Fixed: the brand primary color and the typeface below — they carry the Balance identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, semantic colors (success, error, warning, disabled), supporting and chart colors, type scale, weights per role, spacing, radii and elevation.",
+     "x": 64,
+     "y": 111,
+     "text": "Fixed: the brand primary color and the typeface below — they carry the Balance identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, semantic colors (success, error, warning, disabled), supporting and chart colors, type scale, weights per role, spacing, radii and elevation."
+    },
+    {
+     "id": "3:7",
+     "name": "Brand color",
+     "x": 64,
+     "y": 193,
+     "text": "Brand color"
+    },
+    {
+     "id": "3:11",
+     "name": "Brand primary",
+     "x": 64,
+     "y": 343,
+     "text": "Brand primary"
+    },
+    {
+     "id": "3:12",
+     "name": "#BFB7FD",
+     "x": 64,
+     "y": 370,
+     "text": "#BFB7FD"
+    },
+    {
+     "id": "3:13",
+     "name": "The Balance brand color. Where and how much to use it is your decision.",
+     "x": 64,
+     "y": 396,
+     "text": "The Balance brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "3:45",
+     "name": "Typeface",
+     "x": 64,
+     "y": 489,
+     "text": "Typeface"
+    },
+    {
+     "id": "3:47",
+     "name": "Plus Jakarta Sans",
+     "x": 96,
+     "y": 561,
+     "text": "Plus Jakarta Sans"
+    },
+    {
+     "id": "3:48",
+     "name": "Aa Bb Cc 0123456789 $190,008.03 +8%",
+     "x": 96,
+     "y": 623,
+     "text": "Aa Bb Cc 0123456789  $190,008.03  +8%"
+    },
+    {
+     "id": "3:49",
+     "name": "Use Plus Jakarta Sans for all UI text (Regular / Medium / SemiBold available).",
+     "x": 96,
+     "y": 665,
+     "text": "Use Plus Jakarta Sans for all UI text (Regular / Medium / SemiBold available)."
+    },
+    {
+     "id": "3:51",
+     "name": "Canvas: 375 × 812 (iPhone). Light mode only.",
+     "x": 64,
+     "y": 729,
+     "text": "Canvas: 375 × 812 (iPhone). Light mode only."
+    }
+   ]
+  }
+ ]
+}

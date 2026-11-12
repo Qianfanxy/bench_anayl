@@ -1,0 +1,27 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×2450",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×4",
+        "text×4"
+      ],
+      "names": [
+        "Header",
+        "Hero / introduction",
+        "Tech stack",
+        "Projects section",
+        "Projects",
+        "01 / SELECTED WORK"
+      ]
+    }
+  ]
+}

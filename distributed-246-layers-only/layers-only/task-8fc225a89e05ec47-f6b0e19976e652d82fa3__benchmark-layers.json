@@ -1,0 +1,181 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4910",
+      "nodes": 132,
+      "max_depth": 2,
+      "instances": 46,
+      "texts": 67,
+      "images": 0,
+      "types": [
+        "text×67",
+        "instance×46",
+        "frame×19"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Home",
+        "Blog",
+        "About Us",
+        "Contact us"
+      ]
+    },
+    {
+      "name": "02_Blog",
+      "size": "1440×3600",
+      "nodes": 72,
+      "max_depth": 2,
+      "instances": 19,
+      "texts": 45,
+      "images": 0,
+      "types": [
+        "text×45",
+        "instance×19",
+        "frame×8"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Home",
+        "Blog",
+        "About Us",
+        "Contact us"
+      ]
+    },
+    {
+      "name": "03_Blog_Post",
+      "size": "1440×3942",
+      "nodes": 56,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 39,
+      "images": 0,
+      "types": [
+        "text×39",
+        "instance×14",
+        "frame×3"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Home",
+        "Blog",
+        "About Us",
+        "Contact us"
+      ]
+    },
+    {
+      "name": "04_About_Us",
+      "size": "1440×3960",
+      "nodes": 117,
+      "max_depth": 2,
+      "instances": 51,
+      "texts": 53,
+      "images": 0,
+      "types": [
+        "text×53",
+        "instance×51",
+        "frame×13"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Home",
+        "Blog",
+        "About Us",
+        "Contact us"
+      ]
+    },
+    {
+      "name": "05_Category_Business",
+      "size": "1440×2200",
+      "nodes": 63,
+      "max_depth": 2,
+      "instances": 15,
+      "texts": 40,
+      "images": 0,
+      "types": [
+        "text×40",
+        "instance×15",
+        "frame×8"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Home",
+        "Blog",
+        "About Us",
+        "Contact us"
+      ]
+    },
+    {
+      "name": "06_Author",
+      "size": "1440×1930",
+      "nodes": 40,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "text×22",
+        "instance×14",
+        "frame×4"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Home",
+        "Blog",
+        "About Us",
+        "Contact us"
+      ]
+    },
+    {
+      "name": "07_Contact",
+      "size": "1440×1700",
+      "nodes": 39,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 23,
+      "images": 0,
+      "types": [
+        "text×23",
+        "instance×12",
+        "frame×4"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Home",
+        "Blog",
+        "About Us",
+        "Contact us"
+      ]
+    },
+    {
+      "name": "08_Privacy_Policy",
+      "size": "1440×1785",
+      "nodes": 31,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "text×20",
+        "instance×7",
+        "frame×4"
+      ],
+      "names": [
+        "Header",
+        "{Inkline",
+        "Home",
+        "Blog",
+        "About Us",
+        "Contact us"
+      ]
+    }
+  ]
+}

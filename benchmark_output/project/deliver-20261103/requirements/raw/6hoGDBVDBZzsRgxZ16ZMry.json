@@ -1,0 +1,620 @@
+{
+ "file_key": "6hoGDBVDBZzsRgxZ16ZMry",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "2:4",
+     "name": "DESIGNER STARTER / FOODGO · LEVEL L2 · v2",
+     "x": 56,
+     "y": 48,
+     "text": "DESIGNER STARTER / FOODGO · LEVEL L2 · v2"
+    },
+    {
+     "id": "2:5",
+     "name": "Complete mobile product design",
+     "x": 56,
+     "y": 87,
+     "text": "Complete mobile product design"
+    },
+    {
+     "id": "2:6",
+     "name": "Content, structure, the two brand colors and typefaces are fixed. Layout, hierarchy, all other colors, states, components and visual system are yours.",
+     "x": 56,
+     "y": 162,
+     "text": "Content, structure, the two brand colors and typefaces are fixed. Layout, hierarchy, all other colors, states, components and visual system are yours."
+    },
+    {
+     "id": "2:9",
+     "name": "THE ASSIGNMENT",
+     "x": 56,
+     "y": 289,
+     "text": "THE ASSIGNMENT"
+    },
+    {
+     "id": "2:10",
+     "name": "Design the complete Foodgo burger-ordering app: browse the menu, inspect a burger, customize it, pay, and get support or manage the profile.",
+     "x": 56,
+     "y": 329,
+     "text": "Design the complete Foodgo burger-ordering app: browse the menu, inspect a burger, customize it, pay, and get support or manage the profile."
+    },
+    {
+     "id": "2:11",
+     "name": "English interface / US dollars ($) / one signed-in customer: Sophia Patel. Base viewport 430 × 932 for every frame; Home and Customize may scroll vertically.",
+     "x": 56,
+     "y": 363,
+     "text": "English interface / US dollars ($) / one signed-in customer: Sophia Patel. Base viewport 430 × 932 for every frame; Home and Customize may scroll vertically."
+    },
+    {
+     "id": "2:12",
+     "name": "FIXED by this brief: frame list & names, the content each frame must contain (what, not how), navigation structure, all data and copy, the two brand colors (red #EF2A39, dark brown #3C2F2F), typefaces (Lobster logotype + Roboto), media, a default Button, a default Text Field and the platform shell.",
+     "x": 56,
+     "y": 397,
+     "text": "FIXED by this brief: frame list & names, the content each frame must contain (what, not how), navigation structure, all data and copy, the two brand colors (red #EF2A39, dark brown #3C2F2F), typefaces (Lobster logotype + Roboto), media, a default Button, a default Text Field and the platform shell."
+    },
+    {
+     "id": "2:13",
+     "name": "YOURS to decide: layout, grouping, order and emphasis on every screen; all other colors (neutrals, text, surfaces, rating, semantic); type scale, spacing, radii, elevation; all states (selected, favourited, added, checked, pressed, disabled, focused, destructive); headers, bottom navigation, dialogs and every business component.",
+     "x": 56,
+     "y": 455,
+     "text": "YOURS to decide: layout, grouping, order and emphasis on every screen; all other colors (neutrals, text, surfaces, rating, semantic); type scale, spacing, radii, elevation; all states (selected, favourited, added, checked, pressed, disabled, focused, destructive); headers, bottom navigation, dialogs and every business component."
+    },
+    {
+     "id": "2:15",
+     "name": "FRAMES TO DELIVER (11) — USE THESE EXACT NAMES",
+     "x": 56,
+     "y": 543,
+     "text": "FRAMES TO DELIVER (11) — USE THESE EXACT NAMES"
+    },
+    {
+     "id": "2:16",
+     "name": "01_Splash · 02_Home · 03_Product_Cheeseburger · 04_Product_Veggie · 05_Product_Chicken · 06_Product_Fried_Chicken ·",
+     "x": 56,
+     "y": 583,
+     "text": "01_Splash · 02_Home · 03_Product_Cheeseburger · 04_Product_Veggie · 05_Product_Chicken · 06_Product_Fried_Chicken ·"
+    },
+    {
+     "id": "2:17",
+     "name": "07_Customize · 08_Payment · 09_Payment_Success_Overlay · 10_Profile · 11_Support_Chat. One frame per state.",
+     "x": 56,
+     "y": 617,
+     "text": "07_Customize · 08_Payment · 09_Payment_Success_Overlay · 10_Profile · 11_Support_Chat. One frame per state."
+    },
+    {
+     "id": "2:19",
+     "name": "FRAME-BY-FRAME CHECKLIST",
+     "x": 56,
+     "y": 681,
+     "text": "FRAME-BY-FRAME CHECKLIST"
+    },
+    {
+     "id": "49:144",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks. Layout, grouping, emphasis and styling are your decisions.",
+     "x": 56,
+     "y": 733,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks. Layout, grouping, emphasis and styling are your decisions."
+    },
+    {
+     "id": "2:21",
+     "name": "01_Splash",
+     "x": 76,
+     "y": 815,
+     "text": "01_Splash"
+    },
+    {
+     "id": "2:22",
+     "name": "Goal: brand recognition while the app loads.",
+     "x": 76,
+     "y": 845,
+     "text": "Goal: brand recognition while the app loads."
+    },
+    {
+     "id": "2:23",
+     "name": "Must include: • Brand: Foodgo wordmark • Media: Splash_Burger_Stack",
+     "x": 76,
+     "y": 872,
+     "text": "Must include:\n• Brand: Foodgo wordmark\n• Media: Splash_Burger_Stack"
+    },
+    {
+     "id": "2:24",
+     "name": "Links: auto-advances to 02_Home.",
+     "x": 76,
+     "y": 945,
+     "text": "Links: auto-advances to 02_Home."
+    },
+    {
+     "id": "2:26",
+     "name": "02_Home",
+     "x": 76,
+     "y": 1018,
+     "text": "02_Home"
+    },
+    {
+     "id": "2:27",
+     "name": "Goal: find a burger fast — by search, category or browsing.",
+     "x": 76,
+     "y": 1048,
+     "text": "Goal: find a burger fast — by search, category or browsing."
+    },
+    {
+     "id": "2:28",
+     "name": "Must include: • Account: avatar • Brand: Foodgo wordmark · “Order your favourite food!” • Categories: All / Combos / Sliders / Classic · current: All • Main navigation: current tab Home · Add entry • Menu: 4 items, each with image, category, name, rating and favourite toggle · Cheeseburger Wendy’s Burger is a favourite • Search & filter: search “Search” · filter entry",
+     "x": 76,
+     "y": 1075,
+     "text": "Must include:\n• Account: avatar\n• Brand: Foodgo wordmark · “Order your favourite food!”\n• Categories: All / Combos / Sliders / Classic · current: All\n• Main navigation: current tab Home · Add entry\n• Menu: 4 items, each with image, category, name, rating and favourite toggle · Cheeseburger Wendy’s Burger is a favourite\n• Search & filter: search “Search” · filter entry"
+    },
+    {
+     "id": "2:29",
+     "name": "Links: each menu item → its product frame (03–06); Profile tab → 10_Profile; Support tab → 11_Support_Chat.",
+     "x": 76,
+     "y": 1240,
+     "text": "Links: each menu item → its product frame (03–06); Profile tab → 10_Profile; Support tab → 11_Support_Chat."
+    },
+    {
+     "id": "2:31",
+     "name": "03–06_Product_* (4 frames, same structure)",
+     "x": 76,
+     "y": 1313,
+     "text": "03–06_Product_* (4 frames, same structure)"
+    },
+    {
+     "id": "2:32",
+     "name": "Goal: judge a burger and choose spice level and portions before ordering.",
+     "x": 76,
+     "y": 1343,
+     "text": "Goal: judge a burger and choose spice level and portions before ordering."
+    },
+    {
+     "id": "2:33",
+     "name": "Must include: • Actions: back · search · Order Now • Burger: image · full name · rating · preparation time · description • Portion: current portion, can be decreased / increased • Price: price for the current portion • Spicy: level from Mild to Hot · current level Data per burger: see DATA.",
+     "x": 76,
+     "y": 1370,
+     "text": "Must include:\n• Actions: back · search · Order Now\n• Burger: image · full name · rating · preparation time · description\n• Portion: current portion, can be decreased / increased\n• Price: price for the current portion\n• Spicy: level from Mild to Hot · current level\nData per burger: see DATA."
+    },
+    {
+     "id": "2:34",
+     "name": "Links: back → 02_Home; Order Now on 03_Product_Cheeseburger → 07_Customize (Order Now on 04–06 is entry only).",
+     "x": 76,
+     "y": 1535,
+     "text": "Links: back → 02_Home; Order Now on 03_Product_Cheeseburger → 07_Customize (Order Now on 04–06 is entry only)."
+    },
+    {
+     "id": "2:36",
+     "name": "07_Customize",
+     "x": 76,
+     "y": 1608,
+     "text": "07_Customize"
+    },
+    {
+     "id": "2:37",
+     "name": "Goal: personalize the Cheeseburger Wendy’s Burger and see the total before paying.",
+     "x": 76,
+     "y": 1638,
+     "text": "Goal: personalize the Cheeseburger Wendy’s Burger and see the total before paying."
+    },
+    {
+     "id": "2:38",
+     "name": "Must include: • Actions: back · search · Order Now • Add-ons: “Toppings” Tomato, Onions, Pickles, Bacon, Cheese, Mushroom, Avocado · “Side options” Fries, Coleslaw, Salad, Onion Rings, Mozzarella Sticks · each can be added or removed · added: Tomato, Cheese, Fries • Copy: “Customize Your Burger to Your Tastes. Ultimate Experience” • Media: Burger_Exploded_Custom • Portion: 2, can be decreased / increased • Spicy: level from Mild to Hot · current level • Total: $16.48",
+     "x": 76,
+     "y": 1665,
+     "text": "Must include:\n• Actions: back · search · Order Now\n• Add-ons: “Toppings” Tomato, Onions, Pickles, Bacon, Cheese, Mushroom, Avocado · “Side options” Fries, Coleslaw, Salad, Onion Rings, Mozzarella Sticks · each can be added or removed · added: Tomato, Cheese, Fries\n• Copy: “Customize Your Burger to Your Tastes. Ultimate Experience”\n• Media: Burger_Exploded_Custom\n• Portion: 2, can be decreased / increased\n• Spicy: level from Mild to Hot · current level\n• Total: $16.48"
+    },
+    {
+     "id": "2:39",
+     "name": "Links: back → 03_Product_Cheeseburger; Order Now → 08_Payment.",
+     "x": 76,
+     "y": 1876,
+     "text": "Links: back → 03_Product_Cheeseburger; Order Now → 08_Payment."
+    },
+    {
+     "id": "2:41",
+     "name": "08_Payment",
+     "x": 76,
+     "y": 1949,
+     "text": "08_Payment"
+    },
+    {
+     "id": "2:42",
+     "name": "Goal: verify the order cost and pay with a saved card.",
+     "x": 76,
+     "y": 1979,
+     "text": "Goal: verify the order cost and pay with a saved card."
+    },
+    {
+     "id": "2:43",
+     "name": "Must include: • Actions: back · search · Pay Now • Order summary: “Order summary” · Order $16.48 · Taxes $0.30 · Delivery fees $1.50 · Total $18.28 · Estimated delivery time 15–30 mins • Payment methods: “Payment methods” · Credit card (Mastercard, 5105 **** **** 0505) · Debit card (Visa, 3566 **** **** 0505) · only one can be chosen · current: Credit card • Save card: “Save card details for future payments” · on • Total price: $18.28",
+     "x": 76,
+     "y": 2006,
+     "text": "Must include:\n• Actions: back · search · Pay Now\n• Order summary: “Order summary” · Order $16.48 · Taxes $0.30 · Delivery fees $1.50 · Total $18.28 · Estimated delivery time 15–30 mins\n• Payment methods: “Payment methods” · Credit card (Mastercard, 5105 **** **** 0505) · Debit card (Visa, 3566 **** **** 0505) · only one can be chosen · current: Credit card\n• Save card: “Save card details for future payments” · on\n• Total price: $18.28"
+    },
+    {
+     "id": "2:44",
+     "name": "Links: back → 07_Customize; Pay Now → 09_Payment_Success_Overlay.",
+     "x": 76,
+     "y": 2148,
+     "text": "Links: back → 07_Customize; Pay Now → 09_Payment_Success_Overlay."
+    },
+    {
+     "id": "2:46",
+     "name": "09_Payment_Success_Overlay",
+     "x": 76,
+     "y": 2221,
+     "text": "09_Payment_Success_Overlay"
+    },
+    {
+     "id": "2:47",
+     "name": "Goal: confirm the payment unambiguously.",
+     "x": 76,
+     "y": 2251,
+     "text": "Goal: confirm the payment unambiguously."
+    },
+    {
+     "id": "2:48",
+     "name": "Must include: • Actions: Go Back • Copy: “Success!” · “Your payment was successful. A receipt for this purchase has been sent to your email.” • Presentation: dialog over 08_Payment; Payment stays behind it • Status: success mark",
+     "x": 76,
+     "y": 2278,
+     "text": "Must include:\n• Actions: Go Back\n• Copy: “Success!” · “Your payment was successful. A receipt for this purchase has been sent to your email.”\n• Presentation: dialog over 08_Payment; Payment stays behind it\n• Status: success mark"
+    },
+    {
+     "id": "2:49",
+     "name": "Links: Go Back → 02_Home.",
+     "x": 76,
+     "y": 2397,
+     "text": "Links: Go Back → 02_Home."
+    },
+    {
+     "id": "2:51",
+     "name": "10_Profile",
+     "x": 76,
+     "y": 2470,
+     "text": "10_Profile"
+    },
+    {
+     "id": "2:52",
+     "name": "Goal: review account details and reach account actions.",
+     "x": 76,
+     "y": 2500,
+     "text": "Goal: review account details and reach account actions."
+    },
+    {
+     "id": "2:53",
+     "name": "Must include: • Account: avatar · Delivery address 123 Main St, Apartment 4A, New York, NY · Email sophiapatel@gmail.com · Name Sophia Patel · Password (masked, locked) • Actions: back · settings · Edit Profile · Log out • Entries: Order history · Payment Details",
+     "x": 76,
+     "y": 2527,
+     "text": "Must include:\n• Account: avatar · Delivery address 123 Main St, Apartment 4A, New York, NY · Email sophiapatel@gmail.com · Name Sophia Patel · Password (masked, locked)\n• Actions: back · settings · Edit Profile · Log out\n• Entries: Order history · Payment Details"
+    },
+    {
+     "id": "2:54",
+     "name": "Links: back → 02_Home.",
+     "x": 76,
+     "y": 2623,
+     "text": "Links: back → 02_Home."
+    },
+    {
+     "id": "2:56",
+     "name": "11_Support_Chat",
+     "x": 76,
+     "y": 2696,
+     "text": "11_Support_Chat"
+    },
+    {
+     "id": "2:57",
+     "name": "Goal: get a delivery update from support.",
+     "x": 76,
+     "y": 2726,
+     "text": "Goal: get a delivery update from support."
+    },
+    {
+     "id": "2:58",
+     "name": "Must include: • Actions: back · menu · send • Conversation: 7 items in the order given in DATA — each message from the agent or the customer · timestamp “26 minutes ago” after the agent’s third message • Input: “Type here...”",
+     "x": 76,
+     "y": 2753,
+     "text": "Must include:\n• Actions: back · menu · send\n• Conversation: 7 items in the order given in DATA — each message from the agent or the customer · timestamp “26 minutes ago” after the agent’s third message\n• Input: “Type here...”"
+    },
+    {
+     "id": "2:59",
+     "name": "Links: back → 02_Home.",
+     "x": 76,
+     "y": 2849,
+     "text": "Links: back → 02_Home."
+    },
+    {
+     "id": "2:61",
+     "name": "STRUCTURE (FIXED)",
+     "x": 56,
+     "y": 2926,
+     "text": "STRUCTURE (FIXED)"
+    },
+    {
+     "id": "2:62",
+     "name": "Main navigation on 02_Home — in this order: Home → 02 · Profile → 10 · Support → 11 · Favourites (entry only), plus a central Add (entry only). The current tab must match the frame. How it looks is yours.",
+     "x": 56,
+     "y": 2966,
+     "text": "Main navigation on 02_Home — in this order: Home → 02 · Profile → 10 · Support → 11 · Favourites (entry only), plus a central Add (entry only). The current tab must match the frame. How it looks is yours."
+    },
+    {
+     "id": "2:63",
+     "name": "Order flow: Home → Product → Customize → Payment → Success dialog (over Payment) → Home. Product, Customize, Payment, Profile and Support use back navigation.",
+     "x": 56,
+     "y": 3024,
+     "text": "Order flow: Home → Product → Customize → Payment → Success dialog (over Payment) → Home. Product, Customize, Payment, Profile and Support use back navigation."
+    },
+    {
+     "id": "2:64",
+     "name": "Entry-only (no screen required): search, filter, Combos / Sliders / Classic results, settings, menu, Payment Details, Order history, Edit Profile, Log out, Order Now on 04–06.",
+     "x": 56,
+     "y": 3058,
+     "text": "Entry-only (no screen required): search, filter, Combos / Sliders / Classic results, settings, menu, Payment Details, Order history, Edit Profile, Log out, Order Now on 04–06."
+    },
+    {
+     "id": "2:66",
+     "name": "DATA & COPY (FIXED)",
+     "x": 56,
+     "y": 3122,
+     "text": "DATA & COPY (FIXED)"
+    },
+    {
+     "id": "2:67",
+     "name": "Customer: Sophia Patel · sophiapatel@gmail.com · 123 Main St, Apartment 4A, New York, NY. Use Avatar_Neutral wherever the customer appears.",
+     "x": 56,
+     "y": 3162,
+     "text": "Customer: Sophia Patel · sophiapatel@gmail.com · 123 Main St, Apartment 4A, New York, NY. Use Avatar_Neutral wherever the customer appears."
+    },
+    {
+     "id": "2:68",
+     "name": "Menu (category · name · rating · time · price per portion → portion shown on its product frame = price shown):",
+     "x": 56,
+     "y": 3196,
+     "text": "Menu (category · name · rating · time · price per portion → portion shown on its product frame = price shown):"
+    },
+    {
+     "id": "2:69",
+     "name": "Cheeseburger · Wendy’s Burger · 4.9 · 26 mins · $8.24 → portion 1 = $8.24 · Hamburger · Veggie Burger · 4.8 · 14 mins · $9.99 → portion 1 = $9.99",
+     "x": 56,
+     "y": 3230,
+     "text": "Cheeseburger · Wendy’s Burger · 4.9 · 26 mins · $8.24 → portion 1 = $8.24 · Hamburger · Veggie Burger · 4.8 · 14 mins · $9.99 → portion 1 = $9.99"
+    },
+    {
+     "id": "2:70",
+     "name": "Hamburger · Chicken Burger · 4.6 · 42 mins · $6.24 → portion 2 = $12.48 · Hamburger · Fried Chicken Burger · 4.5 · 14 mins · $6.75 → portion 4 = $27.00",
+     "x": 56,
+     "y": 3264,
+     "text": "Hamburger · Chicken Burger · 4.6 · 42 mins · $6.24 → portion 2 = $12.48 · Hamburger · Fried Chicken Burger · 4.5 · 14 mins · $6.75 → portion 4 = $27.00"
+    },
+    {
+     "id": "2:71",
+     "name": "Descriptions — Cheeseburger Wendy’s Burger: “A classic fast food burger that packs a punch of flavor in every bite: a juicy beef patty cooked to perfection, topped with melted American cheese, crispy lettuce, ripe tomato and crunchy pickles.”",
+     "x": 56,
+     "y": 3298,
+     "text": "Descriptions — Cheeseburger Wendy’s Burger: “A classic fast food burger that packs a punch of flavor in every bite: a juicy beef patty cooked to perfection, topped with melted American cheese, crispy lettuce, ripe tomato and crunchy pickles.”"
+    },
+    {
+     "id": "2:72",
+     "name": "Veggie: “A savory blend of fresh vegetables and herbs, topped with crisp lettuce, juicy tomatoes and tangy pickles, served on a soft, toasted bun.”",
+     "x": 56,
+     "y": 3356,
+     "text": "Veggie: “A savory blend of fresh vegetables and herbs, topped with crisp lettuce, juicy tomatoes and tangy pickles, served on a soft, toasted bun.”"
+    },
+    {
+     "id": "2:73",
+     "name": "Chicken: “A delicious and healthier alternative to traditional beef burgers, perfect for a lighter meal.”",
+     "x": 56,
+     "y": 3390,
+     "text": "Chicken: “A delicious and healthier alternative to traditional beef burgers, perfect for a lighter meal.”"
+    },
+    {
+     "id": "2:74",
+     "name": "Fried Chicken: “A juicy chicken patty, hand-breaded and deep-fried to perfection, served on a warm bun with lettuce, tomato and a creamy sauce.”",
+     "x": 56,
+     "y": 3424,
+     "text": "Fried Chicken: “A juicy chicken patty, hand-breaded and deep-fried to perfection, served on a warm bun with lettuce, tomato and a creamy sauce.”"
+    },
+    {
+     "id": "2:75",
+     "name": "Customize: add-ons are included at no extra cost; Total = 2 × $8.24 = $16.48. Payment: $16.48 + $0.30 + $1.50 = $18.28 (same total in summary and at Pay Now).",
+     "x": 56,
+     "y": 3458,
+     "text": "Customize: add-ons are included at no extra cost; Total = 2 × $8.24 = $16.48. Payment: $16.48 + $0.30 + $1.50 = $18.28 (same total in summary and at Pay Now)."
+    },
+    {
+     "id": "2:76",
+     "name": "Chat (A = agent, C = customer): A “Hi, how can I help you?” · C “Hello, I ordered two Cheeseburger Wendy’s Burgers. Can I know how long it will take to arrive?” · A “Ok, please let me check!” · C “Sure...” ·",
+     "x": 56,
+     "y": 3492,
+     "text": "Chat (A = agent, C = customer): A “Hi, how can I help you?” · C “Hello, I ordered two Cheeseburger Wendy’s Burgers. Can I know how long it will take to arrive?” · A “Ok, please let me check!” · C “Sure...” ·"
+    },
+    {
+     "id": "2:77",
+     "name": "A “It’ll take 25 minutes to arrive at your address.” · [26 minutes ago] · C “Ok, thank you for your support.”",
+     "x": 56,
+     "y": 3550,
+     "text": "A “It’ll take 25 minutes to arrive at your address.” · [26 minutes ago] · C “Ok, thank you for your support.”"
+    },
+    {
+     "id": "2:78",
+     "name": "The source file has inconsistent totals ($16.49 / $18.19), a mismatched order in chat and typos (“Bacons”, “thanks you”). Follow this brief, not the source.",
+     "x": 56,
+     "y": 3584,
+     "text": "The source file has inconsistent totals ($16.49 / $18.19), a mismatched order in chat and typos (“Bacons”, “thanks you”). Follow this brief, not the source."
+    },
+    {
+     "id": "2:80",
+     "name": "HANDOFF & EVALUATION",
+     "x": 56,
+     "y": 3648,
+     "text": "HANDOFF & EVALUATION"
+    },
+    {
+     "id": "2:81",
+     "name": "Copy Components and Media into your own new Figma file; do not edit, rename or delete anything in this starter file.",
+     "x": 56,
+     "y": 3688,
+     "text": "Copy Components and Media into your own new Figma file; do not edit, rename or delete anything in this starter file."
+    },
+    {
+     "id": "2:82",
+     "name": "Deliver all 11 frames with the exact names above, prototype links as listed, and your own reusable components. Submit your file link.",
+     "x": 56,
+     "y": 3722,
+     "text": "Deliver all 11 frames with the exact names above, prototype links as listed, and your own reusable components. Submit your file link."
+    },
+    {
+     "id": "2:83",
+     "name": "Evaluated: (1) checklist coverage per frame · (2) data & copy accuracy · (3) flow & prototype completeness · (4) information hierarchy · (5) visual quality & consistency of your own system · (6) component reuse · (7) state design.",
+     "x": 56,
+     "y": 3756,
+     "text": "Evaluated: (1) checklist coverage per frame · (2) data & copy accuracy · (3) flow & prototype completeness · (4) information hierarchy · (5) visual quality & consistency of your own system · (6) component reuse · (7) state design."
+    },
+    {
+     "id": "2:84",
+     "name": "The completed reference screens are withheld. There is no single correct layout.",
+     "x": 56,
+     "y": 3814,
+     "text": "The completed reference screens are withheld. There is no single correct layout."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:412",
+     "name": "FOODGO / DESIGN FOUNDATIONS",
+     "x": 56,
+     "y": 48,
+     "text": "FOODGO / DESIGN FOUNDATIONS"
+    },
+    {
+     "id": "1:413",
+     "name": "Fixed: two brand colors + typefaces. You build everything else.",
+     "x": 56,
+     "y": 79,
+     "text": "Fixed: two brand colors + typefaces. You build everything else."
+    },
+    {
+     "id": "1:416",
+     "name": "01 BRAND COLORS (FIXED)",
+     "x": 56,
+     "y": 224,
+     "text": "01  BRAND COLORS (FIXED)"
+    },
+    {
+     "id": "1:417",
+     "name": "Foodgo’s identity relies on two colors: the red and the dark brown below. Define every other color yourself — neutrals and grays, text, backgrounds and surfaces, rating, semantic colors (success, mild / hot, disabled) and any supporting colors — once, and use them consistently.",
+     "x": 56,
+     "y": 265,
+     "text": "Foodgo’s identity relies on two colors: the red and the dark brown below. Define every other color yourself — neutrals and grays, text, backgrounds and surfaces, rating, semantic colors (success, mild / hot, disabled) and any supporting colors — once, and use them consistently."
+    },
+    {
+     "id": "1:421",
+     "name": "Brand red",
+     "x": 56,
+     "y": 407,
+     "text": "Brand red"
+    },
+    {
+     "id": "1:426",
+     "name": "Brand dark brown",
+     "x": 240,
+     "y": 407,
+     "text": "Brand dark brown"
+    },
+    {
+     "id": "1:422",
+     "name": "#EF2A39",
+     "x": 56,
+     "y": 428,
+     "text": "#EF2A39"
+    },
+    {
+     "id": "1:427",
+     "name": "#3C2F2F",
+     "x": 240,
+     "y": 428,
+     "text": "#3C2F2F"
+    },
+    {
+     "id": "1:423",
+     "name": "Foodgo brand color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 449,
+     "text": "Foodgo brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:428",
+     "name": "Foodgo brand color. Where and how much to use it is your decision.",
+     "x": 240,
+     "y": 449,
+     "text": "Foodgo brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:455",
+     "name": "02 TYPEFACES (FIXED)",
+     "x": 56,
+     "y": 542,
+     "text": "02  TYPEFACES (FIXED)"
+    },
+    {
+     "id": "1:456",
+     "name": "Lobster is reserved for the Foodgo logotype (use the supplied outlined wordmark). Roboto for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 583,
+     "text": "Lobster is reserved for the Foodgo logotype (use the supplied outlined wordmark). Roboto for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:458",
+     "name": "Foodgo",
+     "x": 56,
+     "y": 621,
+     "text": "Foodgo"
+    },
+    {
+     "id": "1:459",
+     "name": "Roboto Aa Bb Cc 0123456789 $18.28",
+     "x": 281,
+     "y": 658,
+     "text": "Roboto  Aa Bb Cc 0123456789  $18.28"
+    },
+    {
+     "id": "1:461",
+     "name": "03 YOUR SYSTEM (TO DESIGN)",
+     "x": 56,
+     "y": 739,
+     "text": "03  YOUR SYSTEM (TO DESIGN)"
+    },
+    {
+     "id": "1:462",
+     "name": "• Base viewport 430 × 932 (fixed). Home and Customize may scroll vertically; horizontal carousels are allowed.",
+     "x": 56,
+     "y": 780,
+     "text": "• Base viewport 430 × 932 (fixed). Home and Customize may scroll vertically; horizontal carousels are allowed."
+    },
+    {
+     "id": "1:463",
+     "name": "• Define your own type scale, spacing rhythm, corner radii, elevation, dividers and icon sizing — and apply them consistently on every screen.",
+     "x": 56,
+     "y": 819,
+     "text": "• Define your own type scale, spacing rhythm, corner radii, elevation, dividers and icon sizing — and apply them consistently on every screen."
+    },
+    {
+     "id": "1:464",
+     "name": "• Build reusable components for repeated patterns. Component reuse and consistency are evaluated.",
+     "x": 56,
+     "y": 858,
+     "text": "• Build reusable components for repeated patterns. Component reuse and consistency are evaluated."
+    },
+    {
+     "id": "1:466",
+     "name": "• Icons from 04 · Media may be recolored to your palette; do not redraw brand assets.",
+     "x": 56,
+     "y": 897,
+     "text": "• Icons from 04 · Media may be recolored to your palette; do not redraw brand assets."
+    }
+   ]
+  }
+ ]
+}

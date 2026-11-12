@@ -1,0 +1,446 @@
+{
+  "board_count": 20,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_Magic_Coffee",
+        "Magic Coffee",
+        "Feel yourself like a bar",
+        "Magic coffee on order.",
+        "Ellipse"
+      ]
+    },
+    {
+      "name": "02_Sign_In",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Back",
+        "Sign in",
+        "Welcome back",
+        "Field",
+        "Forgot Password"
+      ]
+    },
+    {
+      "name": "03_Sign_Up",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Back",
+        "Sign up",
+        "Create an account here",
+        "Field",
+        "By signing up you agree "
+      ]
+    },
+    {
+      "name": "04_Verification",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Back",
+        "Verification",
+        "Enter the OTP code we se",
+        "OTP_1",
+        "OTP_2"
+      ]
+    },
+    {
+      "name": "05_Select_Store",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×2",
+        "rectangle×1",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Map",
+        "Pin_1",
+        "Pin_2",
+        "Pin_3",
+        "Locate me"
+      ]
+    },
+    {
+      "name": "06_Menu",
+      "size": "375×812",
+      "nodes": 22,
+      "max_depth": 1,
+      "instances": 18,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×2",
+        "ellipse×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Welcome!",
+        "Alex",
+        "Ellipse",
+        "Icon_Cart"
+      ]
+    },
+    {
+      "name": "07_Order_Options",
+      "size": "375×936",
+      "nodes": 36,
+      "max_depth": 2,
+      "instances": 19,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×11",
+        "frame×5",
+        "ellipse×1"
+      ],
+      "names": [
+        "App Header",
+        "Frame",
+        "Coffee_Cappuccino",
+        "Cappuccino",
+        "Stepper",
+        "Onsite / Takeaway"
+      ]
+    },
+    {
+      "name": "09_Assemblage",
+      "size": "375×1010",
+      "nodes": 45,
+      "max_depth": 2,
+      "instances": 18,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "instance×18",
+        "frame×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "App Header",
+        "Frame",
+        "Select a barista",
+        "Victor",
+        "Icon_Chevron_Right",
+        "Coffee sort"
+      ]
+    },
+    {
+      "name": "08_Milk_Picker",
+      "size": "375×812",
+      "nodes": 63,
+      "max_depth": 3,
+      "instances": 20,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "text×26",
+        "instance×20",
+        "frame×16",
+        "ellipse×1"
+      ],
+      "names": [
+        "Assemblage (dimmed)",
+        "App Header",
+        "Frame",
+        "Select a barista",
+        "Victor",
+        "Icon_Chevron_Right"
+      ]
+    },
+    {
+      "name": "10_Select_Barista",
+      "size": "375×812",
+      "nodes": 25,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "text×10",
+        "instance×6",
+        "frame×6",
+        "ellipse×3"
+      ],
+      "names": [
+        "App Header",
+        "Select a barista",
+        "Frame",
+        "Avatar_Victor",
+        "Victor",
+        "Top barista"
+      ]
+    },
+    {
+      "name": "11_Coffee_Country",
+      "size": "375×1000",
+      "nodes": 37,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×12",
+        "frame×11"
+      ],
+      "names": [
+        "App Header",
+        "Select country and sort ",
+        "Frame",
+        "Brazil",
+        "Icon_Chevron_Right",
+        "Colombia"
+      ]
+    },
+    {
+      "name": "12_Coffee_Sort",
+      "size": "375×812",
+      "nodes": 22,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×7",
+        "frame×6"
+      ],
+      "names": [
+        "App Header",
+        "Select a sort of coffee",
+        "Frame",
+        "Santos",
+        "Icon_Chevron_Right",
+        "Bourbon Santos"
+      ]
+    },
+    {
+      "name": "13_Additives",
+      "size": "375×900",
+      "nodes": 30,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "frame×16",
+        "text×9",
+        "instance×5"
+      ],
+      "names": [
+        "App Header",
+        "Select additives",
+        "Frame",
+        "Ceylon cinnamon",
+        "Icon_Check",
+        "Grated chocolate"
+      ]
+    },
+    {
+      "name": "14_My_Order",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "App Header",
+        "Order Item Row",
+        "Coffee_Americano",
+        "Frame"
+      ]
+    },
+    {
+      "name": "15_Order_Payment",
+      "size": "375×812",
+      "nodes": 24,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×8",
+        "frame×3"
+      ],
+      "names": [
+        "Frame",
+        "My order",
+        "Order Item Row",
+        "Coffee_Americano",
+        "Coffee_Cappuccino",
+        "Coffee_Flat_White"
+      ]
+    },
+    {
+      "name": "16_Order_Confirmed",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Ordered",
+        "Illustration_Ordered",
+        "Alex, your order has bee"
+      ]
+    },
+    {
+      "name": "17_Profile",
+      "size": "375×812",
+      "nodes": 27,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×10",
+        "frame×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Profile",
+        "Frame",
+        "Image_QR_Code"
+      ]
+    },
+    {
+      "name": "18_Rewards",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×5",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Loyalty Card",
+        "Frame",
+        "My Points:",
+        "2750"
+      ]
+    },
+    {
+      "name": "19_Redeem",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Redeem",
+        "Redeem Row",
+        "Coffee_Latte"
+      ]
+    },
+    {
+      "name": "20_My_Orders",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×3",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "My Order",
+        "On going",
+        "History",
+        "Rectangle"
+      ]
+    }
+  ]
+}

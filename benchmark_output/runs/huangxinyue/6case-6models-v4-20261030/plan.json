@@ -1,0 +1,323 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "design6-6models-v4-20261030",
+  "dataset_hash": "f42281afabd9a19d5bef2fcb6f009c64f2c1cb9284e22228d487b44b5288185c",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_claude_opus55_direct",
+      "name": "Opus 5.5（三方A）",
+      "provider": "Claude Code",
+      "connection_mode": "direct",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "127.0.0.1",
+      "port": 0,
+      "model_id": "claude-opus-5-5/awsb_L/sfa",
+      "auth_mode": "auto",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "none",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_claude_fable51_login",
+      "name": "Fable 5.1",
+      "provider": "Claude Code",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "https://tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "claude-fable-5-1/mix_L/sfm",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "none",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_glm_53_flash_cc",
+      "name": "GLM-5.3 Flash",
+      "provider": "qnaigc / 智谱",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "https://tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "glm-5.3-flash/tencent/sfb",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 0,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_gemini_31_pro_cc",
+      "name": "Gemini 3.5 Flash",
+      "provider": "TokenHub / Gemini",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "gemini-3.5-flash",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 1,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_kimi_k3_cc",
+      "name": "Kimi K3",
+      "provider": "TokenHub / Kimi",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "kimi-k3/tencent/sfb",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 0,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_de5fc4c9cdb841e8",
+      "name": "gpt-6-astra",
+      "provider": "Claude Code",
+      "connection_mode": "direct",
+      "base_url": "http://127.0.0.1:18195",
+      "host": "127.0.0.1",
+      "port": 18185,
+      "model_id": "gpt-6-astra/azure_L/sfl",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "openai",
+      "can_evaluate": 1,
+      "buffered_stream": 1,
+      "vision": 1,
+      "generation_mode": "direct"
+    }
+  ],
+  "case_count": 6,
+  "assignment_count": 36,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 5,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_c5fd404ba40be9107727",
+      "case_id": "case-001",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_004b4a365a562aa4ed9b",
+      "case_id": "case-002",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_859ed317accfb61ecd92",
+      "case_id": "case-003",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_5fa54aa7615d9d8efff1",
+      "case_id": "case-004",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_f3039b21891a968ac2d1",
+      "case_id": "case-005",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_e749d4bbcf14cc784397",
+      "case_id": "case-006",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_7d22109c2809bd473ee7",
+      "case_id": "case-001",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_0da3622d10b08bc4b146",
+      "case_id": "case-002",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_11f4c47c95f97a299775",
+      "case_id": "case-003",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_84387bcaa9349caaee49",
+      "case_id": "case-004",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_2a4bc89ef1793c14074c",
+      "case_id": "case-005",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_ff16b417eec8cf9b73b2",
+      "case_id": "case-006",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_a41cc4b2f472b12b03f7",
+      "case_id": "case-001",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_1f863b6481fc5c84d309",
+      "case_id": "case-002",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_b695381787a3d2819e7e",
+      "case_id": "case-003",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_4b9df35d281f49a03663",
+      "case_id": "case-004",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_635734ac478ecac58854",
+      "case_id": "case-005",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_36009424a9fd9357ad5b",
+      "case_id": "case-006",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_76148e04cfbe8711e086",
+      "case_id": "case-001",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_91f7496b78de5ffa1f54",
+      "case_id": "case-002",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_044ece551a3e09ded2af",
+      "case_id": "case-003",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_4d1f1eba4a6593ec9883",
+      "case_id": "case-004",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_2920e1765fb52eb296f2",
+      "case_id": "case-005",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_60a0f5247b3fcda72bfc",
+      "case_id": "case-006",
+      "model_id": "model_gemini_31_pro_cc"
+    },
+    {
+      "assignment_id": "assignment_0bcb8ac0fb5c9aeaca9a",
+      "case_id": "case-001",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_92d640e677d978f3cc2f",
+      "case_id": "case-002",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_1a7ea126fdab3ede7fcc",
+      "case_id": "case-003",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_bbe9023c809319e7ed9b",
+      "case_id": "case-004",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_49598320dbb6d5bc3fca",
+      "case_id": "case-005",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_740eb2cf6cbeacaa4792",
+      "case_id": "case-006",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_04372a3f598d60e1982b",
+      "case_id": "case-001",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_c39e41098ebac48d124e",
+      "case_id": "case-002",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_fd0cc2de15a531657ccc",
+      "case_id": "case-003",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_760723a6b9b5a01ba388",
+      "case_id": "case-004",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_b61042b7ee35baeec0ce",
+      "case_id": "case-005",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_d716493c6aae794fd351",
+      "case_id": "case-006",
+      "model_id": "model_de5fc4c9cdb841e8"
+    }
+  ],
+  "content_hash": "9af4b2b1addb00984bda168c0f34d9629f80014a65c618e7bf10fbb8c454af1c"
+}

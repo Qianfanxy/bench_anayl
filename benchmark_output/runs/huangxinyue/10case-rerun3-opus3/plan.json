@@ -1,0 +1,58 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "design10-rerun3-opus3",
+  "dataset_hash": "bbdbb8932f3e2aaac0a6476c5174c8df7d80d5261c5ca0810d8781aac97ce962",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_claude_opus55_direct",
+      "name": "Opus 5.5（三方A）",
+      "provider": "Claude Code",
+      "connection_mode": "direct",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "127.0.0.1",
+      "port": 0,
+      "model_id": "claude-opus-5-5/awsb_L/sfa",
+      "auth_mode": "auto",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "none",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    }
+  ],
+  "case_count": 1,
+  "assignment_count": 1,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 1,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_abb436bf717733f36a54",
+      "case_id": "case-008",
+      "model_id": "model_claude_opus55_direct"
+    }
+  ],
+  "content_hash": "679b6e4283b1431dec99696a38f7aa2b0b1d3f9b2e399db6409712dfdceca4de"
+}

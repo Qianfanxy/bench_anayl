@@ -1,0 +1,305 @@
+{
+  "estimand": "Equal task weights; within each task, mean of available complete expert judgments. Not a consensus ranking. Bootstrap resamples whole tasks and is conditional on the observed expert panel.",
+  "rankings": [
+    {
+      "model": "Opus",
+      "mean_rank": 1.375,
+      "ci_lo": 1.1607142857142858,
+      "ci_hi": 1.6071428571428572,
+      "first_choice_share": 0.7142857142857143,
+      "n_tasks": 28
+    },
+    {
+      "model": "GPT",
+      "mean_rank": 2.767857142857143,
+      "ci_lo": 2.357142857142857,
+      "ci_hi": 3.1785714285714284,
+      "first_choice_share": 0.14285714285714285,
+      "n_tasks": 28
+    },
+    {
+      "model": "Fable",
+      "mean_rank": 3.392857142857143,
+      "ci_lo": 2.9642857142857144,
+      "ci_hi": 3.8214285714285716,
+      "first_choice_share": 0.08928571428571429,
+      "n_tasks": 28
+    },
+    {
+      "model": "GLM",
+      "mean_rank": 3.5535714285714284,
+      "ci_lo": 3.232142857142857,
+      "ci_hi": 3.9107142857142856,
+      "first_choice_share": 0.03571428571428571,
+      "n_tasks": 28
+    },
+    {
+      "model": "Kimi",
+      "mean_rank": 4.142857142857143,
+      "ci_lo": 3.767857142857143,
+      "ci_hi": 4.517857142857143,
+      "first_choice_share": 0.0,
+      "n_tasks": 28
+    },
+    {
+      "model": "Gemini",
+      "mean_rank": 5.767857142857143,
+      "ci_lo": 5.482142857142857,
+      "ci_hi": 5.982142857142857,
+      "first_choice_share": 0.017857142857142856,
+      "n_tasks": 28
+    }
+  ],
+  "strict": {
+    "tau_b": {
+      "estimate": 0.64871014583692,
+      "lo": 0.5587750317748221,
+      "hi": 0.724670327696668,
+      "n_tasks": 24
+    },
+    "top1_set_hit": {
+      "estimate": 0.75,
+      "lo": 0.5833333333333334,
+      "hi": 0.8958333333333334,
+      "n_tasks": 24
+    },
+    "top1_unique_hit": {
+      "estimate": 0.7083333333333334,
+      "lo": 0.5416666666666666,
+      "hi": 0.8541666666666666,
+      "n_tasks": 24
+    },
+    "direct_pair_agreement": {
+      "estimate": 0.7953147546897547,
+      "lo": 0.7474607120310245,
+      "hi": 0.8376045236592111,
+      "n_tasks": 24
+    },
+    "pooled_direct_counts": {
+      "agree": 268,
+      "decisive": 332,
+      "auto_ties": 19
+    }
+  },
+  "expanded_sensitivity": {
+    "tau_b": {
+      "estimate": 0.6446339107985056,
+      "lo": 0.5616305603805695,
+      "hi": 0.7162909917811066,
+      "n_tasks": 28
+    },
+    "top1_set_hit": {
+      "estimate": 0.7142857142857143,
+      "lo": 0.5535714285714286,
+      "hi": 0.8571428571428571,
+      "n_tasks": 28
+    },
+    "top1_unique_hit": {
+      "estimate": 0.6785714285714286,
+      "lo": 0.5178571428571429,
+      "hi": 0.8214285714285714,
+      "n_tasks": 28
+    },
+    "direct_pair_agreement": {
+      "estimate": 0.7879663986806843,
+      "lo": 0.7434725121109051,
+      "hi": 0.8288242437126365,
+      "n_tasks": 28
+    },
+    "pooled_direct_counts": {
+      "agree": 312,
+      "decisive": 390,
+      "auto_ties": 20
+    }
+  },
+  "sqlite_complete_sensitivity": {
+    "tau_b": {
+      "estimate": 0.679813485510989,
+      "lo": 0.6176224069321268,
+      "hi": 0.7379672753975615,
+      "n_tasks": 23
+    },
+    "top1_set_hit": {
+      "estimate": 0.782608695652174,
+      "lo": 0.6304347826086957,
+      "hi": 0.9130434782608695,
+      "n_tasks": 23
+    },
+    "top1_unique_hit": {
+      "estimate": 0.7391304347826086,
+      "lo": 0.5652173913043478,
+      "hi": 0.8913043478260869,
+      "n_tasks": 23
+    },
+    "direct_pair_agreement": {
+      "estimate": 0.8081545266327875,
+      "lo": 0.7665687151013238,
+      "hi": 0.8456881117071334,
+      "n_tasks": 23
+    },
+    "pooled_direct_counts": {
+      "agree": 263,
+      "decisive": 322,
+      "auto_ties": 19
+    }
+  },
+  "human_human_all_overlap": {
+    "tau_b": {
+      "estimate": 0.5238095238095237,
+      "lo": 0.419047619047619,
+      "hi": 0.6380952380952379,
+      "n_tasks": 14
+    },
+    "top1_agreement": {
+      "estimate": 0.6428571428571429,
+      "lo": 0.35714285714285715,
+      "hi": 0.8571428571428571,
+      "n_tasks": 14
+    },
+    "top1_same": 9,
+    "rank_implied_pair_agreement": {
+      "estimate": 0.7619047619047619,
+      "lo": 0.7095238095238096,
+      "hi": 0.819047619047619,
+      "n_tasks": 14
+    }
+  },
+  "matched_overlap": {
+    "n_tasks": 12,
+    "human_human": {
+      "tau_b": {
+        "estimate": 0.5333333333333333,
+        "lo": 0.4333333333333333,
+        "hi": 0.6444444444444444,
+        "n_tasks": 12
+      },
+      "top1_set_hit": {
+        "estimate": 0.6666666666666666,
+        "lo": 0.4166666666666667,
+        "hi": 0.9166666666666666,
+        "n_tasks": 12
+      },
+      "rank_implied_pair_agreement": {
+        "estimate": 0.7666666666666666,
+        "lo": 0.7166666666666667,
+        "hi": 0.8222222222222223,
+        "n_tasks": 12
+      }
+    },
+    "rubric_human": {
+      "tau_b": {
+        "estimate": 0.6850477755311948,
+        "lo": 0.6146243079223047,
+        "hi": 0.7585357563184297,
+        "n_tasks": 12
+      },
+      "top1_set_hit": {
+        "estimate": 0.8333333333333334,
+        "lo": 0.7083333333333334,
+        "hi": 0.9583333333333334,
+        "n_tasks": 12
+      },
+      "top1_unique_hit": {
+        "estimate": 0.8333333333333334,
+        "lo": 0.7083333333333334,
+        "hi": 0.9583333333333334,
+        "n_tasks": 12
+      },
+      "direct_pair_agreement": {
+        "estimate": 0.8115319865319864,
+        "lo": 0.7561776996151995,
+        "hi": 0.8646991116522368,
+        "n_tasks": 12
+      },
+      "pooled_direct_counts": {
+        "agree": 185,
+        "decisive": 226,
+        "auto_ties": 15
+      }
+    }
+  },
+  "middle_four_posthoc": {
+    "tau_b": {
+      "estimate": 0.3710533105913541,
+      "lo": 0.23579479965349534,
+      "hi": 0.5010474133096415,
+      "n_tasks": 24
+    },
+    "top1_set_hit": {
+      "estimate": 0.5,
+      "lo": 0.3333333333333333,
+      "hi": 0.6666666666666666,
+      "n_tasks": 24
+    },
+    "top1_unique_hit": {
+      "estimate": 0.3333333333333333,
+      "lo": 0.1875,
+      "hi": 0.5,
+      "n_tasks": 24
+    },
+    "direct_pair_agreement": {
+      "estimate": 0.6670138888888889,
+      "lo": 0.5847222222222221,
+      "hi": 0.7479166666666668,
+      "n_tasks": 24
+    },
+    "pooled_direct_counts": {
+      "agree": 98,
+      "decisive": 146,
+      "auto_ties": 16
+    }
+  },
+  "all_minus_middle_paired": {
+    "tau_b": {
+      "estimate": 0.2776568352455659,
+      "lo": 0.16344075059252774,
+      "hi": 0.39067370932807816,
+      "n_tasks": 24
+    }
+  },
+  "coverage": {
+    "human_tasks": 28,
+    "strict_tasks": 24,
+    "human_overlap_tasks": 14,
+    "strict_overlap_tasks": 12
+  },
+  "methods": {
+    "experts": 2,
+    "completed_sessions": 42,
+    "per_expert_completed_tasks": {
+      "R1": 28,
+      "R2": 14
+    },
+    "version_verification": "same run + original score record + score value + full screenshot SHA256 multiset",
+    "bootstrap": 10000,
+    "seed": 20261108,
+    "excluded_entire_case": "6case-case-004",
+    "source": "sorting.json; SQLite for candidate/score identity; snapshot sensitivity also reported",
+    "snapshot_discrepancies": [
+      {
+        "session_id": "f13494d58f9e91ff32a70e25",
+        "case_id": "6case-case-005",
+        "reviewer": "R1",
+        "export_status": "complete",
+        "export_revision": 10,
+        "sqlite_status": "awaiting-vote",
+        "sqlite_revision": 8
+      },
+      {
+        "session_id": "4ec2315a74b730436847fcf4",
+        "case_id": "6case-case-004",
+        "reviewer": "R2",
+        "export_status": "reviewing",
+        "export_revision": 6,
+        "sqlite_status": "paused-unable",
+        "sqlite_revision": 6
+      }
+    ]
+  },
+  "input_sha256": {
+    "arena/sorting.json": "5ec88a7d9cf36133070f8405c8aeb81e28a7dc2b224afed889e984f855bc2dcb",
+    "arena/arena.sqlite3": "0ff3da03b1a75f3d2204a84aa8246a73f8fec503de39f7159258efad8454da80",
+    "deliver-20261103/manifest.csv": "cf528c59c98c97a05658b89b0e8ef85b74cb98a94df9b8a98a4ccdd81d6de604",
+    "results_eval/资产清单-索引.csv": "d8cfc588d73d982cf5bab9082699a5084844193985e5e557f1c827bfd853d8f8"
+  }
+}

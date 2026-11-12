@@ -1,0 +1,122 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Wallet",
+      "size": "375×812",
+      "nodes": 29,
+      "max_depth": 2,
+      "instances": 22,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×22",
+        "text×5",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Avatar_Neutral",
+        "My Wallet",
+        "0xc8...320f",
+        "Icon_Scan",
+        "$54,292.79"
+      ]
+    },
+    {
+      "name": "02_Discovery",
+      "size": "375×1080",
+      "nodes": 99,
+      "max_depth": 4,
+      "instances": 37,
+      "texts": 34,
+      "images": 0,
+      "types": [
+        "instance×37",
+        "text×34",
+        "frame×28"
+      ],
+      "names": [
+        "Status Bar",
+        "Avatar_Neutral",
+        "Search Entry",
+        "Icon_Search",
+        "Search",
+        "Page Indicator"
+      ]
+    },
+    {
+      "name": "03_Strategy",
+      "size": "375×1150",
+      "nodes": 182,
+      "max_depth": 4,
+      "instances": 45,
+      "texts": 76,
+      "images": 0,
+      "types": [
+        "text×76",
+        "instance×45",
+        "frame×41",
+        "rectangle×16",
+        "ellipse×2",
+        "vector×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Avatar_Neutral",
+        "Search Entry",
+        "Icon_Search",
+        "Search",
+        "Page Indicator"
+      ]
+    },
+    {
+      "name": "04_Invest_Amount",
+      "size": "375×812",
+      "nodes": 132,
+      "max_depth": 4,
+      "instances": 55,
+      "texts": 41,
+      "images": 0,
+      "types": [
+        "instance×55",
+        "text×41",
+        "frame×31",
+        "rectangle×3",
+        "ellipse×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Avatar_Neutral",
+        "Search Entry",
+        "Icon_Search",
+        "Search",
+        "Page Indicator"
+      ]
+    },
+    {
+      "name": "05_Invest_Success",
+      "size": "375×812",
+      "nodes": 119,
+      "max_depth": 4,
+      "instances": 40,
+      "texts": 37,
+      "images": 0,
+      "types": [
+        "instance×40",
+        "text×37",
+        "frame×29",
+        "rectangle×12",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Avatar_Neutral",
+        "Search Entry",
+        "Icon_Search",
+        "Search",
+        "Page Indicator"
+      ]
+    }
+  ]
+}

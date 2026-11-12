@@ -1,0 +1,11 @@
+﻿case_id,source_file,line,text
+6case-case-005,deliver-20261103/requirements/6case/case-005-finx.md,116,"• Copy: “Zero fee payment on XTrade” · “No 1 design for E-bank, e-wallet, personal financial mobile application.”"
+6case-case-005,deliver-20261103/requirements/6case/case-005-finx.md,145,• Actions: filter
+6case-case-005,deliver-20261103/requirements/6case/case-005-finx.md,162,09_Exchange_Stock
+6case-case-005,deliver-20261103/requirements/6case/case-005-finx.md,174,• Actions: filter · swap direction · calculator
+6case-case-005,deliver-20261103/requirements/6case/case-005-finx.md,177,• Keypad: 1 · 2 ABC · 3 DEF · 4 GHI · 5 JKL · 6 MNO · 7 PQRS · 8 TUV · 9 WXYZ · 0 · backspace
+6case-case-005,deliver-20261103/requirements/6case/case-005-finx.md,179,• Side: Buy / Sell · current: Buy
+3case-case-002,deliver-20261103/requirements/3case/case-002-paradise-invest.md,85,"• Plans: “Best Plans” · See All · Gold 30% / Silver 60% / Platinum 90% return, each with its coin image"
+3case-case-002,deliver-20261103/requirements/3case/case-002-paradise-invest.md,163,"Portfolio: ₦203,935, +2% — identical on Home and My Asset. Plans: Gold 30% return · Silver 60% return · Platinum 90% return. Current plan: Gold."
+3case-case-002,deliver-20261103/requirements/3case/case-002-paradise-invest.md,165,"History (all Mon 22 Jun 2020): Buy “AAPL” Stock ₦200,000 · Sell “TLKM” Stock ₦150,000 · Buy “FB” Stock ₦1,000,240 · Sell “AAPL” Stock ₦1,000,240. Sell = money in, Buy = money out."
+3case-case-002,deliver-20261103/requirements/3case/case-002-paradise-invest.md,175,Banks: Bank of America — 0182128xxx · Zenith Bank — 0182128xxx; holder Jonas Macroni.

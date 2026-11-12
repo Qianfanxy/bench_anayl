@@ -1,0 +1,158 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Frontpage",
+      "size": "1680×5156",
+      "nodes": 78,
+      "max_depth": 5,
+      "instances": 36,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×36",
+        "frame×36",
+        "text×5",
+        "rectangle×1"
+      ],
+      "names": [
+        "DS / Header",
+        "DS / News Ticker",
+        "hero",
+        "DS / Page Title",
+        "lead",
+        "leadText"
+      ]
+    },
+    {
+      "name": "02_Magazine",
+      "size": "1680×4208",
+      "nodes": 37,
+      "max_depth": 3,
+      "instances": 27,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×27",
+        "frame×10"
+      ],
+      "names": [
+        "DS / Header",
+        "title-section",
+        "DS / Page Title",
+        "category-filter",
+        "DS / Label",
+        "chipAll"
+      ]
+    },
+    {
+      "name": "03_Magazine_Post",
+      "size": "1680×4240",
+      "nodes": 38,
+      "max_depth": 6,
+      "instances": 14,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "frame×14",
+        "text×10"
+      ],
+      "names": [
+        "DS / Header",
+        "back-section",
+        "DS / Back Bar",
+        "title-section",
+        "DS / Tag",
+        "PostTitle"
+      ]
+    },
+    {
+      "name": "04_Podcast",
+      "size": "1680×2318",
+      "nodes": 14,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×6"
+      ],
+      "names": [
+        "DS / Header",
+        "title-section",
+        "DS / Page Title",
+        "episode-list",
+        "epRow5",
+        "divider"
+      ]
+    },
+    {
+      "name": "06_Authors",
+      "size": "1680×2490",
+      "nodes": 16,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×7"
+      ],
+      "names": [
+        "DS / Header",
+        "title-section",
+        "DS / Page Title",
+        "author-list",
+        "List / Author Row",
+        "divider"
+      ]
+    },
+    {
+      "name": "05_Podcast_Post",
+      "size": "1680×3973",
+      "nodes": 44,
+      "max_depth": 6,
+      "instances": 14,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "frame×16",
+        "instance×14",
+        "text×13",
+        "rectangle×1"
+      ],
+      "names": [
+        "DS / Header",
+        "back-section",
+        "DS / Back Bar",
+        "title-section",
+        "DS / Label",
+        "EpTitle"
+      ]
+    },
+    {
+      "name": "07_Author_Profile",
+      "size": "1680×3039",
+      "nodes": 31,
+      "max_depth": 5,
+      "instances": 11,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "frame×15",
+        "instance×11",
+        "text×5"
+      ],
+      "names": [
+        "DS / Header",
+        "back-section",
+        "DS / Back Bar",
+        "profile-section",
+        "profile-row",
+        "ProfileAvatar"
+      ]
+    }
+  ]
+}

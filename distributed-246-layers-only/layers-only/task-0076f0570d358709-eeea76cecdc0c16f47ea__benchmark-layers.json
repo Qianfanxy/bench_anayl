@@ -1,0 +1,138 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Expenio",
+        "Illustration_Get_Started",
+        "Going cashless has never",
+        "Button"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "375×812",
+      "nodes": 33,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "instance×10",
+        "frame×9"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Frame",
+        "Avatar_Maria_Lopez",
+        "Home",
+        "Hello, Maria"
+      ]
+    },
+    {
+      "name": "03_Wallet",
+      "size": "375×812",
+      "nodes": 32,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "instance×10",
+        "frame×8",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Icon_Back",
+        "Header",
+        "Add Card"
+      ]
+    },
+    {
+      "name": "04_Add_Card",
+      "size": "375×812",
+      "nodes": 62,
+      "max_depth": 4,
+      "instances": 15,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "frame×22",
+        "text×22",
+        "instance×15",
+        "ellipse×3"
+      ],
+      "names": [
+        "Wallet backdrop",
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Icon_Back",
+        "Header"
+      ]
+    },
+    {
+      "name": "05_Payment",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "PAYING",
+        "Frame",
+        "Avatar_Robert_Dawson"
+      ]
+    },
+    {
+      "name": "06_Receipt",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "text×10",
+        "instance×6",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Share",
+        "Icon_Share",
+        "Receipt Card"
+      ]
+    }
+  ]
+}

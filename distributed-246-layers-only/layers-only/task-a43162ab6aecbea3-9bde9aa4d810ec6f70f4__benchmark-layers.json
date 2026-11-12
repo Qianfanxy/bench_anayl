@@ -1,0 +1,165 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "414×896",
+      "nodes": 23,
+      "max_depth": 1,
+      "instances": 20,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Bank Name",
+        "Search History Button",
+        "Icon_Search",
+        "Balance Card"
+      ]
+    },
+    {
+      "name": "02_About_Investment",
+      "size": "414×896",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back Button",
+        "Illustration_Investment",
+        "Title",
+        "Paragraph 1"
+      ]
+    },
+    {
+      "name": "03_Create_PIN",
+      "size": "414×896",
+      "nodes": 24,
+      "max_depth": 1,
+      "instances": 21,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "text×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back Button",
+        "Header Title",
+        "Hint",
+        "PIN Dot 9"
+      ]
+    },
+    {
+      "name": "04_Portfolio",
+      "size": "414×896",
+      "nodes": 49,
+      "max_depth": 2,
+      "instances": 21,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "text×15",
+        "rectangle×10",
+        "ellipse×2",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back Button",
+        "Header Title",
+        "Menu Button",
+        "Chart Button"
+      ]
+    },
+    {
+      "name": "05_Trading",
+      "size": "414×896",
+      "nodes": 66,
+      "max_depth": 2,
+      "instances": 20,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "rectangle×20",
+        "text×18",
+        "frame×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "IconBtn",
+        "Icon Button",
+        "Icon_Menu",
+        "Icon_Chart"
+      ]
+    },
+    {
+      "name": "06_Stock_Transaction",
+      "size": "414×896",
+      "nodes": 26,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×8",
+        "frame×2",
+        "ellipse×2",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "IconBtn",
+        "Icon Button",
+        "Icon_Menu",
+        "Stock Info"
+      ]
+    },
+    {
+      "name": "07_Confirm_Purchase",
+      "size": "414×896",
+      "nodes": 34,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×12",
+        "frame×5",
+        "rectangle×3",
+        "ellipse×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "IconBtn",
+        "Icon Button",
+        "Icon_Menu",
+        "Stock Info"
+      ]
+    }
+  ]
+}

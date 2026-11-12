@@ -1,0 +1,318 @@
+{
+  "board_count": 14,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Photo_Onboarding_1",
+        "Photo_Onboarding_2",
+        "Photo_Onboarding_3",
+        "Photo_Onboarding_4",
+        "Photo_Onboarding_5",
+        "Photo_Onboarding_6"
+      ]
+    },
+    {
+      "name": "02_Log_In",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "instance×7",
+        "frame×4",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Arrow_Left",
+        "Welcome Back!",
+        "Log in to your Placoo ac",
+        "Frame"
+      ]
+    },
+    {
+      "name": "03_Sign_Up",
+      "size": "375×812",
+      "nodes": 26,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×9",
+        "frame×5",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Arrow_Left",
+        "Let's explore together!",
+        "Create your Placoo accou",
+        "Frame"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "375×1720",
+      "nodes": 90,
+      "max_depth": 3,
+      "instances": 18,
+      "texts": 50,
+      "images": 0,
+      "types": [
+        "text×50",
+        "frame×21",
+        "instance×18",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Find your place in",
+        "Surabaya, Indonesia",
+        "Icon_Location",
+        "Icon_Chevron_Down"
+      ]
+    },
+    {
+      "name": "05_Explore",
+      "size": "375×812",
+      "nodes": 31,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×11",
+        "frame×6",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Rectangle",
+        "Icon_Search",
+        "Search address, city, lo",
+        "Icon_Filter",
+        "Find out your next trip!"
+      ]
+    },
+    {
+      "name": "06_Property_Details",
+      "size": "375×1600",
+      "nodes": 93,
+      "max_depth": 1,
+      "instances": 31,
+      "texts": 45,
+      "images": 0,
+      "types": [
+        "text×45",
+        "instance×31",
+        "rectangle×16",
+        "vector×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Photo_Bromo_Cabin",
+        "Icon_Play",
+        "Rectangle",
+        "1 / 11",
+        "Icon_Arrow_Left"
+      ]
+    },
+    {
+      "name": "07_Filter",
+      "size": "375×1416",
+      "nodes": 92,
+      "max_depth": 1,
+      "instances": 19,
+      "texts": 43,
+      "images": 0,
+      "types": [
+        "text×43",
+        "rectangle×30",
+        "instance×19"
+      ],
+      "names": [
+        "Status Bar",
+        "Rectangle",
+        "Icon_Arrow_Left",
+        "Filter search",
+        "Icon_Search",
+        "Jakarta, Indonesia"
+      ]
+    },
+    {
+      "name": "08_Search_Results",
+      "size": "375×812",
+      "nodes": 60,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "text×35",
+        "rectangle×15",
+        "instance×10"
+      ],
+      "names": [
+        "Status Bar",
+        "Rectangle",
+        "Icon_Arrow_Left",
+        "Search results",
+        "Filter",
+        "Icon_Filter"
+      ]
+    },
+    {
+      "name": "09_Search_Pin_Selected",
+      "size": "375×812",
+      "nodes": 44,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "rectangle×18",
+        "text×18",
+        "instance×8"
+      ],
+      "names": [
+        "Status Bar",
+        "Rectangle",
+        "Icon_Arrow_Left",
+        "Image_Map",
+        "$2,500",
+        "$2,430"
+      ]
+    },
+    {
+      "name": "10_Rent_Booking",
+      "size": "375×895",
+      "nodes": 52,
+      "max_depth": 1,
+      "instances": 17,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "text×26",
+        "instance×17",
+        "rectangle×9"
+      ],
+      "names": [
+        "Status Bar",
+        "Rectangle",
+        "Icon_Arrow_Left",
+        "Rent booking",
+        "Icon_Help",
+        "Photo_Bromo_Cabin"
+      ]
+    },
+    {
+      "name": "11_Chat",
+      "size": "375×812",
+      "nodes": 36,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "text×21",
+        "instance×8",
+        "rectangle×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Messages",
+        "Rectangle",
+        "Icon_Search",
+        "Search messages",
+        "Avatar_Kari"
+      ]
+    },
+    {
+      "name": "12_Chat_Room",
+      "size": "375×812",
+      "nodes": 27,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "rectangle×9",
+        "instance×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Rectangle",
+        "Icon_Arrow_Left",
+        "Avatar_Kari",
+        "Kari Rasmussen",
+        "Online"
+      ]
+    },
+    {
+      "name": "13_Saved",
+      "size": "375×812",
+      "nodes": 35,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "text×22",
+        "instance×12",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Saved",
+        "Rectangle",
+        "Icon_Search",
+        "Search saved properties",
+        "Photo_Bromo_Cabin"
+      ]
+    },
+    {
+      "name": "14_Profile",
+      "size": "375×812",
+      "nodes": 26,
+      "max_depth": 1,
+      "instances": 13,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×8",
+        "rectangle×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Profile",
+        "Avatar_Lucy",
+        "Lucy Bond",
+        "lucy.bond@example.com",
+        "Rectangle"
+      ]
+    }
+  ]
+}

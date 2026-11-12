@@ -1,0 +1,222 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "375×812",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×3",
+        "frame×2"
+      ],
+      "names": [
+        "Surface",
+        "Logo_Fruit_Hub",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "02_Welcome",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Surface",
+        "Fruit_Drops",
+        "Basket_Welcome",
+        "Get The Freshest Fruit S",
+        "We deliver the best and ",
+        "Let’s Continue"
+      ]
+    },
+    {
+      "name": "03_Name",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Surface",
+        "Fruit_Drops",
+        "Basket_Name",
+        "What is your firstname?",
+        "First name",
+        "First name / filled"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "375×812",
+      "nodes": 21,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×8",
+        "frame×2"
+      ],
+      "names": [
+        "Icon_Menu",
+        "Icon_Basket",
+        "My basket",
+        "Hello Tony, What fruit s",
+        "Surface",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "05_Product_Quinoa",
+      "size": "375×812",
+      "nodes": 19,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×6",
+        "frame×5"
+      ],
+      "names": [
+        "Surface",
+        "Header / back",
+        "Salad_Quinoa",
+        "Quinoa Fruit Salad",
+        "Icon_Minus",
+        "1"
+      ]
+    },
+    {
+      "name": "06_Basket",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Surface",
+        "Header / back",
+        "Basket row / 2 packs",
+        "Freshly packed. Made for",
+        "Total",
+        "₦60,000"
+      ]
+    },
+    {
+      "name": "07_Checkout_Delivery",
+      "size": "375×812",
+      "nodes": 24,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×6",
+        "frame×5"
+      ],
+      "names": [
+        "Surface",
+        "Header / back",
+        "Basket row / 2 packs",
+        "Freshly packed. Made for",
+        "Total",
+        "₦60,000"
+      ]
+    },
+    {
+      "name": "08_Checkout_Card",
+      "size": "375×812",
+      "nodes": 27,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×8",
+        "frame×5"
+      ],
+      "names": [
+        "Surface",
+        "Header / back",
+        "Basket row / 2 packs",
+        "Freshly packed. Made for",
+        "Total",
+        "₦60,000"
+      ]
+    },
+    {
+      "name": "09_Order_Complete",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Surface",
+        "Icon_Success_Check",
+        "Congratulations!!!",
+        "Your order has been take",
+        "Track order",
+        "Continue shopping"
+      ]
+    },
+    {
+      "name": "10_Track_Order",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×6",
+        "text×2"
+      ],
+      "names": [
+        "Surface",
+        "Header / back",
+        "Delivery step / done",
+        "Your delivery agent is c",
+        "Icon_Call",
+        "Map_Delivery"
+      ]
+    }
+  ]
+}

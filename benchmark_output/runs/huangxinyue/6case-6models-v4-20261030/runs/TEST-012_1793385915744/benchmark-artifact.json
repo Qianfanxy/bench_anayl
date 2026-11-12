@@ -1,0 +1,485 @@
+{
+  "file_key": "UlgozbXKKfkCkJL2xcXBBr",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "7:2",
+      "name": "03 · Workspace",
+      "child_count": 13
+    }
+  ],
+  "workspace": {
+    "id": "7:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "10:2",
+        "name": "Nectar Components",
+        "type": "SECTION",
+        "x": 0,
+        "y": 1700,
+        "width": 3000,
+        "height": 2700,
+        "text_count": 83,
+        "reaction_count": 0
+      },
+      {
+        "id": "16:263",
+        "name": "01_Splash",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 0,
+        "reaction_count": 2
+      },
+      {
+        "id": "16:292",
+        "name": "02_Onboarding",
+        "type": "FRAME",
+        "x": 494,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 2,
+        "reaction_count": 1
+      },
+      {
+        "id": "16:316",
+        "name": "03_Sign_In",
+        "type": "FRAME",
+        "x": 988,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 2,
+        "reaction_count": 1
+      },
+      {
+        "id": "16:354",
+        "name": "04_Verification",
+        "type": "FRAME",
+        "x": 1482,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 2,
+        "reaction_count": 2
+      },
+      {
+        "id": "18:354",
+        "name": "05_Home",
+        "type": "FRAME",
+        "x": 1976,
+        "y": 0,
+        "width": 414,
+        "height": 1507,
+        "text_count": 0,
+        "reaction_count": 4
+      },
+      {
+        "id": "18:513",
+        "name": "06_Product_Detail",
+        "type": "FRAME",
+        "x": 2470,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 3,
+        "reaction_count": 2
+      },
+      {
+        "id": "20:547",
+        "name": "07_Explore",
+        "type": "FRAME",
+        "x": 2964,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 0,
+        "reaction_count": 4
+      },
+      {
+        "id": "20:623",
+        "name": "08_Beverages",
+        "type": "FRAME",
+        "x": 3458,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 0,
+        "reaction_count": 1
+      },
+      {
+        "id": "20:715",
+        "name": "09_My_Cart",
+        "type": "FRAME",
+        "x": 3952,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 0,
+        "reaction_count": 4
+      },
+      {
+        "id": "20:858",
+        "name": "10_Checkout_Overlay",
+        "type": "FRAME",
+        "x": 4446,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 2,
+        "reaction_count": 3
+      },
+      {
+        "id": "20:901",
+        "name": "11_Order_Accepted",
+        "type": "FRAME",
+        "x": 4940,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 2,
+        "reaction_count": 1
+      },
+      {
+        "id": "20:938",
+        "name": "12_Account",
+        "type": "FRAME",
+        "x": 5434,
+        "y": 0,
+        "width": 414,
+        "height": 896,
+        "text_count": 2,
+        "reaction_count": 3
+      }
+    ]
+  },
+  "brief": "NECTAR · LEVEL L2 · DESIGN TASK · v2\nNectar — online groceries app\nDesign the complete Nectar mobile grocery app: a shopper in Dhaka signs in with a phone number, browses the store, opens a product, explores a category, fills the cart, checks out, gets an order confirmation and manages the account.\nCanvas 414 × 896 (iPhone), light mode only. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 12 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / error / warning / disabled, rating), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the main navigation and every business component as reusable components in your file.\n5. Use product photos, category images, the logo, flag, illustrations and icons from 04 · Media. People have no photos: use Avatar_Neutral.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Splash\nGoal: Brand recognition while the app loads.\nMUST INCLUDE\n• Brand: Nectar logo\nLINKS\n→ auto → 02_Onboarding\n02_Onboarding\nGoal: Welcome a new shopper and get started.\nMUST INCLUDE\n• Actions: Get Started\n• Brand: Nectar_Carrot\n• Copy: “Welcome to our store” · “Get your groceries in as fast as one hour”\n• Media: Photo_Welcome_Delivery\nLINKS\n→ Get Started → 03_Sign_In\n03_Sign_In\nGoal: Start sign-in with a phone number or a social account.\nMUST INCLUDE\n• Actions: Continue with Google · Continue with Facebook\n• Copy: “Get your groceries with nectar” · “Or connect with social media”\n• Media: Photo_Sign_In_Groceries\n• Phone: country code +880 (Flag_Bangladesh) · number not entered yet\nLINKS\n→ phone number → 04_Verification\n04_Verification\nGoal: Verify the phone number with a 4-digit code.\nMUST INCLUDE\n• Actions: back · Resend Code · next\n• Code: “Code” · 4 digits, none entered yet\n• Copy: “Enter your 4-digit code”\nLINKS\n→ back → 03_Sign_In\n→ next → 05_Home\n05_Home\nGoal: Find groceries fast — by search, offer or category.\nMUST INCLUDE\n• Best Selling: “Best Selling” · See all · Bell Pepper Red, Ginger\n• Brand: Nectar_Carrot\n• Exclusive Offer: “Exclusive Offer” · See all · Organic Bananas, Red Apple\n• Groceries: “Groceries” · See all · categories Pulses, Rice · products Beef Bone, Broiler Chicken\n• Location: Dhaka, Banasree\n• Main navigation: current tab Shop\n• Products (all sections): each with image, name, unit, price and add to cart\n• Promotion: “Fresh Vegetables” · “Get Up To 40% OFF” (Banner_Fresh_Vegetables)\n• Search: “Search Store”\nLINKS\n→ Red Apple → 06_Product_Detail\n→ tabs → 05 / 07 / 09 / 12\n06_Product_Detail\nGoal: Judge a product and add it to the basket.\nMUST INCLUDE\n• Actions: back · share · favourite (not favourited yet) · Add To Basket\n• Details: “Product Detail” with its description (open) · “Nutritions” 100gr · “Review” 5 of 5 stars\n• Product: Product_Red_Apple · “Natural Red Apple” · “1kg, Price” · $4.99\n• Quantity: 1, can be decreased / increased\nLINKS\n→ back → 05_Home\n→ Add To Basket → 09_My_Cart\n07_Explore\nGoal: Browse the store by category.\nMUST INCLUDE\n• Categories: 6, each with its image — Fresh Fruits & Vegetable · Cooking Oil & Ghee · Meat & Fish · Bakery & Snacks · Dairy & Eggs · Beverages\n• Copy: “Find Products”\n• Main navigation: current tab Explore\n• Search: “Search Store”\nLINKS\n→ Beverages → 08_Beverages\n→ tabs\n08_Beverages\nGoal: Pick drinks from one category.\nMUST INCLUDE\n• Actions: back · filter entry\n• Copy: “Beverages”\n• Products: 6 — Diet Coke · Sprite Can · Apple & Grape Juice · Orange Juice · Coca Cola Can · Pepsi Can — each with image, name, size, price and add to cart\nLINKS\n→ back → 07_Explore\n09_My_Cart\nGoal: Review the basket and go to checkout.\nMUST INCLUDE\n• Actions: Go to Checkout, showing the cart total $14.96\n• Cart: 4 items — Bell Pepper Red · Egg Chicken Red · Organic Bananas · Ginger — each with image, name, unit, price, quantity 1 (can be decreased / increased) and remove\n• Copy: “My Cart”\n• Main navigation: current tab Cart\nLINKS\n→ Go to Checkout → 10_Checkout_Overlay\n→ tabs\n10_Checkout_Overlay\nGoal: Confirm delivery, payment and cost, then place the order.\nMUST INCLUDE\n• Actions: close · Place Order\n• Copy: “Checkout”\n• Legal: “By placing an order you agree to our Terms And Conditions” (Terms And Conditions is a link)\n• Order rows: Delivery “Select Method” · Payment (card, Icon_Payment) · Promo Code “Pick discount” · Total Cost $14.96 — each row opens its own choice\n• Presentation: opens over 09_My_Cart; the cart stays behind it\nLINKS\n→ close → 09_My_Cart\n→ Place Order → 11_Order_Accepted\n11_Order_Accepted\nGoal: Confirm the order unambiguously.\nMUST INCLUDE\n• Actions: Track Order · Back to home\n• Copy: “Your Order has been accepted” · “Your items have been placed and are on their way to being processed”\n• Media: Illustration_Order_Accepted\nLINKS\n→ Back to home → 05_Home\n12_Account\nGoal: Identify the account and reach account settings.\nMUST INCLUDE\n• Account: Avatar_Neutral · “Afsar Hossen” · edit name entry · imshuvo97@gmail.com\n• Actions: Log Out\n• Entries: About · Delivery Address · Help · My Details · Notifications · Orders · Payment Methods · Promo Code\n• Main navigation: current tab Account\nLINKS\n→ tabs\nNavigation structure\n• Onboarding: 01_Splash → 02_Onboarding → 03_Sign_In → 04_Verification → 05_Home.\n• Main navigation on 05, 07, 09, 12 — five tabs in this order: Shop (Icon_Shop) → 05 · Explore (Icon_Explore) → 07 · Cart (Icon_Cart) → 09 · Favourite (Icon_Favourite, entry only) · Account (Icon_Account) → 12. The current tab must match the frame. How it looks is yours.\n• Pushed screens with back: 04, 06, 08. 06 and 08 have no main navigation.\n• 10_Checkout_Overlay opens over 09_My_Cart; 11_Order_",
+  "layer_summary": {
+    "board_count": 12,
+    "boards": [
+      {
+        "name": "01_Splash",
+        "size": "414×896",
+        "nodes": 27,
+        "max_depth": 5,
+        "instances": 3,
+        "texts": 1,
+        "images": 0,
+        "types": [
+          "vector×9",
+          "rectangle×7",
+          "group×4",
+          "instance×3",
+          "frame×2",
+          "text×1"
+        ],
+        "names": [
+          "Nectar_Logo_White",
+          "logo",
+          "Group",
+          "Vector",
+          "Vector_2",
+          "Group_2"
+        ]
+      },
+      {
+        "name": "02_Onboarding",
+        "size": "414×896",
+        "nodes": 23,
+        "max_depth": 3,
+        "instances": 5,
+        "texts": 4,
+        "images": 0,
+        "types": [
+          "rectangle×8",
+          "instance×5",
+          "text×4",
+          "vector×2",
+          "frame×2",
+          "group×1"
+        ],
+        "names": [
+          "Photo_Welcome_Delivery",
+          "Scrim gradient",
+          "Nectar_Carrot",
+          "Group",
+          "Vector_5",
+          "Vector_6"
+        ]
+      },
+      {
+        "name": "03_Sign_In",
+        "size": "414×896",
+        "nodes": 37,
+        "max_depth": 4,
+        "instances": 10,
+        "texts": 7,
+        "images": 0,
+        "types": [
+          "instance×10",
+          "rectangle×9",
+          "text×7",
+          "vector×5",
+          "frame×4",
+          "group×1"
+        ],
+        "names": [
+          "Photo_Sign_In_Groceries",
+          "Fade",
+          "Get your groceries with ",
+          "Phone Number",
+          "Text Field",
+          "Email"
+        ]
+      },
+      {
+        "name": "04_Verification",
+        "size": "414×896",
+        "nodes": 32,
+        "max_depth": 4,
+        "instances": 8,
+        "texts": 8,
+        "images": 0,
+        "types": [
+          "rectangle×9",
+          "instance×8",
+          "text×8",
+          "frame×4",
+          "vector×2",
+          "ellipse×1"
+        ],
+        "names": [
+          "Soft wash",
+          "Header",
+          "Back",
+          "Vector",
+          "Enter your 4-digit code",
+          "Code"
+        ]
+      },
+      {
+        "name": "05_Home",
+        "size": "414×1507",
+        "nodes": 158,
+        "max_depth": 9,
+        "instances": 51,
+        "texts": 36,
+        "images": 0,
+        "types": [
+          "instance×51",
+          "text×36",
+          "frame×32",
+          "vector×20",
+          "rectangle×10",
+          "group×8"
+        ],
+        "names": [
+          "Nectar_Carrot",
+          "Group",
+          "Vector_5",
+          "Vector_6",
+          "Location Label",
+          "Icon/Location"
+        ]
+      },
+      {
+        "name": "06_Product_Detail",
+        "size": "414×896",
+        "nodes": 71,
+        "max_depth": 5,
+        "instances": 23,
+        "texts": 11,
+        "images": 0,
+        "types": [
+          "instance×23",
+          "frame×12",
+          "text×11",
+          "rectangle×10",
+          "vector×8",
+          "star×5"
+        ],
+        "names": [
+          "Product Gallery",
+          "Product_Red_Apple",
+          "Pager",
+          "Rectangle",
+          "Header",
+          "Back"
+        ]
+      },
+      {
+        "name": "07_Explore",
+        "size": "414×896",
+        "nodes": 75,
+        "max_depth": 9,
+        "instances": 28,
+        "texts": 14,
+        "images": 0,
+        "types": [
+          "instance×28",
+          "text×14",
+          "vector×11",
+          "frame×7",
+          "group×7",
+          "rectangle×7"
+        ],
+        "names": [
+          "Header",
+          "Title",
+          "Search Bar",
+          "Icon_Search",
+          "Vector_7",
+          "Placeholder"
+        ]
+      },
+      {
+        "name": "08_Beverages",
+        "size": "414×896",
+        "nodes": 91,
+        "max_depth": 5,
+        "instances": 29,
+        "texts": 20,
+        "images": 0,
+        "types": [
+          "instance×29",
+          "frame×26",
+          "text×20",
+          "vector×8",
+          "rectangle×7",
+          "ellipse×1"
+        ],
+        "names": [
+          "Header",
+          "Back",
+          "Vector",
+          "Title",
+          "Filter",
+          "Product Card · Diet Coke"
+        ]
+      },
+      {
+        "name": "09_My_Cart",
+        "size": "414×896",
+        "nodes": 142,
+        "max_depth": 9,
+        "instances": 40,
+        "texts": 25,
+        "images": 0,
+        "types": [
+          "instance×40",
+          "frame×40",
+          "text×25",
+          "vector×22",
+          "group×7",
+          "rectangle×7"
+        ],
+        "names": [
+          "Header",
+          "Title",
+          "Cart Item · Bell Pepper ",
+          "Image",
+          "Product_Bell_Pepper_Red",
+          "Info"
+        ]
+      },
+      {
+        "name": "10_Checkout_Overlay",
+        "size": "414×896",
+        "nodes": 175,
+        "max_depth": 10,
+        "instances": 52,
+        "texts": 35,
+        "images": 0,
+        "types": [
+          "instance×52",
+          "frame×42",
+          "text×35",
+          "vector×28",
+          "rectangle×10",
+          "group×7"
+        ],
+        "names": [
+          "My Cart (behind)",
+          "Header",
+          "Title",
+          "Cart Item · Bell Pepper ",
+          "Image",
+          "Product_Bell_Pepper_Red"
+        ]
+      },
+      {
+        "name": "11_Order_Accepted",
+        "size": "414×896",
+        "nodes": 36,
+        "max_depth": 5,
+        "instances": 5,
+        "texts": 5,
+        "images": 0,
+        "types": [
+          "vector×13",
+          "rectangle×7",
+          "instance×5",
+          "text×5",
+          "group×3",
+          "frame×2"
+        ],
+        "names": [
+          "Illustration_Order_Accep",
+          "Group 6872",
+          "Vector 11",
+          "Group 6871",
+          "Ellipse 19",
+          "Ellipse 20"
+        ]
+      },
+      {
+        "name": "12_Account",
+        "size": "414×896",
+        "nodes": 161,
+        "max_depth": 10,
+        "instances": 41,
+        "texts": 17,
+        "images": 0,
+        "types": [
+          "vector×50",
+          "instance×41",
+          "group×29",
+          "text×17",
+          "frame×15",
+          "rectangle×8"
+        ],
+        "names": [
+          "Avatar_Neutral",
+          "Vector",
+          "Afsar Hossen",
+          "Edit Name",
+          "imshuvo97@gmail.com",
+          "Divider"
+        ]
+      }
+    ]
+  }
+}

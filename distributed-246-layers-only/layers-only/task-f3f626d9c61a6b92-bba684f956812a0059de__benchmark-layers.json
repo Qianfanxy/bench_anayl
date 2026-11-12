@@ -1,0 +1,98 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "390×844",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×4",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Illustration Panel",
+        "Glow",
+        "Illustration_Onboarding",
+        "Headline",
+        "Subtitle"
+      ]
+    },
+    {
+      "name": "02_Phone_Number",
+      "size": "390×844",
+      "nodes": 21,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×7",
+        "frame×3",
+        "rectangle×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Illustration Panel",
+        "Glow",
+        "Illustration_Onboarding",
+        "Headline",
+        "Subtitle"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "390×844",
+      "nodes": 26,
+      "max_depth": 3,
+      "instances": 17,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "frame×5",
+        "text×2",
+        "rectangle×2"
+      ],
+      "names": [
+        "Header",
+        "Status Bar",
+        "AvatarButton",
+        "Avatar_Hallie_Goebel",
+        "SearchField",
+        "HistoryButton"
+      ]
+    },
+    {
+      "name": "04_Menu",
+      "size": "390×844",
+      "nodes": 39,
+      "max_depth": 3,
+      "instances": 24,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×24",
+        "frame×6",
+        "rectangle×5",
+        "text×4"
+      ],
+      "names": [
+        "Header",
+        "Status Bar",
+        "AvatarButton",
+        "Avatar_Hallie_Goebel",
+        "SearchField",
+        "HistoryButton"
+      ]
+    }
+  ]
+}

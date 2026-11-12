@@ -1,0 +1,144 @@
+
+messages[136] / m136-call0.js
+0001: 
+0002: await figma.setCurrentPageAsync(figma.getNodeById("5:2"));
+0003: const ids=["25:309","25:321","25:340","26:341","27:414","27:497","28:468","28:520","29:533","29:554"];
+0004: const names=["01_Splash","02_Welcome","03_Name","04_Home","05_Product_Quinoa","06_Basket","07_Checkout_Delivery","08_Checkout_Card","09_Order_Complete","10_Track_Order"];
+0005: let out=[];
+0006: for(let i=0;i<ids.length;i++){
+0007:   const f=figma.getNodeById(ids[i]);
+0008:   out.push(names[i]+"="+(f?(f.name+" "+f.width+"x"+f.height+" reactions:"+f.reactions.length):"MISSING"));
+0009: }
+0010: let reactionCount=0;
+0011: for(const p of figma.currentPage.children){ for(const n of p.findAll(()=>true)){ if(n.reactions&&n.reactions.length) reactionCount+=n.reactions.length; } }
+0012: const c73=figma.getNodeById("3:21")?"components frame OK":"components frame MISSING";
+0013: const m22=figma.getNodeById("2:2")?"media frame OK":"media frame MISSING";
+0014: const b42=figma.getNodeById("4:2")?"brief frame OK":"brief frame MISSING";
+0015: const f12=figma.getNodeById("1:2")?"foundations OK":"foundations MISSING";
+0016: return out.join(" | ")+" || totalReactionNodes:"+reactionCount+" || "+c73+", "+m22+", "+b42+", "+f12;
+
+messages[149] / m149-call0.js
+0001: 
+0002: const page = figma.getNodeById("5:2");
+0003: let out = "";
+0004: if (page) {
+0005:   out += "page: " + page.name + " children=" + page.children.length + "\n";
+0006:   for (const c of page.children) {
+0007:     out += c.id + " | " + c.type + " | " + c.name + " | x=" + Math.round(c.x) + " y=" + Math.round(c.y) + "\n";
+0008:   }
+0009: } else { out = "page 5:2 null"; }
+0010: return out;
+
+messages[150] / m150-result.txt
+0001: page: 03 · Workspace children=6
+0002: 7:2 | FRAME | FH · Design System | x=40 y=40
+0003: 8:14 | COMPONENT | FH / Fav Button | x=32 y=260
+0004: 8:15 | COMPONENT | FH / Add Button | x=72 y=260
+0005: 8:16 | COMPONENT | FH / Header · Back | x=112 y=260
+0006: 8:17 | COMPONENT | FH / Header · Close | x=168 y=260
+0007: 8:19 | COMPONENT | FH / Stepper | x=32 y=340
+0008: 
+
+messages[153] / m153-call0.js
+0002: let out = "";
+0003: for (const p of figma.root.children) {
+0004:   out += "PAGE " + p.id + " [" + p.name + "] children=" + p.children.length + "\n";
+0005:   for (const c of p.children) {
+0006:     out += "  " + c.id + " | " + c.type + " | " + c.name + " | " + Math.round(c.width) + "x" + Math.round(c.height) + " @ " + Math.round(c.x) + "," + Math.round(c.y) + "\n";
+0007:   }
+0008: }
+0009: return out;
+
+messages[154] / m154-result.txt
+0001: PAGE 0:1 [00 · Start Here 设计任务] children=1
+0002:   4:2 | FRAME | Start Here · Brief | 1440x4111 @ 0,0
+0003: PAGE 1:2 [01 · Foundations 视觉规范] children=0
+0004: PAGE 1:3 [02 · Components 组件库] children=1
+0005:   3:21 | FRAME | Components | 1400x571 @ 0,0
+0006: PAGE 1:4 [04 · Media 素材库] children=1
+0007:   2:2 | FRAME | Media | 1400x1679 @ 0,0
+0008: PAGE 5:2 [03 · Workspace] children=6
+0009:   7:2 | FRAME | FH · Design System | 2330x620 @ 40,40
+0010:   8:14 | COMPONENT | FH / Fav Button | 24x24 @ 32,260
+0011:   8:15 | COMPONENT | FH / Add Button | 22x22 @ 72,260
+0012:   8:16 | COMPONENT | FH / Header · Back | 40x40 @ 112,260
+0013:   8:17 | COMPONENT | FH / Header · Close | 32x32 @ 168,260
+0014:   8:19 | COMPONENT | FH / Stepper | 168x44 @ 32,340
+0015: 
+
+messages[155] / m155-call0.js
+0010:   return s;
+0011: }
+0012: const ids = ["10:24","10:38","10:58","12:57","13:130","13:182","14:185","14:242","17:254","17:275"];
+0013: let out = "";
+0014: for (const id of ids) {
+0015:   const n = figma.getNodeById(id);
+0016:   out += id + ": " + (n ? chain(n) : "NULL") + "\n";
+0017: }
+0018: return out;
+
+messages[156] / m156-result.txt
+0001: 10:24: NULL
+0002: 10:38: NULL
+0003: 10:58: NULL
+0004: 12:57: NULL
+0005: 13:130: NULL
+0006: 13:182: NULL
+0007: 14:185: NULL
+0008: 14:242: NULL
+0009: 17:254: NULL
+0010: 17:275: NULL
+0011: 
+0012: 
+0013: <system-reminder>
+0014: <total_tokens>14851414 tokens left</total_tokens>
+0015: </system-reminder>
+
+messages[157] / m157-call0.js
+0008: }
+0009: for (const p of figma.root.children) walk(p);
+0010: return "hits: " + found.length + "\n" + found.join("\n");
+
+messages[158] / m158-result.txt
+0001: hits: 0
+0002: 
+0003: 
+0004: <system-reminder>
+0005: <total_tokens>14848849 tokens left</total_tokens>
+0006: </system-reminder>
+
+messages[163] / m163-call0.js
+0001: 
+0002: await figma.setCurrentPageAsync(figma.getNodeById("5:2"));
+0003: await Promise.all([
+0004:   figma.loadFontAsync({family:"Nunito",style:"Regular"}),
+0005:   figma.loadFontAsync({family:"Nunito",style:"SemiBold"}),
+0006:   figma.loadFontAsync({family:"Nunito",style:"Bold"})
+0007: ]);
+0008: const P=(hex,o)=>{const n=parseInt(hex,16);return{type:"SOLID",color:{r:((n>>16)&255)/255,g:((n>>8)&255)/255,b:(n&255)/255},opacity:o===undefined?1:o};};
+0009: const PRIMARY="FFA451", INK="27214D", BODY="6C6980", FAINT="C2BDBD", WHITE="FFFFFF";
+0010: function frame(name,x,y){const f=figma.createFrame();f.name=name;f.resize(375,812);f.x=x;f.y=y;f.fills=[P(WHITE)];f.clipsContent=true;figma.currentPage.appendChild(f);return f;}
+0011: function txt(parent,str,size,style,hex,x,y,w,lh){const t=figma.createText();t.fontName={family:"Nunito",style:style};t.characters=str;t.fontSize=size;t.fills=[P(hex)];if(w)t.resize(w,t.height);if(lh)t.lineHeight={unit:"PERCENT",value:lh};parent.appendChild(t);t.x=x;t.y=y;return t;}
+0012: function inst(id,parent,x,y){const i=figma.getNodeById(id).createInstance();parent.appendChild(i);i.x=x;i.y=y;return i;}
+0013: // tidy: move loose components back into section 7:2
+0014: const sec = figma.getNodeById("7:2");
+0015: let moved = 0;
+0016: for (const id of ["8:14","8:15","8:16","8:17","8:19"]) {
+0017:   const c = figma.getNodeById(id);
+0019: }
+0020: // 01_Splash
+0021: const f1 = frame("01_Splash",40,700);
+0022: f1.fills=[P(PRIMARY)];
+0023: inst("7:24",f1,0,0);
+0024: const logo = inst("2:8",f1,0,0);
+0025: logo.resize(198,153);
+0026: logo.x=(375-198)/2; logo.y=(812-153)/2;
+0027: // 02_Welcome
+0028: const f2 = frame("02_Welcome",515,700);
+0029: inst("7:14",f2,0,0);
+0030: inst("2:32",f2,37,110);
+0031: txt(f2,"Get The Freshest Fruit Salad Combo",24,"Bold",INK,24,410,250,135);
+0032: txt(f2,"We deliver the best and freshest fruit salad in town. Order for a combo today!!!",14,"Regular",BODY,24,494,300,150);
+0033: inst("2:38",f2,255,560);
+0034: const b2 = inst("7:5",f2,24,682);
+0035: inst("7:34",f2,0,778);

@@ -1,0 +1,100 @@
+[
+  {
+    "node_id": "18:81",
+    "name": "01_Welcome",
+    "file": "18-81.png"
+  },
+  {
+    "node_id": "18:104",
+    "name": "02_Photo_ID",
+    "file": "18-104.png"
+  },
+  {
+    "node_id": "18:155",
+    "name": "03_Bank_Home",
+    "file": "18-155.png"
+  },
+  {
+    "node_id": "19:183",
+    "name": "04_Bank_Transactions",
+    "file": "19-183.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "ns1vu1jAfNex4AphVlb18K",
+        "nodeId": "19:183",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "583e3be0bfe1d03330fb6966f955f7d2a387d3d61bde62fc786a83861a1b5cca",
+      "response_file": "_debug/v2-native-19-183.png.txt",
+      "response_sha256": "9556a99e45c2daf1007c4026cf27ceb92789716556261a591d3290a4a18eabf5"
+    }
+  },
+  {
+    "node_id": "19:277",
+    "name": "05_Profile",
+    "file": "19-277.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "ns1vu1jAfNex4AphVlb18K",
+        "nodeId": "19:277",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "91ee888befb11ddad1903addd02e9e82ac79212dba5a82ab0e5c01e91e95c22d",
+      "response_file": "_debug/v2-native-19-277.png.txt",
+      "response_sha256": "d6b2c7f56719a6c48ba2b0a3d02557b1ded59e206e24ac10c38b0fbab1cad606"
+    }
+  },
+  {
+    "node_id": "19:397",
+    "name": "06_XTrade_Welcome",
+    "file": "19-397.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "ns1vu1jAfNex4AphVlb18K",
+        "nodeId": "19:397",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "b33715b603e2c6f19d5a203acb1d9447d1b92e6d3e88a124f7c3336eddc06251",
+      "response_file": "_debug/v2-native-19-397.png.txt",
+      "response_sha256": "e0d6e5a6adffd3d3551cbcec543a8193a93ee491af622a2fa6f1eb0f4b368b52"
+    }
+  },
+  {
+    "node_id": "20:300",
+    "name": "07_Trade_Home",
+    "file": "20-300.png"
+  },
+  {
+    "node_id": "20:468",
+    "name": "08_Market",
+    "file": "20-468.png"
+  },
+  {
+    "node_id": "21:388",
+    "name": "09_Exchange_Stock",
+    "file": "21-388.png"
+  },
+  {
+    "node_id": "21:497",
+    "name": "10_Exchange_Crypto",
+    "file": "21-497.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "ns1vu1jAfNex4AphVlb18K",
+        "nodeId": "21:497",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "d768c88fd47212e2f43916f21da3a53aaf7d498babf51fb7d20766d773b179e2",
+      "response_file": "_debug/v2-native-21-497.png.txt",
+      "response_sha256": "fcd3a6d8c68f91a7fd7d265ecadf90ca01e0ff70e5dad121a209a75cd9276576"
+    }
+  }
+]

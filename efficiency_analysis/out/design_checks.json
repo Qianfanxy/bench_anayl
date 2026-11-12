@@ -1,0 +1,8 @@
+{
+ "process_vs_artifact": {
+  "p_instantiate~instance_share@v1": 0.02412750117516696,
+  "p_instantiate~instance_share@v2": 0.1478841970454084,
+  "p_primitive~primitive_share@v1": 0.3213498465811665,
+  "p_primitive~primitive_share@v2": 0.557352188376493
+ }
+}

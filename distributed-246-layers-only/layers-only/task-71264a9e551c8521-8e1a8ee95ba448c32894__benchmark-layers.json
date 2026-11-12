@@ -1,0 +1,159 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Frontpage",
+      "size": "1680×4610",
+      "nodes": 50,
+      "max_depth": 5,
+      "instances": 29,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×29",
+        "frame×15",
+        "text×6"
+      ],
+      "names": [
+        "Header",
+        "NewsTicker",
+        "HeroSection",
+        "Art & Life",
+        "HeroRow",
+        "LeadStory"
+      ]
+    },
+    {
+      "name": "02_Magazine",
+      "size": "1680×4157",
+      "nodes": 37,
+      "max_depth": 3,
+      "instances": 25,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×25",
+        "frame×10",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "TitleSection",
+        "Magazine",
+        "CategoryFilter",
+        "CATEGORIES",
+        "CategoryTag"
+      ]
+    },
+    {
+      "name": "03_Magazine_Post",
+      "size": "1680×3414",
+      "nodes": 26,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×8",
+        "frame×7"
+      ],
+      "names": [
+        "Header",
+        "TitleSection",
+        "BackRow",
+        "BackLink",
+        "MAGAZINE",
+        "Hope dies last"
+      ]
+    },
+    {
+      "name": "04_Podcast",
+      "size": "1680×1330",
+      "nodes": 10,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "TitleSection",
+        "Podcast",
+        "ListSection",
+        "PodcastRow",
+        "FooterBand"
+      ]
+    },
+    {
+      "name": "05_Podcast_Post",
+      "size": "1680×2703",
+      "nodes": 31,
+      "max_depth": 4,
+      "instances": 12,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×11",
+        "frame×8"
+      ],
+      "names": [
+        "Header",
+        "HeroSection",
+        "BackRow",
+        "BackLink",
+        "PODCAST",
+        "HeroRow"
+      ]
+    },
+    {
+      "name": "06_Authors",
+      "size": "1680×1430",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "TitleSection",
+        "Authors",
+        "ListSection",
+        "AuthorRow",
+        "FooterBand"
+      ]
+    },
+    {
+      "name": "07_Author_Profile",
+      "size": "1680×1988",
+      "nodes": 25,
+      "max_depth": 5,
+      "instances": 9,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×8",
+        "text×8"
+      ],
+      "names": [
+        "Header",
+        "ProfileSection",
+        "BackRow",
+        "BackLink",
+        "AUTHOR",
+        "ProfileRow"
+      ]
+    }
+  ]
+}

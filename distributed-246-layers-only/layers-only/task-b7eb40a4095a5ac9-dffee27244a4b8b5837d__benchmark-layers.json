@@ -1,0 +1,141 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "414×932",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 3,
+      "images": 1,
+      "types": [
+        "text×3",
+        "instance×2",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "SHELL_STATUSBAR",
+        "SHELL_HOMEINDICATOR",
+        "Logo",
+        "Brand",
+        "Tag",
+        "TopBrand"
+      ]
+    },
+    {
+      "name": "02_Welcome",
+      "size": "414×932",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 3,
+      "images": 1,
+      "types": [
+        "instance×3",
+        "text×3",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "SHELL_STATUSBAR",
+        "SHELL_HOMEINDICATOR",
+        "WelcomeIllustration",
+        "Title",
+        "Subtitle",
+        "CreateAccount"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Empty",
+      "size": "414×932",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "text×7",
+        "instance×6",
+        "component×1",
+        "vector×1"
+      ],
+      "names": [
+        "SHELL_STATUSBAR",
+        "SHELL_HOMEINDICATOR",
+        "BackIcon",
+        "Vector",
+        "Create an account",
+        "Invest and double your i"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Filled",
+      "size": "414×932",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "text×7",
+        "instance×6",
+        "component×1",
+        "vector×1"
+      ],
+      "names": [
+        "SHELL_STATUSBAR",
+        "SHELL_HOMEINDICATOR",
+        "BackIcon",
+        "Vector",
+        "Create an account",
+        "Invest and double your i"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Error",
+      "size": "414×932",
+      "nodes": 16,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "text×8",
+        "instance×6",
+        "component×1",
+        "vector×1"
+      ],
+      "names": [
+        "SHELL_STATUSBAR",
+        "SHELL_HOMEINDICATOR",
+        "BackIcon",
+        "Vector",
+        "Create an account",
+        "Invest and double your i"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "414×1600",
+      "nodes": 31,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 14,
+      "images": 2,
+      "types": [
+        "text×14",
+        "instance×8",
+        "frame×7",
+        "rectangle-image×2"
+      ],
+      "names": [
+        "SHELL_STATUSBAR",
+        "SHELL_HOMEINDICATOR",
+        "Header",
+        "Menu",
+        "Notif",
+        "Welcome"
+      ]
+    }
+  ]
+}

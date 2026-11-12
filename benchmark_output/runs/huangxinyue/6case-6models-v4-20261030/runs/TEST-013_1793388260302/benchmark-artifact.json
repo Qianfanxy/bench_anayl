@@ -1,0 +1,589 @@
+{
+  "file_key": "hKV1sOFfScKnDJe17PlYzc",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "5:2",
+      "name": "03 · Workspace",
+      "child_count": 16
+    }
+  ],
+  "workspace": {
+    "id": "5:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "9:58",
+        "name": "Stylish Components (not a screen)",
+        "type": "SECTION",
+        "x": 3800,
+        "y": 0,
+        "width": 1825,
+        "height": 7879,
+        "text_count": 125,
+        "reaction_count": 23
+      },
+      {
+        "id": "13:338",
+        "name": "01_Splash",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 0,
+        "reaction_count": 1
+      },
+      {
+        "id": "13:358",
+        "name": "02_Onboarding_Choose_Products",
+        "type": "FRAME",
+        "x": 455,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 4,
+        "reaction_count": 2
+      },
+      {
+        "id": "13:390",
+        "name": "03_Onboarding_Make_Payment",
+        "type": "FRAME",
+        "x": 910,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 4,
+        "reaction_count": 3
+      },
+      {
+        "id": "13:423",
+        "name": "04_Onboarding_Get_Your_Order",
+        "type": "FRAME",
+        "x": 1365,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 4,
+        "reaction_count": 3
+      },
+      {
+        "id": "13:456",
+        "name": "05_Sign_In",
+        "type": "FRAME",
+        "x": 1820,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 2,
+        "reaction_count": 4
+      },
+      {
+        "id": "13:516",
+        "name": "06_Sign_Up",
+        "type": "FRAME",
+        "x": 2275,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 3,
+        "reaction_count": 4
+      },
+      {
+        "id": "13:586",
+        "name": "07_Forgot_Password",
+        "type": "FRAME",
+        "x": 2730,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 2,
+        "reaction_count": 1
+      },
+      {
+        "id": "13:615",
+        "name": "08_Get_Started",
+        "type": "FRAME",
+        "x": 3185,
+        "y": 0,
+        "width": 375,
+        "height": 812,
+        "text_count": 2,
+        "reaction_count": 1
+      },
+      {
+        "id": "15:857",
+        "name": "09_Home",
+        "type": "FRAME",
+        "x": 0,
+        "y": 1000,
+        "width": 375,
+        "height": 2891,
+        "text_count": 0,
+        "reaction_count": 5
+      },
+      {
+        "id": "15:1265",
+        "name": "10_Product_List",
+        "type": "FRAME",
+        "x": 455,
+        "y": 1000,
+        "width": 375,
+        "height": 2466,
+        "text_count": 0,
+        "reaction_count": 3
+      },
+      {
+        "id": "16:1402",
+        "name": "11_Product_Detail",
+        "type": "FRAME",
+        "x": 910,
+        "y": 1000,
+        "width": 375,
+        "height": 2016,
+        "text_count": 10,
+        "reaction_count": 6
+      },
+      {
+        "id": "16:1403",
+        "name": "12_Shopping_Bag",
+        "type": "FRAME",
+        "x": 1365,
+        "y": 1000,
+        "width": 375,
+        "height": 812,
+        "text_count": 3,
+        "reaction_count": 2
+      },
+      {
+        "id": "16:1486",
+        "name": "13_Payment",
+        "type": "FRAME",
+        "x": 1820,
+        "y": 1000,
+        "width": 375,
+        "height": 812,
+        "text_count": 1,
+        "reaction_count": 5
+      },
+      {
+        "id": "16:1593",
+        "name": "14_Payment_Success_Overlay",
+        "type": "FRAME",
+        "x": 2275,
+        "y": 1000,
+        "width": 375,
+        "height": 812,
+        "text_count": 1,
+        "reaction_count": 5
+      },
+      {
+        "id": "16:1698",
+        "name": "15_Profile",
+        "type": "FRAME",
+        "x": 2730,
+        "y": 1000,
+        "width": 375,
+        "height": 1417,
+        "text_count": 4,
+        "reaction_count": 1
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nStylish — fashion & lifestyle shopping app\nDesign the complete Stylish mobile shopping app: a first-time shopper goes through onboarding, signs in, browses featured deals and trending products, opens a product, reviews the shopping bag, pays and manages the profile.\nCanvas 375 × 812, light mode only. Home, Product list, Product detail and Profile may scroll vertically. Currency: Indian rupee (₹). Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 15 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / error / disabled, sale and rating colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the main navigation and every business component as reusable components in your file.\n5. Use the logo, product photos, banners, payment logos and icons from 04 · Media. A product marked “no photo supplied” needs a consistent fallback of your choice.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Splash\nGoal: Recognise the brand while the app loads.\nMUST INCLUDE\n• Brand: Stylish logo\nLINKS\n→ auto-advance → 02_Onboarding_Choose_Products\n02_Onboarding_Choose_Products\nGoal: Learn what the app offers (step 1).\nMUST INCLUDE\n• Actions: Next · Skip\n• Copy: “Choose Products” · “Browse thousands of products across fashion, beauty, electronics and more.”\n• Media: Onboarding_Choose_Products\n• Progress: step 1 of 3\nLINKS\n→ Next → 03_Onboarding_Make_Payment\n→ Skip → 05_Sign_In\n03_Onboarding_Make_Payment\nGoal: Learn how paying works (step 2).\nMUST INCLUDE\n• Actions: Next · Prev · Skip\n• Copy: “Make Payment” · “Pay securely with your saved cards, PayPal or Apple Pay.”\n• Media: Onboarding_Make_Payment\n• Progress: step 2 of 3\nLINKS\n→ Prev → 02 · Next → 04 · Skip → 05_Sign_In\n04_Onboarding_Get_Your_Order\nGoal: Learn how delivery works (step 3).\nMUST INCLUDE\n• Actions: Get Started · Prev · Skip\n• Copy: “Get Your Order” · “Track your order until it arrives at your door.”\n• Media: Onboarding_Get_Your_Order\n• Progress: step 3 of 3\nLINKS\n→ Prev → 03 · Get Started → 05_Sign_In · Skip → 05_Sign_In\n05_Sign_In\nGoal: Sign in to an existing account.\nMUST INCLUDE\n• Actions: Forgot Password? · Login · “Create An Account” Sign Up\n• Copy: “Welcome Back!”\n• Form: Password (can be shown or hidden) · Username or Email · nothing entered yet\n• Social sign-in: “- OR Continue with -” · Apple · Facebook · Google\nLINKS\n→ Login → 08_Get_Started\n→ Forgot Password? → 07_Forgot_Password\n→ Sign Up → 06_Sign_Up\n06_Sign_Up\nGoal: Create an account.\nMUST INCLUDE\n• Actions: Create Account · “I Already Have an Account” Login\n• Copy: “Create an account”\n• Form: Confirm Password · Password · Username or Email · both passwords can be shown or hidden · nothing entered yet\n• Legal: “By clicking the Create Account button, you agree to the public offer”\n• Social sign-in: “- OR Continue with -” · Apple · Facebook · Google\nLINKS\n→ Create Account → 08_Get_Started\n→ Login → 05_Sign_In\n07_Forgot_Password\nGoal: Request a password reset.\nMUST INCLUDE\n• Actions: Submit\n• Copy: “Forgot password?” · “* We will send you a message to set or reset your new password”\n• Form: email address (“Enter your email address”), nothing entered yet\nLINKS\n→ Submit → 05_Sign_In\n08_Get_Started\nGoal: Enter the store.\nMUST INCLUDE\n• Actions: Get Started\n• Copy: “You want Authentic, here you go!” · “Find it here, buy it now!”\n• Media: Get_Started_Photo\nLINKS\n→ Get Started → 09_Home\n09_Home\nGoal: Discover deals, categories and trending products.\nMUST INCLUDE\n• Account: avatar · menu entry\n• Banner: “40–50% OFF” · “Now in all products” · “All colours” · Shop Now · 3 slides · current: slide 2\n• Brand: Stylish logo\n• Categories: Beauty · Fashion · Kids · Mens · Womens · Gifts, each with its image\n• Deal of the Day: “Deal of the Day” · “22h 55m 20s remaining” · View all · 4 products (DATA)\n• Featured: “All Featured” · Sort · Filter\n• Main navigation: current tab Home\n• Promotions: Special Offers · Flat and Heels · Hot Summer Sale · New Arrivals · Sponsored (DATA)\n• Search: “Search any Product..” · voice input\n• Trending Products: “Trending Products” · “Last Date 28/02/22” · View all · 5 products (DATA)\nLINKS\n→ Trending Products View all → 10_Product_List\n→ Sponsored → 11_Product_Detail\n→ tabs\n10_Product_List\nGoal: Browse every item in the store.\nMUST INCLUDE\n• Account: avatar · menu entry\n• Brand: Stylish logo\n• Main navigation: current tab Home\n• Products: 14 products, each with image, name, description, price and rating count (DATA)\n• Results: “52,082+ Items” · Sort · Filter\n• Search: “Search any Product..” · voice input\nLINKS\n→ tabs\n11_Product_Detail\nGoal: Judge a product and add it to the bag.\nMUST INCLUDE\n• Actions: back · cart entry · Go to cart · Buy Now · View Similar · Add to Compare\n• Delivery: “Delivery within 1 hour”\n• Gallery: 5 photos (Nike_Sneakers_1–5) · current: photo 1\n• Main navigation: current tab Home\n• Policies: Nearest Store · VIP · Return policy\n• Price: ₹1,500 · was ₹2,999 · 50% Off\n• Product: “Nike Sneakers” · “Vision Alta Men’s Shoes Size (All Colours)” · rating count 56,890 · “Product Details” with its text and “More”\n• Similar: “Similar To” · “282+ Items” · Sort · Filter · 4 products (DATA)\n• Size: 6 UK / 7 UK / 8 UK / 9 UK / 10 UK · current: 7 UK (“Size: 7 UK”)\nLINKS\n→ back → 09_Home\n→ Go to cart → 12_Shopping_Bag\n→ tabs\n12_Shopping_Bag\nGoal: Review the bag before paying.\nMUST INCLUDE\n• Actions: back · wishlist entry · Apply Coupons “Select” · Proceed to Payment · View Details\n• Copy: “Shopping Bag”\n• Item: Women’s Casual Wear · photo · Size 42 (changeable) · Qty 1 (changeable) · “Delivery by 10 Ma",
+  "layer_summary": {
+    "board_count": 15,
+    "boards": [
+      {
+        "name": "01_Splash",
+        "size": "375×812",
+        "nodes": 19,
+        "max_depth": 3,
+        "instances": 3,
+        "texts": 1,
+        "images": 0,
+        "types": [
+          "rectangle×7",
+          "vector×5",
+          "instance×3",
+          "frame×2",
+          "text×1",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "02_Onboarding_Choose_Products",
+        "size": "375×812",
+        "nodes": 31,
+        "max_depth": 3,
+        "instances": 6,
+        "texts": 7,
+        "images": 0,
+        "types": [
+          "rectangle×10",
+          "text×7",
+          "frame×7",
+          "instance×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "03_Onboarding_Make_Payment",
+        "size": "375×812",
+        "nodes": 32,
+        "max_depth": 3,
+        "instances": 7,
+        "texts": 8,
+        "images": 0,
+        "types": [
+          "rectangle×10",
+          "text×8",
+          "instance×7",
+          "frame×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "04_Onboarding_Get_Your_Order",
+        "size": "375×812",
+        "nodes": 32,
+        "max_depth": 3,
+        "instances": 7,
+        "texts": 8,
+        "images": 0,
+        "types": [
+          "rectangle×10",
+          "text×8",
+          "instance×7",
+          "frame×6",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "05_Sign_In",
+        "size": "375×812",
+        "nodes": 59,
+        "max_depth": 6,
+        "instances": 19,
+        "texts": 9,
+        "images": 0,
+        "types": [
+          "instance×19",
+          "frame×13",
+          "text×9",
+          "vector×9",
+          "rectangle×7",
+          "ellipse×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "06_Sign_Up",
+        "size": "375×812",
+        "nodes": 69,
+        "max_depth": 6,
+        "instances": 22,
+        "texts": 10,
+        "images": 0,
+        "types": [
+          "instance×22",
+          "frame×14",
+          "vector×13",
+          "text×10",
+          "rectangle×7",
+          "line×2"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "07_Forgot_Password",
+        "size": "375×812",
+        "nodes": 26,
+        "max_depth": 4,
+        "instances": 6,
+        "texts": 5,
+        "images": 0,
+        "types": [
+          "rectangle×7",
+          "instance×6",
+          "frame×6",
+          "text×5",
+          "ellipse×1",
+          "vector×1"
+        ],
+        "names": [
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi",
+          "Battery"
+        ]
+      },
+      {
+        "name": "08_Get_Started",
+        "size": "375×812",
+        "nodes": 21,
+        "max_depth": 3,
+        "instances": 4,
+        "texts": 4,
+        "images": 0,
+        "types": [
+          "rectangle×8",
+          "instance×4",
+          "text×4",
+          "frame×4",
+          "ellipse×1"
+        ],
+        "names": [
+          "Get_Started_Photo",
+          "Photo scrim",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle"
+        ]
+      },
+      {
+        "name": "09_Home",
+        "size": "375×2891",
+        "nodes": 306,
+        "max_depth": 10,
+        "instances": 101,
+        "texts": 80,
+        "images": 0,
+        "types": [
+          "instance×101",
+          "text×80",
+          "frame×59",
+          "vector×50",
+          "rectangle×11",
+          "ellipse×3"
+        ],
+        "names": [
+          "Scroll Content",
+          "Search Bar",
+          "Icon_Search",
+          "Vector",
+          "Placeholder",
+          "Voice input"
+        ]
+      },
+      {
+        "name": "10_Product_List",
+        "size": "375×2466",
+        "nodes": 355,
+        "max_depth": 9,
+        "instances": 123,
+        "texts": 67,
+        "images": 0,
+        "types": [
+          "instance×123",
+          "vector×92",
+          "text×67",
+          "frame×63",
+          "rectangle×7",
+          "ellipse×2"
+        ],
+        "names": [
+          "Scroll Content",
+          "Search Bar",
+          "Icon_Search",
+          "Vector",
+          "Placeholder",
+          "Voice input"
+        ]
+      },
+      {
+        "name": "11_Product_Detail",
+        "size": "375×2016",
+        "nodes": 244,
+        "max_depth": 10,
+        "instances": 88,
+        "texts": 49,
+        "images": 0,
+        "types": [
+          "instance×88",
+          "vector×53",
+          "text×49",
+          "frame×41",
+          "rectangle×12",
+          "ellipse×1"
+        ],
+        "names": [
+          "Scroll Content",
+          "Gallery",
+          "Nike_Sneakers_1",
+          "Page Dots",
+          "Dot current",
+          "Dot"
+        ]
+      },
+      {
+        "name": "12_Shopping_Bag",
+        "size": "375×812",
+        "nodes": 78,
+        "max_depth": 7,
+        "instances": 21,
+        "texts": 25,
+        "images": 0,
+        "types": [
+          "text×25",
+          "instance×21",
+          "frame×19",
+          "rectangle×7",
+          "vector×5",
+          "ellipse×1"
+        ],
+        "names": [
+          "Top Bar",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "13_Payment",
+        "size": "375×812",
+        "nodes": 103,
+        "max_depth": 6,
+        "instances": 31,
+        "texts": 23,
+        "images": 0,
+        "types": [
+          "instance×31",
+          "frame×27",
+          "text×23",
+          "vector×13",
+          "rectangle×7",
+          "ellipse×2"
+        ],
+        "names": [
+          "Top Bar",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle",
+          "Wifi"
+        ]
+      },
+      {
+        "name": "14_Payment_Success_Overlay",
+        "size": "375×812",
+        "nodes": 109,
+        "max_depth": 7,
+        "instances": 33,
+        "texts": 24,
+        "images": 0,
+        "types": [
+          "instance×33",
+          "frame×28",
+          "text×24",
+          "vector×14",
+          "rectangle×8",
+          "ellipse×2"
+        ],
+        "names": [
+          "13_Payment (behind)",
+          "Top Bar",
+          "Status Bar",
+          "9:41",
+          "Signal",
+          "Rectangle"
+        ]
+      },
+      {
+        "name": "15_Profile",
+        "size": "375×1417",
+        "nodes": 80,
+        "max_depth": 5,
+        "instances": 28,
+        "texts": 28,
+        "images": 0,
+        "types": [
+          "instance×28",
+          "text×28",
+          "frame×14",
+          "rectangle×7",
+          "vector×2",
+          "ellipse×1"
+        ],
+        "names": [
+          "Scroll Content",
+          "Identity",
+          "Avatar Edit",
+          "Avatar_Illustrated",
+          "Edit avatar",
+          "Pencil"
+        ]
+      }
+    ]
+  }
+}

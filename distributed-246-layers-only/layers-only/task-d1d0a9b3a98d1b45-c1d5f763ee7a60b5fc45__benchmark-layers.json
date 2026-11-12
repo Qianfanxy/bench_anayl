@@ -1,0 +1,103 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "Assets · Media bank",
+      "size": "900×2200",
+      "nodes": 65,
+      "max_depth": 3,
+      "instances": 33,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "component×33",
+        "vector×18",
+        "rectangle×6",
+        "ellipse×3",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Coin_BTC",
+        "Coin_ETH",
+        "Coin_USDT",
+        "Coin_BNB",
+        "Coin_USDC",
+        "Coin_BUSD"
+      ]
+    },
+    {
+      "name": "01_Wallet",
+      "size": "375×812",
+      "nodes": 74,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "text×32",
+        "frame×13",
+        "component×11",
+        "vector×9",
+        "rectangle×6",
+        "ellipse×3"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "02_Discovery",
+      "size": "375×812",
+      "nodes": 136,
+      "max_depth": 3,
+      "instances": 26,
+      "texts": 81,
+      "images": 0,
+      "types": [
+        "text×81",
+        "component×26",
+        "frame×19",
+        "rectangle×6",
+        "ellipse×3",
+        "vector×1"
+      ],
+      "names": [
+        "StatusBar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "03_Strategy",
+      "size": "375×812",
+      "nodes": 66,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 38,
+      "images": 0,
+      "types": [
+        "text×38",
+        "frame×13",
+        "rectangle×10",
+        "component×5"
+      ],
+      "names": [
+        "Rectangle",
+        "Sheet",
+        "Aggressive Growth",
+        "🔥 High Risk",
+        "About Strategy",
+        "The aggressive growth st"
+      ]
+    }
+  ]
+}

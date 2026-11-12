@@ -1,0 +1,4 @@
+{
+  "models": ["model_a", "model_b"],
+  "judge": "model_claude_opus55_direct"
+}

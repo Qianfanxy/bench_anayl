@@ -1,0 +1,105 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Login",
+      "size": "428×928",
+      "nodes": 43,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "instance×11",
+        "vector×8",
+        "rectangle×7",
+        "frame×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "02_Home_Chats",
+      "size": "428×928",
+      "nodes": 69,
+      "max_depth": 3,
+      "instances": 17,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "text×31",
+        "instance×17",
+        "frame×7",
+        "rectangle×7",
+        "vector×4",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "03_Home_Images",
+      "size": "428×928",
+      "nodes": 63,
+      "max_depth": 3,
+      "instances": 25,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "instance×25",
+        "text×17",
+        "frame×7",
+        "rectangle×7",
+        "vector×4",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "04_Home_Exports",
+      "size": "428×928",
+      "nodes": 67,
+      "max_depth": 3,
+      "instances": 23,
+      "texts": 23,
+      "images": 0,
+      "types": [
+        "instance×23",
+        "text×23",
+        "frame×7",
+        "rectangle×7",
+        "vector×4",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    }
+  ]
+}

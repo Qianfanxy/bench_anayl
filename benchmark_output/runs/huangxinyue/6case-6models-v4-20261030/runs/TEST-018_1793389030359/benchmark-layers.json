@@ -1,0 +1,305 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "414×896",
+      "nodes": 29,
+      "max_depth": 5,
+      "instances": 3,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "vector×9",
+        "rectangle×7",
+        "group×4",
+        "instance×3",
+        "ellipse×2",
+        "text×2"
+      ],
+      "names": [
+        "Glow",
+        "Nectar_Logo",
+        "logo",
+        "Group",
+        "Vector",
+        "Vector_2"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "414×896",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 5,
+      "images": 1,
+      "types": [
+        "rectangle×7",
+        "text×5",
+        "instance×4",
+        "vector×2",
+        "frame×2",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Photo_Welcome_Delivery",
+        "Nectar_Carrot",
+        "Group",
+        "Vector_5",
+        "Vector_6",
+        "Welcome"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "414×896",
+      "nodes": 52,
+      "max_depth": 5,
+      "instances": 7,
+      "texts": 9,
+      "images": 2,
+      "types": [
+        "vector×14",
+        "rectangle×12",
+        "text×9",
+        "instance×7",
+        "group×5",
+        "rectangle-image×2"
+      ],
+      "names": [
+        "Photo_Sign_In_Groceries",
+        "Nectar_Logo",
+        "logo",
+        "Group",
+        "Vector",
+        "Vector_2"
+      ]
+    },
+    {
+      "name": "04_Verification",
+      "size": "414×896",
+      "nodes": 38,
+      "max_depth": 5,
+      "instances": 8,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "rectangle×11",
+        "text×9",
+        "instance×8",
+        "frame×3",
+        "vector×3",
+        "group×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "414×1680",
+      "nodes": 127,
+      "max_depth": 7,
+      "instances": 19,
+      "texts": 36,
+      "images": 9,
+      "types": [
+        "text×36",
+        "rectangle×32",
+        "instance×19",
+        "vector×13",
+        "frame×9",
+        "rectangle-image×9"
+      ],
+      "names": [
+        "Nectar_Carrot",
+        "Group",
+        "Vector_5",
+        "Vector_6",
+        "Location",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "06_Product_Detail",
+      "size": "414×896",
+      "nodes": 54,
+      "max_depth": 4,
+      "instances": 7,
+      "texts": 13,
+      "images": 1,
+      "types": [
+        "rectangle×14",
+        "text×13",
+        "vector×10",
+        "instance×7",
+        "group×6",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "07_Explore",
+      "size": "414×896",
+      "nodes": 71,
+      "max_depth": 7,
+      "instances": 17,
+      "texts": 14,
+      "images": 6,
+      "types": [
+        "instance×17",
+        "text×14",
+        "rectangle×13",
+        "vector×11",
+        "group×7",
+        "rectangle-image×6"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "08_Beverages",
+      "size": "414×896",
+      "nodes": 75,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 20,
+      "images": 6,
+      "types": [
+        "rectangle×27",
+        "text×20",
+        "instance×9",
+        "frame×9",
+        "rectangle-image×6",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "09_My_Cart",
+      "size": "414×896",
+      "nodes": 103,
+      "max_depth": 7,
+      "instances": 18,
+      "texts": 27,
+      "images": 4,
+      "types": [
+        "text×27",
+        "rectangle×26",
+        "instance×18",
+        "vector×14",
+        "group×7",
+        "frame×6"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "10_Checkout_Overlay",
+      "size": "414×896",
+      "nodes": 170,
+      "max_depth": 9,
+      "instances": 30,
+      "texts": 35,
+      "images": 4,
+      "types": [
+        "text×35",
+        "vector×35",
+        "instance×30",
+        "group×30",
+        "rectangle×24",
+        "frame×11"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "11_Order_Accepted",
+      "size": "414×896",
+      "nodes": 37,
+      "max_depth": 5,
+      "instances": 4,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "vector×13",
+        "rectangle×7",
+        "text×6",
+        "instance×4",
+        "frame×3",
+        "group×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "12_Account",
+      "size": "414×896",
+      "nodes": 179,
+      "max_depth": 8,
+      "instances": 25,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "vector×56",
+        "group×53",
+        "instance×25",
+        "rectangle×24",
+        "text×18",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    }
+  ]
+}

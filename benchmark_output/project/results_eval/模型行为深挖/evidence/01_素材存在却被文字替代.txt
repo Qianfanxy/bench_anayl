@@ -1,0 +1,136 @@
+
+messages[15] / m15-result.txt
+0002:   <frame id="4:2" name="Media" x="0" y="0" width="1600" height="1674">
+0003:     <text id="4:3" name="Media · Chat Bot AI" x="64" y="64" width="297" height="39" />
+0004:     <text id="4:4" name="Logo, AI-generated images, the PDF icon, icons and the full story text used in 06_Chat_Conversation. Copy what you need into your own file. People have no photos: use Avatar_Neutral or initials." x="64" y="143" width="1472" height="18" />
+0005:     <frame id="4:5" name="Brand &amp; people" x="64" y="201" width="1472" height="159">
+0006:       <text id="4:6" name="Brand &amp; people" x="0" y="0" width="148" height="24" />
+0007:       <frame id="4:7" name="Items" x="0" y="40" width="1472" height="119">
+0008:         <frame id="4:9" name="tile" x="0" y="0" width="102" height="119">
+0009:           <symbol id="4:8" name="Logo" x="3" y="0" width="96" height="96" />
+0010:           <text id="4:10" name="Logo (kit artwork)" x="0" y="104" width="102" height="15" />
+0011:         </frame>
+0012:         <frame id="4:14" name="tile" x="134" y="0" width="96" height="119">
+0013:           <symbol id="4:11" name="Avatar_Neutral" x="0" y="0" width="96" height="96" />
+0014:           <text id="4:15" name="Avatar_Neutral" x="6.5" y="104" width="83" height="15" />
+0015:         </frame>
+0016:       </frame>
+0017:     </frame>
+0020:       <frame id="4:18" name="Items" x="0" y="40" width="1472" height="223">
+0021:         <frame id="4:20" name="tile" x="0" y="0" width="200" height="223">
+0022:           <symbol id="4:19" name="Gen_Mug" x="0" y="0" width="200" height="200" />
+0023:           <text id="4:21" name="Gen_Mug" x="73" y="208" width="54" height="15" />
+0024:         </frame>
+0025:         <frame id="4:23" name="tile" x="232" y="0" width="133" height="223">
+0026:           <symbol id="4:22" name="Gen_Rat" x="0" y="0" width="133" height="200" />
+0027:           <text id="4:24" name="Gen_Rat" x="42.5" y="208" width="48" height="15" />
+0028:         </frame>
+0029:         <frame id="4:26" name="tile" x="397" y="0" width="300" height="223">
+0030:           <symbol id="4:25" name="Gen_Statue" x="0" y="0" width="300" height="200" />
+0032:         </frame>
+0033:         <frame id="4:29" name="tile" x="729" y="0" width="281" height="223">
+0034:           <symbol id="4:28" name="Gen_Student" x="0" y="0" width="281" height="200" />
+0035:           <text id="4:30" name="Gen_Student" x="103.5" y="208" width="74" height="15" />
+0036:         </frame>
+0037:         <frame id="4:32" name="tile" x="1042" y="0" width="78" height="87">
+0038:           <symbol id="4:31" name="PDF_File_Icon" x="7" y="0" width="64" height="64" />
+0039:           <text id="4:33" name="PDF_File_Icon" x="0" y="72" width="78" height="15" />
+0040:         </frame>
+0041:       </frame>
+0042:     </frame>
+0045:       <frame id="4:36" name="Items" x="0" y="40" width="1472" height="71">
+0046:         <frame id="4:43" name="tile" x="0" y="0" width="74" height="71">
+0047:           <symbol id="4:42" name="Logo_Google" x="13" y="0" width="48" height="48" />
+0048:           <text id="4:44" name="Logo_Google" x="0" y="56" width="74" height="15" />
+0049:         </frame>
+0050:         <frame id="4:49" name="tile" x="106" y="0" width="90" height="71">
+0051:           <symbol id="4:48" name="Logo_Facebook" x="21" y="0" width="48" height="48" />
+0052:           <text id="4:50" name="Logo_Facebook" x="0" y="56" width="90" height="15" />
+0053:         </frame>
+0054:       </frame>
+0055:     </frame>
+0056:     <frame id="4:51" name="Icons (vector) · recolor freely" x="64" y="854" width="1472" height="214">
+0057:       <text id="4:52" name="Icons (vector) · recolor freely" x="0" y="0" width="284" height="24" />
+0058:       <frame id="4:53" name="Items" x="0" y="40" width="1472" height="174">
+0059:         <frame id="4:59" name="tile" x="0" y="0" width="60" height="79">
+
+messages[24] / m24-call0.js
+0095:   screens["01_Login"] = s1;
+0096: 
+0097:   // Brand Logo
+0098:   const logoBox = figma.createFrame();
+0099:   logoBox.resize(80, 80);
+0100:   logoBox.x = (428 - 80) / 2;
+0101:   logoBox.y = 120;
+0102:   logoBox.cornerRadius = 24;
+0103:   logoBox.fills = [{ type: 'SOLID', color: PRIMARY }];
+0104:   const logoText = createText("AI", 24, 20, 32, "Bold", { r: 1, g: 1, b: 1 }, "Bricolage Grotesque");
+0105:   logoBox.appendChild(logoText);
+0106:   s1.appendChild(logoBox);
+0107: 
+0108:   // Title & subtitle
+0109:   const title1 = createText("Login to your account", 24, 225, 24, "Bold", TEXT_DARK, "Bricolage Grotesque");
+0110:   title1.x = (428 - title1.width) / 2;
+0111:   s1.appendChild(title1);
+0112: 
+0113:   // Form Email
+0363: 
+0364:   const imagesData = [
+0365:     "Gen_Mug", "Gen_Rat", "Gen_Statue", "Gen_Student",
+0366:     "Gen_Statue", "Gen_Mug", "Gen_Rat", "Gen_Student"
+0367:   ];
+0368: 
+0369:   let imgY = 390;
+0370:   let imgX = 24;
+0371:   imagesData.forEach((imgName, idx) => {
+0372:     const imgCard = figma.createFrame();
+0373:     imgCard.resize(182, 110);
+0374:     imgCard.x = imgX;
+0375:     imgCard.y = imgY;
+0376:     imgCard.cornerRadius = 16;
+0377:     imgCard.fills = [{ type: 'SOLID', color: PRIMARY_LIGHT }];
+0378:     imgCard.strokes = [{ type: 'SOLID', color: BORDER_COLOR }];
+0379: 
+0380:     const lbl = createText(imgName, 0, 45, 13, "Bold", PRIMARY);
+0381:     lbl.x = (182 - lbl.width) / 2;
+0382:     imgCard.appendChild(lbl);
+0383: 
+0384:     s3.appendChild(imgCard);
+0385: 
+0386:     if (idx % 2 === 0) {
+0387:       imgX = 222;
+0388:     } else {
+0389:       imgX = 24;
+0390:       imgY += 122;
+0391:     }
+0622: 
+0623:   // Generated Image placeholder
+0624:   const genImg = figma.createFrame();
+0625:   genImg.resize(348, 150);
+0626:   genImg.x = 16;
+0627:   genImg.y = 56;
+0628:   genImg.cornerRadius = 12;
+0629:   genImg.fills = [{ type: 'SOLID', color: PRIMARY_LIGHT }];
+0630:   const imgLabel = createText("Gen_Student Image", 0, 65, 14, "Bold", PRIMARY);
+0631:   imgLabel.x = (348 - imgLabel.width) / 2;
+0632:   genImg.appendChild(imgLabel);
+0633:   m4.appendChild(genImg);
+0634: 
+0635:   // Bot Image Actions
+0636:   const botAct2 = createText("Download  ·  Share  ·  Regenerate", 16, 222, 11, "Bold", PRIMARY);
+0637:   m4.appendChild(botAct2);
+0638: 
+0639:   s6.appendChild(m4);
+0640: 
+1036: 
+1037:   // 7 Thumbnails
+1038:   const thumbNames = ["Gen_Mug", "Gen_Rat", "Gen_Statue", "Gen_Student", "Gen_Mug", "Gen_Rat", "Gen_Statue"];
+1039:   let tX = 24;
+1040:   thumbNames.forEach(tn => {
+1041:     const thumb = figma.createFrame();
+1042:     thumb.resize(48, 48);
+1043:     thumb.x = tX;
+1044:     thumb.y = 372;
+1045:     thumb.cornerRadius = 8;
+1046:     thumb.fills = [{ type: 'SOLID', color: PRIMARY_LIGHT }];
+1047:     tX += 54;

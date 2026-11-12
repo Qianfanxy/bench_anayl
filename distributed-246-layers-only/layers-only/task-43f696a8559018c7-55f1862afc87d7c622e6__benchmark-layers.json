@@ -1,0 +1,73 @@
+{
+  "board_count": 3,
+  "boards": [
+    {
+      "name": "01_Expenses",
+      "size": "375×812",
+      "nodes": 55,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "instance×11",
+        "frame×10",
+        "rectangle×10"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "PeriodRow",
+        "September 2020",
+        "Icon_Chevron_Down"
+      ]
+    },
+    {
+      "name": "02_Bill",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "StatusBar",
+        "Header",
+        "SegmentedControl",
+        "Frame",
+        "Your monthly payment for",
+        "$58.97"
+      ]
+    },
+    {
+      "name": "03_Credit_Score",
+      "size": "375×812",
+      "nodes": 18,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×7",
+        "frame×2",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "ScoreGauge",
+        "400",
+        "850",
+        "660"
+      ]
+    }
+  ]
+}

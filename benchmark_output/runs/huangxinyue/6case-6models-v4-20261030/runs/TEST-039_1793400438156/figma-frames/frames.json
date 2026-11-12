@@ -1,0 +1,172 @@
+[
+  {
+    "node_id": "16:9",
+    "name": "01_Welcome",
+    "file": "16-9.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "taESNi0IFEkMvTSOVrS6K7",
+        "nodeId": "16:9",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "7c96babba85065166c839f18f34c9cc2ed7b4e021f495233eb83d9bb705085e4",
+      "response_file": "_debug/v2-native-16-9.png.txt",
+      "response_sha256": "39e55805da83efc9ed391a838cc1bf5dbf34259447e55d3572d9bb1c4d1df088"
+    }
+  },
+  {
+    "node_id": "16:33",
+    "name": "02_Photo_ID",
+    "file": "16-33.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "taESNi0IFEkMvTSOVrS6K7",
+        "nodeId": "16:33",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "197d230ae0d6c0a115beeec139913d8dfd9c03311873a3d22d611041ec958e24",
+      "response_file": "_debug/v2-native-16-33.png.txt",
+      "response_sha256": "52afd94fa740cd0e454b5e328cbc206a72238b2d5ed283e67b1b86757648c775"
+    }
+  },
+  {
+    "node_id": "16:69",
+    "name": "03_Bank_Home",
+    "file": "16-69.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "taESNi0IFEkMvTSOVrS6K7",
+        "nodeId": "16:69",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "06a626a691eab512bf432750787ae47df0955b72bd08d62772bc3b4e66deba09",
+      "response_file": "_debug/v2-native-16-69.png.txt",
+      "response_sha256": "3d8c3e3d34f5c191963d228a810bbfddc4766b9abd7060a39c539bd2768a545f"
+    }
+  },
+  {
+    "node_id": "18:70",
+    "name": "04_Bank_Transactions",
+    "file": "18-70.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "taESNi0IFEkMvTSOVrS6K7",
+        "nodeId": "18:70",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "b45cdb7c3968d69b2a8fc546c5b8315f3c26dd844315330c245a100fdcd8b932",
+      "response_file": "_debug/v2-native-18-70.png.txt",
+      "response_sha256": "256345230edcf7f712b51a1be4fe0d5061fc30b4d09976f1e2ceb6838f5c03d6"
+    }
+  },
+  {
+    "node_id": "20:91",
+    "name": "05_Profile",
+    "file": "20-91.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "taESNi0IFEkMvTSOVrS6K7",
+        "nodeId": "20:91",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "8de6b9cdd9792a369e9d85ce568eaa8d5e51c28b5b82bd9b648a39dab5d801a5",
+      "response_file": "_debug/v2-native-20-91.png.txt",
+      "response_sha256": "7d4ed3be7757d4e731fe29c47f4c1d86bd46df93b5a07bec558468e3f827ebc8"
+    }
+  },
+  {
+    "node_id": "20:207",
+    "name": "06_XTrade_Welcome",
+    "file": "20-207.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "taESNi0IFEkMvTSOVrS6K7",
+        "nodeId": "20:207",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "6ddabab14d7fa078bb0d1c04144dcdd21fbbe20ba2fcf98d88a8a013b917e496",
+      "response_file": "_debug/v2-native-20-207.png.txt",
+      "response_sha256": "8a4d541f50cda9b8267b4bc60595c4ad0dfe98209a9129f5a13541cbe0b1a7f9"
+    }
+  },
+  {
+    "node_id": "21:137",
+    "name": "07_Trade_Home",
+    "file": "21-137.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "taESNi0IFEkMvTSOVrS6K7",
+        "nodeId": "21:137",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "6edc6ca796bf621dde1e570347aad55c49f409062bb7b7a67b6ca1d81f4f81c0",
+      "response_file": "_debug/v2-native-21-137.png.txt",
+      "response_sha256": "947eb6b3fcba182b30d4e628a3ad921300e5bbc7ec31bc0877da9d8b87ed4260"
+    }
+  },
+  {
+    "node_id": "22:163",
+    "name": "08_Market",
+    "file": "22-163.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "taESNi0IFEkMvTSOVrS6K7",
+        "nodeId": "22:163",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "bc08df3f7ed8223d5700c65e3dbc0a66ecf925a549cfdba06a8f0dcbe1c75267",
+      "response_file": "_debug/v2-native-22-163.png.txt",
+      "response_sha256": "21cf5aa32df40bc6d6e0a220e0f98fbc84154148ace3cb7e12aaf4cfd1600a1c"
+    }
+  },
+  {
+    "node_id": "23:188",
+    "name": "09_Exchange_Stock",
+    "file": "23-188.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "taESNi0IFEkMvTSOVrS6K7",
+        "nodeId": "23:188",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "ebbfed7a4061f9dba74bcdfe805c3964220112f83fb53187c875e5d8396ef547",
+      "response_file": "_debug/v2-native-23-188.png.txt",
+      "response_sha256": "01dec6ffed94d27de163b0fc96b4d6ffd71ab9c043558fbd6cc7b06a86fdb265"
+    }
+  },
+  {
+    "node_id": "24:203",
+    "name": "10_Exchange_Crypto",
+    "file": "24-203.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "taESNi0IFEkMvTSOVrS6K7",
+        "nodeId": "24:203",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "af55f7bbe4f1cf7e758e6bafb4d19272c760fd75e42389c75f46da1c5eb38933",
+      "response_file": "_debug/v2-native-24-203.png.txt",
+      "response_sha256": "39449875b6cc12f71233a16940907bfab8e848eb2e80682ecd5b25307808a689"
+    }
+  }
+]

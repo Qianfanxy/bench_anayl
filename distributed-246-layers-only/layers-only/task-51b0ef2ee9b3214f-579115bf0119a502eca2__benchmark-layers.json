@@ -1,0 +1,390 @@
+{
+  "board_count": 17,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "414×896",
+      "nodes": 16,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×3",
+        "text×3",
+        "rectangle×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Hero",
+        "Glow",
+        "Brand",
+        "Logo_Self_Care_Mark",
+        "Brand Name",
+        "Image_Pills_Decor"
+      ]
+    },
+    {
+      "name": "02_Choose_Role",
+      "size": "414×896",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×3",
+        "text×3"
+      ],
+      "names": [
+        "Content",
+        "Logo_Self_Care_Mark",
+        "Heading Group",
+        "Heading",
+        "Body",
+        "Roles"
+      ]
+    },
+    {
+      "name": "03_About_You",
+      "size": "414×896",
+      "nodes": 23,
+      "max_depth": 4,
+      "instances": 10,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×7",
+        "text×6"
+      ],
+      "names": [
+        "Content",
+        "Logo_Self_Care_Mark",
+        "Heading Group",
+        "Heading",
+        "Body",
+        "Birthday"
+      ]
+    },
+    {
+      "name": "04_Sign_In",
+      "size": "414×896",
+      "nodes": 15,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×5",
+        "frame×4"
+      ],
+      "names": [
+        "Content",
+        "Logo_Self_Care_Mark",
+        "Heading Group",
+        "Heading",
+        "Body",
+        "Fields"
+      ]
+    },
+    {
+      "name": "05_Sign_Up",
+      "size": "414×896",
+      "nodes": 17,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×5",
+        "text×4"
+      ],
+      "names": [
+        "Content",
+        "Logo_Self_Care_Mark",
+        "Heading Group",
+        "Heading",
+        "Body",
+        "Fields"
+      ]
+    },
+    {
+      "name": "06_Sign_Up_Error",
+      "size": "414×896",
+      "nodes": 18,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×5",
+        "text×5"
+      ],
+      "names": [
+        "Content",
+        "Logo_Self_Care_Mark",
+        "Heading Group",
+        "Heading",
+        "Body",
+        "Fields"
+      ]
+    },
+    {
+      "name": "07_Verify_Code",
+      "size": "414×896",
+      "nodes": 37,
+      "max_depth": 3,
+      "instances": 19,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "frame×11",
+        "text×7"
+      ],
+      "names": [
+        "Content",
+        "Logo_Self_Care_Mark",
+        "Heading Group",
+        "Heading",
+        "Body",
+        "Code Boxes"
+      ]
+    },
+    {
+      "name": "08_Home",
+      "size": "414×1166",
+      "nodes": 34,
+      "max_depth": 5,
+      "instances": 21,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "frame×10",
+        "text×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Greeting",
+        "Location",
+        "Icon_Location",
+        "City"
+      ]
+    },
+    {
+      "name": "09_Visit",
+      "size": "414×1188",
+      "nodes": 39,
+      "max_depth": 4,
+      "instances": 21,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×21",
+        "frame×11",
+        "text×7"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Back",
+        "Doctor Header",
+        "Stats",
+        "Stat/Patients"
+      ]
+    },
+    {
+      "name": "10_Doctors",
+      "size": "414×1128",
+      "nodes": 28,
+      "max_depth": 4,
+      "instances": 20,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "frame×6",
+        "ellipse×1",
+        "text×1"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Back",
+        "Notifications",
+        "Bell",
+        "Badge"
+      ]
+    },
+    {
+      "name": "11_Doctor_Profile",
+      "size": "414×1402.396240234375",
+      "nodes": 38,
+      "max_depth": 4,
+      "instances": 22,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×22",
+        "frame×10",
+        "text×6"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Back",
+        "Doctor Header",
+        "Stats",
+        "Stat/Patients"
+      ]
+    },
+    {
+      "name": "12_Booking_Confirmed",
+      "size": "414×974",
+      "nodes": 25,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×7",
+        "text×3",
+        "rectangle×2"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Back",
+        "Brand",
+        "Logo_Self_Care_Mark",
+        "Brand Name"
+      ]
+    },
+    {
+      "name": "13_Payment",
+      "size": "414×896",
+      "nodes": 16,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×5",
+        "text×4"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Back",
+        "Heading Group",
+        "Heading",
+        "Body"
+      ]
+    },
+    {
+      "name": "14_Chats",
+      "size": "414×896",
+      "nodes": 31,
+      "max_depth": 5,
+      "instances": 12,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×11",
+        "rectangle×5",
+        "text×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Back",
+        "Notifications",
+        "Bell",
+        "Badge"
+      ]
+    },
+    {
+      "name": "15_Chat",
+      "size": "414×950",
+      "nodes": 36,
+      "max_depth": 5,
+      "instances": 14,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "frame×17",
+        "instance×14",
+        "text×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Doctor",
+        "Avatar",
+        "Info",
+        "Name"
+      ]
+    },
+    {
+      "name": "16_Prescriptions",
+      "size": "414×1008",
+      "nodes": 24,
+      "max_depth": 4,
+      "instances": 10,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "frame×7",
+        "text×5",
+        "ellipse×2"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Back",
+        "Heading",
+        "Recommendations",
+        "Title"
+      ]
+    },
+    {
+      "name": "17_Video_Call",
+      "size": "414×896",
+      "nodes": 22,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×6",
+        "text×4",
+        "rectangle×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Photo_Video_Call_Doctor",
+        "Top Scrim",
+        "Bottom Scrim",
+        "Caller",
+        "Timer",
+        "Ellipse"
+      ]
+    }
+  ]
+}

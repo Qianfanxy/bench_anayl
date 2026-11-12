@@ -1,0 +1,186 @@
+{
+  "board_count": 8,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×5811",
+      "nodes": 76,
+      "max_depth": 5,
+      "instances": 32,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "instance×32",
+        "frame×23",
+        "text×18",
+        "rectangle×3"
+      ],
+      "names": [
+        "Header",
+        "Hero",
+        "Photo_Home_Hero",
+        "Overlay",
+        "Posted on",
+        "POSTED ON"
+      ]
+    },
+    {
+      "name": "02_Blog",
+      "size": "1440×4408",
+      "nodes": 32,
+      "max_depth": 4,
+      "instances": 16,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×16",
+        "frame×8",
+        "text×7",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "Featured",
+        "Featured Text",
+        "Eyebrow",
+        "Step-by-step guide to ch",
+        "Byline"
+      ]
+    },
+    {
+      "name": "03_Blog_Post",
+      "size": "1440×4203",
+      "nodes": 44,
+      "max_depth": 5,
+      "instances": 9,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "text×17",
+        "frame×15",
+        "instance×9",
+        "ellipse×3"
+      ],
+      "names": [
+        "Header",
+        "Post header",
+        "Author",
+        "Avatar_Andrew",
+        "Meta",
+        "Author Name"
+      ]
+    },
+    {
+      "name": "04_About_Us",
+      "size": "1440×4879",
+      "nodes": 45,
+      "max_depth": 3,
+      "instances": 20,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "frame×13",
+        "text×9",
+        "rectangle×3"
+      ],
+      "names": [
+        "Header",
+        "Intro",
+        "Intro Title",
+        "Eyebrow",
+        "We are a team of content",
+        "Intro Body"
+      ]
+    },
+    {
+      "name": "05_Category_Business",
+      "size": "1440×2513",
+      "nodes": 24,
+      "max_depth": 4,
+      "instances": 17,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "frame×5",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "PageBand",
+        "Main",
+        "Posts",
+        "Post · Top 6 free websit",
+        "Post · How to build rapp"
+      ]
+    },
+    {
+      "name": "06_Author",
+      "size": "1440×2101",
+      "nodes": 15,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×4",
+        "text×3",
+        "rectangle×2"
+      ],
+      "names": [
+        "Header",
+        "Author intro",
+        "Avatar_Andrew",
+        "Text",
+        "Hey there, I’m Andrew Jo",
+        "Lorem ipsum dolor sit am"
+      ]
+    },
+    {
+      "name": "07_Contact",
+      "size": "1440×1753",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×3",
+        "text×2"
+      ],
+      "names": [
+        "Header",
+        "Intro",
+        "Eyebrow",
+        "Let’s Start a Conversati",
+        "Lorem ipsum dolor sit am",
+        "Contact body"
+      ]
+    },
+    {
+      "name": "08_Privacy_Policy",
+      "size": "1440×1821",
+      "nodes": 10,
+      "max_depth": 2,
+      "instances": 3,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "text×5",
+        "instance×3",
+        "frame×2"
+      ],
+      "names": [
+        "Header",
+        "PageBand",
+        "Policy body",
+        "Lorem ipsum dolor sit am",
+        "Spacer",
+        "Consectetur adipiscing e"
+      ]
+    }
+  ]
+}

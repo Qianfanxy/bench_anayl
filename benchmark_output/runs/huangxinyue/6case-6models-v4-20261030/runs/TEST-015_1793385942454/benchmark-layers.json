@@ -1,0 +1,253 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "390×844",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "rectangle×6",
+        "text×5",
+        "instance×4",
+        "frame×3",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "02_Photo_ID",
+      "size": "390×844",
+      "nodes": 39,
+      "max_depth": 4,
+      "instances": 8,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "rectangle×15",
+        "instance×8",
+        "text×5",
+        "vector×5",
+        "frame×3",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "03_Bank_Home",
+      "size": "390×844",
+      "nodes": 162,
+      "max_depth": 6,
+      "instances": 37,
+      "texts": 49,
+      "images": 0,
+      "types": [
+        "text×49",
+        "frame×46",
+        "instance×37",
+        "vector×16",
+        "rectangle×10",
+        "ellipse×4"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "04_Bank_Transactions",
+      "size": "390×844",
+      "nodes": 137,
+      "max_depth": 6,
+      "instances": 31,
+      "texts": 38,
+      "images": 0,
+      "types": [
+        "frame×39",
+        "text×38",
+        "instance×31",
+        "rectangle×16",
+        "vector×11",
+        "ellipse×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "05_Profile",
+      "size": "390×844",
+      "nodes": 137,
+      "max_depth": 6,
+      "instances": 44,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "instance×44",
+        "frame×40",
+        "vector×24",
+        "text×21",
+        "rectangle×6",
+        "ellipse×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "06_XTrade_Welcome",
+      "size": "390×844",
+      "nodes": 26,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "rectangle×6",
+        "text×5",
+        "ellipse×4",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "07_Trade_Home",
+      "size": "390×844",
+      "nodes": 196,
+      "max_depth": 5,
+      "instances": 58,
+      "texts": 54,
+      "images": 0,
+      "types": [
+        "instance×58",
+        "text×54",
+        "frame×51",
+        "vector×25",
+        "rectangle×6",
+        "ellipse×2"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "08_Market",
+      "size": "390×844",
+      "nodes": 161,
+      "max_depth": 5,
+      "instances": 36,
+      "texts": 62,
+      "images": 0,
+      "types": [
+        "text×62",
+        "frame×49",
+        "instance×36",
+        "vector×7",
+        "rectangle×6",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "09_Exchange_Stock",
+      "size": "390×844",
+      "nodes": 116,
+      "max_depth": 6,
+      "instances": 37,
+      "texts": 36,
+      "images": 0,
+      "types": [
+        "instance×37",
+        "text×36",
+        "frame×21",
+        "vector×14",
+        "rectangle×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    },
+    {
+      "name": "10_Exchange_Crypto",
+      "size": "390×844",
+      "nodes": 167,
+      "max_depth": 6,
+      "instances": 41,
+      "texts": 54,
+      "images": 0,
+      "types": [
+        "text×54",
+        "frame×42",
+        "instance×41",
+        "rectangle×18",
+        "vector×11",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    }
+  ]
+}

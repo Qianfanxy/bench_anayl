@@ -1,0 +1,447 @@
+{
+  "board_count": 20,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "375×3560.734619140625",
+      "nodes": 94,
+      "max_depth": 3,
+      "instances": 25,
+      "texts": 52,
+      "images": 0,
+      "types": [
+        "text×52",
+        "instance×25",
+        "frame×11",
+        "ellipse×5",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Photo_Hero",
+        "Rectangle",
+        "LUXURY FASHION & ACCESSO",
+        "Explore Button"
+      ]
+    },
+    {
+      "name": "02_Menu",
+      "size": "375×663",
+      "nodes": 31,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×11",
+        "rectangle×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Close",
+        "Women",
+        "Man",
+        "Kids",
+        "New"
+      ]
+    },
+    {
+      "name": "03_Search",
+      "size": "375×357",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "instance×7",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Frame",
+        "Icon_Search",
+        "Search items",
+        "Icon_Close",
+        "POPULAR SEARCH TERMS"
+      ]
+    },
+    {
+      "name": "04_Search_Results",
+      "size": "375×2134.734619140625",
+      "nodes": 67,
+      "max_depth": 2,
+      "instances": 26,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "text×32",
+        "instance×26",
+        "frame×9"
+      ],
+      "names": [
+        "Header",
+        "Frame",
+        "Dress",
+        "Icon_Close",
+        "Icon_Search",
+        "8 RESULTS OF DRESS"
+      ]
+    },
+    {
+      "name": "05_Category_Grid",
+      "size": "375×1514.734619140625",
+      "nodes": 51,
+      "max_depth": 2,
+      "instances": 20,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "instance×20",
+        "frame×7"
+      ],
+      "names": [
+        "Header",
+        "Frame",
+        "Women",
+        "Icon_Close",
+        "All apparel",
+        "4500 APPAREL"
+      ]
+    },
+    {
+      "name": "06_Product_Detail",
+      "size": "375×2132.734619140625",
+      "nodes": 66,
+      "max_depth": 2,
+      "instances": 20,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "text×29",
+        "instance×20",
+        "frame×9",
+        "ellipse×8"
+      ],
+      "names": [
+        "Header",
+        "Product_Wool_Coat",
+        "Icon_Expand",
+        "Ellipse",
+        "Morane",
+        "Icon_Share"
+      ]
+    },
+    {
+      "name": "07_Collections",
+      "size": "375×1414.734619140625",
+      "nodes": 18,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "text×7",
+        "frame×6",
+        "instance×5"
+      ],
+      "names": [
+        "Header Dark",
+        "October Collection",
+        "Frame",
+        "Photo_Collection_October",
+        "01",
+        "October collection"
+      ]
+    },
+    {
+      "name": "08_Collection_Detail",
+      "size": "375×2104.734619140625",
+      "nodes": 41,
+      "max_depth": 2,
+      "instances": 15,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "instance×15",
+        "frame×7"
+      ],
+      "names": [
+        "Header Dark",
+        "Photo_Collection_October",
+        "October Collection",
+        "Frame",
+        "Product_Collection_Dress",
+        "Icon_Heart"
+      ]
+    },
+    {
+      "name": "09_Cart_Empty",
+      "size": "375×600",
+      "nodes": 8,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Close",
+        "CART",
+        "You have no items in you",
+        "Frame",
+        "Icon_Bag"
+      ]
+    },
+    {
+      "name": "10_Cart",
+      "size": "375×700",
+      "nodes": 29,
+      "max_depth": 4,
+      "instances": 10,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "instance×10",
+        "frame×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Close",
+        "CART",
+        "Frame",
+        "Product_Boucle_Cardigan",
+        "Lumière"
+      ]
+    },
+    {
+      "name": "11_Checkout",
+      "size": "375×750",
+      "nodes": 35,
+      "max_depth": 4,
+      "instances": 12,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "instance×12",
+        "frame×9"
+      ],
+      "names": [
+        "Header",
+        "CHECKOUT",
+        "Ornament_Divider",
+        "$120",
+        "Frame",
+        "Product_Boucle_Cardigan"
+      ]
+    },
+    {
+      "name": "12_Checkout_Shipping",
+      "size": "375×820",
+      "nodes": 26,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×7",
+        "frame×6"
+      ],
+      "names": [
+        "Header",
+        "CHECKOUT",
+        "PAYMENT METHOD",
+        "Frame",
+        "select payment method",
+        "Icon_Chevron_Down"
+      ]
+    },
+    {
+      "name": "13_Add_Address",
+      "size": "375×820",
+      "nodes": 12,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Header",
+        "ADD SHIPPING ADDRESS",
+        "Text Field",
+        "Frame",
+        "ADD NOW",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "14_Add_Card",
+      "size": "375×820",
+      "nodes": 16,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×5",
+        "frame×3"
+      ],
+      "names": [
+        "Header",
+        "PAYMENT METHOD",
+        "Frame",
+        "Icon_Card",
+        "2365 3654 2365 3698",
+        "Iris Watson"
+      ]
+    },
+    {
+      "name": "15_Payment_Success",
+      "size": "375×820",
+      "nodes": 25,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "instance×9",
+        "frame×5"
+      ],
+      "names": [
+        "Header",
+        "Frame",
+        "Iris Watson · 606-3727 U",
+        "Icon_Card",
+        "Card ending ••••89",
+        "Lumière · Boucle Cardiga"
+      ]
+    },
+    {
+      "name": "16_Blog",
+      "size": "375×1228.734619140625",
+      "nodes": 38,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "frame×11",
+        "instance×8"
+      ],
+      "names": [
+        "Header",
+        "Frame",
+        "BLOG",
+        "Ornament_Divider",
+        "Fashion",
+        "Promo"
+      ]
+    },
+    {
+      "name": "17_Blog_Post",
+      "size": "375×1274.734619140625",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "text×6",
+        "instance×4",
+        "frame×1"
+      ],
+      "names": [
+        "Header",
+        "Photo_Blog_Post",
+        "2021 Style Guide: The Bi",
+        "Posted by Open Fashion ·",
+        "Frame",
+        "#Fashion"
+      ]
+    },
+    {
+      "name": "18_Our_Story",
+      "size": "375×892",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "text×6",
+        "instance×4",
+        "frame×4"
+      ],
+      "names": [
+        "Header",
+        "Frame",
+        "OUR STORY",
+        "Ornament_Divider",
+        "Photo_Our_Story",
+        "Open Fashion began with "
+      ]
+    },
+    {
+      "name": "19_Contact",
+      "size": "375×1086.734619140625",
+      "nodes": 17,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×6",
+        "frame×5"
+      ],
+      "names": [
+        "Header",
+        "Frame",
+        "CONTACT US",
+        "Ornament_Divider",
+        "Icon_Chat",
+        "Need an ASAP answer? Con"
+      ]
+    },
+    {
+      "name": "20_Page_Not_Found",
+      "size": "375×744.7346801757812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×3",
+        "text×3"
+      ],
+      "names": [
+        "Header",
+        "PAGE NOT FOUND",
+        "We can't find the page y",
+        "Home Page",
+        "Footer",
+        "Home Indicator"
+      ]
+    }
+  ]
+}

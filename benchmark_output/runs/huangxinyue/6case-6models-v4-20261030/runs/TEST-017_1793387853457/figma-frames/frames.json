@@ -1,0 +1,62 @@
+[
+  {
+    "node_id": "10:369",
+    "name": "04_Verify_Phone",
+    "file": "10-369.png"
+  },
+  {
+    "node_id": "10:423",
+    "name": "05_Verify_Code",
+    "file": "10-423.png"
+  },
+  {
+    "node_id": "10:480",
+    "name": "06_Welcome",
+    "file": "10-480.png"
+  },
+  {
+    "node_id": "11:316",
+    "name": "01_Splash",
+    "file": "11-316.png"
+  },
+  {
+    "node_id": "11:351",
+    "name": "02_Onboarding",
+    "file": "11-351.png"
+  },
+  {
+    "node_id": "11:386",
+    "name": "03_Sign_Up_Empty",
+    "file": "11-386.png"
+  },
+  {
+    "node_id": "11:432",
+    "name": "03_Sign_Up_Filled",
+    "file": "11-432.png"
+  },
+  {
+    "node_id": "11:482",
+    "name": "07_Home",
+    "file": "11-482.png"
+  },
+  {
+    "node_id": "11:674",
+    "name": "08_Portfolio",
+    "file": "11-674.png"
+  },
+  {
+    "node_id": "11:796",
+    "name": "09_Stock_Detail",
+    "file": "11-796.png"
+  },
+  {
+    "node_id": "11:882",
+    "name": "10_Confirm_Order",
+    "file": "11-882.png"
+  },
+  {
+    "node_id": "11:945",
+    "name": "11_Profile",
+    "file": "11-945.png"
+  }
+]

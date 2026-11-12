@@ -1,0 +1,94 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "390×844",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Illustration_Onboarding",
+        "Headline",
+        "Subtitle",
+        "Get Started"
+      ]
+    },
+    {
+      "name": "02_Phone_Number",
+      "size": "390×844",
+      "nodes": 22,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×8",
+        "rectangle×3",
+        "frame×2"
+      ],
+      "names": [
+        "Backdrop",
+        "Status Bar",
+        "Home Indicator",
+        "Illustration_Onboarding",
+        "Headline",
+        "Subtitle"
+      ]
+    },
+    {
+      "name": "03_Home",
+      "size": "390×1000",
+      "nodes": 28,
+      "max_depth": 3,
+      "instances": 19,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×6",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Avatar",
+        "Search",
+        "Icon_Search",
+        "Placeholder",
+        "History"
+      ]
+    },
+    {
+      "name": "04_Menu",
+      "size": "390×1000",
+      "nodes": 43,
+      "max_depth": 4,
+      "instances": 28,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×28",
+        "text×8",
+        "frame×5",
+        "rectangle×2"
+      ],
+      "names": [
+        "Home Backdrop",
+        "Status Bar",
+        "Avatar",
+        "Search",
+        "Icon_Search",
+        "Placeholder"
+      ]
+    }
+  ]
+}

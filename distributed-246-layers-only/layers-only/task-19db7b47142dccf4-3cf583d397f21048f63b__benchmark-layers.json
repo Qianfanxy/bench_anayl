@@ -1,0 +1,161 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "414×896",
+      "nodes": 29,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×9",
+        "frame×7",
+        "rectangle×1"
+      ],
+      "names": [
+        "Vulcan Bank",
+        "Balance card",
+        "Icon_Safe",
+        "card label",
+        "Balance",
+        "$3,821"
+      ]
+    },
+    {
+      "name": "02_About_Investment",
+      "size": "414×896",
+      "nodes": 9,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Back",
+        "Investment",
+        "Illustration_Investment",
+        "I will help you create a",
+        "Have you wanted to inves",
+        "Start"
+      ]
+    },
+    {
+      "name": "03_Create_PIN",
+      "size": "414×896",
+      "nodes": 22,
+      "max_depth": 2,
+      "instances": 15,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "frame×5",
+        "text×2"
+      ],
+      "names": [
+        "Back",
+        "Create PIN code",
+        "Enter 4 digits for your ",
+        "PIN dot 1 filled",
+        "PIN dot 2 filled",
+        "PIN dot 3 filled"
+      ]
+    },
+    {
+      "name": "04_Portfolio",
+      "size": "414×896",
+      "nodes": 46,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "text×19",
+        "rectangle×12",
+        "instance×11",
+        "frame×4"
+      ],
+      "names": [
+        "Back",
+        "Title",
+        "Header Menu",
+        "Header Chart",
+        "Unread dot",
+        "Header Insights"
+      ]
+    },
+    {
+      "name": "05_Trading",
+      "size": "414×896",
+      "nodes": 58,
+      "max_depth": 2,
+      "instances": 15,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "text×20",
+        "rectangle×18",
+        "instance×15",
+        "frame×5"
+      ],
+      "names": [
+        "Back",
+        "Title",
+        "Header Menu",
+        "Header Chart",
+        "Header Insights",
+        "Stock AAPL"
+      ]
+    },
+    {
+      "name": "06_Stock_Transaction",
+      "size": "414×896",
+      "nodes": 17,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×6"
+      ],
+      "names": [
+        "Back",
+        "Title",
+        "Header Menu",
+        "Stock AAPL",
+        "AAPL",
+        "ACCOUNT"
+      ]
+    },
+    {
+      "name": "07_Confirm_Purchase",
+      "size": "414×896",
+      "nodes": 20,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×6",
+        "rectangle×2"
+      ],
+      "names": [
+        "Back",
+        "Title",
+        "Header Menu",
+        "Stock AAPL",
+        "AAPL",
+        "ACCOUNT"
+      ]
+    }
+  ]
+}

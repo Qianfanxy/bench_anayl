@@ -1,0 +1,271 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "10_Immediate_Support",
+      "size": "390×844",
+      "nodes": 26,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "instance×9",
+        "frame×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "We’re here with you.",
+        "Take a breath. You are s",
+        "Immediate Support",
+        "Frame"
+      ]
+    },
+    {
+      "name": "11_Your_Journey",
+      "size": "390×844",
+      "nodes": 41,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "text×26",
+        "frame×11",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Your Journey",
+        "Reflect on your emotiona",
+        "Avatar_Alex",
+        "Frame",
+        "All Entries"
+      ]
+    },
+    {
+      "name": "12_Micro_Exercises",
+      "size": "390×960",
+      "nodes": 49,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "instance×14",
+        "frame×10"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MICRO-EXERCISES",
+        "How are you feeling righ",
+        "Frame",
+        "Recommended"
+      ]
+    },
+    {
+      "name": "08_Campus_Support",
+      "size": "390×1240",
+      "nodes": 42,
+      "max_depth": 2,
+      "instances": 16,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "instance×16",
+        "frame×6",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Icon_Settings",
+        "MindfulMentor",
+        "Logo_MindfulMentor",
+        "Campus Support"
+      ]
+    },
+    {
+      "name": "09_Exam_Mode",
+      "size": "390×844",
+      "nodes": 30,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "instance×6",
+        "frame×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Frame",
+        "EXAM MODE ACTIVE",
+        "Stay focused, stay calm."
+      ]
+    },
+    {
+      "name": "03_Today",
+      "size": "390×844",
+      "nodes": 44,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "rectangle×17",
+        "instance×14",
+        "text×13"
+      ],
+      "names": [
+        "Status Bar",
+        "TODAY'S ANCHOR",
+        "Good morning, Alex",
+        "Bell",
+        "MoodCheck",
+        "How are you feeling righ"
+      ]
+    },
+    {
+      "name": "04_Focus_Session",
+      "size": "390×844",
+      "nodes": 22,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×6",
+        "rectangle×5",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Close",
+        "DEEP FOCUS",
+        "Session 4 of 10",
+        "More",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "05_Reflect",
+      "size": "390×844",
+      "nodes": 26,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×8",
+        "rectangle×8"
+      ],
+      "names": [
+        "Status Bar",
+        "Close",
+        "More",
+        "Badge",
+        "Star",
+        "Reflect & Reset"
+      ]
+    },
+    {
+      "name": "06_Growth_Insights",
+      "size": "390×1080",
+      "nodes": 53,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 27,
+      "images": 0,
+      "types": [
+        "text×27",
+        "rectangle×14",
+        "instance×12"
+      ],
+      "names": [
+        "Status Bar",
+        "Back",
+        "Growth Insights",
+        "More",
+        "Logo",
+        "Your Calm Journey"
+      ]
+    },
+    {
+      "name": "07_Your_Routine",
+      "size": "390×1080",
+      "nodes": 52,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 26,
+      "images": 0,
+      "types": [
+        "text×26",
+        "instance×14",
+        "rectangle×12"
+      ],
+      "names": [
+        "Status Bar",
+        "Back",
+        "Settings",
+        "Logo",
+        "Your Routine",
+        "Life happens—adjust your"
+      ]
+    },
+    {
+      "name": "01_Check_In",
+      "size": "390×844",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "instance×7",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "How are you feeling righ",
+        "Take a moment to check i",
+        "Mood_Calm"
+      ]
+    },
+    {
+      "name": "02_Stress_Sources",
+      "size": "390×844",
+      "nodes": 19,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×6",
+        "frame×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Skip",
+        "Progress",
+        "PgFill",
+        "Logo_MindfulMentor"
+      ]
+    }
+  ]
+}

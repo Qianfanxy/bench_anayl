@@ -1,0 +1,159 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×100",
+      "nodes": 230,
+      "max_depth": 6,
+      "instances": 45,
+      "texts": 75,
+      "images": 0,
+      "types": [
+        "frame×110",
+        "text×75",
+        "instance×45"
+      ],
+      "names": [
+        "Header",
+        "Hero_Section",
+        "Hero_Content",
+        "Beyond Pro.",
+        "Pomelo One 14 Pro",
+        "Created to change everyt"
+      ]
+    },
+    {
+      "name": "02_Products",
+      "size": "1440×100",
+      "nodes": 192,
+      "max_depth": 8,
+      "instances": 32,
+      "texts": 62,
+      "images": 0,
+      "types": [
+        "frame×98",
+        "text×62",
+        "instance×32"
+      ],
+      "names": [
+        "Header",
+        "Main_Content",
+        "Breadcrumb",
+        "Home",
+        "Icon_Chevron_Right",
+        "Catalog"
+      ]
+    },
+    {
+      "name": "03_Product_Details",
+      "size": "1440×100",
+      "nodes": 220,
+      "max_depth": 7,
+      "instances": 33,
+      "texts": 82,
+      "images": 0,
+      "types": [
+        "frame×105",
+        "text×82",
+        "instance×33"
+      ],
+      "names": [
+        "Header",
+        "Main_Content",
+        "Frame",
+        "Home",
+        "Icon_Chevron_Right",
+        "Catalog"
+      ]
+    },
+    {
+      "name": "04_Shopping_Cart",
+      "size": "1440×100",
+      "nodes": 76,
+      "max_depth": 7,
+      "instances": 14,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "frame×34",
+        "text×28",
+        "instance×14"
+      ],
+      "names": [
+        "Header",
+        "Main_Content",
+        "Cart_Split_Row",
+        "Cart_Items_Column",
+        "Shopping Cart",
+        "Cart_Row_Pomelo One 14 P"
+      ]
+    },
+    {
+      "name": "05_Checkout_Address",
+      "size": "1440×100",
+      "nodes": 41,
+      "max_depth": 8,
+      "instances": 8,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "frame×21",
+        "text×12",
+        "instance×8"
+      ],
+      "names": [
+        "Header",
+        "Main_Content",
+        "Component_Checkout_Stepp",
+        "Select Address",
+        "Frame",
+        "Address_Card_2118 Thornr"
+      ]
+    },
+    {
+      "name": "06_Checkout_Shipping",
+      "size": "1440×100",
+      "nodes": 50,
+      "max_depth": 6,
+      "instances": 6,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "frame×26",
+        "text×18",
+        "instance×6"
+      ],
+      "names": [
+        "Header",
+        "Main_Content",
+        "Component_Checkout_Stepp",
+        "Frame",
+        "Icon_Step_Address",
+        "Step 1"
+      ]
+    },
+    {
+      "name": "07_Checkout_Payment",
+      "size": "1440×100",
+      "nodes": 83,
+      "max_depth": 7,
+      "instances": 9,
+      "texts": 36,
+      "images": 0,
+      "types": [
+        "frame×38",
+        "text×36",
+        "instance×9"
+      ],
+      "names": [
+        "Header",
+        "Main_Content",
+        "Component_Checkout_Stepp",
+        "Frame",
+        "Icon_Step_Address",
+        "Step 1"
+      ]
+    }
+  ]
+}

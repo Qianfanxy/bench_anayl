@@ -1,0 +1,311 @@
+{
+  "board_count": 20,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "375×812",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 1,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "text×4",
+        "component×1"
+      ],
+      "names": [
+        "01_Welcome",
+        "Logo_Magic_Coffee",
+        "Magic Coffee",
+        "Feel yourself like a bar",
+        "Magic coffee on order."
+      ]
+    },
+    {
+      "name": "02_Sign_In",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "02_Sign_In"
+      ]
+    },
+    {
+      "name": "03_Sign_Up",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "03_Sign_Up"
+      ]
+    },
+    {
+      "name": "04_Verification",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "04_Verification"
+      ]
+    },
+    {
+      "name": "05_Select_Store",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "05_Select_Store"
+      ]
+    },
+    {
+      "name": "06_Menu",
+      "size": "375×812",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "text×2"
+      ],
+      "names": [
+        "06_Menu",
+        "Welcome, Alex!"
+      ]
+    },
+    {
+      "name": "07_Order_Options",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "07_Order_Options"
+      ]
+    },
+    {
+      "name": "08_Milk_Picker",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "08_Milk_Picker"
+      ]
+    },
+    {
+      "name": "09_Assemblage",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "09_Assemblage"
+      ]
+    },
+    {
+      "name": "10_Select_Barista",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "10_Select_Barista"
+      ]
+    },
+    {
+      "name": "11_Coffee_Country",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "11_Coffee_Country"
+      ]
+    },
+    {
+      "name": "12_Coffee_Sort",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "12_Coffee_Sort"
+      ]
+    },
+    {
+      "name": "13_Additives",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "13_Additives"
+      ]
+    },
+    {
+      "name": "14_My_Order",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "14_My_Order"
+      ]
+    },
+    {
+      "name": "15_Order_Payment",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "15_Order_Payment"
+      ]
+    },
+    {
+      "name": "16_Order_Confirmed",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "16_Order_Confirmed"
+      ]
+    },
+    {
+      "name": "17_Profile",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "17_Profile"
+      ]
+    },
+    {
+      "name": "18_Rewards",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "18_Rewards"
+      ]
+    },
+    {
+      "name": "19_Redeem",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "19_Redeem"
+      ]
+    },
+    {
+      "name": "20_My_Orders",
+      "size": "375×812",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "text×1"
+      ],
+      "names": [
+        "20_My_Orders"
+      ]
+    }
+  ]
+}

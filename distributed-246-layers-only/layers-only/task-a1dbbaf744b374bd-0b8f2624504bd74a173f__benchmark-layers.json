@@ -1,0 +1,221 @@
+{
+  "board_count": 10,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×2",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Illustration_Runners",
+        "Rectangle",
+        "Running App",
+        "Run and earn with our ap",
+        "Button"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Arrow_Left",
+        "Skip",
+        "Illustration_Onboarding_",
+        "Run",
+        "Track every step of your"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Arrow_Left",
+        "Logo_App",
+        "Log In",
+        "Text Field",
+        "Text Field / Password"
+      ]
+    },
+    {
+      "name": "04_Verify_Email",
+      "size": "375×812",
+      "nodes": 9,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Arrow_Left",
+        "Illustration_Verify_Emai",
+        "Verify your email",
+        "We've sent a 4-digit cod",
+        "Code Input"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "375×1128",
+      "nodes": 21,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×5",
+        "frame×1",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header / Home",
+        "Today Card",
+        "Stat Card",
+        "Promo Banner",
+        "Frame"
+      ]
+    },
+    {
+      "name": "06_History",
+      "size": "375×872",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header / Nav",
+        "tap_back",
+        "Summary Bar",
+        "History Row",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "07_Store",
+      "size": "375×904",
+      "nodes": 27,
+      "max_depth": 1,
+      "instances": 22,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×22",
+        "text×3",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Header / Nav",
+        "tap_back",
+        "Category Shortcut",
+        "Brand Tile",
+        "Today's Special"
+      ]
+    },
+    {
+      "name": "08_Address_Empty",
+      "size": "375×812",
+      "nodes": 6,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header / Nav",
+        "tap_back",
+        "Empty State",
+        "Button",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "09_New_Wallet",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "rectangle×1",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header / Nav",
+        "tap_back",
+        "Select the withdrawal ty",
+        "Option Row",
+        "Option Row / Card"
+      ]
+    },
+    {
+      "name": "10_Account_Updated",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "rectangle×4",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header / Nav",
+        "tap_back",
+        "Account Row",
+        "Rectangle",
+        "Add New Account"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Check_In",
+      "size": "390×844",
+      "nodes": 16,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "frame×5",
+        "text×4"
+      ],
+      "names": [
+        "Content",
+        "Brand",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Intro",
+        "Heading"
+      ]
+    },
+    {
+      "name": "02_Stress_Sources",
+      "size": "390×844",
+      "nodes": 19,
+      "max_depth": 4,
+      "instances": 9,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×6",
+        "text×4"
+      ],
+      "names": [
+        "Content",
+        "Top Bar",
+        "Back",
+        "Skip",
+        "Progress",
+        "STEP 2 OF 3"
+      ]
+    },
+    {
+      "name": "03_Today",
+      "size": "390×844",
+      "nodes": 41,
+      "max_depth": 5,
+      "instances": 13,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "frame×15",
+        "instance×13",
+        "text×11",
+        "ellipse×1",
+        "vector×1"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Greeting",
+        "TODAY’S ANCHOR",
+        "Good morning, Alex",
+        "Notifications"
+      ]
+    },
+    {
+      "name": "04_Focus_Session",
+      "size": "390×844",
+      "nodes": 32,
+      "max_depth": 5,
+      "instances": 8,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "frame×13",
+        "instance×8",
+        "text×8",
+        "ellipse×3"
+      ],
+      "names": [
+        "Content",
+        "Header Wrap",
+        "Header",
+        "Session Title",
+        "DEEP FOCUS",
+        "Session 4 of 10"
+      ]
+    },
+    {
+      "name": "05_Reflect",
+      "size": "390×844",
+      "nodes": 23,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×8",
+        "text×4"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Badge",
+        "Logo_MindfulMentor_Badge",
+        "Star",
+        "Icon_Star"
+      ]
+    },
+    {
+      "name": "06_Growth_Insights",
+      "size": "390×1190",
+      "nodes": 54,
+      "max_depth": 6,
+      "instances": 11,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "frame×18",
+        "text×18",
+        "instance×11",
+        "rectangle×4",
+        "vector×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Intro",
+        "Logo_MindfulMentor",
+        "Intro Text",
+        "Your Calm Journey"
+      ]
+    },
+    {
+      "name": "07_Your_Routine",
+      "size": "390×1209",
+      "nodes": 45,
+      "max_depth": 5,
+      "instances": 15,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "frame×17",
+        "instance×15",
+        "text×12",
+        "rectangle×1"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Intro",
+        "Logo_MindfulMentor",
+        "Intro Text",
+        "Your Routine"
+      ]
+    },
+    {
+      "name": "08_Campus_Support",
+      "size": "390×1199",
+      "nodes": 34,
+      "max_depth": 5,
+      "instances": 14,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "frame×12",
+        "text×8"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Intro",
+        "Logo_MindfulMentor",
+        "Intro Text",
+        "Campus Support"
+      ]
+    },
+    {
+      "name": "09_Exam_Mode",
+      "size": "390×960",
+      "nodes": 32,
+      "max_depth": 5,
+      "instances": 11,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "frame×11",
+        "instance×11",
+        "text×9",
+        "ellipse×1"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "Logo_MindfulMentor",
+        "MindfulMentor",
+        "Status",
+        "Exam Mode Chip"
+      ]
+    },
+    {
+      "name": "10_Immediate_Support",
+      "size": "390×873",
+      "nodes": 24,
+      "max_depth": 4,
+      "instances": 9,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "frame×9",
+        "instance×9",
+        "text×6"
+      ],
+      "names": [
+        "Content",
+        "Brand",
+        "Logo_MindfulMentor",
+        "Intro",
+        "We’re here with you.",
+        "Take a breath. You are s"
+      ]
+    },
+    {
+      "name": "11_Your_Journey",
+      "size": "390×1258",
+      "nodes": 67,
+      "max_depth": 5,
+      "instances": 12,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "frame×21",
+        "rectangle×17",
+        "text×13",
+        "instance×12",
+        "ellipse×4"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "T",
+        "Your Journey",
+        "Reflect on your emotiona",
+        "Avatar_Alex"
+      ]
+    },
+    {
+      "name": "12_Micro_Exercises",
+      "size": "390×1089",
+      "nodes": 26,
+      "max_depth": 4,
+      "instances": 17,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "frame×7",
+        "text×2"
+      ],
+      "names": [
+        "Content",
+        "Header",
+        "T",
+        "MICRO-EXERCISES",
+        "How are you feeling righ",
+        "Logo_MindfulMentor"
+      ]
+    }
+  ]
+}

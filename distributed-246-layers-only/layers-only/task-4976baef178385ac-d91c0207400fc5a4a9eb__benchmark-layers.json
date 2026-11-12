@@ -1,0 +1,137 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Check_In",
+      "size": "390×844",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "02_Stress_Sources",
+      "size": "390×844",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "03_Today",
+      "size": "390×844",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "04_Focus_Session",
+      "size": "390×844",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "05_Reflect",
+      "size": "390×844",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "06_Growth_Insights",
+      "size": "390×844",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "07_Your_Routine",
+      "size": "390×844",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "08_Campus_Support",
+      "size": "390×844",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "09_Exam_Mode",
+      "size": "390×844",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "10_Immediate_Support",
+      "size": "390×844",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "11_Your_Journey",
+      "size": "390×844",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "12_Micro_Exercises",
+      "size": "390×844",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    }
+  ]
+}

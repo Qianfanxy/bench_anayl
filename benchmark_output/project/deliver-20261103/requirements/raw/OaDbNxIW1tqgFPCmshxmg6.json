@@ -1,0 +1,795 @@
+{
+ "file_key": "OaDbNxIW1tqgFPCmshxmg6",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "4:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "4:5",
+     "name": "Fruit Hub — fruit salad ordering app",
+     "x": 64,
+     "y": 96,
+     "text": "Fruit Hub — fruit salad ordering app"
+    },
+    {
+     "id": "4:6",
+     "name": "Design the complete Fruit Hub mobile app: Tony tells the app their first name, browses fruit salad combos, adds one to the basket, checks out with delivery details or a card, and tracks the delivery. Canvas 375 × 812, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 162,
+     "text": "Design the complete Fruit Hub mobile app: Tony tells the app their first name, browses fruit salad combos, adds one to the basket, checks out with delivery details or a card, and tracks the delivery.\nCanvas 375 × 812, iPhone, light mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "4:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 288,
+     "text": "How to work"
+    },
+    {
+     "id": "4:9",
+     "name": "1. Build exactly the 10 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / error / warning / disabled, supporting colors), plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the sheets and every business component as reusable components in your file. 5. Use the logo, product photos, illustrations, map and icons from 04 · Media. Prices use the Naira glyph (Icon_Naira or “₦”). 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 340,
+     "text": "1. Build exactly the 10 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, success / error / warning / disabled, supporting colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the sheets and every business component as reusable components in your file.\n5. Use the logo, product photos, illustrations, map and icons from 04 · Media. Prices use the Naira glyph (Icon_Naira or “₦”).\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "4:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 595,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "4:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 647,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "4:15",
+     "name": "01_Splash",
+     "x": 89,
+     "y": 711,
+     "text": "01_Splash"
+    },
+    {
+     "id": "4:22",
+     "name": "02_Welcome",
+     "x": 757,
+     "y": 711,
+     "text": "02_Welcome"
+    },
+    {
+     "id": "4:16",
+     "name": "Goal: Brand recognition while the app loads.",
+     "x": 89,
+     "y": 748,
+     "text": "Goal: Brand recognition while the app loads."
+    },
+    {
+     "id": "4:23",
+     "name": "Goal: Explain the offer and start.",
+     "x": 757,
+     "y": 748,
+     "text": "Goal: Explain the offer and start."
+    },
+    {
+     "id": "4:17",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 779,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:24",
+     "name": "MUST INCLUDE",
+     "x": 757,
+     "y": 779,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:18",
+     "name": "• Brand: Logo_Fruit_Hub",
+     "x": 89,
+     "y": 806,
+     "text": "• Brand: Logo_Fruit_Hub"
+    },
+    {
+     "id": "4:25",
+     "name": "• Actions: Let’s Continue • Copy: “Get The Freshest Fruit Salad Combo” · “We deliver the best and freshest fruit salad in town. Order for a combo today!!!” • Media: Basket_Welcome · Fruit_Drops",
+     "x": 757,
+     "y": 806,
+     "text": "• Actions: Let’s Continue\n• Copy: “Get The Freshest Fruit Salad Combo” · “We deliver the best and freshest fruit salad in town. Order for a combo today!!!”\n• Media: Basket_Welcome · Fruit_Drops"
+    },
+    {
+     "id": "4:19",
+     "name": "LINKS",
+     "x": 89,
+     "y": 837,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:20",
+     "name": "→ auto → 02_Welcome",
+     "x": 89,
+     "y": 864,
+     "text": "→ auto → 02_Welcome"
+    },
+    {
+     "id": "4:26",
+     "name": "LINKS",
+     "x": 757,
+     "y": 900,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:27",
+     "name": "→ Let’s Continue → 03_Name",
+     "x": 757,
+     "y": 927,
+     "text": "→ Let’s Continue → 03_Name"
+    },
+    {
+     "id": "4:29",
+     "name": "03_Name",
+     "x": 89,
+     "y": 1022,
+     "text": "03_Name"
+    },
+    {
+     "id": "4:36",
+     "name": "04_Home",
+     "x": 757,
+     "y": 1022,
+     "text": "04_Home"
+    },
+    {
+     "id": "4:30",
+     "name": "Goal: Tell the app your first name.",
+     "x": 89,
+     "y": 1059,
+     "text": "Goal: Tell the app your first name."
+    },
+    {
+     "id": "4:37",
+     "name": "Goal: Find a fruit salad combo.",
+     "x": 757,
+     "y": 1059,
+     "text": "Goal: Find a fruit salad combo."
+    },
+    {
+     "id": "4:31",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 1090,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:38",
+     "name": "MUST INCLUDE",
+     "x": 757,
+     "y": 1090,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:32",
+     "name": "• Actions: Start Ordering • Copy: “What is your firstname?” • Form: first name, entered “Tony” • Media: Basket_Name · Fruit_Drops",
+     "x": 89,
+     "y": 1117,
+     "text": "• Actions: Start Ordering\n• Copy: “What is your firstname?”\n• Form: first name, entered “Tony”\n• Media: Basket_Name · Fruit_Drops"
+    },
+    {
+     "id": "4:39",
+     "name": "• Account: “Hello Tony, What fruit salad combo do you want today?” · menu entry · My basket entry • Categories: Hottest / Popular / New combo / Top · current: Hottest • Hottest: Quinoa fruit salad · Tropical fruit salad · Melon fruit salad, each with photo, name, price, favourite toggle and add to basket • Recommended: “Recommended Combo” · Honey lime combo · Berry mango combo, each with photo, name, price, favourite toggle and add to basket • Search & filter: search “Search for fruit salad combos” · filter entry",
+     "x": 757,
+     "y": 1117,
+     "text": "• Account: “Hello Tony, What fruit salad combo do you want today?” · menu entry · My basket entry\n• Categories: Hottest / Popular / New combo / Top · current: Hottest\n• Hottest: Quinoa fruit salad · Tropical fruit salad · Melon fruit salad, each with photo, name, price, favourite toggle and add to basket\n• Recommended: “Recommended Combo” · Honey lime combo · Berry mango combo, each with photo, name, price, favourite toggle and add to basket\n• Search & filter: search “Search for fruit salad combos” · filter entry"
+    },
+    {
+     "id": "4:33",
+     "name": "LINKS",
+     "x": 89,
+     "y": 1211,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:34",
+     "name": "→ Start Ordering → 04_Home",
+     "x": 89,
+     "y": 1238,
+     "text": "→ Start Ordering → 04_Home"
+    },
+    {
+     "id": "4:40",
+     "name": "LINKS",
+     "x": 757,
+     "y": 1295,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:41",
+     "name": "→ Quinoa fruit salad → 05_Product_Quinoa → My basket → 06_Basket",
+     "x": 757,
+     "y": 1322,
+     "text": "→ Quinoa fruit salad → 05_Product_Quinoa\n→ My basket → 06_Basket"
+    },
+    {
+     "id": "4:43",
+     "name": "05_Product_Quinoa",
+     "x": 89,
+     "y": 1438,
+     "text": "05_Product_Quinoa"
+    },
+    {
+     "id": "4:50",
+     "name": "06_Basket",
+     "x": 757,
+     "y": 1438,
+     "text": "06_Basket"
+    },
+    {
+     "id": "4:44",
+     "name": "Goal: Choose a quantity and add the combo to the basket.",
+     "x": 89,
+     "y": 1475,
+     "text": "Goal: Choose a quantity and add the combo to the basket."
+    },
+    {
+     "id": "4:51",
+     "name": "Goal: Review the basket and check out.",
+     "x": 757,
+     "y": 1475,
+     "text": "Goal: Review the basket and check out."
+    },
+    {
+     "id": "4:45",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 1506,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:52",
+     "name": "MUST INCLUDE",
+     "x": 757,
+     "y": 1506,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:46",
+     "name": "• Actions: Go back · favourite toggle · Add to basket • Contents: “One Pack Contains:” · Red Quinoa, Lime, Honey, Blueberries, Strawberries, Mango, Fresh mint. • Copy: “Quinoa Fruit Salad” · “If you are looking for a new fruit salad to eat today, quinoa is the perfect brunch for you.” • Media: Salad_Quinoa • Quantity: 1 pack, can be decreased / increased · price ₦10,000",
+     "x": 89,
+     "y": 1533,
+     "text": "• Actions: Go back · favourite toggle · Add to basket\n• Contents: “One Pack Contains:” · Red Quinoa, Lime, Honey, Blueberries, Strawberries, Mango, Fresh mint.\n• Copy: “Quinoa Fruit Salad” · “If you are looking for a new fruit salad to eat today, quinoa is the perfect brunch for you.”\n• Media: Salad_Quinoa\n• Quantity: 1 pack, can be decreased / increased · price ₦10,000"
+    },
+    {
+     "id": "4:53",
+     "name": "• Actions: Go back · Checkout • Copy: “My Basket” • Items: Quinoa fruit salad · Melon fruit salad · Tropical fruit salad, each with photo, name, “2 packs” and ₦20,000 • Total: “Total” ₦60,000",
+     "x": 757,
+     "y": 1533,
+     "text": "• Actions: Go back · Checkout\n• Copy: “My Basket”\n• Items: Quinoa fruit salad · Melon fruit salad · Tropical fruit salad, each with photo, name, “2 packs” and ₦20,000\n• Total: “Total” ₦60,000"
+    },
+    {
+     "id": "4:54",
+     "name": "LINKS",
+     "x": 757,
+     "y": 1648,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:55",
+     "name": "→ Go back → 04_Home → Checkout → 07_Checkout_Delivery",
+     "x": 757,
+     "y": 1675,
+     "text": "→ Go back → 04_Home\n→ Checkout → 07_Checkout_Delivery"
+    },
+    {
+     "id": "4:47",
+     "name": "LINKS",
+     "x": 89,
+     "y": 1690,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:48",
+     "name": "→ Go back → 04_Home → Add to basket → 06_Basket",
+     "x": 89,
+     "y": 1717,
+     "text": "→ Go back → 04_Home\n→ Add to basket → 06_Basket"
+    },
+    {
+     "id": "4:57",
+     "name": "07_Checkout_Delivery",
+     "x": 89,
+     "y": 1833,
+     "text": "07_Checkout_Delivery"
+    },
+    {
+     "id": "4:64",
+     "name": "08_Checkout_Card",
+     "x": 757,
+     "y": 1833,
+     "text": "08_Checkout_Card"
+    },
+    {
+     "id": "4:58",
+     "name": "Goal: Give delivery details and choose how to pay.",
+     "x": 89,
+     "y": 1870,
+     "text": "Goal: Give delivery details and choose how to pay."
+    },
+    {
+     "id": "4:65",
+     "name": "Goal: Pay by card.",
+     "x": 757,
+     "y": 1870,
+     "text": "Goal: Pay by card."
+    },
+    {
+     "id": "4:59",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 1901,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:66",
+     "name": "MUST INCLUDE",
+     "x": 757,
+     "y": 1901,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:60",
+     "name": "• Actions: close · Pay on delivery · Pay with card • Delivery: “Delivery address” 10th avenue, Lekki, Lagos State · “Number we can call” 09090605708 · both filled in • Presentation: opens over 06_Basket; the basket stays behind it",
+     "x": 89,
+     "y": 1928,
+     "text": "• Actions: close · Pay on delivery · Pay with card\n• Delivery: “Delivery address” 10th avenue, Lekki, Lagos State · “Number we can call” 09090605708 · both filled in\n• Presentation: opens over 06_Basket; the basket stays behind it"
+    },
+    {
+     "id": "4:67",
+     "name": "• Actions: close · Complete Order • Card: “Card Holder’s Name” Tony Chris · “Card Number” 1234 5678 9012 1314 · “Date” 10/30 · “CVV” 123 · all filled in • Presentation: opens over 06_Basket; the basket stays behind it",
+     "x": 757,
+     "y": 1928,
+     "text": "• Actions: close · Complete Order\n• Card: “Card Holder’s Name” Tony Chris · “Card Number” 1234 5678 9012 1314 · “Date” 10/30 · “CVV” 123 · all filled in\n• Presentation: opens over 06_Basket; the basket stays behind it"
+    },
+    {
+     "id": "4:61",
+     "name": "LINKS",
+     "x": 89,
+     "y": 2022,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:68",
+     "name": "LINKS",
+     "x": 757,
+     "y": 2022,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:62",
+     "name": "→ close → 06_Basket → Pay with card → 08_Checkout_Card → Pay on delivery → 09_Order_Complete",
+     "x": 89,
+     "y": 2049,
+     "text": "→ close → 06_Basket\n→ Pay with card → 08_Checkout_Card\n→ Pay on delivery → 09_Order_Complete"
+    },
+    {
+     "id": "4:69",
+     "name": "→ close → 06_Basket → Complete Order → 09_Order_Complete",
+     "x": 757,
+     "y": 2049,
+     "text": "→ close → 06_Basket\n→ Complete Order → 09_Order_Complete"
+    },
+    {
+     "id": "4:71",
+     "name": "09_Order_Complete",
+     "x": 89,
+     "y": 2186,
+     "text": "09_Order_Complete"
+    },
+    {
+     "id": "4:78",
+     "name": "10_Track_Order",
+     "x": 757,
+     "y": 2186,
+     "text": "10_Track_Order"
+    },
+    {
+     "id": "4:72",
+     "name": "Goal: Confirm the order was placed.",
+     "x": 89,
+     "y": 2223,
+     "text": "Goal: Confirm the order was placed."
+    },
+    {
+     "id": "4:79",
+     "name": "Goal: Follow the delivery.",
+     "x": 757,
+     "y": 2223,
+     "text": "Goal: Follow the delivery."
+    },
+    {
+     "id": "4:73",
+     "name": "MUST INCLUDE",
+     "x": 89,
+     "y": 2254,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:80",
+     "name": "MUST INCLUDE",
+     "x": 757,
+     "y": 2254,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:74",
+     "name": "• Actions: Track order · Continue shopping • Copy: “Congratulations!!!” · “Your order has been taken and is being attended to” • Status: success mark (Icon_Success_Check)",
+     "x": 89,
+     "y": 2281,
+     "text": "• Actions: Track order · Continue shopping\n• Copy: “Congratulations!!!” · “Your order has been taken and is being attended to”\n• Status: success mark (Icon_Success_Check)"
+    },
+    {
+     "id": "4:81",
+     "name": "• Actions: Go back · call the delivery agent • Copy: “Delivery Status” • Map: Map_Delivery • Steps, in this order: Order Taken (done, Step_Order_Taken) · Order Is Being Prepared (done, Step_Order_Prepared) · Order Is Being Delivered (current, “Your delivery agent is coming”, Step_Order_Delivering) · Order Received (not yet)",
+     "x": 757,
+     "y": 2281,
+     "text": "• Actions: Go back · call the delivery agent\n• Copy: “Delivery Status”\n• Map: Map_Delivery\n• Steps, in this order: Order Taken (done, Step_Order_Taken) · Order Is Being Prepared (done, Step_Order_Prepared) · Order Is Being Delivered (current, “Your delivery agent is coming”, Step_Order_Delivering) · Order Received (not yet)"
+    },
+    {
+     "id": "4:75",
+     "name": "LINKS",
+     "x": 89,
+     "y": 2354,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:76",
+     "name": "→ Track order → 10_Track_Order → Continue shopping → 04_Home",
+     "x": 89,
+     "y": 2381,
+     "text": "→ Track order → 10_Track_Order\n→ Continue shopping → 04_Home"
+    },
+    {
+     "id": "4:82",
+     "name": "LINKS",
+     "x": 757,
+     "y": 2417,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:83",
+     "name": "→ Go back → 04_Home",
+     "x": 757,
+     "y": 2444,
+     "text": "→ Go back → 04_Home"
+    },
+    {
+     "id": "4:85",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 2538,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "4:86",
+     "name": "• One linear flow, no bottom navigation: 01_Splash → 02_Welcome → 03_Name → 04_Home → 05_Product_Quinoa → 06_Basket → 07_Checkout_Delivery → 08_Checkout_Card → 09_Order_Complete → 10_Track_Order. • 07 and 08 are sheets over the basket (one frame each). 07 can skip the card step: Pay on delivery → 09. • Pushed screens with Go back: 05, 06, 10. • Entry only (no frame): menu, search, filter, categories other than Hottest, favourite toggles, add-to-basket on Home, combos other than Quinoa, call agent.",
+     "x": 64,
+     "y": 2590,
+     "text": "• One linear flow, no bottom navigation: 01_Splash → 02_Welcome → 03_Name → 04_Home → 05_Product_Quinoa → 06_Basket → 07_Checkout_Delivery → 08_Checkout_Card → 09_Order_Complete → 10_Track_Order.\n• 07 and 08 are sheets over the basket (one frame each). 07 can skip the card step: Pay on delivery → 09.\n• Pushed screens with Go back: 05, 06, 10.\n• Entry only (no frame): menu, search, filter, categories other than Hottest, favourite toggles, add-to-basket on Home, combos other than Quinoa, call agent."
+    },
+    {
+     "id": "4:88",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 2753,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "4:89",
+     "name": "Use these values verbatim. Currency Nigerian Naira (₦).",
+     "x": 64,
+     "y": 2805,
+     "text": "Use these values verbatim. Currency Nigerian Naira (₦)."
+    },
+    {
+     "id": "4:92",
+     "name": "Customer",
+     "x": 84,
+     "y": 2864,
+     "text": "Customer"
+    },
+    {
+     "id": "4:95",
+     "name": "Combos (name · price · photo)",
+     "x": 528,
+     "y": 2864,
+     "text": "Combos (name · price · photo)"
+    },
+    {
+     "id": "4:98",
+     "name": "Home sections",
+     "x": 972,
+     "y": 2864,
+     "text": "Home sections"
+    },
+    {
+     "id": "4:93",
+     "name": "First name Tony (entered on 03_Name; greeting on 04_Home)",
+     "x": 84,
+     "y": 2893,
+     "text": "First name Tony (entered on 03_Name; greeting on 04_Home)"
+    },
+    {
+     "id": "4:96",
+     "name": "Honey lime combo · ₦2,000 · Salad_Honey_Lime Berry mango combo · ₦8,000 · Salad_Berry_Mango Quinoa fruit salad · ₦10,000 · Salad_Quinoa Tropical fruit salad · ₦10,000 · Salad_Tropical Melon fruit salad · ₦10,000 · Salad_Melon",
+     "x": 528,
+     "y": 2893,
+     "text": "Honey lime combo · ₦2,000 · Salad_Honey_Lime\nBerry mango combo · ₦8,000 · Salad_Berry_Mango\nQuinoa fruit salad · ₦10,000 · Salad_Quinoa\nTropical fruit salad · ₦10,000 · Salad_Tropical\nMelon fruit salad · ₦10,000 · Salad_Melon"
+    },
+    {
+     "id": "4:99",
+     "name": "Recommended Combo: Honey lime, Berry mango Categories: Hottest (current) / Popular / New combo / Top Hottest: Quinoa, Tropical, Melon",
+     "x": 972,
+     "y": 2893,
+     "text": "Recommended Combo: Honey lime, Berry mango\nCategories: Hottest (current) / Popular / New combo / Top\nHottest: Quinoa, Tropical, Melon"
+    },
+    {
+     "id": "4:101",
+     "name": "Quinoa Fruit Salad",
+     "x": 84,
+     "y": 3057,
+     "text": "Quinoa Fruit Salad"
+    },
+    {
+     "id": "4:104",
+     "name": "My Basket",
+     "x": 528,
+     "y": 3057,
+     "text": "My Basket"
+    },
+    {
+     "id": "4:107",
+     "name": "Delivery",
+     "x": 972,
+     "y": 3057,
+     "text": "Delivery"
+    },
+    {
+     "id": "4:102",
+     "name": "One Pack Contains: Red Quinoa, Lime, Honey, Blueberries, Strawberries, Mango, Fresh mint. “If you are looking for a new fruit salad to eat today, quinoa is the perfect brunch for you.” Quantity 1 · ₦10,000",
+     "x": 84,
+     "y": 3086,
+     "text": "One Pack Contains: Red Quinoa, Lime, Honey, Blueberries, Strawberries, Mango, Fresh mint.\n“If you are looking for a new fruit salad to eat today, quinoa is the perfect brunch for you.”\nQuantity 1 · ₦10,000"
+    },
+    {
+     "id": "4:105",
+     "name": "Quinoa fruit salad · 2 packs · ₦20,000 Melon fruit salad · 2 packs · ₦20,000 Tropical fruit salad · 2 packs · ₦20,000 Total ₦60,000",
+     "x": 528,
+     "y": 3086,
+     "text": "Quinoa fruit salad · 2 packs · ₦20,000\nMelon fruit salad · 2 packs · ₦20,000\nTropical fruit salad · 2 packs · ₦20,000\nTotal ₦60,000"
+    },
+    {
+     "id": "4:108",
+     "name": "Delivery address: 10th avenue, Lekki, Lagos State Number we can call: 09090605708 Options: Pay on delivery · Pay with card",
+     "x": 972,
+     "y": 3086,
+     "text": "Delivery address: 10th avenue, Lekki, Lagos State\nNumber we can call: 09090605708\nOptions: Pay on delivery · Pay with card"
+    },
+    {
+     "id": "4:110",
+     "name": "Card",
+     "x": 84,
+     "y": 3250,
+     "text": "Card"
+    },
+    {
+     "id": "4:113",
+     "name": "Order complete",
+     "x": 528,
+     "y": 3250,
+     "text": "Order complete"
+    },
+    {
+     "id": "4:116",
+     "name": "Delivery status",
+     "x": 972,
+     "y": 3250,
+     "text": "Delivery status"
+    },
+    {
+     "id": "4:111",
+     "name": "Card Holder’s Name: Tony Chris Card Number: 1234 5678 9012 1314 Date: 10/30 · CVV: 123 Button: Complete Order",
+     "x": 84,
+     "y": 3279,
+     "text": "Card Holder’s Name: Tony Chris\nCard Number: 1234 5678 9012 1314\nDate: 10/30 · CVV: 123\nButton: Complete Order"
+    },
+    {
+     "id": "4:114",
+     "name": "“Congratulations!!!” “Your order has been taken and is being attended to” Track order · Continue shopping",
+     "x": 528,
+     "y": 3279,
+     "text": "“Congratulations!!!”\n“Your order has been taken and is being attended to”\nTrack order · Continue shopping"
+    },
+    {
+     "id": "4:117",
+     "name": "Order Taken ✓ · Order Is Being Prepared ✓ · Order Is Being Delivered (now) “Your delivery agent is coming” · Order Received (pending)",
+     "x": 972,
+     "y": 3279,
+     "text": "Order Taken ✓ · Order Is Being Prepared ✓ · Order Is Being Delivered (now) “Your delivery agent is coming” · Order Received (pending)"
+    },
+    {
+     "id": "4:119",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 3427,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "4:122",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 3503,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "4:125",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 3503,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "4:123",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand primary color #FFA451 + Nunito • Media: logo, product photos, illustrations, map, icons • Default Button, default Text Field, platform shell",
+     "x": 88,
+     "y": 3537,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand primary color #FFA451 + Nunito\n• Media: logo, product photos, illustrations, map, icons\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "4:126",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, surfaces, semantic and supporting colors • Type scale, spacing, radii, elevation • All states: selected, favourited, pressed, disabled, filled, done / current / pending • Headers, sheets and all business components • How the step progress and the map are presented",
+     "x": 756,
+     "y": 3537,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, surfaces, semantic and supporting colors\n• Type scale, spacing, radii, elevation\n• All states: selected, favourited, pressed, disabled, filled, done / current / pending\n• Headers, sheets and all business components\n• How the step progress and the map are presented"
+    },
+    {
+     "id": "4:128",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 3756,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "4:129",
+     "name": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference.",
+     "x": 64,
+     "y": 3808,
+     "text": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference."
+    },
+    {
+     "id": "4:130",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current category, filled fields, sheet over basket, done / current / pending steps)",
+     "x": 64,
+     "y": 3847,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current category, filled fields, sheet over basket, done / current / pending steps)"
+    },
+    {
+     "id": "4:131",
+     "name": "Deliverable: the link to your own Figma file containing the 10 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 4024,
+     "text": "Deliverable: the link to your own Figma file containing the 10 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "3:3",
+     "name": "Foundations · Fruit Hub",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Fruit Hub"
+    },
+    {
+     "id": "3:4",
+     "name": "Fixed: the brand primary color and the typeface below — they carry the Fruit Hub identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, semantic colors (success, error, warning, disabled), supporting colors, type scale, weights per role, spacing, radii and elevation.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the brand primary color and the typeface below — they carry the Fruit Hub identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, semantic colors (success, error, warning, disabled), supporting colors, type scale, weights per role, spacing, radii and elevation."
+    },
+    {
+     "id": "3:5",
+     "name": "Brand color",
+     "x": 56,
+     "y": 189,
+     "text": "Brand color"
+    },
+    {
+     "id": "3:8",
+     "name": "Brand primary",
+     "x": 56,
+     "y": 373,
+     "text": "Brand primary"
+    },
+    {
+     "id": "3:9",
+     "name": "#FFA451",
+     "x": 56,
+     "y": 398,
+     "text": "#FFA451"
+    },
+    {
+     "id": "3:10",
+     "name": "The Fruit Hub brand color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 422,
+     "text": "The Fruit Hub brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "3:11",
+     "name": "Typeface",
+     "x": 56,
+     "y": 484,
+     "text": "Typeface"
+    },
+    {
+     "id": "3:17",
+     "name": "Bad Script · wordmark only",
+     "x": 657,
+     "y": 540,
+     "text": "Bad Script · wordmark only"
+    },
+    {
+     "id": "3:14",
+     "name": "Nunito",
+     "x": 56,
+     "y": 562,
+     "text": "Nunito"
+    },
+    {
+     "id": "3:18",
+     "name": "Fruit Hub",
+     "x": 657,
+     "y": 563,
+     "text": "Fruit Hub"
+    },
+    {
+     "id": "3:15",
+     "name": "Aa Bb Cc 0123456789 ₦60,000",
+     "x": 56,
+     "y": 585,
+     "text": "Aa Bb Cc 0123456789  ₦60,000"
+    },
+    {
+     "id": "3:19",
+     "name": "Use Nunito for all UI text (replaces the source’s Brandon Grotesque, which is not available). Bad Script appears only inside the supplied Logo_Fruit_Hub — do not use it elsewhere. Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 666,
+     "text": "Use Nunito for all UI text (replaces the source’s Brandon Grotesque, which is not available). Bad Script appears only inside the supplied Logo_Fruit_Hub — do not use it elsewhere. Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "3:20",
+     "name": "Canvas: 375 × 812 (iPhone). Light mode only. Currency: Nigerian Naira (₦, glyph supplied as Icon_Naira).",
+     "x": 56,
+     "y": 732,
+     "text": "Canvas: 375 × 812 (iPhone). Light mode only. Currency: Nigerian Naira (₦, glyph supplied as Icon_Naira)."
+    }
+   ]
+  }
+ ]
+}

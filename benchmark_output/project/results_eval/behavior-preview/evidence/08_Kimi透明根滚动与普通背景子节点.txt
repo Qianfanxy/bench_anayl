@@ -1,0 +1,114 @@
+
+messages[31] / m31-call0.js
+0009: const old=page.children.find(n=>n.name==='02_Discovery'); if(old) old.remove();
+0010: 
+0011: function frame(p,name,x,y,w,h){const f=figma.createFrame();f.name=name;f.x=x;f.y=y;f.resize(w,h);f.fills=[];f.clipsContent=true;(p||page).appendChild(f);return f;}
+0012: function rect(p,n,x,y,w,h,c,r){const q=figma.createRectangle();q.name=n;q.x=x;q.y=y;q.resize(w,h);q.fills=[{type:'SOLID',color:c}];if(r)q.cornerRadius=r;p.appendChild(q);return q;}
+0013: function txt(p,n,x,y,ch,s,st,c,o={}){const t=figma.createText();t.fontName={family:'Nunito',style:st};t.characters=ch;t.fontSize=s;t.fills=[{type:'SOLID',color:c}];t.name=n;t.x=x;t.y=y;if(o.w){t.textAutoResize='HEIGHT';t.resize(o.w,t.height);}if(o.align)t.textAlignHorizontal=o.align;p.appendChild(t);return t;}
+0014: async function inst(id,p,x,y,w,h,n){const c=await figma.getNodeByIdAsync(id);const i=c.createInstance();p.appendChild(i);i.x=x;i.y=y;if(w&&h)i.resize(w,h);if(n)i.name=n;return i;}
+0015: const COIN={BTC:'2:8',ETH:'2:11',USDT:'2:14',BNB:'2:17',USDC:'2:20',BUSD:'2:23',XRP:'2:26',DOGE:'2:29',ADA:'2:32',MATIC:'2:35',DAI:'2:38',AVAX:'2:41',CAKE:'2:44',MANA:'2:47',MKR:'2:50',NEAR:'2:53',DASH:'2:56',ETC:'2:59'};
+0016: 
+0017: const D = frame(null,'02_Discovery',460,0,375,812);
+0018: rect(D,'BG',0,0,375,812,WHITE);
+0019: const sb=await figma.getNodeByIdAsync('3:26');const sbi=sb.createInstance();D.appendChild(sbi);sbi.x=0;sbi.y=0;
+0020: const hi=await figma.getNodeByIdAsync('3:36');const hii=hi.createInstance();D.appendChild(hii);hii.x=0;hii.y=778;
+0021: 
+0022: const C = frame(D,'Content',0,44,375,1130);
+0023: C.clipsContent=false; C.fills=[];
+0024: D.overflowDirection='VERTICAL';
+0025: 
+0026: await inst('2:65',C,20,14,40,40,'Avatar_Neutral');
+0027: const tf=await figma.getNodeByIdAsync('3:22');const tfi=tf.createInstance();C.appendChild(tfi);tfi.x=72;tfi.y=14;tfi.resize(283,40);
+0028: await inst('2:100',C,86,24,20,20,'Icon_Search');
+0029: 
+0030: txt(C,'Date',20,74,'December 05',12,'Bold',SUB);
+0031: txt(C,'For You Today',20,92,'For You Today',20,'ExtraBold',TEXT);
+0098: }
+0099: 
+0100: function dot(x,active,w){rect(D,'Page Dot',x,790,w||6,6,active?BRAND:{r:0.82,g:0.83,b:0.87},3);}
+0101: dot(164,false);dot(176,false);dot(200,true,18);
+0102: 
+0103: return 'discovery done: '+D.id;
+
+messages[39] / m39-call0.js
+0008: const old=page.children.find(n=>n.name==='03_Strategy'); if(old) old.remove();
+0009: 
+0010: function frame(p,name,x,y,w,h){const f=figma.createFrame();f.name=name;f.x=x;f.y=y;f.resize(w,h);f.fills=[];f.clipsContent=true;(p||page).appendChild(f);return f;}
+0011: function rect(p,n,x,y,w,h,c,r){const q=figma.createRectangle();q.name=n;q.x=x;q.y=y;q.resize(w,h);q.fills=[{type:'SOLID',color:c}];if(r)q.cornerRadius=r;p.appendChild(q);return q;}
+0012: function txt(p,n,x,y,ch,s,st,c,o={}){const t=figma.createText();t.fontName={family:'Nunito',style:st};t.characters=ch;t.fontSize=s;t.fills=[{type:'SOLID',color:c}];t.name=n;t.x=x;t.y=y;if(o.w){t.textAutoResize='HEIGHT';t.resize(o.w,t.height);}if(o.align)t.textAlignHorizontal=o.align;p.appendChild(t);return t;}
+0013: async function inst(id,p,x,y,w,h,n){const c=await figma.getNodeByIdAsync(id);const i=c.createInstance();p.appendChild(i);i.x=x;i.y=y;if(w&&h)i.resize(w,h);if(n)i.name=n;return i;}
+0014: const COIN={MATIC:'2:35',MANA:'2:47',CAKE:'2:44',DOGE:'2:29',MKR:'2:50',DAI:'2:38'};
+0015: 
+0016: const S = frame(null,'03_Strategy',920,0,375,812);
+0017: rect(S,'BG',0,0,375,812,WHITE);
+0018: const sb=await figma.getNodeByIdAsync('3:26');const sbi=sb.createInstance();S.appendChild(sbi);sbi.x=0;sbi.y=0;
+0019: const hi=await figma.getNodeByIdAsync('3:36');const hii=hi.createInstance();S.appendChild(hii);hii.x=0;hii.y=778;
+0020: rect(S,'Scrim',0,0,375,812,{r:0.1,g:0.1,b:0.13}).fills=[{type:'SOLID',color:{r:0.1,g:0.1,b:0.13},opacity:0.45}];
+0021: 
+0022: const Sheet = frame(S,'Sheet',0,40,375,772);
+0023: Sheet.fills=[{type:'SOLID',color:WHITE}];
+0024: Sheet.topLeftRadius=24;Sheet.topRightRadius=24;
+0025: rect(Sheet,'Grabber',168,10,40,5,{r:0.85,g:0.86,b:0.89},3);
+0026: const closeBg=rect(Sheet,'Dismiss',329,24,32,32,CARD,16);
+0027: await inst('2:128',Sheet,335,30,20,20,'Icon_Close');
+0028: 
+0029: const C = frame(Sheet,'Content',0,24,375,748);
+0030: C.clipsContent=false;C.fills=[];
+0031: Sheet.overflowDirection='VERTICAL';
+0032: // move grabber & dismiss above content visually: reorder later
+0033: 
+0034: txt(C,'Title',24,32,'Aggressive Growth',24,'ExtraBold',TEXT);
+0035: const riskT=txt(C,'Risk Label',0,0,'🔥 High Risk',12,'ExtraBold',LOSS);
+0036: const riskChip=rect(C,'Risk Chip',24,72,riskT.width+24,28,{r:1,g:0.92,b:0.90},14);
+0037: riskT.x=36;riskT.y=78;
+0038: 
+0116: }
+0117: 
+0118: // bottom spacer so content scrolls above pinned invest bar
+0119: rect(C,'Spacer',24,sy+8,327,120,WHITE);
+0120: 
+0121: // pinned invest bar
+0122: const bar=rect(Sheet,'Invest Bar',0,668,375,104,WHITE);
+0123: bar.strokes=[{type:'SOLID',color:LINE}];bar.strokeWeight=1;bar.strokeAlign='INSIDE';
+0124: const btn=await figma.getNodeByIdAsync('3:19');
+0125: const bi=btn.createInstance();Sheet.appendChild(bi);bi.x=20;bi.y=694;bi.resize(335,52);
+0126: 
+0127: // ensure grabber & dismiss on top of scroll content
+0128: Sheet.appendChild(Sheet.findOne(n=>n.name==='Grabber'));
+0129: Sheet.appendChild(Sheet.findOne(n=>n.name==='Dismiss'));
+0130: Sheet.appendChild(Sheet.findOne(n=>n.name==='Icon_Close'));
+0131: 
+0132: return 'strategy done: '+S.id;
+
+messages[76] / m76-call0.js
+0013: }
+0014: // ensure page dots above home indicator
+0015: for(const d of W.findAll(n=>n.name==='Page Dot')) W.appendChild(d);
+0016: // 02_Discovery: dots above
+0017: const D = page.children.find(n=>n.name==='02_Discovery');
+0018: for(const d of D.findAll(n=>n.name==='Page Dot')) D.appendChild(d);
+0019: return 'done';
+
+messages[96] / m96-call0.js
+0002: const page = await figma.getNodeByIdAsync('4:2');
+0003: const S = page.children.find(n=>n.name==='03_Strategy');
+0004: const C = S.findOne(n=>n.name==='Content');
+0005: const desc = C.findOne(n=>n.name==='Description');
+0006: const about = C.findOne(n=>n.name==='About Strategy');
+0007: const shareTitle = C.findOne(n=>n.name==='Share of Assets');
+0008: const spacer = C.findOne(n=>n.name==='Spacer');
+0009: // compute proper positions
+0010: const aboutY = about.y;
+0011: const descBottom = aboutY + 30 + desc.height;
+0012: const newShareY = descBottom + 24;
+0013: const dy = newShareY - shareTitle.y;
+0014: shareTitle.y = newShareY;
+0015: // move all share rows (they are between shareY+34 ...) — identify nodes with y between old shareTitle.y+30 and spacer.y
+0016: const oldShareY = shareTitle.y - dy;
+0017: const movers = C.children.filter(n=> n!==shareTitle && n!==spacer && n.y > oldShareY+30 && n.y < spacer.y);
+0018: for(const m of movers) m.y += dy;
+0019: // spacer: compute from last bar track
+0020: const bars = C.findAll(n=>n.name==='Bar Track');
+0021: const lastBar = bars.sort((a,b)=>b.y-a.y)[0];
+0022: spacer.y = lastBar.y + 8;
+0023: return 'dy='+dy+' movers='+movers.length+' shareY='+newShareY+' descH='+desc.height+' spacerY='+spacer.y;

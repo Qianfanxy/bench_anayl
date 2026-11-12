@@ -1,0 +1,438 @@
+{
+ "file_key": "2y1tZHHBvy0uiRFSVBBaiH",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "3:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "3:5",
+     "name": "Budget — monthly expenses, bills and credit score",
+     "x": 64,
+     "y": 95,
+     "text": "Budget — monthly expenses, bills and credit score"
+    },
+    {
+     "id": "3:6",
+     "name": "Design a personal budgeting app: see this month’s spending against the budget by category, check the monthly subscriptions, and review the credit score. Canvas 375 × 812, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design a personal budgeting app: see this month’s spending against the budget by category, check the monthly subscriptions, and review the credit score. Canvas 375 × 812, iPhone, light mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "3:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "3:9",
+     "name": "1. Build exactly the 3 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only the platform shell (status bar, home indicator) — this task has no primary button and no text input. Design all other states, the headers, the navigation and every business component as reusable components in your file. 5. Use the service logos and the icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 3 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only the platform shell (status bar, home indicator) — this task has no primary button and no text input. Design all other states, the headers, the navigation and every business component as reusable components in your file.\n5. Use the service logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "3:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 532,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "3:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 583,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "3:15",
+     "name": "01_Expenses",
+     "x": 88,
+     "y": 645,
+     "text": "01_Expenses"
+    },
+    {
+     "id": "3:22",
+     "name": "02_Bill",
+     "x": 756,
+     "y": 645,
+     "text": "02_Bill"
+    },
+    {
+     "id": "3:16",
+     "name": "Goal: See how much of this month’s budget is spent, by category.",
+     "x": 88,
+     "y": 681,
+     "text": "Goal: See how much of this month’s budget is spent, by category."
+    },
+    {
+     "id": "3:23",
+     "name": "Goal: See what I pay for subscriptions each month.",
+     "x": 756,
+     "y": 681,
+     "text": "Goal: See what I pay for subscriptions each month."
+    },
+    {
+     "id": "3:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "3:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "3:18",
+     "name": "• Budget: “Left to spend” $738 · “Monthly budget” $2,550 · progress of spending against the budget • Categories: Auto & transport · Bill & Utilities, each with icon, total and item rows with amount, amount left and progress (see DATA) • Header: back (Icon_Back) · “Expenses” · add (Icon_Plus) • Main navigation: tab bar Overview / This Month / Offers / Setting · current: This Month • More: more categories (Icon_More) • Period: “September 2020” (Icon_Chevron_Down) · total spent $1,812",
+     "x": 88,
+     "y": 737,
+     "text": "• Budget: “Left to spend” $738 · “Monthly budget” $2,550 · progress of spending against the budget\n• Categories: Auto & transport · Bill & Utilities, each with icon, total and item rows with amount, amount left and progress (see DATA)\n• Header: back (Icon_Back) · “Expenses” · add (Icon_Plus)\n• Main navigation: tab bar Overview / This Month / Offers / Setting · current: This Month\n• More: more categories (Icon_More)\n• Period: “September 2020” (Icon_Chevron_Down) · total spent $1,812"
+    },
+    {
+     "id": "3:25",
+     "name": "• Header: back (Icon_Back) · “Bill” · add (Icon_Plus) • Main navigation: tab bar · current: This Month • Segments: Bills · Payments · Subscription · current: Subscription • Subscriptions: Patreon membership · Netflix · Apple payment · Spotify, each with logo, monthly price and open (Icon_Chevron_Right) (see DATA) • Summary: “Your monthly payment for subscriptions” · $58.97",
+     "x": 756,
+     "y": 737,
+     "text": "• Header: back (Icon_Back) · “Bill” · add (Icon_Plus)\n• Main navigation: tab bar · current: This Month\n• Segments: Bills · Payments · Subscription · current: Subscription\n• Subscriptions: Patreon membership · Netflix · Apple payment · Spotify, each with logo, monthly price and open (Icon_Chevron_Right) (see DATA)\n• Summary: “Your monthly payment for subscriptions” · $58.97"
+    },
+    {
+     "id": "3:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 867,
+     "text": "LINKS"
+    },
+    {
+     "id": "3:27",
+     "name": "→ back → 01_Expenses",
+     "x": 756,
+     "y": 893,
+     "text": "→ back → 01_Expenses"
+    },
+    {
+     "id": "3:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 907,
+     "text": "LINKS"
+    },
+    {
+     "id": "3:20",
+     "name": "→ Bill & Utilities card → 02_Bill",
+     "x": 88,
+     "y": 933,
+     "text": "→ Bill & Utilities card → 02_Bill"
+    },
+    {
+     "id": "3:29",
+     "name": "03_Credit_Score",
+     "x": 88,
+     "y": 1025,
+     "text": "03_Credit_Score"
+    },
+    {
+     "id": "3:30",
+     "name": "Goal: Understand my credit score and what drives it.",
+     "x": 88,
+     "y": 1061,
+     "text": "Goal: Understand my credit score and what drives it."
+    },
+    {
+     "id": "3:31",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1091,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "3:32",
+     "name": "• Factors: On-time payments · Credit Utilization · Age of credit, each with value, rating and detail (see DATA) • Header: back (Icon_Back) · “Credit Score” • Main navigation: tab bar · current: This Month • Score: 660 · “Good” · +6pts · range 400 – 850 · “Last update on 20 Jul 2020”",
+     "x": 88,
+     "y": 1117,
+     "text": "• Factors: On-time payments · Credit Utilization · Age of credit, each with value, rating and detail (see DATA)\n• Header: back (Icon_Back) · “Credit Score”\n• Main navigation: tab bar · current: This Month\n• Score: 660 · “Good” · +6pts · range 400 – 850 · “Last update on 20 Jul 2020”"
+    },
+    {
+     "id": "3:33",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1227,
+     "text": "LINKS"
+    },
+    {
+     "id": "3:34",
+     "name": "→ back → 01_Expenses",
+     "x": 88,
+     "y": 1253,
+     "text": "→ back → 01_Expenses"
+    },
+    {
+     "id": "3:36",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 1345,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "3:37",
+     "name": "• Bottom tab bar on all 3 frames with 4 tabs in this order: Overview (Icon_Overview), This Month (Icon_This_Month), Offers (Icon_Offers), Setting (Icon_Setting). Current: This Month on all three. How the current tab looks is yours. • 01_Expenses is the This Month screen. 02_Bill is pushed from the Bill & Utilities card; back returns to 01. • 03_Credit_Score: the source shows no entry point — link it from wherever you see fit; its back returns to 01_Expenses. • Entry only (no frame): period picker, add, more categories, item rows, Bills and Payments segments, subscription rows, factor rows, Overview / Offers / Setting tabs.",
+     "x": 64,
+     "y": 1396,
+     "text": "• Bottom tab bar on all 3 frames with 4 tabs in this order: Overview (Icon_Overview), This Month (Icon_This_Month), Offers (Icon_Offers), Setting (Icon_Setting). Current: This Month on all three. How the current tab looks is yours.\n• 01_Expenses is the This Month screen. 02_Bill is pushed from the Bill & Utilities card; back returns to 01.\n• 03_Credit_Score: the source shows no entry point — link it from wherever you see fit; its back returns to 01_Expenses.\n• Entry only (no frame): period picker, add, more categories, item rows, Bills and Payments segments, subscription rows, factor rows, Overview / Offers / Setting tabs."
+    },
+    {
+     "id": "3:39",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 1554,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "3:40",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 1605,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "3:43",
+     "name": "Period and totals",
+     "x": 84,
+     "y": 1663,
+     "text": "Period and totals"
+    },
+    {
+     "id": "3:46",
+     "name": "Auto & transport · $600 (Icon_Car)",
+     "x": 528,
+     "y": 1663,
+     "text": "Auto & transport · $600 (Icon_Car)"
+    },
+    {
+     "id": "3:49",
+     "name": "Bill & Utilities · $320 (Icon_Bill)",
+     "x": 972,
+     "y": 1663,
+     "text": "Bill & Utilities · $320 (Icon_Bill)"
+    },
+    {
+     "id": "3:44",
+     "name": "September 2020 · spent $1,812 Left to spend $738 · Monthly budget $2,550",
+     "x": 84,
+     "y": 1691,
+     "text": "September 2020 · spent $1,812\nLeft to spend $738 · Monthly budget $2,550"
+    },
+    {
+     "id": "3:47",
+     "name": "Auto & transport · $350 · Left $186 Auto insurance · $250 · Left $120",
+     "x": 528,
+     "y": 1691,
+     "text": "Auto & transport · $350 · Left $186\nAuto insurance · $250 · Left $120"
+    },
+    {
+     "id": "3:50",
+     "name": "Subscriptions · $52 · Left $0 House service · $138 · Left $10 Maintenance · $130 · Left $30",
+     "x": 972,
+     "y": 1691,
+     "text": "Subscriptions · $52 · Left $0\nHouse service · $138 · Left $10\nMaintenance · $130 · Left $30"
+    },
+    {
+     "id": "3:52",
+     "name": "Subscriptions (02, in this order)",
+     "x": 84,
+     "y": 1812,
+     "text": "Subscriptions (02, in this order)"
+    },
+    {
+     "id": "3:55",
+     "name": "Credit score (03)",
+     "x": 528,
+     "y": 1812,
+     "text": "Credit score (03)"
+    },
+    {
+     "id": "3:58",
+     "name": "Factors (03, in this order)",
+     "x": 972,
+     "y": 1812,
+     "text": "Factors (03, in this order)"
+    },
+    {
+     "id": "3:53",
+     "name": "Total: Your monthly payment for subscriptions · $58.97 Patreon membership · $19.99/mo (Logo_Patreon) Netflix · $12/mo (Logo_Netflix) Apple payment · $19.99/mo (Logo_Apple) Spotify · $6.99/mo (Logo_Spotify)",
+     "x": 84,
+     "y": 1840,
+     "text": "Total: Your monthly payment for subscriptions · $58.97\nPatreon membership · $19.99/mo (Logo_Patreon)\nNetflix · $12/mo (Logo_Netflix)\nApple payment · $19.99/mo (Logo_Apple)\nSpotify · $6.99/mo (Logo_Spotify)"
+    },
+    {
+     "id": "3:56",
+     "name": "660 · Good · +6pts Range 400 – 850 · Last update on 20 Jul 2020",
+     "x": 528,
+     "y": 1840,
+     "text": "660 · Good · +6pts\nRange 400 – 850 · Last update on 20 Jul 2020"
+    },
+    {
+     "id": "3:59",
+     "name": "On-time payments · 95% · Good · 1 missed Credit Utilization · 95% · Not bad · -15% Age of credit · 8 years · Good",
+     "x": 972,
+     "y": 1840,
+     "text": "On-time payments · 95% · Good · 1 missed\nCredit Utilization · 95% · Not bad · -15%\nAge of credit · 8 years · Good"
+    },
+    {
+     "id": "3:61",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 2003,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "3:64",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 2078,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "3:67",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 2078,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "3:65",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand color #6347EB and DM Sans • Media: service logos, icons • Platform shell",
+     "x": 88,
+     "y": 2111,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand color #6347EB and DM Sans\n• Media: service logos, icons\n• Platform shell"
+    },
+    {
+     "id": "3:68",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, backgrounds / surfaces, category and progress colors, rating colors (good / not bad), gauge, error / disabled • Type scale, spacing, radii, elevation • All states: current tab, current segment, pressed, disabled • Headers, tab bar, segmented tabs, period picker, budget summary, category cards, progress rows, subscription rows, credit gauge, factor rows • How progress and the score gauge are visualized",
+     "x": 756,
+     "y": 2111,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, backgrounds / surfaces, category and progress colors, rating colors (good / not bad), gauge, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: current tab, current segment, pressed, disabled\n• Headers, tab bar, segmented tabs, period picker, budget summary, category cards, progress rows, subscription rows, credit gauge, factor rows\n• How progress and the score gauge are visualized"
+    },
+    {
+     "id": "3:70",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 2343,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "3:71",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 2394,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "3:72",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current tab, current segment, progress and gauge)",
+     "x": 64,
+     "y": 2432,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current tab, current segment, progress and gauge)"
+    },
+    {
+     "id": "3:73",
+     "name": "Deliverable: the link to your own Figma file containing the 3 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 2602,
+     "text": "Deliverable: the link to your own Figma file containing the 3 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · Budget",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Budget"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces, category colors in budget bars, status colors (good, not bad, over budget), gauge colors, selected and disabled states, type scale, spacing, radii and elevation.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces, category colors in budget bars, status colors (good, not bad, over budget), gauge colors, selected and disabled states, type scale, spacing, radii and elevation."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand color",
+     "x": 56,
+     "y": 189,
+     "text": "Brand color"
+    },
+    {
+     "id": "1:12",
+     "name": "Brand primary · violet",
+     "x": 56,
+     "y": 373,
+     "text": "Brand primary · violet"
+    },
+    {
+     "id": "1:13",
+     "name": "#6347EB",
+     "x": 56,
+     "y": 398,
+     "text": "#6347EB"
+    },
+    {
+     "id": "1:14",
+     "name": "The app’s signature accent. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 422,
+     "text": "The app’s signature accent. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:15",
+     "name": "Typeface",
+     "x": 56,
+     "y": 499,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:16",
+     "name": "Aa Bb Cc 0123456789 $1,812",
+     "x": 56,
+     "y": 555,
+     "text": "Aa Bb Cc 0123456789  $1,812"
+    },
+    {
+     "id": "1:17",
+     "name": "Use DM Sans for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 639,
+     "text": "Use DM Sans for all UI text. Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:18",
+     "name": "Canvas: 375 × 812 (iPhone X / 11 Pro). Light mode. 01_Expenses may scroll vertically.",
+     "x": 56,
+     "y": 688,
+     "text": "Canvas: 375 × 812 (iPhone X / 11 Pro). Light mode. 01_Expenses may scroll vertically."
+    }
+   ]
+  }
+ ]
+}

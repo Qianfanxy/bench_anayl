@@ -1,0 +1,401 @@
+{
+  "board_count": 18,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×3",
+        "text×2"
+      ],
+      "names": [
+        "Photo_Welcome",
+        "Frame",
+        "Logo_Swoosh_White",
+        "Nike App",
+        "Bringing Nike Members th",
+        "Button"
+      ]
+    },
+    {
+      "name": "02_Email_Sign_In",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "text×7",
+        "instance×5",
+        "frame×1"
+      ],
+      "names": [
+        "Cancel",
+        "accounts.nike.com",
+        "Logo_Swoosh_Black",
+        "Enter your email to join",
+        "United States",
+        "Change"
+      ]
+    },
+    {
+      "name": "03_Create_Member",
+      "size": "375×812",
+      "nodes": 28,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×13",
+        "frame×1"
+      ],
+      "names": [
+        "Cancel",
+        "accounts.nike.com",
+        "Logo_Swoosh_Black",
+        "Now let’s make you a Nik",
+        "We’ve sent a code to joh",
+        "Edit"
+      ]
+    },
+    {
+      "name": "04_Personalize_Intro",
+      "size": "375×812",
+      "nodes": 24,
+      "max_depth": 2,
+      "instances": 12,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×11",
+        "text×1"
+      ],
+      "names": [
+        "Frame",
+        "To personalize your expe",
+        "Photo_Personalize_01",
+        "Photo_Personalize_02",
+        "Photo_Personalize_03",
+        "Photo_Personalize_04"
+      ]
+    },
+    {
+      "name": "05_Products_You_Use",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Frame",
+        "First up, which products",
+        "Any others?",
+        "Status Bar",
+        "Home Indicator",
+        "Onboarding option / Mens"
+      ]
+    },
+    {
+      "name": "06_Shoe_Size",
+      "size": "375×812",
+      "nodes": 33,
+      "max_depth": 1,
+      "instances": 29,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×29",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Frame",
+        "What’s your shoe size?",
+        "US sizing",
+        "Button",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "07_Interests",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Frame",
+        "What are you into?",
+        "Button",
+        "Status Bar",
+        "Home Indicator",
+        "Onboarding option / Air "
+      ]
+    },
+    {
+      "name": "08_Notifications",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×3",
+        "frame×2",
+        "text×2"
+      ],
+      "names": [
+        "Frame",
+        "Stay in the know",
+        "Stay in the know with no",
+        "Button",
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "09_Welcome_To_App",
+      "size": "375×812",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×7",
+        "text×1"
+      ],
+      "names": [
+        "Icon_Back",
+        "Welcome to the Nike App",
+        "Photo_Welcome_Collage_01",
+        "Photo_Welcome_Collage_02",
+        "Photo_Welcome_Collage_03",
+        "Photo_Welcome_Collage_04"
+      ]
+    },
+    {
+      "name": "10_Home",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×5",
+        "frame×4"
+      ],
+      "names": [
+        "What’s new",
+        "The latest arrivals from",
+        "Discover →",
+        "Product_Air_Jordan_XXXVI",
+        "Product_Revolution_5",
+        "Air Jordan XXXVI"
+      ]
+    },
+    {
+      "name": "11_Discover",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×3",
+        "frame×3"
+      ],
+      "names": [
+        "Discover",
+        "Tuesday, 3 May",
+        "What’s new →",
+        "Photo_Discover_Jordan_Fl",
+        "Tab bar / 11",
+        "Frame"
+      ]
+    },
+    {
+      "name": "12_Shop",
+      "size": "375×812",
+      "nodes": 22,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "text×8",
+        "instance×8",
+        "frame×6"
+      ],
+      "names": [
+        "Shop",
+        "Icon_Search",
+        "Men Women Kids",
+        "Frame",
+        "Must-Haves, Best Sellers",
+        "Photo_Shop_Best_Sellers"
+      ]
+    },
+    {
+      "name": "13_Best_Sellers",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 10,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "Icon_Back",
+        "Best Sellers",
+        "Icon_Search",
+        "Icon_Filter",
+        "Base Layer Socks Accesso",
+        "Product card / Therma_Ho"
+      ]
+    },
+    {
+      "name": "14_Jordan_Flight_Essentials",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×3",
+        "text×2"
+      ],
+      "names": [
+        "Icon_Back",
+        "Jordan Flight Essentials",
+        "Icon_Search",
+        "Icon_Filter",
+        "All Tops & T-Shirts Hood",
+        "Frame"
+      ]
+    },
+    {
+      "name": "15_Product_Detail",
+      "size": "375×812",
+      "nodes": 21,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "frame×10",
+        "instance×8",
+        "text×3"
+      ],
+      "names": [
+        "Icon_Back",
+        "Nike Air Force 1 ’07",
+        "Icon_Search",
+        "Product_AF1_Black",
+        "Frame",
+        "Product_AF1_White"
+      ]
+    },
+    {
+      "name": "16_Style_Matching",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Icon_Back",
+        "Style Matching",
+        "Icon_Search",
+        "Product card / Flex_Expe",
+        "Product card / Downshift",
+        "Product card / Legend_Es"
+      ]
+    },
+    {
+      "name": "17_Stores",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "text×6",
+        "instance×6",
+        "frame×3"
+      ],
+      "names": [
+        "Shop",
+        "Icon_Search",
+        "Icon_Location",
+        "Store Locator",
+        "Nearby Stores",
+        "Find a Store"
+      ]
+    },
+    {
+      "name": "18_Playlist_Story",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×3",
+        "text×2"
+      ],
+      "names": [
+        "Icon_Back",
+        "Icon_Share",
+        "Icon_Comment",
+        "Soyeon’s Dance Challenge",
+        "Photo_Playlist_Story",
+        "Hip hop dancer Soyeon Ja"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "board_count": 17,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "428×926",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "rectangle×2",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Photo_Welcome",
+        "Rectangle",
+        "Button",
+        "From the latest to the g",
+        "Home Indicator"
+      ]
+    },
+    {
+      "name": "02_Sign_In_Options",
+      "size": "428×926",
+      "nodes": 18,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×7",
+        "frame×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Icon_Back",
+        "Logo_Musium_Mark",
+        "Let's get you in",
+        "Frame"
+      ]
+    },
+    {
+      "name": "03_Log_In",
+      "size": "428×926",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×7",
+        "rectangle×3",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Logo_Musium_Mark",
+        "Login to your account",
+        "Frame",
+        "Icon_Mail"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "428×1160",
+      "nodes": 39,
+      "max_depth": 1,
+      "instances": 13,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "text×21",
+        "instance×13",
+        "rectangle×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Rectangle",
+        "Welcome back !",
+        "chandrama",
+        "Icon_Stats",
+        "Icon_Mic"
+      ]
+    },
+    {
+      "name": "05_Explore",
+      "size": "428×926",
+      "nodes": 30,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "rectangle×11",
+        "instance×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_Musium_Wordmark",
+        "Search",
+        "Rectangle",
+        "Icon_Search",
+        "Songs, Artists, Podcasts"
+      ]
+    },
+    {
+      "name": "06_Library",
+      "size": "428×926",
+      "nodes": 35,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "instance×9",
+        "rectangle×8"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_Musium_Mark",
+        "Your Library",
+        "Icon_Search",
+        "Icon_Plus",
+        "Add New Playlist"
+      ]
+    },
+    {
+      "name": "07_Library_Folders",
+      "size": "428×926",
+      "nodes": 39,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "instance×12",
+        "rectangle×9"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_Musium_Mark",
+        "Your Library",
+        "Icon_Search",
+        "Icon_Plus",
+        "Add New Playlist"
+      ]
+    },
+    {
+      "name": "08_Folder_Moods",
+      "size": "428×926",
+      "nodes": 25,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "instance×11"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Moods",
+        "Sort By",
+        "Icon_Sort",
+        "Recently played"
+      ]
+    },
+    {
+      "name": "09_Playlist",
+      "size": "428×926",
+      "nodes": 33,
+      "max_depth": 1,
+      "instances": 18,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "instance×18",
+        "text×15"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "FROM \"PLAYLISTS\"",
+        "Icon_More",
+        "Cover_Lofi_Loft",
+        "Lofi Loft"
+      ]
+    },
+    {
+      "name": "10_Now_Playing",
+      "size": "428×926",
+      "nodes": 29,
+      "max_depth": 1,
+      "instances": 14,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×12",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "PLAYING FROM PLAYLIST:",
+        "Lofi Loft",
+        "Icon_Chevron_Down",
+        "Icon_More",
+        "Cover_Grainy_Days"
+      ]
+    },
+    {
+      "name": "11_Queue",
+      "size": "428×926",
+      "nodes": 5,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "text×3",
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "PLAYING FROM PLAYLIST:",
+        "Lofi Loft",
+        "Icon_Chevron_Down",
+        "now playing :"
+      ]
+    },
+    {
+      "name": "12_Equalizer",
+      "size": "428×926",
+      "nodes": 55,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "rectangle×20",
+        "text×18",
+        "ellipse×7",
+        "instance×5",
+        "frame×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Equalizer",
+        "Rectangle",
+        "Icon_Speaker",
+        "BUILT-IN SPEAKERS"
+      ]
+    },
+    {
+      "name": "13_Sleep_Timer",
+      "size": "428×560",
+      "nodes": 23,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "text×8",
+        "frame×7",
+        "ellipse×7",
+        "rectangle×1"
+      ],
+      "names": [
+        "Rectangle",
+        "Stop audio in",
+        "Frame",
+        "End of Track",
+        "Ellipse",
+        "60 seconds"
+      ]
+    },
+    {
+      "name": "14_Song_Menu",
+      "size": "428×926",
+      "nodes": 33,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "instance×14",
+        "rectangle×2",
+        "frame×1"
+      ],
+      "names": [
+        "Rectangle",
+        "Frame",
+        "Cover_Grainy_Days",
+        "grainy days",
+        "driftwood.",
+        "Icon_Add_To_Playlist"
+      ]
+    },
+    {
+      "name": "15_Add_To_Playlist",
+      "size": "428×926",
+      "nodes": 24,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×9",
+        "rectangle×1",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Add to Playlist",
+        "Rectangle",
+        "New Playlist",
+        "Frame"
+      ]
+    },
+    {
+      "name": "16_New_Playlist",
+      "size": "428×926",
+      "nodes": 22,
+      "max_depth": 1,
+      "instances": 4,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "rectangle×9",
+        "text×9",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Rectangle",
+        "Icon_Back",
+        "Add to Playlist",
+        "New Playlist",
+        "Icon_Search"
+      ]
+    },
+    {
+      "name": "17_Stats",
+      "size": "428×926",
+      "nodes": 47,
+      "max_depth": 1,
+      "instances": 5,
+      "texts": 30,
+      "images": 0,
+      "types": [
+        "text×30",
+        "rectangle×12",
+        "instance×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Top",
+        "Past 30 Days",
+        "Icon_Grid",
+        "Icon_Plus"
+      ]
+    }
+  ]
+}

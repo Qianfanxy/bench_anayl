@@ -1,0 +1,305 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "414×896",
+      "nodes": 27,
+      "max_depth": 5,
+      "instances": 3,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "vector×9",
+        "rectangle×7",
+        "group×4",
+        "instance×3",
+        "frame×2",
+        "text×1"
+      ],
+      "names": [
+        "Nectar_Logo_White",
+        "logo",
+        "Group",
+        "Vector",
+        "Vector_2",
+        "Group_2"
+      ]
+    },
+    {
+      "name": "02_Onboarding",
+      "size": "414×896",
+      "nodes": 23,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "rectangle×8",
+        "instance×5",
+        "text×4",
+        "vector×2",
+        "frame×2",
+        "group×1"
+      ],
+      "names": [
+        "Photo_Welcome_Delivery",
+        "Scrim gradient",
+        "Nectar_Carrot",
+        "Group",
+        "Vector_5",
+        "Vector_6"
+      ]
+    },
+    {
+      "name": "03_Sign_In",
+      "size": "414×896",
+      "nodes": 37,
+      "max_depth": 4,
+      "instances": 10,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "rectangle×9",
+        "text×7",
+        "vector×5",
+        "frame×4",
+        "group×1"
+      ],
+      "names": [
+        "Photo_Sign_In_Groceries",
+        "Fade",
+        "Get your groceries with ",
+        "Phone Number",
+        "Text Field",
+        "Email"
+      ]
+    },
+    {
+      "name": "04_Verification",
+      "size": "414×896",
+      "nodes": 32,
+      "max_depth": 4,
+      "instances": 8,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "rectangle×9",
+        "instance×8",
+        "text×8",
+        "frame×4",
+        "vector×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Soft wash",
+        "Header",
+        "Back",
+        "Vector",
+        "Enter your 4-digit code",
+        "Code"
+      ]
+    },
+    {
+      "name": "05_Home",
+      "size": "414×1507",
+      "nodes": 158,
+      "max_depth": 9,
+      "instances": 51,
+      "texts": 36,
+      "images": 0,
+      "types": [
+        "instance×51",
+        "text×36",
+        "frame×32",
+        "vector×20",
+        "rectangle×10",
+        "group×8"
+      ],
+      "names": [
+        "Nectar_Carrot",
+        "Group",
+        "Vector_5",
+        "Vector_6",
+        "Location Label",
+        "Icon/Location"
+      ]
+    },
+    {
+      "name": "06_Product_Detail",
+      "size": "414×896",
+      "nodes": 71,
+      "max_depth": 5,
+      "instances": 23,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×23",
+        "frame×12",
+        "text×11",
+        "rectangle×10",
+        "vector×8",
+        "star×5"
+      ],
+      "names": [
+        "Product Gallery",
+        "Product_Red_Apple",
+        "Pager",
+        "Rectangle",
+        "Header",
+        "Back"
+      ]
+    },
+    {
+      "name": "07_Explore",
+      "size": "414×896",
+      "nodes": 75,
+      "max_depth": 9,
+      "instances": 28,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "instance×28",
+        "text×14",
+        "vector×11",
+        "frame×7",
+        "group×7",
+        "rectangle×7"
+      ],
+      "names": [
+        "Header",
+        "Title",
+        "Search Bar",
+        "Icon_Search",
+        "Vector_7",
+        "Placeholder"
+      ]
+    },
+    {
+      "name": "08_Beverages",
+      "size": "414×896",
+      "nodes": 91,
+      "max_depth": 5,
+      "instances": 29,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "instance×29",
+        "frame×26",
+        "text×20",
+        "vector×8",
+        "rectangle×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Back",
+        "Vector",
+        "Title",
+        "Filter",
+        "Product Card · Diet Coke"
+      ]
+    },
+    {
+      "name": "09_My_Cart",
+      "size": "414×896",
+      "nodes": 142,
+      "max_depth": 9,
+      "instances": 40,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "instance×40",
+        "frame×40",
+        "text×25",
+        "vector×22",
+        "group×7",
+        "rectangle×7"
+      ],
+      "names": [
+        "Header",
+        "Title",
+        "Cart Item · Bell Pepper ",
+        "Image",
+        "Product_Bell_Pepper_Red",
+        "Info"
+      ]
+    },
+    {
+      "name": "10_Checkout_Overlay",
+      "size": "414×896",
+      "nodes": 175,
+      "max_depth": 10,
+      "instances": 52,
+      "texts": 35,
+      "images": 0,
+      "types": [
+        "instance×52",
+        "frame×42",
+        "text×35",
+        "vector×28",
+        "rectangle×10",
+        "group×7"
+      ],
+      "names": [
+        "My Cart (behind)",
+        "Header",
+        "Title",
+        "Cart Item · Bell Pepper ",
+        "Image",
+        "Product_Bell_Pepper_Red"
+      ]
+    },
+    {
+      "name": "11_Order_Accepted",
+      "size": "414×896",
+      "nodes": 36,
+      "max_depth": 5,
+      "instances": 5,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "vector×13",
+        "rectangle×7",
+        "instance×5",
+        "text×5",
+        "group×3",
+        "frame×2"
+      ],
+      "names": [
+        "Illustration_Order_Accep",
+        "Group 6872",
+        "Vector 11",
+        "Group 6871",
+        "Ellipse 19",
+        "Ellipse 20"
+      ]
+    },
+    {
+      "name": "12_Account",
+      "size": "414×896",
+      "nodes": 161,
+      "max_depth": 10,
+      "instances": 41,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "vector×50",
+        "instance×41",
+        "group×29",
+        "text×17",
+        "frame×15",
+        "rectangle×8"
+      ],
+      "names": [
+        "Avatar_Neutral",
+        "Vector",
+        "Afsar Hossen",
+        "Edit Name",
+        "imshuvo97@gmail.com",
+        "Divider"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "issue": "Output-object serialization mistaken for document mutation",
+    "example": "Investment Wallet component inspectors in Fable/Kimi/Gemini",
+    "decision": "Ignore property assignments to locally declared ordinary object literals; keep node-creation and edit operations."
+  },
+  {
+    "issue": "Reference screenshot mistaken for final product verification",
+    "example": "Investment Wallet early screenshots of source components",
+    "decision": "Before product construction, unresolved-reference screenshot maps to preparation; screenshot of known final screen maps to verification."
+  },
+  {
+    "issue": "Mixed work unit forced into one stage",
+    "example": "Investment Wallet GPT construction script",
+    "decision": "Keep P+C+I multi-labels; use one primary label only for reduced timeline visualization."
+  },
+  {
+    "issue": "API schema probe mistaken for user-screen construction",
+    "example": "Furniro GLM temporary reaction-schema frames",
+    "decision": "Code environment/API adaptation separately, with an orthogonal probe tag."
+  },
+  {
+    "issue": "Stored helper code mistaken for rendered UI",
+    "example": "Furniro drawing utilities and component preparation",
+    "decision": "Use explicit preparation purpose, not merely the presence of createFrame text."
+  },
+  {
+    "issue": "Compaction summary mistaken for final handoff",
+    "example": "Merged/subagent trajectory formats",
+    "decision": "Use the full selected log when available; require a visible response after the final tool result."
+  }
+]

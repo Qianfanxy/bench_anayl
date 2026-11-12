@@ -1,0 +1,571 @@
+{
+ "file_key": "MW0UgeOT43xqVhoSAzNMPH",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "6:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "6:5",
+     "name": "Fitness App — workouts and daily activity",
+     "x": 64,
+     "y": 95,
+     "text": "Fitness App — workouts and daily activity"
+    },
+    {
+     "id": "6:6",
+     "name": "Design a fitness app: get started, pick a workout or continue today’s plan, explore programs, open a workout to see its rounds, and review today’s activity report. Canvas 390 × 844, iPhone. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design a fitness app: get started, pick a workout or continue today’s plan, explore programs, open a workout to see its rounds, and review today’s activity report. Canvas 390 × 844, iPhone. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "6:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "6:9",
+     "name": "1. Build exactly the 5 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the navigation and every business component as reusable components in your file. 5. Use the photos, the map and the icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 5 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the navigation and every business component as reusable components in your file.\n5. Use the photos, the map and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "6:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 532,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "6:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 583,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "6:15",
+     "name": "01_Onboarding",
+     "x": 88,
+     "y": 645,
+     "text": "01_Onboarding"
+    },
+    {
+     "id": "6:22",
+     "name": "02_Home",
+     "x": 756,
+     "y": 645,
+     "text": "02_Home"
+    },
+    {
+     "id": "6:16",
+     "name": "Goal: Feel motivated and start.",
+     "x": 88,
+     "y": 681,
+     "text": "Goal: Feel motivated and start."
+    },
+    {
+     "id": "6:23",
+     "name": "Goal: Pick a popular workout or continue today’s plan.",
+     "x": 756,
+     "y": 681,
+     "text": "Goal: Pick a popular workout or continue today’s plan."
+    },
+    {
+     "id": "6:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:18",
+     "name": "• Actions: “Get Started” • Copy: “Wherever you are, health is number one” · “There is no instant way to a healthy life” • Media: Photo_Onboarding",
+     "x": 88,
+     "y": 737,
+     "text": "• Actions: “Get Started”\n• Copy: “Wherever you are, health is number one” · “There is no instant way to a healthy life”\n• Media: Photo_Onboarding"
+    },
+    {
+     "id": "6:25",
+     "name": "• Greeting: “Good Morning 🔥” · “Pramuditya Uzumaki” • Main navigation: tab bar Home / Explore / Analytics / Profile · current: Home • Popular Workouts: “Popular Workouts” · Lower Body Training · Hand Training, each with photo, kcal (Icon_Fire), minutes (Icon_Timer) and play (Icon_Play) (see DATA) • Search: “Search” (Icon_Search) • Today Plan: “Today Plan” · Push Up · Sit Up · Knee Push Up, each with photo, daily goal, progress and level (see DATA)",
+     "x": 756,
+     "y": 737,
+     "text": "• Greeting: “Good Morning 🔥” · “Pramuditya Uzumaki”\n• Main navigation: tab bar Home / Explore / Analytics / Profile · current: Home\n• Popular Workouts: “Popular Workouts” · Lower Body Training · Hand Training, each with photo, kcal (Icon_Fire), minutes (Icon_Timer) and play (Icon_Play) (see DATA)\n• Search: “Search” (Icon_Search)\n• Today Plan: “Today Plan” · Push Up · Sit Up · Knee Push Up, each with photo, daily goal, progress and level (see DATA)"
+    },
+    {
+     "id": "6:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 827,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:20",
+     "name": "→ Get Started → 02_Home",
+     "x": 88,
+     "y": 853,
+     "text": "→ Get Started → 02_Home"
+    },
+    {
+     "id": "6:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 887,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:27",
+     "name": "→ Lower Body Training → 04_Workout → Explore tab → 03_Explore → Analytics tab → 05_Analytics",
+     "x": 756,
+     "y": 913,
+     "text": "→ Lower Body Training → 04_Workout\n→ Explore tab → 03_Explore\n→ Analytics tab → 05_Analytics"
+    },
+    {
+     "id": "6:29",
+     "name": "03_Explore",
+     "x": 88,
+     "y": 1045,
+     "text": "03_Explore"
+    },
+    {
+     "id": "6:36",
+     "name": "04_Workout",
+     "x": 756,
+     "y": 1045,
+     "text": "04_Workout"
+    },
+    {
+     "id": "6:30",
+     "name": "Goal: Discover programs and challenges.",
+     "x": 88,
+     "y": 1081,
+     "text": "Goal: Discover programs and challenges."
+    },
+    {
+     "id": "6:37",
+     "name": "Goal: Understand a workout and start it.",
+     "x": 756,
+     "y": 1081,
+     "text": "Goal: Understand a workout and start it."
+    },
+    {
+     "id": "6:31",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1111,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:38",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1111,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:32",
+     "name": "• Banner: “Best Quarantine Workout” · “See more” (Icon_Chevron_Right, Photo_Quarantine_Workout) • Best for you: “Best for you” · 4 programs, each with photo, minutes and level (see DATA) • Challenge: “Challenge” · Plank Challenge · Sprint Challenge · Squat Challenge • Fast Warmup: “Fast Warmup” · 2 programs, each with photo, minutes and level (see DATA) • Main navigation: tab bar · current: Explore",
+     "x": 88,
+     "y": 1137,
+     "text": "• Banner: “Best Quarantine Workout” · “See more” (Icon_Chevron_Right, Photo_Quarantine_Workout)\n• Best for you: “Best for you” · 4 programs, each with photo, minutes and level (see DATA)\n• Challenge: “Challenge” · Plank Challenge · Sprint Challenge · Squat Challenge\n• Fast Warmup: “Fast Warmup” · 2 programs, each with photo, minutes and level (see DATA)\n• Main navigation: tab bar · current: Explore"
+    },
+    {
+     "id": "6:39",
+     "name": "• Actions: back (Icon_Back) · “Let’s Workout” • Description: see DATA • Header: “Workout” • Media: Photo_Lower_Body_Training • Rounds: “Rounds” · 1/3 · Jumping Jacks 00:30 · Squats 01:00 · Backward Lunge 00:30, each with photo and play (Icon_Play) • Stats: “Time” 50 min (Icon_Timer) · “Burn” 500 kcal (Icon_Fire) • Title: “Lower Body Training”",
+     "x": 756,
+     "y": 1137,
+     "text": "• Actions: back (Icon_Back) · “Let’s Workout”\n• Description: see DATA\n• Header: “Workout”\n• Media: Photo_Lower_Body_Training\n• Rounds: “Rounds” · 1/3 · Jumping Jacks 00:30 · Squats 01:00 · Backward Lunge 00:30, each with photo and play (Icon_Play)\n• Stats: “Time” 50 min (Icon_Timer) · “Burn” 500 kcal (Icon_Fire)\n• Title: “Lower Body Training”"
+    },
+    {
+     "id": "6:33",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1287,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:40",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1307,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:34",
+     "name": "→ Home tab → 02_Home → Analytics tab → 05_Analytics",
+     "x": 88,
+     "y": 1313,
+     "text": "→ Home tab → 02_Home\n→ Analytics tab → 05_Analytics"
+    },
+    {
+     "id": "6:41",
+     "name": "→ back → 02_Home",
+     "x": 756,
+     "y": 1333,
+     "text": "→ back → 02_Home"
+    },
+    {
+     "id": "6:43",
+     "name": "05_Analytics",
+     "x": 88,
+     "y": 1425,
+     "text": "05_Analytics"
+    },
+    {
+     "id": "6:44",
+     "name": "Goal: Review today’s activity.",
+     "x": 88,
+     "y": 1461,
+     "text": "Goal: Review today’s activity."
+    },
+    {
+     "id": "6:45",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1491,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "6:46",
+     "name": "• Calendar: “July 2022” · S 10 – S 17 · current: T 12 • Main navigation: tab bar · current: Analytics • Report: “Today Report” · Active calories · Training time · Cycling (Map_Cycling_Route, Icon_Cycling) · Heart Rate (Icon_Heart_Rate) · Steps (Icon_Steps) · “Keep it Up! 💪” · Sleep (Icon_Sleep) · Water (Icon_Water) (see DATA)",
+     "x": 88,
+     "y": 1517,
+     "text": "• Calendar: “July 2022” · S 10 – S 17 · current: T 12\n• Main navigation: tab bar · current: Analytics\n• Report: “Today Report” · Active calories · Training time · Cycling (Map_Cycling_Route, Icon_Cycling) · Heart Rate (Icon_Heart_Rate) · Steps (Icon_Steps) · “Keep it Up! 💪” · Sleep (Icon_Sleep) · Water (Icon_Water) (see DATA)"
+    },
+    {
+     "id": "6:47",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1627,
+     "text": "LINKS"
+    },
+    {
+     "id": "6:48",
+     "name": "→ Home tab → 02_Home → Explore tab → 03_Explore",
+     "x": 88,
+     "y": 1653,
+     "text": "→ Home tab → 02_Home\n→ Explore tab → 03_Explore"
+    },
+    {
+     "id": "6:50",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 1765,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "6:51",
+     "name": "• Bottom tab bar on 02, 03 and 05 with 4 tabs in this order: Home (Icon_Home), Explore (Icon_Explore), Analytics (Icon_Analytics), Profile (Icon_Profile). Current: Home on 02, Explore on 03, Analytics on 05. How the current tab looks is yours. • 01_Onboarding → Get Started → 02_Home. 04_Workout is pushed from the Lower Body Training card on 02 and has no tab bar. • Entry only (no frame): Profile tab, search, Hand Training, plan rows, See more, programs, challenges, rounds, Let’s Workout, calendar days, report tiles.",
+     "x": 64,
+     "y": 1816,
+     "text": "• Bottom tab bar on 02, 03 and 05 with 4 tabs in this order: Home (Icon_Home), Explore (Icon_Explore), Analytics (Icon_Analytics), Profile (Icon_Profile). Current: Home on 02, Explore on 03, Analytics on 05. How the current tab looks is yours.\n• 01_Onboarding → Get Started → 02_Home. 04_Workout is pushed from the Lower Body Training card on 02 and has no tab bar.\n• Entry only (no frame): Profile tab, search, Hand Training, plan rows, See more, programs, challenges, rounds, Let’s Workout, calendar days, report tiles."
+    },
+    {
+     "id": "6:53",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 1952,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "6:54",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 2003,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "6:57",
+     "name": "User",
+     "x": 84,
+     "y": 2061,
+     "text": "User"
+    },
+    {
+     "id": "6:60",
+     "name": "Popular workouts",
+     "x": 528,
+     "y": 2061,
+     "text": "Popular workouts"
+    },
+    {
+     "id": "6:63",
+     "name": "Today Plan",
+     "x": 972,
+     "y": 2061,
+     "text": "Today Plan"
+    },
+    {
+     "id": "6:58",
+     "name": "Pramuditya Uzumaki · greeting “Good Morning 🔥”",
+     "x": 84,
+     "y": 2089,
+     "text": "Pramuditya Uzumaki · greeting “Good Morning 🔥”"
+    },
+    {
+     "id": "6:61",
+     "name": "Lower Body Training · 500 Kcal · 50 Min (Photo_Lower_Body_Training) Hand Training · 600 Kcal · 40 Min (Photo_Hand_Training)",
+     "x": 528,
+     "y": 2089,
+     "text": "Lower Body Training · 500 Kcal · 50 Min (Photo_Lower_Body_Training)\nHand Training · 600 Kcal · 40 Min (Photo_Hand_Training)"
+    },
+    {
+     "id": "6:64",
+     "name": "Push Up · 100 push ups a day · 45% · Intermediate (Photo_Push_Up) Sit Up · 20 sit ups a day · 75% · Beginner (Photo_Sit_Up) Knee Push Up · 20 knee push ups a day · 45% · Beginner (Photo_Knee_Push_Up)",
+     "x": 972,
+     "y": 2089,
+     "text": "Push Up · 100 push ups a day · 45% · Intermediate (Photo_Push_Up)\nSit Up · 20 sit ups a day · 75% · Beginner (Photo_Sit_Up)\nKnee Push Up · 20 knee push ups a day · 45% · Beginner (Photo_Knee_Push_Up)"
+    },
+    {
+     "id": "6:66",
+     "name": "Explore · Best for you",
+     "x": 84,
+     "y": 2248,
+     "text": "Explore · Best for you"
+    },
+    {
+     "id": "6:69",
+     "name": "Explore · Fast Warmup",
+     "x": 528,
+     "y": 2248,
+     "text": "Explore · Fast Warmup"
+    },
+    {
+     "id": "6:72",
+     "name": "Explore · Challenge",
+     "x": 972,
+     "y": 2248,
+     "text": "Explore · Challenge"
+    },
+    {
+     "id": "6:67",
+     "name": "Belly fat burner · 10 min · Beginner (Photo_Belly_Fat_Burner) Lose Fat · 10 min · Beginner (Photo_Lose_Fat) Plank · 5 min · Expert (Photo_Plank) Build Wider Biceps · 30 min · Intermediate (Photo_Build_Wider_Biceps)",
+     "x": 84,
+     "y": 2276,
+     "text": "Belly fat burner · 10 min · Beginner (Photo_Belly_Fat_Burner)\nLose Fat · 10 min · Beginner (Photo_Lose_Fat)\nPlank · 5 min · Expert (Photo_Plank)\nBuild Wider Biceps · 30 min · Intermediate (Photo_Build_Wider_Biceps)"
+    },
+    {
+     "id": "6:70",
+     "name": "Leg exercises · 10 min · Beginner (Photo_Leg_Exercises) Backward lunges · 5 min · Beginner (Photo_Backward_Lunges)",
+     "x": 528,
+     "y": 2276,
+     "text": "Leg exercises · 10 min · Beginner (Photo_Leg_Exercises)\nBackward lunges · 5 min · Beginner (Photo_Backward_Lunges)"
+    },
+    {
+     "id": "6:73",
+     "name": "Plank Challenge · Sprint Challenge · Squat Challenge",
+     "x": 972,
+     "y": 2276,
+     "text": "Plank Challenge · Sprint Challenge · Squat Challenge"
+    },
+    {
+     "id": "6:75",
+     "name": "Workout (04)",
+     "x": 84,
+     "y": 2435,
+     "text": "Workout (04)"
+    },
+    {
+     "id": "6:78",
+     "name": "Analytics · July 2022",
+     "x": 528,
+     "y": 2435,
+     "text": "Analytics · July 2022"
+    },
+    {
+     "id": "6:76",
+     "name": "Lower Body Training · Time 50 min · Burn 500 kcal “The lower abdomen and hips are the most difficult areas of the body to reduce when we are on a diet. Even so, in this area, especially the legs as a whole, you can reduce weight even if you don’t use tools.” Rounds 1/3: Jumping Jacks 00:30 (Photo_Jumping_Jacks) · Squats 01:00 (Photo_Squats) · Backward Lunge 00:30 (Photo_Backward_Lunges)",
+     "x": 84,
+     "y": 2463,
+     "text": "Lower Body Training · Time 50 min · Burn 500 kcal\n“The lower abdomen and hips are the most difficult areas of the body to reduce when we are on a diet. Even so, in this area, especially the legs as a whole, you can reduce weight even if you don’t use tools.”\nRounds 1/3: Jumping Jacks 00:30 (Photo_Jumping_Jacks) · Squats 01:00 (Photo_Squats) · Backward Lunge 00:30 (Photo_Backward_Lunges)"
+    },
+    {
+     "id": "6:79",
+     "name": "Days: S 10 · M 11 · T 12 (current) · W 13 · T 14 · F 15 · S 16 · S 17 Active calories 645 Cal · Training time 80% Heart Rate 79 Bpm · Steps 999/2000 · Keep it Up! 💪 Water 6/8 Cups · Sleep (chart, values illustrative)",
+     "x": 528,
+     "y": 2463,
+     "text": "Days: S 10 · M 11 · T 12 (current) · W 13 · T 14 · F 15 · S 16 · S 17\nActive calories 645 Cal · Training time 80%\nHeart Rate 79 Bpm · Steps 999/2000 · Keep it Up! 💪\nWater 6/8 Cups · Sleep (chart, values illustrative)"
+    },
+    {
+     "id": "6:81",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 2683,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "6:84",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 2758,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "6:87",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 2758,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "6:85",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand colors #BBF246 + #192126 and Lato • Media: photos, map, icons • Default Button, default Text Field, platform shell",
+     "x": 88,
+     "y": 2791,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand colors #BBF246 + #192126 and Lato\n• Media: photos, map, icons\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "6:88",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, backgrounds / surfaces, analytics tiles, level tags, progress, error / disabled • Type scale, spacing, radii, elevation • All states: current tab, current day, pressed, playing, disabled • Headers, tab bar, workout cards, plan rows, level tags, stat chips, round rows, day strip, analytics tiles, charts • How photos are cropped and treated",
+     "x": 756,
+     "y": 2791,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, backgrounds / surfaces, analytics tiles, level tags, progress, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: current tab, current day, pressed, playing, disabled\n• Headers, tab bar, workout cards, plan rows, level tags, stat chips, round rows, day strip, analytics tiles, charts\n• How photos are cropped and treated"
+    },
+    {
+     "id": "6:90",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 3023,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "6:91",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 3074,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "6:92",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current tab, current day, plan progress, round list)",
+     "x": 64,
+     "y": 3112,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current tab, current day, plan progress, round list)"
+    },
+    {
+     "id": "6:93",
+     "name": "Deliverable: the link to your own Figma file containing the 5 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 3282,
+     "text": "Deliverable: the link to your own Figma file containing the 5 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · Fitness App",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Fitness App"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the two brand colors and the typeface below — the brand relies on the lime and charcoal pair. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces, the colors of the analytics tiles (heart rate, steps, sleep, water…), level tags, progress, error and disabled, type scale, spacing, radii and elevation.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the two brand colors and the typeface below — the brand relies on the lime and charcoal pair. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces, the colors of the analytics tiles (heart rate, steps, sleep, water…), level tags, progress, error and disabled, type scale, spacing, radii and elevation."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand colors",
+     "x": 56,
+     "y": 208,
+     "text": "Brand colors"
+    },
+    {
+     "id": "1:12",
+     "name": "Brand primary · lime",
+     "x": 56,
+     "y": 392,
+     "text": "Brand primary · lime"
+    },
+    {
+     "id": "1:17",
+     "name": "Brand dark · charcoal",
+     "x": 300,
+     "y": 392,
+     "text": "Brand dark · charcoal"
+    },
+    {
+     "id": "1:13",
+     "name": "#BBF246",
+     "x": 56,
+     "y": 417,
+     "text": "#BBF246"
+    },
+    {
+     "id": "1:18",
+     "name": "#192126",
+     "x": 300,
+     "y": 417,
+     "text": "#192126"
+    },
+    {
+     "id": "1:14",
+     "name": "The app’s signature accent. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 441,
+     "text": "The app’s signature accent. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:19",
+     "name": "The brand’s second color, paired with the lime. Where and how much to use it is your decision.",
+     "x": 300,
+     "y": 441,
+     "text": "The brand’s second color, paired with the lime. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:20",
+     "name": "Typeface",
+     "x": 56,
+     "y": 518,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:21",
+     "name": "Aa Bb Cc 0123456789 500 Kcal",
+     "x": 56,
+     "y": 574,
+     "text": "Aa Bb Cc 0123456789  500 Kcal"
+    },
+    {
+     "id": "1:22",
+     "name": "Use Lato for all UI text (Regular / Bold / Black available; the source also used Poppins on a few labels — use Lato instead). Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 654,
+     "text": "Use Lato for all UI text (Regular / Bold / Black available; the source also used Poppins on a few labels — use Lato instead). Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:23",
+     "name": "Canvas: 390 × 844 (iPhone 13 / 14). 02_Home, 03_Explore, 04_Workout and 05_Analytics may scroll vertically. Light or dark surfaces per screen are your decision.",
+     "x": 56,
+     "y": 720,
+     "text": "Canvas: 390 × 844 (iPhone 13 / 14). 02_Home, 03_Explore, 04_Workout and 05_Analytics may scroll vertically. Light or dark surfaces per screen are your decision."
+    }
+   ]
+  }
+ ]
+}

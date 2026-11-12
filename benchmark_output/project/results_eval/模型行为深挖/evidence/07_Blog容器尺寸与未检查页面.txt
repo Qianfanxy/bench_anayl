@@ -1,0 +1,74 @@
+
+messages[46] / m46-call0.js
+0398: 
+0399:   // Left Section: Posts
+0400:   const postsCol = figma.createFrame();
+0401:   postsCol.name = "Posts Column";
+0402:   postsCol.layoutMode = "VERTICAL";
+0403:   postsCol.itemSpacing = 54;
+0404:   postsCol.fills = [];
+0405: 
+0406:   const blogPostsData = [
+0407:     {
+0408:       photo: "Photo_Blog_1",
+0409:       category: "Wood",
+0410:       title: "Going all-in with millennial design",
+0428:     const post = figma.createFrame();
+0429:     post.name = p.title;
+0430:     post.resize(820, 500);
+0431:     post.fills = [];
+0432: 
+0433:     const imgWrap = figma.createFrame();
+0434:     imgWrap.resize(820, 300);
+0435:     imgWrap.cornerRadius = 10;
+0436:     imgWrap.fills = [{ type: 'SOLID', color: LIGHT_BG }];
+0437:     const img = createAssetInstance(mediaMap[p.photo]);
+0512:     post.appendChild(rmBtn);
+0513: 
+0514:     postsCol.appendChild(post);
+0515:   });
+0516:   postsCol.x = 0;
+0517:   postsCol.y = 0;
+0518:   blogMain.appendChild(postsCol);
+0519: 
+0520:   // Right Section: Sidebar (311px wide, anchored right)
+0521:   const sidebar = figma.createFrame();
+0522:   sidebar.name = "Sidebar";
+0523:   sidebar.resize(311, 1500);
+0524:   sidebar.x = 929;
+0525:   sidebar.y = 0;
+0526:   sidebar.fills = [];
+0527: 
+0528:   // Search input
+0529:   const searchBox = figma.createFrame();
+0530:   searchBox.name = "Sidebar Search";
+0541: 
+0542:   // Categories Widget
+0543:   const catWidget = figma.createFrame();
+0544:   catWidget.name = "Categories Widget";
+0545:   catWidget.layoutMode = "VERTICAL";
+0546:   catWidget.itemSpacing = 24;
+0547:   catWidget.fills = [];
+0548: 
+0549:   const catHead = figma.createText();
+0550:   catHead.fontName = { family: "Poppins", style: "Medium" };
+0590: 
+0591:   // Recent Posts Widget
+0592:   const recWidget = figma.createFrame();
+0593:   recWidget.name = "Recent Posts Widget";
+0594:   recWidget.layoutMode = "VERTICAL";
+0595:   recWidget.itemSpacing = 30;
+0596:   recWidget.fills = [];
+0597: 
+0598:   const recHead = figma.createText();
+0599:   recHead.fontName = { family: "Poppins", style: "Medium" };
+0626:     row.appendChild(thumbWrap);
+0627: 
+0628:     const textCol = figma.createFrame();
+0629:     textCol.layoutMode = "VERTICAL";
+0630:     textCol.itemSpacing = 4;
+0631:     textCol.fills = [];
+0632: 
+0633:     const title = figma.createText();
+0634:     title.fontName = { family: "Poppins", style: "Regular" };
+0635:     title.fontSize = 14;

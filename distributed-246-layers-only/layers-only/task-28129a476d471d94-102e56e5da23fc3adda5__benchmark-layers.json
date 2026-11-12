@@ -1,0 +1,49 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Work",
+      "size": "1440×1754",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4",
+        "rectangle×4"
+      ],
+      "names": [
+        "Header · Work",
+        "Intro_Hello",
+        "Intro_Sub",
+        "ScrollCue",
+        "ScrollLabel",
+        "SecTitle"
+      ]
+    },
+    {
+      "name": "02_About",
+      "size": "1440×1472",
+      "nodes": 14,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×4",
+        "rectangle×4"
+      ],
+      "names": [
+        "Header · About",
+        "Intro_Heading",
+        "Photo_Profile",
+        "BioLabel",
+        "BioP1",
+        "BioP2"
+      ]
+    }
+  ]
+}

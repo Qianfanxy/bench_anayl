@@ -1,0 +1,9 @@
+﻿证据,run_id,原始轨迹,messages,摘录文件
+01_素材存在却被文字替代,run_a618e4f4329241ea,/mnt/afs_design/huangxinyue/bench-runs/6case-6models-v4-20261030/runs/TEST-032_1793389905558/task-000001/trajectory.jsonl,"15,24",evidence/01_素材存在却被文字替代.txt
+02_GLM未切页查询与重新创建,run_b53402eabe484a87,/mnt/afs_design/huangxinyue/bench-runs/6case-rerun1-glm/runs/TEST-011_1793423035903/task-000001/trajectory.jsonl,"136,137,149,150,153,154,155,156,157,158,163",evidence/02_GLM未切页查询与重新创建.txt
+03_Gemini钱包重建与错误页面,run_70ef8ee82cfa4041,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun1-gemini/runs/TEST-011_1793528531943/trace-recovery/v3/e78b77c66576c43f4295cb731ed34c5fd319f8a45ea945d7a970b8d89c7cd8ff/trajectory.jsonl,"42,43,44,45,48,49,50,51,66,67,68,69,70,71",evidence/03_Gemini钱包重建与错误页面.txt
+04_Fitness假空页面与三套画板,run_feda5042f9004594,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-048_1793479141642/task-000001/trajectory.jsonl,"24,25,30,31,34,35,36,37,68,69,74,75,76,77,80,81,82,83",evidence/04_Fitness假空页面与三套画板.txt
+05_Activity图表脚本与错误,run_4febc55c8cc34af7,/mnt/afs_design/huangxinyue/bench-runs/10case-6models-v4-20261101/runs/TEST-049_1793480594945/trace-recovery/v3/9a90fbce7b51c7caca9f62919483020ce2da66846367d7b7fd588811a8196a53/trajectory.jsonl,"68,69",evidence/05_Activity图表脚本与错误.txt
+06_Kimi固定坐标与固定卡片高度,run_f5c54e2727ab4bcb,/mnt/afs_design/gaoyongyong/code/rate_website_figma-sft-cc-tap-benchmark-design/storage/benchmarks/3case-7models-v4-20261028/runs/TEST-026_1793177822747/task-000001/trajectory.jsonl,"36,60,89,90",evidence/06_Kimi固定坐标与固定卡片高度.txt
+07_Blog容器尺寸与未检查页面,run_08db15998eb047a6,/mnt/afs_design/huangxinyue/bench-runs/web10-gemini-v4-20261102/runs/TEST-011_1793560295414/task-000001/trajectory.jsonl,46,evidence/07_Blog容器尺寸与未检查页面.txt
+08_Kimi透明根滚动与普通背景子节点,run_a2f914efccfb4f67,/mnt/afs_design/huangxinyue/bench-runs/10case-rerun3-kimi/runs/TEST-011_1793689356234/task-000001/trajectory.jsonl,"31,39,76,96",evidence/08_Kimi透明根滚动与普通背景子节点.txt

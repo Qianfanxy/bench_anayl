@@ -1,0 +1,383 @@
+{
+  "board_count": 17,
+  "boards": [
+    {
+      "name": "01_Onboarding",
+      "size": "414×896",
+      "nodes": 1,
+      "max_depth": 1,
+      "instances": 1,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×1"
+      ],
+      "names": [
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "02_Choose_Role",
+      "size": "414×645",
+      "nodes": 18,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "text×8",
+        "instance×5",
+        "frame×3",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_Self_Care_Mark",
+        "Self Care",
+        "Let’s get acquainted",
+        "Lorem ipsum dolor sit am",
+        "RoleCard"
+      ]
+    },
+    {
+      "name": "03_About_You",
+      "size": "414×727",
+      "nodes": 27,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×7",
+        "frame×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_Self_Care_Mark",
+        "Self Care",
+        "A little about yourself",
+        "Lorem ipsum dolor sit am",
+        "Your birthday"
+      ]
+    },
+    {
+      "name": "04_Sign_In",
+      "size": "414×582",
+      "nodes": 18,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "frame×5",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_Self_Care_Mark",
+        "Self Care",
+        "Sign In",
+        "TextField",
+        "Email"
+      ]
+    },
+    {
+      "name": "05_Sign_Up",
+      "size": "414×664",
+      "nodes": 25,
+      "max_depth": 3,
+      "instances": 5,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "frame×8",
+        "instance×5",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_Self_Care_Mark",
+        "Self Care",
+        "Sign Up",
+        "TextField",
+        "Full Name"
+      ]
+    },
+    {
+      "name": "06_Sign_Up_Error",
+      "size": "414×734",
+      "nodes": 27,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "frame×9",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_Self_Care_Mark",
+        "Self Care",
+        "Sign Up",
+        "TextField",
+        "Full Name *"
+      ]
+    },
+    {
+      "name": "07_Verify_Code",
+      "size": "414×860",
+      "nodes": 29,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 20,
+      "images": 0,
+      "types": [
+        "text×20",
+        "frame×5",
+        "instance×4"
+      ],
+      "names": [
+        "Status Bar",
+        "Logo_Self_Care_Mark",
+        "Self Care",
+        "Your Code",
+        "Code sent to your email",
+        "Frame"
+      ]
+    },
+    {
+      "name": "08_Home",
+      "size": "414×1092",
+      "nodes": 80,
+      "max_depth": 2,
+      "instances": 23,
+      "texts": 36,
+      "images": 0,
+      "types": [
+        "text×36",
+        "instance×23",
+        "frame×17",
+        "rectangle×4"
+      ],
+      "names": [
+        "Frame",
+        "Status Bar",
+        "Welcome Back, Jan!",
+        "Icon_Location",
+        "Warsaw, Poland",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "09_Visit",
+      "size": "414×982",
+      "nodes": 71,
+      "max_depth": 2,
+      "instances": 16,
+      "texts": 38,
+      "images": 0,
+      "types": [
+        "text×38",
+        "instance×16",
+        "frame×14",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Back",
+        "Avatar_Eleanor_Pena",
+        "Dr. Eleanor Pena",
+        "Pediatrics"
+      ]
+    },
+    {
+      "name": "10_Doctors",
+      "size": "414×1044",
+      "nodes": 73,
+      "max_depth": 2,
+      "instances": 24,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "text×31",
+        "instance×24",
+        "frame×15",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Back",
+        "Rectangle",
+        "Icon_Bell",
+        "Doctors"
+      ]
+    },
+    {
+      "name": "11_Doctor_Profile",
+      "size": "414×1160",
+      "nodes": 73,
+      "max_depth": 2,
+      "instances": 17,
+      "texts": 38,
+      "images": 0,
+      "types": [
+        "text×38",
+        "instance×17",
+        "frame×15",
+        "rectangle×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Back",
+        "Avatar_Floyd_Miles",
+        "Dr. Floyd Miles",
+        "Pediatrics"
+      ]
+    },
+    {
+      "name": "12_Booking_Confirmed",
+      "size": "414×755",
+      "nodes": 29,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 16,
+      "images": 0,
+      "types": [
+        "text×16",
+        "instance×7",
+        "frame×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Logo_Self_Care_Mark",
+        "Self Care",
+        "Icon_Check_Circle",
+        "Thank you!"
+      ]
+    },
+    {
+      "name": "15_Chat",
+      "size": "414×766",
+      "nodes": 45,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "rectangle×16",
+        "text×12",
+        "instance×10",
+        "frame×7"
+      ],
+      "names": [
+        "Frame",
+        "Status Bar",
+        "Icon_Back",
+        "Avatar_Floyd_Miles",
+        "Dr. Floyd Miles",
+        "Online"
+      ]
+    },
+    {
+      "name": "16_Prescriptions",
+      "size": "414×926",
+      "nodes": 47,
+      "max_depth": 2,
+      "instances": 14,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "text×22",
+        "instance×14",
+        "frame×6",
+        "rectangle×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Back",
+        "Prescriptions",
+        "Frame",
+        "Recommendations for trea"
+      ]
+    },
+    {
+      "name": "17_Video_Call",
+      "size": "414×914",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×4",
+        "rectangle×4",
+        "frame×1"
+      ],
+      "names": [
+        "Photo_Video_Call_Doctor",
+        "Status Bar",
+        "1:32",
+        "Dr. Wade Warren",
+        "Psychiatrist",
+        "Photo_Video_Call_Patient"
+      ]
+    },
+    {
+      "name": "13_Payment",
+      "size": "414×584",
+      "nodes": 25,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "instance×8",
+        "frame×5",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Back",
+        "Payment Options",
+        "Frame",
+        "Online wallet"
+      ]
+    },
+    {
+      "name": "14_Chats",
+      "size": "414×832",
+      "nodes": 66,
+      "max_depth": 3,
+      "instances": 16,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "text×32",
+        "instance×16",
+        "frame×12",
+        "ellipse×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon_Back",
+        "Back",
+        "Frame",
+        "Icon_Bell",
+        "Chat"
+      ]
+    }
+  ]
+}

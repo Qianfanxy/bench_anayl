@@ -1,0 +1,157 @@
+{
+  "board_count": 7,
+  "boards": [
+    {
+      "name": "01_Frontpage",
+      "size": "1680×3673",
+      "nodes": 45,
+      "max_depth": 4,
+      "instances": 30,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×30",
+        "frame×12",
+        "text×3"
+      ],
+      "names": [
+        "Header",
+        "NewsTicker",
+        "PageTitle",
+        "LeadStory",
+        "Frame",
+        "Photo_Dont_Close_Your_Ey"
+      ]
+    },
+    {
+      "name": "02_Magazine",
+      "size": "1680×4145",
+      "nodes": 34,
+      "max_depth": 3,
+      "instances": 23,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×23",
+        "frame×10",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "PageTitleSection",
+        "PageTitle",
+        "CategoryFilterSection",
+        "CATEGORIES",
+        "CategoryFilter"
+      ]
+    },
+    {
+      "name": "03_Magazine_Post",
+      "size": "1680×4105",
+      "nodes": 33,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×10",
+        "text×10"
+      ],
+      "names": [
+        "Header",
+        "BackSection",
+        "BackLink",
+        "MAGAZINE",
+        "HeroSection",
+        "Photo_Hope_Dies_Last"
+      ]
+    },
+    {
+      "name": "04_Podcast",
+      "size": "1680×1599",
+      "nodes": 10,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×2"
+      ],
+      "names": [
+        "Header",
+        "PageTitleSection",
+        "PageTitle",
+        "EpisodeList",
+        "EpisodeRow",
+        "Footer"
+      ]
+    },
+    {
+      "name": "05_Podcast_Post",
+      "size": "1680×2998",
+      "nodes": 38,
+      "max_depth": 6,
+      "instances": 12,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "instance×12",
+        "frame×11"
+      ],
+      "names": [
+        "Header",
+        "BackSection",
+        "BackLink",
+        "PODCAST",
+        "CoverSection",
+        "CoverRow"
+      ]
+    },
+    {
+      "name": "06_Authors",
+      "size": "1680×1583",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "frame×2"
+      ],
+      "names": [
+        "Header",
+        "PageTitleSection",
+        "PageTitle",
+        "AuthorList",
+        "AuthorRow",
+        "Footer"
+      ]
+    },
+    {
+      "name": "07_Author_Profile",
+      "size": "1680×2409",
+      "nodes": 27,
+      "max_depth": 5,
+      "instances": 12,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×8",
+        "frame×7"
+      ],
+      "names": [
+        "Header",
+        "BackSection",
+        "BackLink",
+        "AUTHOR",
+        "ProfileSection",
+        "ProfileRow"
+      ]
+    }
+  ]
+}

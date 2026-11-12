@@ -1,0 +1,203 @@
+{
+  "board_count": 18,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "02_Onboarding_1",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "03_Onboarding_2",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "04_Onboarding_3",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "05_Sign_In",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "06_Sign_Up",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "07_Home",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "08_Nordic_Cottage",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "09_Map",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "10_Cottage_Info",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "11_New_Plan",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "12_Add_Itinerary",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "13_Travel_Plan",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "14_Trip_Home",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "15_Itinerary_Form",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "16_Partners",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "17_Social_Links",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    },
+    {
+      "name": "18_Profile",
+      "size": "375×812",
+      "nodes": 0,
+      "max_depth": 0,
+      "instances": 0,
+      "texts": 0,
+      "images": 0,
+      "types": [],
+      "names": []
+    }
+  ]
+}

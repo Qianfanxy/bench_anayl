@@ -1,0 +1,137 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Get_Started",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Logo_Expenio",
+        "Surface",
+        "Illustration_Get_Started",
+        "Your money. Made simple."
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "375×812",
+      "nodes": 15,
+      "max_depth": 2,
+      "instances": 9,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×4",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Hello, Maria",
+        "Home",
+        "Surface",
+        "Avatar_Maria_Lopez"
+      ]
+    },
+    {
+      "name": "03_Wallet",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "frame×3",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header / Wallet",
+        "Payment card / Visa · Cu",
+        "Surface",
+        "1 of 3"
+      ]
+    },
+    {
+      "name": "04_Add_Card",
+      "size": "375×812",
+      "nodes": 35,
+      "max_depth": 3,
+      "instances": 20,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "frame×9",
+        "text×6"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Wallet underneath sheet",
+        "Header / Wallet",
+        "Payment card / Visa · Cu",
+        "Surface"
+      ]
+    },
+    {
+      "name": "05_Payment",
+      "size": "375×812",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "text×7",
+        "instance×5",
+        "frame×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Cancel",
+        "Payment",
+        "PAYING",
+        "Surface"
+      ]
+    },
+    {
+      "name": "06_Receipt",
+      "size": "375×812",
+      "nodes": 20,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "instance×5",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Receipt",
+        "Icon_Share",
+        "Receipt / Cash",
+        "✓"
+      ]
+    }
+  ]
+}

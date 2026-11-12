@@ -1,0 +1,209 @@
+{
+  "board_count": 12,
+  "boards": [
+    {
+      "id": "2010:2",
+      "name": "01_Check_In",
+      "size": "390×844",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "id": "2010:15",
+      "name": "02_Stress_Sources",
+      "size": "390×844",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "id": "2010:28",
+      "name": "03_Today",
+      "size": "390×844",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "id": "2010:41",
+      "name": "04_Focus_Session",
+      "size": "390×844",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "id": "2010:54",
+      "name": "05_Reflect",
+      "size": "390×844",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "id": "2010:67",
+      "name": "06_Growth_Insights",
+      "size": "390×844",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "id": "2010:80",
+      "name": "07_Your_Routine",
+      "size": "390×844",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "id": "2010:93",
+      "name": "08_Campus_Support",
+      "size": "390×844",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "id": "2010:106",
+      "name": "09_Exam_Mode",
+      "size": "390×844",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "id": "2010:119",
+      "name": "10_Immediate_Support",
+      "size": "390×844",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "id": "2010:132",
+      "name": "11_Your_Journey",
+      "size": "390×844",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator"
+      ]
+    },
+    {
+      "id": "2010:145",
+      "name": "12_Micro_Exercises",
+      "size": "390×844",
+      "nodes": 2,
+      "max_depth": 1,
+      "instances": 2,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator"
+      ]
+    }
+  ]
+}

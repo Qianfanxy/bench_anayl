@@ -1,0 +1,96 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "Assets",
+      "size": "900×800",
+      "nodes": 152,
+      "max_depth": 10,
+      "instances": 23,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "group×62",
+        "vector×31",
+        "frame×25",
+        "component×23",
+        "rectangle×7",
+        "ellipse×3"
+      ],
+      "names": [
+        "slot",
+        "Foodgo_Wordmark / Dark",
+        "Foodgo_Wordmark / White",
+        "Avatar_Neutral",
+        "Ellipse",
+        "Icon / Home"
+      ]
+    },
+    {
+      "name": "IMAGE_ASSETS",
+      "size": "1100×900",
+      "nodes": 21,
+      "max_depth": 1,
+      "instances": 0,
+      "texts": 1,
+      "images": 20,
+      "types": [
+        "rectangle-image×20",
+        "text×1"
+      ],
+      "names": [
+        "REPORT",
+        "Splash_Burger_Stack",
+        "Burger_Cheeseburger_Wend",
+        "Burger_Veggie",
+        "Burger_Chicken",
+        "Burger_Fried_Chicken"
+      ]
+    },
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 4,
+      "max_depth": 2,
+      "instances": 1,
+      "texts": 1,
+      "images": 1,
+      "types": [
+        "rectangle-image×1",
+        "component×1",
+        "vector×1",
+        "text×1"
+      ],
+      "names": [
+        "Splash_Burger_Stack",
+        "Foodgo_Wordmark / White",
+        "Crave it. Order it."
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "430×932",
+      "nodes": 38,
+      "max_depth": 9,
+      "instances": 6,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "group×11",
+        "rectangle×7",
+        "component×6",
+        "vector×5",
+        "text×3",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "9:41",
+        "Signal",
+        "Rectangle",
+        "Wifi",
+        "Battery"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+ "file_key": "FW3jfozfyaOg9OWNXdH1Vq",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "4:4",
+     "name": "LEVEL L2 · DESIGN TASK · v2",
+     "x": 64,
+     "y": 64,
+     "text": "LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "4:5",
+     "name": "Workout Class — fitness classes and activity tracking",
+     "x": 64,
+     "y": 95,
+     "text": "Workout Class — fitness classes and activity tracking"
+    },
+    {
+     "id": "4:6",
+     "name": "Design a fitness class app: get started, find a workout class, open the Warm up category to see its exercises, and review this week’s activity. Canvas 414 × 896, iPhone, light mode. Work in your own new Figma file — this file is read-only reference.",
+     "x": 64,
+     "y": 159,
+     "text": "Design a fitness class app: get started, find a workout class, open the Warm up category to see its exercises, and review this week’s activity. Canvas 414 × 896, iPhone, light mode. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "4:8",
+     "name": "How to work",
+     "x": 64,
+     "y": 257,
+     "text": "How to work"
+    },
+    {
+     "id": "4:9",
+     "name": "1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the navigation and every business component as reusable components in your file. 5. Use the illustrations, the avatar, the photos and the icons from 04 · Media. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 64,
+     "y": 308,
+     "text": "1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the navigation and every business component as reusable components in your file.\n5. Use the illustrations, the avatar, the photos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "4:11",
+     "name": "Frames · goals · must include · links",
+     "x": 64,
+     "y": 532,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "4:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 64,
+     "y": 583,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "4:15",
+     "name": "01_Onboarding",
+     "x": 88,
+     "y": 645,
+     "text": "01_Onboarding"
+    },
+    {
+     "id": "4:22",
+     "name": "02_Home",
+     "x": 756,
+     "y": 645,
+     "text": "02_Home"
+    },
+    {
+     "id": "4:16",
+     "name": "Goal: Understand what the app offers and start.",
+     "x": 88,
+     "y": 681,
+     "text": "Goal: Understand what the app offers and start."
+    },
+    {
+     "id": "4:23",
+     "name": "Goal: Find a workout class.",
+     "x": 756,
+     "y": 681,
+     "text": "Goal: Find a workout class."
+    },
+    {
+     "id": "4:17",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:24",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 711,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:18",
+     "name": "• Actions: “Get started” • Copy: “Best workouts for you” · “You will have everything you need to reach your personal fitness goals — for free!” • Media: Illustration_Onboarding",
+     "x": 88,
+     "y": 737,
+     "text": "• Actions: “Get started”\n• Copy: “Best workouts for you” · “You will have everything you need to reach your personal fitness goals — for free!”\n• Media: Illustration_Onboarding"
+    },
+    {
+     "id": "4:25",
+     "name": "• Categories: “Categories” · “See all” · Warm up · Yoga · Squats · Lunge, each with its photo (see DATA) • Greeting: “Hello, Adam Smith” · Avatar_Adam_Smith · menu (Icon_Menu) • Main navigation: tab bar Home / Activity / Profile / Settings · current: Home • Recommendation Class: “Recommendation Class” · “See all” · Yoga Class · “With Rachael Wisdom” · Photo_Yoga_Class · favorite (Icon_Heart) • Search: “Search” (Icon_Search) • Title: “Find Your Workout Class” • Today’s activity: “Today’s activity” · 8.00 AM - 1.30 PM · Illustration_Todays_Activity",
+     "x": 756,
+     "y": 737,
+     "text": "• Categories: “Categories” · “See all” · Warm up · Yoga · Squats · Lunge, each with its photo (see DATA)\n• Greeting: “Hello, Adam Smith” · Avatar_Adam_Smith · menu (Icon_Menu)\n• Main navigation: tab bar Home / Activity / Profile / Settings · current: Home\n• Recommendation Class: “Recommendation Class” · “See all” · Yoga Class · “With Rachael Wisdom” · Photo_Yoga_Class · favorite (Icon_Heart)\n• Search: “Search” (Icon_Search)\n• Title: “Find Your Workout Class”\n• Today’s activity: “Today’s activity” · 8.00 AM - 1.30 PM · Illustration_Todays_Activity"
+    },
+    {
+     "id": "4:19",
+     "name": "LINKS",
+     "x": 88,
+     "y": 827,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:20",
+     "name": "→ Get started → 02_Home",
+     "x": 88,
+     "y": 853,
+     "text": "→ Get started → 02_Home"
+    },
+    {
+     "id": "4:26",
+     "name": "LINKS",
+     "x": 756,
+     "y": 927,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:27",
+     "name": "→ Warm up category → 03_Warm_Up → Activity tab → 04_Activity",
+     "x": 756,
+     "y": 953,
+     "text": "→ Warm up category → 03_Warm_Up\n→ Activity tab → 04_Activity"
+    },
+    {
+     "id": "4:29",
+     "name": "03_Warm_Up",
+     "x": 88,
+     "y": 1065,
+     "text": "03_Warm_Up"
+    },
+    {
+     "id": "4:36",
+     "name": "04_Activity",
+     "x": 756,
+     "y": 1065,
+     "text": "04_Activity"
+    },
+    {
+     "id": "4:30",
+     "name": "Goal: Understand the Warm up session and pick an exercise.",
+     "x": 88,
+     "y": 1101,
+     "text": "Goal: Understand the Warm up session and pick an exercise."
+    },
+    {
+     "id": "4:37",
+     "name": "Goal: Review the calories and activities of a day this week.",
+     "x": 756,
+     "y": 1101,
+     "text": "Goal: Review the calories and activities of a day this week."
+    },
+    {
+     "id": "4:31",
+     "name": "MUST INCLUDE",
+     "x": 88,
+     "y": 1131,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:38",
+     "name": "MUST INCLUDE",
+     "x": 756,
+     "y": 1131,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:32",
+     "name": "• Actions: back (Icon_Back) · more (Icon_More) · play video (Icon_Play) • Description: “Warm up properly before exercising to prevent injury and make your workouts more effective.” • Exercises: “Exercises” · Exercise 1 – Exercise 10, each with photo, duration and play (Icon_Play_Small) (see DATA) • Main navigation: tab bar · current: Home • Media: Photo_Seated_Hug (video cover) • Tags: 37.10 mins (Icon_Clock) · Running (Icon_Running) • Title: “Warm up”",
+     "x": 88,
+     "y": 1157,
+     "text": "• Actions: back (Icon_Back) · more (Icon_More) · play video (Icon_Play)\n• Description: “Warm up properly before exercising to prevent injury and make your workouts more effective.”\n• Exercises: “Exercises” · Exercise 1 – Exercise 10, each with photo, duration and play (Icon_Play_Small) (see DATA)\n• Main navigation: tab bar · current: Home\n• Media: Photo_Seated_Hug (video cover)\n• Tags: 37.10 mins (Icon_Clock) · Running (Icon_Running)\n• Title: “Warm up”"
+    },
+    {
+     "id": "4:39",
+     "name": "• Actions: back (Icon_Back) · more (Icon_More) • Activities: Running · Swimming · Cycling, each with time range, hours and kilometers (Icon_Running, Icon_Swimming, Icon_Cycling) (see DATA) • Calories: 1680 kcal • Chart: hourly calories, axis 8AM · 10AM · 12PM · 2PM · 4PM · selected: 4PM · 120 cal • Main navigation: tab bar · current: Activity • Title: “Your activities” • Week: “This week” · Sat 26 – Fri 01 · selected: Mon 28",
+     "x": 756,
+     "y": 1157,
+     "text": "• Actions: back (Icon_Back) · more (Icon_More)\n• Activities: Running · Swimming · Cycling, each with time range, hours and kilometers (Icon_Running, Icon_Swimming, Icon_Cycling) (see DATA)\n• Calories: 1680 kcal\n• Chart: hourly calories, axis 8AM · 10AM · 12PM · 2PM · 4PM · selected: 4PM · 120 cal\n• Main navigation: tab bar · current: Activity\n• Title: “Your activities”\n• Week: “This week” · Sat 26 – Fri 01 · selected: Mon 28"
+    },
+    {
+     "id": "4:40",
+     "name": "LINKS",
+     "x": 756,
+     "y": 1327,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:33",
+     "name": "LINKS",
+     "x": 88,
+     "y": 1347,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:41",
+     "name": "→ back → 02_Home → Home tab → 02_Home",
+     "x": 756,
+     "y": 1353,
+     "text": "→ back → 02_Home\n→ Home tab → 02_Home"
+    },
+    {
+     "id": "4:34",
+     "name": "→ back → 02_Home → Activity tab → 04_Activity",
+     "x": 88,
+     "y": 1373,
+     "text": "→ back → 02_Home\n→ Activity tab → 04_Activity"
+    },
+    {
+     "id": "4:43",
+     "name": "Navigation structure",
+     "x": 64,
+     "y": 1485,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "4:44",
+     "name": "• Bottom tab bar on 02, 03 and 04 with 4 tabs in this order: Home (Icon_Home), Activity (Icon_Activity), Profile (Icon_Profile), Settings (Icon_Settings). Current: Home on 02 and 03, Activity on 04. How the current tab looks is yours. • 01_Onboarding → Get started → 02_Home. 03_Warm_Up is pushed from the Warm up category card on 02. • Entry only (no frame): menu, avatar, search, Today’s activity card, See all, Yoga Class, favorite, Yoga / Squats / Lunge, more, play video, exercise rows, days, chart hours, activity cards, Profile and Settings tabs.",
+     "x": 64,
+     "y": 1536,
+     "text": "• Bottom tab bar on 02, 03 and 04 with 4 tabs in this order: Home (Icon_Home), Activity (Icon_Activity), Profile (Icon_Profile), Settings (Icon_Settings). Current: Home on 02 and 03, Activity on 04. How the current tab looks is yours.\n• 01_Onboarding → Get started → 02_Home. 03_Warm_Up is pushed from the Warm up category card on 02.\n• Entry only (no frame): menu, avatar, search, Today’s activity card, See all, Yoga Class, favorite, Yoga / Squats / Lunge, more, play video, exercise rows, days, chart hours, activity cards, Profile and Settings tabs."
+    },
+    {
+     "id": "4:46",
+     "name": "Fixed data & copy",
+     "x": 64,
+     "y": 1694,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "4:47",
+     "name": "Use these values verbatim.",
+     "x": 64,
+     "y": 1745,
+     "text": "Use these values verbatim."
+    },
+    {
+     "id": "4:50",
+     "name": "User",
+     "x": 84,
+     "y": 1803,
+     "text": "User"
+    },
+    {
+     "id": "4:53",
+     "name": "Today’s activity",
+     "x": 528,
+     "y": 1803,
+     "text": "Today’s activity"
+    },
+    {
+     "id": "4:56",
+     "name": "Recommendation Class",
+     "x": 972,
+     "y": 1803,
+     "text": "Recommendation Class"
+    },
+    {
+     "id": "4:51",
+     "name": "Adam Smith (Avatar_Adam_Smith) · greeting “Hello, Adam Smith”",
+     "x": 84,
+     "y": 1831,
+     "text": "Adam Smith (Avatar_Adam_Smith) · greeting “Hello, Adam Smith”"
+    },
+    {
+     "id": "4:54",
+     "name": "8.00 AM - 1.30 PM (Illustration_Todays_Activity)",
+     "x": 528,
+     "y": 1831,
+     "text": "8.00 AM - 1.30 PM (Illustration_Todays_Activity)"
+    },
+    {
+     "id": "4:57",
+     "name": "Yoga Class · With Rachael Wisdom (Photo_Yoga_Class)",
+     "x": 972,
+     "y": 1831,
+     "text": "Yoga Class · With Rachael Wisdom (Photo_Yoga_Class)"
+    },
+    {
+     "id": "4:59",
+     "name": "Categories (in this order)",
+     "x": 84,
+     "y": 1933,
+     "text": "Categories (in this order)"
+    },
+    {
+     "id": "4:62",
+     "name": "Warm up (03)",
+     "x": 528,
+     "y": 1933,
+     "text": "Warm up (03)"
+    },
+    {
+     "id": "4:65",
+     "name": "Exercises (03, in this order)",
+     "x": 972,
+     "y": 1933,
+     "text": "Exercises (03, in this order)"
+    },
+    {
+     "id": "4:60",
+     "name": "Warm up (Photo_Seated_Hug) Yoga (Photo_Meditation) Squats (Photo_Squat) Lunge (Photo_Lunge)",
+     "x": 84,
+     "y": 1961,
+     "text": "Warm up (Photo_Seated_Hug)\nYoga (Photo_Meditation)\nSquats (Photo_Squat)\nLunge (Photo_Lunge)"
+    },
+    {
+     "id": "4:63",
+     "name": "Tags: 37.10 mins · Running Video cover: Photo_Seated_Hug",
+     "x": 528,
+     "y": 1961,
+     "text": "Tags: 37.10 mins · Running\nVideo cover: Photo_Seated_Hug"
+    },
+    {
+     "id": "4:66",
+     "name": "Exercise 1 · 02.30 Minutes (Photo_Forward_Fold) Exercise 2 · 02.00 Minutes (Photo_Chair_Pose) Exercise 3 · 03.20 Minutes (Photo_Side_Plank) Exercise 4 · 02.30 Minutes (Photo_Bent_Over) Exercise 5 · 05.30 Minutes (Photo_Meditation) Exercise 6 · 06.10 Minutes (Photo_Seated_Hug) Exercise 7 · 04.50 Minutes (Photo_Lunge) Exercise 8 · 03.30 Minutes (Photo_Arm_Stretch) Exercise 9 · 01.30 Minutes (Photo_Back_Bend) Exercise 10 · 05.20 Minutes (Photo_Tabletop_Kick)",
+     "x": 972,
+     "y": 1961,
+     "text": "Exercise 1 · 02.30 Minutes (Photo_Forward_Fold)\nExercise 2 · 02.00 Minutes (Photo_Chair_Pose)\nExercise 3 · 03.20 Minutes (Photo_Side_Plank)\nExercise 4 · 02.30 Minutes (Photo_Bent_Over)\nExercise 5 · 05.30 Minutes (Photo_Meditation)\nExercise 6 · 06.10 Minutes (Photo_Seated_Hug)\nExercise 7 · 04.50 Minutes (Photo_Lunge)\nExercise 8 · 03.30 Minutes (Photo_Arm_Stretch)\nExercise 9 · 01.30 Minutes (Photo_Back_Bend)\nExercise 10 · 05.20 Minutes (Photo_Tabletop_Kick)"
+    },
+    {
+     "id": "4:68",
+     "name": "Week (04)",
+     "x": 84,
+     "y": 2215,
+     "text": "Week (04)"
+    },
+    {
+     "id": "4:71",
+     "name": "Activities (04, in this order)",
+     "x": 528,
+     "y": 2215,
+     "text": "Activities (04, in this order)"
+    },
+    {
+     "id": "4:69",
+     "name": "Sat 26 · Sun 27 · Mon 28 (selected) · Tue 29 · Wed 30 · Thu 31 · Fri 01 1680 kcal Chart: 8AM – 4PM, selected 4PM · 120 cal (curve values illustrative)",
+     "x": 84,
+     "y": 2243,
+     "text": "Sat 26 · Sun 27 · Mon 28 (selected) · Tue 29 · Wed 30 · Thu 31 · Fri 01\n1680 kcal\nChart: 8AM – 4PM, selected 4PM · 120 cal (curve values illustrative)"
+    },
+    {
+     "id": "4:72",
+     "name": "Running · 8.00 AM - 9.30 AM · 1.32 hours · 9.50 kilometers Swimming · 8.00 AM - 9.30 AM · 1.32 hours · 9.50 kilometers Cycling · 8.00 AM - 9.30 AM · 1.32 hours · 9.50 kilometers",
+     "x": 528,
+     "y": 2243,
+     "text": "Running · 8.00 AM - 9.30 AM · 1.32 hours · 9.50 kilometers\nSwimming · 8.00 AM - 9.30 AM · 1.32 hours · 9.50 kilometers\nCycling · 8.00 AM - 9.30 AM · 1.32 hours · 9.50 kilometers"
+    },
+    {
+     "id": "4:74",
+     "name": "What is fixed · what is yours",
+     "x": 64,
+     "y": 2406,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "4:77",
+     "name": "Fixed (given)",
+     "x": 88,
+     "y": 2481,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "4:80",
+     "name": "Yours (designer decides)",
+     "x": 756,
+     "y": 2481,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "4:78",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand color #24C8FE and Inter • Media: illustrations, avatar, photos, icons • Default Button, default Text Field, platform shell",
+     "x": 88,
+     "y": 2514,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand color #24C8FE and Inter\n• Media: illustrations, avatar, photos, icons\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "4:81",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, backgrounds / surfaces, category tints, activity colors, chart fill, error / disabled • Type scale, spacing, radii, elevation • All states: current tab, selected day, selected hour, pressed, favorited, disabled • Headers, tab bar, activity card, class card, category cards, tags, exercise rows, day pills, chart, activity cards • How photos and cut-outs are cropped, backed and treated",
+     "x": 756,
+     "y": 2514,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, backgrounds / surfaces, category tints, activity colors, chart fill, error / disabled\n• Type scale, spacing, radii, elevation\n• All states: current tab, selected day, selected hour, pressed, favorited, disabled\n• Headers, tab bar, activity card, class card, category cards, tags, exercise rows, day pills, chart, activity cards\n• How photos and cut-outs are cropped, backed and treated"
+    },
+    {
+     "id": "4:83",
+     "name": "How it is evaluated",
+     "x": 64,
+     "y": 2746,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "4:84",
+     "name": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original.",
+     "x": 64,
+     "y": 2797,
+     "text": "Your file is compared with this brief on coverage, data and flow — not on visual similarity to any original."
+    },
+    {
+     "id": "4:85",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current tab, selected day, selected hour)",
+     "x": 64,
+     "y": 2835,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current tab, selected day, selected hour)"
+    },
+    {
+     "id": "4:86",
+     "name": "Deliverable: the link to your own Figma file containing the 4 named frames, your components and the prototype.",
+     "x": 64,
+     "y": 3005,
+     "text": "Deliverable: the link to your own Figma file containing the 4 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "1:6",
+     "name": "Foundations · Workout Class",
+     "x": 56,
+     "y": 48,
+     "text": "Foundations · Workout Class"
+    },
+    {
+     "id": "1:7",
+     "name": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces, category card tints, activity colors (running, swimming, cycling), chart fill, selected and disabled states, type scale, spacing, radii and elevation.",
+     "x": 56,
+     "y": 119,
+     "text": "Fixed: the brand color and the typeface below. Everything else is yours to define and apply consistently: neutrals and grays, text colors, backgrounds and surfaces, category card tints, activity colors (running, swimming, cycling), chart fill, selected and disabled states, type scale, spacing, radii and elevation."
+    },
+    {
+     "id": "1:8",
+     "name": "Brand color",
+     "x": 56,
+     "y": 189,
+     "text": "Brand color"
+    },
+    {
+     "id": "1:12",
+     "name": "Brand primary · sky blue",
+     "x": 56,
+     "y": 373,
+     "text": "Brand primary · sky blue"
+    },
+    {
+     "id": "1:13",
+     "name": "#24C8FE",
+     "x": 56,
+     "y": 398,
+     "text": "#24C8FE"
+    },
+    {
+     "id": "1:14",
+     "name": "The app’s signature accent. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 422,
+     "text": "The app’s signature accent. Where and how much to use it is your decision."
+    },
+    {
+     "id": "1:15",
+     "name": "Typeface",
+     "x": 56,
+     "y": 499,
+     "text": "Typeface"
+    },
+    {
+     "id": "1:16",
+     "name": "Aa Bb Cc 0123456789 1680 kcal",
+     "x": 56,
+     "y": 555,
+     "text": "Aa Bb Cc 0123456789  1680 kcal"
+    },
+    {
+     "id": "1:17",
+     "name": "Use Inter for all UI text (Regular / Medium / Semi Bold / Bold / Extra Bold available; the source also used Merriweather on the onboarding headline and Nunito on a few labels — use Inter instead). Sizes, weights and line heights are yours to define as a consistent type scale.",
+     "x": 56,
+     "y": 635,
+     "text": "Use Inter for all UI text (Regular / Medium / Semi Bold / Bold / Extra Bold available; the source also used Merriweather on the onboarding headline and Nunito on a few labels — use Inter instead). Sizes, weights and line heights are yours to define as a consistent type scale."
+    },
+    {
+     "id": "1:18",
+     "name": "Canvas: 414 × 896 (iPhone 11 Pro Max). Light mode. 02_Home, 03_Warm_Up and 04_Activity may scroll vertically.",
+     "x": 56,
+     "y": 701,
+     "text": "Canvas: 414 × 896 (iPhone 11 Pro Max). Light mode. 02_Home, 03_Warm_Up and 04_Activity may scroll vertically."
+    }
+   ]
+  }
+ ]
+}

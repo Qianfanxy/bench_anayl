@@ -1,0 +1,249 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "430×932",
+      "nodes": 4,
+      "max_depth": 1,
+      "instances": 3,
+      "texts": 0,
+      "images": 1,
+      "types": [
+        "instance×3",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Foodgo_Wordmark / White",
+        "splash"
+      ]
+    },
+    {
+      "name": "02_Home",
+      "size": "430×932",
+      "nodes": 19,
+      "max_depth": 2,
+      "instances": 15,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Foodgo_Wordmark / Dark",
+        "Order your favourite foo",
+        "Avatar",
+        "Search",
+        "Icon / Search"
+      ]
+    },
+    {
+      "name": "03_Product_Cheeseburger",
+      "size": "430×932",
+      "nodes": 22,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 10,
+      "images": 1,
+      "types": [
+        "text×10",
+        "instance×6",
+        "frame×5",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "imageBackdrop",
+        "cheese",
+        "name"
+      ]
+    },
+    {
+      "name": "04_Product_Veggie",
+      "size": "430×932",
+      "nodes": 22,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 10,
+      "images": 1,
+      "types": [
+        "text×10",
+        "instance×6",
+        "frame×5",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "imageBackdrop",
+        "veggie",
+        "name"
+      ]
+    },
+    {
+      "name": "05_Product_Chicken",
+      "size": "430×932",
+      "nodes": 22,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 10,
+      "images": 1,
+      "types": [
+        "text×10",
+        "instance×6",
+        "frame×5",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "imageBackdrop",
+        "chicken",
+        "name"
+      ]
+    },
+    {
+      "name": "06_Product_Fried_Chicken",
+      "size": "430×932",
+      "nodes": 22,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 10,
+      "images": 1,
+      "types": [
+        "text×10",
+        "instance×6",
+        "frame×5",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "imageBackdrop",
+        "fried",
+        "name"
+      ]
+    },
+    {
+      "name": "07_Customize",
+      "size": "430×1640",
+      "nodes": 33,
+      "max_depth": 2,
+      "instances": 17,
+      "texts": 11,
+      "images": 1,
+      "types": [
+        "instance×17",
+        "text×11",
+        "frame×4",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "headline",
+        "imageBackdrop",
+        "exploded"
+      ]
+    },
+    {
+      "name": "08_Payment",
+      "size": "430×932",
+      "nodes": 26,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "instance×6",
+        "frame×5"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Order summary",
+        "Order summary card",
+        "Order",
+        "$16.48"
+      ]
+    },
+    {
+      "name": "09_Payment_Success_Overlay",
+      "size": "430×932",
+      "nodes": 33,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 17,
+      "images": 0,
+      "types": [
+        "text×17",
+        "instance×8",
+        "frame×8"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Order summary",
+        "Order summary card",
+        "Order",
+        "$16.48"
+      ]
+    },
+    {
+      "name": "10_Profile",
+      "size": "430×932",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 13,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "text×7",
+        "frame×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Avatar",
+        "Text Field / Name",
+        "value"
+      ]
+    },
+    {
+      "name": "11_Support_Chat",
+      "size": "430×932",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×2",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Header",
+        "Message / Agent",
+        "Message / Customer",
+        "timestamp"
+      ]
+    }
+  ]
+}

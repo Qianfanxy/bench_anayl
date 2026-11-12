@@ -1,0 +1,440 @@
+{
+  "board_count": 20,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×3",
+        "frame×2",
+        "ellipse×2"
+      ],
+      "names": [
+        "Welcome Panel",
+        "Decor 1",
+        "Decor 2",
+        "Brand",
+        "Logo",
+        "Wordmark"
+      ]
+    },
+    {
+      "name": "02_Sign_In",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×5",
+        "frame×1"
+      ],
+      "names": [
+        "Back",
+        "Heading",
+        "Subheading",
+        "Field · Email address",
+        "Field · Password",
+        "Forgot Password?"
+      ]
+    },
+    {
+      "name": "03_Sign_Up",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×5",
+        "frame×1"
+      ],
+      "names": [
+        "Back",
+        "Heading",
+        "Subheading",
+        "Field · Name",
+        "Field · Mobile Number",
+        "Field · Email address"
+      ]
+    },
+    {
+      "name": "04_Verification",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 8,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×3"
+      ],
+      "names": [
+        "Back",
+        "Heading",
+        "Subheading",
+        "OTP Box 1",
+        "OTP Box 2",
+        "OTP Box 3"
+      ]
+    },
+    {
+      "name": "05_Select_Store",
+      "size": "375×812",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 0,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×2"
+      ],
+      "names": [
+        "Image_Store_Map",
+        "Back",
+        "Icon_Map_Pin",
+        "Locate me",
+        "Store Sheet",
+        "Sheet Header"
+      ]
+    },
+    {
+      "name": "06_Menu",
+      "size": "375×812",
+      "nodes": 22,
+      "max_depth": 4,
+      "instances": 11,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×8",
+        "text×3"
+      ],
+      "names": [
+        "Home Header",
+        "Greeting",
+        "Welcome",
+        "User",
+        "Actions",
+        "Cart"
+      ]
+    },
+    {
+      "name": "07_Order_Options",
+      "size": "375×877",
+      "nodes": 28,
+      "max_depth": 2,
+      "instances": 17,
+      "texts": 5,
+      "images": 0,
+      "types": [
+        "instance×17",
+        "frame×6",
+        "text×5"
+      ],
+      "names": [
+        "Header",
+        "Hero",
+        "Coffee_Cappuccino",
+        "Title Row",
+        "Drink",
+        "Stepper"
+      ]
+    },
+    {
+      "name": "08_Milk_Picker",
+      "size": "375×812",
+      "nodes": 40,
+      "max_depth": 3,
+      "instances": 28,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×28",
+        "frame×7",
+        "text×4",
+        "rectangle×1"
+      ],
+      "names": [
+        "Dimmed 09_Assemblage",
+        "Header",
+        "Row · Select a barista",
+        "Row · Coffee sort",
+        "Coffee type",
+        "Slider"
+      ]
+    },
+    {
+      "name": "09_Assemblage",
+      "size": "375×917",
+      "nodes": 27,
+      "max_depth": 2,
+      "instances": 19,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×19",
+        "text×4",
+        "frame×4"
+      ],
+      "names": [
+        "Header",
+        "Row · Select a barista",
+        "Row · Coffee sort",
+        "Coffee type",
+        "Slider",
+        "Grinding"
+      ]
+    },
+    {
+      "name": "10_Select_Barista",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Subheading",
+        "Barista · Victor",
+        "Barista · Andrey",
+        "Barista · Vera",
+        "Tab Bar"
+      ]
+    },
+    {
+      "name": "11_Coffee_Country",
+      "size": "375×812",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 15,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Subheading",
+        "Country · Brazil",
+        "Country · Colombia",
+        "Country · Costa Rica",
+        "Country · Jamaica"
+      ]
+    },
+    {
+      "name": "12_Coffee_Sort",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Header",
+        "Subheading",
+        "Origin Chip",
+        "Origin",
+        "Sort · Santos",
+        "Sort · Bourbon Santos"
+      ]
+    },
+    {
+      "name": "13_Additives",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 1,
+      "instances": 12,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×1"
+      ],
+      "names": [
+        "Header",
+        "Subheading",
+        "Additive · Ceylon cinnam",
+        "Additive · Grated chocol",
+        "Additive · Liquid chocol",
+        "Additive · Marshmallow"
+      ]
+    },
+    {
+      "name": "14_My_Order",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 7,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Back",
+        "Heading",
+        "Cart Item · Americano",
+        "Cart Item · Cappuccino",
+        "Cart Item · Flat White",
+        "Total Price Row"
+      ]
+    },
+    {
+      "name": "15_Order_Payment",
+      "size": "375×812",
+      "nodes": 36,
+      "max_depth": 5,
+      "instances": 14,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×14",
+        "text×11",
+        "frame×10",
+        "rectangle×1"
+      ],
+      "names": [
+        "Dimmed 14_My_Order",
+        "Back",
+        "Heading",
+        "Cart Item · Americano",
+        "Cart Item · Cappuccino",
+        "Cart Item · Flat White"
+      ]
+    },
+    {
+      "name": "16_Order_Confirmed",
+      "size": "375×812",
+      "nodes": 10,
+      "max_depth": 2,
+      "instances": 5,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×5",
+        "text×4",
+        "frame×1"
+      ],
+      "names": [
+        "Back",
+        "Illustration_Ordered",
+        "Heading",
+        "Body 1",
+        "Body 2",
+        "QR Card"
+      ]
+    },
+    {
+      "name": "17_Profile",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×2",
+        "frame×1"
+      ],
+      "names": [
+        "Back",
+        "Heading",
+        "Profile Row · Name",
+        "Profile Row · Phone numb",
+        "Profile Row · Email",
+        "Profile Row · Magic Coff"
+      ]
+    },
+    {
+      "name": "18_Rewards",
+      "size": "375×812",
+      "nodes": 11,
+      "max_depth": 1,
+      "instances": 9,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×2"
+      ],
+      "names": [
+        "Heading",
+        "Loyalty Card",
+        "Points Card",
+        "History Rewards",
+        "Reward Row · Americano",
+        "Reward Row · Latte"
+      ]
+    },
+    {
+      "name": "19_Redeem",
+      "size": "375×812",
+      "nodes": 7,
+      "max_depth": 1,
+      "instances": 6,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "text×1"
+      ],
+      "names": [
+        "Back",
+        "Heading",
+        "Redeem Row · Latte",
+        "Redeem Row · Flat White",
+        "Redeem Row · Cappuccino",
+        "Status Bar"
+      ]
+    },
+    {
+      "name": "20_My_Orders",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×1"
+      ],
+      "names": [
+        "Heading",
+        "Tabs",
+        "Order Row · Americano",
+        "Order Row · Latte",
+        "Order Row · Flat White",
+        "Tab Bar"
+      ]
+    }
+  ]
+}

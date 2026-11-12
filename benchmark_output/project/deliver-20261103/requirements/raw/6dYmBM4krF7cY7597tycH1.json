@@ -1,0 +1,844 @@
+{
+ "file_key": "6dYmBM4krF7cY7597tycH1",
+ "file_name": "Document",
+ "pages": [
+  {
+   "page_id": "0:1",
+   "page_name": "00 · Start Here 设计任务",
+   "texts": [
+    {
+     "id": "4:4",
+     "name": "STOCKWAVE · LEVEL L2 · DESIGN TASK · v2",
+     "x": 56,
+     "y": 56,
+     "text": "STOCKWAVE · LEVEL L2 · DESIGN TASK · v2"
+    },
+    {
+     "id": "4:5",
+     "name": "StockWave — stock trading app",
+     "x": 56,
+     "y": 88,
+     "text": "StockWave — stock trading app"
+    },
+    {
+     "id": "4:6",
+     "name": "Design the complete StockWave mobile app: Agatha Bella signs up, verifies her phone, lands on a home screen with her portfolio, indices, wishlist and stocks, reviews her portfolio, opens Netflix (NFLX), buys 3 shares and manages her profile. Canvas 375 × 812 (iPhone), light mode only. Frozen demo data, not live quotes. Work in your own new Figma file — this file is read-only reference.",
+     "x": 56,
+     "y": 160,
+     "text": "Design the complete StockWave mobile app: Agatha Bella signs up, verifies her phone, lands on a home screen with her portfolio, indices, wishlist and stocks, reviews her portfolio, opens Netflix (NFLX), buys 3 shares and manages her profile.\nCanvas 375 × 812 (iPhone), light mode only. Frozen demo data, not live quotes. Work in your own new Figma file — this file is read-only reference."
+    },
+    {
+     "id": "4:8",
+     "name": "How to work",
+     "x": 56,
+     "y": 289,
+     "text": "How to work"
+    },
+    {
+     "id": "4:9",
+     "name": "1. Build exactly the 12 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links. 2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions. 3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, gain / loss, error, disabled, chart colors), plus type scale, spacing, radii and elevation, and apply them consistently. 4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the main navigation and every business component as reusable components in your file. 5. Use the StockWave logo, company logos, illustrations and icons from 04 · Media. People have no photos: use Avatar_Neutral. 6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.",
+     "x": 56,
+     "y": 341,
+     "text": "1. Build exactly the 12 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in screen order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand primary color and the typeface in 01 · Foundations are fixed. Define every other color yourself (neutrals, text, surfaces, gain / loss, error, disabled, chart colors), plus type scale, spacing, radii and elevation, and apply them consistently.\n4. 02 · Components gives only a default Button, a default Text Field and the platform shell (status bar, home indicator). Design all other states, the headers, the main navigation and every business component as reusable components in your file.\n5. Use the StockWave logo, company logos, illustrations and icons from 04 · Media. People have no photos: use Avatar_Neutral.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit."
+    },
+    {
+     "id": "4:11",
+     "name": "Frames · goals · must include · links",
+     "x": 56,
+     "y": 605,
+     "text": "Frames · goals · must include · links"
+    },
+    {
+     "id": "4:12",
+     "name": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.",
+     "x": 56,
+     "y": 657,
+     "text": "Frame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks."
+    },
+    {
+     "id": "4:15",
+     "name": "01_Splash",
+     "x": 80,
+     "y": 720,
+     "text": "01_Splash"
+    },
+    {
+     "id": "4:22",
+     "name": "02_Onboarding",
+     "x": 740,
+     "y": 720,
+     "text": "02_Onboarding"
+    },
+    {
+     "id": "4:16",
+     "name": "Goal: Brand recognition while the app loads.",
+     "x": 80,
+     "y": 760,
+     "text": "Goal: Brand recognition while the app loads."
+    },
+    {
+     "id": "4:23",
+     "name": "Goal: Introduce StockWave and start sign-up or sign-in.",
+     "x": 740,
+     "y": 760,
+     "text": "Goal: Introduce StockWave and start sign-up or sign-in."
+    },
+    {
+     "id": "4:17",
+     "name": "MUST INCLUDE",
+     "x": 80,
+     "y": 791,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:24",
+     "name": "MUST INCLUDE",
+     "x": 740,
+     "y": 791,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:18",
+     "name": "• Brand: StockWave_Symbol · StockWave_Wordmark",
+     "x": 80,
+     "y": 818,
+     "text": "• Brand: StockWave_Symbol · StockWave_Wordmark"
+    },
+    {
+     "id": "4:25",
+     "name": "• Actions: Skip · Sign in · Sign up • Copy: “Stock trading suite” · “Streamline your investment decisions with expert guidance.” • Media: the app shown on a phone (Blank_Phone_Frame) • Pages: 2 onboarding pages · current: 1",
+     "x": 740,
+     "y": 818,
+     "text": "• Actions: Skip · Sign in · Sign up\n• Copy: “Stock trading suite” · “Streamline your investment decisions with expert guidance.”\n• Media: the app shown on a phone (Blank_Phone_Frame)\n• Pages: 2 onboarding pages · current: 1"
+    },
+    {
+     "id": "4:19",
+     "name": "LINKS",
+     "x": 80,
+     "y": 849,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:20",
+     "name": "→ auto → 02_Onboarding",
+     "x": 80,
+     "y": 876,
+     "text": "→ auto → 02_Onboarding"
+    },
+    {
+     "id": "4:26",
+     "name": "LINKS",
+     "x": 740,
+     "y": 933,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:27",
+     "name": "→ Sign up → 03_Sign_Up_Empty → Skip → 03_Sign_Up_Empty",
+     "x": 740,
+     "y": 960,
+     "text": "→ Sign up → 03_Sign_Up_Empty\n→ Skip → 03_Sign_Up_Empty"
+    },
+    {
+     "id": "4:29",
+     "name": "03_Sign_Up (Empty / Filled)",
+     "x": 80,
+     "y": 1082,
+     "text": "03_Sign_Up (Empty / Filled)"
+    },
+    {
+     "id": "4:38",
+     "name": "04_Verify_Phone",
+     "x": 740,
+     "y": 1082,
+     "text": "04_Verify_Phone"
+    },
+    {
+     "id": "4:30",
+     "name": "Goal: Create an account with minimum effort.",
+     "x": 80,
+     "y": 1122,
+     "text": "Goal: Create an account with minimum effort."
+    },
+    {
+     "id": "4:39",
+     "name": "Goal: Enter a phone number to receive a code.",
+     "x": 740,
+     "y": 1122,
+     "text": "Goal: Enter a phone number to receive a code."
+    },
+    {
+     "id": "4:31",
+     "name": "MUST INCLUDE",
+     "x": 80,
+     "y": 1153,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:40",
+     "name": "MUST INCLUDE",
+     "x": 740,
+     "y": 1153,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:32",
+     "name": "• Actions: Continue · Continue with Google · Continue with Apple · “Already have an account?” Sign In • Copy: “Join StockWave” · “Embark on your investment journey with a single dollar.” · “Or continue with” • Form: Email · Password · Username",
+     "x": 80,
+     "y": 1180,
+     "text": "• Actions: Continue · Continue with Google · Continue with Apple · “Already have an account?” Sign In\n• Copy: “Join StockWave” · “Embark on your investment journey with a single dollar.” · “Or continue with”\n• Form: Email · Password · Username"
+    },
+    {
+     "id": "4:41",
+     "name": "• Actions: back · Send code • Copy: “Enter your phone number” · “You’ll receive a 4 digit code for the phone number verification” • Number pad: 1–9, *, 0, delete • Phone: +1 202 555 0147 entered",
+     "x": 740,
+     "y": 1180,
+     "text": "• Actions: back · Send code\n• Copy: “Enter your phone number” · “You’ll receive a 4 digit code for the phone number verification”\n• Number pad: 1–9, *, 0, delete\n• Phone: +1 202 555 0147 entered"
+    },
+    {
+     "id": "4:33",
+     "name": "STATES (ONE FRAME EACH)",
+     "x": 80,
+     "y": 1295,
+     "text": "STATES (ONE FRAME EACH)"
+    },
+    {
+     "id": "4:42",
+     "name": "LINKS",
+     "x": 740,
+     "y": 1295,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:34",
+     "name": "• 03_Sign_Up_Empty — nothing entered • 03_Sign_Up_Filled — Agatha Bella · agbella@email.com · password entered (masked)",
+     "x": 80,
+     "y": 1322,
+     "text": "• 03_Sign_Up_Empty — nothing entered\n• 03_Sign_Up_Filled — Agatha Bella · agbella@email.com · password entered (masked)"
+    },
+    {
+     "id": "4:43",
+     "name": "→ back → 03_Sign_Up_Filled → Send code → 05_Verify_Code",
+     "x": 740,
+     "y": 1322,
+     "text": "→ back → 03_Sign_Up_Filled\n→ Send code → 05_Verify_Code"
+    },
+    {
+     "id": "4:35",
+     "name": "LINKS",
+     "x": 80,
+     "y": 1374,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:36",
+     "name": "→ Continue (Filled) → 04_Verify_Phone",
+     "x": 80,
+     "y": 1401,
+     "text": "→ Continue (Filled) → 04_Verify_Phone"
+    },
+    {
+     "id": "4:45",
+     "name": "05_Verify_Code",
+     "x": 80,
+     "y": 1502,
+     "text": "05_Verify_Code"
+    },
+    {
+     "id": "4:52",
+     "name": "06_Welcome",
+     "x": 740,
+     "y": 1502,
+     "text": "06_Welcome"
+    },
+    {
+     "id": "4:46",
+     "name": "Goal: Confirm the phone with a 4-digit code.",
+     "x": 80,
+     "y": 1542,
+     "text": "Goal: Confirm the phone with a 4-digit code."
+    },
+    {
+     "id": "4:53",
+     "name": "Goal: Greet the new investor.",
+     "x": 740,
+     "y": 1542,
+     "text": "Goal: Greet the new investor."
+    },
+    {
+     "id": "4:47",
+     "name": "MUST INCLUDE",
+     "x": 80,
+     "y": 1573,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:54",
+     "name": "MUST INCLUDE",
+     "x": 740,
+     "y": 1573,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:48",
+     "name": "• Actions: back · Resend code · Verify account • Code: 4 digits · first digit entered: 2 • Copy: “Enter verification code” · “We have sent a verification code to your mobile number” • Number pad: 1–9, *, 0, delete",
+     "x": 80,
+     "y": 1600,
+     "text": "• Actions: back · Resend code · Verify account\n• Code: 4 digits · first digit entered: 2\n• Copy: “Enter verification code” · “We have sent a verification code to your mobile number”\n• Number pad: 1–9, *, 0, delete"
+    },
+    {
+     "id": "4:55",
+     "name": "• Actions: “I’m ready to start!” • Copy: “Hello Agatha Bella!” · “Welcome to StockWave” · “It’s great to have you here” • Media: Welcome_Hand",
+     "x": 740,
+     "y": 1600,
+     "text": "• Actions: “I’m ready to start!”\n• Copy: “Hello Agatha Bella!” · “Welcome to StockWave” · “It’s great to have you here”\n• Media: Welcome_Hand"
+    },
+    {
+     "id": "4:56",
+     "name": "LINKS",
+     "x": 740,
+     "y": 1673,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:57",
+     "name": "→ I’m ready to start! → 07_Home",
+     "x": 740,
+     "y": 1700,
+     "text": "→ I’m ready to start! → 07_Home"
+    },
+    {
+     "id": "4:49",
+     "name": "LINKS",
+     "x": 80,
+     "y": 1715,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:50",
+     "name": "→ back → 04_Verify_Phone → Verify account → 06_Welcome",
+     "x": 80,
+     "y": 1742,
+     "text": "→ back → 04_Verify_Phone\n→ Verify account → 06_Welcome"
+    },
+    {
+     "id": "4:59",
+     "name": "07_Home",
+     "x": 80,
+     "y": 1864,
+     "text": "07_Home"
+    },
+    {
+     "id": "4:66",
+     "name": "08_Portfolio",
+     "x": 740,
+     "y": 1864,
+     "text": "08_Portfolio"
+    },
+    {
+     "id": "4:60",
+     "name": "Goal: See portfolio value, markets and watched stocks at a glance.",
+     "x": 80,
+     "y": 1904,
+     "text": "Goal: See portfolio value, markets and watched stocks at a glance."
+    },
+    {
+     "id": "4:67",
+     "name": "Goal: Understand portfolio value and today’s gain and loss.",
+     "x": 740,
+     "y": 1904,
+     "text": "Goal: Understand portfolio value and today’s gain and loss."
+    },
+    {
+     "id": "4:61",
+     "name": "MUST INCLUDE",
+     "x": 80,
+     "y": 1935,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:68",
+     "name": "MUST INCLUDE",
+     "x": 740,
+     "y": 1935,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:62",
+     "name": "• Account: notifications entry • Brand: StockWave_Wordmark • Indices: S&P 500 (S&P · Standard & Poor’s) +49.50% · Dow Jones (DOW) +1.43% • Main navigation: current tab Home • Portfolio: “Portfolio value” $13,240.11 · show / hide value · 7-day trend line • Stocks: “Stocks” · 5 — NFLX · AAPL · FB · BAC · F — each with logo, ticker, company, price, daily change and trend line • Wishlist: “Wishlist” · add · 3 — AMZN · ADBE · FB — each with logo, ticker, company, daily change and trend line",
+     "x": 80,
+     "y": 1962,
+     "text": "• Account: notifications entry\n• Brand: StockWave_Wordmark\n• Indices: S&P 500 (S&P · Standard & Poor’s) +49.50% · Dow Jones (DOW) +1.43%\n• Main navigation: current tab Home\n• Portfolio: “Portfolio value” $13,240.11 · show / hide value · 7-day trend line\n• Stocks: “Stocks” · 5 — NFLX · AAPL · FB · BAC · F — each with logo, ticker, company, price, daily change and trend line\n• Wishlist: “Wishlist” · add · 3 — AMZN · ADBE · FB — each with logo, ticker, company, daily change and trend line"
+    },
+    {
+     "id": "4:69",
+     "name": "• Actions: back • Chart: portfolio value per day Mon–Sun (values in Fixed data) · highlighted: Sun $13,240.11 • Copy: “Portfolio” • Main navigation: current tab Portfolio • Portfolio: “Portfolio value” $13,240.11 · +1.53% today • Stocks: “Stocks” · NFLX · AAPL — each with logo, ticker, company, price, daily change and trend line • Today: Gain $234.11 · Loss $34.11",
+     "x": 740,
+     "y": 1962,
+     "text": "• Actions: back\n• Chart: portfolio value per day Mon–Sun (values in Fixed data) · highlighted: Sun $13,240.11\n• Copy: “Portfolio”\n• Main navigation: current tab Portfolio\n• Portfolio: “Portfolio value” $13,240.11 · +1.53% today\n• Stocks: “Stocks” · NFLX · AAPL — each with logo, ticker, company, price, daily change and trend line\n• Today: Gain $234.11 · Loss $34.11"
+    },
+    {
+     "id": "4:63",
+     "name": "LINKS",
+     "x": 80,
+     "y": 2161,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:70",
+     "name": "LINKS",
+     "x": 740,
+     "y": 2161,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:64",
+     "name": "→ Portfolio value → 08_Portfolio → NFLX → 09_Stock_Detail → tabs → 07 / 08 / 10 / 11",
+     "x": 80,
+     "y": 2188,
+     "text": "→ Portfolio value → 08_Portfolio\n→ NFLX → 09_Stock_Detail\n→ tabs → 07 / 08 / 10 / 11"
+    },
+    {
+     "id": "4:71",
+     "name": "→ back → 07_Home → NFLX → 09_Stock_Detail → tabs",
+     "x": 740,
+     "y": 2188,
+     "text": "→ back → 07_Home\n→ NFLX → 09_Stock_Detail\n→ tabs"
+    },
+    {
+     "id": "4:73",
+     "name": "09_Stock_Detail",
+     "x": 80,
+     "y": 2331,
+     "text": "09_Stock_Detail"
+    },
+    {
+     "id": "4:80",
+     "name": "10_Confirm_Order",
+     "x": 740,
+     "y": 2331,
+     "text": "10_Confirm_Order"
+    },
+    {
+     "id": "4:74",
+     "name": "Goal: Check one stock and start buying.",
+     "x": 80,
+     "y": 2371,
+     "text": "Goal: Check one stock and start buying."
+    },
+    {
+     "id": "4:81",
+     "name": "Goal: Review a buy order and choose how to pay.",
+     "x": 740,
+     "y": 2371,
+     "text": "Goal: Review a buy order and choose how to pay."
+    },
+    {
+     "id": "4:75",
+     "name": "MUST INCLUDE",
+     "x": 80,
+     "y": 2402,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:82",
+     "name": "MUST INCLUDE",
+     "x": 740,
+     "y": 2402,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:76",
+     "name": "• Actions: back · price alert entry · Buy stocks • Chart: NFLX price over the current range · highlighted point Sep 27 · $88.04 • Copy: “Stock Detail” • Financials: “Financials” · Revenue / Earnings / Performance · years 2018–2021 • Price: $88.91 · +$1.13 (+1.29%) today • Range: 1D / 1W / 1M / 1Y / 5Y / ALL · current: 1M • Stock: Logo_Netflix · NFLX · Netflix, Inc • View: Summary / Details · current: Details",
+     "x": 80,
+     "y": 2429,
+     "text": "• Actions: back · price alert entry · Buy stocks\n• Chart: NFLX price over the current range · highlighted point Sep 27 · $88.04\n• Copy: “Stock Detail”\n• Financials: “Financials” · Revenue / Earnings / Performance · years 2018–2021\n• Price: $88.91 · +$1.13 (+1.29%) today\n• Range: 1D / 1W / 1M / 1Y / 5Y / ALL · current: 1M\n• Stock: Logo_Netflix · NFLX · Netflix, Inc\n• View: Summary / Details · current: Details"
+    },
+    {
+     "id": "4:83",
+     "name": "• Actions: back · Confirm order • Copy: “Confirm Order” • Order: NFLX · Netflix, Inc · $88.91 · Funding source “Stockup” · Approx share price $88.91 · Approx shares 3 · Fee $2.10 · Total $268.83 • Payment method: “Payment method” · Debit Card “Deposit & Invest right from your debit card” (Icon_Card) · Apple Pay “Connect your Apple Pay account” (Icon_Apple_Pay) · only one can be chosen · none chosen yet",
+     "x": 740,
+     "y": 2429,
+     "text": "• Actions: back · Confirm order\n• Copy: “Confirm Order”\n• Order: NFLX · Netflix, Inc · $88.91 · Funding source “Stockup” · Approx share price $88.91 · Approx shares 3 · Fee $2.10 · Total $268.83\n• Payment method: “Payment method” · Debit Card “Deposit & Invest right from your debit card” (Icon_Card) · Apple Pay “Connect your Apple Pay account” (Icon_Apple_Pay) · only one can be chosen · none chosen yet"
+    },
+    {
+     "id": "4:84",
+     "name": "LINKS",
+     "x": 740,
+     "y": 2586,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:77",
+     "name": "LINKS",
+     "x": 80,
+     "y": 2607,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:85",
+     "name": "→ back → 09_Stock_Detail → Confirm order → 07_Home",
+     "x": 740,
+     "y": 2613,
+     "text": "→ back → 09_Stock_Detail\n→ Confirm order → 07_Home"
+    },
+    {
+     "id": "4:78",
+     "name": "→ back → 07_Home → Buy stocks → 10_Confirm_Order",
+     "x": 80,
+     "y": 2634,
+     "text": "→ back → 07_Home\n→ Buy stocks → 10_Confirm_Order"
+    },
+    {
+     "id": "4:87",
+     "name": "11_Profile",
+     "x": 80,
+     "y": 2756,
+     "text": "11_Profile"
+    },
+    {
+     "id": "4:88",
+     "name": "Goal: Identify the account and reach settings.",
+     "x": 80,
+     "y": 2796,
+     "text": "Goal: Identify the account and reach settings."
+    },
+    {
+     "id": "4:89",
+     "name": "MUST INCLUDE",
+     "x": 80,
+     "y": 2827,
+     "text": "MUST INCLUDE"
+    },
+    {
+     "id": "4:90",
+     "name": "• Account: Avatar_Neutral · Agatha Bella · agbella@email.com • Copy: “Profile” • Entries: Account · Billing / Payments · FAQ · Language (English) · Security · Settings • Invite: “Invite friends” · “Invite your friends and get $15” • Main navigation: current tab Profile",
+     "x": 80,
+     "y": 2854,
+     "text": "• Account: Avatar_Neutral · Agatha Bella · agbella@email.com\n• Copy: “Profile”\n• Entries: Account · Billing / Payments · FAQ · Language (English) · Security · Settings\n• Invite: “Invite friends” · “Invite your friends and get $15”\n• Main navigation: current tab Profile"
+    },
+    {
+     "id": "4:91",
+     "name": "LINKS",
+     "x": 80,
+     "y": 2969,
+     "text": "LINKS"
+    },
+    {
+     "id": "4:92",
+     "name": "→ tabs",
+     "x": 80,
+     "y": 2996,
+     "text": "→ tabs"
+    },
+    {
+     "id": "4:94",
+     "name": "Navigation structure",
+     "x": 56,
+     "y": 3089,
+     "text": "Navigation structure"
+    },
+    {
+     "id": "4:95",
+     "name": "• Onboarding: 01_Splash → 02_Onboarding → 03_Sign_Up_Empty → 03_Sign_Up_Filled → 04_Verify_Phone → 05_Verify_Code → 06_Welcome → 07_Home. • Main navigation on 07, 08, 11 — five tabs in this order: Home (Icon_Home) → 07 · Portfolio (Icon_Portfolio) → 08 · Trade (Icon_Trade) → 10 · Market (Icon_Market, entry only) · Profile (Icon_Profile) → 11. The current tab must match the frame. How it looks is yours. • Pushed screens with back: 04, 05, 08, 09, 10. 09 and 10 have no main navigation. • Entry only (no screen required): Sign in, social sign-up, Resend code, notifications, show / hide value, Wishlist add, price alert, Summary / Financials tabs, ranges, Stockup, Market tab, profile entries, Invite friends. • There is no sign-in, biometrics, PIN, password-reset or order-result screen — do not add frames beyond the 12.",
+     "x": 56,
+     "y": 3141,
+     "text": "• Onboarding: 01_Splash → 02_Onboarding → 03_Sign_Up_Empty → 03_Sign_Up_Filled → 04_Verify_Phone → 05_Verify_Code → 06_Welcome → 07_Home.\n• Main navigation on 07, 08, 11 — five tabs in this order: Home (Icon_Home) → 07 · Portfolio (Icon_Portfolio) → 08 · Trade (Icon_Trade) → 10 · Market (Icon_Market, entry only) · Profile (Icon_Profile) → 11. The current tab must match the frame. How it looks is yours.\n• Pushed screens with back: 04, 05, 08, 09, 10. 09 and 10 have no main navigation.\n• Entry only (no screen required): Sign in, social sign-up, Resend code, notifications, show / hide value, Wishlist add, price alert, Summary / Financials tabs, ranges, Stockup, Market tab, profile entries, Invite friends.\n• There is no sign-in, biometrics, PIN, password-reset or order-result screen — do not add frames beyond the 12."
+    },
+    {
+     "id": "4:97",
+     "name": "Fixed data & copy",
+     "x": 56,
+     "y": 3357,
+     "text": "Fixed data & copy"
+    },
+    {
+     "id": "4:98",
+     "name": "Use these values verbatim. “+” = up / gain, “−” = down / loss.",
+     "x": 56,
+     "y": 3409,
+     "text": "Use these values verbatim. “+” = up / gain, “−” = down / loss."
+    },
+    {
+     "id": "4:101",
+     "name": "User",
+     "x": 80,
+     "y": 3472,
+     "text": "User"
+    },
+    {
+     "id": "4:104",
+     "name": "Stocks (ticker · company · price · daily change · logo)",
+     "x": 740,
+     "y": 3472,
+     "text": "Stocks (ticker · company · price · daily change · logo)"
+    },
+    {
+     "id": "4:102",
+     "name": "Agatha Bella · agbella@email.com · +1 202 555 0147 · avatar = Avatar_Neutral Language English · currency USD · amounts with two decimals",
+     "x": 80,
+     "y": 3504,
+     "text": "Agatha Bella · agbella@email.com · +1 202 555 0147 · avatar = Avatar_Neutral\nLanguage English · currency USD · amounts with two decimals"
+    },
+    {
+     "id": "4:105",
+     "name": "NFLX · Netflix, Inc · $88.91 · +1.29% · Logo_Netflix AAPL · Apple, Inc · $142.65 · +0.81% · Logo_Apple FB · Facebook, Inc · $343.01 · +1.07% · Logo_Facebook BAC · Bank of America · $43.08 · +0.30% · Logo_Bank_of_America F · Ford Motor · $14.06 · −0.32% · no logo supplied",
+     "x": 740,
+     "y": 3504,
+     "text": "NFLX · Netflix, Inc · $88.91 · +1.29% · Logo_Netflix\nAAPL · Apple, Inc · $142.65 · +0.81% · Logo_Apple\nFB · Facebook, Inc · $343.01 · +1.07% · Logo_Facebook\nBAC · Bank of America · $43.08 · +0.30% · Logo_Bank_of_America\nF · Ford Motor · $14.06 · −0.32% · no logo supplied"
+    },
+    {
+     "id": "4:107",
+     "name": "Wishlist & indices",
+     "x": 80,
+     "y": 3689,
+     "text": "Wishlist & indices"
+    },
+    {
+     "id": "4:110",
+     "name": "Portfolio",
+     "x": 740,
+     "y": 3689,
+     "text": "Portfolio"
+    },
+    {
+     "id": "4:108",
+     "name": "Wishlist: AMZN · Amazon, Inc · −0.05% · Logo_Amazon / ADBE · Adobe, Inc · +0.32% · Logo_Adobe / FB · Facebook, Inc · +1.07% Indices: S&P 500 (S&P, Standard & Poor’s) +49.50% · Dow Jones (DOW) +1.43%",
+     "x": 80,
+     "y": 3721,
+     "text": "Wishlist: AMZN · Amazon, Inc · −0.05% · Logo_Amazon / ADBE · Adobe, Inc · +0.32% · Logo_Adobe / FB · Facebook, Inc · +1.07%\nIndices: S&P 500 (S&P, Standard & Poor’s) +49.50% · Dow Jones (DOW) +1.43%"
+    },
+    {
+     "id": "4:111",
+     "name": "Portfolio value $13,240.11 · +1.53% today Today: Gain $234.11 · Loss $34.11 Per day: Mon $12,240.11 · Tue $12,880.00 · Wed $12,460.00 · Thu $12,930.00 · Fri $13,160.00 · Sat $13,040.11 · Sun $13,240.11 Holdings shown: NFLX, AAPL",
+     "x": 740,
+     "y": 3721,
+     "text": "Portfolio value $13,240.11 · +1.53% today\nToday: Gain $234.11 · Loss $34.11\nPer day: Mon $12,240.11 · Tue $12,880.00 · Wed $12,460.00 · Thu $12,930.00 · Fri $13,160.00 · Sat $13,040.11 · Sun $13,240.11\nHoldings shown: NFLX, AAPL"
+    },
+    {
+     "id": "4:113",
+     "name": "Stock detail (NFLX)",
+     "x": 80,
+     "y": 3906,
+     "text": "Stock detail (NFLX)"
+    },
+    {
+     "id": "4:116",
+     "name": "Order",
+     "x": 740,
+     "y": 3906,
+     "text": "Order"
+    },
+    {
+     "id": "4:114",
+     "name": "$88.91 · +$1.13 (+1.29%) today · previous close $87.78 Range 1D 1W 1M 1Y 5Y ALL · current 1M · highlighted Sep 27 · $88.04 View Summary / Details · current Details Financials: Revenue / Earnings / Performance · 2018 2019 2020 2021",
+     "x": 80,
+     "y": 3938,
+     "text": "$88.91 · +$1.13 (+1.29%) today · previous close $87.78\nRange 1D 1W 1M 1Y 5Y ALL · current 1M · highlighted Sep 27 · $88.04\nView Summary / Details · current Details\nFinancials: Revenue / Earnings / Performance · 2018 2019 2020 2021"
+    },
+    {
+     "id": "4:117",
+     "name": "Buy NFLX · Netflix, Inc · $88.91 Funding source “Stockup” Approx share price $88.91 · Approx shares 3 · Fee $2.10 Total $268.83 (= 3 × $88.91 + $2.10) Payment method: Debit Card · Apple Pay — none chosen yet",
+     "x": 740,
+     "y": 3938,
+     "text": "Buy NFLX · Netflix, Inc · $88.91\nFunding source “Stockup”\nApprox share price $88.91 · Approx shares 3 · Fee $2.10\nTotal $268.83 (= 3 × $88.91 + $2.10)\nPayment method: Debit Card · Apple Pay — none chosen yet"
+    },
+    {
+     "id": "4:119",
+     "name": "Sign up & verification",
+     "x": 80,
+     "y": 4123,
+     "text": "Sign up & verification"
+    },
+    {
+     "id": "4:122",
+     "name": "Onboarding, welcome & profile",
+     "x": 740,
+     "y": 4123,
+     "text": "Onboarding, welcome & profile"
+    },
+    {
+     "id": "4:120",
+     "name": "“Join StockWave” · “Embark on your investment journey with a single dollar.” Username · Email · Password · Continue · “Or continue with” · Continue with Google · Continue with Apple · “Already have an account? Sign In” Phone: “Enter your phone number” · “You’ll receive a 4 digit code for the phone number verification” · Send code Code: “Enter verification code” · “We have sent a verification code to your mobile number” · Resend code · Verify account",
+     "x": 80,
+     "y": 4155,
+     "text": "“Join StockWave” · “Embark on your investment journey with a single dollar.”\nUsername · Email · Password · Continue · “Or continue with” · Continue with Google · Continue with Apple · “Already have an account? Sign In”\nPhone: “Enter your phone number” · “You’ll receive a 4 digit code for the phone number verification” · Send code\nCode: “Enter verification code” · “We have sent a verification code to your mobile number” · Resend code · Verify account"
+    },
+    {
+     "id": "4:123",
+     "name": "Onboarding: “Stock trading suite” · “Streamline your investment decisions with expert guidance.” · Skip · Sign in · Sign up Welcome: “Hello Agatha Bella!” · “Welcome to StockWave” · “It’s great to have you here” · “I’m ready to start!” Profile: Account · Security · Billing / Payments · Language: English · Settings · FAQ · Invite friends “Invite your friends and get $15”",
+     "x": 740,
+     "y": 4155,
+     "text": "Onboarding: “Stock trading suite” · “Streamline your investment decisions with expert guidance.” · Skip · Sign in · Sign up\nWelcome: “Hello Agatha Bella!” · “Welcome to StockWave” · “It’s great to have you here” · “I’m ready to start!”\nProfile: Account · Security · Billing / Payments · Language: English · Settings · FAQ · Invite friends “Invite your friends and get $15”"
+    },
+    {
+     "id": "4:125",
+     "name": "Source corrections",
+     "x": 80,
+     "y": 4382,
+     "text": "Source corrections"
+    },
+    {
+     "id": "4:126",
+     "name": "The source mixes the brand names Stockline / StockWave and the emails agbella@email.com / agbella@gmail.com, shows Bank of America prices on the Netflix detail, an order total that ignores share count and fee ($141.65, “$3.00” shares), a chart point ($29,140) and a daily return (+1.74%) that contradict the portfolio value and today’s $200.00 net gain, decimal commas and typos (“suit”, “Sent code”). Follow this brief, not the source.",
+     "x": 80,
+     "y": 4414,
+     "text": "The source mixes the brand names Stockline / StockWave and the emails agbella@email.com / agbella@gmail.com, shows Bank of America prices on the Netflix detail, an order total that ignores share count and fee ($141.65, “$3.00” shares), a chart point ($29,140) and a daily return (+1.74%) that contradict the portfolio value and today’s $200.00 net gain, decimal commas and typos (“suit”, “Sent code”). Follow this brief, not the source."
+    },
+    {
+     "id": "4:128",
+     "name": "What is fixed · what is yours",
+     "x": 56,
+     "y": 4612,
+     "text": "What is fixed · what is yours"
+    },
+    {
+     "id": "4:131",
+     "name": "Fixed (given)",
+     "x": 80,
+     "y": 4688,
+     "text": "Fixed (given)"
+    },
+    {
+     "id": "4:134",
+     "name": "Yours (designer decides)",
+     "x": 740,
+     "y": 4688,
+     "text": "Yours (designer decides)"
+    },
+    {
+     "id": "4:132",
+     "name": "• Frame list and exact names • Must-include content per frame (what, not how) • Navigation structure and links • All data and copy • Brand primary color + Inter • Media: StockWave logo, company logos, illustrations, icons, neutral avatar • Default Button, default Text Field, platform shell",
+     "x": 80,
+     "y": 4722,
+     "text": "• Frame list and exact names\n• Must-include content per frame (what, not how)\n• Navigation structure and links\n• All data and copy\n• Brand primary color + Inter\n• Media: StockWave logo, company logos, illustrations, icons, neutral avatar\n• Default Button, default Text Field, platform shell"
+    },
+    {
+     "id": "4:135",
+     "name": "• Layout, grouping, order and emphasis on every screen • All other colors: neutrals, text, surfaces, gain / loss, semantic and chart colors • Type scale, spacing, radii, elevation • All states: selected, pressed, disabled, filled, hidden value, chosen / not chosen • Headers, main navigation, number pad and all business components • Chart styling (trend lines, portfolio chart, price chart, financial bars)",
+     "x": 740,
+     "y": 4722,
+     "text": "• Layout, grouping, order and emphasis on every screen\n• All other colors: neutrals, text, surfaces, gain / loss, semantic and chart colors\n• Type scale, spacing, radii, elevation\n• All states: selected, pressed, disabled, filled, hidden value, chosen / not chosen\n• Headers, main navigation, number pad and all business components\n• Chart styling (trend lines, portfolio chart, price chart, financial bars)"
+    },
+    {
+     "id": "4:137",
+     "name": "How it is evaluated",
+     "x": 56,
+     "y": 4941,
+     "text": "How it is evaluated"
+    },
+    {
+     "id": "4:138",
+     "name": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference.",
+     "x": 56,
+     "y": 4993,
+     "text": "Your file is compared with the brief on coverage, data and flow — not on visual similarity to any reference."
+    },
+    {
+     "id": "4:139",
+     "name": "1. Checklist coverage per frame 2. Data & copy accuracy 3. Flow & prototype completeness 4. Information hierarchy 5. Visual quality & consistency of your own system 6. Component reuse 7. State design (current tabs and ranges, empty vs filled form, partial code, gain vs loss, unchosen payment method)",
+     "x": 56,
+     "y": 5032,
+     "text": "1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse\n7. State design (current tabs and ranges, empty vs filled form, partial code, gain vs loss, unchosen payment method)"
+    },
+    {
+     "id": "4:140",
+     "name": "Deliverable: the link to your own Figma file containing the 12 named frames, your components and the prototype.",
+     "x": 56,
+     "y": 5216,
+     "text": "Deliverable: the link to your own Figma file containing the 12 named frames, your components and the prototype."
+    }
+   ]
+  },
+  {
+   "page_id": "1:2",
+   "page_name": "01 · Foundations 视觉规范",
+   "texts": [
+    {
+     "id": "4:143",
+     "name": "STOCKWAVE · 01 FOUNDATIONS",
+     "x": 56,
+     "y": 56,
+     "text": "STOCKWAVE · 01 FOUNDATIONS"
+    },
+    {
+     "id": "4:144",
+     "name": "Foundations · StockWave",
+     "x": 56,
+     "y": 84,
+     "text": "Foundations · StockWave"
+    },
+    {
+     "id": "4:145",
+     "name": "Fixed: the brand primary color and the typeface below — they carry the StockWave identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, gain / loss and other semantic colors (error, warning, disabled), chart colors, type scale, weights per role, spacing, radii and elevation.",
+     "x": 56,
+     "y": 144,
+     "text": "Fixed: the brand primary color and the typeface below — they carry the StockWave identity. Everything else is yours to define and apply consistently: neutrals and grays, text colors, surfaces and backgrounds, gain / loss and other semantic colors (error, warning, disabled), chart colors, type scale, weights per role, spacing, radii and elevation."
+    },
+    {
+     "id": "4:147",
+     "name": "Brand color",
+     "x": 56,
+     "y": 249,
+     "text": "Brand color"
+    },
+    {
+     "id": "4:150",
+     "name": "Brand primary",
+     "x": 56,
+     "y": 422,
+     "text": "Brand primary"
+    },
+    {
+     "id": "4:151",
+     "name": "#3E52C1",
+     "x": 56,
+     "y": 447,
+     "text": "#3E52C1"
+    },
+    {
+     "id": "4:152",
+     "name": "The StockWave brand color. Where and how much to use it is your decision.",
+     "x": 56,
+     "y": 471,
+     "text": "The StockWave brand color. Where and how much to use it is your decision."
+    },
+    {
+     "id": "4:154",
+     "name": "Typeface",
+     "x": 56,
+     "y": 567,
+     "text": "Typeface"
+    },
+    {
+     "id": "4:155",
+     "name": "Inter",
+     "x": 56,
+     "y": 612,
+     "text": "Inter"
+    },
+    {
+     "id": "4:156",
+     "name": "Aa Bb Cc 0123456789 $13,240.11 +1.29%",
+     "x": 56,
+     "y": 667,
+     "text": "Aa Bb Cc 0123456789  $13,240.11  +1.29%"
+    },
+    {
+     "id": "4:157",
+     "name": "Use Inter for all UI text (Regular / Medium / Semi Bold / Bold available; it also replaces the unavailable SF Pro). The StockWave wordmark is supplied as an asset in 04 · Media — do not retype it.",
+     "x": 56,
+     "y": 710,
+     "text": "Use Inter for all UI text (Regular / Medium / Semi Bold / Bold available; it also replaces the unavailable SF Pro). The StockWave wordmark is supplied as an asset in 04 · Media — do not retype it."
+    },
+    {
+     "id": "4:158",
+     "name": "Canvas: 375 × 812 (iPhone). Light mode only. Long screens (Home, Portfolio, Stock Detail) may scroll vertically.",
+     "x": 56,
+     "y": 775,
+     "text": "Canvas: 375 × 812 (iPhone). Light mode only. Long screens (Home, Portfolio, Stock Detail) may scroll vertically."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,420 @@
+{
+  "board_count": 18,
+  "boards": [
+    {
+      "name": "01_Welcome",
+      "size": "375×812",
+      "nodes": 12,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×4",
+        "text×4",
+        "rectangle×2",
+        "frame×2"
+      ],
+      "names": [
+        "Photo_Welcome",
+        "Overlay",
+        "Overlay Bottom",
+        "Logo_Swoosh_White",
+        "Nike App",
+        "Bringing Nike Members th"
+      ]
+    },
+    {
+      "name": "02_Email_Sign_In",
+      "size": "375×812",
+      "nodes": 13,
+      "max_depth": 2,
+      "instances": 4,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "text×6",
+        "instance×4",
+        "rectangle×2",
+        "frame×1"
+      ],
+      "names": [
+        "Sign-in Sheet Header",
+        "Cancel",
+        "accounts.nike.com",
+        "Hairline",
+        "Logo_Swoosh_Black",
+        "Enter your email to join"
+      ]
+    },
+    {
+      "name": "03_Create_Member",
+      "size": "375×812",
+      "nodes": 31,
+      "max_depth": 2,
+      "instances": 8,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "frame×8",
+        "instance×8",
+        "rectangle×1"
+      ],
+      "names": [
+        "Sign-in Sheet Header",
+        "Cancel",
+        "accounts.nike.com",
+        "Hairline",
+        "Logo_Swoosh_Black",
+        "Now let's make you a Nik"
+      ]
+    },
+    {
+      "name": "04_Personalize_Intro",
+      "size": "375×812",
+      "nodes": 17,
+      "max_depth": 2,
+      "instances": 11,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "frame×2",
+        "rectangle×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Onboarding Progress",
+        "Track",
+        "Progress",
+        "Photo_Personalize_01"
+      ]
+    },
+    {
+      "name": "05_Products_You_Use",
+      "size": "375×812",
+      "nodes": 23,
+      "max_depth": 2,
+      "instances": 10,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×10",
+        "text×6",
+        "frame×5",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Onboarding Progress",
+        "Track",
+        "Progress",
+        "First up, which products"
+      ]
+    },
+    {
+      "name": "06_Shoe_Size",
+      "size": "375×812",
+      "nodes": 60,
+      "max_depth": 2,
+      "instances": 2,
+      "texts": 28,
+      "images": 0,
+      "types": [
+        "frame×28",
+        "text×28",
+        "instance×2",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Onboarding Progress",
+        "Track",
+        "Progress",
+        "What's your shoe size?"
+      ]
+    },
+    {
+      "name": "07_Interests",
+      "size": "375×812",
+      "nodes": 44,
+      "max_depth": 2,
+      "instances": 20,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "instance×20",
+        "frame×11",
+        "text×11",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Onboarding Progress",
+        "Track",
+        "Progress",
+        "Which sports are you int"
+      ]
+    },
+    {
+      "name": "08_Notifications",
+      "size": "375×812",
+      "nodes": 8,
+      "max_depth": 2,
+      "instances": 2,
+      "texts": 2,
+      "images": 0,
+      "types": [
+        "instance×2",
+        "frame×2",
+        "rectangle×2",
+        "text×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Onboarding Progress",
+        "Track",
+        "Progress",
+        "Stay in the know with no"
+      ]
+    },
+    {
+      "name": "09_Welcome_To_App",
+      "size": "375×812",
+      "nodes": 26,
+      "max_depth": 3,
+      "instances": 13,
+      "texts": 6,
+      "images": 0,
+      "types": [
+        "instance×13",
+        "frame×6",
+        "text×6",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Tab Bar",
+        "Hairline",
+        "Tab / Home",
+        "Icon"
+      ]
+    },
+    {
+      "name": "10_Home",
+      "size": "375×812",
+      "nodes": 32,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×10",
+        "frame×8",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Tab Bar",
+        "Hairline",
+        "Tab / Home",
+        "Icon"
+      ]
+    },
+    {
+      "name": "11_Discover",
+      "size": "375×812",
+      "nodes": 22,
+      "max_depth": 3,
+      "instances": 8,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×8",
+        "text×7",
+        "frame×6",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Tab Bar",
+        "Hairline",
+        "Tab / Home",
+        "Icon"
+      ]
+    },
+    {
+      "name": "12_Shop",
+      "size": "375×812",
+      "nodes": 32,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 10,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "text×10",
+        "frame×9",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Tab Bar",
+        "Hairline",
+        "Tab / Home",
+        "Icon"
+      ]
+    },
+    {
+      "name": "13_Best_Sellers",
+      "size": "375×812",
+      "nodes": 57,
+      "max_depth": 3,
+      "instances": 18,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "instance×18",
+        "frame×13",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Tab Bar",
+        "Hairline",
+        "Tab / Home",
+        "Icon"
+      ]
+    },
+    {
+      "name": "14_Jordan_Flight_Essentials",
+      "size": "375×812",
+      "nodes": 47,
+      "max_depth": 3,
+      "instances": 16,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "instance×16",
+        "frame×12",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Tab Bar",
+        "Hairline",
+        "Tab / Home",
+        "Icon"
+      ]
+    },
+    {
+      "name": "15_Product_Detail",
+      "size": "375×812",
+      "nodes": 33,
+      "max_depth": 3,
+      "instances": 12,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×12",
+        "frame×8",
+        "text×8",
+        "ellipse×3",
+        "rectangle×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Tab Bar",
+        "Hairline",
+        "Tab / Home",
+        "Icon"
+      ]
+    },
+    {
+      "name": "16_Style_Matching",
+      "size": "375×812",
+      "nodes": 50,
+      "max_depth": 3,
+      "instances": 17,
+      "texts": 22,
+      "images": 0,
+      "types": [
+        "text×22",
+        "instance×17",
+        "frame×10",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Tab Bar",
+        "Hairline",
+        "Tab / Home",
+        "Icon"
+      ]
+    },
+    {
+      "name": "17_Stores",
+      "size": "375×812",
+      "nodes": 30,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "text×11",
+        "instance×10",
+        "frame×8",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Tab Bar",
+        "Hairline",
+        "Tab / Home",
+        "Icon"
+      ]
+    },
+    {
+      "name": "18_Playlist_Story",
+      "size": "375×812",
+      "nodes": 27,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×8",
+        "frame×7",
+        "rectangle×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Tab Bar",
+        "Hairline",
+        "Tab / Home",
+        "Icon"
+      ]
+    }
+  ]
+}

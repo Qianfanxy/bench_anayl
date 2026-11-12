@@ -1,0 +1,115 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×5599",
+      "nodes": 105,
+      "max_depth": 6,
+      "instances": 41,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "frame×46",
+        "instance×41",
+        "text×18"
+      ],
+      "names": [
+        "Header",
+        "Featured Recipe",
+        "FeaturedCard",
+        "Content",
+        "HotRecipesBadge",
+        "Icon_Hot_Recipes"
+      ]
+    },
+    {
+      "name": "02_Recipe",
+      "size": "1440×3060",
+      "nodes": 143,
+      "max_depth": 8,
+      "instances": 21,
+      "texts": 47,
+      "images": 0,
+      "types": [
+        "frame×75",
+        "text×47",
+        "instance×21"
+      ],
+      "names": [
+        "Header",
+        "Title & Meta",
+        "TitleRow",
+        "Healthy Japanese Fried R",
+        "Actions",
+        "Action/PRINT"
+      ]
+    },
+    {
+      "name": "03_Blog",
+      "size": "1440×2336",
+      "nodes": 48,
+      "max_depth": 6,
+      "instances": 14,
+      "texts": 11,
+      "images": 0,
+      "types": [
+        "frame×23",
+        "instance×14",
+        "text×11"
+      ],
+      "names": [
+        "Header",
+        "Page Intro",
+        "IntroRow",
+        "Titles",
+        "Blog & Article",
+        "Recipes, kitchen tips an"
+      ]
+    },
+    {
+      "name": "04_Blog_Post",
+      "size": "1440×3503",
+      "nodes": 50,
+      "max_depth": 4,
+      "instances": 13,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "frame×19",
+        "text×18",
+        "instance×13"
+      ],
+      "names": [
+        "Header",
+        "Article Header",
+        "Full Guide to Becoming a",
+        "Byline",
+        "Avatar_Dianne_Russell",
+        "Dianne Russell"
+      ]
+    },
+    {
+      "name": "05_Contact",
+      "size": "1440×1894",
+      "nodes": 39,
+      "max_depth": 6,
+      "instances": 10,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "frame×17",
+        "text×12",
+        "instance×10"
+      ],
+      "names": [
+        "Header",
+        "Contact Form",
+        "FormRow",
+        "Form",
+        "Contact us",
+        "Field/NAME"
+      ]
+    }
+  ]
+}

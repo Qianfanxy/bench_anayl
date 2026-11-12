@@ -1,0 +1,252 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Splash",
+      "size": "414×932",
+      "nodes": 15,
+      "max_depth": 3,
+      "instances": 2,
+      "texts": 3,
+      "images": 1,
+      "types": [
+        "frame×6",
+        "text×3",
+        "ellipse×3",
+        "instance×2",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Frame",
+        "LogoTile",
+        "Paradise_Group_Logo",
+        "Wordmark",
+        "Sub"
+      ]
+    },
+    {
+      "name": "02_Welcome",
+      "size": "414×932",
+      "nodes": 11,
+      "max_depth": 2,
+      "instances": 3,
+      "texts": 3,
+      "images": 1,
+      "types": [
+        "frame×4",
+        "instance×3",
+        "text×3",
+        "rectangle-image×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Frame",
+        "Welcome_Illustration",
+        "Headline",
+        "Subhead",
+        "Btn_CreateAccount"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Empty",
+      "size": "414×932",
+      "nodes": 25,
+      "max_depth": 5,
+      "instances": 7,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "frame×11",
+        "instance×7",
+        "text×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Btn_Back",
+        "Icon / Back",
+        "Frame",
+        "Title"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Filled",
+      "size": "414×932",
+      "nodes": 25,
+      "max_depth": 5,
+      "instances": 7,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "frame×11",
+        "instance×7",
+        "text×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Btn_Back",
+        "Icon / Back",
+        "Frame",
+        "Title"
+      ]
+    },
+    {
+      "name": "03_Create_Account_Error",
+      "size": "414×932",
+      "nodes": 26,
+      "max_depth": 5,
+      "instances": 7,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "frame×11",
+        "text×8",
+        "instance×7"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Btn_Back",
+        "Icon / Back",
+        "Frame",
+        "Title"
+      ]
+    },
+    {
+      "name": "04_Home",
+      "size": "414×932",
+      "nodes": 40,
+      "max_depth": 6,
+      "instances": 15,
+      "texts": 7,
+      "images": 0,
+      "types": [
+        "instance×15",
+        "frame×15",
+        "text×7",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Btn_Menu",
+        "Icon / Menu",
+        "Frame",
+        "GreetHi"
+      ]
+    },
+    {
+      "name": "05_My_Asset_Overlay",
+      "size": "414×932",
+      "nodes": 64,
+      "max_depth": 6,
+      "instances": 24,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "instance×24",
+        "frame×19",
+        "text×13",
+        "rectangle×5",
+        "ellipse×3"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Btn_Menu",
+        "Icon / Menu",
+        "Frame",
+        "GreetHi"
+      ]
+    },
+    {
+      "name": "06_Notification",
+      "size": "414×932",
+      "nodes": 8,
+      "max_depth": 1,
+      "instances": 7,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×7",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Back",
+        "Notification",
+        "NotificationRow",
+        "Avatar"
+      ]
+    },
+    {
+      "name": "07_Profile",
+      "size": "414×932",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 9,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "instance×9",
+        "text×3",
+        "frame×2"
+      ],
+      "names": [
+        "Status Bar",
+        "Home Indicator",
+        "Profile",
+        "IdentityCard",
+        "Avatar",
+        "Jonas Macroni"
+      ]
+    },
+    {
+      "name": "08_Contact_Info",
+      "size": "414×932",
+      "nodes": 16,
+      "max_depth": 1,
+      "instances": 11,
+      "texts": 4,
+      "images": 0,
+      "types": [
+        "instance×11",
+        "text×4",
+        "ellipse×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Icon / Back",
+        "Contact info",
+        "Avatar",
+        "Ellipse",
+        "Icon / Edit"
+      ]
+    },
+    {
+      "name": "09_Bank_Account_Info",
+      "size": "414×932",
+      "nodes": 8,
+      "max_depth": 2,
+      "instances": 6,
+      "texts": 1,
+      "images": 0,
+      "types": [
+        "instance×6",
+        "frame×1",
+        "text×1"
+      ],
+      "names": [
+        "Status Bar",
+        "Header",
+        "Icon / Back",
+        "Bank account info",
+        "BankCard",
+        "Button"
+      ]
+    }
+  ]
+}
