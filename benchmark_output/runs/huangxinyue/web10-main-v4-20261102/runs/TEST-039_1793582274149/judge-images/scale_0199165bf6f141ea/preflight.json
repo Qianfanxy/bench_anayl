@@ -1,0 +1,61 @@
+{
+  "max_dimension": 8000,
+  "max_base64_bytes": 5000000,
+  "max_total_bytes": 25165824,
+  "images": [
+    {
+      "index": 1,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-039_1793582274149/figma-frames/10-28.png",
+      "source_sha256": "ae6947ebfb42a75925cbd1a8c63852cba7c93bb506db05d41d44c3eecf293cce",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-039_1793582274149/figma-frames/10-28.png",
+      "original_size": [
+        1240,
+        763
+      ],
+      "submitted_size": [
+        1240,
+        763
+      ],
+      "resized": false,
+      "original_bytes": 56068,
+      "submitted_bytes": 56068,
+      "submitted_base64_bytes": 74760
+    },
+    {
+      "index": 2,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-039_1793582274149/figma-frames/11-21.png",
+      "source_sha256": "8c6b127a9685cb0094d4d17e2610e3a8c334ef88c2107aa5f9cef1c3519904a8",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-039_1793582274149/figma-frames/11-21.png",
+      "original_size": [
+        1440,
+        2391
+      ],
+      "submitted_size": [
+        1440,
+        2391
+      ],
+      "resized": false,
+      "original_bytes": 113562,
+      "submitted_bytes": 113562,
+      "submitted_base64_bytes": 151416
+    },
+    {
+      "index": 3,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-039_1793582274149/figma-frames/12-81.png",
+      "source_sha256": "c2227fa7db61b9d6a58375f83129099bc392fdf8626f0b461cac09a734c1a11b",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-039_1793582274149/figma-frames/12-81.png",
+      "original_size": [
+        1440,
+        1784
+      ],
+      "submitted_size": [
+        1440,
+        1784
+      ],
+      "resized": false,
+      "original_bytes": 242579,
+      "submitted_bytes": 242579,
+      "submitted_base64_bytes": 323440
+    }
+  ]
+}

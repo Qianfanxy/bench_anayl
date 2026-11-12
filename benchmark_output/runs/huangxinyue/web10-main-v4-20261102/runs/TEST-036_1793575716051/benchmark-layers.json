@@ -1,0 +1,145 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "01_Dashboard",
+      "size": "1440×1024",
+      "nodes": 232,
+      "max_depth": 5,
+      "instances": 38,
+      "texts": 73,
+      "images": 0,
+      "types": [
+        "text×73",
+        "frame×51",
+        "vector×46",
+        "instance×38",
+        "ellipse×24"
+      ],
+      "names": [
+        "Nav Rail / Dashboard",
+        "Logo_Octom",
+        "Vector",
+        "OCTOM.",
+        "Nav Dashboard",
+        "Icon_Nav_Dashboard"
+      ]
+    },
+    {
+      "name": "02_Timeline",
+      "size": "1440×1024",
+      "nodes": 197,
+      "max_depth": 4,
+      "instances": 40,
+      "texts": 63,
+      "images": 0,
+      "types": [
+        "text×63",
+        "frame×44",
+        "vector×43",
+        "instance×40",
+        "ellipse×7"
+      ],
+      "names": [
+        "Nav Rail / Timeline",
+        "Logo_Octom",
+        "Vector",
+        "OCTOM.",
+        "Nav Dashboard",
+        "Icon_Nav_Dashboard"
+      ]
+    },
+    {
+      "name": "03_Task_Board",
+      "size": "1440×1024",
+      "nodes": 271,
+      "max_depth": 5,
+      "instances": 83,
+      "texts": 79,
+      "images": 0,
+      "types": [
+        "instance×83",
+        "text×79",
+        "vector×73",
+        "frame×36"
+      ],
+      "names": [
+        "Nav Rail / Task",
+        "Logo_Octom",
+        "Vector",
+        "OCTOM.",
+        "Nav Dashboard",
+        "Icon_Nav_Dashboard"
+      ]
+    },
+    {
+      "name": "04_Files",
+      "size": "1440×1024",
+      "nodes": 222,
+      "max_depth": 4,
+      "instances": 39,
+      "texts": 51,
+      "images": 0,
+      "types": [
+        "vector×79",
+        "frame×53",
+        "text×51",
+        "instance×39"
+      ],
+      "names": [
+        "Nav Rail / Files",
+        "Logo_Octom",
+        "Vector",
+        "OCTOM.",
+        "Nav Dashboard",
+        "Icon_Nav_Dashboard"
+      ]
+    },
+    {
+      "name": "05_Settings",
+      "size": "1440×1024",
+      "nodes": 84,
+      "max_depth": 4,
+      "instances": 18,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "vector×23",
+        "frame×19",
+        "instance×18"
+      ],
+      "names": [
+        "Nav Rail / Settings",
+        "Logo_Octom",
+        "Vector",
+        "OCTOM.",
+        "Nav Dashboard",
+        "Icon_Nav_Dashboard"
+      ]
+    },
+    {
+      "name": "06_Messages",
+      "size": "1440×1024",
+      "nodes": 197,
+      "max_depth": 4,
+      "instances": 55,
+      "texts": 72,
+      "images": 0,
+      "types": [
+        "text×72",
+        "instance×55",
+        "vector×44",
+        "frame×26"
+      ],
+      "names": [
+        "Nav Rail / Messages",
+        "Logo_Octom",
+        "Vector",
+        "OCTOM.",
+        "Nav Dashboard",
+        "Icon_Nav_Dashboard"
+      ]
+    }
+  ]
+}

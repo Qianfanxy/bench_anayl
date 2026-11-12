@@ -1,0 +1,476 @@
+{
+  "file_key": "dRsEGioair7msWalXvYbYc",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "11:2",
+      "name": "03 · Workspace",
+      "child_count": 35
+    }
+  ],
+  "workspace": {
+    "id": "11:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "13:2",
+        "name": "Badge / Discount",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": -3400,
+        "width": 86,
+        "height": 28,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:6",
+        "name": "Badge / Fast",
+        "type": "COMPONENT",
+        "x": 134,
+        "y": -3400,
+        "width": 67,
+        "height": 28,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:11",
+        "name": "Rating / Star",
+        "type": "COMPONENT",
+        "x": 249,
+        "y": -3400,
+        "width": 37,
+        "height": 18,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:15",
+        "name": "Status / Open Now",
+        "type": "COMPONENT",
+        "x": 334,
+        "y": -3400,
+        "width": 74,
+        "height": 16,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:18",
+        "name": "Status / Opens Tomorrow",
+        "type": "COMPONENT",
+        "x": 456,
+        "y": -3400,
+        "width": 111,
+        "height": 16,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:21",
+        "name": "Mark / Initials",
+        "type": "COMPONENT",
+        "x": 615,
+        "y": -3400,
+        "width": 44,
+        "height": 44,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:23",
+        "name": "Link / Arrow",
+        "type": "COMPONENT",
+        "x": 707,
+        "y": -3400,
+        "width": 75,
+        "height": 19,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:27",
+        "name": "Button / Primary Search",
+        "type": "COMPONENT",
+        "x": 830,
+        "y": -3400,
+        "width": 156,
+        "height": 56,
+        "render_bounds": {
+          "width": 188,
+          "height": 88
+        },
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:32",
+        "name": "Button / Primary Search · Hover",
+        "type": "COMPONENT",
+        "x": 1034,
+        "y": -3400,
+        "width": 156,
+        "height": 56,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:37",
+        "name": "Button / Primary Search · Disabled",
+        "type": "COMPONENT",
+        "x": 1238,
+        "y": -3400,
+        "width": 156,
+        "height": 56,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:42",
+        "name": "Button / Secondary Chevron",
+        "type": "COMPONENT",
+        "x": 1442,
+        "y": -3400,
+        "width": 204,
+        "height": 56,
+        "render_bounds": {
+          "width": 236,
+          "height": 88
+        },
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:46",
+        "name": "Button / Small",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": -3248,
+        "width": 93,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:48",
+        "name": "Field / Search",
+        "type": "COMPONENT",
+        "x": 141,
+        "y": -3248,
+        "width": 360,
+        "height": 48,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:53",
+        "name": "Field / Address",
+        "type": "COMPONENT",
+        "x": 549,
+        "y": -3248,
+        "width": 182,
+        "height": 56,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:57",
+        "name": "Field / Address · Focused",
+        "type": "COMPONENT",
+        "x": 779,
+        "y": -3248,
+        "width": 184,
+        "height": 56,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:61",
+        "name": "Tab / Delivery · Current",
+        "type": "COMPONENT",
+        "x": 1011,
+        "y": -3248,
+        "width": 230,
+        "height": 48,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:67",
+        "name": "Tab / Pickup · Idle",
+        "type": "COMPONENT",
+        "x": 1289,
+        "y": -3248,
+        "width": 230,
+        "height": 48,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:72",
+        "name": "Icon Button / Prev",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": -3104,
+        "width": 48,
+        "height": 48,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:75",
+        "name": "Icon Button / Next",
+        "type": "COMPONENT",
+        "x": 96,
+        "y": -3104,
+        "width": 48,
+        "height": 48,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:25",
+        "name": "Card / Discount",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": -2300,
+        "width": 302,
+        "height": 160,
+        "render_bounds": {
+          "width": 366,
+          "height": 225
+        },
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:31",
+        "name": "Card / Deal",
+        "type": "COMPONENT",
+        "x": 358,
+        "y": -2300,
+        "width": 406,
+        "height": 325,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:39",
+        "name": "Card / Restaurant",
+        "type": "COMPONENT",
+        "x": 820,
+        "y": -2300,
+        "width": 304,
+        "height": 260,
+        "render_bounds": {
+          "width": 368,
+          "height": 324
+        },
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:63",
+        "name": "Card / Item",
+        "type": "COMPONENT",
+        "x": 1180,
+        "y": -2300,
+        "width": 232,
+        "height": 268,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:74",
+        "name": "Tile / Category",
+        "type": "COMPONENT",
+        "x": 1468,
+        "y": -2300,
+        "width": 132,
+        "height": 168,
+        "render_bounds": {
+          "width": 144,
+          "height": 174
+        },
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:77",
+        "name": "Card / Step · Select location",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": -2090,
+        "width": 142,
+        "height": 186,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:84",
+        "name": "Card / Step · Choose order",
+        "type": "COMPONENT",
+        "x": 198,
+        "y": -2090,
+        "width": 130,
+        "height": 228,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:91",
+        "name": "Card / Step · Pay advanced",
+        "type": "COMPONENT",
+        "x": 384,
+        "y": -2090,
+        "width": 133,
+        "height": 207,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:98",
+        "name": "Card / Step · Enjoy meals",
+        "type": "COMPONENT",
+        "x": 573,
+        "y": -2090,
+        "width": 120,
+        "height": 207,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:105",
+        "name": "Feature / Daily Discounts",
+        "type": "COMPONENT",
+        "x": 749,
+        "y": -2090,
+        "width": 208,
+        "height": 56,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:113",
+        "name": "Feature / Live Tracking",
+        "type": "COMPONENT",
+        "x": 1013,
+        "y": -2090,
+        "width": 189,
+        "height": 56,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:119",
+        "name": "Feature / Quick Delivery",
+        "type": "COMPONENT",
+        "x": 1258,
+        "y": -2090,
+        "width": 201,
+        "height": 56,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "17:126",
+        "name": "Hero / Search Card",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": -1924,
+        "width": 560,
+        "height": 168,
+        "render_bounds": {
+          "width": 624,
+          "height": 232
+        },
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "18:74",
+        "name": "Header / Main",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": -1500,
+        "width": 1920,
+        "height": 96,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "18:94",
+        "name": "Footer / Main",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": -1350,
+        "width": 1920,
+        "height": 745,
+        "text_count": 45,
+        "reaction_count": 0
+      },
+      {
+        "id": "19:93",
+        "name": "01_Home",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 4977,
+        "text_count": 164,
+        "reaction_count": 0
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nFoodWagon — food delivery landing page\nDesign the landing page of a food delivery service: search by address, browse deals, popular dishes and featured restaurants, learn how it works and get the app. Desktop web, 1920 wide, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 1 frame below, named exactly as listed. It is a single landing page, so there is no prototype to wire.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the logo, the photos, the app mockup, the store badges, the social logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrame · goal · must include\nThe frame name is fixed. The must-include list is grouped by subject and sorted A–Z: it states what is on the page, never where it goes or how it looks.\n01_Home\nGoal: Find food near you and decide where to order from.\nMUST INCLUDE\n• App promo: “Install the app” · “It’s never been easier to order food. Look for the finest discounts and you’ll be lost in a world of delectable food.” · Image_App_Mockup · Badge_App_Store · Badge_Google_Play\n• Call to action: Photo_CTA_Background · “Are you ready to order with the best deals?” · “Proceed to order” (Icon_Chevron_Right)\n• Deals: 3 promo blocks, each with title, copy, “Proceed to order” (Icon_Chevron_Right) and photo (see DATA)\n• Discounts: 4 discount cards, each with photo, percent “Off”, dish name and days remaining (see DATA)\n• Featured Restaurants: “Featured Restaurants” · 8 restaurant cards, each with photo, discount badge (Icon_Tag), “Fast” badge (Icon_Clock), logo mark with the restaurant’s initials, name, rating (Icon_Star) and open status (see DATA) · “View All” (Icon_Chevron_Right)\n• Features: Daily Discounts (Icon_Discount) · Live Tracking (Icon_Tracking) · Quick Delivery (Icon_Quick_Delivery)\n• Footer: see DATA (Footer)\n• Header: Logo_FoodWagon · “Deliver to:” (Icon_Map_Marker) · “Current Location” · “Mohammadpur Bus Stand, Dhaka” · “Search Food” (Icon_Search) · “Login” (Icon_User)\n• Hero: Photo_Hero_Background · Photo_Hero_Noodles · “Are you starving?” · “Within a few clicks, find meals that are accessible near you” · tabs Delivery (Icon_Motorcycle) · Pickup (Icon_Shopping_Bag) · current: Delivery · address field “Enter Your Address” (Icon_Map_Marker) · “Find Food” (Icon_Search)\n• How it works: “How does it work” · 4 steps, each with icon, title and text (see DATA)\n• Popular items: “Popular items” · previous / next (Icon_Chevron_Left, Icon_Chevron_Right) · 5 item cards, each with photo, name, restaurant (Icon_Map_Marker), price and “Order Now” (see DATA)\n• Search by Food: “Search by Food” · “View All” (Icon_Chevron_Right) · previous / next (Icon_Chevron_Left, Icon_Chevron_Right) · Pizza · Burger · Noodles · Sub-sandwich · Chowmein · Steak, each with its photo (Photo_Food_Pizza … Photo_Food_Steak)\nLINKS\nSingle-page task: no links between frames. Every button and link is entry only.\nNavigation structure\n• One frame. The header and footer are part of it.\n• Entry only (no frame): location, Search Food, Login, Delivery / Pickup, Find Food, discount cards, Order Now, carousel arrows, restaurant cards, View All, food categories, store badges, Proceed to order, city links, footer links, Subscribe, social logos.\nFixed data & copy\nUse these values verbatim.\nDiscounts (in order)\n15% Off · Spring Salad · 6 Days Remaining (Photo_Discount_1)\n10% Off · Farfalle Salad · 6 Days Remaining (Photo_Discount_2)\n25% Off · Buddha Bowl · 7 Days Remaining (Photo_Discount_3)\n20% Off · Red Curry Soup · 8 Days Remaining (Photo_Discount_4)\nHow does it work (in order)\nSelect location (Icon_Step_Location) — Choose the location where your food will be delivered.\nChoose order (Icon_Step_Order) — Check over hundreds of menus to pick your favorite food.\nPay advanced (Icon_Step_Payment) — It’s quick, safe, and simple. Select several methods of payment.\nEnjoy meals (Icon_Step_Enjoy) — Food is made and delivered directly to your home.\nPopular items (in order)\nCheese Burger · Burger Arena · $3.88 (Photo_Cheese_Burger)\nToffee’s Cake · Top Sticks · $4.00 (Photo_Toffee_Cake)\nPancake · Cake World · $1.99 (Photo_Pancake)\nCrispy Sandwich · Fastfood Dine · $3.00 (Photo_Crispy_Sandwich)\nThai Soup · Foody man · $2.79 (Photo_Thai_Soup)\nFeatured Restaurants (in order; all “Fast”)\nFoodworld · 20% off · ★ 46 · Opens tomorrow (Photo_Foodworld)\nPizzahub · 15% off · ★ 40 · Opens tomorrow (Photo_Pizzahub)\nDonuts Hut · 10% off · ★ 20 · Open Now (Photo_Donuts_Hut)\nCupcake Corner · 15% off · ★ 50 · Open Now (Photo_Cupcake_Corner)\nRuby Grill · 10% off · ★ 26 · Open Now (Photo_Ruby_Grill)\nKuakata Fried Chicken · 25% off · ★ 53 · Open Now (Photo_Kuakata_Fried_Chicken)\nRed Square · 10% off · ★ 45 · Open Now (Photo_Red_Square)\nTaco Bay · 10% off · ★ 35 · Open Now (Photo_Taco_Bay)\nDeals (in order)\nBest deals Crispy Sandwiches — Enjoy the large size of sandwiches. Complete perfect slice of sandwiches. (Photo_Promo_Sandwiches)\nCelebrate parties with Fried Chicken — Get the best fried chicken smeared with a lip smacking lemon chili flavor. Check out best deals for fried chicken. (Photo_Promo_Fried_Chicken)\nWanna eat hot & spicy Pizza? — Pair up with a friend and enjoy the hot and crispy pizza pops. Try it with the best deals. (Photo_Promo_Pizza)\nFooter\nOur top cities: San Francisco · Los Angeles · New York City · Chicago · Columbus · Miami · Washington DC · Orange County · Phoenix · New Mexico · San Diego · Seattle · Atlanta · Las Vegas · Albuquerque · East Bay · Portland · Charlotte · Sacramento · Long Beach · Nashville · Denver · Oklahoma City · New Orleans\nCompany: About us · Team · Careers · Blog\nContact: Help & Support · Partner with us · Ride with us\nLegal: Terms & Conditions · Refund & Cancellation · Privacy Policy · Cookie Policy\nFollow Us: Logo_Instag",
+  "layer_summary": {
+    "board_count": 1,
+    "boards": [
+      {
+        "name": "01_Home",
+        "size": "1920×4977",
+        "nodes": 543,
+        "max_depth": 10,
+        "instances": 144,
+        "texts": 164,
+        "images": 0,
+        "types": [
+          "text×164",
+          "instance×144",
+          "frame×141",
+          "vector×84",
+          "ellipse×9",
+          "rectangle×1"
+        ],
+        "names": [
+          "Header",
+          "Logo_FoodWagon",
+          "DeliverTo",
+          "Icon_Map_Marker",
+          "Vector",
+          "LocText"
+        ]
+      }
+    ]
+  }
+}

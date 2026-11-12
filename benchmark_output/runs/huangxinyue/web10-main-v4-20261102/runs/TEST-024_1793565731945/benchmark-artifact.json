@@ -1,0 +1,197 @@
+{
+  "file_key": "fpL5izeAHRNlVGSdWNFooV",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "6:2",
+      "name": "03 · Workspace",
+      "child_count": 5
+    }
+  ],
+  "workspace": {
+    "id": "6:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "9:2",
+        "name": "Components · Core",
+        "type": "FRAME",
+        "x": 0,
+        "y": -3000,
+        "width": 3400,
+        "height": 2200,
+        "text_count": 123,
+        "reaction_count": 0
+      },
+      {
+        "id": "28:1206",
+        "name": "01_Home",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 4160,
+        "text_count": 95,
+        "reaction_count": 16
+      },
+      {
+        "id": "28:1721",
+        "name": "02_Category",
+        "type": "FRAME",
+        "x": 1560,
+        "y": 0,
+        "width": 1440,
+        "height": 2450,
+        "text_count": 112,
+        "reaction_count": 11
+      },
+      {
+        "id": "29:1118",
+        "name": "03_Product",
+        "type": "FRAME",
+        "x": 3120,
+        "y": 0,
+        "width": 1440,
+        "height": 3370,
+        "text_count": 96,
+        "reaction_count": 2
+      },
+      {
+        "id": "29:1726",
+        "name": "04_Cart",
+        "type": "FRAME",
+        "x": 4680,
+        "y": 0,
+        "width": 1440,
+        "height": 1600,
+        "text_count": 65,
+        "reaction_count": 2
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nSHOP.CO — fashion store website\nDesign a fashion e-commerce website: discover new arrivals and best sellers, filter a category, review a product and its customer reviews, and check the cart. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the two typefaces in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the photos, the social and payment logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Home\nGoal: Get inspired and find something to buy.\nMUST INCLUDE\n• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Brands: NORDE · ATELIER K · MONVALE · RIVA · CASSEL (as wordmarks)\n• Browse by dress style: “BROWSE BY DRESS STYLE” · Casual · Formal · Party · Gym, each with its photo (Photo_Style_Casual, Photo_Style_Formal, Photo_Style_Party, Photo_Style_Gym)\n• Customer reviews: “OUR HAPPY CUSTOMERS” · previous / next (Icon_Arrow_Left, Icon_Arrow_Right) · 3 review cards with 5-star rating, name, verified mark (Icon_Verified) and quote (see DATA)\n• Footer: see DATA (Footer)\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · no item current · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Hero: “FIND CLOTHES THAT MATCH YOUR STYLE” · copy (see DATA) · “Shop Now” · stats 200+ International Brands · 2,000+ High-Quality Products · 30,000+ Happy Customers · Photo_Hero · two Icon_Sparkle\n• New Arrivals: “NEW ARRIVALS” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA) · “View All”\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Top Selling: “TOP SELLING” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA) · “View All”\nLINKS\n→ Shop Now, View All, Casual tile → 02_Category\n→ any product card → 03_Product\n→ cart (header) → 04_Cart\n02_Category\nGoal: Filter the Casual category and pick a product.\nMUST INCLUDE\n• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Breadcrumb: Home › Casual (Icon_Chevron_Right)\n• Filters: “Filters” (Icon_Filter) · T-shirts · Shorts · Shirts · Hoodie · Jeans (Icon_Chevron_Right) · “Price” range $50 – $200 · “Colors” 10 swatches (see DATA) · selected: blue (Icon_Check) · “Size” XX-Small · X-Small · Small · Medium · Large · X-Large · XX-Large · 3X-Large · 4X-Large · selected: Large · “Dress Style” Casual · Formal · Party · Gym (Icon_Chevron_Right) · “Apply Filter”\n• Footer: see DATA (Footer)\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · current: Shop · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Pagination: “Previous” (Icon_Arrow_Left) · 1 · 2 · 3 · … · 8 · 9 · 10 · “Next” (Icon_Arrow_Right) · current: 1\n• Products: 9 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA)\n• Results header: “Casual” · “Showing 1-9 of 100 Products” · “Sort by: Most Popular” (Icon_Chevron_Down)\nLINKS\n→ any product card → 03_Product\n→ Home (breadcrumb) → 01_Home\n→ cart (header) → 04_Cart\n03_Product\nGoal: Choose color and size, read reviews and add the T-shirt to the cart.\nMUST INCLUDE\n• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Breadcrumb: Home › Shop › Men › T-shirts (Icon_Chevron_Right)\n• Footer: see DATA (Footer)\n• Gallery: Photo_One_Life_TShirt_1 (main) · thumbnails Photo_One_Life_TShirt_1, Photo_One_Life_TShirt_2, Photo_One_Life_TShirt_3 · selected: the first\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · current: Shop · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Options: “Select Colors” olive · teal · navy (see DATA) · selected: olive (Icon_Check) · “Choose Size” Small · Medium · Large · X-Large · selected: Large\n• Purchase: quantity − 1 + (Icon_Minus, Icon_Plus) · “Add to Cart”\n• Reviews: “All Reviews” (451) · filter (Icon_Filter) · sort “Latest” (Icon_Chevron_Down) · “Write a Review” · 6 review cards with rating, name, verified mark (Icon_Verified), more (Icon_More), quote and post date (see DATA) · “Load More Reviews”\n• Summary: “ONE LIFE GRAPHIC T-SHIRT” · rating 4.5/5 (Icon_Star, Icon_Star_Half) · $260 · old $300 · -13% · description (see DATA)\n• Tabs: Product Details · Rating & Reviews · FAQs · current: Rating & Reviews\n• You might also like: “YOU MIGHT ALSO LIKE” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA)\nLINKS\n→ Add to Cart → 04_Cart\n→ Shop (breadcrumb) → 02_Category\n→ product cards → 03_Product\n04_Cart\nGoal: Review the cart and its order summary.\nMUST INCLUDE\n• Announcement bar: “Sign up and get 20% off to your first order.” ·",
+  "layer_summary": {
+    "board_count": 4,
+    "boards": [
+      {
+        "name": "01_Home",
+        "size": "1440×4160",
+        "nodes": 470,
+        "max_depth": 6,
+        "instances": 172,
+        "texts": 95,
+        "images": 13,
+        "types": [
+          "instance×172",
+          "vector×104",
+          "text×95",
+          "frame×55",
+          "rectangle×16",
+          "rectangle-image×13"
+        ],
+        "names": [
+          "Announcement Bar",
+          "Message",
+          "Link",
+          "Icon/Close",
+          "Icon_Close",
+          "Vector"
+        ]
+      },
+      {
+        "name": "02_Category",
+        "size": "1440×2450",
+        "nodes": 507,
+        "max_depth": 6,
+        "instances": 170,
+        "texts": 112,
+        "images": 9,
+        "types": [
+          "instance×170",
+          "text×112",
+          "vector×109",
+          "frame×84",
+          "rectangle×11",
+          "rectangle-image×9"
+        ],
+        "names": [
+          "Announcement Bar",
+          "Message",
+          "Link",
+          "Icon/Close",
+          "Icon_Close",
+          "Vector"
+        ]
+      },
+      {
+        "name": "03_Product",
+        "size": "1440×3370",
+        "nodes": 511,
+        "max_depth": 6,
+        "instances": 202,
+        "texts": 96,
+        "images": 8,
+        "types": [
+          "instance×202",
+          "vector×132",
+          "text×96",
+          "frame×49",
+          "ellipse×9",
+          "group×9"
+        ],
+        "names": [
+          "Announcement Bar",
+          "Message",
+          "Link",
+          "Icon/Close",
+          "Icon_Close",
+          "Vector"
+        ]
+      },
+      {
+        "name": "04_Cart",
+        "size": "1440×1600",
+        "nodes": 216,
+        "max_depth": 6,
+        "instances": 51,
+        "texts": 65,
+        "images": 3,
+        "types": [
+          "text×65",
+          "vector×55",
+          "instance×51",
+          "frame×28",
+          "group×9",
+          "ellipse×3"
+        ],
+        "names": [
+          "Announcement Bar",
+          "Message",
+          "Link",
+          "Icon/Close",
+          "Icon_Close",
+          "Vector"
+        ]
+      }
+    ]
+  }
+}

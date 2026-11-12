@@ -1,0 +1,18 @@
+{
+  "kind": "benchmark-capture-snapshot/v1",
+  "at": "2026-11-01T22:38:52.381906+00:00",
+  "source_files": [
+    {
+      "name": "trace.sqlite3",
+      "bytes": 20647936,
+      "sha256": "feb20ade141ac29487bed3c5f735b3ee5276eb6d7ba98861eea220e49fa3973b"
+    }
+  ],
+  "snapshot_file": "bd22d29518a022b76d4431267e37ca2ef2de92be073f8d401d27f9a1f2a0e4a4.sqlite3",
+  "snapshot_sha256": "bd22d29518a022b76d4431267e37ca2ef2de92be073f8d401d27f9a1f2a0e4a4",
+  "records": 105,
+  "capture_format": "claude-tap-sqlite/v1",
+  "quick_check": "ok",
+  "shm_rebuilt_locally": true,
+  "source_preserved": true
+}

@@ -1,0 +1,67 @@
+{
+  "kind": "benchmark-legacy-media-audit/v1",
+  "checked_at": "2026-11-01T23:28:19.397128+00:00",
+  "raw_audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/c2ce794ce7ba6b60ad5ab9cddf466baaaaf5b2d09570746b1ea7f81e15f75daa.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/c1e28ecdf33a8c9adda786aa511446de0a41c2c91eda5bb6b6d4651b0e55a2f7.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/0ddb281b7027fb122b8d9e357a91dcdd39a2246ce853d6af10a5fb8e96afdb39.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/4eae07b86d9a55b0c8802048483bb9989d8475882728fd8effb8001936d5459e.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/4eae07b86d9a55b0c8802048483bb9989d8475882728fd8effb8001936d5459e.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/46b1f0c2a220571221b74eaabf94682fa755c1416df3116cead60ed75a56ac50.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/46b1f0c2a220571221b74eaabf94682fa755c1416df3116cead60ed75a56ac50.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/d124d0369c8bbad79bf40ba3fc68bf1ca335c0620a1bf50de15d67b017455ba4.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/39e8cec454a013e8512b4970f9a0689f4da1836a47abdb7dda74a13ee4852134.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/46b1f0c2a220571221b74eaabf94682fa755c1416df3116cead60ed75a56ac50.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/46b1f0c2a220571221b74eaabf94682fa755c1416df3116cead60ed75a56ac50.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/1a0d67e174bc394d18c79b6fa30f30111f248e1ffebfea70b2f0802f5f7cbeaf.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/2254c37e604bc1b69f6b73f7b2bb40109e31218ab610c5eaed88797831b6890c.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/d782932d6fce8349a207c42961a9a8227e568e9ad514050dcb9f99909fb80c69.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/fb91a8bc8425eda86b74eb4671b2786cc7b63a2a4fa98d58b60c0353960ed2d7.jpg"
+    ],
+    "require_prototype": false
+  },
+  "audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/c2ce794ce7ba6b60ad5ab9cddf466baaaaf5b2d09570746b1ea7f81e15f75daa.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/c1e28ecdf33a8c9adda786aa511446de0a41c2c91eda5bb6b6d4651b0e55a2f7.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/0ddb281b7027fb122b8d9e357a91dcdd39a2246ce853d6af10a5fb8e96afdb39.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/4eae07b86d9a55b0c8802048483bb9989d8475882728fd8effb8001936d5459e.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/4eae07b86d9a55b0c8802048483bb9989d8475882728fd8effb8001936d5459e.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/46b1f0c2a220571221b74eaabf94682fa755c1416df3116cead60ed75a56ac50.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/46b1f0c2a220571221b74eaabf94682fa755c1416df3116cead60ed75a56ac50.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/d124d0369c8bbad79bf40ba3fc68bf1ca335c0620a1bf50de15d67b017455ba4.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/39e8cec454a013e8512b4970f9a0689f4da1836a47abdb7dda74a13ee4852134.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/46b1f0c2a220571221b74eaabf94682fa755c1416df3116cead60ed75a56ac50.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/46b1f0c2a220571221b74eaabf94682fa755c1416df3116cead60ed75a56ac50.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/1a0d67e174bc394d18c79b6fa30f30111f248e1ffebfea70b2f0802f5f7cbeaf.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/2254c37e604bc1b69f6b73f7b2bb40109e31218ab610c5eaed88797831b6890c.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/d782932d6fce8349a207c42961a9a8227e568e9ad514050dcb9f99909fb80c69.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/fb91a8bc8425eda86b74eb4671b2786cc7b63a2a4fa98d58b60c0353960ed2d7.jpg"
+    ],
+    "require_prototype": false,
+    "raw_errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/c2ce794ce7ba6b60ad5ab9cddf466baaaaf5b2d09570746b1ea7f81e15f75daa.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/c1e28ecdf33a8c9adda786aa511446de0a41c2c91eda5bb6b6d4651b0e55a2f7.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/0ddb281b7027fb122b8d9e357a91dcdd39a2246ce853d6af10a5fb8e96afdb39.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/4eae07b86d9a55b0c8802048483bb9989d8475882728fd8effb8001936d5459e.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/4eae07b86d9a55b0c8802048483bb9989d8475882728fd8effb8001936d5459e.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/46b1f0c2a220571221b74eaabf94682fa755c1416df3116cead60ed75a56ac50.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/46b1f0c2a220571221b74eaabf94682fa755c1416df3116cead60ed75a56ac50.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/d124d0369c8bbad79bf40ba3fc68bf1ca335c0620a1bf50de15d67b017455ba4.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/39e8cec454a013e8512b4970f9a0689f4da1836a47abdb7dda74a13ee4852134.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/46b1f0c2a220571221b74eaabf94682fa755c1416df3116cead60ed75a56ac50.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/46b1f0c2a220571221b74eaabf94682fa755c1416df3116cead60ed75a56ac50.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/1a0d67e174bc394d18c79b6fa30f30111f248e1ffebfea70b2f0802f5f7cbeaf.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/2254c37e604bc1b69f6b73f7b2bb40109e31218ab610c5eaed88797831b6890c.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/d782932d6fce8349a207c42961a9a8227e568e9ad514050dcb9f99909fb80c69.jpg",
+      "missing or invalid PNG: TEST-035_1793572767166/task-000001/media/fb91a8bc8425eda86b74eb4671b2786cc7b63a2a4fa98d58b60c0353960ed2d7.jpg"
+    ],
+    "media_warnings": []
+  }
+}

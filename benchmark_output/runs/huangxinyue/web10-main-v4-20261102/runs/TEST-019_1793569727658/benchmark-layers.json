@@ -1,0 +1,54 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Work",
+      "size": "1440×2795",
+      "nodes": 76,
+      "max_depth": 6,
+      "instances": 20,
+      "texts": 30,
+      "images": 0,
+      "types": [
+        "text×30",
+        "instance×20",
+        "frame×17",
+        "rectangle×4",
+        "line×3",
+        "vector×1"
+      ],
+      "names": [
+        "Header",
+        "Logo",
+        "Navigation",
+        "Nav/Work",
+        "Label",
+        "Indicator"
+      ]
+    },
+    {
+      "name": "02_About",
+      "size": "1440×2380",
+      "nodes": 58,
+      "max_depth": 5,
+      "instances": 17,
+      "texts": 24,
+      "images": 0,
+      "types": [
+        "text×24",
+        "instance×17",
+        "frame×12",
+        "rectangle×4",
+        "vector×1"
+      ],
+      "names": [
+        "Header",
+        "Logo",
+        "Navigation",
+        "Nav/Work",
+        "Label",
+        "Indicator"
+      ]
+    }
+  ]
+}

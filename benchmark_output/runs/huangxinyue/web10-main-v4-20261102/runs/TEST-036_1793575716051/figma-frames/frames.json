@@ -1,0 +1,44 @@
+[
+  {
+    "node_id": "10:2",
+    "name": "01_Dashboard",
+    "file": "10-2.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "b6HOXVpSd1U75KpjQDhJ6b",
+        "nodeId": "10:2",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "709fe6ec9cf904c4cea3355db971dca407215b7ad5bef0e6537e3b73797e748a",
+      "response_file": "_debug/v2-native-10-2.png.txt",
+      "response_sha256": "c954a02296493577d744dbb1700915c1f612494bfedd66100d30529d4d00f41f"
+    }
+  },
+  {
+    "node_id": "10:3",
+    "name": "02_Timeline",
+    "file": "10-3.png"
+  },
+  {
+    "node_id": "10:4",
+    "name": "03_Task_Board",
+    "file": "10-4.png"
+  },
+  {
+    "node_id": "10:5",
+    "name": "04_Files",
+    "file": "10-5.png"
+  },
+  {
+    "node_id": "10:6",
+    "name": "05_Settings",
+    "file": "10-6.png"
+  },
+  {
+    "node_id": "10:7",
+    "name": "06_Messages",
+    "file": "10-7.png"
+  }
+]

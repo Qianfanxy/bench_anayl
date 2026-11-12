@@ -1,0 +1,105 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4499.4072265625",
+      "nodes": 437,
+      "max_depth": 8,
+      "instances": 138,
+      "texts": 94,
+      "images": 0,
+      "types": [
+        "instance×138",
+        "vector×106",
+        "text×94",
+        "frame×82",
+        "group×9",
+        "rectangle×8"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "Close",
+        "Vector",
+        "Header"
+      ]
+    },
+    {
+      "name": "02_Category",
+      "size": "1440×2442.4072265625",
+      "nodes": 485,
+      "max_depth": 9,
+      "instances": 159,
+      "texts": 110,
+      "images": 0,
+      "types": [
+        "instance×159",
+        "text×110",
+        "vector×107",
+        "frame×85",
+        "rectangle×13",
+        "group×9"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "Close",
+        "Vector",
+        "Header"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1440×3327.4072265625",
+      "nodes": 487,
+      "max_depth": 8,
+      "instances": 153,
+      "texts": 95,
+      "images": 0,
+      "types": [
+        "instance×153",
+        "vector×135",
+        "text×95",
+        "frame×84",
+        "rectangle×11",
+        "group×9"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "Close",
+        "Vector",
+        "Header"
+      ]
+    },
+    {
+      "name": "04_Cart",
+      "size": "1440×1535.4071044921875",
+      "nodes": 259,
+      "max_depth": 8,
+      "instances": 58,
+      "texts": 70,
+      "images": 0,
+      "types": [
+        "text×70",
+        "instance×58",
+        "vector×58",
+        "frame×56",
+        "group×9",
+        "rectangle×8"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "Close",
+        "Vector",
+        "Header"
+      ]
+    }
+  ]
+}

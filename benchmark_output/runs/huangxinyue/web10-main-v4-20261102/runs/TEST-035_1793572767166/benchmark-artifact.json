@@ -1,0 +1,644 @@
+{
+  "file_key": "rQsVjyS3FLCJmO37vlAUQN",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "5:2",
+      "name": "03 · Workspace",
+      "child_count": 50
+    }
+  ],
+  "workspace": {
+    "id": "5:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "7:8",
+        "name": "Logo_Mark",
+        "type": "COMPONENT",
+        "x": 740,
+        "y": 0,
+        "width": 11,
+        "height": 33,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:10",
+        "name": "Icon_Area",
+        "type": "COMPONENT",
+        "x": 831,
+        "y": 0,
+        "width": 16,
+        "height": 16,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:13",
+        "name": "Icon_Arrow_Right",
+        "type": "COMPONENT",
+        "x": 927,
+        "y": 0,
+        "width": 24,
+        "height": 12,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:15",
+        "name": "Icon_Bath",
+        "type": "COMPONENT",
+        "x": 1031,
+        "y": 0,
+        "width": 16,
+        "height": 16,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:19",
+        "name": "Icon_Bed",
+        "type": "COMPONENT",
+        "x": 1127,
+        "y": 0,
+        "width": 14,
+        "height": 11,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:22",
+        "name": "Icon_Calendar",
+        "type": "COMPONENT",
+        "x": 1221,
+        "y": 0,
+        "width": 16,
+        "height": 16,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:25",
+        "name": "Icon_Check",
+        "type": "COMPONENT",
+        "x": 1317,
+        "y": 0,
+        "width": 16,
+        "height": 16,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:28",
+        "name": "Icon_Chevron_Down",
+        "type": "COMPONENT",
+        "x": 1413,
+        "y": 0,
+        "width": 12,
+        "height": 8,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:30",
+        "name": "Icon_Chevron_Left",
+        "type": "COMPONENT",
+        "x": 1505,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:32",
+        "name": "Icon_Chevron_Right",
+        "type": "COMPONENT",
+        "x": 1609,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:34",
+        "name": "Icon_Floors",
+        "type": "COMPONENT",
+        "x": 1713,
+        "y": 0,
+        "width": 16,
+        "height": 16,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:37",
+        "name": "Icon_Garage",
+        "type": "COMPONENT",
+        "x": 1809,
+        "y": 0,
+        "width": 16,
+        "height": 16,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:42",
+        "name": "Logo_Facebook",
+        "type": "COMPONENT",
+        "x": 1905,
+        "y": 0,
+        "width": 10,
+        "height": 20,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:44",
+        "name": "Logo_Instagram",
+        "type": "COMPONENT",
+        "x": 1995,
+        "y": 0,
+        "width": 22,
+        "height": 22,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:48",
+        "name": "Avatar_Client",
+        "type": "COMPONENT",
+        "x": 2097,
+        "y": 0,
+        "width": 96,
+        "height": 96,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:49",
+        "name": "Avatar_Kayley_Hall",
+        "type": "COMPONENT",
+        "x": 2273,
+        "y": 0,
+        "width": 96,
+        "height": 96,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:50",
+        "name": "Logo_Twitter",
+        "type": "COMPONENT",
+        "x": 2449,
+        "y": 0,
+        "width": 22,
+        "height": 18,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:52",
+        "name": "Photo_Agents_Meeting",
+        "type": "COMPONENT",
+        "x": 2551,
+        "y": 0,
+        "width": 330,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:53",
+        "name": "Photo_Hero_House",
+        "type": "COMPONENT",
+        "x": 2961,
+        "y": 0,
+        "width": 323,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:54",
+        "name": "Photo_Listing_1",
+        "type": "COMPONENT",
+        "x": 3364,
+        "y": 0,
+        "width": 278,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:55",
+        "name": "Photo_Listing_2",
+        "type": "COMPONENT",
+        "x": 3722,
+        "y": 0,
+        "width": 278,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:56",
+        "name": "Photo_Listing_3",
+        "type": "COMPONENT",
+        "x": 4080,
+        "y": 0,
+        "width": 278,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:57",
+        "name": "Photo_Listing_4",
+        "type": "COMPONENT",
+        "x": 4438,
+        "y": 0,
+        "width": 278,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:58",
+        "name": "Photo_Listing_5",
+        "type": "COMPONENT",
+        "x": 4796,
+        "y": 0,
+        "width": 278,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:59",
+        "name": "Photo_Modern_House_1",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 360,
+        "width": 220,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:60",
+        "name": "Photo_Modern_House_3",
+        "type": "COMPONENT",
+        "x": 300,
+        "y": 360,
+        "width": 220,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:61",
+        "name": "Photo_Modern_House_4",
+        "type": "COMPONENT",
+        "x": 600,
+        "y": 360,
+        "width": 220,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:62",
+        "name": "Photo_Modern_House_5",
+        "type": "COMPONENT",
+        "x": 900,
+        "y": 360,
+        "width": 220,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:63",
+        "name": "Photo_Modern_House_6",
+        "type": "COMPONENT",
+        "x": 1200,
+        "y": 360,
+        "width": 220,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:64",
+        "name": "Photo_Modern_House_7",
+        "type": "COMPONENT",
+        "x": 1500,
+        "y": 360,
+        "width": 220,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:65",
+        "name": "Photo_Modern_House_Main",
+        "type": "COMPONENT",
+        "x": 1800,
+        "y": 360,
+        "width": 298,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:66",
+        "name": "Photo_Listing_6",
+        "type": "COMPONENT",
+        "x": 2178,
+        "y": 360,
+        "width": 278,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "7:67",
+        "name": "Photo_Modern_House_2",
+        "type": "COMPONENT",
+        "x": 2536,
+        "y": 360,
+        "width": 220,
+        "height": 220,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "8:7",
+        "name": "Button",
+        "type": "COMPONENT_SET",
+        "x": 0,
+        "y": 2900,
+        "width": 110,
+        "height": 56,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "8:16",
+        "name": "Text Field",
+        "type": "COMPONENT_SET",
+        "x": 230,
+        "y": 2900,
+        "width": 400,
+        "height": 146,
+        "text_count": 6,
+        "reaction_count": 0
+      },
+      {
+        "id": "8:17",
+        "name": "Logo",
+        "type": "COMPONENT",
+        "x": 750,
+        "y": 2900,
+        "width": 187,
+        "height": 36,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "8:25",
+        "name": "Nav Item",
+        "type": "COMPONENT_SET",
+        "x": 1057,
+        "y": 2900,
+        "width": 33,
+        "height": 21,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "8:26",
+        "name": "Icon Button",
+        "type": "COMPONENT",
+        "x": 1210,
+        "y": 2900,
+        "width": 48,
+        "height": 48,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "8:29",
+        "name": "Text Link",
+        "type": "COMPONENT",
+        "x": 1378,
+        "y": 2900,
+        "width": 122,
+        "height": 21,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:5",
+        "name": "Header",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 3150,
+        "width": 1440,
+        "height": 88,
+        "render_bounds": {
+          "width": 1440,
+          "height": 100
+        },
+        "text_count": 6,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:22",
+        "name": "Footer Column",
+        "type": "COMPONENT",
+        "x": 1560,
+        "y": 3150,
+        "width": 77,
+        "height": 173,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:28",
+        "name": "Footer",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 3350,
+        "width": 1440,
+        "height": 495,
+        "text_count": 18,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:39",
+        "name": "Listing Card",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 3800,
+        "width": 416,
+        "height": 334,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:79",
+        "name": "Filter Field",
+        "type": "COMPONENT_SET",
+        "x": 480,
+        "y": 3800,
+        "width": 280,
+        "height": 230,
+        "text_count": 7,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:80",
+        "name": "Stat Tile",
+        "type": "COMPONENT",
+        "x": 840,
+        "y": 3800,
+        "width": 125,
+        "height": 49,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:88",
+        "name": "Feature Item",
+        "type": "COMPONENT",
+        "x": 1020,
+        "y": 3960,
+        "width": 138,
+        "height": 20,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:103",
+        "name": "Testimonial Client",
+        "type": "COMPONENT_SET",
+        "x": 840,
+        "y": 3960,
+        "width": 169,
+        "height": 56,
+        "text_count": 4,
+        "reaction_count": 0
+      },
+      {
+        "id": "12:108",
+        "name": "Gallery Thumb",
+        "type": "COMPONENT_SET",
+        "x": 1020,
+        "y": 4120,
+        "width": 176,
+        "height": 120,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "13:83",
+        "name": "01_Home",
+        "type": "FRAME",
+        "x": 0,
+        "y": 4600,
+        "width": 1440,
+        "height": 4299,
+        "text_count": 76,
+        "reaction_count": 7
+      },
+      {
+        "id": "16:271",
+        "name": "02_Property",
+        "type": "FRAME",
+        "x": 1600,
+        "y": 4600,
+        "width": 1440,
+        "height": 2877,
+        "text_count": 87,
+        "reaction_count": 1
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nNorthgate Homes — real estate website\nDesign a real estate agency website: present the agency, search and browse listings, and view one property with its details and agent contact form. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 2 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the logo mark, the photos, the avatars, the social logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Home\nGoal: Get to know the agency and find a home to view.\nMUST INCLUDE\n• Agency intro 1: “You’re in good hands” · copy (see DATA) · “Learn more” (Icon_Arrow_Right) · Photo_Agents_Meeting\n• Agency intro 2: “Local experts on every street” · copy (see DATA) · “Learn more” (Icon_Arrow_Right) · Photo_Agents_Meeting\n• Call to action: “Ready to sell your home?” · copy (see DATA) · “Learn more” (Icon_Arrow_Right)\n• Footer: “Make your dreams a reality” · “Work with us” (Icon_Arrow_Right) · Logo_Mark · “NORTHGATE” · Logo_Facebook · Logo_Twitter · Logo_Instagram · 3 link columns (see DATA)\n• Header: Logo_Mark · “NORTHGATE” wordmark · navigation Buy / Sell / Rent / About · no item current · “Work with us” (Icon_Arrow_Right)\n• Hero: Photo_Hero_House · “Beautiful homes made for you” · copy (see DATA) · “See all listings” (Icon_Arrow_Right)\n• Listings: “Find your next place to live” · search filters Looking for · Location · Property Type · Price (Icon_Chevron_Down) · 6 listing cards, each with photo, name, bedrooms (Icon_Bed), bathrooms (Icon_Bath) and area (Icon_Area) (see DATA)\n• Testimonial: quote (see DATA) · 3 clients, each with Avatar_Client, name and “Client” · current: Leo Madrigal\nLINKS\n→ See all listings, any listing card → 02_Property\n02_Property\nGoal: Decide whether to contact the agent about Modern House.\nMUST INCLUDE\n• Agent contact: Avatar_Kayley_Hall · “Kayley Hall” · “View profile” · Name · Phone · Email · Message “Hello, I am interested in…” · “Contact agent” (Icon_Arrow_Right)\n• Description: “Description” · 3 paragraphs (see DATA)\n• Details: “Details” · 4 Bedrooms (Icon_Bed) · 2 Bathrooms (Icon_Bath) · 2 Garage (Icon_Garage) · 1 Floor (Icon_Floors) · Built 2007 (Icon_Calendar)\n• Features: “Features” · 15 features, each with Icon_Check (see DATA)\n• Footer: “Make your dreams a reality” · “Work with us” (Icon_Arrow_Right) · Logo_Mark · “NORTHGATE” · Logo_Facebook · Logo_Twitter · Logo_Instagram · 3 link columns (see DATA)\n• Gallery: Photo_Modern_House_Main · thumbnails Photo_Modern_House_1 – Photo_Modern_House_7 · selected: none (main photo shown)\n• Header: Logo_Mark · “NORTHGATE” wordmark · navigation Buy / Sell / Rent / About · no item current · “Work with us” (Icon_Arrow_Right)\n• Similar listings: “Similar listings” · 4 listing cards, each with photo, name, bedrooms (Icon_Bed), bathrooms (Icon_Bath) and area (Icon_Area) (see DATA) · previous / next (Icon_Chevron_Left, Icon_Chevron_Right)\n• Title bar: “Modern House” · “3002 Foster Ave, Brooklyn, NY 11210, USA” · $450,000 · “$280/sq ft”\nLINKS\n→ Logo (header) → 01_Home\n→ similar listing cards → 02_Property\nNavigation structure\n• Header and footer on both frames: Logo_Mark + NORTHGATE wordmark, Buy / Sell / Rent / About, “Work with us”. No nav item is current on either frame.\n• Flow: 01_Home → See all listings or a listing card → 02_Property. Logo → 01_Home.\n• Entry only (no frame): Buy, Sell, Rent, About, Work with us, Learn more, search filters, testimonial clients, gallery thumbnails, View profile, form fields, Contact agent, similar-listing arrows, social logos, footer links.\nFixed data & copy\nUse these values verbatim.\nHome copy\nHero: Hand-picked homes, honest advice and a team that knows every street in the neighbourhoods we serve.\nYou’re in good hands: Our agents have helped more than 2,000 families buy, sell and rent. We listen first, explain every step and stay with you until the keys are in your hand.\nLocal experts on every street: We live where we work. From school catchments to the quietest blocks, we can tell you what the listing photos don’t.\nReady to sell your home?: Get a free valuation and a clear plan to sell at the right price, on your timeline.\nListings (01, in order)\nMalto House · 4 bd · 2 ba · 1,650 sq ft (Photo_Listing_1)\nBirchwood Villa · 4 bd · 2 ba · 1,720 sq ft (Photo_Listing_2)\nCedar Lane House · 4 bd · 2 ba · 1,580 sq ft (Photo_Listing_3)\nHarbor View Loft · 4 bd · 2 ba · 1,610 sq ft (Photo_Listing_4)\nMaple Court House · 4 bd · 2 ba · 1,690 sq ft (Photo_Listing_5)\nWillow Creek Home · 4 bd · 2 ba · 1,640 sq ft (Photo_Listing_6)\nTestimonial (01)\n“Kayley and the team found us a home we love in under a month. They knew every street, never pushed us, and we always felt in good hands.”\nClients: Leo Madrigal · Owen Brooks · Mia Chen — each “Client”, all with Avatar_Client\nModern House (02)\n3002 Foster Ave, Brooklyn, NY 11210, USA · $450,000 · $280/sq ft (1,607 sq ft)\nDetails: 4 Bedrooms · 2 Bathrooms · 2 Garage · 1 Floor · Built 2007\nAgent: Kayley Hall\nDescription (02)\nA bright, single-storey family home on a quiet tree-lined street, a short walk from Foster Avenue’s cafés and the subway.\nThe open-plan kitchen with a large island flows into the living and dining area, with floor-to-ceiling windows onto a private garden. Four bedrooms include a main suite with its own bathroom.\nBuilt in 2007 and updated in 2022, the house has a double garage, central air conditioning, new flooring throughout and plenty of built-in storage.\nFeatu",
+  "layer_summary": {
+    "board_count": 2,
+    "boards": [
+      {
+        "name": "01_Home",
+        "size": "1440×4299",
+        "nodes": 264,
+        "max_depth": 9,
+        "instances": 71,
+        "texts": 76,
+        "images": 0,
+        "types": [
+          "text×76",
+          "instance×71",
+          "frame×60",
+          "vector×55",
+          "rectangle×2"
+        ],
+        "names": [
+          "Header",
+          "Logo",
+          "Logo_Mark",
+          "Vector",
+          "NORTHGATE",
+          "Nav"
+        ]
+      },
+      {
+        "name": "02_Property",
+        "size": "1440×2877",
+        "nodes": 334,
+        "max_depth": 8,
+        "instances": 105,
+        "texts": 87,
+        "images": 0,
+        "types": [
+          "instance×105",
+          "text×87",
+          "vector×81",
+          "frame×59",
+          "rectangle×2"
+        ],
+        "names": [
+          "Header",
+          "Logo",
+          "Logo_Mark",
+          "Vector",
+          "NORTHGATE",
+          "Nav"
+        ]
+      }
+    ]
+  }
+}

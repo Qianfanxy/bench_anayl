@@ -1,0 +1,29 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×3224",
+      "nodes": 117,
+      "max_depth": 8,
+      "instances": 42,
+      "texts": 31,
+      "images": 0,
+      "types": [
+        "instance×42",
+        "text×31",
+        "frame×25",
+        "vector×12",
+        "rectangle×7"
+      ],
+      "names": [
+        "Nav_Bar",
+        "Logo",
+        "Nav",
+        "Nav / Home (current)",
+        "Label",
+        "Dot"
+      ]
+    }
+  ]
+}

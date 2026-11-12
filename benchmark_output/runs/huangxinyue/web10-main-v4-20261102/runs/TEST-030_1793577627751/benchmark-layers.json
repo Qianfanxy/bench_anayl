@@ -1,0 +1,30 @@
+{
+  "board_count": 1,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×3802",
+      "nodes": 166,
+      "max_depth": 7,
+      "instances": 39,
+      "texts": 59,
+      "images": 0,
+      "types": [
+        "text×59",
+        "frame×44",
+        "instance×39",
+        "vector×12",
+        "ellipse×7",
+        "rectangle×5"
+      ],
+      "names": [
+        "Header",
+        "Logo_ABM",
+        "Nav",
+        "NavItem / Home",
+        "Label",
+        "Underline"
+      ]
+    }
+  ]
+}

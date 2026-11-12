@@ -1,0 +1,261 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1920×6914",
+      "nodes": 367,
+      "max_depth": 7,
+      "instances": 132,
+      "texts": 113,
+      "images": 0,
+      "types": [
+        "instance×132",
+        "text×113",
+        "frame×60",
+        "vector×53",
+        "rectangle×9"
+      ],
+      "names": [
+        "Header / Home",
+        "Wordmark",
+        "Navigation",
+        "Nav · Home",
+        "Label",
+        "Indicator"
+      ]
+    },
+    {
+      "name": "02_Shop",
+      "size": "1920×4743",
+      "nodes": 292,
+      "max_depth": 7,
+      "instances": 83,
+      "texts": 100,
+      "images": 0,
+      "types": [
+        "text×100",
+        "frame×86",
+        "instance×83",
+        "vector×16",
+        "rectangle×7"
+      ],
+      "names": [
+        "Header / Store",
+        "Wordmark",
+        "Navigation",
+        "Nav · Home",
+        "Label",
+        "Indicator"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1920×3832",
+      "nodes": 248,
+      "max_depth": 7,
+      "instances": 64,
+      "texts": 78,
+      "images": 0,
+      "types": [
+        "text×78",
+        "frame×78",
+        "instance×64",
+        "vector×21",
+        "rectangle×7"
+      ],
+      "names": [
+        "Header / Store",
+        "Wordmark",
+        "Navigation",
+        "Nav · Home",
+        "Label",
+        "Indicator"
+      ]
+    },
+    {
+      "name": "04_Mini_Cart",
+      "size": "1920×1080",
+      "nodes": 172,
+      "max_depth": 8,
+      "instances": 43,
+      "texts": 48,
+      "images": 0,
+      "types": [
+        "frame×56",
+        "text×48",
+        "instance×43",
+        "vector×16",
+        "rectangle×9"
+      ],
+      "names": [
+        "Product page (inactive)",
+        "Header / Store",
+        "Wordmark",
+        "Navigation",
+        "Nav · Home",
+        "Label"
+      ]
+    },
+    {
+      "name": "05_Cart",
+      "size": "1920×2064",
+      "nodes": 99,
+      "max_depth": 5,
+      "instances": 22,
+      "texts": 36,
+      "images": 0,
+      "types": [
+        "text×36",
+        "frame×28",
+        "instance×22",
+        "rectangle×8",
+        "vector×5"
+      ],
+      "names": [
+        "Header / Store",
+        "Wordmark",
+        "Navigation",
+        "Nav · Home",
+        "Label",
+        "Indicator"
+      ]
+    },
+    {
+      "name": "06_Checkout",
+      "size": "1920×2768",
+      "nodes": 163,
+      "max_depth": 8,
+      "instances": 37,
+      "texts": 61,
+      "images": 0,
+      "types": [
+        "text×61",
+        "frame×52",
+        "instance×37",
+        "rectangle×7",
+        "vector×6"
+      ],
+      "names": [
+        "Header / Store",
+        "Wordmark",
+        "Navigation",
+        "Nav · Home",
+        "Label",
+        "Indicator"
+      ]
+    },
+    {
+      "name": "07_Sign_Up",
+      "size": "1920×1080",
+      "nodes": 50,
+      "max_depth": 6,
+      "instances": 14,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "text×21",
+        "instance×14",
+        "frame×13",
+        "rectangle×2"
+      ],
+      "names": [
+        "Auth Card",
+        "Media",
+        "Form",
+        "Wordmark",
+        "Title",
+        "Social"
+      ]
+    },
+    {
+      "name": "08_Sign_In",
+      "size": "1920×1080",
+      "nodes": 33,
+      "max_depth": 6,
+      "instances": 12,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×12",
+        "frame×6",
+        "rectangle×2"
+      ],
+      "names": [
+        "Auth Card",
+        "Media",
+        "Form",
+        "Wordmark",
+        "Title",
+        "Social"
+      ]
+    },
+    {
+      "name": "09_Forgot_Password",
+      "size": "1920×1080",
+      "nodes": 31,
+      "max_depth": 6,
+      "instances": 7,
+      "texts": 15,
+      "images": 0,
+      "types": [
+        "text×15",
+        "frame×9",
+        "instance×7"
+      ],
+      "names": [
+        "Auth Card",
+        "Media",
+        "Form",
+        "Wordmark",
+        "Title",
+        "Helper"
+      ]
+    },
+    {
+      "name": "10_Confirmation_Code",
+      "size": "1920×1080",
+      "nodes": 18,
+      "max_depth": 6,
+      "instances": 5,
+      "texts": 9,
+      "images": 0,
+      "types": [
+        "text×9",
+        "instance×5",
+        "frame×4"
+      ],
+      "names": [
+        "Auth Card",
+        "Media",
+        "Form",
+        "Wordmark",
+        "Title",
+        "Helper"
+      ]
+    },
+    {
+      "name": "11_New_Password",
+      "size": "1920×1080",
+      "nodes": 18,
+      "max_depth": 6,
+      "instances": 6,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "text×8",
+        "instance×6",
+        "frame×4"
+      ],
+      "names": [
+        "Auth Card",
+        "Media",
+        "Form",
+        "Wordmark",
+        "Title",
+        "Field · New Password"
+      ]
+    }
+  ]
+}

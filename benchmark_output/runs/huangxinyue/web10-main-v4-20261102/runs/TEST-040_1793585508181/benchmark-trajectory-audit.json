@@ -1,0 +1,34 @@
+{
+  "kind": "benchmark-legacy-media-audit/v1",
+  "checked_at": "2026-11-02T02:52:56.286577+00:00",
+  "raw_audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-040_1793585508181/task-000001/media/540dfc69aeca19eab677dcbb7d76c3c0c7d50f2d7004f829d3dfda0b0edd740e.jpg",
+      "missing or invalid PNG: TEST-040_1793585508181/task-000001/media/bcfade30e1b169b72902a24b3534e6b0ace86e833a770a3d09881e04a617b7f1.jpg",
+      "missing or invalid PNG: TEST-040_1793585508181/task-000001/media/f63d6a126c26b65d3d3f5c058be54e3b30d1c9271e67c5372168746fa0b335a0.jpg",
+      "missing or invalid PNG: TEST-040_1793585508181/task-000001/media/23089251d66c7f04eb42da4e55e852030410379dfcd14ca786f4571f1202a564.jpg"
+    ],
+    "require_prototype": false
+  },
+  "audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-040_1793585508181/task-000001/media/540dfc69aeca19eab677dcbb7d76c3c0c7d50f2d7004f829d3dfda0b0edd740e.jpg",
+      "missing or invalid PNG: TEST-040_1793585508181/task-000001/media/bcfade30e1b169b72902a24b3534e6b0ace86e833a770a3d09881e04a617b7f1.jpg",
+      "missing or invalid PNG: TEST-040_1793585508181/task-000001/media/f63d6a126c26b65d3d3f5c058be54e3b30d1c9271e67c5372168746fa0b335a0.jpg",
+      "missing or invalid PNG: TEST-040_1793585508181/task-000001/media/23089251d66c7f04eb42da4e55e852030410379dfcd14ca786f4571f1202a564.jpg"
+    ],
+    "require_prototype": false,
+    "raw_errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-040_1793585508181/task-000001/media/540dfc69aeca19eab677dcbb7d76c3c0c7d50f2d7004f829d3dfda0b0edd740e.jpg",
+      "missing or invalid PNG: TEST-040_1793585508181/task-000001/media/bcfade30e1b169b72902a24b3534e6b0ace86e833a770a3d09881e04a617b7f1.jpg",
+      "missing or invalid PNG: TEST-040_1793585508181/task-000001/media/f63d6a126c26b65d3d3f5c058be54e3b30d1c9271e67c5372168746fa0b335a0.jpg",
+      "missing or invalid PNG: TEST-040_1793585508181/task-000001/media/23089251d66c7f04eb42da4e55e852030410379dfcd14ca786f4571f1202a564.jpg"
+    ],
+    "media_warnings": []
+  }
+}

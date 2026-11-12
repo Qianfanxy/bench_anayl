@@ -1,0 +1,75 @@
+{
+  "board_count": 3,
+  "boards": [
+    {
+      "name": "System · colors & type scale",
+      "size": "1240×764",
+      "nodes": 41,
+      "max_depth": 4,
+      "instances": 0,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "text×21",
+        "frame×14",
+        "rectangle×6"
+      ],
+      "names": [
+        "COLORS",
+        "Frame",
+        "Rectangle",
+        "Ink",
+        "#181717",
+        "Accent"
+      ]
+    },
+    {
+      "name": "01_Work",
+      "size": "1440×2393",
+      "nodes": 71,
+      "max_depth": 6,
+      "instances": 20,
+      "texts": 30,
+      "images": 0,
+      "types": [
+        "text×30",
+        "instance×20",
+        "frame×13",
+        "rectangle×5",
+        "vector×3"
+      ],
+      "names": [
+        "Header",
+        "Bar",
+        "Logo",
+        "Nav",
+        "Nav/Work",
+        "Label"
+      ]
+    },
+    {
+      "name": "02_About",
+      "size": "1440×1785",
+      "nodes": 85,
+      "max_depth": 5,
+      "instances": 16,
+      "texts": 29,
+      "images": 0,
+      "types": [
+        "text×29",
+        "frame×26",
+        "instance×16",
+        "rectangle×13",
+        "vector×1"
+      ],
+      "names": [
+        "Header",
+        "Bar",
+        "Logo",
+        "Nav",
+        "Nav/Work",
+        "Label"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "node_id": "16:2",
+    "name": "01_Home",
+    "file": "16-2.png"
+  },
+  {
+    "node_id": "16:3",
+    "name": "02_Category",
+    "file": "16-3.png"
+  },
+  {
+    "node_id": "16:4",
+    "name": "03_Product",
+    "file": "16-4.png"
+  },
+  {
+    "node_id": "16:5",
+    "name": "04_Cart",
+    "file": "16-5.png"
+  }
+]

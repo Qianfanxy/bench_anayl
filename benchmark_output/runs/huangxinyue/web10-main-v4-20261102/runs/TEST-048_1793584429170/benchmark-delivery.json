@@ -1,0 +1,13 @@
+{
+  "verified": true,
+  "design_present": true,
+  "expected_screens": [],
+  "frame_count": 2,
+  "missing_screens": [],
+  "quota_errors": 0,
+  "artifact_state": "present",
+  "infrastructure_blocked": false,
+  "permission_errors": 0,
+  "io_errors": 0,
+  "ready_for_scoring": true
+}

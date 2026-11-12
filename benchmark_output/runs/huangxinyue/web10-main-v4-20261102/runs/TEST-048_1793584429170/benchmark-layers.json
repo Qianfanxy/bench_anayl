@@ -1,0 +1,54 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×6388",
+      "nodes": 323,
+      "max_depth": 8,
+      "instances": 15,
+      "texts": 94,
+      "images": 0,
+      "types": [
+        "frame×138",
+        "text×94",
+        "vector×48",
+        "rectangle×23",
+        "instance×15",
+        "ellipse×5"
+      ],
+      "names": [
+        "Header",
+        "Logo_MAC",
+        "Vector",
+        "Nav",
+        "NavItem · Service",
+        "Service"
+      ]
+    },
+    {
+      "name": "· Patterns",
+      "size": "3646×536",
+      "nodes": 58,
+      "max_depth": 6,
+      "instances": 7,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "frame×21",
+        "text×14",
+        "rectangle×9",
+        "component×7",
+        "vector×7"
+      ],
+      "names": [
+        "FilterTag / Default",
+        "All Work",
+        "Count",
+        "[20]",
+        "FilterTag / Active",
+        "UI/UX Design"
+      ]
+    }
+  ]
+}

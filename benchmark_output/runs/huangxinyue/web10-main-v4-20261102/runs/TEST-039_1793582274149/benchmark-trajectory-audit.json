@@ -1,0 +1,94 @@
+{
+  "kind": "benchmark-legacy-media-audit/v1",
+  "checked_at": "2026-11-02T02:11:23.443916+00:00",
+  "raw_audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/10edaa4c85c5196ec874d35a274e75a581250581c193b062a0d32adfe9064092.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/10edaa4c85c5196ec874d35a274e75a581250581c193b062a0d32adfe9064092.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/d21d740fcc383d4365388ae9f74fe97e09c77742433fd9b0762b4c216aac04f2.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/d39090b8e8f788600aa577585d027c84f765676099f6e3faec33939e915a9c5a.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/d80d0f2f2fe4c5f806c2d25b6345fa565431b141bd47d80880e36407a9f65a1d.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/d80d0f2f2fe4c5f806c2d25b6345fa565431b141bd47d80880e36407a9f65a1d.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/30e14c4fe3d3c0e1dd1d55a51908221b11e386334adf00ab4c63c80e84ddd527.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/30e14c4fe3d3c0e1dd1d55a51908221b11e386334adf00ab4c63c80e84ddd527.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/727f352d38daef267334e833732ac2125bf67b178f9d81522fc27af36d48a921.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/727f352d38daef267334e833732ac2125bf67b178f9d81522fc27af36d48a921.png"
+    ],
+    "require_prototype": false
+  },
+  "audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called"
+    ],
+    "require_prototype": false,
+    "raw_errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/10edaa4c85c5196ec874d35a274e75a581250581c193b062a0d32adfe9064092.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/10edaa4c85c5196ec874d35a274e75a581250581c193b062a0d32adfe9064092.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/d21d740fcc383d4365388ae9f74fe97e09c77742433fd9b0762b4c216aac04f2.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/d39090b8e8f788600aa577585d027c84f765676099f6e3faec33939e915a9c5a.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/d80d0f2f2fe4c5f806c2d25b6345fa565431b141bd47d80880e36407a9f65a1d.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/d80d0f2f2fe4c5f806c2d25b6345fa565431b141bd47d80880e36407a9f65a1d.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/30e14c4fe3d3c0e1dd1d55a51908221b11e386334adf00ab4c63c80e84ddd527.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/30e14c4fe3d3c0e1dd1d55a51908221b11e386334adf00ab4c63c80e84ddd527.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/727f352d38daef267334e833732ac2125bf67b178f9d81522fc27af36d48a921.png",
+      "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/727f352d38daef267334e833732ac2125bf67b178f9d81522fc27af36d48a921.png"
+    ],
+    "media_warnings": [
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/10edaa4c85c5196ec874d35a274e75a581250581c193b062a0d32adfe9064092.png",
+        "path": "TEST-039_1793582274149/task-000001/media/10edaa4c85c5196ec874d35a274e75a581250581c193b062a0d32adfe9064092.png",
+        "sha256": "10edaa4c85c5196ec874d35a274e75a581250581c193b062a0d32adfe9064092",
+        "width": 878,
+        "height": 13
+      },
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/d21d740fcc383d4365388ae9f74fe97e09c77742433fd9b0762b4c216aac04f2.png",
+        "path": "TEST-039_1793582274149/task-000001/media/d21d740fcc383d4365388ae9f74fe97e09c77742433fd9b0762b4c216aac04f2.png",
+        "sha256": "d21d740fcc383d4365388ae9f74fe97e09c77742433fd9b0762b4c216aac04f2",
+        "width": 2400,
+        "height": 1
+      },
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/d39090b8e8f788600aa577585d027c84f765676099f6e3faec33939e915a9c5a.png",
+        "path": "TEST-039_1793582274149/task-000001/media/d39090b8e8f788600aa577585d027c84f765676099f6e3faec33939e915a9c5a.png",
+        "sha256": "d39090b8e8f788600aa577585d027c84f765676099f6e3faec33939e915a9c5a",
+        "width": 2000,
+        "height": 1
+      },
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/d80d0f2f2fe4c5f806c2d25b6345fa565431b141bd47d80880e36407a9f65a1d.png",
+        "path": "TEST-039_1793582274149/task-000001/media/d80d0f2f2fe4c5f806c2d25b6345fa565431b141bd47d80880e36407a9f65a1d.png",
+        "sha256": "d80d0f2f2fe4c5f806c2d25b6345fa565431b141bd47d80880e36407a9f65a1d",
+        "width": 689,
+        "height": 74
+      },
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/30e14c4fe3d3c0e1dd1d55a51908221b11e386334adf00ab4c63c80e84ddd527.png",
+        "path": "TEST-039_1793582274149/task-000001/media/30e14c4fe3d3c0e1dd1d55a51908221b11e386334adf00ab4c63c80e84ddd527.png",
+        "sha256": "30e14c4fe3d3c0e1dd1d55a51908221b11e386334adf00ab4c63c80e84ddd527",
+        "width": 716,
+        "height": 75
+      },
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-039_1793582274149/task-000001/media/727f352d38daef267334e833732ac2125bf67b178f9d81522fc27af36d48a921.png",
+        "path": "TEST-039_1793582274149/task-000001/media/727f352d38daef267334e833732ac2125bf67b178f9d81522fc27af36d48a921.png",
+        "sha256": "727f352d38daef267334e833732ac2125bf67b178f9d81522fc27af36d48a921",
+        "width": 718,
+        "height": 35
+      }
+    ],
+    "warnings": [
+      "PNG 解码与路径检查通过；旧 SFT 尺寸/色彩门槛记为告警，设计质量等待 fixed_v4 评测。"
+    ]
+  }
+}

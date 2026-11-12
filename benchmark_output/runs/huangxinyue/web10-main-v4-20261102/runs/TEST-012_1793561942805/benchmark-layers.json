@@ -1,0 +1,121 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×6601.2001953125",
+      "nodes": 572,
+      "max_depth": 9,
+      "instances": 180,
+      "texts": 116,
+      "images": 0,
+      "types": [
+        "instance×180",
+        "frame×150",
+        "vector×126",
+        "text×116"
+      ],
+      "names": [
+        "Header",
+        "Logo",
+        "Navigation",
+        "Nav / Home",
+        "Label",
+        "Nav / Recipes"
+      ]
+    },
+    {
+      "name": "02_Recipe",
+      "size": "1440×4981.2001953125",
+      "nodes": 294,
+      "max_depth": 9,
+      "instances": 90,
+      "texts": 82,
+      "images": 0,
+      "types": [
+        "instance×90",
+        "text×82",
+        "frame×80",
+        "vector×41",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "Logo",
+        "Navigation",
+        "Nav / Home",
+        "Label",
+        "Nav / Recipes"
+      ]
+    },
+    {
+      "name": "03_Blog",
+      "size": "1440×3274.199951171875",
+      "nodes": 176,
+      "max_depth": 7,
+      "instances": 58,
+      "texts": 58,
+      "images": 0,
+      "types": [
+        "instance×58",
+        "text×58",
+        "frame×49",
+        "vector×11"
+      ],
+      "names": [
+        "Header",
+        "Logo",
+        "Navigation",
+        "Nav / Home",
+        "Label",
+        "Nav / Recipes"
+      ]
+    },
+    {
+      "name": "04_Blog_Post",
+      "size": "1440×4518.2001953125",
+      "nodes": 183,
+      "max_depth": 9,
+      "instances": 51,
+      "texts": 44,
+      "images": 0,
+      "types": [
+        "frame×53",
+        "instance×51",
+        "text×44",
+        "vector×35"
+      ],
+      "names": [
+        "Header",
+        "Logo",
+        "Navigation",
+        "Nav / Home",
+        "Label",
+        "Nav / Recipes"
+      ]
+    },
+    {
+      "name": "05_Contact",
+      "size": "1440×2470.199951171875",
+      "nodes": 171,
+      "max_depth": 9,
+      "instances": 56,
+      "texts": 40,
+      "images": 0,
+      "types": [
+        "instance×56",
+        "frame×44",
+        "text×40",
+        "vector×31"
+      ],
+      "names": [
+        "Header",
+        "Logo",
+        "Navigation",
+        "Nav / Home",
+        "Label",
+        "Nav / Recipes"
+      ]
+    }
+  ]
+}

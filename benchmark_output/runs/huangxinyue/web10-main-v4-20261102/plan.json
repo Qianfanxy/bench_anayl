@@ -1,0 +1,375 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "plan",
+  "id": "web10-main-v4-20261102",
+  "dataset_hash": "b83fde03db52ac2b74c9313006fd4739b3adee017671d593d51f4c0892f804b2",
+  "rubric_hash": "1bdd89598a3b5653fe1416b7cab72631e12833c3c93cdce784960ef8f1d67b93",
+  "judge": {
+    "id": "model_claude_opus55_direct",
+    "name": "Opus 5.5（三方A）",
+    "provider": "Claude Code",
+    "connection_mode": "direct",
+    "base_url": "https://tokenhub.sensetime.com",
+    "host": "127.0.0.1",
+    "port": 0,
+    "model_id": "claude-opus-5-5/awsb_L/sfa",
+    "auth_mode": "auto",
+    "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+    "reasoning_mode": "none",
+    "api_format": "",
+    "can_evaluate": 1,
+    "buffered_stream": 0,
+    "vision": 1,
+    "generation_mode": "cc"
+  },
+  "models": [
+    {
+      "id": "model_claude_opus55_direct",
+      "name": "Opus 5.5（三方A）",
+      "provider": "Claude Code",
+      "connection_mode": "direct",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "127.0.0.1",
+      "port": 0,
+      "model_id": "claude-opus-5-5/awsb_L/sfa",
+      "auth_mode": "auto",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "none",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_claude_fable51_login",
+      "name": "Fable 5.1",
+      "provider": "Claude Code",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "https://tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "claude-fable-5-1/mix_L/sfm",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "none",
+      "api_format": "",
+      "can_evaluate": 1,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_glm_53_flash_cc",
+      "name": "GLM-5.3 Flash",
+      "provider": "qnaigc / 智谱",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "https://tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "glm-5.3-flash/tencent/sfb",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 0,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_kimi_k3_cc",
+      "name": "Kimi K3",
+      "provider": "TokenHub / Kimi",
+      "connection_mode": "cc-switch",
+      "base_url": "https://tokenhub.sensetime.com",
+      "host": "tokenhub.sensetime.com",
+      "port": 443,
+      "model_id": "kimi-k3/tencent/sfb",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "",
+      "can_evaluate": 0,
+      "buffered_stream": 0,
+      "vision": 1,
+      "generation_mode": "cc"
+    },
+    {
+      "id": "model_de5fc4c9cdb841e8",
+      "name": "gpt-6-astra",
+      "provider": "Claude Code",
+      "connection_mode": "direct",
+      "base_url": "http://127.0.0.1:18195",
+      "host": "127.0.0.1",
+      "port": 18185,
+      "model_id": "gpt-6-astra/azure_L/sfl",
+      "auth_mode": "api-key",
+      "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+      "reasoning_mode": "summary",
+      "api_format": "openai",
+      "can_evaluate": 1,
+      "buffered_stream": 1,
+      "vision": 1,
+      "generation_mode": "direct"
+    }
+  ],
+  "case_count": 10,
+  "assignment_count": 50,
+  "isolation": "copy-per-case-model",
+  "generation_concurrency": 5,
+  "judge_concurrency": 3,
+  "assignments": [
+    {
+      "assignment_id": "assignment_afe723136a0f2054197b",
+      "case_id": "case-001",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_e198dca4371fec4dd347",
+      "case_id": "case-002",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_771fe062d1c3e84f82da",
+      "case_id": "case-003",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_39486a924900712760c8",
+      "case_id": "case-004",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_a44a1ad24eca3edbcc84",
+      "case_id": "case-005",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_6ad1b217dcde6f836554",
+      "case_id": "case-006",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_31ca3216ae1e9b56ee7f",
+      "case_id": "case-007",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_4e222e3cbad580ad1b02",
+      "case_id": "case-008",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_3c4f8cba5de666f410c5",
+      "case_id": "case-009",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_ea052d2bbb7f930295ea",
+      "case_id": "case-010",
+      "model_id": "model_claude_opus55_direct"
+    },
+    {
+      "assignment_id": "assignment_802d77d752c48c5fd259",
+      "case_id": "case-001",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_9983c2c48ab6779d8ad2",
+      "case_id": "case-002",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_0d59cfc89e0debfc388a",
+      "case_id": "case-003",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_cb7d9c1b32791d7224fb",
+      "case_id": "case-004",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_446b347448adba63e63a",
+      "case_id": "case-005",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_370f8036af7523fe5bb7",
+      "case_id": "case-006",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_11b1c926492b511cd597",
+      "case_id": "case-007",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_3489fc2a34461c2a5215",
+      "case_id": "case-008",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_02f00b82c60413c5b1f4",
+      "case_id": "case-009",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_a5cb24d7403f16d375b2",
+      "case_id": "case-010",
+      "model_id": "model_claude_fable51_login"
+    },
+    {
+      "assignment_id": "assignment_9d23e15925e1bb5d7103",
+      "case_id": "case-001",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_55fc570cdcedacf74830",
+      "case_id": "case-002",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_4360fe32c72e6a9183be",
+      "case_id": "case-003",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_02b61bfaa622ec8277d6",
+      "case_id": "case-004",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_c41c8cc27974a257bf90",
+      "case_id": "case-005",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_d6ecbc52f471c5aca9ee",
+      "case_id": "case-006",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_c46db31b06961949366c",
+      "case_id": "case-007",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_4edc22a19121162ced98",
+      "case_id": "case-008",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_72be00d3a6883f8f2b73",
+      "case_id": "case-009",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_f0d2279f104960d1b6bb",
+      "case_id": "case-010",
+      "model_id": "model_glm_53_flash_cc"
+    },
+    {
+      "assignment_id": "assignment_a35a182a4095f70907e9",
+      "case_id": "case-001",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_9d6f35776e973e952707",
+      "case_id": "case-002",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_adb36b11432cf141e399",
+      "case_id": "case-003",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_8127801c50df3e53f588",
+      "case_id": "case-004",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_7d82a05c1b6b1f97fcb1",
+      "case_id": "case-005",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_9be1f648cf7dff3284a7",
+      "case_id": "case-006",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_b5cb6a218cde246bc190",
+      "case_id": "case-007",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_5dffc30570ea72173ff0",
+      "case_id": "case-008",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_a714a969e165b054931d",
+      "case_id": "case-009",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_cb2a67e82120b4602397",
+      "case_id": "case-010",
+      "model_id": "model_kimi_k3_cc"
+    },
+    {
+      "assignment_id": "assignment_e307523a99a19780f5f0",
+      "case_id": "case-001",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_870145cd047bbc10620d",
+      "case_id": "case-002",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_75a87c0260eff4e19c05",
+      "case_id": "case-003",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_88a79a09323546c02acb",
+      "case_id": "case-004",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_bafac273631542c5ffb0",
+      "case_id": "case-005",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_2285c48cee3e1b1ff503",
+      "case_id": "case-006",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_6d81b60ee3268b31a177",
+      "case_id": "case-007",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_a2b4315265a5c729e0af",
+      "case_id": "case-008",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_5dc68302c92afd377fee",
+      "case_id": "case-009",
+      "model_id": "model_de5fc4c9cdb841e8"
+    },
+    {
+      "assignment_id": "assignment_b21fbd8ff89ee833412a",
+      "case_id": "case-010",
+      "model_id": "model_de5fc4c9cdb841e8"
+    }
+  ],
+  "content_hash": "23c9edf41eed6bacf9c69a805b09d05416956c813fb0ce9da7034084a5b24077"
+}

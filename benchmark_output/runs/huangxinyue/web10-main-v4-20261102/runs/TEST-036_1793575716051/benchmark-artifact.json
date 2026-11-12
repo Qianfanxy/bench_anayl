@@ -1,0 +1,454 @@
+{
+  "file_key": "b6HOXVpSd1U75KpjQDhJ6b",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "8:2",
+      "name": "03 · Workspace",
+      "child_count": 24
+    }
+  ],
+  "workspace": {
+    "id": "8:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "10:2",
+        "name": "01_Dashboard",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 1024,
+        "text_count": 73,
+        "reaction_count": 10
+      },
+      {
+        "id": "10:3",
+        "name": "02_Timeline",
+        "type": "FRAME",
+        "x": 1620,
+        "y": 0,
+        "width": 1440,
+        "height": 1024,
+        "text_count": 63,
+        "reaction_count": 6
+      },
+      {
+        "id": "10:4",
+        "name": "03_Task_Board",
+        "type": "FRAME",
+        "x": 3240,
+        "y": 0,
+        "width": 1440,
+        "height": 1024,
+        "text_count": 79,
+        "reaction_count": 6
+      },
+      {
+        "id": "10:5",
+        "name": "04_Files",
+        "type": "FRAME",
+        "x": 4860,
+        "y": 0,
+        "width": 1440,
+        "height": 1024,
+        "text_count": 51,
+        "reaction_count": 6
+      },
+      {
+        "id": "10:6",
+        "name": "05_Settings",
+        "type": "FRAME",
+        "x": 6480,
+        "y": 0,
+        "width": 1440,
+        "height": 1024,
+        "text_count": 24,
+        "reaction_count": 6
+      },
+      {
+        "id": "10:7",
+        "name": "06_Messages",
+        "type": "FRAME",
+        "x": 8100,
+        "y": 0,
+        "width": 1440,
+        "height": 1024,
+        "text_count": 72,
+        "reaction_count": 6
+      },
+      {
+        "id": "10:8",
+        "name": "COMPONENTS",
+        "type": "TEXT",
+        "x": 0,
+        "y": 1180,
+        "width": 93,
+        "height": 16,
+        "render_bounds": {
+          "width": 91.59938049316406,
+          "height": 8.68798828125
+        },
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "15:2",
+        "name": "Top Bar",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 0,
+        "width": 1352,
+        "height": 80,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "15:14",
+        "name": "Avatar_Current_User",
+        "type": "INSTANCE",
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "16:6",
+        "name": "Top Bar",
+        "type": "COMPONENT",
+        "x": 0,
+        "y": 1250,
+        "width": 1352,
+        "height": 80,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "16:26",
+        "name": "Tag / Design",
+        "type": "COMPONENT",
+        "x": 1500,
+        "y": 2320,
+        "width": 56,
+        "height": 22,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "16:28",
+        "name": "Tag / Research",
+        "type": "COMPONENT",
+        "x": 1610,
+        "y": 2320,
+        "width": 69,
+        "height": 22,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "16:30",
+        "name": "Tag / Planning",
+        "type": "COMPONENT",
+        "x": 1720,
+        "y": 2320,
+        "width": 64,
+        "height": 22,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "16:32",
+        "name": "Tag / Content",
+        "type": "COMPONENT",
+        "x": 1830,
+        "y": 2320,
+        "width": 63,
+        "height": 22,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "16:34",
+        "name": "Icon Button",
+        "type": "COMPONENT",
+        "x": 1940,
+        "y": 2320,
+        "width": 40,
+        "height": 40,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "16:37",
+        "name": "Chat Bubble / In",
+        "type": "COMPONENT",
+        "x": 1500,
+        "y": 2400,
+        "width": 110,
+        "height": 39,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "16:39",
+        "name": "Chat Bubble / Out",
+        "type": "COMPONENT",
+        "x": 1560,
+        "y": 2400,
+        "width": 112,
+        "height": 37,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "18:13",
+        "name": "Nav Rail / Dashboard",
+        "type": "COMPONENT",
+        "x": 1500,
+        "y": 1250,
+        "width": 88,
+        "height": 1024,
+        "text_count": 1,
+        "reaction_count": 6
+      },
+      {
+        "id": "18:48",
+        "name": "Nav Rail / Timeline",
+        "type": "COMPONENT",
+        "x": 1640,
+        "y": 1250,
+        "width": 88,
+        "height": 1024,
+        "text_count": 1,
+        "reaction_count": 6
+      },
+      {
+        "id": "18:83",
+        "name": "Nav Rail / Task",
+        "type": "COMPONENT",
+        "x": 1780,
+        "y": 1250,
+        "width": 88,
+        "height": 1024,
+        "text_count": 1,
+        "reaction_count": 6
+      },
+      {
+        "id": "18:118",
+        "name": "Nav Rail / Settings",
+        "type": "COMPONENT",
+        "x": 1920,
+        "y": 1250,
+        "width": 88,
+        "height": 1024,
+        "text_count": 1,
+        "reaction_count": 6
+      },
+      {
+        "id": "18:153",
+        "name": "Nav Rail / Messages",
+        "type": "COMPONENT",
+        "x": 2060,
+        "y": 1250,
+        "width": 88,
+        "height": 1024,
+        "text_count": 1,
+        "reaction_count": 6
+      },
+      {
+        "id": "18:188",
+        "name": "Nav Rail / Files",
+        "type": "COMPONENT",
+        "x": 2200,
+        "y": 1250,
+        "width": 88,
+        "height": 1024,
+        "text_count": 1,
+        "reaction_count": 6
+      },
+      {
+        "id": "21:221",
+        "name": "+5",
+        "type": "TEXT",
+        "x": 0,
+        "y": 9,
+        "width": 32,
+        "height": 14,
+        "render_bounds": {
+          "width": 11.7435302734375,
+          "height": 7.832000732421875
+        },
+        "text_count": 0,
+        "reaction_count": 0
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nOCTOM — team task management web app\nDesign a team task-management web app: see today’s overview, plan the project timeline, move tasks on a board, manage files, edit your profile and chat with the team. Desktop web app, 1440 × 1024, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 6 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the logo, the avatars, the photos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Dashboard\nGoal: See today’s workload, schedule and messages at a glance.\nMUST INCLUDE\n• Messages: “Messages” · 4 conversations, each with avatar, name and last message (see DATA)\n• New Task: “New Task” · more (Icon_More) · “Task Title” · field “Create new” · emoji row 🎉 😍 😁 🔥 😘 😉 😎 👩 🙄 · “Add Collaborators” · chips Angela · Chris (each with an avatar) · add (Icon_Plus) · send (Icon_Send)\n• Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Dashboard\n• Stats: Task Completed 08 · New Task 10 · Project Done 10, each with icon, trend line and change “10+ more / 10+ more / 08+ more from last week”\n• Task Done: “Task Done” · Daily · Weekly · Monthly · current: Monthly · line chart with two series, y axis 0 – 400, months May – Apr (values illustrative)\n• Tasks: “Task” · 2 task rows, each with play (Icon_Play), “Start from” and time (Icon_Clock), title, link (Icon_Link), comments (Icon_Comment), progress and “Reminder” (Icon_Bell) (see DATA)\n• Today’s Schedule: “Today’s Schedule” · “30 minute call with Client” · “+ Invite” · “Project Discovery Call” · 3 participant avatars + initials “R” · timer 28:35 · call (Icon_Phone)\n• Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)\nLINKS\n→ sidebar icons → 02_Timeline, 03_Task_Board, 05_Settings, 06_Messages, 04_Files\n→ a message → 06_Messages\n02_Timeline\nGoal: Plan the project phases on a day-by-day timeline.\nMUST INCLUDE\n• Bars: 11 task bars on the timeline, each with label and percent (see DATA)\n• Complete Task: “Complete Task” · line chart of 7 points 67 · 73 · 53 · 47 · 39 · 27 · 27 · highlighted point: the last\n• Day scale: S 04 … S 21 (18 consecutive days)\n• Header: “Timeline” · “Today” · previous (Icon_Chevron_Left) · “June 20, 2022” · next (Icon_Chevron_Right) · “+ Invite” · team avatars with +5\n• Phases: UX Research · Information Architecture · Design Phase (Build Wireframe, User Interface Design) · Prototyping · Development (Back-End Development, Front-End Development), each phase with member avatars and more (Icon_More)\n• Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Timeline\n• Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)\nLINKS\n→ sidebar icons → other frames\n03_Task_Board\nGoal: Track tasks across the four board columns and chat with the group.\nMUST INCLUDE\n• Board: columns Backlog · To Do · In Progress · Review, each with more (Icon_More) and add (Icon_Plus) · 12 task cards (see DATA)\n• Group chat: “Group Chat” · messages from members (avatar) and from you (see DATA) · voice message 1:25 (Icon_Play) · input “write here...” (Icon_Mic, Icon_Send)\n• Header: “🔥 Task” · team avatars with +6 · add (Icon_Plus)\n• Members: “Member (25)” · “View All” · member avatars\n• Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Task\n• Task card: tag · title · “Create content for peceland App” · date (Icon_Calendar) · 3 member avatars · checklist 0/8 (Icon_Checklist) or “4 Comment” (Icon_Comment) · “11 file” (Icon_Attachment) · cover photo where given\n• Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2 · Avatar_Current_User · account menu (Icon_Chevron_Down)\nLINKS\n→ sidebar icons → other frames\n04_Files\nGoal: Find a folder or a recent file and check storage.\nMUST INCLUDE\n• Activity Chart: “Activity Chart” · bar chart with legend Media · Photos · Docs (values illustrative)\n• All Files: “All Files” · “Show All” (Icon_Chevron_Down) · 6 folders (Icon_Folder), each with name, file count and member chips (see DATA)\n• Available Storage: “Available Storage” · 27% · “140GB / 512GB” · Media 86 GB · Documents 26 GB · Music 10 GB · Other File 18 GB, each with icon and usage bar\n• Header: “Files” · “+ Create New Folder” · “Upload” (Icon_Upload)\n• Recent Files: “Recent Files” · “View All” · table Name · Size · Last Modified · Members, sortable (Icon_Arrow_Up) · 4 rows with file icon (Icon_File), member avatars and more (Icon_More_Vertical) (see DATA)\n• Sidebar: Logo_Octom · “OCTOM.” · icon navigation Dashboard (Icon_Nav_Dashboard) · Timeline (Icon_Nav_Timeline) · Task (Icon_Nav_Task) · Settings (Icon_Nav_Settings) · Messages (Icon_Nav_Messages) · Files (Icon_Nav_Files) · current: Files\n• Top bar: search field “Search anything...” (Icon_Search) · notifications (Icon_Bell) with count 2",
+  "layer_summary": {
+    "board_count": 6,
+    "boards": [
+      {
+        "name": "01_Dashboard",
+        "size": "1440×1024",
+        "nodes": 232,
+        "max_depth": 5,
+        "instances": 38,
+        "texts": 73,
+        "images": 0,
+        "types": [
+          "text×73",
+          "frame×51",
+          "vector×46",
+          "instance×38",
+          "ellipse×24"
+        ],
+        "names": [
+          "Nav Rail / Dashboard",
+          "Logo_Octom",
+          "Vector",
+          "OCTOM.",
+          "Nav Dashboard",
+          "Icon_Nav_Dashboard"
+        ]
+      },
+      {
+        "name": "02_Timeline",
+        "size": "1440×1024",
+        "nodes": 197,
+        "max_depth": 4,
+        "instances": 40,
+        "texts": 63,
+        "images": 0,
+        "types": [
+          "text×63",
+          "frame×44",
+          "vector×43",
+          "instance×40",
+          "ellipse×7"
+        ],
+        "names": [
+          "Nav Rail / Timeline",
+          "Logo_Octom",
+          "Vector",
+          "OCTOM.",
+          "Nav Dashboard",
+          "Icon_Nav_Dashboard"
+        ]
+      },
+      {
+        "name": "03_Task_Board",
+        "size": "1440×1024",
+        "nodes": 271,
+        "max_depth": 5,
+        "instances": 83,
+        "texts": 79,
+        "images": 0,
+        "types": [
+          "instance×83",
+          "text×79",
+          "vector×73",
+          "frame×36"
+        ],
+        "names": [
+          "Nav Rail / Task",
+          "Logo_Octom",
+          "Vector",
+          "OCTOM.",
+          "Nav Dashboard",
+          "Icon_Nav_Dashboard"
+        ]
+      },
+      {
+        "name": "04_Files",
+        "size": "1440×1024",
+        "nodes": 222,
+        "max_depth": 4,
+        "instances": 39,
+        "texts": 51,
+        "images": 0,
+        "types": [
+          "vector×79",
+          "frame×53",
+          "text×51",
+          "instance×39"
+        ],
+        "names": [
+          "Nav Rail / Files",
+          "Logo_Octom",
+          "Vector",
+          "OCTOM.",
+          "Nav Dashboard",
+          "Icon_Nav_Dashboard"
+        ]
+      },
+      {
+        "name": "05_Settings",
+        "size": "1440×1024",
+        "nodes": 84,
+        "max_depth": 4,
+        "instances": 18,
+        "texts": 24,
+        "images": 0,
+        "types": [
+          "text×24",
+          "vector×23",
+          "frame×19",
+          "instance×18"
+        ],
+        "names": [
+          "Nav Rail / Settings",
+          "Logo_Octom",
+          "Vector",
+          "OCTOM.",
+          "Nav Dashboard",
+          "Icon_Nav_Dashboard"
+        ]
+      },
+      {
+        "name": "06_Messages",
+        "size": "1440×1024",
+        "nodes": 197,
+        "max_depth": 4,
+        "instances": 55,
+        "texts": 72,
+        "images": 0,
+        "types": [
+          "text×72",
+          "instance×55",
+          "vector×44",
+          "frame×26"
+        ],
+        "names": [
+          "Nav Rail / Messages",
+          "Logo_Octom",
+          "Vector",
+          "OCTOM.",
+          "Nav Dashboard",
+          "Icon_Nav_Dashboard"
+        ]
+      }
+    ]
+  }
+}

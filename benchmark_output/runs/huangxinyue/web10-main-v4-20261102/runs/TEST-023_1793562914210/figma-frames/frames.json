@@ -1,0 +1,189 @@
+[
+  {
+    "node_id": "19:33",
+    "name": "01_Home",
+    "file": "19-33.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "zj84fVMgzEUIcsaY8ScK7u",
+        "nodeId": "19:33",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "6c5cdf7dc5445aad4960d36bf52e155bcc48bfe4ef219d4f40c46845a40ff81d",
+      "response_file": "_debug/v2-native-19-33.png.txt",
+      "response_sha256": "0d675c9bb0cce5c055c4e70060165900cf4b5e05f1f2c15831c09a353acce69d"
+    }
+  },
+  {
+    "node_id": "22:595",
+    "name": "02_Shop",
+    "file": "22-595.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "zj84fVMgzEUIcsaY8ScK7u",
+        "nodeId": "22:595",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "d65140191f71002ab8bc02aa6c93142037459ccbed127db6667e34e24408b7c1",
+      "response_file": "_debug/v2-native-22-595.png.txt",
+      "response_sha256": "d2e303fec414f9898e9729e79bcf94608d9bfe34543a108433ea33421eb1ca9a"
+    }
+  },
+  {
+    "node_id": "25:628",
+    "name": "03_Product",
+    "file": "25-628.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "zj84fVMgzEUIcsaY8ScK7u",
+        "nodeId": "25:628",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "2bbe73f689ff15874c6be43d08137e9ce6bb08c79abd1a4ded2814731d5635a1",
+      "response_file": "_debug/v2-native-25-628.png.txt",
+      "response_sha256": "517352534d02e5457451d236c593ac620712923bde44a4c9a17cb0d046b25fd9"
+    }
+  },
+  {
+    "node_id": "27:834",
+    "name": "04_Mini_Cart",
+    "file": "27-834.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "zj84fVMgzEUIcsaY8ScK7u",
+        "nodeId": "27:834",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "dc5d669367833e984057d2d72fb0c03e059b7f3c8feb60f10471ea93b3063495",
+      "response_file": "_debug/v2-native-27-834.png.txt",
+      "response_sha256": "54100a353bb1c0c8b597a23adf29d6c4fe09b083c9fb171cf0e05428dbc270f4"
+    }
+  },
+  {
+    "node_id": "28:1052",
+    "name": "05_Cart",
+    "file": "28-1052.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "zj84fVMgzEUIcsaY8ScK7u",
+        "nodeId": "28:1052",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "eab99129931b69b3f0a7eee0f53be0dc64ffd48c67fc083a7bf1893625b8204e",
+      "response_file": "_debug/v2-native-28-1052.png.txt",
+      "response_sha256": "a51df3a9e712e05c4bdb9394387ae4aa82d424943ee68c6a623d753b96107056"
+    }
+  },
+  {
+    "node_id": "28:1126",
+    "name": "06_Checkout",
+    "file": "28-1126.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "zj84fVMgzEUIcsaY8ScK7u",
+        "nodeId": "28:1126",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "92932e15f8f450f4bb18a6fa2843fce28923b562cd5241b9c27d881047038565",
+      "response_file": "_debug/v2-native-28-1126.png.txt",
+      "response_sha256": "b4375bee85af5da682e493f133d71304fd6c693dd9db8337bcbb8c2d55ff9d51"
+    }
+  },
+  {
+    "node_id": "31:1227",
+    "name": "07_Sign_Up",
+    "file": "31-1227.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "zj84fVMgzEUIcsaY8ScK7u",
+        "nodeId": "31:1227",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "208b91a5971c28f1f48b99b5c2f6e312bc4ea708542be13b11aea8549eff2cb2",
+      "response_file": "_debug/v2-native-31-1227.png.txt",
+      "response_sha256": "f01641e0eb0f6e310954ffcf592e0f527f45e34da5f388bef766f2f6b25f5aa3"
+    }
+  },
+  {
+    "node_id": "32:1246",
+    "name": "08_Sign_In",
+    "file": "32-1246.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "zj84fVMgzEUIcsaY8ScK7u",
+        "nodeId": "32:1246",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "f5d3c5ef12f1427b7e2d52e0539312ca6d34ac27bac4256c8411f24d0d810fb0",
+      "response_file": "_debug/v2-native-32-1246.png.txt",
+      "response_sha256": "1bb45de6ea8001e5adde20ad5c0d33a77cdb63b14ba03faae2d7452e98f4b0bf"
+    }
+  },
+  {
+    "node_id": "32:1281",
+    "name": "09_Forgot_Password",
+    "file": "32-1281.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "zj84fVMgzEUIcsaY8ScK7u",
+        "nodeId": "32:1281",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "c81d12352ccffa4c55278e3c3d6c8a550801a0c95429b70636e77326a543f6b6",
+      "response_file": "_debug/v2-native-32-1281.png.txt",
+      "response_sha256": "0a02cf6ca616a56044ee1f61b4eca7f8d9c761d166498694994a741ccc9a6a3a"
+    }
+  },
+  {
+    "node_id": "32:1313",
+    "name": "10_Confirmation_Code",
+    "file": "32-1313.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "zj84fVMgzEUIcsaY8ScK7u",
+        "nodeId": "32:1313",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "88e7e0e270b331bd82ed15642fd7b18d645a7624b33bf7d97568bf5db8e71470",
+      "response_file": "_debug/v2-native-32-1313.png.txt",
+      "response_sha256": "5a49fab8dbf4c8f2873af6438f2f01e6d3af00d789cb0e9ab22dbc5148173a8e"
+    }
+  },
+  {
+    "node_id": "32:1333",
+    "name": "11_New_Password",
+    "file": "32-1333.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "zj84fVMgzEUIcsaY8ScK7u",
+        "nodeId": "32:1333",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "cc8674b91a508a2ede4a366ba49abe46c321eba0dda788e326bba26fabf890b0",
+      "response_file": "_debug/v2-native-32-1333.png.txt",
+      "response_sha256": "f7974f8ee8e8dac87dc15682c72414d929f962a741ac5395a1c43ab46827eed6"
+    }
+  }
+]

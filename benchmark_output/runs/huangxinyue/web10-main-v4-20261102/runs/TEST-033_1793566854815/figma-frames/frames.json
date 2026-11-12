@@ -1,0 +1,69 @@
+[
+  {
+    "node_id": "15:44",
+    "name": "01_Home",
+    "file": "15-44.png",
+    "native_capture": {
+      "kind": "figma-native-frame-capture/v1",
+      "tool": "get_screenshot",
+      "arguments": {
+        "fileKey": "raTuJeRXANVtA5RLmrbBWI",
+        "nodeId": "15:44",
+        "maxDimension": 8000
+      },
+      "screenshot_sha256": "2f1168d4f7de08ceaf9b8036e86080b8ece7cacfcd34eb5c9371819bf425e2c9",
+      "response_file": "_debug/v2-native-15-44.png.txt",
+      "response_sha256": "996fd5c66289cedd43801d6bae846ebe5d70c5843c6483ba7b4d29f1228af3b5"
+    }
+  },
+  {
+    "node_id": "24:278",
+    "name": "02_Shop",
+    "file": "24-278.png"
+  },
+  {
+    "node_id": "25:433",
+    "name": "03_Product",
+    "file": "25-433.png"
+  },
+  {
+    "node_id": "26:550",
+    "name": "04_Mini_Cart",
+    "file": "26-550.png"
+  },
+  {
+    "node_id": "27:675",
+    "name": "05_Cart",
+    "file": "27-675.png"
+  },
+  {
+    "node_id": "28:704",
+    "name": "06_Checkout",
+    "file": "28-704.png"
+  },
+  {
+    "node_id": "29:765",
+    "name": "07_Sign_Up",
+    "file": "29-765.png"
+  },
+  {
+    "node_id": "29:807",
+    "name": "08_Sign_In",
+    "file": "29-807.png"
+  },
+  {
+    "node_id": "29:833",
+    "name": "09_Forgot_Password",
+    "file": "29-833.png"
+  },
+  {
+    "node_id": "29:858",
+    "name": "10_Confirmation_Code",
+    "file": "29-858.png"
+  },
+  {
+    "node_id": "29:871",
+    "name": "11_New_Password",
+    "file": "29-871.png"
+  }
+]

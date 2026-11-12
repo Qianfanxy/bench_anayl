@@ -1,0 +1,10 @@
+All screens verified. Final checks pass:
+- 6 frames named exactly, 1440×1024, in 03 · Workspace (page 8:2)
+- Sidebar + top bar on all, current nav state per screen
+- Prototype: sidebar nav links on all 6 screens (5 non-self links each = 30) + 4 dashboard message rows → 06
+- All fixed data/copy included
+- Media assets used (avatars, photos, icons, logo)
+- Button & Text Field components reused
+- Sidebar spec component created in workspace
+
+I'm done. Write final answer with IDs.

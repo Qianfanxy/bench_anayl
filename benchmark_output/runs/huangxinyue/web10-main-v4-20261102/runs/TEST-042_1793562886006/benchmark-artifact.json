@@ -1,0 +1,272 @@
+{
+  "file_key": "jlYo1Mf0FWeLZM7LsB5lKa",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "9:2",
+      "name": "03 · Workspace",
+      "child_count": 7
+    }
+  ],
+  "workspace": {
+    "id": "9:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "10:117",
+        "name": "■ Assets",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 4700,
+        "height": 748,
+        "render_bounds": {
+          "width": 4835,
+          "height": 748
+        },
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:4",
+        "name": "■ Components",
+        "type": "FRAME",
+        "x": 0,
+        "y": 1200,
+        "width": 4400,
+        "height": 2500,
+        "render_bounds": {
+          "width": 4432,
+          "height": 2707
+        },
+        "text_count": 52,
+        "reaction_count": 0
+      },
+      {
+        "id": "15:48",
+        "name": "01_Home",
+        "type": "FRAME",
+        "x": 0,
+        "y": 3940,
+        "width": 1440,
+        "height": 5783,
+        "text_count": 116,
+        "reaction_count": 5
+      },
+      {
+        "id": "19:552",
+        "name": "02_Recipe",
+        "type": "FRAME",
+        "x": 1680,
+        "y": 3940,
+        "width": 1440,
+        "height": 4283,
+        "text_count": 82,
+        "reaction_count": 6
+      },
+      {
+        "id": "21:734",
+        "name": "03_Blog",
+        "type": "FRAME",
+        "x": 3360,
+        "y": 3940,
+        "width": 1440,
+        "height": 2872,
+        "text_count": 58,
+        "reaction_count": 5
+      },
+      {
+        "id": "24:883",
+        "name": "04_Blog_Post",
+        "type": "FRAME",
+        "x": 5040,
+        "y": 3940,
+        "width": 1440,
+        "height": 3703,
+        "text_count": 44,
+        "reaction_count": 5
+      },
+      {
+        "id": "24:1078",
+        "name": "05_Contact",
+        "type": "FRAME",
+        "x": 6720,
+        "y": 3940,
+        "width": 1440,
+        "height": 2188,
+        "text_count": 40,
+        "reaction_count": 5
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nFoodieland — recipe and food blog website\nDesign a recipe website: discover featured and popular recipes, open a recipe with its ingredients and directions, browse and read blog articles, and contact the team. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 5 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the wordmark, the social logos, the photos, the category images, the decorations, the avatars and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Home\nGoal: Find something to cook today.\nMUST INCLUDE\n• Categories: “Categories” · “View All Categories” · Breakfast · Vegan · Meat · Dessert · Lunch · Chocolate, each with its image (Category_Breakfast … Category_Chocolate)\n• Chef promo: “Everyone can be a chef in their own kitchen” · copy (see DATA) · “Learn More” · Photo_Chef · Decor_Tomato · Decor_Onion\n• Featured recipe: “Hot Recipes” (Icon_Hot_Recipes) · “Spicy delicious chicken wings” · copy (see DATA) · 30 Minutes (Icon_Timer) · Chicken (Icon_Fork_Knife) · Avatar_John_Smith · John Smith · 15 March 2022 · “View Recipes” (Icon_Play) · Photo_Hero_Chicken_Wings · round badge “Handpicked Recipes”\n• Footer: see DATA (Footer)\n• Header: Logo_Foodieland · navigation Home / Recipes / Blog / Contact / About us · current: Home · Logo_Facebook · Logo_Twitter · Logo_Instagram\n• Instagram: “Check out @foodieland on Instagram” · copy (see DATA) · 4 posts, each with Avatar_Foodieland · “Foodieland.” · “Tokyo, Japan” · more (Icon_More) · photo · photo counter 1/3 · like (Icon_Like) · comment (Icon_Comment) · share (Icon_Send) · save (Icon_Save) · “Liked by craig_love and 44,686 others” · caption · “September 19” (see DATA) · “Visit Our Instagram” (Logo_Instagram)\n• More recipes: “Try this delicious recipe to make your day” · copy (see DATA) · 8 recipe cards with photo, title, time (Icon_Timer), category (Icon_Fork_Knife) and favorite (Icon_Favorite) · favorited: as marked in DATA\n• Newsletter: “Deliciousness to your inbox” · copy (see DATA) · email field “Your email address...” · “Subscribe” · Decor_Subscribe_Vegetables · Decor_Subscribe_Leaf · Decor_Subscribe_Salad\n• Simple and tasty recipes: “Simple and tasty recipes” · copy (see DATA) · 8 recipe cards with photo, title, time (Icon_Timer), category (Icon_Fork_Knife) and favorite (Icon_Favorite) · favorited: as marked in DATA · promo card: “Don’t forget to eat healthy food” · “www.foodieland.com” · Photo_Ad_Salad\nLINKS\n→ “Healthy Japanese Fried Rice with Asparagus” card → 02_Recipe\n→ Blog (nav) → 03_Blog\n→ Contact (nav) → 05_Contact\n02_Recipe\nGoal: Follow the recipe for Healthy Japanese Fried Rice with Asparagus.\nMUST INCLUDE\n• Actions: “PRINT” (Icon_Print) · “SHARE” (Icon_Share)\n• Directions: “Directions” · 3 steps, each with checkbox, number, title and text; step 1 also has Photo_Cooking_Step (see DATA)\n• Footer: see DATA (Footer)\n• Header: Logo_Foodieland · navigation Home / Recipes / Blog / Contact / About us · current: Recipes · Logo_Facebook · Logo_Twitter · Logo_Instagram\n• Ingredients: “Ingredients” · “For main dish” 5 items · “For the sauce” 3 items · each with a checkbox · checked: the first main-dish item (Icon_Check) (see DATA)\n• Intro: one paragraph (see DATA)\n• Media: Photo_Japanese_Fried_Rice as the recipe video cover · play (Icon_Play)\n• Meta: Avatar_John_Smith · John Smith · 15 March 2022 · “PREP TIME” 15 Minutes (Icon_Timer) · “COOK TIME” 15 Minutes (Icon_Timer) · Healthy (Icon_Fork_Knife)\n• Newsletter: “Deliciousness to your inbox” · copy (see DATA) · email field “Your email address...” · “Subscribe” · Decor_Subscribe_Vegetables · Decor_Subscribe_Leaf · Decor_Subscribe_Salad\n• Nutrition Information: Calories 219.9 kcal · Total Fat 10.7 g · Protein 7.9 g · Carbohydrate 22.3 g · Cholesterol 37.4 mg · note (see DATA)\n• Other Recipe: “Other Recipe” · Chicken Meatballs with Cream Cheese · The Creamiest Creamy Chicken and Bacon Pasta · The Best Easy One Pot Chicken and Rice, each with photo and “By Andreas Paula”\n• Promo card: “Don’t forget to eat healthy food” · “www.foodieland.com” · Photo_Ad_Salad\n• Recommended recipes: “You may like these recipes too” · the first 4 cards of “More recipes” in DATA, each with photo, title, time (Icon_Timer), category (Icon_Fork_Knife) and favorite (Icon_Favorite)\n• Title: “Healthy Japanese Fried Rice with Asparagus”\nLINKS\n→ Home (nav) → 01_Home\n→ Blog (nav) → 03_Blog\n03_Blog\nGoal: Find an article to read.\nMUST INCLUDE\n• Articles: 6 articles, each with photo, title, excerpt, author avatar, author name and date (see DATA)\n• Footer: see DATA (Footer)\n• Header: Logo_Foodieland · navigation Home / Recipes / Blog / Contact / About us · current: Blog · Logo_Facebook · Logo_Twitter · Logo_Instagram\n• Newsletter: “Deliciousness to your inbox” · copy (see DATA) · email field “Your email address...” · “Subscribe” · Decor_Subscribe_Vegetables · Decor_Subscribe_Leaf · Decor_Subscribe_Salad\n• Page intro: “Blog & Article” · “Recipes, kitchen tips and stories from the Foodieland team.”\n• Pagination: 1 · 2 · 3 · 4 · 5 · … · next (Icon_Chevron_Right) · current: 1\n• Promo card: “Don’t forget to eat healthy food” · “www.foodieland.com” · Photo_Ad_Salad\n• Search: field “Search article, news or recipe...” · “Search”\n• Tasty Recipes: “Tasty Recipes” · Chicken Meatballs with Cream Cheese (Photo_Chicken_Meatballs) · Traditional Bolognaise Ragu (Photo_Creamy_Chicken_Bacon_Pasta) · Pork and Chive Chinese Dumplings (Photo_",
+  "layer_summary": {
+    "board_count": 6,
+    "boards": [
+      {
+        "name": "■ Assets",
+        "size": "4700×748",
+        "nodes": 100,
+        "max_depth": 3,
+        "instances": 71,
+        "texts": 3,
+        "images": 0,
+        "types": [
+          "component×71",
+          "vector×25",
+          "text×3",
+          "frame×1"
+        ],
+        "names": [
+          "Logo_Facebook",
+          "Vector",
+          "Logo_Foodieland",
+          "Logo_Instagram",
+          "Logo_Twitter",
+          "Decor_Onion"
+        ]
+      },
+      {
+        "name": "01_Home",
+        "size": "1440×5783",
+        "nodes": 564,
+        "max_depth": 7,
+        "instances": 210,
+        "texts": 116,
+        "images": 0,
+        "types": [
+          "instance×210",
+          "vector×126",
+          "text×116",
+          "frame×111",
+          "rectangle×1"
+        ],
+        "names": [
+          "Header / Home",
+          "Logo_Foodieland",
+          "Nav",
+          "Nav / Home",
+          "Label row",
+          "Label"
+        ]
+      },
+      {
+        "name": "02_Recipe",
+        "size": "1440×4283",
+        "nodes": 288,
+        "max_depth": 7,
+        "instances": 89,
+        "texts": 82,
+        "images": 0,
+        "types": [
+          "instance×89",
+          "text×82",
+          "frame×75",
+          "vector×41",
+          "rectangle×1"
+        ],
+        "names": [
+          "Header",
+          "Logo_Foodieland",
+          "Nav",
+          "Nav / Home",
+          "Label",
+          "Nav / Recipes"
+        ]
+      },
+      {
+        "name": "03_Blog",
+        "size": "1440×2872",
+        "nodes": 180,
+        "max_depth": 6,
+        "instances": 57,
+        "texts": 58,
+        "images": 0,
+        "types": [
+          "text×58",
+          "instance×57",
+          "frame×47",
+          "vector×11",
+          "ellipse×6",
+          "rectangle×1"
+        ],
+        "names": [
+          "Header",
+          "Logo_Foodieland",
+          "Nav",
+          "Nav / Home",
+          "Label",
+          "Nav / Recipes"
+        ]
+      },
+      {
+        "name": "04_Blog_Post",
+        "size": "1440×3703",
+        "nodes": 185,
+        "max_depth": 7,
+        "instances": 61,
+        "texts": 44,
+        "images": 0,
+        "types": [
+          "instance×61",
+          "text×44",
+          "frame×43",
+          "vector×35",
+          "rectangle×1",
+          "ellipse×1"
+        ],
+        "names": [
+          "Header",
+          "Logo_Foodieland",
+          "Nav",
+          "Nav / Home",
+          "Label",
+          "Nav / Recipes"
+        ]
+      },
+      {
+        "name": "05_Contact",
+        "size": "1440×2188",
+        "nodes": 171,
+        "max_depth": 7,
+        "instances": 57,
+        "texts": 40,
+        "images": 0,
+        "types": [
+          "instance×57",
+          "frame×42",
+          "text×40",
+          "vector×31",
+          "rectangle×1"
+        ],
+        "names": [
+          "Header",
+          "Logo_Foodieland",
+          "Nav",
+          "Nav / Home",
+          "Label",
+          "Nav / Recipes"
+        ]
+      }
+    ]
+  }
+}

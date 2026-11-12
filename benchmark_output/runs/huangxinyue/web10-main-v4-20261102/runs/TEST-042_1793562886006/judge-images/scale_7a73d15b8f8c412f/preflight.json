@@ -1,0 +1,115 @@
+{
+  "max_dimension": 8000,
+  "max_base64_bytes": 5000000,
+  "max_total_bytes": 25165824,
+  "images": [
+    {
+      "index": 1,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-042_1793562886006/figma-frames/10-117.png",
+      "source_sha256": "9a51174a6f0049b9c15c816634f0957e13a544b34b2dcc1c9877cac7b1720706",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-042_1793562886006/judge-images/scale_7a73d15b8f8c412f/01-9a51174a6f0049b9-8000.png",
+      "original_size": [
+        4718,
+        748
+      ],
+      "submitted_size": [
+        4302,
+        682
+      ],
+      "resized": true,
+      "original_bytes": 3816986,
+      "submitted_bytes": 3297008,
+      "submitted_base64_bytes": 4396012
+    },
+    {
+      "index": 2,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-042_1793562886006/figma-frames/15-48.png",
+      "source_sha256": "c57b6899b49568f629476d4d29e68510a90e76477119e1d3710d56a2efe0aa2d",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-042_1793562886006/figma-frames/15-48.png",
+      "original_size": [
+        1446,
+        5783
+      ],
+      "submitted_size": [
+        1446,
+        5783
+      ],
+      "resized": false,
+      "original_bytes": 3648703,
+      "submitted_bytes": 3648703,
+      "submitted_base64_bytes": 4864940
+    },
+    {
+      "index": 3,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-042_1793562886006/figma-frames/19-552.png",
+      "source_sha256": "dc92420c9e5dde63aca44bc5464e7df355b25d141722182957a37eae0adb4d5c",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-042_1793562886006/figma-frames/19-552.png",
+      "original_size": [
+        1445,
+        4283
+      ],
+      "submitted_size": [
+        1445,
+        4283
+      ],
+      "resized": false,
+      "original_bytes": 2589844,
+      "submitted_bytes": 2589844,
+      "submitted_base64_bytes": 3453128
+    },
+    {
+      "index": 4,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-042_1793562886006/figma-frames/21-734.png",
+      "source_sha256": "cd6f85e65b15a90cbf318f2123584e7bc8e16bfd38757cdead9f7dc6040cfdd7",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-042_1793562886006/figma-frames/21-734.png",
+      "original_size": [
+        1446,
+        2872
+      ],
+      "submitted_size": [
+        1446,
+        2872
+      ],
+      "resized": false,
+      "original_bytes": 1327263,
+      "submitted_bytes": 1327263,
+      "submitted_base64_bytes": 1769684
+    },
+    {
+      "index": 5,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-042_1793562886006/figma-frames/24-883.png",
+      "source_sha256": "74f3aa3e458deeca13a4717e6b87c6641338b89d20d66e51bba00a6ebec21c47",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-042_1793562886006/figma-frames/24-883.png",
+      "original_size": [
+        1445,
+        3703
+      ],
+      "submitted_size": [
+        1445,
+        3703
+      ],
+      "resized": false,
+      "original_bytes": 2368827,
+      "submitted_bytes": 2368827,
+      "submitted_base64_bytes": 3158436
+    },
+    {
+      "index": 6,
+      "source_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-042_1793562886006/figma-frames/24-1078.png",
+      "source_sha256": "679e919501774bbc847cc072b4d948e1e14ce8f22360cd69203cfb883fd5b04e",
+      "submitted_path": "/mnt/afs/huangxinyue/bench-runs/web10-main-v4-20261102/runs/TEST-042_1793562886006/figma-frames/24-1078.png",
+      "original_size": [
+        1446,
+        2188
+      ],
+      "submitted_size": [
+        1446,
+        2188
+      ],
+      "resized": false,
+      "original_bytes": 852985,
+      "submitted_bytes": 852985,
+      "submitted_base64_bytes": 1137316
+    }
+  ]
+}

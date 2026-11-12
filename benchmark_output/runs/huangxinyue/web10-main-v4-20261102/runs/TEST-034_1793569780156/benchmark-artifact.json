@@ -1,0 +1,553 @@
+{
+  "file_key": "v7DhK3JEKoEZ85CKjv3t3x",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "6:2",
+      "name": "03 · Workspace",
+      "child_count": 37
+    }
+  ],
+  "workspace": {
+    "id": "6:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "9:2",
+        "name": "Star/Full",
+        "type": "COMPONENT",
+        "x": 100,
+        "y": -5400,
+        "width": 18,
+        "height": 18,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:5",
+        "name": "Star/Half",
+        "type": "COMPONENT",
+        "x": 218,
+        "y": -5400,
+        "width": 18,
+        "height": 18,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:8",
+        "name": "Star/Empty",
+        "type": "COMPONENT",
+        "x": 336,
+        "y": -5400,
+        "width": 18,
+        "height": 18,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:11",
+        "name": "Rating/5.0",
+        "type": "COMPONENT",
+        "x": 454,
+        "y": -5400,
+        "width": 106,
+        "height": 18,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:27",
+        "name": "Rating/4.5",
+        "type": "COMPONENT",
+        "x": 660,
+        "y": -5400,
+        "width": 106,
+        "height": 18,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:43",
+        "name": "Rating/4.0",
+        "type": "COMPONENT",
+        "x": 866,
+        "y": -5400,
+        "width": 106,
+        "height": 18,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:59",
+        "name": "Rating/3.5",
+        "type": "COMPONENT",
+        "x": 1072,
+        "y": -5400,
+        "width": 106,
+        "height": 18,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:75",
+        "name": "Rating/3.0",
+        "type": "COMPONENT",
+        "x": 1278,
+        "y": -5400,
+        "width": 106,
+        "height": 18,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:91",
+        "name": "Field/Search",
+        "type": "COMPONENT",
+        "x": 1484,
+        "y": -5400,
+        "width": 350,
+        "height": 48,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:96",
+        "name": "Stepper/Default",
+        "type": "COMPONENT",
+        "x": 1934,
+        "y": -5400,
+        "width": 119,
+        "height": 44,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:102",
+        "name": "Button/Outline",
+        "type": "COMPONENT",
+        "x": 2153,
+        "y": -5400,
+        "width": 111,
+        "height": 54,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:104",
+        "name": "Button/Checkout",
+        "type": "COMPONENT",
+        "x": 2364,
+        "y": -5400,
+        "width": 352,
+        "height": 52,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "9:108",
+        "name": "COMPONENTS",
+        "type": "TEXT",
+        "x": 100,
+        "y": -5480,
+        "width": 191,
+        "height": 26,
+        "render_bounds": {
+          "width": 188.6574249267578,
+          "height": 17.087890625
+        },
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:2",
+        "name": "Announcement Bar",
+        "type": "COMPONENT",
+        "x": 2100,
+        "y": -5400,
+        "width": 1440,
+        "height": 40,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:7",
+        "name": "Header",
+        "type": "COMPONENT",
+        "x": 3660,
+        "y": -5400,
+        "width": 1440,
+        "height": 96,
+        "text_count": 6,
+        "reaction_count": 1
+      },
+      {
+        "id": "10:37",
+        "name": "Newsletter",
+        "type": "COMPONENT",
+        "x": 5220,
+        "y": -5400,
+        "width": 1240,
+        "height": 174,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "10:46",
+        "name": "Footer",
+        "type": "COMPONENT",
+        "x": 100,
+        "y": -5106,
+        "width": 1440,
+        "height": 373,
+        "text_count": 23,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:2",
+        "name": "Product Card",
+        "type": "COMPONENT",
+        "x": 100,
+        "y": -5100,
+        "width": 295,
+        "height": 399,
+        "text_count": 5,
+        "reaction_count": 1
+      },
+      {
+        "id": "11:41",
+        "name": "Style Tile",
+        "type": "COMPONENT",
+        "x": 515,
+        "y": -5100,
+        "width": 293,
+        "height": 220,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:44",
+        "name": "Review Card",
+        "type": "COMPONENT",
+        "x": 928,
+        "y": -5100,
+        "width": 400,
+        "height": 220,
+        "text_count": 2,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:77",
+        "name": "Product Review Card",
+        "type": "COMPONENT",
+        "x": 1448,
+        "y": -5100,
+        "width": 612,
+        "height": 211,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "11:106",
+        "name": "Cart Line Item",
+        "type": "COMPONENT",
+        "x": 2180,
+        "y": -5100,
+        "width": 792,
+        "height": 153,
+        "text_count": 5,
+        "reaction_count": 1
+      },
+      {
+        "id": "13:132",
+        "name": "Pagination",
+        "type": "COMPONENT",
+        "x": 2900,
+        "y": -4000,
+        "width": 577,
+        "height": 46,
+        "text_count": 9,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:2",
+        "name": "Gallery",
+        "type": "COMPONENT",
+        "x": 4300,
+        "y": -5400,
+        "width": 612,
+        "height": 530,
+        "text_count": 0,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:12",
+        "name": "Color Picker",
+        "type": "COMPONENT",
+        "x": 5032,
+        "y": -5400,
+        "width": 120,
+        "height": 68,
+        "text_count": 1,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:20",
+        "name": "Size Picker",
+        "type": "COMPONENT",
+        "x": 5272,
+        "y": -5400,
+        "width": 576,
+        "height": 84,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:31",
+        "name": "Tabs",
+        "type": "COMPONENT",
+        "x": 5968,
+        "y": -5400,
+        "width": 1240,
+        "height": 47,
+        "text_count": 3,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:43",
+        "name": "Reviews Toolbar",
+        "type": "COMPONENT",
+        "x": 100,
+        "y": -4750,
+        "width": 1240,
+        "height": 52,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:61",
+        "name": "Order Summary",
+        "type": "COMPONENT",
+        "x": 1460,
+        "y": -4750,
+        "width": 416,
+        "height": 387,
+        "text_count": 12,
+        "reaction_count": 0
+      },
+      {
+        "id": "14:89",
+        "name": "Purchase Panel",
+        "type": "COMPONENT",
+        "x": 1996,
+        "y": -4750,
+        "width": 576,
+        "height": 480,
+        "text_count": 14,
+        "reaction_count": 0
+      },
+      {
+        "id": "15:2",
+        "name": "Hero",
+        "type": "COMPONENT",
+        "x": 2900,
+        "y": -5000,
+        "width": 1240,
+        "height": 640,
+        "text_count": 9,
+        "reaction_count": 0
+      },
+      {
+        "id": "15:26",
+        "name": "Brand Strip",
+        "type": "COMPONENT",
+        "x": 4260,
+        "y": -5000,
+        "width": 1240,
+        "height": 40,
+        "text_count": 5,
+        "reaction_count": 0
+      },
+      {
+        "id": "15:32",
+        "name": "Filter Panel",
+        "type": "COMPONENT",
+        "x": 100,
+        "y": -4240,
+        "width": 296,
+        "height": 1072,
+        "text_count": 27,
+        "reaction_count": 0
+      },
+      {
+        "id": "16:2",
+        "name": "01_Home",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 3597,
+        "text_count": 94,
+        "reaction_count": 13
+      },
+      {
+        "id": "16:3",
+        "name": "02_Category",
+        "type": "FRAME",
+        "x": 1640,
+        "y": 0,
+        "width": 1440,
+        "height": 2238,
+        "text_count": 111,
+        "reaction_count": 11
+      },
+      {
+        "id": "16:4",
+        "name": "03_Product",
+        "type": "FRAME",
+        "x": 3280,
+        "y": 0,
+        "width": 1440,
+        "height": 2891,
+        "text_count": 96,
+        "reaction_count": 7
+      },
+      {
+        "id": "16:5",
+        "name": "04_Cart",
+        "type": "FRAME",
+        "x": 4920,
+        "y": 0,
+        "width": 1440,
+        "height": 1445,
+        "text_count": 64,
+        "reaction_count": 5
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nSHOP.CO — fashion store website\nDesign a fashion e-commerce website: discover new arrivals and best sellers, filter a category, review a product and its customer reviews, and check the cart. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 4 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the two typefaces in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the photos, the social and payment logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Home\nGoal: Get inspired and find something to buy.\nMUST INCLUDE\n• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Brands: NORDE · ATELIER K · MONVALE · RIVA · CASSEL (as wordmarks)\n• Browse by dress style: “BROWSE BY DRESS STYLE” · Casual · Formal · Party · Gym, each with its photo (Photo_Style_Casual, Photo_Style_Formal, Photo_Style_Party, Photo_Style_Gym)\n• Customer reviews: “OUR HAPPY CUSTOMERS” · previous / next (Icon_Arrow_Left, Icon_Arrow_Right) · 3 review cards with 5-star rating, name, verified mark (Icon_Verified) and quote (see DATA)\n• Footer: see DATA (Footer)\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · no item current · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Hero: “FIND CLOTHES THAT MATCH YOUR STYLE” · copy (see DATA) · “Shop Now” · stats 200+ International Brands · 2,000+ High-Quality Products · 30,000+ Happy Customers · Photo_Hero · two Icon_Sparkle\n• New Arrivals: “NEW ARRIVALS” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA) · “View All”\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Top Selling: “TOP SELLING” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA) · “View All”\nLINKS\n→ Shop Now, View All, Casual tile → 02_Category\n→ any product card → 03_Product\n→ cart (header) → 04_Cart\n02_Category\nGoal: Filter the Casual category and pick a product.\nMUST INCLUDE\n• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Breadcrumb: Home › Casual (Icon_Chevron_Right)\n• Filters: “Filters” (Icon_Filter) · T-shirts · Shorts · Shirts · Hoodie · Jeans (Icon_Chevron_Right) · “Price” range $50 – $200 · “Colors” 10 swatches (see DATA) · selected: blue (Icon_Check) · “Size” XX-Small · X-Small · Small · Medium · Large · X-Large · XX-Large · 3X-Large · 4X-Large · selected: Large · “Dress Style” Casual · Formal · Party · Gym (Icon_Chevron_Right) · “Apply Filter”\n• Footer: see DATA (Footer)\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · current: Shop · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Pagination: “Previous” (Icon_Arrow_Left) · 1 · 2 · 3 · … · 8 · 9 · 10 · “Next” (Icon_Arrow_Right) · current: 1\n• Products: 9 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA)\n• Results header: “Casual” · “Showing 1-9 of 100 Products” · “Sort by: Most Popular” (Icon_Chevron_Down)\nLINKS\n→ any product card → 03_Product\n→ Home (breadcrumb) → 01_Home\n→ cart (header) → 04_Cart\n03_Product\nGoal: Choose color and size, read reviews and add the T-shirt to the cart.\nMUST INCLUDE\n• Announcement bar: “Sign up and get 20% off to your first order.” · “Sign Up Now” · close (Icon_Close)\n• Breadcrumb: Home › Shop › Men › T-shirts (Icon_Chevron_Right)\n• Footer: see DATA (Footer)\n• Gallery: Photo_One_Life_TShirt_1 (main) · thumbnails Photo_One_Life_TShirt_1, Photo_One_Life_TShirt_2, Photo_One_Life_TShirt_3 · selected: the first\n• Header: “SHOP.CO” wordmark · navigation Shop (Icon_Chevron_Down) / On Sale / New Arrivals / Brands · current: Shop · search field “Search for products...” (Icon_Search) · cart (Icon_Cart) · account (Icon_Account)\n• Newsletter: “STAY UP TO DATE ABOUT OUR LATEST OFFERS” · email field “Enter your email address” · “Subscribe to Newsletter”\n• Options: “Select Colors” olive · teal · navy (see DATA) · selected: olive (Icon_Check) · “Choose Size” Small · Medium · Large · X-Large · selected: Large\n• Purchase: quantity − 1 + (Icon_Minus, Icon_Plus) · “Add to Cart”\n• Reviews: “All Reviews” (451) · filter (Icon_Filter) · sort “Latest” (Icon_Chevron_Down) · “Write a Review” · 6 review cards with rating, name, verified mark (Icon_Verified), more (Icon_More), quote and post date (see DATA) · “Load More Reviews”\n• Summary: “ONE LIFE GRAPHIC T-SHIRT” · rating 4.5/5 (Icon_Star, Icon_Star_Half) · $260 · old $300 · -13% · description (see DATA)\n• Tabs: Product Details · Rating & Reviews · FAQs · current: Rating & Reviews\n• You might also like: “YOU MIGHT ALSO LIKE” · 4 product cards, each with photo, name, rating (Icon_Star, Icon_Star_Half) with score, price, and old price + discount where given (see DATA)\nLINKS\n→ Add to Cart → 04_Cart\n→ Shop (breadcrumb) → 02_Category\n→ product cards → 03_Product\n04_Cart\nGoal: Review the cart and its order summary.\nMUST INCLUDE\n• Announcement bar: “Sign up and get 20% off to your first order.” ·",
+  "layer_summary": {
+    "board_count": 4,
+    "boards": [
+      {
+        "name": "01_Home",
+        "size": "1440×3597",
+        "nodes": 466,
+        "max_depth": 9,
+        "instances": 182,
+        "texts": 94,
+        "images": 0,
+        "types": [
+          "instance×182",
+          "vector×110",
+          "text×94",
+          "frame×68",
+          "group×9",
+          "rectangle×3"
+        ],
+        "names": [
+          "Announcement Bar",
+          "Sign up and get 20% off ",
+          "Sign Up Now",
+          "btn-close",
+          "Vector",
+          "Header"
+        ]
+      },
+      {
+        "name": "02_Category",
+        "size": "1440×2238",
+        "nodes": 495,
+        "max_depth": 11,
+        "instances": 156,
+        "texts": 111,
+        "images": 0,
+        "types": [
+          "instance×156",
+          "text×111",
+          "vector×108",
+          "frame×106",
+          "group×9",
+          "rectangle×3"
+        ],
+        "names": [
+          "Announcement Bar",
+          "Sign up and get 20% off ",
+          "Sign Up Now",
+          "btn-close",
+          "Vector",
+          "Header"
+        ]
+      },
+      {
+        "name": "03_Product",
+        "size": "1440×2891",
+        "nodes": 524,
+        "max_depth": 9,
+        "instances": 190,
+        "texts": 96,
+        "images": 0,
+        "types": [
+          "instance×190",
+          "vector×141",
+          "text×96",
+          "frame×80",
+          "group×9",
+          "rectangle×8"
+        ],
+        "names": [
+          "Announcement Bar",
+          "Sign up and get 20% off ",
+          "Sign Up Now",
+          "btn-close",
+          "Vector",
+          "Header"
+        ]
+      },
+      {
+        "name": "04_Cart",
+        "size": "1440×1445",
+        "nodes": 216,
+        "max_depth": 8,
+        "instances": 44,
+        "texts": 64,
+        "images": 0,
+        "types": [
+          "text×64",
+          "vector×58",
+          "instance×44",
+          "frame×39",
+          "group×9",
+          "rectangle×2"
+        ],
+        "names": [
+          "Announcement Bar",
+          "Sign up and get 20% off ",
+          "Sign Up Now",
+          "btn-close",
+          "Vector",
+          "Header"
+        ]
+      }
+    ]
+  }
+}

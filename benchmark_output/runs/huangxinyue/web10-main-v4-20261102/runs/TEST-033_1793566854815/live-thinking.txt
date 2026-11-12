@@ -1,0 +1,18 @@
+04_Mini_Cart：scrim + 右侧抽屉正常，$39.00 右对齐完整显示，Compare/Ask/Share 行在按钮下方不重叠。Shipping note "Buy $361.00 more..." 可见。Subtotal $39.00、Checkout/View Cart 按钮正常。
+
+06_Checkout：Order Summary $39.00 / $39.00 / $40.00 / $79.00 全部右对齐完整。表单完整，Pay Now、Create Account、卡片锁图标、单选按钮都正常。
+
+还有一件事：05_Cart 截图中我注意到 header 购物车图标上有黑色 badge（左上角截图显示一个黑色圆点带白字）。04_Mini_Cart 顶部 header 的 badge 是白色背景上的？看 04 截图：header 在 scrim 后面变暗了。都正常。
+
+所有 11 屏验证完毕，全部修复完成。原型链接之前已全部接线（27 个 frame 级 + 20 个 header 实例级，3 个自链接有意跳过）。
+
+还需要确认原型连接在修复后仍完好——修复只动了 y 和 x 以及一个 text characters，不会影响 reactions。修复调用没有触碰任何带 reactions 的节点（actions 行的图标/文本没有 reactions；值文本没有 reactions）。安全。
+
+最后整理最终答案。需要的元素：
+- 文件 URL: https://www.figma.com/design/raTuJeRXANVtA5RLmrbBWI/
+- 03·Workspace page ID: 8:2
+- 11 屏 ID: 01_Home=15:44, 02_Shop=24:278, 03_Product=25:433, 04_Mini_Cart=26:550, 05_Cart=27:675, 06_Checkout=28:704, 07_Sign_Up=29:765, 08_Sign_In=29:807, 09_Forgot_Password=29:833, 10_Confirmation_Code=29:858, 11_New_Password=29:871
+- 原型工作总结
+- 限制
+
+写最终答案。

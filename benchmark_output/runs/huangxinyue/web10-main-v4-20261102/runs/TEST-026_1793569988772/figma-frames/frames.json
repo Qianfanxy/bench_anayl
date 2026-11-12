@@ -1,0 +1,32 @@
+[
+  {
+    "node_id": "19:118",
+    "name": "01_Dashboard",
+    "file": "19-118.png"
+  },
+  {
+    "node_id": "24:254",
+    "name": "02_Timeline",
+    "file": "24-254.png"
+  },
+  {
+    "node_id": "29:443",
+    "name": "03_Task_Board",
+    "file": "29-443.png"
+  },
+  {
+    "node_id": "31:443",
+    "name": "04_Files",
+    "file": "31-443.png"
+  },
+  {
+    "node_id": "34:532",
+    "name": "05_Settings",
+    "file": "34-532.png"
+  },
+  {
+    "node_id": "35:576",
+    "name": "06_Messages",
+    "file": "35-576.png"
+  }
+]

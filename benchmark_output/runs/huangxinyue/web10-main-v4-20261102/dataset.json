@@ -1,0 +1,98 @@
+{
+  "protocol": "figma-benchmark/v1",
+  "kind": "dataset",
+  "id": "web10-huangxinyue",
+  "query_template": "请在以下 Figma 文件中完成完整设计：\nFigma 文件：{{figma_url}}\n请先阅读「00 · Start Here」中的设计任务，参考「01 · Foundations」中的视觉规范，复用「02 · Components」中的组件；如果文件中有「04 · Media」素材页，也请读取并使用其中的素材。最终将完整设计交付至「03 · Workspace」。\n",
+  "required_pages": [
+    "00",
+    "01",
+    "02"
+  ],
+  "optional_pages": [
+    "04"
+  ],
+  "workspace": "03 · Workspace",
+  "cases": [
+    {
+      "case_id": "case-001",
+      "source_figma_url": "https://www.figma.com/design/2Q0GuFJHXWFV6nKJTChfBz/",
+      "source_file_key": "2Q0GuFJHXWFV6nKJTChfBz",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/2Q0GuFJHXWFV6nKJTChfBz/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "2bb00c4079ce209e5154da1c7e05029e3ac07dc72c93c87283fea557261ac19b",
+      "title": "Furniro"
+    },
+    {
+      "case_id": "case-002",
+      "source_figma_url": "https://www.figma.com/design/slpZ7oYW9ULwsgXDNjdXHA/",
+      "source_file_key": "slpZ7oYW9ULwsgXDNjdXHA",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/slpZ7oYW9ULwsgXDNjdXHA/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "6f91092f362c18d3151cc14f14e2038a350710882293c19c9db34294e182106a",
+      "title": "Foodieland"
+    },
+    {
+      "case_id": "case-003",
+      "source_figma_url": "https://www.figma.com/design/MJqW2pGKpfgozMkzULp1Ne/",
+      "source_file_key": "MJqW2pGKpfgozMkzULp1Ne",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/MJqW2pGKpfgozMkzULp1Ne/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "633c7308ec22680f356c4aca6163e1ccb3b3f39652e1bf98f0880461a36b1a9e",
+      "title": "Fasco"
+    },
+    {
+      "case_id": "case-004",
+      "source_figma_url": "https://www.figma.com/design/O3xqX7yz6SWQNetHEC6PTm/",
+      "source_file_key": "O3xqX7yz6SWQNetHEC6PTm",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/O3xqX7yz6SWQNetHEC6PTm/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "252a44af5ddc9b3d95d1ad7249fa7400850503a1cda69510d02929ebd725629d",
+      "title": "Shop.co"
+    },
+    {
+      "case_id": "case-005",
+      "source_figma_url": "https://www.figma.com/design/DVZvF4tWQF60oGtdUXqfNY/",
+      "source_file_key": "DVZvF4tWQF60oGtdUXqfNY",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/DVZvF4tWQF60oGtdUXqfNY/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "ccda63fa9747eb5962b9a7771172f395de1f8246fd9258fbf2634909a318edea",
+      "title": "Northgate Homes"
+    },
+    {
+      "case_id": "case-006",
+      "source_figma_url": "https://www.figma.com/design/ZTk0l7k9c4VHhZoZHocGuw/",
+      "source_file_key": "ZTk0l7k9c4VHhZoZHocGuw",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/ZTk0l7k9c4VHhZoZHocGuw/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "8af7098d485b7b8757eee07bd18678dacb18f1a51f4f1d2d742d506988e3e8ff",
+      "title": "Octom"
+    },
+    {
+      "case_id": "case-007",
+      "source_figma_url": "https://www.figma.com/design/mzZY1AgFUnNSEMjiDb01rC/",
+      "source_file_key": "mzZY1AgFUnNSEMjiDb01rC",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/mzZY1AgFUnNSEMjiDb01rC/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "ab7dd6e1e66174cd1e9b6300716449c5d9e37426fb04976b1d2b6e9bad809eff",
+      "title": "Foodwagon"
+    },
+    {
+      "case_id": "case-008",
+      "source_figma_url": "https://www.figma.com/design/5q850sG5h8CieZrpvS6l8p/",
+      "source_file_key": "5q850sG5h8CieZrpvS6l8p",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/5q850sG5h8CieZrpvS6l8p/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "479bfea215d137d3d2e14d2c5ca1f01679f98a166804507241e836708a026290",
+      "title": "MAC Agency"
+    },
+    {
+      "case_id": "case-009",
+      "source_figma_url": "https://www.figma.com/design/c3zaMtiBbbSxN3JfJtE2Hu/",
+      "source_file_key": "c3zaMtiBbbSxN3JfJtE2Hu",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/c3zaMtiBbbSxN3JfJtE2Hu/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "8e14a516ebc9d905ef497863fa6d275b5438cab69f6e857ac38c23b897c09380",
+      "title": "Deniz Arslan 3D Portfolio"
+    },
+    {
+      "case_id": "case-010",
+      "source_figma_url": "https://www.figma.com/design/VJFMLeHGkYbNHyUaWdOGWs/",
+      "source_file_key": "VJFMLeHGkYbNHyUaWdOGWs",
+      "source_query": "请在以下Figma文件中完成完整设计:\nFigma 文件:https://www.figma.com/design/VJFMLeHGkYbNHyUaWdOGWs/\n请先阅读「00·Start Here」中的设计任务，参考「01· Foundations」中的视觉规范，复用「02·Components」中的组件，使用「04·Media」中的素材，最终将完整设计交付至「03·Workspace」。",
+      "source_query_hash": "1c071e53c7f2a1c3259a3054a34573f8cf4acc47c81c76fdda053b8b2feddb1a",
+      "title": "ABM Developer Portfolio"
+    }
+  ],
+  "content_hash": "b83fde03db52ac2b74c9313006fd4739b3adee017671d593d51f4c0892f804b2"
+}

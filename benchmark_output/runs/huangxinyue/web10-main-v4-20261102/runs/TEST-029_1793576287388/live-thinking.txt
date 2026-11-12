@@ -1,0 +1,1 @@
+The user is asking me to check the header nav underline, which renders as one blue line at 1000px; the earlier doubled look was the About page header underline, which is correct. I verify the Work page links (About to 02_About, Work to 01_Work), the project blocks' up-right icon, and the hover variants.

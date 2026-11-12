@@ -1,0 +1,53 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4767",
+      "nodes": 289,
+      "max_depth": 8,
+      "instances": 82,
+      "texts": 75,
+      "images": 0,
+      "types": [
+        "instance×82",
+        "text×75",
+        "frame×65",
+        "vector×59",
+        "rectangle×8"
+      ],
+      "names": [
+        "Header",
+        "Logo",
+        "Logo_Mark",
+        "Vector",
+        "Wordmark",
+        "Navigation"
+      ]
+    },
+    {
+      "name": "02_Property",
+      "size": "1440×3213",
+      "nodes": 350,
+      "max_depth": 8,
+      "instances": 113,
+      "texts": 84,
+      "images": 0,
+      "types": [
+        "instance×113",
+        "text×84",
+        "vector×83",
+        "frame×62",
+        "rectangle×8"
+      ],
+      "names": [
+        "Header",
+        "Logo",
+        "Logo_Mark",
+        "Vector",
+        "Wordmark",
+        "Navigation"
+      ]
+    }
+  ]
+}

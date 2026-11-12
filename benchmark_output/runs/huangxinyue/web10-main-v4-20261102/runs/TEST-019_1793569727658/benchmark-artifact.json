@@ -1,0 +1,124 @@
+{
+  "file_key": "SxmsjomtdkiWGWyoVDnAOU",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "4:2",
+      "name": "03 · Workspace",
+      "child_count": 3
+    }
+  ],
+  "workspace": {
+    "id": "4:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "5:41",
+        "name": "Components · da. design system",
+        "type": "SECTION",
+        "x": 3100,
+        "y": 0,
+        "width": 1600,
+        "height": 5592,
+        "text_count": 65,
+        "reaction_count": 17
+      },
+      {
+        "id": "7:33",
+        "name": "01_Work",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 2795,
+        "text_count": 30,
+        "reaction_count": 12
+      },
+      {
+        "id": "7:128",
+        "name": "02_About",
+        "type": "FRAME",
+        "x": 1540,
+        "y": 0,
+        "width": 1440,
+        "height": 2380,
+        "text_count": 24,
+        "reaction_count": 10
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nDeniz Arslan — 3D artist portfolio\nDesign a two-page personal portfolio for a 3D artist and sculptor: a work page with three projects and an about page with skills and contact. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 2 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives no Button or Text Field: the source has neither (every action is a text link). Design the header, footer, link style, current-page state and every content block as reusable components in your file.\n5. Use the portrait photo and the icons from 04 · Media. The three project images are not supplied in the source — use image placeholders. The logo “da.” is plain text.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Work\nGoal: See who the artist is and browse three projects.\nMUST INCLUDE\n• Footer: “Deniz Arslan ⏤ 2020” · Artstation · LinkedIn · Twitter\n• Header: logo “da.” · navigation Work / About / Playground / Contact · current: Work\n• Intro: “Hello, I’m Deniz.” · “A senior-year design student who is trying to specialize in 3D modeling & texturing.” · scroll cue (Icon_Arrow_Down)\n• Projects: 3 project blocks, each with number and name, description, tools line where given, link or status, and an image placeholder (see DATA)\nLINKS\n→ About (nav) → 02_About\n→ logo “da.”, Work (nav) → 01_Work (self)\n02_About\nGoal: Learn about the artist’s background and skills, and get in touch.\nMUST INCLUDE\n• Contact: “I’d be thrilled to hear about your next project” (Icon_Arrow_Right) · “deniz.arslan@example.com” · “View Resume”\n• Footer: “Deniz Arslan ⏤ 2020” · Artstation · LinkedIn · Twitter\n• Header: logo “da.” · navigation Work / About / Playground / Contact · current: About\n• Intro: “Hi, I’m Deniz Arslan, 3D artist & sculptor.” · biography (2 paragraphs, see DATA) · Photo_Profile\n• Skills: “Main Software” and “Main Skills”, each with its list (see DATA)\nLINKS\n→ logo “da.”, Work (nav) → 01_Work\nNavigation structure\n• Two pages share the header and footer. The current page is shown in the navigation.\n• Work → 01_Work · About → 02_About · logo “da.” → 01_Work.\n• Entry only (no frame): Playground, Contact, project links, Artstation / LinkedIn / Twitter, the email address, View Resume.\nFixed data & copy\nUse these values verbatim.\nProjects (in order)\n01 / Goblin Bust — “Goblin concept digital sculpture with human-like skin. Learned a lot of quick tips and look development.” · tools: “Sculpted in ZBrush, retopologized and UV-mapped in Maya, textured in Mari, rendered with Arnold.” · link “More shots from this project ↗”\n02 / Skin Shader Study — “Subsurface weight, specular roughness and diffuse maps generated with procedural and manual techniques.” · link “See case study →”\n03 / Creature Concept — “Experimental creature modeling for a school project.” · status “Project WIP” (not a link)\nBiography (02_About)\n“My work is mainly focused on 3D modeling, texturing and rendering. I like exploring creatures with a touch of dark surrealism for characters and production.”\n“Now I’m an interactive media design student in Istanbul ⏤ currently freelancing and seeking internship opportunities.”\nSkills (02_About)\nMain Software: Pixologic ZBrush, Autodesk Maya, The Foundry Mari, Arnold Renderer, Blender, Forger · Adobe CC, Figma, Ableton\nMain Skills: Organic and Polygonal Modeling, UV Layout, Texturing, Retopology, Illustration, Sound Design\nWhat is fixed · what is yours\nFixed (given)\n• Frame names and links\n• Must-include content (what, not how)\n• All data and copy\n• Brand colors #181717 and #2429AF, and DM Sans\n• Media: portrait photo, icons\nYours (designer decides)\n• Layout, grid, grouping, order and emphasis on both pages\n• All other colors: page background, secondary text, dividers, image placeholders\n• Type scale, spacing\n• All states: current page, link hover\n• Header, footer, link style, project block, skill list, contact block\n• How the portrait is cropped and placed\nHow it is evaluated\nYour file is compared with this brief on coverage, data and flow — not on visual similarity to any original.\n1. Checklist coverage per frame\n2. Data & copy accuracy\n3. Flow & prototype completeness\n4. Information hierarchy\n5. Visual quality & consistency of your own system\n6. Component reuse (shared header / footer)\nDeliverable: the link to your own Figma file containing the 2 named frames, your components and the prototype.",
+  "layer_summary": {
+    "board_count": 2,
+    "boards": [
+      {
+        "name": "01_Work",
+        "size": "1440×2795",
+        "nodes": 76,
+        "max_depth": 6,
+        "instances": 20,
+        "texts": 30,
+        "images": 0,
+        "types": [
+          "text×30",
+          "instance×20",
+          "frame×17",
+          "rectangle×4",
+          "line×3",
+          "vector×1"
+        ],
+        "names": [
+          "Header",
+          "Logo",
+          "Navigation",
+          "Nav/Work",
+          "Label",
+          "Indicator"
+        ]
+      },
+      {
+        "name": "02_About",
+        "size": "1440×2380",
+        "nodes": 58,
+        "max_depth": 5,
+        "instances": 17,
+        "texts": 24,
+        "images": 0,
+        "types": [
+          "text×24",
+          "instance×17",
+          "frame×12",
+          "rectangle×4",
+          "vector×1"
+        ],
+        "names": [
+          "Header",
+          "Logo",
+          "Navigation",
+          "Nav/Work",
+          "Label",
+          "Indicator"
+        ]
+      }
+    ]
+  }
+}

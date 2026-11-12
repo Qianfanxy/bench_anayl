@@ -1,0 +1,437 @@
+{
+  "file_key": "dMvhv5xjPfiWiv8wAM1nCY",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "8:2",
+      "name": "03 · Workspace",
+      "child_count": 12
+    }
+  ],
+  "workspace": {
+    "id": "8:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "10:2",
+        "name": "FASCO · Local Components",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 1500,
+        "height": 6131,
+        "render_bounds": {
+          "width": 1920,
+          "height": 6131
+        },
+        "text_count": 74,
+        "reaction_count": 5
+      },
+      {
+        "id": "13:44",
+        "name": "01_Home",
+        "type": "FRAME",
+        "x": 2400,
+        "y": 0,
+        "width": 1920,
+        "height": 6315,
+        "text_count": 63,
+        "reaction_count": 4
+      },
+      {
+        "id": "22:19",
+        "name": "02_Shop",
+        "type": "FRAME",
+        "x": 4560,
+        "y": 0,
+        "width": 1920,
+        "height": 4104,
+        "text_count": 40,
+        "reaction_count": 12
+      },
+      {
+        "id": "25:2",
+        "name": "03_Product",
+        "type": "FRAME",
+        "x": 6720,
+        "y": 0,
+        "width": 1920,
+        "height": 3855,
+        "text_count": 36,
+        "reaction_count": 4
+      },
+      {
+        "id": "27:2",
+        "name": "04_Mini_Cart",
+        "type": "FRAME",
+        "x": 8880,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "text_count": 11,
+        "reaction_count": 6
+      },
+      {
+        "id": "28:2",
+        "name": "05_Cart",
+        "type": "FRAME",
+        "x": 11040,
+        "y": 0,
+        "width": 1920,
+        "height": 1479.0001220703125,
+        "text_count": 16,
+        "reaction_count": 5
+      },
+      {
+        "id": "29:2",
+        "name": "06_Checkout",
+        "type": "FRAME",
+        "x": 13200,
+        "y": 0,
+        "width": 1920,
+        "height": 2357,
+        "text_count": 23,
+        "reaction_count": 4
+      },
+      {
+        "id": "30:2",
+        "name": "07_Sign_Up",
+        "type": "FRAME",
+        "x": 15360,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "text_count": 6,
+        "reaction_count": 2
+      },
+      {
+        "id": "31:2",
+        "name": "08_Sign_In",
+        "type": "FRAME",
+        "x": 17520,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "text_count": 7,
+        "reaction_count": 3
+      },
+      {
+        "id": "31:39",
+        "name": "09_Forgot_Password",
+        "type": "FRAME",
+        "x": 19680,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "text_count": 5,
+        "reaction_count": 2
+      },
+      {
+        "id": "31:67",
+        "name": "10_Confirmation_Code",
+        "type": "FRAME",
+        "x": 21840,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "text_count": 5,
+        "reaction_count": 1
+      },
+      {
+        "id": "31:83",
+        "name": "11_New_Password",
+        "type": "FRAME",
+        "x": 24000,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "text_count": 4,
+        "reaction_count": 1
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nFASCO — fashion store website\nDesign a fashion e-commerce website: land on the home page, browse the shop, open a product, add it to the cart, review the cart, check out, and sign up, sign in or recover an account. Desktop web, 1920 wide, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 11 frames below, named exactly as listed (one state per frame), and wire them as a clickable prototype with the listed links.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The brand color and the two typefaces in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button and a default Text Field. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the photos, the avatars, the sign-in logos and the icons from 04 · Media.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Home\nGoal: Discover deals, new arrivals and the brand.\nMUST INCLUDE\n• Brands: Minimog · Retrolie · Brook · Learts · Vagabond (as wordmarks)\n• Collection banner: Photo_Collection with item labels “Flat Cap” · “Cotton Shirt” · “Suspender” · “Leather Shoes” · “Men Collection” · “Classic Gentleman” · “DESCRIPTION” · copy (see DATA) · “Size:” M · $100.00 · “Buy Now”\n• Deals Of The Month: “Deals Of The Month” · copy (see DATA) · “Buy Now” · “Hurry, Before It’s Too Late!” · countdown 02 Days · 06 Hr · 05 Mins · 30 Sec · deal slides Photo_Deal_1, Photo_Deal_2, Photo_Deal_3 · current slide card “01 — Spring Sale” · “30% OFF” · previous / next (Icon_Chevron_Left, Icon_Chevron_Right) · slide indicator: 4 slides, current 1\n• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA)\n• Footer: “FASCO” · Support Center · Invoicing · Contract · Careers · Blog · FAQs · “Copyright © 2022 FASCO. All Rights Reserved.”\n• Header: “FASCO” wordmark · navigation Home / Deals / New Arrivals / Packages · current: Home · “Sign in” · “Sign Up”\n• Hero: Photo_Hero_Left · Photo_Hero_Top · Photo_Hero_Bottom · Photo_Hero_Right · “ULTIMATE” · “SALE” · “NEW COLLECTION” · “SHOP NOW”\n• Instagram: “Follow Us On Instagram” · copy (see DATA) · Photo_Instagram_1 – Photo_Instagram_7\n• New Arrivals: “New Arrivals” · copy (see DATA) · tabs Men’s Fashion · Women’s Fashion · Women Accessories · Men Accessories · Discount Deals · current: Women’s Fashion · 6 product cards (see DATA) · “View More”\n• Newsletter: “Subscribe To Our Newsletter” · copy (see DATA) · email field “michael@example.com” · “Subscribe Now” · Photo_Subscribe_Left · Photo_Subscribe_Right\n• Testimonials: “This Is What Our Customers Say” · copy (see DATA) · 3 testimonial cards with avatar, quote, rating (Icon_Star), name and role (see DATA) · current: James K. · previous / next (Icon_Chevron_Left, Icon_Chevron_Right)\nLINKS\n→ SHOP NOW, View More → 02_Shop\n→ Sign in → 08_Sign_In\n→ Sign Up → 07_Sign_Up\n02_Shop\nGoal: Filter the catalog and pick a product.\nMUST INCLUDE\n• Collection banner: Photo_Collection with item labels “Flat Cap” · “Cotton Shirt” · “Suspender” · “Leather Shoes” · “Men Collection” · “Classic Gentleman” · “DESCRIPTION” · copy (see DATA) · “Size:” M · $100.00 · “Buy Now”\n• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA)\n• Filters: “Filters” · Size S · M · L · XL · Colors (swatches) · Prices $0-$50 · $50-$100 · $100-$150 · $150-$200 · $300-$400 · Brands Minimog · Retrolie · Brook · Learts · Vagabond · Abby · Collections All products · Best sellers · New arrivals · Accessories · Tags Fashion · Hats · Sandal · Belt · Bags · Sneaker · Denim · Sunglasses · Beachwear\n• Footer: “FASCO” · Home · Shop · Products · Pages · “Copyright © 2022 FASCO. All Rights Reserved.”\n• Header: “FASCO” wordmark · navigation Home / Shop / Products / Pages · current: Shop · search (Icon_Search) · account (Icon_Account) · wishlist (Icon_Star) · cart (Icon_Cart)\n• Instagram: “Follow Us On Instagram” · copy (see DATA) · Photo_Instagram_1 – Photo_Instagram_7\n• Newsletter: “Subscribe To Our Newsletter” · copy (see DATA) · email field “michael@example.com” · “Subscribe Now” · Photo_Subscribe_Left · Photo_Subscribe_Right\n• Page title: “Fashion” · breadcrumb Home › Fashion (Icon_Chevron_Right)\n• Pagination: 1 · 2 · 3 · next (Icon_Chevron_Right) · current: 1\n• Products: 9 product cards with photo, name, price and old price where given; “Sold Out” on Linen-blend Shirt (see DATA)\n• Toolbar: sort “Best selling” (Icon_Chevron_Down) · view options grid / list (Icon_View_Grid, Icon_View_List) · current: grid\nLINKS\n→ any product card → 03_Product\n→ cart (header) → 05_Cart\n→ account (header) → 08_Sign_In\n03_Product\nGoal: Choose size and color for the Denim Jacket and add it to the cart.\nMUST INCLUDE\n• Actions: Compare (Icon_Compare) · Ask a question (Icon_Question) · Share (Icon_Share)\n• Collection banner: Photo_Collection with item labels “Flat Cap” · “Cotton Shirt” · “Suspender” · “Leather Shoes” · “Men Collection” · “Classic Gentleman” · “DESCRIPTION” · copy (see DATA) · “Size:” M · $100.00 · “Buy Now”\n• Delivery: “Estimated Delivery:” Jul 30 - Aug 03 (Icon_Delivery) · “Free Shipping & Returns:” On all orders over $75 (Icon_Returns) · “Guarantee safe & secure checkout”\n• Features: High Quality · Warranty Protection · Free Shipping · 24 / 7 Support, each with icon and line (see DATA)\n• Footer: “FASCO” · Home · Shop · Products · Pages · “Copyright © 2022 FASCO. All Rights Reserved.”\n• Gallery: Photo_Denim_Jacket_Blue_2 (main) · thumbnails Photo_Denim_Jacket_Lilac, Photo_Denim_Jacket_Blue_1, Photo_Denim_Jacket_Blue_2, Photo_Denim_Jacket_Blue_3, Photo_Denim_Jacket_Black_1, Photo_Denim_Jacket_Black_2\n• Header: “FASCO” wordmark · navigation Home / Shop / Products / Pages · current: Products · search (Icon_Search) · account (Icon_Account) · wishlist (Icon_Star) · cart (Icon_",
+  "layer_summary": {
+    "board_count": 11,
+    "boards": [
+      {
+        "name": "01_Home",
+        "size": "1920×6315",
+        "nodes": 368,
+        "max_depth": 7,
+        "instances": 92,
+        "texts": 112,
+        "images": 6,
+        "types": [
+          "text×112",
+          "instance×92",
+          "frame×92",
+          "vector×53",
+          "ellipse×7",
+          "rectangle×6"
+        ],
+        "names": [
+          "Header/Home",
+          "FASCO",
+          "Frame",
+          "Home",
+          "Rectangle",
+          "Deals"
+        ]
+      },
+      {
+        "name": "02_Shop",
+        "size": "1920×4104",
+        "nodes": 382,
+        "max_depth": 8,
+        "instances": 103,
+        "texts": 115,
+        "images": 9,
+        "types": [
+          "text×115",
+          "instance×103",
+          "frame×80",
+          "vector×61",
+          "ellipse×12",
+          "rectangle-image×9"
+        ],
+        "names": [
+          "Header/Store",
+          "FASCO",
+          "Frame",
+          "Home",
+          "Shop",
+          "Rectangle"
+        ]
+      },
+      {
+        "name": "03_Product",
+        "size": "1920×3855",
+        "nodes": 241,
+        "max_depth": 6,
+        "instances": 52,
+        "texts": 79,
+        "images": 0,
+        "types": [
+          "text×79",
+          "frame×73",
+          "instance×52",
+          "vector×24",
+          "ellipse×7",
+          "rectangle×6"
+        ],
+        "names": [
+          "Header/Store",
+          "FASCO",
+          "Frame",
+          "Home",
+          "Shop",
+          "Products"
+        ]
+      },
+      {
+        "name": "04_Mini_Cart",
+        "size": "1920×1080",
+        "nodes": 60,
+        "max_depth": 6,
+        "instances": 9,
+        "texts": 20,
+        "images": 0,
+        "types": [
+          "frame×23",
+          "text×20",
+          "instance×9",
+          "vector×5",
+          "rectangle×3"
+        ],
+        "names": [
+          "Header/Store",
+          "FASCO",
+          "Frame",
+          "Home",
+          "Shop",
+          "Products"
+        ]
+      },
+      {
+        "name": "05_Cart",
+        "size": "1920×1479.0001220703125",
+        "nodes": 95,
+        "max_depth": 6,
+        "instances": 13,
+        "texts": 35,
+        "images": 0,
+        "types": [
+          "frame×39",
+          "text×35",
+          "instance×13",
+          "vector×5",
+          "rectangle×3"
+        ],
+        "names": [
+          "Header/Store",
+          "FASCO",
+          "Frame",
+          "Home",
+          "Shop",
+          "Products"
+        ]
+      },
+      {
+        "name": "06_Checkout",
+        "size": "1920×2357",
+        "nodes": 136,
+        "max_depth": 7,
+        "instances": 23,
+        "texts": 57,
+        "images": 0,
+        "types": [
+          "text×57",
+          "frame×48",
+          "instance×23",
+          "vector×6",
+          "rectangle×2"
+        ],
+        "names": [
+          "Header/Store",
+          "FASCO",
+          "Frame",
+          "Home",
+          "Shop",
+          "Products"
+        ]
+      },
+      {
+        "name": "07_Sign_Up",
+        "size": "1920×1080",
+        "nodes": 45,
+        "max_depth": 6,
+        "instances": 11,
+        "texts": 20,
+        "images": 0,
+        "types": [
+          "text×20",
+          "frame×12",
+          "instance×11",
+          "rectangle×2"
+        ],
+        "names": [
+          "Frame",
+          "Photo_Sign_Up",
+          "FASCO",
+          "FASCO Terms & Conditions",
+          "Create Account",
+          "Text Field"
+        ]
+      },
+      {
+        "name": "08_Sign_In",
+        "size": "1920×1080",
+        "nodes": 30,
+        "max_depth": 6,
+        "instances": 7,
+        "texts": 13,
+        "images": 0,
+        "types": [
+          "text×13",
+          "frame×8",
+          "instance×7",
+          "rectangle×2"
+        ],
+        "names": [
+          "Frame",
+          "Photo_Sign_In",
+          "FASCO",
+          "FASCO Terms & Conditions",
+          "Sign In To FASCO",
+          "Text Field"
+        ]
+      },
+      {
+        "name": "09_Forgot_Password",
+        "size": "1920×1080",
+        "nodes": 27,
+        "max_depth": 6,
+        "instances": 5,
+        "texts": 13,
+        "images": 0,
+        "types": [
+          "text×13",
+          "frame×9",
+          "instance×5"
+        ],
+        "names": [
+          "Frame",
+          "Photo_Sign_In",
+          "FASCO",
+          "FASCO Terms & Conditions",
+          "Forgot Password",
+          "Text Field"
+        ]
+      },
+      {
+        "name": "10_Confirmation_Code",
+        "size": "1920×1080",
+        "nodes": 15,
+        "max_depth": 6,
+        "instances": 2,
+        "texts": 7,
+        "images": 0,
+        "types": [
+          "text×7",
+          "frame×6",
+          "instance×2"
+        ],
+        "names": [
+          "Frame",
+          "Photo_Sign_In",
+          "FASCO",
+          "FASCO Terms & Conditions",
+          "Enter The Confirmation C",
+          "Text Field"
+        ]
+      },
+      {
+        "name": "11_New_Password",
+        "size": "1920×1080",
+        "nodes": 18,
+        "max_depth": 6,
+        "instances": 3,
+        "texts": 8,
+        "images": 0,
+        "types": [
+          "text×8",
+          "frame×7",
+          "instance×3"
+        ],
+        "names": [
+          "Frame",
+          "Photo_Sign_In",
+          "FASCO",
+          "FASCO Terms & Conditions",
+          "Enter Your New Password",
+          "Text Field"
+        ]
+      }
+    ]
+  }
+}

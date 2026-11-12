@@ -1,0 +1,51 @@
+{
+  "board_count": 2,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4209",
+      "nodes": 286,
+      "max_depth": 8,
+      "instances": 68,
+      "texts": 81,
+      "images": 0,
+      "types": [
+        "text×81",
+        "frame×77",
+        "instance×68",
+        "vector×60"
+      ],
+      "names": [
+        "Header",
+        "Logo",
+        "Logo_Mark",
+        "Vector",
+        "NORTHGATE",
+        "Navigation"
+      ]
+    },
+    {
+      "name": "02_Property",
+      "size": "1440×2992",
+      "nodes": 363,
+      "max_depth": 9,
+      "instances": 97,
+      "texts": 87,
+      "images": 0,
+      "types": [
+        "instance×97",
+        "frame×93",
+        "text×87",
+        "vector×86"
+      ],
+      "names": [
+        "Header",
+        "Logo",
+        "Logo_Mark",
+        "Vector",
+        "NORTHGATE",
+        "Navigation"
+      ]
+    }
+  ]
+}

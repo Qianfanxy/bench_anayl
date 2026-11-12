@@ -1,0 +1,150 @@
+{
+  "board_count": 6,
+  "boards": [
+    {
+      "name": "■ Assets",
+      "size": "4700×748",
+      "nodes": 100,
+      "max_depth": 3,
+      "instances": 71,
+      "texts": 3,
+      "images": 0,
+      "types": [
+        "component×71",
+        "vector×25",
+        "text×3",
+        "frame×1"
+      ],
+      "names": [
+        "Logo_Facebook",
+        "Vector",
+        "Logo_Foodieland",
+        "Logo_Instagram",
+        "Logo_Twitter",
+        "Decor_Onion"
+      ]
+    },
+    {
+      "name": "01_Home",
+      "size": "1440×5783",
+      "nodes": 564,
+      "max_depth": 7,
+      "instances": 210,
+      "texts": 116,
+      "images": 0,
+      "types": [
+        "instance×210",
+        "vector×126",
+        "text×116",
+        "frame×111",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header / Home",
+        "Logo_Foodieland",
+        "Nav",
+        "Nav / Home",
+        "Label row",
+        "Label"
+      ]
+    },
+    {
+      "name": "02_Recipe",
+      "size": "1440×4283",
+      "nodes": 288,
+      "max_depth": 7,
+      "instances": 89,
+      "texts": 82,
+      "images": 0,
+      "types": [
+        "instance×89",
+        "text×82",
+        "frame×75",
+        "vector×41",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "Logo_Foodieland",
+        "Nav",
+        "Nav / Home",
+        "Label",
+        "Nav / Recipes"
+      ]
+    },
+    {
+      "name": "03_Blog",
+      "size": "1440×2872",
+      "nodes": 180,
+      "max_depth": 6,
+      "instances": 57,
+      "texts": 58,
+      "images": 0,
+      "types": [
+        "text×58",
+        "instance×57",
+        "frame×47",
+        "vector×11",
+        "ellipse×6",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "Logo_Foodieland",
+        "Nav",
+        "Nav / Home",
+        "Label",
+        "Nav / Recipes"
+      ]
+    },
+    {
+      "name": "04_Blog_Post",
+      "size": "1440×3703",
+      "nodes": 185,
+      "max_depth": 7,
+      "instances": 61,
+      "texts": 44,
+      "images": 0,
+      "types": [
+        "instance×61",
+        "text×44",
+        "frame×43",
+        "vector×35",
+        "rectangle×1",
+        "ellipse×1"
+      ],
+      "names": [
+        "Header",
+        "Logo_Foodieland",
+        "Nav",
+        "Nav / Home",
+        "Label",
+        "Nav / Recipes"
+      ]
+    },
+    {
+      "name": "05_Contact",
+      "size": "1440×2188",
+      "nodes": 171,
+      "max_depth": 7,
+      "instances": 57,
+      "texts": 40,
+      "images": 0,
+      "types": [
+        "instance×57",
+        "frame×42",
+        "text×40",
+        "vector×31",
+        "rectangle×1"
+      ],
+      "names": [
+        "Header",
+        "Logo_Foodieland",
+        "Nav",
+        "Nav / Home",
+        "Label",
+        "Nav / Recipes"
+      ]
+    }
+  ]
+}

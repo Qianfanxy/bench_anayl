@@ -1,0 +1,225 @@
+{
+  "board_count": 9,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4650",
+      "nodes": 205,
+      "max_depth": 6,
+      "instances": 54,
+      "texts": 76,
+      "images": 0,
+      "types": [
+        "text×76",
+        "instance×54",
+        "frame×37",
+        "rectangle×25",
+        "vector×9",
+        "ellipse×4"
+      ],
+      "names": [
+        "SiteHeader",
+        "Divider",
+        "Logo",
+        "Brand",
+        "Nav_Home",
+        "Indicator_Home"
+      ]
+    },
+    {
+      "name": "02_Shop",
+      "size": "1440×3340",
+      "nodes": 300,
+      "max_depth": 6,
+      "instances": 68,
+      "texts": 112,
+      "images": 0,
+      "types": [
+        "text×112",
+        "instance×68",
+        "frame×68",
+        "rectangle×36",
+        "vector×16"
+      ],
+      "names": [
+        "SiteHeader",
+        "Divider",
+        "Logo",
+        "Brand",
+        "Nav_Home",
+        "Nav_Shop"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1440×2500",
+      "nodes": 178,
+      "max_depth": 5,
+      "instances": 40,
+      "texts": 70,
+      "images": 0,
+      "types": [
+        "text×70",
+        "instance×40",
+        "frame×29",
+        "rectangle×21",
+        "vector×15",
+        "ellipse×3"
+      ],
+      "names": [
+        "TopBar",
+        "Home",
+        "Icon_Chevron_Right",
+        "Vector",
+        "Shop",
+        "Asgaard sofa"
+      ]
+    },
+    {
+      "name": "04_Cart_Drawer",
+      "size": "1440×1080",
+      "nodes": 85,
+      "max_depth": 5,
+      "instances": 14,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "text×32",
+        "rectangle×21",
+        "instance×14",
+        "frame×10",
+        "vector×7",
+        "ellipse×1"
+      ],
+      "names": [
+        "SiteHeader",
+        "Divider",
+        "Logo",
+        "Brand",
+        "Nav_Home",
+        "Nav_Shop"
+      ]
+    },
+    {
+      "name": "05_Comparison",
+      "size": "1440×3140",
+      "nodes": 222,
+      "max_depth": 5,
+      "instances": 29,
+      "texts": 114,
+      "images": 0,
+      "types": [
+        "text×114",
+        "rectangle×39",
+        "instance×29",
+        "frame×21",
+        "vector×19"
+      ],
+      "names": [
+        "SiteHeader",
+        "Divider",
+        "Logo",
+        "Brand",
+        "Nav_Home",
+        "Nav_Shop"
+      ]
+    },
+    {
+      "name": "06_Cart",
+      "size": "1440×1800",
+      "nodes": 110,
+      "max_depth": 5,
+      "instances": 17,
+      "texts": 46,
+      "images": 0,
+      "types": [
+        "text×46",
+        "frame×22",
+        "instance×17",
+        "rectangle×15",
+        "vector×10"
+      ],
+      "names": [
+        "SiteHeader",
+        "Divider",
+        "Logo",
+        "Brand",
+        "Nav_Home",
+        "Nav_Shop"
+      ]
+    },
+    {
+      "name": "07_Checkout",
+      "size": "1440×2900",
+      "nodes": 135,
+      "max_depth": 5,
+      "instances": 17,
+      "texts": 59,
+      "images": 0,
+      "types": [
+        "text×59",
+        "frame×31",
+        "instance×17",
+        "rectangle×14",
+        "vector×11",
+        "ellipse×3"
+      ],
+      "names": [
+        "SiteHeader",
+        "Divider",
+        "Logo",
+        "Brand",
+        "Nav_Home",
+        "Nav_Shop"
+      ]
+    },
+    {
+      "name": "08_Contact",
+      "size": "1440×2320",
+      "nodes": 114,
+      "max_depth": 5,
+      "instances": 18,
+      "texts": 49,
+      "images": 0,
+      "types": [
+        "text×49",
+        "frame×23",
+        "instance×18",
+        "rectangle×12",
+        "vector×12"
+      ],
+      "names": [
+        "SiteHeader",
+        "Divider",
+        "Logo",
+        "Brand",
+        "Nav_Home",
+        "Nav_Shop"
+      ]
+    },
+    {
+      "name": "09_Blog",
+      "size": "1440×3440",
+      "nodes": 165,
+      "max_depth": 5,
+      "instances": 34,
+      "texts": 77,
+      "images": 0,
+      "types": [
+        "text×77",
+        "instance×34",
+        "frame×23",
+        "vector×19",
+        "rectangle×12"
+      ],
+      "names": [
+        "SiteHeader",
+        "Divider",
+        "Logo",
+        "Brand",
+        "Nav_Home",
+        "Nav_Shop"
+      ]
+    }
+  ]
+}

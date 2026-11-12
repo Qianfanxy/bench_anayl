@@ -1,0 +1,253 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1920×5860",
+      "nodes": 330,
+      "max_depth": 5,
+      "instances": 106,
+      "texts": 116,
+      "images": 0,
+      "types": [
+        "text×116",
+        "instance×106",
+        "frame×54",
+        "vector×54"
+      ],
+      "names": [
+        "Header Row",
+        "Header / Home",
+        "Bar",
+        "Wordmark",
+        "Home",
+        "Deals"
+      ]
+    },
+    {
+      "name": "02_Shop",
+      "size": "1920×4010",
+      "nodes": 243,
+      "max_depth": 5,
+      "instances": 53,
+      "texts": 104,
+      "images": 0,
+      "types": [
+        "text×104",
+        "frame×70",
+        "instance×53",
+        "vector×16"
+      ],
+      "names": [
+        "Header Row",
+        "Header / Store",
+        "Bar",
+        "Wordmark",
+        "Home",
+        "Shop"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1920×3340",
+      "nodes": 214,
+      "max_depth": 5,
+      "instances": 53,
+      "texts": 86,
+      "images": 0,
+      "types": [
+        "text×86",
+        "instance×53",
+        "frame×52",
+        "vector×23"
+      ],
+      "names": [
+        "Header Row",
+        "Header / Store",
+        "Bar",
+        "Wordmark",
+        "Home",
+        "Shop"
+      ]
+    },
+    {
+      "name": "04_Mini_Cart",
+      "size": "1920×1300",
+      "nodes": 246,
+      "max_depth": 6,
+      "instances": 58,
+      "texts": 100,
+      "images": 0,
+      "types": [
+        "text×100",
+        "frame×64",
+        "instance×58",
+        "vector×24"
+      ],
+      "names": [
+        "03_Product (inactive)",
+        "Header Row",
+        "Header / Store",
+        "Bar",
+        "Wordmark",
+        "Home"
+      ]
+    },
+    {
+      "name": "05_Cart",
+      "size": "1920×1710",
+      "nodes": 79,
+      "max_depth": 5,
+      "instances": 16,
+      "texts": 42,
+      "images": 0,
+      "types": [
+        "text×42",
+        "frame×16",
+        "instance×16",
+        "vector×5"
+      ],
+      "names": [
+        "Header Row",
+        "Header / Store",
+        "Bar",
+        "Wordmark",
+        "Home",
+        "Shop"
+      ]
+    },
+    {
+      "name": "06_Checkout",
+      "size": "1920×2680",
+      "nodes": 132,
+      "max_depth": 5,
+      "instances": 22,
+      "texts": 67,
+      "images": 0,
+      "types": [
+        "text×67",
+        "frame×34",
+        "instance×22",
+        "vector×9"
+      ],
+      "names": [
+        "Header Row",
+        "Header / Store",
+        "Bar",
+        "Wordmark",
+        "Home",
+        "Shop"
+      ]
+    },
+    {
+      "name": "07_Sign_Up",
+      "size": "1920×1080",
+      "nodes": 49,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 25,
+      "images": 0,
+      "types": [
+        "text×25",
+        "frame×14",
+        "instance×10"
+      ],
+      "names": [
+        "Media Panel",
+        "Photo_Sign_Up",
+        "Scrim",
+        "Wordmark",
+        "Tagline",
+        "Form"
+      ]
+    },
+    {
+      "name": "08_Sign_In",
+      "size": "1920×1080",
+      "nodes": 34,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "frame×10",
+        "instance×6"
+      ],
+      "names": [
+        "Media Panel",
+        "Photo_Sign_In",
+        "Scrim",
+        "Wordmark",
+        "Tagline",
+        "Form"
+      ]
+    },
+    {
+      "name": "09_Forgot_Password",
+      "size": "1920×1080",
+      "nodes": 31,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 18,
+      "images": 0,
+      "types": [
+        "text×18",
+        "frame×7",
+        "instance×6"
+      ],
+      "names": [
+        "Media Panel",
+        "Photo_Sign_In",
+        "Scrim",
+        "Wordmark",
+        "Tagline",
+        "Form"
+      ]
+    },
+    {
+      "name": "10_Confirmation_Code",
+      "size": "1920×1080",
+      "nodes": 19,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "frame×4",
+        "instance×3"
+      ],
+      "names": [
+        "Media Panel",
+        "Photo_Sign_In",
+        "Scrim",
+        "Wordmark",
+        "Tagline",
+        "Form"
+      ]
+    },
+    {
+      "name": "11_New_Password",
+      "size": "1920×1080",
+      "nodes": 21,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 12,
+      "images": 0,
+      "types": [
+        "text×12",
+        "frame×5",
+        "instance×4"
+      ],
+      "names": [
+        "Media Panel",
+        "Photo_Sign_In",
+        "Scrim",
+        "Wordmark",
+        "Tagline",
+        "Form"
+      ]
+    }
+  ]
+}

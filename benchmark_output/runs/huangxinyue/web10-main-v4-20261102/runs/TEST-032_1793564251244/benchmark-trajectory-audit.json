@@ -1,0 +1,65 @@
+{
+  "kind": "benchmark-legacy-media-audit/v1",
+  "checked_at": "2026-11-01T21:00:32.356993+00:00",
+  "raw_audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/c8718ec9207cf3929cae92ac42c0750985b007aec2df88324ac0f37d91bedf2a.png",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/c8718ec9207cf3929cae92ac42c0750985b007aec2df88324ac0f37d91bedf2a.png",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/3fc07821d4e03ed70fa40d5bb32e82e71ae470715cb64f56e646bb619ebae7eb.png",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/3fc07821d4e03ed70fa40d5bb32e82e71ae470715cb64f56e646bb619ebae7eb.png",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/7a790dae1df2a569cb48ff49b0cd4093eb930c2db633a9d849bd73333ed6176f.jpg",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/50a348c4b5f1c27087322db43506d2cf59a032bcbe6e5d234aeff962bbaf2bd8.jpg",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/cff1d5fb8cc4d83f821251c0d5f6b0d7cd6eae6e210b36e7967faf3984bf11fb.jpg",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/298a6ea5809b800d26369ff2a64f2a757e1af4882120732db88c9b1c6f2fb5f7.jpg",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/f6bcfcf4a7ebc636b01c70767c954ff418f22c84e42a0f20b9df30e8b9f65962.jpg"
+    ],
+    "require_prototype": false
+  },
+  "audit": {
+    "ok": false,
+    "errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/7a790dae1df2a569cb48ff49b0cd4093eb930c2db633a9d849bd73333ed6176f.jpg",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/50a348c4b5f1c27087322db43506d2cf59a032bcbe6e5d234aeff962bbaf2bd8.jpg",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/cff1d5fb8cc4d83f821251c0d5f6b0d7cd6eae6e210b36e7967faf3984bf11fb.jpg",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/298a6ea5809b800d26369ff2a64f2a757e1af4882120732db88c9b1c6f2fb5f7.jpg",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/f6bcfcf4a7ebc636b01c70767c954ff418f22c84e42a0f20b9df30e8b9f65962.jpg"
+    ],
+    "require_prototype": false,
+    "raw_errors": [
+      "Figma create_new_file was not called",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/c8718ec9207cf3929cae92ac42c0750985b007aec2df88324ac0f37d91bedf2a.png",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/c8718ec9207cf3929cae92ac42c0750985b007aec2df88324ac0f37d91bedf2a.png",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/3fc07821d4e03ed70fa40d5bb32e82e71ae470715cb64f56e646bb619ebae7eb.png",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/3fc07821d4e03ed70fa40d5bb32e82e71ae470715cb64f56e646bb619ebae7eb.png",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/7a790dae1df2a569cb48ff49b0cd4093eb930c2db633a9d849bd73333ed6176f.jpg",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/50a348c4b5f1c27087322db43506d2cf59a032bcbe6e5d234aeff962bbaf2bd8.jpg",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/cff1d5fb8cc4d83f821251c0d5f6b0d7cd6eae6e210b36e7967faf3984bf11fb.jpg",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/298a6ea5809b800d26369ff2a64f2a757e1af4882120732db88c9b1c6f2fb5f7.jpg",
+      "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/f6bcfcf4a7ebc636b01c70767c954ff418f22c84e42a0f20b9df30e8b9f65962.jpg"
+    ],
+    "media_warnings": [
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/c8718ec9207cf3929cae92ac42c0750985b007aec2df88324ac0f37d91bedf2a.png",
+        "path": "TEST-032_1793564251244/task-000001/media/c8718ec9207cf3929cae92ac42c0750985b007aec2df88324ac0f37d91bedf2a.png",
+        "sha256": "c8718ec9207cf3929cae92ac42c0750985b007aec2df88324ac0f37d91bedf2a",
+        "width": 160,
+        "height": 60
+      },
+      {
+        "kind": "legacy_sft_png_quality",
+        "legacy_error": "missing or invalid PNG: TEST-032_1793564251244/task-000001/media/3fc07821d4e03ed70fa40d5bb32e82e71ae470715cb64f56e646bb619ebae7eb.png",
+        "path": "TEST-032_1793564251244/task-000001/media/3fc07821d4e03ed70fa40d5bb32e82e71ae470715cb64f56e646bb619ebae7eb.png",
+        "sha256": "3fc07821d4e03ed70fa40d5bb32e82e71ae470715cb64f56e646bb619ebae7eb",
+        "width": 420,
+        "height": 89
+      }
+    ],
+    "warnings": [
+      "PNG 解码与路径检查通过；旧 SFT 尺寸/色彩门槛记为告警，设计质量等待 fixed_v4 评测。"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "file_key": "N5enrxo4N7aBzKhkTSXpzU",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "00 · Start Here 设计任务",
+      "child_count": 1
+    },
+    {
+      "id": "1:2",
+      "name": "01 · Foundations 视觉规范",
+      "child_count": 1
+    },
+    {
+      "id": "1:3",
+      "name": "02 · Components 组件库",
+      "child_count": 1
+    },
+    {
+      "id": "1:4",
+      "name": "04 · Media 素材库",
+      "child_count": 1
+    },
+    {
+      "id": "4:2",
+      "name": "03 · Workspace",
+      "child_count": 2
+    }
+  ],
+  "workspace": {
+    "id": "4:2",
+    "name": "03 · Workspace",
+    "children": [
+      {
+        "id": "6:12",
+        "name": "01_Home",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 6201,
+        "text_count": 96,
+        "reaction_count": 0
+      },
+      {
+        "id": "6:13",
+        "name": "Component library · MAC",
+        "type": "FRAME",
+        "x": 1600,
+        "y": 0,
+        "width": 1000,
+        "height": 5063,
+        "render_bounds": {
+          "width": 1488,
+          "height": 5063
+        },
+        "text_count": 66,
+        "reaction_count": 0
+      }
+    ]
+  },
+  "brief": "LEVEL L2 · DESIGN TASK · v2\nMAC — digital marketing agency landing page\nDesign the landing page of a digital marketing agency: introduce the agency, prove results, show case studies, answer common questions and invite visitors to get in touch. Desktop web, 1440 wide, light mode. Work in your own new Figma file — this file is read-only reference.\nHow to work\n1. Build exactly the 1 frame below, named exactly as listed. It is a single landing page, so there is no prototype to wire.\n2. Everything in “Must include” must appear on that frame. The lists are grouped by subject and sorted alphabetically — they are not in page order and say nothing about layout, grouping, emphasis or styling. Those are your decisions.\n3. The two brand colors and the typeface in 01 · Foundations are fixed. Define every other color yourself, plus type scale, spacing, radii, elevation and the page grid, and apply them consistently.\n4. 02 · Components gives only a default Button. Design all other states, the header, the footer, the navigation and every business component as reusable components in your file.\n5. Use the logo, the social logos and the icons from 04 · Media. The source has no photography: case-study thumbnails, the video poster and the avatars are image placeholders — keep them as placeholders.\n6. Copy and data must match “Fixed data” exactly. This brief wins over anything you may know of the original kit.\nFrames · goals · must include · links\nFrame names are fixed. Must-include lists are grouped by subject and sorted A–Z: they state what is on the screen, never where it goes or how it looks.\n01_Home\nGoal: Understand what the agency does, trust it, and get in touch.\nMUST INCLUDE\n• About: “Provide the best service with out-of-the-box ideas” · “We are a passionate team of digital marketing enthusiasts dedicated to helping businesses succeed in the digital world. With years of experience and a deep understanding of the ever-evolving online landscape, we stay at the forefront of industry trends and technologies.”\n• Blog: “Digital Marketing & SEO Services That Grow Traffic & Increase Revenue” · “We are the top digital marketing agency for branding corp. We offer a full range of services to help clients improve their search engine rankings and drive more traffic to their websites.” · “See more” · 3 article cards, each with “5 min read”, title, excerpt and open (Icon_Arrow_Right) (see DATA)\n• Call to action: “Ready to work with us?” · “Get Started” (Icon_Arrow_Right)\n• Case studies: “Real-world examples of how we have helped companies achieve their marketing objectives.” · filters All Work [20] · UI/UX Design [10] · Digital Marketing [5] · Branding [5] · current filter: UI/UX Design · 3 case-study cards with image placeholders (see DATA) · the first card is shown in its hover state with “See Details”\n• FAQ: “Digital Marketing FAQs” · “As a leading digital marketing agency, we are dedicated to providing comprehensive educational resources and answering frequently asked questions to help our clients.” · “More Questions” · “Contact Us” · 4 questions (see DATA) · the first question is expanded with its answer, the other three are collapsed (Icon_Minus / Icon_Plus)\n• Footer: see DATA (Footer)\n• Header: Logo_MAC · navigation Service · Agency · Case Study · Resources (each with a dropdown, Icon_Chevron_Down) · Contact · “Get started” · notifications (Icon_Bell)\n• Hero stats: “230+” · “some big companies that we work with, and trust us very much” · progress bar (no value given) · growth badge (Icon_Trending_Up) · traffic card “Drive More Traffic and Sales” · “Drive more traffic and product sales” · 3-bar rising chart (no values given)\n• Hero: “Stay ahead of the curve with our forward-thinking” · “An award-winning SEO agency with disciplines in digital marketing, design, and website development, focused on understanding you.” · “Schedule Call” (Icon_Arrow_Right) · “View Case Study”\n• Projects & video: “920+” · “Projects finished superbly” · 4 avatar placeholders and “+” · video placeholder “HOW WE WORK” · play (Icon_Play)\n• Testimonial: “They thoroughly analyze our industry and target audience, allowing them to develop customized campaigns that effectively reach and engage our customers. Their creative ideas and cutting-edge techniques have helped us stay ahead of the competition.” · avatar placeholder · Michael Kaizer · CEO of Campfield Corp · pager “01/05” · previous / next (Icon_Arrow_Left, Icon_Arrow_Right)\n• Trusted by: “Trusted by the world’s biggest brands” · 3 client wordmarks set as text: Paywise · Campfield · Mazeline\nLINKS\nSingle-page task: no links between frames. Every button and link is entry only.\nNavigation structure\n• One frame. The header and footer are part of it.\n• Entry only (no frame): header menu items and their dropdowns, Get started, notifications, Schedule Call, View Case Study, play video, filters, See Details, case-study cards, testimonial pager, More Questions, Contact Us, FAQ questions (expand / collapse is a state on the same frame), See more, article cards, Get Started, footer links, social logos.\nFixed data & copy\nUse these values verbatim.\nCase-study cards (in order)\n1 · hover state: image placeholder with “See Details” (no caption shown)\n2 · “Ai Corporation. 2023” — “Ai Wave - Ai Chatbot Mobile App”\n3 · “Lancer Corporation. 2023” — “App Lancer - Freelance Mobile App”\nFAQ (in order)\nWhy is digital marketing important for my business? — expanded: “Digital marketing allows businesses to reach and engage with a wider audience, generate leads, drive website traffic, and increase brand visibility. It provides measurable results, allows for targeted marketing efforts, and enables businesses to adapt and optimize their strategies based on data and insights.”\nHow can digital marketing help improve my website’s visibility?\nHow long does it take to see results from digital marketing efforts?\nHow do you measure the success of digital marketing campaigns?\nArticles (in order; all “5 min read”)\nHow a Digital Marketing Agency Can Boost Your Business — “We are the top digital marketing agency for branding corp. We offer a full range of services to help clients improve their search engine rankings.”\nThe Latest Trends and Strategies with a Digital Marketing Agency — “Working with this digital marketing agency has been a true partnership. They have taken the time to understand our business and industry.”\nMaximizing ROI with the Expertise of a Digital Marketing Agency — “What sets this digital mar",
+  "layer_summary": {
+    "board_count": 1,
+    "boards": [
+      {
+        "name": "01_Home",
+        "size": "1440×6201",
+        "nodes": 302,
+        "max_depth": 8,
+        "instances": 71,
+        "texts": 96,
+        "images": 0,
+        "types": [
+          "text×96",
+          "frame×95",
+          "instance×71",
+          "vector×40"
+        ],
+        "names": [
+          "00 Header",
+          "Logo_MAC",
+          "Vector",
+          "Navigation",
+          "Nav · Service",
+          "Label"
+        ]
+      }
+    ]
+  }
+}

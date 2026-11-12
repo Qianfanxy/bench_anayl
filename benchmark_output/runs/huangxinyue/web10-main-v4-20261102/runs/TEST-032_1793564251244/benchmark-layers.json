@@ -1,0 +1,130 @@
+{
+  "board_count": 5,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4718",
+      "nodes": 449,
+      "max_depth": 4,
+      "instances": 118,
+      "texts": 112,
+      "images": 35,
+      "types": [
+        "vector×126",
+        "instance×118",
+        "text×112",
+        "frame×36",
+        "rectangle-image×35",
+        "rectangle×17"
+      ],
+      "names": [
+        "Site Header",
+        "Logo",
+        "Nav/Home",
+        "Nav/Recipes",
+        "Nav/Blog",
+        "Nav/Contact"
+      ]
+    },
+    {
+      "name": "02_Recipe",
+      "size": "1440×3536",
+      "nodes": 224,
+      "max_depth": 4,
+      "instances": 64,
+      "texts": 80,
+      "images": 13,
+      "types": [
+        "text×80",
+        "instance×64",
+        "vector×39",
+        "frame×22",
+        "rectangle-image×13",
+        "rectangle×5"
+      ],
+      "names": [
+        "Site Header",
+        "Logo",
+        "Nav/Home",
+        "Nav/Recipes",
+        "Nav/Blog",
+        "Nav/Contact"
+      ]
+    },
+    {
+      "name": "03_Blog",
+      "size": "1440×2428",
+      "nodes": 118,
+      "max_depth": 4,
+      "instances": 30,
+      "texts": 56,
+      "images": 12,
+      "types": [
+        "text×56",
+        "instance×30",
+        "rectangle-image×12",
+        "vector×11",
+        "ellipse×6",
+        "frame×2"
+      ],
+      "names": [
+        "Site Header",
+        "Logo",
+        "Nav/Home",
+        "Nav/Recipes",
+        "Nav/Blog",
+        "Nav/Contact"
+      ]
+    },
+    {
+      "name": "04_Blog_Post",
+      "size": "1440×3308",
+      "nodes": 138,
+      "max_depth": 4,
+      "instances": 33,
+      "texts": 45,
+      "images": 9,
+      "types": [
+        "text×45",
+        "vector×35",
+        "instance×33",
+        "frame×10",
+        "rectangle-image×9",
+        "rectangle×5"
+      ],
+      "names": [
+        "Site Header",
+        "Logo",
+        "Nav/Home",
+        "Nav/Recipes",
+        "Nav/Blog",
+        "Nav/Contact"
+      ]
+    },
+    {
+      "name": "05_Contact",
+      "size": "1440×2088",
+      "nodes": 132,
+      "max_depth": 4,
+      "instances": 36,
+      "texts": 39,
+      "images": 8,
+      "types": [
+        "text×39",
+        "instance×36",
+        "vector×31",
+        "frame×13",
+        "rectangle-image×8",
+        "rectangle×5"
+      ],
+      "names": [
+        "Site Header",
+        "Logo",
+        "Nav/Home",
+        "Nav/Recipes",
+        "Nav/Blog",
+        "Nav/Contact"
+      ]
+    }
+  ]
+}

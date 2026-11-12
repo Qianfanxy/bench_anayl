@@ -1,0 +1,78 @@
+{
+  "board_count": 3,
+  "boards": [
+    {
+      "name": "Library · Buttons & Nav",
+      "size": "867×632",
+      "nodes": 18,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "text×8",
+        "component×7",
+        "component-set×2",
+        "ellipse×1"
+      ],
+      "names": [
+        "Button",
+        "Variant=Primary, State=D",
+        "Get In Touch",
+        "Variant=Primary, State=H",
+        "Variant=Ghost, State=Def",
+        "Download CV"
+      ]
+    },
+    {
+      "name": "Library · Sections & Cards",
+      "size": "1500×1867",
+      "nodes": 90,
+      "max_depth": 6,
+      "instances": 37,
+      "texts": 19,
+      "images": 0,
+      "types": [
+        "instance×27",
+        "text×19",
+        "vector×15",
+        "frame×12",
+        "component×10",
+        "rectangle×5"
+      ],
+      "names": [
+        "Header",
+        "Logo_ABM",
+        "Nav",
+        "Nav Item",
+        "Home",
+        "Ellipse"
+      ]
+    },
+    {
+      "name": "01_Home",
+      "size": "1440×3135",
+      "nodes": 128,
+      "max_depth": 7,
+      "instances": 37,
+      "texts": 32,
+      "images": 0,
+      "types": [
+        "instance×37",
+        "text×32",
+        "frame×24",
+        "rectangle×20",
+        "vector×12",
+        "ellipse×3"
+      ],
+      "names": [
+        "Header",
+        "Logo_ABM",
+        "Nav",
+        "Nav Item",
+        "Home",
+        "Ellipse"
+      ]
+    }
+  ]
+}

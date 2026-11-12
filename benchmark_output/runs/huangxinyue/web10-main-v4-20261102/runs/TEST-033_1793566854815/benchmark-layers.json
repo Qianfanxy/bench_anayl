@@ -1,0 +1,266 @@
+{
+  "board_count": 11,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1920×5670",
+      "nodes": 295,
+      "max_depth": 4,
+      "instances": 111,
+      "texts": 108,
+      "images": 0,
+      "types": [
+        "instance×111",
+        "text×108",
+        "vector×51",
+        "frame×15",
+        "rectangle×10"
+      ],
+      "names": [
+        "Header",
+        "Wordmark",
+        "NavHome",
+        "NavDeals",
+        "NavNew",
+        "NavPackages"
+      ]
+    },
+    {
+      "name": "02_Shop",
+      "size": "1920×4110",
+      "nodes": 240,
+      "max_depth": 4,
+      "instances": 72,
+      "texts": 99,
+      "images": 0,
+      "types": [
+        "text×99",
+        "instance×72",
+        "rectangle×26",
+        "frame×21",
+        "vector×16",
+        "ellipse×6"
+      ],
+      "names": [
+        "Header",
+        "Wordmark",
+        "NavHome",
+        "NavShop",
+        "NavProducts",
+        "NavPages"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1920×3340",
+      "nodes": 181,
+      "max_depth": 4,
+      "instances": 48,
+      "texts": 79,
+      "images": 0,
+      "types": [
+        "text×79",
+        "instance×48",
+        "vector×22",
+        "rectangle×15",
+        "frame×13",
+        "ellipse×4"
+      ],
+      "names": [
+        "Header",
+        "Wordmark",
+        "NavHome",
+        "NavShop",
+        "NavProducts",
+        "NavPages"
+      ]
+    },
+    {
+      "name": "04_Mini_Cart",
+      "size": "1920×3340",
+      "nodes": 212,
+      "max_depth": 4,
+      "instances": 54,
+      "texts": 94,
+      "images": 0,
+      "types": [
+        "text×94",
+        "instance×54",
+        "vector×24",
+        "rectangle×21",
+        "frame×14",
+        "ellipse×5"
+      ],
+      "names": [
+        "Header",
+        "Wordmark",
+        "NavHome",
+        "NavShop",
+        "NavProducts",
+        "NavPages"
+      ]
+    },
+    {
+      "name": "05_Cart",
+      "size": "1920×1520",
+      "nodes": 62,
+      "max_depth": 3,
+      "instances": 10,
+      "texts": 37,
+      "images": 0,
+      "types": [
+        "text×37",
+        "instance×10",
+        "rectangle×8",
+        "vector×5",
+        "ellipse×1",
+        "frame×1"
+      ],
+      "names": [
+        "Header",
+        "Wordmark",
+        "NavHome",
+        "NavShop",
+        "NavProducts",
+        "NavPages"
+      ]
+    },
+    {
+      "name": "06_Checkout",
+      "size": "1920×1800",
+      "nodes": 109,
+      "max_depth": 3,
+      "instances": 23,
+      "texts": 55,
+      "images": 0,
+      "types": [
+        "text×55",
+        "instance×23",
+        "frame×13",
+        "vector×8",
+        "rectangle×7",
+        "ellipse×3"
+      ],
+      "names": [
+        "Header",
+        "Wordmark",
+        "NavHome",
+        "NavShop",
+        "NavProducts",
+        "NavPages"
+      ]
+    },
+    {
+      "name": "07_Sign_Up",
+      "size": "1920×1080",
+      "nodes": 40,
+      "max_depth": 3,
+      "instances": 11,
+      "texts": 21,
+      "images": 0,
+      "types": [
+        "text×21",
+        "instance×11",
+        "frame×6",
+        "rectangle×2"
+      ],
+      "names": [
+        "SidePhoto",
+        "Wordmark",
+        "Title",
+        "GoogleBtn",
+        "Logo",
+        "Label"
+      ]
+    },
+    {
+      "name": "08_Sign_In",
+      "size": "1920×1080",
+      "nodes": 24,
+      "max_depth": 3,
+      "instances": 7,
+      "texts": 13,
+      "images": 0,
+      "types": [
+        "text×13",
+        "instance×7",
+        "rectangle×2",
+        "frame×2"
+      ],
+      "names": [
+        "SidePhoto",
+        "Wordmark",
+        "Title",
+        "GoogleBtn",
+        "Logo",
+        "Label"
+      ]
+    },
+    {
+      "name": "09_Forgot_Password",
+      "size": "1920×1080",
+      "nodes": 24,
+      "max_depth": 3,
+      "instances": 6,
+      "texts": 14,
+      "images": 0,
+      "types": [
+        "text×14",
+        "instance×6",
+        "frame×4"
+      ],
+      "names": [
+        "SidePhoto",
+        "Wordmark",
+        "Title",
+        "Copy",
+        "FirstField",
+        "Label"
+      ]
+    },
+    {
+      "name": "10_Confirmation_Code",
+      "size": "1920×1080",
+      "nodes": 12,
+      "max_depth": 3,
+      "instances": 3,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "text×8",
+        "instance×3",
+        "frame×1"
+      ],
+      "names": [
+        "SidePhoto",
+        "Wordmark",
+        "Title",
+        "Copy",
+        "CodeField",
+        "Label"
+      ]
+    },
+    {
+      "name": "11_New_Password",
+      "size": "1920×1080",
+      "nodes": 14,
+      "max_depth": 3,
+      "instances": 4,
+      "texts": 8,
+      "images": 0,
+      "types": [
+        "text×8",
+        "instance×4",
+        "frame×2"
+      ],
+      "names": [
+        "SidePhoto",
+        "Wordmark",
+        "Title",
+        "Copy",
+        "NewPassField",
+        "Label"
+      ]
+    }
+  ]
+}

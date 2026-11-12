@@ -1,0 +1,225 @@
+{
+  "board_count": 9,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×4926",
+      "nodes": 213,
+      "max_depth": 8,
+      "instances": 61,
+      "texts": 77,
+      "images": 0,
+      "types": [
+        "text×77",
+        "instance×61",
+        "frame×54",
+        "vector×9",
+        "rectangle×8",
+        "ellipse×4"
+      ],
+      "names": [
+        "Header",
+        "Brand",
+        "Logo_Furniro",
+        "Wordmark",
+        "Navigation",
+        "Nav/Home"
+      ]
+    },
+    {
+      "name": "02_Shop",
+      "size": "1440×3527",
+      "nodes": 284,
+      "max_depth": 8,
+      "instances": 76,
+      "texts": 112,
+      "images": 0,
+      "types": [
+        "text×112",
+        "instance×76",
+        "frame×71",
+        "vector×16",
+        "rectangle×9"
+      ],
+      "names": [
+        "Header",
+        "Brand",
+        "Logo_Furniro",
+        "Wordmark",
+        "Navigation",
+        "Nav/Home"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1440×3021",
+      "nodes": 206,
+      "max_depth": 7,
+      "instances": 53,
+      "texts": 74,
+      "images": 0,
+      "types": [
+        "text×74",
+        "instance×53",
+        "frame×47",
+        "rectangle×15",
+        "vector×14",
+        "ellipse×3"
+      ],
+      "names": [
+        "Header",
+        "Brand",
+        "Logo_Furniro",
+        "Wordmark",
+        "Navigation",
+        "Nav/Home"
+      ]
+    },
+    {
+      "name": "04_Cart_Drawer",
+      "size": "1440×3021",
+      "nodes": 236,
+      "max_depth": 7,
+      "instances": 57,
+      "texts": 84,
+      "images": 0,
+      "types": [
+        "text×84",
+        "frame×58",
+        "instance×57",
+        "rectangle×17",
+        "vector×17",
+        "ellipse×3"
+      ],
+      "names": [
+        "Header",
+        "Brand",
+        "Logo_Furniro",
+        "Wordmark",
+        "Navigation",
+        "Nav/Home"
+      ]
+    },
+    {
+      "name": "05_Comparison",
+      "size": "1440×3362",
+      "nodes": 293,
+      "max_depth": 6,
+      "instances": 58,
+      "texts": 116,
+      "images": 0,
+      "types": [
+        "text×116",
+        "frame×88",
+        "instance×58",
+        "vector×20",
+        "rectangle×11"
+      ],
+      "names": [
+        "Header",
+        "Brand",
+        "Logo_Furniro",
+        "Wordmark",
+        "Navigation",
+        "Nav/Home"
+      ]
+    },
+    {
+      "name": "06_Cart",
+      "size": "1440×1655",
+      "nodes": 126,
+      "max_depth": 6,
+      "instances": 26,
+      "texts": 46,
+      "images": 0,
+      "types": [
+        "text×46",
+        "frame×36",
+        "instance×26",
+        "vector×10",
+        "rectangle×8"
+      ],
+      "names": [
+        "Header",
+        "Brand",
+        "Logo_Furniro",
+        "Wordmark",
+        "Navigation",
+        "Nav/Home"
+      ]
+    },
+    {
+      "name": "07_Checkout",
+      "size": "1440×2791",
+      "nodes": 180,
+      "max_depth": 7,
+      "instances": 49,
+      "texts": 69,
+      "images": 0,
+      "types": [
+        "text×69",
+        "instance×49",
+        "frame×40",
+        "vector×11",
+        "rectangle×9",
+        "ellipse×2"
+      ],
+      "names": [
+        "Header",
+        "Brand",
+        "Logo_Furniro",
+        "Wordmark",
+        "Navigation",
+        "Nav/Home"
+      ]
+    },
+    {
+      "name": "08_Contact",
+      "size": "1440×2329",
+      "nodes": 135,
+      "max_depth": 6,
+      "instances": 35,
+      "texts": 49,
+      "images": 0,
+      "types": [
+        "text×49",
+        "instance×35",
+        "frame×31",
+        "vector×12",
+        "rectangle×8"
+      ],
+      "names": [
+        "Header",
+        "Brand",
+        "Logo_Furniro",
+        "Wordmark",
+        "Navigation",
+        "Nav/Home"
+      ]
+    },
+    {
+      "name": "09_Blog",
+      "size": "1440×3687",
+      "nodes": 209,
+      "max_depth": 7,
+      "instances": 56,
+      "texts": 76,
+      "images": 0,
+      "types": [
+        "text×76",
+        "instance×56",
+        "frame×47",
+        "vector×19",
+        "rectangle×11"
+      ],
+      "names": [
+        "Header",
+        "Brand",
+        "Logo_Furniro",
+        "Wordmark",
+        "Navigation",
+        "Nav/Home"
+      ]
+    }
+  ]
+}

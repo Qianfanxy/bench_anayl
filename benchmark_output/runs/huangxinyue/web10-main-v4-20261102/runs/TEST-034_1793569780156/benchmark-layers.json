@@ -1,0 +1,105 @@
+{
+  "board_count": 4,
+  "boards": [
+    {
+      "name": "01_Home",
+      "size": "1440×3597",
+      "nodes": 466,
+      "max_depth": 9,
+      "instances": 182,
+      "texts": 94,
+      "images": 0,
+      "types": [
+        "instance×182",
+        "vector×110",
+        "text×94",
+        "frame×68",
+        "group×9",
+        "rectangle×3"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "btn-close",
+        "Vector",
+        "Header"
+      ]
+    },
+    {
+      "name": "02_Category",
+      "size": "1440×2238",
+      "nodes": 495,
+      "max_depth": 11,
+      "instances": 156,
+      "texts": 111,
+      "images": 0,
+      "types": [
+        "instance×156",
+        "text×111",
+        "vector×108",
+        "frame×106",
+        "group×9",
+        "rectangle×3"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "btn-close",
+        "Vector",
+        "Header"
+      ]
+    },
+    {
+      "name": "03_Product",
+      "size": "1440×2891",
+      "nodes": 524,
+      "max_depth": 9,
+      "instances": 190,
+      "texts": 96,
+      "images": 0,
+      "types": [
+        "instance×190",
+        "vector×141",
+        "text×96",
+        "frame×80",
+        "group×9",
+        "rectangle×8"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "btn-close",
+        "Vector",
+        "Header"
+      ]
+    },
+    {
+      "name": "04_Cart",
+      "size": "1440×1445",
+      "nodes": 216,
+      "max_depth": 8,
+      "instances": 44,
+      "texts": 64,
+      "images": 0,
+      "types": [
+        "text×64",
+        "vector×58",
+        "instance×44",
+        "frame×39",
+        "group×9",
+        "rectangle×2"
+      ],
+      "names": [
+        "Announcement Bar",
+        "Sign up and get 20% off ",
+        "Sign Up Now",
+        "btn-close",
+        "Vector",
+        "Header"
+      ]
+    }
+  ]
+}
